@@ -121,7 +121,10 @@ def main():
         })
     broken = [m for m in media_rows if not m["physically_present"]]
     source_genus_modules = sorted(p for p in ledger if p.endswith("/genus.json"))
-    assert len(genus_dirs) <= len(source_genus_modules), "More species genera than genus modules"
+    missing_genus_modules = sorted(
+        genus for genus in genus_dirs
+        if f"content/taxa/Asteraceae/{genus}/genus.json" not in ledger
+    )
     image_bytes = sum(v["size_bytes"] for v in image_files.values())
     text_bytes = sum(v["size_bytes"] for v in text_files.values())
     summary = {
@@ -131,7 +134,10 @@ def main():
         "audit_stage": "SOURCE_TEXT_ONLY_PHOTO_RIGHTS_UNVERIFIED_NO_CUTOVER",
         "canonical_authority_unchanged": True,
         "family_modules": 1,
+        "genus_folders_with_species": len(genus_dirs),
         "genus_modules": len(source_genus_modules),
+        "genus_lessons_missing": len(missing_genus_modules),
+        "genus_lessons_missing_names": missing_genus_modules,
         "species_records": len(cards),
         "source_total_files": len(ledger),
         "text_metadata_files": len(text_files),
