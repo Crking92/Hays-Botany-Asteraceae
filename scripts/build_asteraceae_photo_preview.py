@@ -254,8 +254,18 @@ else:
     )
 assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
+no_visible_photo_species=[
+    {"species_id":r["id"],"scientific_name":r["scientific_name"],
+     "common_name":r.get("common_name",""),
+     "curation_exclusion_reasons":sorted({x["reason"] for x in curation_decisions if x["species_id"]==r["id"]})}
+    for r in index["entries"] if r["id"] not in photo_species
+]
+assert len(photo_species)+len(no_visible_photo_species)==len(index["entries"])
 curation_summary={
     "status":"FIELD_FIRST_CREDIT_TRACEABLE_PREVIEW",
+    "source_snapshot_sha":index["source_commit_sha"],
+    "species_with_no_visible_photos":no_visible_photo_species,
+    "species_with_no_visible_photos_count":len(no_visible_photo_species),
     "archived_media_removed_or_deleted":0,
     "source_originals_and_media_rights_ledgers_unchanged":True,
     "generic_views_limit_per_species":GENERIC_VIEW_LIMIT,
