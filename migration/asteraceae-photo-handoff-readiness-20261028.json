@@ -1,0 +1,43 @@
+{
+  "status": "PHOTO_ACCOUNTING_AND_PRIVATE_LEARNER_CONTENT_HANDOFF_READY; NOT_PUBLICATION_APPROVAL",
+  "original_source_physical_photos": 459,
+  "original_source_photos_archived": 323,
+  "original_source_photos_held_with_explicit_decisions": 136,
+  "new_third_party_licensed_photos_staged_separately": 39,
+  "preview_total_image_copies": 362,
+  "species_total": 180,
+  "species_with_at_least_one_staged_gallery_photo": 179,
+  "species_without_exact_taxon_staged_gallery_photo": 1,
+  "photo_gap_species": [
+    "Pectis angustifolia var. fastigiata"
+  ],
+  "last_species_hold_provenance": [
+    {
+      "path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia-var-fastigiata/images/inat-246007542.jpg",
+      "git_blob_sha": "02dec969852050cf58f9eb2ad4cde0310d630b14",
+      "source_page": "https://www.inaturalist.org/photos/246007542",
+      "license_claim": "CC BY-NC",
+      "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE"
+    }
+  ],
+  "separate_external_photo_urls_still_to_triage": 29,
+  "historical_unreferenced_source_originals_held": 11,
+  "strict_public_pages_preview_from_last_qa": {
+    "confirmed_photos": 154,
+    "confirmed_species": 112,
+    "workflow_url": "https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40781698540",
+    "deployed": false
+  },
+  "private_repo_contains_noncommercial_and_author_permission_photos": true,
+  "production_pages_approved": false,
+  "original_hub_authority_changed": false,
+  "project_rules_changed": false,
+  "final_qa_must_still_pass_for_source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "separate_release_gates": [
+    "Inspect public/private Git history and NC/ARR provenance prior to any repo visibility change",
+    "Complete full family genus-module coverage and hub glossary/quiz navigation assessment",
+    "Visually confirm real field anatomy arrows instead of assuming photograph presence equals anatomy readiness",
+    "Obtain owner approval for Pages rollout, hub redirects and rollback"
+  ],
+  "recommendation": "Move primary content migration lane to Fabaceae after final visual and rights/handoff QA; retain Pectis variety and 136 source hold decisions as tracked maintenance."
+}
