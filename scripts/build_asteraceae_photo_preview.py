@@ -28,9 +28,12 @@ inat_taxon_path=STAGING/"migration/asteraceae-upstream-inat-taxon-120-ledger.jso
 inat_taxon_verified=json.loads(inat_taxon_path.read_text()) if inat_taxon_path.is_file() else {}
 gbif_path=STAGING/"migration/asteraceae-upstream-gbif-120-ledger.json"
 gbif_verified=json.loads(gbif_path.read_text()) if gbif_path.is_file() else {}
-all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified)]
+nc84_path=STAGING/"migration/asteraceae-verified-84-nc-photo-ledger.json"
+nc84_verified=json.loads(nc84_path.read_text()) if nc84_path.is_file() else {}
+assert all(v.get("noncommercial_only") is True for v in nc84_verified.values()), "NC84 rights restriction absent"
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
-approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified}
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -94,7 +97,7 @@ for row in index["entries"]:
             or not str(approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
         info=approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY"))
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -134,10 +137,11 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified),
+         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified)+len(nc84_verified),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "new_verified_gbif_media_archives":len(gbif_verified),
+         "new_exact_verified_nc84_archives":len(nc84_verified),
          "owner_or_source_record_only_private_photo_archives":len(author_private),
          "owner_or_source_record_only_private_photo_copies":private_author_photo_count,
          "species_with_any_review_photos":len(photo_species),
