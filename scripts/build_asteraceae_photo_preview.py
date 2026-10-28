@@ -13,7 +13,11 @@ index=json.loads((STAGING/"data/collection-index.json").read_text())
 census=json.loads((STAGING/"migration/asteraceae-source-census.json").read_text())
 ledger_path=STAGING/"migration/asteraceae-verified-commons-photo-ledger.json"
 assert ledger_path.is_file(),"No independently verified Commons images archived yet"
-approved=json.loads(ledger_path.read_text())
+commons_approved=json.loads(ledger_path.read_text())
+inat_path=STAGING/"migration/asteraceae-verified-inat-photo-ledger.json"
+inat_approved=json.loads(inat_path.read_text()) if inat_path.is_file() else {}
+assert not (set(commons_approved)&set(inat_approved)), "Overlapping license sources require review"
+approved={**commons_approved,**inat_approved}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
@@ -37,6 +41,7 @@ def to_text(value):
 
 photo_count=0
 photo_species=set()
+nc_photo_count=0
 for row in index["entries"]:
     src=STAGING/row["path"]; assert src.is_file()
     doc=json.loads(src.read_text())
@@ -60,7 +65,7 @@ for row in index["entries"]:
         full=row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else ""
         if full not in approved:continue
         info=approved[full]
-        assert info["publication_approval"].startswith("STAGING_IMAGE_ONLY")
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -77,8 +82,9 @@ for row in index["entries"]:
         photos.append({"src":out_rel,"creator":info["creator"],"license":info["license"],"license_url":info["license_url"],
                        "source_page":info["source_page"],"role":original.get("role",""),
                        "modified":"Scaled/converted to JPEG, metadata removed; no anatomy overlays",
-                       "source_blob_sha":sha})
+                       "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False))})
         photo_count+=1;photo_species.add(doc["id"])
+        if info.get("noncommercial_only",False):nc_photo_count+=1
     public_safe={"id":doc["id"],"scientific_name":doc["scientific_name"],"common_name":doc.get("common_name",""),
          "family":"Asteraceae","genus":doc["genus"],"look_here_first":to_text(doc.get("look_here_first")),
          "key_traits":traits,"lookalikes":{"names":names,"differences":diff},
@@ -91,7 +97,7 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(approved),"source_commit_sha":index["source_commit_sha"],
+         "source_verified_distinct_archives":len(approved),"noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
          "output_jpegs":len(jpgs),"public_pages_enabled":False}
 (DEST/"data/preview-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
 print("ASTERACEAE_PHOTO_SITE",json.dumps(summary,sort_keys=True),flush=True)
