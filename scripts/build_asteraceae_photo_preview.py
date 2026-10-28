@@ -22,8 +22,11 @@ inat_approved=json.loads(inat_path.read_text()) if inat_path.is_file() else {}
 assert not (set(commons_approved)&set(inat_approved)), "Overlapping license sources require review"
 author_path=STAGING/"migration/asteraceae-author-permitted-private-photo-ledger.json"
 author_private=json.loads(author_path.read_text()) if author_path.is_file() else {}
-assert not (set(author_private)&(set(commons_approved)|set(inat_approved))), "Author photo ledger overlaps independent licenses"
-approved={**commons_approved,**inat_approved,**author_private}
+upstream_path=STAGING/"migration/asteraceae-upstream-commons-120-ledger.json"
+upstream_verified=json.loads(upstream_path.read_text()) if upstream_path.is_file() else {}
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified)]
+assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
@@ -74,7 +77,10 @@ for row in index["entries"]:
         rel=original.get("file","")
         full=row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else ""
         if full not in approved:continue
-        if STRICT_PUBLIC_CC and (full in author_private or approved[full].get("noncommercial_only",False)):continue
+        if STRICT_PUBLIC_CC and (
+            full in author_private or approved[full].get("noncommercial_only",False)
+            or not str(approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
+        ):continue
         info=approved[full]
         assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY"))
         source=STAGING/full
@@ -116,7 +122,8 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved),
+         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified),
+         "new_verified_upstream_commons_archives":len(upstream_verified),
          "owner_or_source_record_only_private_photo_archives":len(author_private),
          "owner_or_source_record_only_private_photo_copies":private_author_photo_count,
          "species_with_any_review_photos":len(photo_species),
