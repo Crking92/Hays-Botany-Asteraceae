@@ -33,6 +33,14 @@ assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights 
 approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
+# No archived picture may evade the per-photo rights ledger, even in private.
+source_images=[
+    x for x in (STAGING/"content/taxa/Asteraceae").rglob("*")
+    if x.is_file() and x.suffix.lower() in {".jpg",".jpeg",".png",".webp",".gif",".tif",".tiff"}
+]
+assert len(source_images)==len(approved), (
+    f"Untracked staging photo bytes or incomplete rights ledger: {len(source_images)}/{len(approved)}"
+)
 assert index["source_commit_sha"]==census["source_commit_sha"]
 if DEST.exists():shutil.rmtree(DEST)
 (DEST/"data/species").mkdir(parents=True)
