@@ -12,11 +12,13 @@ with sync_playwright() as p:
         assert response.status==200
         assert page.locator("#species-count").inner_text()=="180"
         summary=page.request.get("http://127.0.0.1:8767/data/preview-summary.json").json()
-        assert summary["verified_photo_copies"]==359, summary
+        assert summary["verified_photo_copies"]==362, summary
+        assert summary["new_taxonomy_synonym_cc_photos"]==2, summary
+        assert summary["recovered_old_plainsman_original_photos"]==1, summary
         assert summary["new_other_commons_field_photos"]==1, summary
         assert summary["new_texas_cc_field_photo_copies"]==36, summary
         assert summary["new_texas_cc_field_species"]==26, summary
-        assert summary["species_with_any_review_photos"]==176, summary
+        assert summary["species_with_any_review_photos"]==179, summary
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
@@ -110,7 +112,23 @@ with sync_playwright() as p:
         assert "CC BY 2.0" in chondrilla
         assert photo.first.evaluate("(e)=>e.complete && e.naturalWidth>0")
         page.screenshot(path=str(OUT/f"asteraceae-chondrilla-commons-{label}.png"),full_page=True)
+        for taxon_id,credit,synonym in [
+            ("leontodon-rhagadioloides","Sam Kieschnick","Hedypnois rhagadioloides"),
+            ("iva-asperifolia-var-angustifolia","Michelle Lay","Iva angustifolia"),
+            ("hymenopappus-scabiosaeus-var-corymbosus","Reid Hardin",None)
+        ]:
+            page.goto("http://127.0.0.1:8767/?species="+taxon_id,wait_until="networkidle")
+            images=page.locator(".gallery-photo img")
+            images.first.wait_for()
+            assert images.count()>=1,taxon_id
+            assert images.first.evaluate("(e)=>e.complete && e.naturalWidth>0"),taxon_id
+            doc_text=page.locator("#detail").inner_text()
+            assert credit in doc_text,(taxon_id,credit)
+            if synonym:assert synonym in doc_text,(taxon_id,synonym)
+            assert page.locator(".gallery-photo a",has_text="Photo source").count()>=1
+            assert page.locator(".photo-nc").count()==0,"Synonym source must not introduce NC rights"
+        page.screenshot(path=str(OUT/f"asteraceae-final-three-species-{label}.png"),full_page=True)
         assert not errors,errors
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"359 photographs across 176 species; 36 new Texas CC and one Commons, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"362 photographs across 179 species; 36 Texas CC, one Commons, 2 synonym photos and 1 recovered original, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
         page.close()
     browser.close()
