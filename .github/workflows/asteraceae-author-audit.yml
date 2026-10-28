@@ -1,0 +1,31 @@
+name: Audit Joey Santore and Calvin King iNaturalist photos (read-only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit_asteraceae_photo_authors.py'
+      - '.github/workflows/asteraceae-author-audit.yml'
+permissions: {contents: read}
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: staging
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Inspect source attribution, held and installed images
+        run: python3 shell/scripts/audit_asteraceae_photo_authors.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: joey-calvin-asteraceae-photo-license-audit
+          path: staging/qa-report/author-rights-audit/
+          retention-days: 30
+          if-no-files-found: error
