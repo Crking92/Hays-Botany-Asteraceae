@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Reconcile EVERY source Asteraceae image and species-photo reference.
-Includes source-verified Commons, iNat taxon, and GBIF media passes.
+Includes source-verified Commons, iNat taxon, GBIF media and NC84 passes.
 
 The 459-image pinned source file list and source blob SHA are authoritative.
 Archived 210 image blobs must exactly match. Held images stay in original hub,
