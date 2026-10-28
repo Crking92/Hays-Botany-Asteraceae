@@ -1,0 +1,28 @@
+name: Asteraceae shared-look prototype (never deploy)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/build_collection_preview.py'
+      - '.github/workflows/asteraceae-ui-prototype.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  build-prototype:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - name: Syntax-check frontend
+        run: node --check site/app.js
+      - name: Build staging-only site preview
+        run: python3 scripts/build_collection_preview.py
+      - name: Upload preview HTML CSS and JS, never deploy
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-nonpublishing-website-prototype
+          path: dist/
+          retention-days: 30
+          if-no-files-found: error
