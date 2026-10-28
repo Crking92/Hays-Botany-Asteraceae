@@ -52,7 +52,16 @@ assert all(
     and v.get("exact_observation_taxon_match") is True
     for v in new_external.values()
 ), "A new photo license, observation identity or public-safety condition failed"
-all_approved={**approved,**new_external}
+commons_extra_path=STAGING/"migration/asteraceae-new-commons-field-photo-ledger.json"
+commons_extra=json.loads(commons_extra_path.read_text()) if commons_extra_path.is_file() else {}
+assert not (set(new_external)&set(commons_extra)), "New media source paths conflict"
+assert all(
+    v.get("species_id")=="chondrilla-juncea"
+    and v.get("license")=="CC BY 2.0"
+    and v.get("noncommercial_only") is False
+    for v in commons_extra.values()
+), "New Chondrilla Commons photo missing exact license and species identity"
+all_approved={**approved,**new_external,**commons_extra}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -69,6 +78,9 @@ assert fresh_staged==set(new_external), (
     f"Untracked external staged photos or incomplete new-media ledger: {len(fresh_staged)}/{len(new_external)}"
 )
 assert all(v["species_id"] in {r["id"] for r in index["entries"]} for v in new_external.values())
+commons_media_root=STAGING/"external-media/asteraceae/new-commons"
+commons_media={x.relative_to(STAGING).as_posix() for x in commons_media_root.rglob("*.jpg")} if commons_media_root.exists() else set()
+assert commons_media==set(commons_extra), "Untracked Commons external-media photo or missing license ledger"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 if DEST.exists():shutil.rmtree(DEST)
 (DEST/"data/species").mkdir(parents=True)
@@ -114,7 +126,7 @@ for row in index["entries"]:
     else:names,diff=[],""
     photos=[]
     sourced_additions=[{"source_path":path,"role":meta.get("role","Texas research-grade observation photo")}
-                       for path,meta in new_external.items() if meta["species_id"]==doc["id"]]
+                       for path,meta in {**new_external,**commons_extra}.items() if meta["species_id"]==doc["id"]]
     for original in (doc.get("images") or []) + orphan_overrides.get(doc["id"],[]) + sourced_additions:
         rel=original.get("file","")
         full=original.get("source_path") or (row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else "")
@@ -124,7 +136,7 @@ for row in index["entries"]:
             or not str(all_approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
         info=all_approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED"))
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED","STAGING_NEW_COMMONS_EXACT_CC_VERIFIED"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -169,6 +181,7 @@ summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else 
          "recovered_zero_photo_species_commons":len(zero_verified),
          "new_texas_cc_field_photo_copies":len(new_external),
          "new_texas_cc_field_species":len({x["species_id"] for x in new_external.values()}),
+         "new_other_commons_field_photos":len(commons_extra),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "new_verified_gbif_media_archives":len(gbif_verified),
