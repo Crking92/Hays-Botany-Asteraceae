@@ -46,6 +46,10 @@ jobs:
           git diff --cached --check -- 'migration/*.json'
           if ! git diff --cached --quiet; then
             git commit -m "Archive source-verified Commons Asteraceae priority photographs to private staging"
+            # Another audit may update only the staging ledger while source checking runs.
+            # Rebase onto latest staging rather than force-pushing over that audit.
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
             git push origin HEAD:refs/heads/staging/asteraceae-metadata
           fi
       - name: Preserve source-to-photo rights decisions
