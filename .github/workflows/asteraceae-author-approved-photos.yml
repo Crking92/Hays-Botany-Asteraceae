@@ -1,0 +1,45 @@
+name: Stage author-approved Calvin and held Joey photos (PRIVATE ONLY)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/stage_author_approved_asteraceae_photos.py'
+      - '.github/workflows/asteraceae-author-approved-photos.yml'
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-private-author-permission-archive
+  cancel-in-progress: false
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - name: Fetch pinned original source commit in blob-on-demand checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$(python3 -c 'import json;print(json.load(open("staging/data/collection-index.json"))["source_commit_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/hays-author-originals"
+          git -C "$RUNNER_TEMP/hays-author-originals" fetch --depth 1 origin "$SHA"
+          git -C "$RUNNER_TEMP/hays-author-originals" update-ref refs/heads/asteraceae-source "$SHA"
+          git -C "$RUNNER_TEMP/hays-author-originals" symbolic-ref HEAD refs/heads/asteraceae-source
+      - name: Transfer exact photos with author-permission or source license notices
+        run: python3 shell/scripts/stage_author_approved_asteraceae_photos.py staging "$RUNNER_TEMP/hays-author-originals"
+      - name: Commit original photo blobs and restricted-rights ledger only to private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-author-permitted-private-photo-ledger.json migration/asteraceae-author-photo-additions-summary.json
+          git diff --cached --check -- 'migration/*.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Stage Calvin King authorized and Joey Santore CC BY-NC claimed photos for private field learner only"
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
