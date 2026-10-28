@@ -1,0 +1,86 @@
+name: Audit and stage Asteraceae metadata only (NEVER deploy)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit_asteraceae_source.py'
+      - 'scripts/stage_asteraceae_text.py'
+      - '.github/workflows/asteraceae-source-metadata-staging.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: asteraceae-private-metadata-staging
+  cancel-in-progress: false
+
+jobs:
+  stage-metadata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out destination repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+      - name: Select isolated staging branch; main remains untouched
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code origin refs/heads/staging/asteraceae-metadata >/dev/null 2>&1; then
+            git fetch --depth 1 origin staging/asteraceae-metadata
+            git switch -c staging/asteraceae-metadata --track origin/staging/asteraceae-metadata
+          else
+            git switch -c staging/asteraceae-metadata
+          fi
+      - name: Clone public canonical hub with partial blob filter and sparse text-only checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-botany-source"
+          git -C "$RUNNER_TEMP/hays-botany-source" sparse-checkout set --no-cone \
+            '/content/taxa/Asteraceae/**/*.json' \
+            '/content/taxa/Asteraceae/**/*.txt' \
+            '/content/taxa/Asteraceae/**/*.csv' \
+            '/data/manifest.json'
+          git -C "$RUNNER_TEMP/hays-botany-source" checkout HEAD
+          git -C "$RUNNER_TEMP/hays-botany-source" log -1 --format='Original source SHA: %H'
+      - name: Validate full file ledger and photograph-rights inventory without copying photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/audit_asteraceae_source.py "$RUNNER_TEMP/hays-botany-source"
+      - name: Stage 678 hash-verified scientific and provenance files only
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/stage_asteraceae_text.py "$RUNNER_TEMP/hays-botany-source"
+          python3 scripts/validate_collection.py
+          git diff --check
+      - name: Commit to nonpublic staging branch only, never main or source repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae data/collection-index.json migration/asteraceae-source-snapshot.json migration/asteraceae-source-file-ledger.json migration/asteraceae-photo-rights-triage.csv migration/asteraceae-source-census.json
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo "Staging branch already has identical scientific metadata"
+          else
+            git commit -m "Stage Asteraceae scientific text from pinned hub snapshot (no photos or deployment)"
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Upload independent photo licensing triage and source census for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-source-and-photo-rights-inventory
+          path: qa-report/asteraceae-source-audit/
+          retention-days: 30
+          if-no-files-found: warn
