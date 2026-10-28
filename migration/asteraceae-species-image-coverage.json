@@ -132,7 +132,7 @@
   },
   "carthamus-tinctorius": {
     "physical_source_files": 1,
-    "source_photos_still_held": 1
+    "staged_source_photos": 1
   },
   "centaurea-cyanus": {
     "physical_source_files": 1,
@@ -387,7 +387,8 @@
   },
   "heterotheca-subaxillaris": {
     "physical_source_files": 3,
-    "source_photos_still_held": 3
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
   },
   "heterotheca-villosa": {
     "physical_source_files": 1,
