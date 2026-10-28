@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE_RIGHTS_RECHECK_PRIVATE_STAGING_NO_DEPLOY",
+  "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "source_priority_commons_candidates": 40,
+  "verified_and_archived": 28,
+  "held": 12,
+  "held_reasons": {
+    "CREATOR_CREDIT_DIFFERS_NEEDS_REVIEW": 5,
+    "UPSTREAM_LICENSE_DIFFERS_FROM_SOURCE": 5,
+    "SOURCE_LICENSE_CLAIM_NOT_STANDARD": 2
+  },
+  "verified_license_count": {
+    "PUBLIC DOMAIN": 9,
+    "CC0": 15,
+    "CC BY-SA 4.0": 1,
+    "CC BY-SA 3.0": 1,
+    "CC BY 4.0": 1,
+    "CC BY 2.0": 1
+  },
+  "public_site_published": false
+}
