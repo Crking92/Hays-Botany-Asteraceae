@@ -84,7 +84,7 @@ for row in index["entries"]:
             or not str(approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
         info=approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY"))
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
