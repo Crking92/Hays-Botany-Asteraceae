@@ -1,0 +1,11 @@
+{
+  "status": "INAT_TAXON_EXACT_VISUAL_CHECK_PRIVATE_STAGING_ONLY",
+  "candidates": 9,
+  "verified": 5,
+  "held": 4,
+  "held_reasons": {
+    "CURRENT_DEFAULT_PHOTO_LICENSE_DIFFERS_OR_RESTRICTED": 3,
+    "SOURCE_IMAGE_NOT_CURRENT_TAXON_DEFAULT": 1
+  },
+  "public_release": false
+}

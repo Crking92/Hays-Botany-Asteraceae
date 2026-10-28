@@ -1,0 +1,67 @@
+{
+  "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/01-curated-reference.jpg": {
+    "source_git_blob_sha": "6024d457e456eba480ce7c922e59a48b65df2826",
+    "source_page": "https://www.inaturalist.org/taxa/53587",
+    "photo_id": 382193593,
+    "creator": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+    "upstream_attribution": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+    "license": "CC BY SA",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "noncommercial_only": false,
+    "verified_via": "iNaturalist current taxon default_photo ID, license, creator and exact pixel-thumbnail comparison",
+    "visual_dhash_distance": 0,
+    "publication_approval": "PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_RELEASE_AND_DERIVATIVE_QA_PENDING"
+  },
+  "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/01-curated-reference.jpg": {
+    "source_git_blob_sha": "c6522d5a53f35e86999b274c40d6626ca7090aa9",
+    "source_page": "https://www.inaturalist.org/taxa/60129",
+    "photo_id": 303178849,
+    "creator": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+    "upstream_attribution": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+    "license": "CC BY SA",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "noncommercial_only": false,
+    "verified_via": "iNaturalist current taxon default_photo ID, license, creator and exact pixel-thumbnail comparison",
+    "visual_dhash_distance": 0,
+    "publication_approval": "PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_RELEASE_AND_DERIVATIVE_QA_PENDING"
+  },
+  "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/01-curated-reference.jpg": {
+    "source_git_blob_sha": "e4e24cdc45ebcd952d9ebb7a17b250d5f90d5eff",
+    "source_page": "https://www.inaturalist.org/taxa/52934",
+    "photo_id": 353183425,
+    "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "upstream_attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "noncommercial_only": false,
+    "verified_via": "iNaturalist current taxon default_photo ID, license, creator and exact pixel-thumbnail comparison",
+    "visual_dhash_distance": 0,
+    "publication_approval": "PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_RELEASE_AND_DERIVATIVE_QA_PENDING"
+  },
+  "content/taxa/Asteraceae/Helenium/helenium-amarum/images/01-curated-reference.jpg": {
+    "source_git_blob_sha": "55fdca1eebfac5c472388ac7578749a5759ecf8c",
+    "source_page": "https://www.inaturalist.org/taxa/77348",
+    "photo_id": 449507154,
+    "creator": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
+    "upstream_attribution": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "noncommercial_only": false,
+    "verified_via": "iNaturalist current taxon default_photo ID, license, creator and exact pixel-thumbnail comparison",
+    "visual_dhash_distance": 0,
+    "publication_approval": "PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_RELEASE_AND_DERIVATIVE_QA_PENDING"
+  },
+  "content/taxa/Asteraceae/Simsia/simsia-calva/images/01-curated-reference.jpg": {
+    "source_git_blob_sha": "c771572aae4a1a0c89f4ad8ff1cb1cd838886456",
+    "source_page": "https://www.inaturalist.org/taxa/169002",
+    "photo_id": 19450753,
+    "creator": "(c) Laura Clark, some rights reserved (CC BY), uploaded by Laura Clark",
+    "upstream_attribution": "(c) Laura Clark, some rights reserved (CC BY), uploaded by Laura Clark",
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "noncommercial_only": false,
+    "verified_via": "iNaturalist current taxon default_photo ID, license, creator and exact pixel-thumbnail comparison",
+    "visual_dhash_distance": 1,
+    "publication_approval": "PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_RELEASE_AND_DERIVATIVE_QA_PENDING"
+  }
+}
