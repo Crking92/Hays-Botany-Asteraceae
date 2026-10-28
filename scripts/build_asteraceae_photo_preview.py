@@ -71,6 +71,49 @@ assert all(
     for x in synonym_media.values()
 ), "Kew synonym photo provenance/rights missing"
 all_approved={**approved,**new_external,**commons_extra,**synonym_media}
+
+# Field-first curation: keep archived photo provenance, but omit individual
+# images when credits/rights cannot be verified or a view repeats an existing
+# generic view. Details (leaves, inflorescence, seeds, bracts, diagnostic parts)
+# are never dropped just to satisfy a generic photo count.
+uncleared_author_photos={
+    p for p,metadata in author_private.items()
+    if metadata.get("status")=="SOURCE_RECORD_CC_BY_NC_PENDING_CURRENT_PHOTO_RECHECK"
+}
+assert all(author_private[p].get("creator")=="Joey Santore" for p in uncleared_author_photos)
+OMIT_UNKNOWN_CREDIT=True
+GENERIC_VIEW_LIMIT=2
+DIAGNOSTIC_TERMS=("ligule","node","sheath","leaf","leaves","foliage","floret","spikelet",
+    "inflorescence","floral","flower","head","involucre","bract","seed","fruit",
+    "ray","disk","root","base","basal","rosette","pappus","achene","phyllar",
+    "branch","stem","crown","hairs","hair","wing","awn","receptacle")
+def is_generic_view(role):
+    role=(role or "").strip().casefold()
+    if any(part in role for part in DIAGNOSTIC_TERMS):
+        return False
+    return not role or any(part in role for part in (
+        "habit","recognition","overview","field reference","field photo",
+        "research-grade observation","habitat","whole plant","generic",
+        "landscape","reference photograph","general view","plant view"))
+def is_traceable_photo(meta,source):
+    creator=str(meta.get("creator") or "").strip()
+    lic=str(meta.get("license") or "").strip()
+    origin=str(meta.get("source_page") or "").strip()
+    rights=str(meta.get("license_url") or "").strip()
+    if not creator or creator.lower() in ("unknown","anonymous","unattributed","none","n/a"):
+        # A CC0 "no rights reserved" record is valid when original photo ID
+        # and the public-domain dedication are independently traced.
+        if not (lic.startswith("CC0") and origin.startswith("https://") and rights.startswith("https://creativecommons.org/")):
+            return False
+    if not origin.startswith("https://"):
+        return False
+    if not lic or (not rights.startswith("https://") and not (
+        source in author_private and author_private[source].get("status")=="OWNER_GRANTED_HAYS_BOTANY_REUSE_WITH_CREDIT_2026_10_28"
+    )):
+        return False
+    return True
+curation_decisions=[]
+
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -119,6 +162,7 @@ photo_count=0
 photo_species=set()
 nc_photo_count=0
 private_author_photo_count=0
+curated_away_counts=Counter()
 for row in index["entries"]:
     src=STAGING/row["path"]; assert src.is_file()
     doc=json.loads(src.read_text())
@@ -139,15 +183,37 @@ for row in index["entries"]:
     photos=[]
     sourced_additions=[{"source_path":path,"role":meta.get("role","Texas research-grade observation photo")}
                        for path,meta in {**new_external,**commons_extra,**synonym_media}.items() if meta["species_id"]==doc["id"]]
+    seen_photo_sha=set()
+    generic_views_kept=0
     for original in (doc.get("images") or []) + orphan_overrides.get(doc["id"],[]) + sourced_additions:
         rel=original.get("file","")
         full=original.get("source_path") or (row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else "")
         if full not in all_approved:continue
-        if STRICT_PUBLIC_CC and (
-            full in author_private or full in gbif_verified or all_approved[full].get("noncommercial_only",False)
-            or not str(all_approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
-        ):continue
         info=all_approved[full]
+        exclusion=None
+        if full in uncleared_author_photos:
+            exclusion="INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+        elif OMIT_UNKNOWN_CREDIT and not is_traceable_photo(info,full):
+            exclusion="CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE"
+        elif STRICT_PUBLIC_CC and (
+            full in author_private or full in gbif_verified or info.get("noncommercial_only",False)
+            or not str(info.get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
+        ):
+            exclusion="RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+        elif info["source_git_blob_sha"] in seen_photo_sha:
+            exclusion="EXACT_DUPLICATE_IMAGE_FOR_SPECIES"
+        else:
+            generic=is_generic_view(original.get("role") or info.get("role") or "")
+            if generic and generic_views_kept>=GENERIC_VIEW_LIMIT:
+                exclusion="REDUNDANT_GENERAL_VIEW"
+        if exclusion:
+            curated_away_counts[exclusion]+=1
+            curation_decisions.append({"species_id":doc["id"],"archived_source_path":full,
+                "source_git_blob_sha":info["source_git_blob_sha"],"reason":exclusion,
+                "original_retained":True})
+            continue
+        seen_photo_sha.add(info["source_git_blob_sha"])
+        if generic:generic_views_kept+=1
         assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED","STAGING_NEW_COMMONS_EXACT_CC_VERIFIED","PRIVATE_SOURCE_ORIGINAL_LICENSE_AND_TAXON_VERIFIED","STAGING_NEW_INAT_TAXONOMIC_SYNONYM_CC_VERIFIED"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
@@ -183,9 +249,27 @@ assert len(jpgs)==photo_count and photo_count>=2
 if STRICT_PUBLIC_CC:
     assert private_author_photo_count==0, "Owner permission or provisional source photo leaked to strict CC output"
 else:
-    assert private_author_photo_count==len(author_private), "Private author photo archive not fully represented"
+    assert private_author_photo_count==len(author_private)-len(uncleared_author_photos), (
+        "Verified Calvin author permissions unexpectedly omitted or provisional author images exposed"
+    )
 assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
+curation_summary={
+    "status":"FIELD_FIRST_CREDIT_TRACEABLE_PREVIEW",
+    "archived_media_removed_or_deleted":0,
+    "source_originals_and_media_rights_ledgers_unchanged":True,
+    "generic_views_limit_per_species":GENERIC_VIEW_LIMIT,
+    "uncleared_author_photos_archived_but_not_shown":len(uncleared_author_photos),
+    "hidden_photo_instances_by_reason":dict(curated_away_counts),
+    "displayed_gallery_photo_instances":photo_count,
+    "displayed_species_with_any_photos":len(photo_species)
+}
+(DEST/"data/photo-curation-summary.json").write_text(json.dumps(curation_summary,indent=2)+"\n")
+qa_curate=SHELL/"qa-report/photo-curation"
+qa_curate.mkdir(parents=True,exist_ok=True)
+(qa_curate/("public" if STRICT_PUBLIC_CC else "private")).mkdir(parents=True,exist_ok=True)
+(qa_curate/("public" if STRICT_PUBLIC_CC else "private")/"curation-decisions.json").write_text(json.dumps(curation_decisions,indent=2,ensure_ascii=False)+"\n")
+(qa_curate/("public" if STRICT_PUBLIC_CC else "private")/"summary.json").write_text(json.dumps(curation_summary,indent=2)+"\n")
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
          "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified)+len(nc84_verified)+len(orphan_verified),
@@ -205,6 +289,9 @@ summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else 
          "species_with_any_review_photos":len(photo_species),
          "noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
          "output_jpegs":len(jpgs),"public_pages_enabled":False,
-         "strict_public_cc":STRICT_PUBLIC_CC}
+         "strict_public_cc":STRICT_PUBLIC_CC,
+         "field_first_curated_gallery":True,
+         "hidden_photo_instances_by_reason":dict(curated_away_counts),
+         "archived_unverified_author_photos_hidden":len(uncleared_author_photos)}
 (DEST/"data/preview-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
 print("ASTERACEAE_PHOTO_SITE",json.dumps(summary,sort_keys=True),flush=True)
