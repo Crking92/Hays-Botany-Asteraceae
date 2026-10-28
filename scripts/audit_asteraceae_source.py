@@ -158,7 +158,7 @@ def main():
     (OUT / "source-file-ledger.json").write_text(json.dumps(list(ledger.values()), indent=2) + "\n", encoding="utf-8")
     (OUT / "species-report.json").write_text(json.dumps(cards, indent=2) + "\n", encoding="utf-8")
     with (OUT / "photo-rights-triage.csv").open("w", newline="", encoding="utf-8") as f:
-        wr = csv.DictWriter(f, fieldnames=list(media_rows[0]) if media_rows else ["species_id"])
+        wr = csv.DictWriter(f, fieldnames=list(media_rows[0]) if media_rows else ["species_id"], lineterminator="\n")
         wr.writeheader()
         wr.writerows(media_rows)
     print("ASTERACEAE_SOURCE_CENSUS " + json.dumps(summary, sort_keys=True))
