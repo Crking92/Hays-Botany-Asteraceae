@@ -52,7 +52,7 @@ async function select(id,push){
    }
    if(Array.isArray(card.verified_photos)&&card.verified_photos.length){
      const heading=el("h3","Real species photographs");d.append(heading);
-     d.append(el("p","Scroll sideways to compare the photographed structures. These are source-checked image copies; anatomy arrows have not yet been individually certified.","muted"));
+     d.append(el("p","Scroll sideways to compare the photographed structures. Image rights vary by photograph; review each caption. Anatomy arrows have not yet been individually certified.","muted"));
      const strip=el("div",undefined,"gallery-strip");
      for(const photo of card.verified_photos){
        const fig=el("figure",undefined,"gallery-photo");
@@ -61,6 +61,7 @@ async function select(id,push){
        link.append(image);fig.append(link);
        const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
        if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
+       if(photo.private_rights_review_only)cap.append(el("small",photo.rights_note||"Private review: public license verification still required.","photo-review"));
        const sources=el("div",undefined,"source-links");
        for(const [label,url] of [["Photo source",photo.source_page],["License",photo.license_url]]){
          if(!url||!url.startsWith("https://"))continue;
