@@ -60,6 +60,7 @@ async function select(id,push){
        const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
        link.append(image);fig.append(link);
        const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
+       if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
        const sources=el("div",undefined,"source-links");
        for(const [label,url] of [["Photo source",photo.source_page],["License",photo.license_url]]){
          if(!url||!url.startsWith("https://"))continue;
