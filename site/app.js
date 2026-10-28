@@ -50,7 +50,26 @@ async function select(id,push){
      if(card.lookalikes.names?.length)d.append(el("p","Compare with: "+card.lookalikes.names.join(", ")));
      if(card.lookalikes.differences)d.append(el("p",card.lookalikes.differences));
    }
-   d.append(el("p","Photographs, verified arrows and the full visual teaching gallery are not yet in this staging preview. See the existing main learner for the current live materials.","muted"));
+   if(Array.isArray(card.verified_photos)&&card.verified_photos.length){
+     const heading=el("h3","Real species photographs");d.append(heading);
+     d.append(el("p","Scroll sideways to compare the photographed structures. These are source-checked image copies; anatomy arrows have not yet been individually certified.","muted"));
+     const strip=el("div",undefined,"gallery-strip");
+     for(const photo of card.verified_photos){
+       const fig=el("figure",undefined,"gallery-photo");
+       const link=document.createElement("a");link.href=photo.src;link.target="_blank";link.rel="noopener noreferrer";link.setAttribute("aria-label","Open original-size preview of "+(photo.role||card.scientific_name));
+       const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
+       link.append(image);fig.append(link);
+       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
+       const sources=el("div",undefined,"source-links");
+       for(const [label,url] of [["Photo source",photo.source_page],["License",photo.license_url]]){
+         if(!url||!url.startsWith("https://"))continue;
+         const a=el("a",label);a.href=url;a.target="_blank";a.rel="noopener noreferrer";sources.append(a);
+       }
+       cap.append(sources);fig.append(cap);strip.append(fig);
+     }
+     d.append(strip);
+   }else d.append(el("p","Photographs for this species are held for source-rights or visual review. Its text lesson is available; see the current main learner for any existing images.","muted"));
+
  }catch(error){
    if(siteState.active===id)d.append(el("p","Teaching summary pending: "+error.message,"muted"));
  }
