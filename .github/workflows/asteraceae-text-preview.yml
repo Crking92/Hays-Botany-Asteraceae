@@ -1,0 +1,55 @@
+name: Asteraceae 180-species real-text learner review (NEVER deploy)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_asteraceae_text_preview.py'
+      - 'scripts/test_asteraceae_text_preview_browser.py'
+      - 'site/app.js'
+      - '.github/workflows/asteraceae-text-preview.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  build-and-visual-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out approved presentation shell from main
+        uses: actions/checkout@v4
+        with:
+          path: shell
+          ref: main
+          persist-credentials: false
+      - name: Check out isolated 180-species metadata staging branch
+        uses: actions/checkout@v4
+        with:
+          path: data-source
+          ref: staging/asteraceae-metadata
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Build authentic but entirely photo-free botanical learning preview
+        run: |
+          node --check shell/site/app.js
+          python3 shell/scripts/build_asteraceae_text_preview.py data-source
+          test ! -d shell/dist/content
+          test ! -e shell/dist/images
+      - name: Install headless browser
+        run: |
+          python -m pip install 'playwright>=1.53,<2'
+          python -m playwright install --with-deps chromium
+      - name: Verify live search, species deep links, Learner/Field ID, and mobile layout
+        run: |
+          python -m http.server 8767 --directory shell/dist >/tmp/asteraceae-text-server.log 2>&1 &
+          sleep 2
+          python3 shell/scripts/test_asteraceae_text_preview_browser.py
+      - name: Upload unpublished HTML and screenshots, not to GitHub Pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-180-real-species-text-only-preview
+          path: |
+            shell/dist/
+            shell/qa-report/asteraceae-text-preview/
+          retention-days: 30
+          if-no-files-found: warn
