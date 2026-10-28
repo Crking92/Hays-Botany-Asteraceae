@@ -41,6 +41,18 @@ assert {x["source_path"] for values in orphan_overrides.values() for x in values
 all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified),set(orphan_verified),set(zero_verified)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
 approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified,**orphan_verified,**zero_verified}
+# Fresh research-grade observation photographs live outside the canonical 459-file
+# original-photo audit. They have individual iNat photo licenses and full metadata.
+fresh_path=STAGING/"migration/asteraceae-new-texas-inat-cc-photo-ledger.json"
+new_external=json.loads(fresh_path.read_text()) if fresh_path.is_file() else {}
+assert not (set(approved)&set(new_external)), "New and original source photo ledgers overlap"
+assert all(
+    v.get("license") in ("CC0 1.0","CC BY 4.0","CC BY-SA 4.0")
+    and v.get("noncommercial_only") is False
+    and v.get("exact_observation_taxon_match") is True
+    for v in new_external.values()
+), "A new photo license, observation identity or public-safety condition failed"
+all_approved={**approved,**new_external}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -51,6 +63,12 @@ source_images=[
 assert len(source_images)==len(approved), (
     f"Untracked staging photo bytes or incomplete rights ledger: {len(source_images)}/{len(approved)}"
 )
+fresh_root=STAGING/"external-media/asteraceae/texas-inat"
+fresh_staged={x.relative_to(STAGING).as_posix() for x in fresh_root.rglob("*.jpg")} if fresh_root.exists() else set()
+assert fresh_staged==set(new_external), (
+    f"Untracked external staged photos or incomplete new-media ledger: {len(fresh_staged)}/{len(new_external)}"
+)
+assert all(v["species_id"] in {r["id"] for r in index["entries"]} for v in new_external.values())
 assert index["source_commit_sha"]==census["source_commit_sha"]
 if DEST.exists():shutil.rmtree(DEST)
 (DEST/"data/species").mkdir(parents=True)
@@ -95,16 +113,18 @@ for row in index["entries"]:
         diff=to_text(compared.get("key_distinctions"))
     else:names,diff=[],""
     photos=[]
-    for original in (doc.get("images") or []) + orphan_overrides.get(doc["id"],[]):
+    sourced_additions=[{"source_path":path,"role":meta.get("role","Texas research-grade observation photo")}
+                       for path,meta in new_external.items() if meta["species_id"]==doc["id"]]
+    for original in (doc.get("images") or []) + orphan_overrides.get(doc["id"],[]) + sourced_additions:
         rel=original.get("file","")
         full=original.get("source_path") or (row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else "")
-        if full not in approved:continue
+        if full not in all_approved:continue
         if STRICT_PUBLIC_CC and (
-            full in author_private or full in gbif_verified or approved[full].get("noncommercial_only",False)
-            or not str(approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
+            full in author_private or full in gbif_verified or all_approved[full].get("noncommercial_only",False)
+            or not str(all_approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
-        info=approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY"))
+        info=all_approved[full]
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -147,6 +167,8 @@ summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else 
          "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified)+len(nc84_verified)+len(orphan_verified),
          "verified_orphan11_gallery_photos":len(orphan_verified),
          "recovered_zero_photo_species_commons":len(zero_verified),
+         "new_texas_cc_field_photo_copies":len(new_external),
+         "new_texas_cc_field_species":len({x["species_id"] for x in new_external.values()}),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "new_verified_gbif_media_archives":len(gbif_verified),
