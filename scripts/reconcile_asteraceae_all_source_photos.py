@@ -35,6 +35,8 @@ inat=read("migration/asteraceae-verified-inat-photo-ledger.json")
 author=read("migration/asteraceae-author-permitted-private-photo-ledger.json")
 upstream_path=ROOT/"migration/asteraceae-upstream-commons-120-ledger.json"
 upstream_commons=json.loads(upstream_path.read_text()) if upstream_path.exists() else {}
+inat_taxon_path=ROOT/"migration/asteraceae-upstream-inat-taxon-120-ledger.json"
+inat_taxon=json.loads(inat_taxon_path.read_text()) if inat_taxon_path.exists() else {}
 assert index["authority"]=="STAGING_ONLY"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 assert census["source_repository"]==SOURCE_REPO
@@ -43,7 +45,7 @@ assert len(index["entries"])==180
 photos={e["path"]:e for e in source if Path(e["path"]).suffix.lower() in IMAGE_EXT}
 assert len(photos)==459 and census["physical_image_files"]==459
 rights_ledger={}
-for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons)]:
+for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon)]:
     for file,info in records.items():
         assert file not in rights_ledger,f"Multiple rights ledgers cover {file}"
         assert file in photos,f"Archived file has no source original: {file}"
@@ -154,6 +156,10 @@ for path in sorted(photos):
             details=ledger["details"]
             decision="ARCHIVED_UPSTREAM_COMMONS_CURRENT_CC_OR_PD_VISUALLY_MATCHED"
             public_gate="SOURCE_CURRENT_PERMISSION_AND_IMAGE_MATCHED; FINAL DERIVATIVE AND PUBLIC RELEASE QA REQUIRED"
+        elif cls=="inat_taxon":
+            details=ledger["details"]
+            decision="ARCHIVED_INAT_CURRENT_TAXON_DEFAULT_CC_VISUALLY_MATCHED"
+            public_gate="SOURCE_CURRENT_PERMISSION_AND_IMAGE_MATCHED; FINAL PUBLIC RELEASE QA REQUIRED"
         else:
             details=ledger["details"]
             decision="ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION" if details.get("creator")=="Calvin King" else "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM"
