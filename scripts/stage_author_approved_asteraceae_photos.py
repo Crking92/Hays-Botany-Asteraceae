@@ -41,8 +41,15 @@ for row in idx["entries"]:
             skipped[who+" missing source file"]+=1
             continue
         source=str(photo.get("source_page",""))
-        if not re.fullmatch(r"https://www\.inaturalist\.org/photos/\d+",source):
+        exact_photo_source=bool(re.fullmatch(r"https://www\.inaturalist\.org/photos/\d+",source))
+        if not exact_photo_source and who=="Calvin King":
             skipped[who+" no exact photo source"]+=1
+            continue
+        if not exact_photo_source and not (
+            "inaturalist.org" in source.lower()
+            or re.search(r"(?:inat-|joey-)",name,re.I)
+        ):
+            skipped[who+" missing iNaturalist provenance"]+=1
             continue
         lic=str(photo.get("license",""))
         if who=="Joey Santore":
@@ -53,7 +60,7 @@ for row in idx["entries"]:
             attribution="Joey Santore"
             license_label="CC BY-NC (source record; current photo license not rechecked)"
             license_url="https://creativecommons.org/licenses/by-nc/4.0/"
-            permission="CC BY-NC claimed by pinned original source; author credit and noncommercial conditions required. Not independently licensed via current iNaturalist photo record."
+            permission="CC BY-NC claimed by pinned original source; photographer credit and noncommercial conditions required. Current individual photo license not independently rechecked." + (" Original source reference is not the exact photo page and must be reconciled before public publication." if not exact_photo_source else "")
         else:
             if "All rights reserved" not in lic:
                 skipped["Calvin unusual source license"]+=1
@@ -75,6 +82,7 @@ for row in idx["entries"]:
           "license":license_label,
           "license_url":license_url,
           "source_page":source,
+          "source_page_verified":exact_photo_source,
           "role":photo.get("role",""),
           "source_metadata_license":lic,
           "status":rights,
@@ -96,6 +104,7 @@ summary={"status":"PRIVATE_REVIEW_ONLY_NOT_PUBLIC_RIGHTS_APPROVED","source_commi
     "newly_staged_calvin_author_permission":counts["Calvin King"],
     "newly_staged_joey_source_cc_by_nc_claim":counts["Joey Santore"],
     "newly_added_originals":len(new),"public_release_approval":False,
+    "joey_missing_exact_photo_page_in_private_review":sum(v["creator"]=="Joey Santore" and not v["source_page_verified"] for v in new.values()),
     "additional_held_reasons":dict(skipped),
     "joey_source_photo_references_still_held":found["Joey Santore"]-skipped["Joey Santore already independently verified"]-counts["Joey Santore"]}
 (ROOT/"migration/asteraceae-author-photo-additions-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
