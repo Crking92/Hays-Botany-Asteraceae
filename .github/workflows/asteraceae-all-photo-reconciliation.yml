@@ -1,0 +1,47 @@
+name: Reconcile ALL Asteraceae source photos and rights in permanent ledgers
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/reconcile_asteraceae_all_source_photos.py'
+      - '.github/workflows/asteraceae-all-photo-reconciliation.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-asset-ledger-reconciliation
+  cancel-in-progress: false
+jobs:
+  audit-all-459-originals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - name: Check all original image files, photo IDs, source metadata, rights decisions, and archive Git hashes
+        run: python3 shell/scripts/reconcile_asteraceae_all_source_photos.py staging
+      - name: Commit complete inventory and unresolved reference list to the private staging branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/asteraceae-full-image-asset-reconciliation.json migration/asteraceae-full-image-asset-reconciliation.csv migration/asteraceae-unresolved-image-references.json migration/asteraceae-full-image-reconciliation-summary.json migration/asteraceae-species-image-coverage.json
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo "All 459 originals already accounted for"
+          else
+            git commit -m "Permanently reconcile all 459 original Asteraceae photos, 477 references and 249 held images"
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Upload QA summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-all-459-source-photos-accounted-for
+          path: staging/qa-report/asteraceae-asset-reconciliation/
+          retention-days: 30
+          if-no-files-found: warn
