@@ -8,7 +8,7 @@ on:
       - 'site/**'
       - '.github/workflows/asteraceae-photo-preview.yml'
   workflow_dispatch:
-permissions: {contents: read}
+permissions: {contents: write}
 jobs:
   review-site:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
         with:
           ref: staging/asteraceae-metadata
           path: data-source
-          persist-credentials: false
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - name: Install site-builder and headless browser
@@ -39,6 +39,23 @@ jobs:
           python -m http.server 8767 --directory shell/dist >/tmp/asteraceae-photo-test-server.log 2>&1 &
           sleep 2
           python3 shell/scripts/test_asteraceae_photo_preview_browser.py
+      - name: Preserve each hidden image's specific reason in private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp shell/qa-report/photo-curation/private/curation-decisions.json data-source/migration/asteraceae-field-first-gallery-exclusions.json
+          cp shell/qa-report/photo-curation/private/summary.json data-source/migration/asteraceae-field-first-gallery-curation-summary.json
+          cd data-source
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/asteraceae-field-first-gallery-exclusions.json migration/asteraceae-field-first-gallery-curation-summary.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Record excluded Asteraceae gallery photos without deleting archived sources"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
       - name: Save downloadable photo learner and QA images; do not publish
         if: always()
         uses: actions/upload-artifact@v4
@@ -47,5 +64,6 @@ jobs:
           path: |
             shell/dist/
             shell/qa-report/photo-site/
+            shell/qa-report/photo-curation/
           retention-days: 30
           if-no-files-found: warn
