@@ -1,28 +1,30 @@
 {
-  "archived_original_images_in_private_staging": 210,
+  "archived_original_images_in_private_staging": 243,
   "assertions": "Source file paths, sizes, Git blob IDs, staged file IDs, rights ledgers, and all source references reconciled; rights claims for held images NOT verified.",
   "held_followup_priority": {
-    "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR": 120,
+    "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR": 87,
     "NEEDS_REFERENCE_RECONCILIATION_BEFORE_PROMOTION": 11,
     "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL": 34,
     "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE": 84
   },
   "held_license_claim_buckets": {
     "ALL_RIGHTS_RESERVED": 3,
-    "CC0_CLAIM_UNVERIFIED": 34,
-    "CC_ATTRIBUTION_CLAIM_UNVERIFIED": 72,
+    "CC0_CLAIM_UNVERIFIED": 19,
+    "CC_ATTRIBUTION_CLAIM_UNVERIFIED": 63,
     "NC_CLAIM_UNVERIFIED": 84,
     "NO_REFERENCE_OR_CSV_RIGHTS": 7,
     "OTHER_OR_UNKNOWN_RIGHTS": 31,
-    "PUBLIC_DOMAIN_CLAIM_UNVERIFIED": 15,
+    "PUBLIC_DOMAIN_CLAIM_UNVERIFIED": 6,
     "UNRECORDED": 3
   },
   "migrated_photo_categories": {
     "ARCHIVED_EXACT_CC_COMMONS_SOURCE_VERIFIED": 82,
     "ARCHIVED_EXACT_INAT_SOURCE_VERIFIED_CC_BY_NC": 92,
     "ARCHIVED_EXACT_INAT_SOURCE_VERIFIED_REUSABLE_CC": 6,
+    "ARCHIVED_INAT_CURRENT_TAXON_DEFAULT_CC_VISUALLY_MATCHED": 5,
     "ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION": 6,
-    "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM": 24
+    "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM": 24,
+    "ARCHIVED_UPSTREAM_COMMONS_CURRENT_CC_OR_PD_VISUALLY_MATCHED": 28
   },
   "missing_reference_reasons": {
     "EXTERNAL_IMAGE_URL_NOT_A_LOCAL_SOURCE_BLOB": 29
@@ -30,7 +32,7 @@
   "original_hub_remains_authoritative": true,
   "physical_source_image_files": 459,
   "public_release_allowed_by_audit": false,
-  "remaining_source_originals_held_and_indexed": 249,
+  "remaining_source_originals_held_and_indexed": 216,
   "source_files_not_referenced_by_species_card": 11,
   "source_image_bytes": 156804745,
   "source_image_references": 477,
@@ -39,7 +41,7 @@
   "source_pinned_commit_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
   "source_repo": "Crking92/Hays-County-Botany",
   "species": 180,
-  "staging_commit_sha_at_audit": "50a50f936516e79385fef3636f23a074a43b613a",
+  "staging_commit_sha_at_audit": "f3616450fd49b7a50ce74162476d4067b17e7437",
   "staging_photos_without_a_source_or_rights_ledger": 0,
   "staging_repo": "Crking92/Hays-Botany-Asteraceae",
   "status": "ALL_SOURCE_IMAGES_AND_REFERENCES_ACCOUNTED_FOR; NOT_ALL_PUBLICATION_READY",
