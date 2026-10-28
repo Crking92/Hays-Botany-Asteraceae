@@ -1,0 +1,755 @@
+[
+  {
+    "species_id": "tetraneuris-linearifolia",
+    "scientific_name": "Tetraneuris linearifolia",
+    "common_name": "Fineleaf four-nerve daisy",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-linearifolia/images/tetraneuris-linearifolia_habit-source-label_08-16.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "92d2aed84ed43cb3c0b49b0fb4e31f34f2709b53"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-linearifolia/images/tetraneuris-linearifolia_linear-woolly-leaves_08-20.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "512f683526a236994b4f0bc24d9df6c8bc7de56c"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-linearifolia/images/tetraneuris-linearifolia_phyllaries-id-cue_07-30.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=m1rrQfljKAo",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "493e0722b6435d7d8f47c45c9bd71d0cdbc6650e"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "SEARCH_NEW_LICENSED_IMAGE_OR_GET_RIGHTSHOLDER_PERMISSION"
+  },
+  {
+    "species_id": "amphiachyris-amoena",
+    "scientific_name": "Amphiachyris amoena",
+    "common_name": "Texas broomweed",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-amoena/images/inat-165635431-reviewed-86a48835c750.jpg",
+        "creator_claim": "Ellen Hildebrandt",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/165635431",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "145999a851a164baec1b13de4ffa20ca9670295f"
+      }
+    ],
+    "external_image_references": [
+      {
+        "source": "https://www.inaturalist.org/taxa/158299-Amphiachyris-amoena",
+        "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/165635431/original.jpeg"
+      }
+    ],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "carphochaete-bigelovii",
+    "scientific_name": "Carphochaete bigelovii",
+    "common_name": "Bigelow's carphochaete",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Carphochaete/carphochaete-bigelovii/images/inat-63143704.jpg",
+        "creator_claim": "(c) Danielle Carlock (Cowan), some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/63143704",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "89f9e1dce9499da0bf75f27073a0f048dbbbfdaf"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "centaurea-melitensis",
+    "scientific_name": "Centaurea melitensis",
+    "common_name": "Malta starthistle",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Centaurea/centaurea-melitensis/images/inat-352790294.jpg",
+        "creator_claim": "(c) abounabatphone, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/352790294",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "fc05caa0b9723c6b7d56ed2baf910c40baf769b1"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "heterotheca-canescens",
+    "scientific_name": "Heterotheca canescens",
+    "common_name": "Hoary goldenaster",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-canescens/images/inat-743781768.jpg",
+        "creator_claim": "(c) marge3012, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/743781768",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "f81486261e15f92720c023cfb11255c0fab023f8"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "hymenopappus-artemisiifolius",
+    "scientific_name": "Hymenopappus artemisiifolius",
+    "common_name": "Hymenopappus artemisiifolius",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-artemisiifolius/images/inat-204546167.jpg",
+        "creator_claim": "(c) J. Richard Abbott, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/204546167",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "6875b93a4bae5563e09f06a1f908f07c32d03a08"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "plectocephalus-americanus",
+    "scientific_name": "Plectocephalus americanus",
+    "common_name": "American Basketflower",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/images/01-curated-reference.jpg",
+        "creator_claim": "(c) Cosmic Cat, some rights reserved (CC BY-NC-ND), uploaded by Cosmic Cat",
+        "license_claim": "cc-by-nc-nd",
+        "source_page": "https://www.inaturalist.org/taxa/699778",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "db48ac5a511f711ab5ec6aaefe8b62d89e993bde"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/images/02-curated-reference.jpg",
+        "creator_claim": "(c) Dan Johnson, some rights reserved (CC BY-NC), uploaded by Dan Johnson",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/699778",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "947ee946277a82caba4431de93a3dd7752a4a866"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/images/03-same-plant-field-view-1.jpg",
+        "creator_claim": "(c) Erin Stenzel, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/382735633",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "696dcbe350c76ca9a444bf042f7a21225e8a2c38"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/images/04-same-plant-field-view-2.jpg",
+        "creator_claim": "(c) Erin Stenzel, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/382735633",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "997a99b7ff0a80949f7546eddee2742121852347"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/images/05-same-plant-field-view-3.jpg",
+        "creator_claim": "(c) Erin Stenzel, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/382735633",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "cca3f0a2b8ba63a63389d94d526f521d062c7485"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "pyrrhopappus-grandiflorus",
+    "scientific_name": "Pyrrhopappus grandiflorus",
+    "common_name": "Texas false dandelion",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-grandiflorus/images/inat-294722864.jpg",
+        "creator_claim": "(c) Izzy Gonzales, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/294722864",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "4a16dbc4cde6c5383be9865cd1898e27a114cac9"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "ratibida-columnifera",
+    "scientific_name": "Ratibida columnifera",
+    "common_name": "Upright Prairie Coneflower",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/images/01-curated-reference.jpg",
+        "creator_claim": "(c) Denise Gary, all rights reserved, uploaded by Denise Gary",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/taxa/78836",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "0c716ca28d74d86629cd7c5c5cf0ba1dc8309532"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/images/02-curated-reference.jpg",
+        "creator_claim": "(c) Sarah Towne, some rights reserved (CC BY-NC), uploaded by Sarah Towne",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/78836",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "b6a560126e40b93da782c0db16c81a40379234da"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/images/03-same-plant-field-view-1.jpg",
+        "creator_claim": "(c) sage-11, some rights reserved (CC BY-NC)",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/392838494",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "1b6eada58019fe55d144a48cd75d67e868e6bc97"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/images/04-same-plant-field-view-2.jpg",
+        "creator_claim": "(c) sage-11, some rights reserved (CC BY-NC)",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/392838494",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "d5c26152d8f1026a68aa8783aa6a1ed9e6a43f29"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/images/05-same-plant-field-view-3.jpg",
+        "creator_claim": "(c) sage-11, some rights reserved (CC BY-NC)",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/392838494",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "dd99f73a6b6d6a20a18b05cc719d5809d8793c28"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "verbesina-encelioides",
+    "scientific_name": "Verbesina encelioides",
+    "common_name": "Cowpen Daisy",
+    "family": "Asteraceae",
+    "field_review_priority": "HIGH_CANDIDATE_FOR_CREW",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/images/01-curated-reference.jpg",
+        "creator_claim": "(c) RCBuck, all rights reserved, uploaded by RCBuck",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/taxa/79495",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "db196135dce04fcbdef0b67f79c1203ab5cf65e5"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/images/02-curated-reference.jpg",
+        "creator_claim": "(c) Christine Sydes, some rights reserved (CC BY-NC), uploaded by Christine Sydes",
+        "license_claim": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/79495",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "0b5036aa9c29e06d98e137e00d44b9f8850d5d3e"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/images/03-same-plant-field-view-1.jpg",
+        "creator_claim": "(c) Katelyn Presley, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/404006788",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "d7c5bd8a319ff891e45f89206518505e421485fd"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/images/04-same-plant-field-view-2.jpg",
+        "creator_claim": "(c) Katelyn Presley, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/404006788",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "bd3d276b9413ae2334443504f2c240f2d8cad304"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/images/05-same-plant-field-view-3.jpg",
+        "creator_claim": "(c) Katelyn Presley, all rights reserved",
+        "license_claim": "license not supplied by API",
+        "source_page": "https://www.inaturalist.org/observations/404006788",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "115c000d0c7f94b439b8168afc725245aab04470"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "tetragonotheca-texana",
+    "scientific_name": "Tetragonotheca texana",
+    "common_name": "Squarebud daisy",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Tetragonotheca/tetragonotheca-texana/images/tetragonotheca-texana_disk-florets-ray-florets_09-12.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "d09bcb5a7b492d32d80a9cd14d936bb8d93d2a39"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Tetragonotheca/tetragonotheca-texana/images/tetragonotheca-texana_habit-source-label_08-52.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "7d7a6ccde546cf0bac9c21b55273a668501d3783"
+      },
+      {
+        "source_path": "content/taxa/Asteraceae/Tetragonotheca/tetragonotheca-texana/images/tetragonotheca-texana_square-phyllaries_09-04.jpg",
+        "creator_claim": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license_claim": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+        "next_action": "OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL",
+        "original_source_git_blob_sha": "d989a143a7fb0d171310f87dd433587e2542c8ab"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "SEARCH_NEW_LICENSED_IMAGE_OR_GET_RIGHTSHOLDER_PERMISSION"
+  },
+  {
+    "species_id": "arnoglossum-plantagineum",
+    "scientific_name": "Arnoglossum plantagineum",
+    "common_name": "Plantainleaf Indian plantain",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Arnoglossum/arnoglossum-plantagineum/images/inat-198293013.jpg",
+        "creator_claim": "(c) caleborear, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/198293013",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "4a45d0646df0d555a35b7fc0e0cc75a41492f5a0"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "bradburia-hirtella",
+    "scientific_name": "Bradburia hirtella",
+    "common_name": "Bradburia hirtella",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Bradburia/bradburia-hirtella/images/inat-6802041.jpg",
+        "creator_claim": "(c) Eric Keith, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/6802041",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "e845ad6a47f2de8439f48f4fd4123543740751a3"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "chaptalia-texana",
+    "scientific_name": "Chaptalia texana",
+    "common_name": "Texas silverpuff",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Chaptalia/chaptalia-texana/images/inat-102850329.jpg",
+        "creator_claim": "(c) Curren Frasch, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/102850329",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "bcd3b711fbd4c8a92b30b3fca7da602e6236b7d3"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "chondrilla-juncea",
+    "scientific_name": "Chondrilla juncea",
+    "common_name": "Rush skeletonweed",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Chondrilla/chondrilla-juncea/images/inat-568515470.jpg",
+        "creator_claim": "(c) Carlos Bernal, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/568515470",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "eb52ee816aaec8a9934fafdc71c5d16fd52414a7"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "heterotheca-stenophylla",
+    "scientific_name": "Heterotheca stenophylla",
+    "common_name": "Narrowleaf goldenaster",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-stenophylla/images/inat-290953234.jpg",
+        "creator_claim": "(c) Andy Blair, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/290953234",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "015903efd554fe995979545c01dfe9f5e1d742f7"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "iva-asperifolia-var-angustifolia",
+    "scientific_name": "Iva asperifolia var. angustifolia",
+    "common_name": "Narrowleaf sumpweed",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Iva/iva-asperifolia-var-angustifolia/images/inat-4583677.jpg",
+        "creator_claim": "(c) blake hendon, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/4583677",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "bfd89b1df207e61528a0bc1d28b46ecdeda1b845"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "leontodon-rhagadioloides",
+    "scientific_name": "Leontodon rhagadioloides",
+    "common_name": "Crete weed",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Leontodon/leontodon-rhagadioloides/images/inat-271033739.jpg",
+        "creator_claim": "(c) Дмитрий Епихин, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/271033739",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "17dff6a7ca3a4433dec4d094dc89b6aa47d4445e"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "packera-tampicana",
+    "scientific_name": "Packera tampicana",
+    "common_name": "Packera tampicana",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Packera/packera-tampicana/images/inat-7168888.jpg",
+        "creator_claim": "(c) Katelyn Reeves, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/7168888",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "1f8d234dea891d9f0bf242dcce57d3bf379a92bb"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "parthenium-confertum",
+    "scientific_name": "Parthenium confertum",
+    "common_name": "Parthenium confertum",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Parthenium/parthenium-confertum/images/inat-119769934.jpg",
+        "creator_claim": "(c) Jerry Morrisey, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/119769934",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "ca559e807ade3baea1b1b7a171da01dfc9352ee9"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "pectis-angustifolia-var-fastigiata",
+    "scientific_name": "Pectis angustifolia var. fastigiata",
+    "common_name": "Narrowleaf chinchweed, fastigiata variety",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia-var-fastigiata/images/inat-246007542.jpg",
+        "creator_claim": "(c) 🌱 Aaron Lincoln 🌱, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/246007542",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "02dec969852050cf58f9eb2ad4cde0310d630b14"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "pseudognaphalium-canescens",
+    "scientific_name": "Pseudognaphalium canescens",
+    "common_name": "Woolly cudweed",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Pseudognaphalium/pseudognaphalium-canescens/images/inat-472191127.jpg",
+        "creator_claim": "(c) Dan Beckman, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/472191127",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "0f666adb3ca57e59b26ec32519bff9ad49a18f40"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "pyrrhopappus-carolinianus",
+    "scientific_name": "Pyrrhopappus carolinianus",
+    "common_name": "Carolina false dandelion",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-carolinianus/images/inat-138976212.jpg",
+        "creator_claim": "(c) ladyf, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/138976212",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "73a7baf90760737c7247c3a0e2ac328d41abf57e"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "senecio-ampullaceus",
+    "scientific_name": "Senecio ampullaceus",
+    "common_name": "Texas groundsel",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Senecio/senecio-ampullaceus/images/inat-63968234.jpg",
+        "creator_claim": "(c) Marty Schoenemann, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/63968234",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "3086f8b632f57152738bf36806f63585a558f224"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "sideranthus-spinulosus",
+    "scientific_name": "Sideranthus spinulosus",
+    "common_name": "Sideranthus spinulosus",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Sideranthus/sideranthus-spinulosus/images/inat-435302058.jpg",
+        "creator_claim": "(c) nat_plzn, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/435302058",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "59b11fd91593c006dbb7ea6632d7073d6d9b690b"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "sidneya-tenuifolia",
+    "scientific_name": "Sidneya tenuifolia",
+    "common_name": "Narrowleaf goldeneye",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Sidneya/sidneya-tenuifolia/images/inat-160967972.jpg",
+        "creator_claim": "(c) baerst, some rights reserved (CC BY-NC)",
+        "license_claim": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/160967972",
+        "next_action": "RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE",
+        "original_source_git_blob_sha": "dd93f91064f415104820450907bede86d4e14473"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE"
+  },
+  {
+    "species_id": "berlandiera-betonicifolia",
+    "scientific_name": "Berlandiera betonicifolia",
+    "common_name": "Betonyleaf greeneyes",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Berlandiera/berlandiera-betonicifolia/images/inat-211232845.jpg",
+        "creator_claim": "(c) Laura Clark, some rights reserved (CC BY)",
+        "license_claim": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/211232845",
+        "next_action": "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR",
+        "original_source_git_blob_sha": "a04e04b0bbc7a462b7b8c9cfe2245a386aeed803"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_PERMISSIVE_SOURCE"
+  },
+  {
+    "species_id": "hymenopappus-scabiosaeus-var-corymbosus",
+    "scientific_name": "Hymenopappus scabiosaeus var. corymbosus",
+    "common_name": "Old plainsman (corymbose variety)",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/images/inat-276095449.jpg",
+        "creator_claim": "(c) Reid Hardin, some rights reserved (CC BY)",
+        "license_claim": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/276095449",
+        "next_action": "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR",
+        "original_source_git_blob_sha": "c68290dab277f6f04f45e99a3e0f99aa7f90d335"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_PERMISSIVE_SOURCE"
+  },
+  {
+    "species_id": "krigia-occidentalis",
+    "scientific_name": "Krigia occidentalis",
+    "common_name": "Western dwarf dandelion",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Krigia/krigia-occidentalis/images/inat-14181884.jpg",
+        "creator_claim": "(c) Morgan Hay, some rights reserved (CC BY)",
+        "license_claim": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/14181884",
+        "next_action": "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR",
+        "original_source_git_blob_sha": "b4507cdb51553c618a404d464aca99d9224fb4d8"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_PERMISSIVE_SOURCE"
+  },
+  {
+    "species_id": "laphamia-lindheimeri",
+    "scientific_name": "Laphamia lindheimeri",
+    "common_name": "Lindheimer's laphamia",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Laphamia/laphamia-lindheimeri/images/inat-71897171.jpg",
+        "creator_claim": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+        "license_claim": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/71897171",
+        "next_action": "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR",
+        "original_source_git_blob_sha": "97b5309fedc3c08387e3ca60f44ff900275a6bdc"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_PERMISSIVE_SOURCE"
+  },
+  {
+    "species_id": "wedelia-acapulcensis",
+    "scientific_name": "Wedelia acapulcensis",
+    "common_name": "Wedelia acapulcensis",
+    "family": "Asteraceae",
+    "field_review_priority": "STANDARD",
+    "current_archived_gallery_photos": 0,
+    "source_original_photos_held": [
+      {
+        "source_path": "content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis/images/inat-573480720.jpg",
+        "creator_claim": "(c) Andrea Villarreal Rodríguez, some rights reserved (CC BY)",
+        "license_claim": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/573480720",
+        "next_action": "FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR",
+        "original_source_git_blob_sha": "fb91c62f9bf9c73e92acee569aea6d5d03080457"
+      }
+    ],
+    "external_image_references": [],
+    "next_action_lane": "VERIFY_EXISTING_PERMISSIVE_SOURCE"
+  }
+]

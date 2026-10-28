@@ -1,0 +1,21 @@
+{
+  "status": "ACCOUNTING_GREEN; PRIVATE_LEARNER_REVIEW_GATE_NOT_PUBLIC_RELEASE",
+  "species": 180,
+  "species_with_verified_preview_photo": 149,
+  "species_without_approved_archived_photo": 31,
+  "original_physical_images": 459,
+  "physical_images_archived": 322,
+  "source_images_held": 137,
+  "all_source_images_accounted_for": true,
+  "external_images_separate": 29,
+  "zero_photo_species_worklist": 31,
+  "photo_gap_lanes": {
+    "SEARCH_NEW_LICENSED_IMAGE_OR_GET_RIGHTSHOLDER_PERMISSION": 2,
+    "VERIFY_EXISTING_NC_OR_FIND_PUBLIC_SAFE_ALTERNATIVE": 24,
+    "VERIFY_EXISTING_PERMISSIVE_SOURCE": 5
+  },
+  "field_priority_suggestions": 10,
+  "unverified_anatomy_annotation_gate": "REMAINS_OPEN",
+  "public_pages_release_gate": "NOT_APPROVED; RESTRICTED_IMAGES_IN_PRIVATE_REPOSITORY",
+  "recommended_transition": "Two additional focused QA/rights passes after photo-gap rescue; retain documented backlog and no forced public deployment"
+}
