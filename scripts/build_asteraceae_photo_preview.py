@@ -20,7 +20,10 @@ commons_approved=json.loads(ledger_path.read_text())
 inat_path=STAGING/"migration/asteraceae-verified-inat-photo-ledger.json"
 inat_approved=json.loads(inat_path.read_text()) if inat_path.is_file() else {}
 assert not (set(commons_approved)&set(inat_approved)), "Overlapping license sources require review"
-approved={**commons_approved,**inat_approved}
+author_path=STAGING/"migration/asteraceae-author-permitted-private-photo-ledger.json"
+author_private=json.loads(author_path.read_text()) if author_path.is_file() else {}
+assert not (set(author_private)&(set(commons_approved)|set(inat_approved))), "Author photo ledger overlaps independent licenses"
+approved={**commons_approved,**inat_approved,**author_private}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
@@ -70,7 +73,7 @@ for row in index["entries"]:
         rel=original.get("file","")
         full=row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else ""
         if full not in approved:continue
-        if STRICT_PUBLIC_CC and approved[full].get("noncommercial_only",False):continue
+        if STRICT_PUBLIC_CC and (full in author_private or approved[full].get("noncommercial_only",False)):continue
         info=approved[full]
         assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY"))
         source=STAGING/full
@@ -89,13 +92,15 @@ for row in index["entries"]:
         photos.append({"src":out_rel,"creator":info["creator"],"license":info["license"],"license_url":info["license_url"].replace("http://creativecommons.org/","https://creativecommons.org/"),
                        "source_page":info["source_page"],"role":original.get("role",""),
                        "modified":"Scaled/converted to JPEG, metadata removed; no anatomy overlays",
-                       "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False))})
+                       "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False)),
+                       "private_rights_review_only":full in author_private,
+                       "rights_note":info.get("permission_basis","")})
         photo_count+=1;photo_species.add(doc["id"])
         if info.get("noncommercial_only",False):nc_photo_count+=1
     public_safe={"id":doc["id"],"scientific_name":doc["scientific_name"],"common_name":doc.get("common_name",""),
          "family":"Asteraceae","genus":doc["genus"],"look_here_first":to_text(doc.get("look_here_first")),
          "key_traits":traits,"lookalikes":{"names":names,"differences":diff},
-         "verified_photos":photos,"media_status":"VERIFIED_PUBLIC_STRICT_CC_ONLY" if STRICT_PUBLIC_CC else "PARTIAL_VERIFIED_WITH_NC_PRIVATE_TEST",
+         "verified_photos":photos,"media_status":"VERIFIED_PUBLIC_STRICT_CC_ONLY" if STRICT_PUBLIC_CC else "PRIVATE_MIXED_RIGHTS_PREVIEW_AND_AUTHOR_PERMISSION",
          "source_snapshot_sha":index["source_commit_sha"]}
     (DEST/"data/species"/(doc["id"]+".json")).write_text(json.dumps(public_safe,indent=2,ensure_ascii=False)+"\n")
 jpgs=list(DEST.rglob("*.jpg"))
@@ -104,7 +109,9 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(approved),"noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
+         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved),
+         "owner_or_source_record_only_private_photo_archives":len(author_private),
+         "noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
          "output_jpegs":len(jpgs),"public_pages_enabled":False,
          "strict_public_cc":STRICT_PUBLIC_CC}
 (DEST/"data/preview-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
