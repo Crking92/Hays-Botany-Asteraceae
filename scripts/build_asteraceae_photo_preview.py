@@ -2,13 +2,14 @@
 """Assemble a private, nondeployed Asteraceae test site with real source-verified CC photos.
 The 2026-10-28 preview preserves NC photo restrictions and never publishes Pages.
 """
-import hashlib, json, re, shutil, sys
+import hashlib, json, os, re, shutil, sys
 from collections import Counter
 from pathlib import Path
 from PIL import Image, ImageOps
 
 SHELL=Path(__file__).resolve().parents[1]
 STAGING=Path(sys.argv[1]).resolve()
+STRICT_PUBLIC_CC=os.environ.get("HAYS_ASTERACEAE_PUBLIC_STRICT")=="1"
 DEST=SHELL/"dist"
 config=json.loads((STAGING/"config/collection.json").read_text())
 index=json.loads((STAGING/"data/collection-index.json").read_text())
@@ -66,6 +67,7 @@ for row in index["entries"]:
         rel=original.get("file","")
         full=row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else ""
         if full not in approved:continue
+        if STRICT_PUBLIC_CC and approved[full].get("noncommercial_only",False):continue
         info=approved[full]
         assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY"))
         source=STAGING/full
@@ -90,16 +92,17 @@ for row in index["entries"]:
     public_safe={"id":doc["id"],"scientific_name":doc["scientific_name"],"common_name":doc.get("common_name",""),
          "family":"Asteraceae","genus":doc["genus"],"look_here_first":to_text(doc.get("look_here_first")),
          "key_traits":traits,"lookalikes":{"names":names,"differences":diff},
-         "verified_photos":photos,"media_status":"PARTIAL_VERIFIED_COMMONS_ONLY",
+         "verified_photos":photos,"media_status":"VERIFIED_PUBLIC_STRICT_CC_ONLY" if STRICT_PUBLIC_CC else "PARTIAL_VERIFIED_WITH_NC_PRIVATE_TEST",
          "source_snapshot_sha":index["source_commit_sha"]}
     (DEST/"data/species"/(doc["id"]+".json")).write_text(json.dumps(public_safe,indent=2,ensure_ascii=False)+"\n")
 jpgs=list(DEST.rglob("*.jpg"))
 assert len(jpgs)==photo_count and photo_count>=2
 assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
-summary={"status":"PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
+summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
          "source_verified_distinct_archives":len(approved),"noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
-         "output_jpegs":len(jpgs),"public_pages_enabled":False}
+         "output_jpegs":len(jpgs),"public_pages_enabled":False,
+         "strict_public_cc":STRICT_PUBLIC_CC}
 (DEST/"data/preview-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
 print("ASTERACEAE_PHOTO_SITE",json.dumps(summary,sort_keys=True),flush=True)
