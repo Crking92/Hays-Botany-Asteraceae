@@ -24,9 +24,11 @@ author_path=STAGING/"migration/asteraceae-author-permitted-private-photo-ledger.
 author_private=json.loads(author_path.read_text()) if author_path.is_file() else {}
 upstream_path=STAGING/"migration/asteraceae-upstream-commons-120-ledger.json"
 upstream_verified=json.loads(upstream_path.read_text()) if upstream_path.is_file() else {}
-all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified)]
+inat_taxon_path=STAGING/"migration/asteraceae-upstream-inat-taxon-120-ledger.json"
+inat_taxon_verified=json.loads(inat_taxon_path.read_text()) if inat_taxon_path.is_file() else {}
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
-approved={**commons_approved,**inat_approved,**author_private,**upstream_verified}
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
@@ -122,8 +124,9 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified),
+         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified),
          "new_verified_upstream_commons_archives":len(upstream_verified),
+         "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "owner_or_source_record_only_private_photo_archives":len(author_private),
          "owner_or_source_record_only_private_photo_copies":private_author_photo_count,
          "species_with_any_review_photos":len(photo_species),
