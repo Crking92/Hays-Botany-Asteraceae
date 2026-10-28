@@ -1,6 +1,6 @@
 "use strict";
 const $=id=>document.getElementById(id);
-const siteState={config:null,entries:[],active:null,mode:"learner"};
+const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map()};
 const hub="https://crking92.github.io/Hays-County-Botany/";
 function setText(node,text){node.textContent=String(text??"");return node}
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)setText(n,text);if(cls)n.className=cls;return n}
@@ -18,13 +18,42 @@ function renderList(){
    b.addEventListener("click",()=>select(s.id,true));result.append(b);
  }
 }
-function select(id,push){
+async function select(id,push){
  const r=siteState.entries.find(x=>x.id===id);
  if(!r){statusMessage("Plant not available","That species has not been imported or verified in this family collection.");return}
  siteState.active=id;renderList();
- const d=$("detail");clear(d);d.append(el("p",r.family+" · "+r.genus,"sectionnum"),el("h3",r.common_name||r.scientific_name),el("p",r.scientific_name,"latin"));
- d.append(el("p","A verified "+(siteState.mode==="learner"?"visual lesson":"field-identification tile")+" will be displayed here after source data, photos, and anatomy annotations have passed the migration and publication reviews.","muted"));
  if(push){const url=new URL(location.href);url.searchParams.set("species",id);history.pushState({species:id},"",url)}
+ const d=$("detail");clear(d);d.append(el("p",r.family+" · "+r.genus,"sectionnum"),el("h3",r.common_name||r.scientific_name),el("p",r.scientific_name,"latin"));
+ try{
+   if(!siteState.details.has(id)){
+     const resp=await fetch("data/species/"+encodeURIComponent(id)+".json");
+     if(!resp.ok)throw Error("Verified teaching summary is not available yet");
+     siteState.details.set(id,await resp.json());
+   }
+   if(siteState.active!==id)return;
+   const card=siteState.details.get(id);
+   d.append(el("p","Scientific metadata preview — no photographs published or confirmed","muted"));
+   if(card.look_here_first){
+     d.append(el("h3","LOOK HERE FIRST"));
+     d.append(el("p",card.look_here_first));
+   }
+   if(siteState.mode==="learner" && Array.isArray(card.key_traits)&&card.key_traits.length){
+     d.append(el("h3","Anatomy and field recognition"));
+     const list=el("ul");
+     for(const trait of card.key_traits.slice(0,10)){
+       const li=el("li");li.append(el("strong",trait.label+": "),document.createTextNode(trait.text));list.append(li);
+     }
+     d.append(list);
+   }
+   if(card.lookalikes){
+     d.append(el("h3","Look-alikes"));
+     if(card.lookalikes.names?.length)d.append(el("p","Compare with: "+card.lookalikes.names.join(", ")));
+     if(card.lookalikes.differences)d.append(el("p",card.lookalikes.differences));
+   }
+   d.append(el("p","Photographs, verified arrows and the full visual teaching gallery are not yet in this staging preview. See the existing main learner for the current live materials.","muted"));
+ }catch(error){
+   if(siteState.active===id)d.append(el("p","Teaching summary pending: "+error.message,"muted"));
+ }
 }
 function setMode(mode){
  siteState.mode=mode;
