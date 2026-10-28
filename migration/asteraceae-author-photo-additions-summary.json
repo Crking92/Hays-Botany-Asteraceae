@@ -7,15 +7,16 @@
   },
   "already_independently_verified": {
     "Joey Santore already independently verified": 41,
-    "Joey Santore no exact photo source": 14
+    "Joey Santore missing iNaturalist provenance": 11
   },
   "newly_staged_calvin_author_permission": 6,
-  "newly_staged_joey_source_cc_by_nc_claim": 21,
-  "newly_added_originals": 27,
+  "newly_staged_joey_source_cc_by_nc_claim": 24,
+  "newly_added_originals": 30,
   "public_release_approval": false,
+  "joey_missing_exact_photo_page_in_private_review": 3,
   "additional_held_reasons": {
     "Joey Santore already independently verified": 41,
-    "Joey Santore no exact photo source": 14
+    "Joey Santore missing iNaturalist provenance": 11
   },
-  "joey_source_photo_references_still_held": 14
+  "joey_source_photo_references_still_held": 11
 }
