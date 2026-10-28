@@ -128,7 +128,7 @@ def license_bucket(s):
     if "BY-NC" in q or "NONCOMMERCIAL" in q:return "NC_CLAIM_UNVERIFIED"
     if "CC0" in q:return "CC0_CLAIM_UNVERIFIED"
     if "CC-BY-SA" in q or "CC-BY" in q:return "CC_ATTRIBUTION_CLAIM_UNVERIFIED"
-    if "PUBLIC DOMAIN" in q or q in {"PD","PDM"}:return "PUBLIC_DOMAIN_CLAIM_UNVERIFIED"
+    if "PUBLIC-DOMAIN" in q or q in {"PD","PDM"}:return "PUBLIC_DOMAIN_CLAIM_UNVERIFIED"
     if "ALL-RIGHTS-RESERVED" in q or "ALL RIGHTS RESERVED" in str(s).upper():return "ALL_RIGHTS_RESERVED"
     return "OTHER_OR_UNKNOWN_RIGHTS"
 
@@ -171,6 +171,16 @@ for path in sorted(photos):
         "source_page":str(meta.get("source_page",""))
     }] if meta else [])
     claim_bucket=license_bucket(candidates[0]["license_claim"]) if candidates else "NO_REFERENCE_OR_CSV_RIGHTS"
+    if ledger:
+        triage="DONE_PRIVATE_SOURCE_ARCHIVE; PRESERVE_RIGHTS_GATE"
+    elif not links:
+        triage="NEEDS_REFERENCE_RECONCILIATION_BEFORE_PROMOTION"
+    elif claim_bucket in {"CC0_CLAIM_UNVERIFIED","CC_ATTRIBUTION_CLAIM_UNVERIFIED","PUBLIC_DOMAIN_CLAIM_UNVERIFIED"}:
+        triage="FIRST_RECHECK_UPSTREAM_PERMISSION_AND_CREATOR"
+    elif claim_bucket=="NC_CLAIM_UNVERIFIED":
+        triage="RECHECK_NONCOMMERCIAL_LICENSE_AND_EXACT_SOURCE"
+    else:
+        triage="OWNER_OR_SOURCE_PERMISSION_NEEDED; LEAVE_IN_ORIGINAL"
     file_record={
         "source_path":path,
         "source_git_blob_sha":original["git_blob_sha"],
@@ -186,6 +196,7 @@ for path in sorted(photos):
         "rights_ledger":ledger["ledger"] if ledger else "",
         "rights_review_state":public_gate,
         "source_license_claim_bucket":claim_bucket,
+        "followup_priority":triage,
         "original_photo_references":len(links),
         "referenced_by_species":sorted(set(x["species_id"] for x in links)),
         "unreferenced_source_photo":not bool(links),
@@ -226,6 +237,7 @@ summary={
     "staging_photos_without_a_source_or_rights_ledger":0,
     "migrated_photo_categories":dict(Counter(p["rights_decision"] for p in all_files if p["archived_in_private_staging"])),
     "held_license_claim_buckets":dict(Counter(p["source_license_claim_bucket"] for p in all_files if not p["archived_in_private_staging"])),
+    "held_followup_priority":dict(Counter(p["followup_priority"] for p in all_files if not p["archived_in_private_staging"])),
     "missing_reference_reasons":dict(Counter(r["reason"] for r in missing_refs)),
     "unreferenced_source_image_files":sum(p["unreferenced_source_photo"] for p in all_files),
     "public_release_allowed_by_audit":False,
@@ -241,7 +253,7 @@ write(out/"asteraceae-species-image-coverage.json",{r["id"]:dict(by_species[r["i
 with (out/"asteraceae-full-image-asset-reconciliation.csv").open("w",encoding="utf-8",newline="") as f:
     fields=("source_path","source_git_blob_sha","source_size_bytes","archived_in_private_staging",
         "rights_decision","source_license_claim_bucket","original_photo_references",
-        "unreferenced_source_photo","listed_in_species_image_sources_csv",
+        "unreferenced_source_photo","listed_in_species_image_sources_csv","followup_priority",
         "referenced_by_species","rights_review_state","action","source_blob_link")
     w=csv.DictWriter(f,fieldnames=fields,lineterminator="\n")
     w.writeheader()
