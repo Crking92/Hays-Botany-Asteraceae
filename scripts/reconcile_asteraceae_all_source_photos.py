@@ -33,6 +33,8 @@ index=read("data/collection-index.json")
 commons=read("migration/asteraceae-verified-commons-photo-ledger.json")
 inat=read("migration/asteraceae-verified-inat-photo-ledger.json")
 author=read("migration/asteraceae-author-permitted-private-photo-ledger.json")
+upstream_path=ROOT/"migration/asteraceae-upstream-commons-120-ledger.json"
+upstream_commons=json.loads(upstream_path.read_text()) if upstream_path.exists() else {}
 assert index["authority"]=="STAGING_ONLY"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 assert census["source_repository"]==SOURCE_REPO
@@ -41,13 +43,13 @@ assert len(index["entries"])==180
 photos={e["path"]:e for e in source if Path(e["path"]).suffix.lower() in IMAGE_EXT}
 assert len(photos)==459 and census["physical_image_files"]==459
 rights_ledger={}
-for name,records in [("commons",commons),("inat",inat),("author_private",author)]:
+for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons)]:
     for file,info in records.items():
         assert file not in rights_ledger,f"Multiple rights ledgers cover {file}"
         assert file in photos,f"Archived file has no source original: {file}"
         assert info["source_git_blob_sha"]==photos[file]["git_blob_sha"],f"Source mismatch: {file}"
         rights_ledger[file]={"ledger":name,"details":info}
-assert len(rights_ledger)==210,f"Expected 210 archived files; got {len(rights_ledger)}"
+assert 210<=len(rights_ledger)<=459,f"Unexpected staged rights ledger count: {len(rights_ledger)}"
 
 # Obtain the destination repo's real Git tree: no need to fetch original hub image bytes.
 def git(*args):
@@ -62,7 +64,7 @@ for line in git("ls-tree","-r","HEAD","content/taxa/Asteraceae").splitlines():
     mode,typ,sha=info.split()
     if typ=="blob" and Path(p).suffix.lower() in IMAGE_EXT:
         staged[p]=sha
-assert len(staged)==210,f"Unexpected physical image count in staging: {len(staged)}"
+assert len(staged)==len(rights_ledger),f"Staged images vs rights ledgers mismatch: {len(staged)}/{len(rights_ledger)}"
 assert set(staged)==set(rights_ledger),(
     f"Staging/rights ledger mismatch: missing {list(set(rights_ledger)-set(staged))[:8]}, "
     f"extra {list(set(staged)-set(rights_ledger))[:8]}")
@@ -148,6 +150,10 @@ for path in sorted(photos):
             details=ledger["details"]
             decision="ARCHIVED_EXACT_INAT_SOURCE_VERIFIED_CC_BY_NC" if details.get("noncommercial_only") else "ARCHIVED_EXACT_INAT_SOURCE_VERIFIED_REUSABLE_CC"
             public_gate="NONCOMMERCIAL_ONLY; HELD_FROM_STRICT_PUBLIC_CANDIDATE" if details.get("noncommercial_only") else "SOURCE_CC_REVIEWED_BUT_SITE_RELEASE_REQUIRED"
+        elif cls=="upstream_commons":
+            details=ledger["details"]
+            decision="ARCHIVED_UPSTREAM_COMMONS_CURRENT_CC_OR_PD_VISUALLY_MATCHED"
+            public_gate="SOURCE_CURRENT_PERMISSION_AND_IMAGE_MATCHED; FINAL DERIVATIVE AND PUBLIC RELEASE QA REQUIRED"
         else:
             details=ledger["details"]
             decision="ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION" if details.get("creator")=="Calvin King" else "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM"
@@ -214,8 +220,8 @@ for path in sorted(photos):
     if not links:counts["UNREFERENCED_SOURCE_IMAGES"]+=1
 
 assert len(all_files)==459
-assert sum(1 for p in all_files if p["archived_in_private_staging"])==210
-assert sum(1 for p in all_files if not p["archived_in_private_staging"])==249
+assert sum(1 for p in all_files if p["archived_in_private_staging"])==len(rights_ledger)
+assert sum(1 for p in all_files if not p["archived_in_private_staging"])==459-len(rights_ledger)
 assert sum(p["source_size_bytes"] for p in all_files)==census["physical_image_bytes"]
 
 summary={
@@ -231,8 +237,8 @@ summary={
     "source_image_references_resolving_to_source_files":448,
     "unresolved_or_external_source_image_references":29,
     "source_files_not_referenced_by_species_card":11,
-    "archived_original_images_in_private_staging":210,
-    "remaining_source_originals_held_and_indexed":249,
+    "archived_original_images_in_private_staging":len(rights_ledger),
+    "remaining_source_originals_held_and_indexed":459-len(rights_ledger),
     "source_images_without_a_migration_disposition":0,
     "staging_photos_without_a_source_or_rights_ledger":0,
     "migrated_photo_categories":dict(Counter(p["rights_decision"] for p in all_files if p["archived_in_private_staging"])),
