@@ -33,12 +33,14 @@ nc84_verified=json.loads(nc84_path.read_text()) if nc84_path.is_file() else {}
 assert all(v.get("noncommercial_only") is True for v in nc84_verified.values()), "NC84 rights restriction absent"
 orphan_path=STAGING/"migration/asteraceae-orphan11-verified-photo-ledger.json"
 orphan_verified=json.loads(orphan_path.read_text()) if orphan_path.is_file() else {}
+zero_path=STAGING/"migration/asteraceae-zero-species-commons-recovery-ledger.json"
+zero_verified=json.loads(zero_path.read_text()) if zero_path.is_file() else {}
 overrides_path=STAGING/"migration/asteraceae-orphan11-gallery-overrides.json"
 orphan_overrides=json.loads(overrides_path.read_text()) if overrides_path.is_file() else {}
 assert {x["source_path"] for values in orphan_overrides.values() for x in values}==set(orphan_verified), "Orphan source photos not exactly mapped to gallery entries"
-all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified),set(orphan_verified)]
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified),set(orphan_verified),set(zero_verified)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
-approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified,**orphan_verified}
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified,**orphan_verified,**zero_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -144,6 +146,7 @@ summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else 
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
          "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified)+len(nc84_verified)+len(orphan_verified),
          "verified_orphan11_gallery_photos":len(orphan_verified),
+         "recovered_zero_photo_species_commons":len(zero_verified),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "new_verified_gbif_media_archives":len(gbif_verified),
