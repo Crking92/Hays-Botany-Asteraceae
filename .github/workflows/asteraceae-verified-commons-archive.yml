@@ -1,0 +1,68 @@
+name: Verify and archive source-exact Commons CC photos (private staging ONLY)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/archive_verified_asteraceae_commons.py'
+      - '.github/workflows/asteraceae-verified-commons-archive.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-commons-private-photo-archive
+  cancel-in-progress: false
+jobs:
+  rights-verified-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: staging
+          persist-credentials: true
+      - name: Pin canonical source SHA without checking out or downloading 459 images
+        shell: bash
+        run: |
+          set -euo pipefail
+          PINNED_SHA="$(python3 -c 'import json;print(json.load(open("staging/migration/asteraceae-source-census.json"))["source_commit_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 \
+            https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/hays-pinned-photo-source"
+          git -C "$RUNNER_TEMP/hays-pinned-photo-source" fetch --depth 1 origin "$PINNED_SHA"
+          git -C "$RUNNER_TEMP/hays-pinned-photo-source" update-ref refs/heads/asteraceae-pinned "$PINNED_SHA"
+          git -C "$RUNNER_TEMP/hays-pinned-photo-source" symbolic-ref HEAD refs/heads/asteraceae-pinned
+          test "$(git -C "$RUNNER_TEMP/hays-pinned-photo-source" rev-parse HEAD)" = "$PINNED_SHA"
+          test "$(git -C staging branch --show-current)" = "staging/asteraceae-metadata"
+      - name: Verify Commons image licensing, author and exact archived photo blob hash
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 shell/scripts/archive_verified_asteraceae_commons.py staging "$RUNNER_TEMP/hays-pinned-photo-source"
+      - name: Add only independently verified Commons originals and rights ledger
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-verified-commons-photo-ledger.json migration/asteraceae-photo-archive-summary.json
+          git diff --cached --check -- migration/*.json
+          if git diff --cached --quiet; then
+            echo "No new verified photos for staging"
+          else
+            git commit -m "Archive independently verified Commons CC Asteraceae photo originals (private staging)"
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Upload all per-photo yes/no rights decisions for research
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-commons-photo-rights-and-archive-review
+          path: staging/qa-report/commons-photo-archive/
+          retention-days: 30
+          if-no-files-found: warn
