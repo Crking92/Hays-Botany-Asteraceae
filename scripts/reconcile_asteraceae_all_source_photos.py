@@ -40,6 +40,8 @@ inat_taxon_path=ROOT/"migration/asteraceae-upstream-inat-taxon-120-ledger.json"
 inat_taxon=json.loads(inat_taxon_path.read_text()) if inat_taxon_path.exists() else {}
 gbif_path=ROOT/"migration/asteraceae-upstream-gbif-120-ledger.json"
 gbif_verified=json.loads(gbif_path.read_text()) if gbif_path.exists() else {}
+nc84_path=ROOT/"migration/asteraceae-verified-84-nc-photo-ledger.json"
+nc84_verified=json.loads(nc84_path.read_text()) if nc84_path.exists() else {}
 assert index["authority"]=="STAGING_ONLY"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 assert census["source_repository"]==SOURCE_REPO
@@ -48,7 +50,7 @@ assert len(index["entries"])==180
 photos={e["path"]:e for e in source if Path(e["path"]).suffix.lower() in IMAGE_EXT}
 assert len(photos)==459 and census["physical_image_files"]==459
 rights_ledger={}
-for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified)]:
+for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified),("nc84",nc84_verified)]:
     for file,info in records.items():
         assert file not in rights_ledger,f"Multiple rights ledgers cover {file}"
         assert file in photos,f"Archived file has no source original: {file}"
@@ -167,6 +169,11 @@ for path in sorted(photos):
             details=ledger["details"]
             decision="ARCHIVED_GBIF_MULTIMEDIA_CURRENT_CC_SOURCE_AND_PIXEL_VERIFIED"
             public_gate="PRIVATE_GBIF_SOURCE_CHECK_ONLY; SECONDARY_CURRENT_LICENSE_AND_FINAL_PUBLIC_RELEASE_QA_REQUIRED"
+        elif cls=="nc84":
+            details=ledger["details"]
+            assert details["noncommercial_only"] is True, "NC image has lost restriction"
+            decision="ARCHIVED_NC84_CURRENT_SOURCE_LICENSE_CREDIT_AND_PIXELS"
+            public_gate="PRIVATE_CC_BY_NC_ONLY; NEVER_INCLUDE_IN_STRICT_PUBLIC_OR_COMMERCIAL_OUTPUT"
         else:
             details=ledger["details"]
             decision="ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION" if details.get("creator")=="Calvin King" else "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM"
