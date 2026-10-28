@@ -1,0 +1,16 @@
+name: Scout field-priority Asteraceae Texas permissive CC photos (read-only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scout_asteraceae_zero_texas.py'
+      - '.github/workflows/scout-asteraceae-zero-texas.yml'
+permissions: {contents: read}
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/scout_asteraceae_zero_texas.py
