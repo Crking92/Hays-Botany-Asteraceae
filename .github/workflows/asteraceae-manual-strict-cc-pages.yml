@@ -1,4 +1,5 @@
 name: Asteraceae manual strict-CC Pages test release (approval required)
+# Public-rights preflight: private NC84 images must remain excluded.
 on:
   push:
     branches: [main]
