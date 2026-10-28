@@ -1,0 +1,88 @@
+name: Asteraceae manual strict-CC Pages test release (approval required)
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish the STRICT CC-only family test site? False builds downloadable candidate only.'
+        required: true
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: asteraceae-approved-test-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions: {contents: read}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: false}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Build STRICT CC-only static learner (no NC or unverified files)
+        env: {HAYS_ASTERACEAE_PUBLIC_STRICT: '1'}
+        run: |
+          python -m pip install 'Pillow>=10,<12'
+          node --check shell/site/app.js
+          python3 shell/scripts/build_asteraceae_photo_preview.py staging
+      - name: Verify license release gate and absence of held or NC photographs
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path("shell/dist")
+          summary=json.loads((root/"data/preview-summary.json").read_text())
+          assert summary["strict_public_cc"] is True
+          assert summary["noncommercial_only_previews"]==0
+          assert summary["verified_photo_copies"]>=2
+          assert summary["species"]==180
+          assert not (root/"content").exists()
+          total=0
+          for p in (root/"data/species").glob("*.json"):
+              data=json.loads(p.read_text())
+              assert data["family"]=="Asteraceae"
+              for item in data.get("verified_photos",[]):
+                  assert item["noncommercial_only"] is False
+                  assert item["license"] and item["creator"] and item["license_url"].startswith("https://creativecommons.org/")
+                  assert item["source_page"].startswith("https://")
+                  assert (root/item["src"]).is_file()
+                  total+=1
+          assert total==summary["verified_photo_copies"]
+          allowed={".json",".html",".js",".css",".jpg",".bat"}
+          assert not any(f.suffix.lower() not in allowed for f in root.rglob("*") if f.is_file())
+          print("ASTERACEAE_STRICT_CC_PAGES_PREFLIGHT_PASS",summary)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-strict-cc-public-release-candidate
+          path: shell/dist/
+          retention-days: 30
+          if-no-files-found: error
+      - name: Configure Pages after owner enables GitHub Actions as Pages source
+        if: \${{ inputs.publish }}
+        uses: actions/configure-pages@v5
+      - name: Package vetted static site for Pages deployment
+        if: \${{ inputs.publish }}
+        uses: actions/upload-pages-artifact@v4
+        with: {path: shell/dist/}
+  deploy:
+    if: \${{ inputs.publish }}
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: \${{ steps.publish.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Publish only after explicit manual dispatch with publish true
+        id: publish
+        uses: actions/deploy-pages@v4
