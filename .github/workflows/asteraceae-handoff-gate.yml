@@ -1,0 +1,49 @@
+name: Track Asteraceae 31-species photo gaps and family transition gate
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_asteraceae_handoff_gate.py'
+      - '.github/workflows/asteraceae-handoff-gate.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-handoff-gate
+  cancel-in-progress: false
+jobs:
+  handoff:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - name: Derive all taxon gaps from audited source inventory
+        run: python3 shell/scripts/build_asteraceae_handoff_gate.py staging
+      - name: Save exact 31-species priorities and readiness gate in PRIVATE staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/asteraceae-31-photo-empty-species-backlog.json migration/asteraceae-family-transition-readiness.json migration/ASTERACEAE_REMAINING_PASSES_AND_EXIT_GATE_20261028.md
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Record field-relevant 31 Asteraceae photo gaps and final two handoff passes"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Retain review report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-family-exit-gate-and-31-species-backlog
+          path: |
+            staging/migration/asteraceae-family-transition-readiness.json
+            staging/migration/ASTERACEAE_REMAINING_PASSES_AND_EXIT_GATE_20261028.md
+          retention-days: 30
+          if-no-files-found: warn
