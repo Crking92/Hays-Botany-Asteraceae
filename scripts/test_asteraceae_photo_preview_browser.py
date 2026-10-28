@@ -12,8 +12,10 @@ with sync_playwright() as p:
         assert response.status==200
         assert page.locator("#species-count").inner_text()=="180"
         summary=page.request.get("http://127.0.0.1:8767/data/preview-summary.json").json()
-        assert summary["verified_photo_copies"]==322, summary
-        assert summary["species_with_any_review_photos"]==149, summary
+        assert summary["verified_photo_copies"]==358, summary
+        assert summary["new_texas_cc_field_photo_copies"]==36, summary
+        assert summary["new_texas_cc_field_species"]==26, summary
+        assert summary["species_with_any_review_photos"]==175, summary
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
@@ -79,7 +81,25 @@ with sync_playwright() as p:
         assert "Pseudoanas" in txt and "Public domain" in txt
         assert head.first.evaluate("(e)=>e.complete && e.naturalWidth>0")
         page.screenshot(path=str(OUT/f"asteraceae-carthamus-recovered-{label}.png"),full_page=True)
+        for taxon_id,artist in [
+            ("tetraneuris-linearifolia","Brooke Smith"),
+            ("ratibida-columnifera",None),
+            ("verbesina-encelioides",None),
+            ("plectocephalus-americanus","Annika Lindqvist"),
+            ("pyrrhopappus-grandiflorus","Chet Burrier")
+        ]:
+            page.goto("http://127.0.0.1:8767/?species="+taxon_id,wait_until="networkidle")
+            photos=page.locator(".gallery-photo img")
+            photos.first.wait_for()
+            assert photos.count()==2,(taxon_id,photos.count())
+            assert all(photos.nth(i).evaluate("(e)=>e.complete && e.naturalWidth>0") for i in range(2)),taxon_id
+            txt=page.locator("#detail").inner_text()
+            assert "Texas research-grade observation photograph" in txt,taxon_id
+            if artist:assert artist in txt,(taxon_id,artist)
+            assert page.locator(".gallery-photo a",has_text="Photo source").count()==2,taxon_id
+            assert page.locator(".photo-nc").count()==0,"Public-safe Texas images must not use NC licenses"
+        page.screenshot(path=str(OUT/f"asteraceae-new-texas-cc-photo-backfill-{label}.png"),full_page=True)
         assert not errors,errors
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"322 photos across 149 species, rescued camphorweed+safflower, yarrow, Calvin, Joey, GBIF, NC and responsive search",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"358 photographs across 175 species; 36 new Texas CC, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
         page.close()
     browser.close()
