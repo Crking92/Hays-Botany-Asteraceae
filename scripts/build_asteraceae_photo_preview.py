@@ -32,6 +32,9 @@ h=(DEST/"index.html").read_text()
 h=h.replace("Layout prototype only.</strong> No botanical records or photographs have been transferred to this collection.",
     "Photo-rights review preview.</strong> Real source-backed botanical lessons and independently checked Commons CC photographs are included here for private testing. Some photos are still held.")
 assert "Photo-rights review preview." in h
+if STRICT_PUBLIC_CC:
+    h=h.replace("PRIVATE STAGING · NOT PUBLISHED", "PUBLIC TEST · NOT FINALIZED")
+    h=h.replace("for private testing.", "for a public field-learning test.")
 assert '<meta name="robots" content="noindex,nofollow">' in h
 (DEST/"index.html").write_text(h)
 (DEST/"data/collection-meta.json").write_text(json.dumps(config,indent=2)+"\n")
