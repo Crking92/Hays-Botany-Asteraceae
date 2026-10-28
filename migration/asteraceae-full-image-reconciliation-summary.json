@@ -43,10 +43,12 @@
   "source_pinned_commit_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
   "source_repo": "Crking92/Hays-County-Botany",
   "species": 180,
-  "staging_commit_sha_at_audit": "256f3e3711406d754dafb48def0af3e089d80d7f",
+  "staging_commit_sha_at_audit": "741c100ccdc85f6e47219c6b9df2edb3d166ccfa",
   "staging_photos_without_a_source_or_rights_ledger": 0,
   "staging_repo": "Crking92/Hays-Botany-Asteraceae",
   "status": "ALL_SOURCE_IMAGES_AND_REFERENCES_ACCOUNTED_FOR; NOT_ALL_PUBLICATION_READY",
   "unreferenced_source_image_files": 11,
+  "unreferenced_source_image_files_physically_staged": 0,
+  "unreferenced_source_image_files_still_held": 11,
   "unresolved_or_external_source_image_references": 29
 }
