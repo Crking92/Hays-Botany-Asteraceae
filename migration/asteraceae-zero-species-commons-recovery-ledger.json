@@ -1,0 +1,28 @@
+{
+  "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-extra-recognition.jpg": {
+    "source_git_blob_sha": "088feb91a183e3b3ad8856bdb1661e363c3ef80f",
+    "creator": "MathKnight",
+    "upstream_artist": "M  ath  K  night",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris001.jpg",
+    "role": "Habit and flowering head",
+    "noncommercial_only": false,
+    "visually_matched_dhash_distance": 0,
+    "verified_via": "Wikimedia Commons exact file current artist, license and original pixel comparison",
+    "publication_approval": "STAGING_IMAGE_ONLY; FINAL_PUBLIC_IMAGE_AND_DERIVATIVE_REVIEW_PENDING"
+  },
+  "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-habit.jpg": {
+    "source_git_blob_sha": "548396b1ce07e991d0391f53db0a6fc20c38ae06",
+    "creator": "MathKnight",
+    "upstream_artist": "M  ath  K  night",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris002.jpg",
+    "role": "Whole plant habit",
+    "noncommercial_only": false,
+    "visually_matched_dhash_distance": 0,
+    "verified_via": "Wikimedia Commons exact file current artist, license and original pixel comparison",
+    "publication_approval": "STAGING_IMAGE_ONLY; FINAL_PUBLIC_IMAGE_AND_DERIVATIVE_REVIEW_PENDING"
+  }
+}

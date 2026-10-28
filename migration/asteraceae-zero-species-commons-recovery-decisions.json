@@ -1,0 +1,42 @@
+[
+  {
+    "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-extra-recognition.jpg",
+    "expected_title": "File:Heterotheca_subaxillaris001.jpg",
+    "expected_creator": "MathKnight",
+    "original_claim": "CC BY-SA 4.0",
+    "decision": "SOURCE_CC_PHOTO_VERIFIED_PRIVATE_STAGED",
+    "reason": "AUTHOR_LICENSE_AND_IMAGE_HASH_MATCHED",
+    "artist": "M  ath  K  night",
+    "license_short": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page_title": "File:Heterotheca subaxillaris001.jpg",
+    "license_verification": "EXACT_FILE_CC_BY_SA_4.0",
+    "dhash_distance": 0
+  },
+  {
+    "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-habit.jpg",
+    "expected_title": "File:Heterotheca_subaxillaris002.jpg",
+    "expected_creator": "MathKnight",
+    "original_claim": "CC BY-SA 4.0",
+    "decision": "SOURCE_CC_PHOTO_VERIFIED_PRIVATE_STAGED",
+    "reason": "AUTHOR_LICENSE_AND_IMAGE_HASH_MATCHED",
+    "artist": "M  ath  K  night",
+    "license_short": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page_title": "File:Heterotheca subaxillaris002.jpg",
+    "license_verification": "EXACT_FILE_CC_BY_SA_4.0",
+    "dhash_distance": 0
+  },
+  {
+    "source_path": "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/images/carthamus-tinctorius-pseudoanas.jpg",
+    "expected_title": "File:Carthamus_tinctorius_050709c.JPG",
+    "expected_creator": "Pseudoanas",
+    "original_claim": "CC0 1.0",
+    "decision": "HELD",
+    "reason": "UPSTREAM_CC0_DEDICATION_NOT_MACHINE_VERIFIED",
+    "artist": "Pseudoanas  (  talk  )",
+    "license_short": "Public domain",
+    "license_url": "",
+    "page_title": "File:Carthamus tinctorius 050709c.JPG"
+  }
+]
