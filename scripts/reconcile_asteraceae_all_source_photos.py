@@ -42,6 +42,8 @@ gbif_path=ROOT/"migration/asteraceae-upstream-gbif-120-ledger.json"
 gbif_verified=json.loads(gbif_path.read_text()) if gbif_path.exists() else {}
 nc84_path=ROOT/"migration/asteraceae-verified-84-nc-photo-ledger.json"
 nc84_verified=json.loads(nc84_path.read_text()) if nc84_path.exists() else {}
+orphan_path=ROOT/"migration/asteraceae-orphan11-verified-photo-ledger.json"
+orphan_verified=json.loads(orphan_path.read_text()) if orphan_path.exists() else {}
 assert index["authority"]=="STAGING_ONLY"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 assert census["source_repository"]==SOURCE_REPO
@@ -50,7 +52,7 @@ assert len(index["entries"])==180
 photos={e["path"]:e for e in source if Path(e["path"]).suffix.lower() in IMAGE_EXT}
 assert len(photos)==459 and census["physical_image_files"]==459
 rights_ledger={}
-for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified),("nc84",nc84_verified)]:
+for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified),("nc84",nc84_verified),("orphan11",orphan_verified)]:
     for file,info in records.items():
         assert file not in rights_ledger,f"Multiple rights ledgers cover {file}"
         assert file in photos,f"Archived file has no source original: {file}"
@@ -174,6 +176,10 @@ for path in sorted(photos):
             assert details["noncommercial_only"] is True, "NC image has lost restriction"
             decision="ARCHIVED_NC84_CURRENT_SOURCE_LICENSE_CREDIT_AND_PIXELS"
             public_gate="PRIVATE_CC_BY_NC_ONLY; NEVER_INCLUDE_IN_STRICT_PUBLIC_OR_COMMERCIAL_OUTPUT"
+        elif cls=="orphan11":
+            details=ledger["details"]
+            decision="ARCHIVED_ORPHAN11_CURRENT_SOURCE_LICENSE_CREDIT_AND_PIXELS"
+            public_gate=("PRIVATE_CC_BY_NC_ONLY; NO_UNRESTRICTED_RELEASE" if details.get("noncommercial_only") else "CC0_STAGING_SOURCE_VERIFIED; MANUAL_GALLERY_AND_RELEASE_QA_PENDING")
         else:
             details=ledger["details"]
             decision="ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION" if details.get("creator")=="Calvin King" else "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM"
@@ -266,6 +272,8 @@ summary={
     "held_followup_priority":dict(Counter(p["followup_priority"] for p in all_files if not p["archived_in_private_staging"])),
     "missing_reference_reasons":dict(Counter(r["reason"] for r in missing_refs)),
     "unreferenced_source_image_files":sum(p["unreferenced_source_photo"] for p in all_files),
+    "unreferenced_source_image_files_physically_staged":sum(p["unreferenced_source_photo"] and p["archived_in_private_staging"] for p in all_files),
+    "unreferenced_source_image_files_still_held":sum(p["unreferenced_source_photo"] and not p["archived_in_private_staging"] for p in all_files),
     "public_release_allowed_by_audit":False,
     "original_hub_remains_authoritative":True,
     "assertions":"Source file paths, sizes, Git blob IDs, staged file IDs, rights ledgers, and all source references reconciled; rights claims for held images NOT verified."
