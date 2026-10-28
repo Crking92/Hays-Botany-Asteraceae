@@ -1,0 +1,1936 @@
+{
+  "status": "ORIGINAL_PRIORITY_120_REVIEW_SET",
+  "pinned_source_repo": "Crking92/Hays-County-Botany",
+  "pinned_source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "original_staging_snapshot": "50a50f936516e79385fef3636f23a074a43b613a",
+  "candidate_count": 120,
+  "source_hosts": {
+    "commons.wikimedia.org": 40,
+    "www.inaturalist.org": 19,
+    "www.gbif.org": 58,
+    "warcapps.usgs.gov": 1,
+    "backyardnature.net": 2
+  },
+  "items": [
+    {
+      "source_path": "content/taxa/Asteraceae/Acourtia/acourtia-runcinata/images/acourtia-runcinata-flowering-heads.jpg",
+      "source_git_blob_sha": "8c1197fba695909f7abbeba03eaeb7c3223da1d7",
+      "source_size_bytes": 44654,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Clarence A. Rechenthin",
+          "license_claim": "Public domain",
+          "role": "Recognize · several pale pinkish-white composite heads raised on long thin nearly leafless flowering stalks; basal leaf architecture not shown",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Acourtia_runcinata.jpg",
+          "species_id": "acourtia-runcinata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Acourtia/acourtia-runcinata/images/acourtia-runcinata-flowering-heads.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Ageratina/ageratina-havanensis/images/06-austin-cc0-flowering-woody-shrub-context.jpg",
+      "source_git_blob_sha": "f0f62004badeca4f5f8e96c259e8c2c4287a1f12",
+      "source_size_bytes": 606845,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Daderot",
+          "license_claim": "CC0 1.0",
+          "role": "Austin-grown white mistflower: foliage, branching stems and flowering context (woody base not proven)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina%20havanensis%20-%20Zilker%20Botanical%20Garden%20-%20Austin%2C%20Texas%20-%20DSC09017.jpg",
+          "species_id": "ageratina-havanensis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Ageratina/ageratina-havanensis/images/06-austin-cc0-flowering-woody-shrub-context.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/01-curated-reference.jpg",
+      "source_git_blob_sha": "6024d457e456eba480ce7c922e59a48b65df2826",
+      "source_size_bytes": 306007,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+          "license_claim": "cc-by-sa",
+          "role": "Look closer · upright pollen-bearing green male flowerhead spikes above deeply divided leaves on a hairy branching stem",
+          "source_page": "https://www.inaturalist.org/taxa/53587",
+          "species_id": "ambrosia-artemisiifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/01-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/01-curated-reference.jpg",
+      "source_git_blob_sha": "c6522d5a53f35e86999b274c40d6626ca7090aa9",
+      "source_size_bytes": 584121,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+          "license_claim": "cc-by-sa",
+          "role": "Look closer · upright green spikes of crowded pollen-bearing male heads above narrow deeply lobed ragweed foliage; fruit not visible",
+          "source_page": "https://www.inaturalist.org/taxa/60129",
+          "species_id": "ambrosia-psilostachya"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/01-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/02-curated-reference.jpg",
+      "source_git_blob_sha": "91d4be229ce0f0cfd90307d948721b054076f032",
+      "source_size_bytes": 256065,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "AnRo0002, no known copyright restrictions (public domain)",
+          "license_claim": "pd",
+          "role": "Look closer · mature-looking spike of small male heads and hairy branching stems; lower leaves visible but not a root or rhizome view",
+          "source_page": "https://www.inaturalist.org/taxa/60129",
+          "species_id": "ambrosia-psilostachya"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/02-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-97f7cba03b6275e.jpg",
+      "source_git_blob_sha": "7dd051d78282367755df6f33ac240cd8b2d66536",
+      "source_size_bytes": 239654,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Eric Knight",
+          "license_claim": "CC BY",
+          "role": "Flowering head arrangement and multiple white ray flowers showing species habit; phyllaries need later macro; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/1229615513",
+          "species_id": "aphanostephus-riddellii"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-97f7cba03b6275e.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-f1e6a341895c26e.jpg",
+      "source_git_blob_sha": "dc4c42406c641401d778f71f192108316730d104",
+      "source_size_bytes": 564403,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Chet Burrier",
+          "license_claim": "CC BY",
+          "role": "Many small white ray-flowered capitula mixed with slender finely divided foliage on the living plant; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/6353233587",
+          "species_id": "aphanostephus-riddellii"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-f1e6a341895c26e.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/images/gbif-manual-6234325420-9515cb1b5.jpg",
+      "source_git_blob_sha": "6fc8006bf71adac4634fa5e836ceee5a0640574b",
+      "source_size_bytes": 228199,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Jane Weeden",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6234325420",
+          "species_id": "aphanostephus-skirrhobasis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/images/gbif-manual-6234325420-9515cb1b5.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/images/library-review011-a025847c23011cb.jpg",
+      "source_git_blob_sha": "cf9e1ecf09c40132ffdb9727ebbf1209a48d2c9e",
+      "source_size_bytes": 667507,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "sonoresmore",
+          "license_claim": "CC0",
+          "role": "Recognize · small low shoot with silvery lobed leaves arising from ground vegetation; growth habit and belowground rhizomes not established",
+          "source_page": "https://www.gbif.org/occurrence/6131199080",
+          "species_id": "artemisia-ludoviciana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/images/library-review011-a025847c23011cb.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/images/library-review011-a962f74751666ca.jpg",
+      "source_git_blob_sha": "5840eab304ce1830d934b810b4bde40128c8245d",
+      "source_size_bytes": 467232,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Look closer · densely silvery dissected foliage beside a dry branching seedhead in mixed vegetation; the dry stalk may be a different plant",
+          "source_page": "https://www.gbif.org/occurrence/6171063589",
+          "species_id": "artemisia-ludoviciana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/images/library-review011-a962f74751666ca.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/artemisia-tridentata-leaves-commons.jpg",
+      "source_git_blob_sha": "4ef7b5aa48ccdde7a6abf456d1ba63b04b16f3d7",
+      "source_size_bytes": 208185,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Krzysztof Ziarnek (Kenraiz)",
+          "license_claim": "CC BY-SA 4.0",
+          "role": "Look closer · short silvery gray-green leaves with rounded three-tipped ends along upright woody twig; entire shrub not shown",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Artemisia_tridentata_kz20.jpg",
+          "species_id": "artemisia-tridentata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/artemisia-tridentata-leaves-commons.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/library-review013-5f37bf12a8f47a5.jpg",
+      "source_git_blob_sha": "8490fb02d27fa525c7a39beb5ca982ccb55df3a5",
+      "source_size_bytes": 191505,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Daughter Dad",
+          "license_claim": "CC BY",
+          "role": "Look closer · fuzzy silvery three-tipped leafy shoots next to brown dry flowerhead sprays; small floral anatomy unresolved",
+          "source_page": "https://www.gbif.org/occurrence/5938674414",
+          "species_id": "artemisia-tridentata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/library-review013-5f37bf12a8f47a5.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/library-review013-ec182e0899b824b.jpg",
+      "source_git_blob_sha": "4e0d38be8def80a8404d3405138e778c8f8d15b1",
+      "source_size_bytes": 201324,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Daughter Dad",
+          "license_claim": "CC BY",
+          "role": "Recognize · mature gray woody shrub bearing numerous tall brown dried flowering sprays; leaf and flower microscopic traits not shown",
+          "source_page": "https://www.gbif.org/occurrence/5938567434",
+          "species_id": "artemisia-tridentata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Artemisia/artemisia-tridentata/images/library-review013-ec182e0899b824b.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/images/02-curated-reference.jpg",
+      "source_git_blob_sha": "d553d28bc004727b3f06d2fb22c92a3aa8f7c719",
+      "source_size_bytes": 167548,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "no rights reserved, uploaded by Anne Parsons",
+          "license_claim": "cc0",
+          "role": "curated taxon reference 2",
+          "source_page": "https://www.inaturalist.org/taxa/57913",
+          "species_id": "baccharis-salicifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/images/02-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Berlandiera/berlandiera-betonicifolia/images/inat-211232845.jpg",
+      "source_git_blob_sha": "a04e04b0bbc7a462b7b8c9cfe2245a386aeed803",
+      "source_size_bytes": 307736,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Laura Clark, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/211232845",
+          "species_id": "berlandiera-betonicifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Berlandiera/berlandiera-betonicifolia/images/inat-211232845.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Bidens/bidens-frondosa/images/bidens-frondosa-fruiting-head.jpg",
+      "source_git_blob_sha": "d9bd8d898b17dd1ce95758b9beaf688d394341ba",
+      "source_size_bytes": 60173,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Gilles Ayotte / Université Laval",
+          "license_claim": "CC BY-SA 4.0",
+          "role": "Fruit head longitudinal section; involucral bracts, receptacular chaff and cypselae",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20frondosa%2015-p.bot-biden.frondo-12.jpg",
+          "species_id": "bidens-frondosa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Bidens/bidens-frondosa/images/bidens-frondosa-fruiting-head.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Boltonia/boltonia-diffusa/images/library-review036-9d53ebe5e091783.jpg",
+      "source_git_blob_sha": "d59e5c0131706dfdc38d027769a380f01d21a9d1",
+      "source_size_bytes": 206071,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Look closer · white ray florets around yellow disk and adjacent closed green head; phyllary arrangement needs a sharper side view",
+          "source_page": "https://www.gbif.org/occurrence/5867869137",
+          "species_id": "boltonia-diffusa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Boltonia/boltonia-diffusa/images/library-review036-9d53ebe5e091783.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Boltonia/boltonia-diffusa/images/library-review036-d8bfcd304240b6d.jpg",
+      "source_git_blob_sha": "ad008ddf3b718e77127ae53fe29c82ada329720b",
+      "source_size_bytes": 382450,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "beth_snow",
+          "license_claim": "CC BY",
+          "role": "Recognize · thin spreading stems with narrow leaves and many tiny flowering heads seen at plant scale",
+          "source_page": "https://www.gbif.org/occurrence/5868197022",
+          "species_id": "boltonia-diffusa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Boltonia/boltonia-diffusa/images/library-review036-d8bfcd304240b6d.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/images/brickellia-eupatorioides-overview.jpg",
+      "source_git_blob_sha": "e2ae316fd602c76cc37cd1399870920cb9d6f3fb",
+      "source_size_bytes": 375707,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "USFWS Mountain-Prairie",
+          "license_claim": "CC BY 2.0",
+          "role": "Flowering plant in prairie habitat; provisional habit photo, not a pappus macro",
+          "source_page": "https://commons.wikimedia.org/wiki/File:False_Boneset_(Kuhnia_eupatorioides)_on_Mixed_Grass_Prairie_of_Lacreek_NWR_(13918392166).jpg",
+          "species_id": "brickellia-eupatorioides"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/images/brickellia-eupatorioides-overview.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/images/gbif-manual-6234700290-a9adf8c3e.jpg",
+      "source_git_blob_sha": "24014f5c4121a2d6ad5f00dbeb502fba7089287f",
+      "source_size_bytes": 190547,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Piotr",
+          "license_claim": "CC0 1.0",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6234700290",
+          "species_id": "brickellia-eupatorioides"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/images/gbif-manual-6234700290-a9adf8c3e.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/images/library-review036-0adb88dde040419.jpg",
+      "source_git_blob_sha": "6d39d7e9af364f47c86b2aad94cb15c159b566e1",
+      "source_size_bytes": 448516,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Linda Jo Conn",
+          "license_claim": "CC BY 4.0",
+          "role": "Recognize it · dense low branching patch with opposite simple toothed leaves, scattered flowering/old head remnants",
+          "source_page": "https://www.gbif.org/occurrence/5938617170",
+          "species_id": "calyptocarpus-vialis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/images/library-review036-0adb88dde040419.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/images/library-review036-3a2a1561bd8bb49.jpg",
+      "source_git_blob_sha": "17fde8cde0196726c0fbcbeca87c0fbcc8ddea7a",
+      "source_size_bytes": 407015,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Dan Johnson",
+          "license_claim": "CC BY 4.0",
+          "role": "Look closer · opposite toothed hairy leaves, small yellow ray-floret and disc-floret head, fingertip for rough scale",
+          "source_page": "https://www.gbif.org/occurrence/5938419383",
+          "species_id": "calyptocarpus-vialis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/images/library-review036-3a2a1561bd8bb49.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/images/carthamus-tinctorius-pseudoanas.jpg",
+      "source_git_blob_sha": "81139425ef475692db280c73b172fa04c6f2c138",
+      "source_size_bytes": 393207,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Pseudoanas",
+          "license_claim": "CC0 1.0",
+          "role": "habit with heads and spiny leaves",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Carthamus_tinctorius_050709c.JPG",
+          "species_id": "carthamus-tinctorius"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/images/carthamus-tinctorius-pseudoanas.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-bellidifolia/images/gbif-manual-1837060765-a835f4d67.jpg",
+      "source_git_blob_sha": "787e2a17afbd21334ee8fd8c4503faf29259ee7a",
+      "source_size_bytes": 190417,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Laura Clark",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/1837060765",
+          "species_id": "chaetopappa-bellidifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chaetopappa/chaetopappa-bellidifolia/images/gbif-manual-1837060765-a835f4d67.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/images/gbif-manual-6566703372-bf7f9824a.jpg",
+      "source_git_blob_sha": "d7e6bfc20a8db4eceefb925823559ca63bbdcf54",
+      "source_size_bytes": 304845,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Nick Loveland",
+          "license_claim": "CC0 1.0",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6566703372",
+          "species_id": "chaetopappa-effusa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/images/gbif-manual-6566703372-bf7f9824a.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/images/inat-first-741209514.jpg",
+      "source_git_blob_sha": "5239449461627ed3ca7857a44c163c68dcea40f9",
+      "source_size_bytes": 185862,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "iNaturalist photo contributor (CC0)",
+          "license_claim": "CC0 1.0",
+          "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+          "source_page": "https://www.inaturalist.org/photos/741209514",
+          "species_id": "chaetopappa-effusa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/images/inat-first-741209514.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-ericoides/images/gbif-manual-6178402923-60711c10e.jpg",
+      "source_git_blob_sha": "a346f10a76b22c86c887bfdc980271643ce126d5",
+      "source_size_bytes": 362662,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Daniel McNair",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6178402923",
+          "species_id": "chaetopappa-ericoides"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chaetopappa/chaetopappa-ericoides/images/gbif-manual-6178402923-60711c10e.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/images/01-leaves-and-habit.jpg",
+      "source_git_blob_sha": "6c7739a296809f6b3324f3b59345305142fecd5d",
+      "source_size_bytes": 139172,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "L. Shyamal",
+          "license_claim": "CC BY 2.5",
+          "role": "Foliage habit and serrate 3-veined leaves",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata.jpg",
+          "species_id": "chromolaena-odorata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/images/01-leaves-and-habit.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/images/02-mature-leaf-closeup.jpg",
+      "source_git_blob_sha": "00604235d60f3d6f24c043f97a52b56e88fa94f5",
+      "source_size_bytes": 108264,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "M.arunprasad",
+          "license_claim": "CC BY-SA 3.0",
+          "role": "Leaf outline, basal veins and margin teeth",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata%20leaves%20(2006).jpg",
+          "species_id": "chromolaena-odorata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/images/02-mature-leaf-closeup.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Cirsium/cirsium-horridulum/images/01-head-spiny-involucre.jpg",
+      "source_git_blob_sha": "4892b91f8f970a7c060e6b0fa5a801712b862d8e",
+      "source_size_bytes": 237863,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Robert H. Mohlenbrock / USDA SCS-NRCS PLANTS",
+          "license_claim": "Public Domain (U.S. federal work)",
+          "role": "Look closer · globose pale-pink thistle flowerhead above many stiff narrow green spine-tipped head bracts; basal leaves not shown",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_horridulum_NRCS.jpg",
+          "species_id": "cirsium-horridulum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Cirsium/cirsium-horridulum/images/01-head-spiny-involucre.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Cirsium/cirsium-ochrocentrum/images/cirsium-ochrocentrum-provisional-face.jpg",
+      "source_git_blob_sha": "6675156b54cdfaacdfaa759db515e67292c8a116",
+      "source_size_bytes": 85388,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Clarence A. Rechenthin",
+          "license_claim": "Public domain (USDA NRCS / U.S. federal work)",
+          "role": "Whole plant / flowering head recognizable face",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Cirsiumochrocentrum.jpg",
+          "species_id": "cirsium-ochrocentrum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Cirsium/cirsium-ochrocentrum/images/cirsium-ochrocentrum-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/images/03-flower-head-closeup.jpg",
+      "source_git_blob_sha": "1c6070a87a5588e62d2fc9fd2f4cba0df1de3180",
+      "source_size_bytes": 124433,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Kingdon",
+          "license_claim": "Public Domain",
+          "role": "Close flowering-head confirmation; disk florets without rays",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum.jpg",
+          "species_id": "conoclinium-coelestinum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/images/03-flower-head-closeup.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/images/04-usgs-opposite-toothed-leaves.jpg",
+      "source_git_blob_sha": "dfecfa2419c5385163e8b2000b48901bd6e1e764",
+      "source_size_bytes": 160949,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "USGS (guide producers Larry Allain and Chris Reid)",
+          "license_claim": "Public Domain",
+          "role": "Opposite intact toothed leaves and heads",
+          "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/870",
+          "species_id": "conoclinium-coelestinum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/images/04-usgs-opposite-toothed-leaves.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/images/06-public-domain-greggs-plant.jpg",
+      "source_git_blob_sha": "afd69752e96944bcd15d579efe0249d46bf056c0",
+      "source_size_bytes": 162852,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Stickpen",
+          "license_claim": "Public Domain",
+          "role": "Labeled Gregg's mistflower habit and divided foliage context; isolated diagnostic leaf macro still pending",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Eupatoriumgreggii1.jpg",
+          "species_id": "conoclinium-dissectum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/images/06-public-domain-greggs-plant.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Coreopsis/coreopsis-lanceolata/images/gbif-manual-6130708500-e492accc0.jpg",
+      "source_git_blob_sha": "09fef875def27bb92ad833fdbc9dc11397a35538",
+      "source_size_bytes": 549238,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Thomas Mesaglio",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6130708500",
+          "species_id": "coreopsis-lanceolata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Coreopsis/coreopsis-lanceolata/images/gbif-manual-6130708500-e492accc0.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/01-field-reference.jpg",
+      "source_git_blob_sha": "2bd24e8026817b3206da828cfbf8a0b1a390c3c1",
+      "source_size_bytes": 483929,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Jasper Shide",
+          "license_claim": "CC0 1.0",
+          "role": "Field foliage / narrow leaves, venation and hairy stems",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_(7-15-24)_03.jpg",
+          "species_id": "echinacea-angustifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/01-field-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/02-flower-detail.jpg",
+      "source_git_blob_sha": "48916531bec72c08f177c49bdebafd49993d38ed",
+      "source_size_bytes": 96374,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Ernie (Wilder Kaiser)",
+          "license_claim": "CC BY-SA 3.0",
+          "role": "Flower head / ray florets and raised disk",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_01Aug2009_-_01.jpg",
+          "species_id": "echinacea-angustifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/02-flower-detail.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/03-achene-detail.jpg",
+      "source_git_blob_sha": "3d9996bb213d522ca1aacc55e40a72be29a4a468",
+      "source_size_bytes": 71204,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Steve Hurst / USDA-NRCS PLANTS Database",
+          "license_claim": "Public Domain (U.S. federal work)",
+          "role": "Achenes / dry one-seeded fruits with scale",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea.angustifolia02.jpg",
+          "species_id": "echinacea-angustifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/03-achene-detail.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Eclipta/eclipta-prostrata/images/library-review043-5974f17979e99c8.jpg",
+      "source_git_blob_sha": "451173a980c92af6f84369060fece4203be1a134",
+      "source_size_bytes": 336315,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Jackie T",
+          "license_claim": "CC BY",
+          "role": "Look closer · tiny white-rayed flowerhead, opposite bristly leaves and rounded green head; phyllary/fruit maturity not confirmed",
+          "source_page": "https://www.gbif.org/occurrence/6252031432",
+          "species_id": "eclipta-prostrata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Eclipta/eclipta-prostrata/images/library-review043-5974f17979e99c8.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Eclipta/eclipta-prostrata/images/library-review043-d08d53eabf2e364.jpg",
+      "source_git_blob_sha": "74e144afa182507d6ccf450b1c8da0e568a97a7e",
+      "source_size_bytes": 238286,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Look closer · opposite narrow rough-hairy leaves and small white composite head shown against fingers; mature achenes not visible",
+          "source_page": "https://www.gbif.org/occurrence/6234172505",
+          "species_id": "eclipta-prostrata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Eclipta/eclipta-prostrata/images/library-review043-d08d53eabf2e364.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Erigeron/erigeron-geiseri/images/gbif-first-1455970091-2c65627b99.jpg",
+      "source_git_blob_sha": "7a890a6154aa7dffa798592ece145fff7c2e0aa9",
+      "source_size_bytes": 192337,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Conveyor Belt",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+          "source_page": "https://www.gbif.org/occurrence/1455970091",
+          "species_id": "erigeron-geiseri"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Erigeron/erigeron-geiseri/images/gbif-first-1455970091-2c65627b99.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Erigeron/erigeron-modestus/images/gbif-manual-6131542687-8ab0fbd47.jpg",
+      "source_git_blob_sha": "694beb37d5df0269767b400070fbfedb9913550e",
+      "source_size_bytes": 196442,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Vicki Schmidt",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6131542687",
+          "species_id": "erigeron-modestus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Erigeron/erigeron-modestus/images/gbif-manual-6131542687-8ab0fbd47.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/commons-cbaile19-beechview-2025-flowers.jpg",
+      "source_git_blob_sha": "fdb9313d2e92e421e3970ea794d9a8d672b55219",
+      "source_size_bytes": 141955,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Cbaile19",
+          "license_claim": "CC0",
+          "role": "Flowering Philadelphia fleabane photographed at Beechview, Pennsylvania; no Texas provenance implied.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg",
+          "species_id": "erigeron-philadelphicus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/commons-cbaile19-beechview-2025-flowers.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/inat-691026483.jpg",
+      "source_git_blob_sha": "1053a4480f255cc54e8ce517d0df3de15f8740cc",
+      "source_size_bytes": 167791,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Chris Stahl, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/691026483",
+          "species_id": "erigeron-strigosus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/inat-691026483.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Eriophyllum/eriophyllum-lanatum/images/commons-eriophyllum-lanatum.jpg",
+      "source_git_blob_sha": "241ab334b0d3c16d0250e576aac563548fbb369c",
+      "source_size_bytes": 411106,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sarah Stierch (Missvain)",
+          "license_claim": "CC BY 4.0",
+          "role": "Provisional recognition of flowering plant; leaf hairs and phyllaries require distinct macro photos.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Eriophyllum_lanatum_-_May_2023_-_Sarah_Stierch_18.jpg",
+          "species_id": "eriophyllum-lanatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Eriophyllum/eriophyllum-lanatum/images/commons-eriophyllum-lanatum.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/01-curated-reference.jpg",
+      "source_git_blob_sha": "e4e24cdc45ebcd952d9ebb7a17b250d5f90d5eff",
+      "source_size_bytes": 281138,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+          "license_claim": "cc-by",
+          "role": "curated taxon reference 1",
+          "source_page": "https://www.inaturalist.org/taxa/52934",
+          "species_id": "eupatorium-serotinum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/01-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/02-curated-reference.jpg",
+      "source_git_blob_sha": "8c11f10642300c7a5fb447c27d0f761e1a780be7",
+      "source_size_bytes": 234474,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+          "license_claim": "cc-by",
+          "role": "curated taxon reference 2",
+          "source_page": "https://www.inaturalist.org/taxa/52934",
+          "species_id": "eupatorium-serotinum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/02-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/images/02-curated-reference.jpg",
+      "source_git_blob_sha": "d14d16548ae20feacd7b0ddaa0123398701fabaf",
+      "source_size_bytes": 1615805,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Conway Hawn",
+          "license_claim": "CC0",
+          "role": "Recognize · multiple red-and-yellow flowering heads above a low branched plant in open ground",
+          "source_page": "https://www.inaturalist.org/taxa/51768",
+          "species_id": "gaillardia-pulchella"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/images/02-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/images/library-review010-c105a4012ef09a1.jpg",
+      "source_git_blob_sha": "80a5011ef0ef15c9dc3d4a522db5484844032d45",
+      "source_size_bytes": 241618,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Recognize · small nearly rayless reddish-brown pin-cushion flowerheads on long bare stalks held in fingers for scale",
+          "source_page": "https://www.gbif.org/occurrence/6185630066",
+          "species_id": "gaillardia-suavis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/images/library-review010-c105a4012ef09a1.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/images/library-review033-ae9a23fbdcb57b1.jpg",
+      "source_git_blob_sha": "e0e20c9d22584ff8d4f5fadfa88e89bf8709db39",
+      "source_size_bytes": 199916,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Casey Cowan",
+          "license_claim": "CC0",
+          "role": "Look closer · rounded green unopened or postflowering head held for size, with repeated small pointed bracts; stage not confidently determined",
+          "source_page": "https://www.gbif.org/occurrence/6187929252",
+          "species_id": "gaillardia-suavis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/images/library-review033-ae9a23fbdcb57b1.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/inat-379057596.jpg",
+      "source_git_blob_sha": "351877d6db6ba31a0ce7d7c46ade5d9ce093e285",
+      "source_size_bytes": 122608,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Michael J. Papay, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Recognize · small basal leaves and an upright stem",
+          "source_page": "https://www.inaturalist.org/photos/379057596",
+          "species_id": "gamochaeta-purpurea"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/inat-379057596.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/library-review049-379d98c9c1d591c.jpg",
+      "source_git_blob_sha": "8a16f9f494d8e0051765f5a1ca80cebfbbc01bd1",
+      "source_size_bytes": 171401,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Silva Luís",
+          "license_claim": "CC BY-SA",
+          "role": "Recognize · low rosette of elongated basal leaves seen from above; leaf hairs need closer inspection",
+          "source_page": "https://www.gbif.org/occurrence/5110000078",
+          "species_id": "gamochaeta-purpurea"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/library-review049-379d98c9c1d591c.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/library-review049-f4152c93767377d.jpg",
+      "source_git_blob_sha": "861e48fc8b302c66e6b7a87b8985797955d84a8f",
+      "source_size_bytes": 148744,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Rich Sommer",
+          "license_claim": "CC BY",
+          "role": "Look closer · upright woolly-looking stem bearing several small clustered flower heads; involucral bracts need a macro",
+          "source_page": "https://www.gbif.org/occurrence/5154840664",
+          "species_id": "gamochaeta-purpurea"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/images/library-review049-f4152c93767377d.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/images/gbif-manual-6334383487-20fdbbec7.jpg",
+      "source_git_blob_sha": "3e0168d058abc0b5c026e1e4e9af0432ea4bad71",
+      "source_size_bytes": 378842,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Justin Williams",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6334383487",
+          "species_id": "grindelia-adenodonta"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/images/gbif-manual-6334383487-20fdbbec7.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/images/grindelia-adenodonta-provisional-face.jpg",
+      "source_git_blob_sha": "171a11501901a800fc483c545e5fb937ff239037",
+      "source_size_bytes": 219923,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "lanechaffin",
+          "license_claim": "CC0 1.0",
+          "role": "Lonestar gumweed flowering habit; iNaturalist photo 44230170, visible ray disk and phyllaries.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_adenodonta.jpg",
+          "species_id": "grindelia-adenodonta"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/images/grindelia-adenodonta-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Grindelia/grindelia-nuda/images/gbif-manual-6188528167-fae1b9853.jpg",
+      "source_git_blob_sha": "73b225d6d276eecda3f23d629472bcb20b067285",
+      "source_size_bytes": 338356,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Annika Lindqvist",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6188528167",
+          "species_id": "grindelia-nuda"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Grindelia/grindelia-nuda/images/gbif-manual-6188528167-fae1b9853.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/01-uvalde-flowering-canopy.jpg",
+      "source_git_blob_sha": "fc94db0c52351d30ba36d76cb79191129da3b4a6",
+      "source_size_bytes": 184361,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Jim Conrad",
+          "license_claim": "Public domain — original photographer Jim Conrad",
+          "role": "Uvalde County Texas snakeweed flowering branches and radiate heads at many levels; open annual architecture",
+          "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+          "species_id": "gutierrezia-texana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/01-uvalde-flowering-canopy.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/02-uvalde-composite-head.jpg",
+      "source_git_blob_sha": "e89027624d20fe70e78e8f5781232e0e1585887e",
+      "source_size_bytes": 45122,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Jim Conrad",
+          "license_claim": "Public domain — original photographer Jim Conrad",
+          "role": "Texas snakeweed close radiate composite head: strap-shaped yellow ray florets and central disc florets, exact Uvalde specimen",
+          "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+          "species_id": "gutierrezia-texana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/02-uvalde-composite-head.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Helenium/helenium-amarum/images/01-curated-reference.jpg",
+      "source_git_blob_sha": "55fdca1eebfac5c472388ac7578749a5759ecf8c",
+      "source_size_bytes": 1337507,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
+          "license_claim": "cc-by",
+          "role": "curated taxon reference 1",
+          "source_page": "https://www.inaturalist.org/taxa/77348",
+          "species_id": "helenium-amarum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Helenium/helenium-amarum/images/01-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Helenium/helenium-elegans/images/gbif-manual-6234568933-c2e18c33b.jpg",
+      "source_git_blob_sha": "1f5625af38d764aaf9a9512abcb657298735a98e",
+      "source_size_bytes": 278772,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Theo Summer",
+          "license_claim": "CC0 1.0",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6234568933",
+          "species_id": "helenium-elegans"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Helenium/helenium-elegans/images/gbif-manual-6234568933-c2e18c33b.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Helenium/helenium-elegans/images/helenium-elegans-provisional-face.jpg",
+      "source_git_blob_sha": "656000b30bc709a5aab321a9a72897b919312e18",
+      "source_size_bytes": 112243,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Clarence A. Rechenthin / USDA-NRCS PLANTS Database",
+          "license_claim": "Public domain",
+          "role": "Whole flowering plant / habit recognizable face",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_elegans1.jpg",
+          "species_id": "helenium-elegans"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Helenium/helenium-elegans/images/helenium-elegans-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/gbif-manual-4413829393-adeb53562.jpg",
+      "source_git_blob_sha": "e2c955a5febd65d6b31cc5ebc79230d433026422",
+      "source_size_bytes": 532105,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Erick Vélez Sánchez",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/4413829393",
+          "species_id": "helenium-quadridentatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/gbif-manual-4413829393-adeb53562.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/helenium-quadridentatum-provisional-face.jpg",
+      "source_git_blob_sha": "f7435c631ad607e01577267a700ba8c1b9b6bef9",
+      "source_size_bytes": 177342,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Actes de la société d'histoire naturelle de Paris (1792)",
+          "license_claim": "Public domain",
+          "role": "Botanical illustration / flowering morphology recognizable face",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Actes_de_la_soci%C3%A9t%C3%A9_d%27histoire_naturelle_de_Paris_-_tome_premier,_premiere_partie_(1792)_(16585970589).jpg",
+          "species_id": "helenium-quadridentatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/helenium-quadridentatum-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-extra-recognition.jpg",
+      "source_git_blob_sha": "088feb91a183e3b3ad8856bdb1661e363c3ef80f",
+      "source_size_bytes": 338698,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "MathKnight",
+          "license_claim": "CC BY-SA 4.0",
+          "role": "additional recognition view (nonlocal)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris001.jpg",
+          "species_id": "heterotheca-subaxillaris"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-extra-recognition.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-flower.jpg",
+      "source_git_blob_sha": "7294eba614bc0e300f106c7b0a4b5c2e81c5b25b",
+      "source_size_bytes": 333127,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "RickP",
+          "license_claim": "CC BY 2.5",
+          "role": "flower recognition (nonlocal)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris_01.jpg",
+          "species_id": "heterotheca-subaxillaris"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-flower.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-habit.jpg",
+      "source_git_blob_sha": "548396b1ce07e991d0391f53db0a6fc20c38ae06",
+      "source_size_bytes": 125319,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "MathKnight",
+          "license_claim": "CC BY-SA 4.0",
+          "role": "habit recognition (nonlocal)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris002.jpg",
+          "species_id": "heterotheca-subaxillaris"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/images/heterotheca-subaxillaris-habit.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/images/inat-276095449.jpg",
+      "source_git_blob_sha": "c68290dab277f6f04f45e99a3e0f99aa7f90d335",
+      "source_size_bytes": 155985,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Reid Hardin, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/276095449",
+          "species_id": "hymenopappus-scabiosaeus-var-corymbosus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/images/inat-276095449.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus/images/gbif-manual-6170922281-cc58afb58.jpg",
+      "source_git_blob_sha": "f3e1efa6f7a29778e8e256e000a549795ce9ff4d",
+      "source_size_bytes": 647471,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Chet Burrier",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6170922281",
+          "species_id": "hymenopappus-scabiosaeus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus/images/gbif-manual-6170922281-cc58afb58.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Iva/iva-annua/images/library-review047-ed64f20532e8be6.jpg",
+      "source_git_blob_sha": "f31ca171198ecc0ea640437b5af9bb1f93a001fc",
+      "source_size_bytes": 208764,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Richard Aguirre",
+          "license_claim": "CC BY-SA",
+          "role": "Look closer · broad triangular serrated leaves attached near an upper node; white clover-like blooms in background are another plant",
+          "source_page": "https://www.gbif.org/occurrence/5110255981",
+          "species_id": "iva-annua"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Iva/iva-annua/images/library-review047-ed64f20532e8be6.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Iva/iva-annua/images/library-review047-f8a7095e6fba6f5.jpg",
+      "source_git_blob_sha": "d3bf3f4305ec280247d7217c2ece9bfa4f83ae79",
+      "source_size_bytes": 345933,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Linda Jo Conn",
+          "license_claim": "CC BY",
+          "role": "Look closer · several branched stalks densely covered by dry brownish small heads, with fingers for scale; head anatomy not resolved",
+          "source_page": "https://www.gbif.org/occurrence/5938067615",
+          "species_id": "iva-annua"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Iva/iva-annua/images/library-review047-f8a7095e6fba6f5.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Krigia/krigia-occidentalis/images/inat-14181884.jpg",
+      "source_git_blob_sha": "b4507cdb51553c618a404d464aca99d9224fb4d8",
+      "source_size_bytes": 117610,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Morgan Hay, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/14181884",
+          "species_id": "krigia-occidentalis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Krigia/krigia-occidentalis/images/inat-14181884.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/images/commons-lactuca-ludoviciana-david-peden.jpg",
+      "source_git_blob_sha": "c402de98452c8af4de8188751311e6f841b2ddff",
+      "source_size_bytes": 437449,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "David Peden (wafflemaster135)",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional photo of western wild lettuce leaf detail; flowers and mature pappus fruits not shown.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_ludoviciana_04.jpg",
+          "species_id": "lactuca-ludoviciana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/images/commons-lactuca-ludoviciana-david-peden.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Laphamia/laphamia-lindheimeri/images/inat-71897171.jpg",
+      "source_git_blob_sha": "97b5309fedc3c08387e3ca60f44ff900275a6bdc",
+      "source_size_bytes": 92841,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/71897171",
+          "species_id": "laphamia-lindheimeri"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Laphamia/laphamia-lindheimeri/images/inat-71897171.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Lindheimera/lindheimera-texana/images/gbif-manual-6130583526-445baf287.jpg",
+      "source_git_blob_sha": "2658023fd5663e232eb64f72c388ab8ac04dbff6",
+      "source_size_bytes": 166648,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Vince Hale",
+          "license_claim": "CC0 1.0",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6130583526",
+          "species_id": "lindheimera-texana"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Lindheimera/lindheimera-texana/images/gbif-manual-6130583526-445baf287.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Packera/packera-glabella/images/commons-packera-glabella.jpg",
+      "source_git_blob_sha": "d53825d9a02f4369fa600ec54dd62c26ce2bb7a0",
+      "source_size_bytes": 86452,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Austin Pursley",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional yellow-flowering plant recognition; phyllaries and basal leaves need macro photos.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Packera_glabella_64282873.jpg",
+          "species_id": "packera-glabella"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Packera/packera-glabella/images/commons-packera-glabella.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Palafoxia/palafoxia-callosa/images/gbif-manual-5938492058-78c59d0dc.jpg",
+      "source_git_blob_sha": "ae3c2f7d447eac78230e347d1170856a72619193",
+      "source_size_bytes": 272173,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/5938492058",
+          "species_id": "palafoxia-callosa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Palafoxia/palafoxia-callosa/images/gbif-manual-5938492058-78c59d0dc.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Parthenium/parthenium-hysterophorus/images/commons-parthenium-hysterophorus.jpg",
+      "source_git_blob_sha": "71c1ccecb62d50adb2dfb272bef666af6fc5f588",
+      "source_size_bytes": 129174,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Apurv013",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional overall invasive-weed identification from named species image; fine flower anatomy pending.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Parthenium_hysterophorus.jpg",
+          "species_id": "parthenium-hysterophorus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Parthenium/parthenium-hysterophorus/images/commons-parthenium-hysterophorus.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia/images/commons-pectis-angustifolia.jpg",
+      "source_git_blob_sha": "9ac41a7fdf3f10264b0917810afded80dbfaed32",
+      "source_size_bytes": 190526,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Craig Martin",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional flowering/herb habit; dark glands and tiny achenes need diagnostic macro photographs.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pectis_angustifolia_C01.jpg",
+          "species_id": "pectis-angustifolia"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Pectis/pectis-angustifolia/images/commons-pectis-angustifolia.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/inat-750090506-camphorweed.jpg",
+      "source_git_blob_sha": "97cd46ad9bfb60a3ebd3473b4d2c3dc7048223aa",
+      "source_size_bytes": 245511,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "iNaturalist source account gillydilly; individual photographer unconfirmed",
+          "license_claim": "CC0 (staged source record; live recheck pending)",
+          "role": "Flowering branch with small pink-white discoid heads and lanceolate leaves; phyllaries and exact nodes not resolved",
+          "source_page": "https://www.inaturalist.org/photos/750090506",
+          "species_id": "pluchea-camphorata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/inat-750090506-camphorweed.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/library-review027-2e508c7b1a52f8c.jpg",
+      "source_git_blob_sha": "6ee27ff8173ee8dad7a3d8d55a20fee7900f3835",
+      "source_size_bytes": 384065,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Mimi Posey",
+          "license_claim": "CC0",
+          "role": "Flowering branch with narrow leaves and tight clustered pinkish capitula; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/6413007838",
+          "species_id": "pluchea-camphorata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/library-review027-2e508c7b1a52f8c.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/library-review027-37f220b0e68d657.jpg",
+      "source_git_blob_sha": "4e77f0d37b072fd9151f5dae252bcd303e697785",
+      "source_size_bytes": 331335,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Piotr",
+          "license_claim": "CC0",
+          "role": "Close capitula showing many small florets and involucral profiles; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/6551918780",
+          "species_id": "pluchea-camphorata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Pluchea/pluchea-camphorata/images/library-review027-37f220b0e68d657.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-pauciflorus/images/commons-pyrrhopappus-pauciflorus.jpg",
+      "source_git_blob_sha": "41518641d9c6ebc50f95e8323ecf1f48328340e0",
+      "source_size_bytes": 269456,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Amyls33",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional seed-bearing stage with conspicuous pappus, College Station TX; spring flower needed.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pyrrhopappus_pauciflorus_seeds.jpg",
+          "species_id": "pyrrhopappus-pauciflorus"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-pauciflorus/images/commons-pyrrhopappus-pauciflorus.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-amplexicaulis/images/gbif-manual-6178972550-002181a28.jpg",
+      "source_git_blob_sha": "758bf3ebf5de0750d1db01b1adce456923f2af25",
+      "source_size_bytes": 510751,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Cricket Raspet",
+          "license_claim": "CC BY",
+          "role": "Recognize · many yellow flowerheads with dark raised disks above upright stems and lanceolate green foliage; clasping leaf bases need their own sharp node view",
+          "source_page": "https://www.gbif.org/occurrence/6178972550",
+          "species_id": "rudbeckia-amplexicaulis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Rudbeckia/rudbeckia-amplexicaulis/images/gbif-manual-6178972550-002181a28.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/images/01-flower-head.jpg",
+      "source_git_blob_sha": "0e14b887f1ea55213b1257d1d957bc89cf3a0a82",
+      "source_size_bytes": 98230,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "ankakay",
+          "license_claim": "CC BY",
+          "role": "Look closer · bright yellow ray florets surrounding a dark raised dome of disk florets; hairs visible on flower stalk, basal leaves not shown",
+          "source_page": "https://www.inaturalist.org/guide_taxa/1318431",
+          "species_id": "rudbeckia-hirta"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/images/01-flower-head.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/images/02-pulcherrima-flowering.jpg",
+      "source_git_blob_sha": "944290b83195df0a8f7b9cc0cfe66645edfeeffb",
+      "source_size_bytes": 122780,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Brady Reed",
+          "license_claim": "CC0",
+          "role": "Recognize · yellow-rayed, dark-coned flowerheads on upright green stems with narrow foliage in background; not proof of leaf-base attachment",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_hirta_pulcherrima_7861779.jpg",
+          "species_id": "rudbeckia-hirta"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/images/02-pulcherrima-flowering.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/02-roadside-habit.jpg",
+      "source_git_blob_sha": "6e16ab52d8ea1f0fd24007b37d4838bd0a167fdf",
+      "source_size_bytes": 253912,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Mason Brock (Masebrock)",
+          "license_claim": "Public domain",
+          "role": "whole plant / roadside flowering habit",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum.jpg",
+          "species_id": "silphium-albiflorum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/02-roadside-habit.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Silphium/silphium-laciniatum/images/library-review027-bd42c17bd96a7a8.jpg",
+      "source_git_blob_sha": "a7251d77499f5d5d75340ff5a2709c4eaba50a71",
+      "source_size_bytes": 429229,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Piotr",
+          "license_claim": "CC0",
+          "role": "Confirm clue · broad green leaf deeply cleft into long narrow lobes toward the midrib; mature entire basal leaf and stalk not in frame",
+          "source_page": "https://www.gbif.org/occurrence/6551317959",
+          "species_id": "silphium-laciniatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Silphium/silphium-laciniatum/images/library-review027-bd42c17bd96a7a8.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Silybum/silybum-marianum/images/library-review052-3fa62375d83171d.jpg",
+      "source_git_blob_sha": "544846dd29728b834e38c0e2d1e35d1a0e7bdad1",
+      "source_size_bytes": 288069,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Confirm clue · long narrow spine-tipped involucral bracts surrounding a developing thistle flowerhead, hand for scale",
+          "source_page": "https://www.gbif.org/occurrence/6234275194",
+          "species_id": "silybum-marianum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Silybum/silybum-marianum/images/library-review052-3fa62375d83171d.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Silybum/silybum-marianum/images/library-review052-4c96aac31fc3556.jpg",
+      "source_git_blob_sha": "d9bdfcd26cfca3855fdd0daf148d6328baaef94e",
+      "source_size_bytes": 482137,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sue Ann Kendall",
+          "license_claim": "CC BY",
+          "role": "Look closer · broad green leaves with conspicuous white-marbled venation and stiff marginal spines",
+          "source_page": "https://www.gbif.org/occurrence/6185942865",
+          "species_id": "silybum-marianum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Silybum/silybum-marianum/images/library-review052-4c96aac31fc3556.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Simsia/simsia-calva/images/01-curated-reference.jpg",
+      "source_git_blob_sha": "c771572aae4a1a0c89f4ad8ff1cb1cd838886456",
+      "source_size_bytes": 353847,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Laura Clark, some rights reserved (CC BY), uploaded by Laura Clark",
+          "license_claim": "cc-by",
+          "role": "Recognize · several yellow flowerheads above broad coarsely toothed and lobed leaves on branching stems; source species identity not independently verified",
+          "source_page": "https://www.inaturalist.org/taxa/169002",
+          "species_id": "simsia-calva"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Simsia/simsia-calva/images/01-curated-reference.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-gigantea/images/02-smooth-stem-leaf-underside.jpg",
+      "source_git_blob_sha": "69becea23fe49519ea413acbf2b164ede2ee3611",
+      "source_size_bytes": 191667,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Pethan",
+          "license_claim": "CC BY-SA 3.0",
+          "role": "Look closer · narrow lanceolate leaves, prominent veins and a smooth-looking section of stem; lower-stem hairlessness unconfirmed",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea04.jpg",
+          "species_id": "solidago-gigantea"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-gigantea/images/02-smooth-stem-leaf-underside.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review010-cf80062778de7de.jpg",
+      "source_git_blob_sha": "c74a265cda8663db939fbb089629eed048937e01",
+      "source_size_bytes": 505257,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Nick Loveland",
+          "license_claim": "CC0",
+          "role": "Recognize · dense yellow goldenrod panicles with narrow leaves in mixed plants; flowerhead arrangement visible but source ID provisional",
+          "source_page": "https://www.gbif.org/occurrence/6431713662",
+          "species_id": "solidago-juliae"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review010-cf80062778de7de.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review029-d097f76a0c00c1b.jpg",
+      "source_git_blob_sha": "4b991d8c8381a4dce9c060d6c0f390fb421cfb6a",
+      "source_size_bytes": 204067,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Reid Hardin",
+          "license_claim": "CC BY",
+          "role": "Look closer · several long narrow leaves attached around a short shoot; visible surface texture but individual hairs not confidently resolved",
+          "source_page": "https://www.gbif.org/occurrence/6252307537",
+          "species_id": "solidago-juliae"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review029-d097f76a0c00c1b.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review029-d9a6c39f78a1f16.jpg",
+      "source_git_blob_sha": "9a23262f2ca3421048c9074b5b12930f0ae3831d",
+      "source_size_bytes": 303782,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Reid Hardin",
+          "license_claim": "CC BY",
+          "role": "Recognize · compact low mound of numerous narrow leaves before flowering; photograph alone cannot confirm Julia's goldenrod identification",
+          "source_page": "https://www.gbif.org/occurrence/6252307537",
+          "species_id": "solidago-juliae"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-juliae/images/library-review029-d9a6c39f78a1f16.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-nemoralis/images/gbif-manual-6251878248-a16494237.jpg",
+      "source_git_blob_sha": "be081c6da1c7725bdac6c6231f2da625bc19803a",
+      "source_size_bytes": 217969,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Alan Weakley",
+          "license_claim": "CC0 1.0",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6251878248",
+          "species_id": "solidago-nemoralis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-nemoralis/images/gbif-manual-6251878248-a16494237.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-radula/images/gbif-manual-6234615536-18c69c879.jpg",
+      "source_git_blob_sha": "de5b7644fa85c4925b899b6b16b75fe517a03957",
+      "source_size_bytes": 350638,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6234615536",
+          "species_id": "solidago-radula"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-radula/images/gbif-manual-6234615536-18c69c879.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Solidago/solidago-rugosa/images/gbif-manual-6185566215-34dc4ebbf.jpg",
+      "source_git_blob_sha": "edfc1eb35c30026638c1d09ef4b00cf95f8b8104",
+      "source_size_bytes": 414420,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sandy Wolkenberg",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6185566215",
+          "species_id": "solidago-rugosa"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Solidago/solidago-rugosa/images/gbif-manual-6185566215-34dc4ebbf.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/images/library-review056-baad13be35a5003.jpg",
+      "source_git_blob_sha": "aa8704c6eac186d9bd66a0637dfb97052bace901",
+      "source_size_bytes": 296452,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "johnyochum",
+          "license_claim": "CC BY",
+          "role": "Look closer · yellow flowerhead with broad lobed leaves; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/6252098590",
+          "species_id": "sphagneticola-trilobata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/images/library-review056-baad13be35a5003.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/images/library-review056-fd90fc1063fd707.jpg",
+      "source_git_blob_sha": "a9e30a67906f7fe875e9b41a2de946af163d5930",
+      "source_size_bytes": 399190,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Michelle W. （鍾偉瑋）",
+          "license_claim": "CC BY",
+          "role": "Recognize · dense patch of creeping flowering stems; source scientific-name determination provisional, anatomical expertise pending",
+          "source_page": "https://www.gbif.org/occurrence/5063175711",
+          "species_id": "sphagneticola-trilobata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/images/library-review056-fd90fc1063fd707.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-eulae/images/gbif-manual-5282484200-32362db80.jpg",
+      "source_git_blob_sha": "5da4d3dab30d443b92ed3b1e6a68fd63e08dd674",
+      "source_size_bytes": 257123,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "ashleyrsteel",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/5282484200",
+          "species_id": "symphyotrichum-eulae"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-eulae/images/gbif-manual-5282484200-32362db80.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-lanceolatum-subsp-lanceolatum/images/library-review013-a4c57abb1db4590.jpg",
+      "source_git_blob_sha": "0aaad105d01b53fb1519553bb2eb3e8ae0e33aac",
+      "source_size_bytes": 403359,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Laura Clark",
+          "license_claim": "CC BY",
+          "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+          "source_page": "https://www.gbif.org/occurrence/5889548597",
+          "species_id": "symphyotrichum-lanceolatum-subsp-lanceolatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-lanceolatum-subsp-lanceolatum/images/library-review013-a4c57abb1db4590.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/images/gbif-manual-6273701092-805e4ae4b.jpg",
+      "source_git_blob_sha": "6f35f85f4a1e8a6ac8a042dc1c8ee484561ff80d",
+      "source_size_bytes": 408680,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Gary Rogers",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6273701092",
+          "species_id": "symphyotrichum-oblongifolium"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/images/gbif-manual-6273701092-805e4ae4b.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/images/symphyotrichum-oblongifolium-flowers-provisional.jpg",
+      "source_git_blob_sha": "e1df5db393549116511d961027fdc674932beb92",
+      "source_size_bytes": 133133,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "stlmark",
+          "license_claim": "CC0 1.0",
+          "role": "Flowers and oblong leaves (out-of-state exact-species study photo)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_oblongifolium_99857187.jpg",
+          "species_id": "symphyotrichum-oblongifolium"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/images/symphyotrichum-oblongifolium-flowers-provisional.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-flowering-provisional.jpg",
+      "source_git_blob_sha": "4aade70a51f136cbe338a449d7cbefab09fa6e09",
+      "source_size_bytes": 151933,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Reuven Martin",
+          "license_claim": "CC0 1.0",
+          "role": "Flowering plant; Ontario provenance (not Texas range evidence)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum.jpg",
+          "species_id": "symphyotrichum-praealtum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-flowering-provisional.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-leaf-provisional.jpg",
+      "source_git_blob_sha": "d8a4a6b0b283c80f9b49617f97c89b007309af27",
+      "source_size_bytes": 66312,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Reuven Martin",
+          "license_claim": "CC0 1.0",
+          "role": "Narrow willow-like leaf macro; Ontario provenance",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg",
+          "species_id": "symphyotrichum-praealtum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-leaf-provisional.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/images/library-review018-4b067cc91b6cadf.jpg",
+      "source_git_blob_sha": "37a37bb792af63dfe408922c0c502e67761c6a07",
+      "source_size_bytes": 106488,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Mário Rui Carranca",
+          "license_claim": "CC BY-SA",
+          "role": "Confirm clue · narrow pale gray-green leaf surfaces with visibly silky appressed whitish hairs, plus hairs along reddish stems; source ID remains provisional",
+          "source_page": "https://www.gbif.org/occurrence/5110407081",
+          "species_id": "symphyotrichum-sericeum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/images/library-review018-4b067cc91b6cadf.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/images/library-review018-a997b6fbf69030f.jpg",
+      "source_git_blob_sha": "af8da876257bc1387d2ec73ed1fe8061648e877e",
+      "source_size_bytes": 209688,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Michelle W. （鍾偉瑋）",
+          "license_claim": "CC BY",
+          "role": "Look closer · violet-purple ray florets around central disk with nearby green overlapping head bracts; fine bract hairs unresolved",
+          "source_page": "https://www.gbif.org/occurrence/4852044975",
+          "species_id": "symphyotrichum-sericeum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/images/library-review018-a997b6fbf69030f.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-subulatum/images/library-review011-3da293e58a72b8e.jpg",
+      "source_git_blob_sha": "95befb2190c4f3d9462fbbbec87ff98436d1f1e6",
+      "source_size_bytes": 165299,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Joshua Ebright",
+          "license_claim": "CC BY",
+          "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+          "source_page": "https://www.gbif.org/occurrence/5889579478",
+          "species_id": "symphyotrichum-subulatum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-subulatum/images/library-review011-3da293e58a72b8e.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Taraxacum/taraxacum-erythrospermum/images/commons-taraxacum-erythrospermum.jpg",
+      "source_git_blob_sha": "8a5d7f7d5d8f8286c12fcec0151877179957e727",
+      "source_size_bytes": 132424,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "jkirkhart35 (Jerry Kirkhart)",
+          "license_claim": "CC BY 2.0",
+          "role": "Provisional fruit/pappus photograph supporting seed-color inspection; rosette and flower not fully represented.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Taraxacumerythrospermum.jpg",
+          "species_id": "taraxacum-erythrospermum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Taraxacum/taraxacum-erythrospermum/images/commons-taraxacum-erythrospermum.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-acaulis/images/gbif-manual-6147615001-3f58d2cf8.jpg",
+      "source_git_blob_sha": "5d52ed1c994bf188695ac188f9d69ce70a0acacd",
+      "source_size_bytes": 562363,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Parker James Lloyd",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6147615001",
+          "species_id": "tetraneuris-acaulis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Tetraneuris/tetraneuris-acaulis/images/gbif-manual-6147615001-3f58d2cf8.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Thelesperma/thelesperma-megapotamicum-var-ambiguum/images/library-review013-5d8bb54ff7e51c9.jpg",
+      "source_git_blob_sha": "7b29f41e81f0bd19869ab197b24702fb3f0bc3a8",
+      "source_size_bytes": 222069,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Chet Burrier",
+          "license_claim": "CC BY",
+          "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+          "source_page": "https://www.gbif.org/occurrence/6234499760",
+          "species_id": "thelesperma-megapotamicum-var-ambiguum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Thelesperma/thelesperma-megapotamicum-var-ambiguum/images/library-review013-5d8bb54ff7e51c9.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Thelesperma/thelesperma-megapotamicum-var-ambiguum/images/library-review013-e800a160183a655.jpg",
+      "source_git_blob_sha": "5ca12eeaf2a58c12f175600aa24b531520630116",
+      "source_size_bytes": 527092,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Chet Burrier",
+          "license_claim": "CC BY",
+          "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+          "source_page": "https://www.gbif.org/occurrence/6352515535",
+          "species_id": "thelesperma-megapotamicum-var-ambiguum"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Thelesperma/thelesperma-megapotamicum-var-ambiguum/images/library-review013-e800a160183a655.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Thymophylla/thymophylla-pentachaeta/images/commons-thymophylla-pentachaeta.jpg",
+      "source_git_blob_sha": "d039c7c291b6dd2211ff82818d7eff96e651df5b",
+      "source_size_bytes": 122036,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Patrick Alexander",
+          "license_claim": "CC0 1.0",
+          "role": "Provisional initial plant recognition, based on a labelled New Mexico source photograph; leaf gland and phyllary macro needed.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Thymophylla_pentachaeta_-_Flickr_-_aspidoscelis.jpg",
+          "species_id": "thymophylla-pentachaeta"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Thymophylla/thymophylla-pentachaeta/images/commons-thymophylla-pentachaeta.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-virginica/images/06-austin-plant-habit.jpg",
+      "source_git_blob_sha": "c3870e1e5417d58ce17da9bdfbf35a2f12a55ce8",
+      "source_size_bytes": 770384,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Daderot",
+          "license_claim": "CC0 1.0",
+          "role": "Whole fall-flowering frostweed at Zilker Botanical Garden, Austin Texas; natural height, branching canopy and green foliage",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg",
+          "species_id": "verbesina-virginica"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Verbesina/verbesina-virginica/images/06-austin-plant-habit.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Verbesina/verbesina-virginica/images/07-white-composite-heads.jpg",
+      "source_git_blob_sha": "907ad97032f275565c4c1fd40f40089b687c910e",
+      "source_size_bytes": 124653,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Mason Brock (Masebrock)",
+          "license_claim": "Public Domain",
+          "role": "White flower head close-up showing small white ray florets and central pale disc florets",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica.jpg",
+          "species_id": "verbesina-virginica"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Verbesina/verbesina-virginica/images/07-white-composite-heads.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Vernonia/vernonia-baldwinii/images/gbif-manual-6147639530-e3646edce.jpg",
+      "source_git_blob_sha": "e47d0c30f5f7e39e19ba9e43deab7051a135fac8",
+      "source_size_bytes": 372813,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Sam Kieschnick",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/6147639530",
+          "species_id": "vernonia-baldwinii"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Vernonia/vernonia-baldwinii/images/gbif-manual-6147639530-e3646edce.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Vernonia/vernonia-baldwinii/images/vernonia-baldwinii-provisional-face.jpg",
+      "source_git_blob_sha": "a59beec2b235dedc91d9b6eff735f5b592215ee9",
+      "source_size_bytes": 362482,
+      "source_license_claim_bucket": "CC0_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Clifflandis",
+          "license_claim": "CC0 1.0",
+          "role": "Baldwin's ironweed recognizable flowering head from cultivated garden; diagnostic leaf margins and phyllary macros remain unfilled.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii_001.jpg",
+          "species_id": "vernonia-baldwinii"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Vernonia/vernonia-baldwinii/images/vernonia-baldwinii-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Vernonia/vernonia-lindheimeri/images/vernonia-lindheimeri-provisional-face.jpg",
+      "source_git_blob_sha": "05a3ce89ce026252b06e2ab435e2e085ee0da23e",
+      "source_size_bytes": 277118,
+      "source_license_claim_bucket": "PUBLIC_DOMAIN_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "Mason Brock (Masebrock)",
+          "license_claim": "Public domain — author dedication (PD-user-en)",
+          "role": "Exact-species woolly ironweed photo from limestone Sabinal River bank in Bandera County, Texas; first-pass recognition only, phyllary and abaxial leaf macros later.",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_lindheimeri.jpg",
+          "species_id": "vernonia-lindheimeri"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Vernonia/vernonia-lindheimeri/images/vernonia-lindheimeri-provisional-face.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Viguiera/viguiera-dentata/images/gbif-manual-5938351524-2052d783b.jpg",
+      "source_git_blob_sha": "cdb6ee24c4024ef9fffcac79174ecc95cfbac37e",
+      "source_size_bytes": 536684,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "jrcagle",
+          "license_claim": "CC BY",
+          "role": "Additional distinct image candidate; target structures not yet visually verified",
+          "source_page": "https://www.gbif.org/occurrence/5938351524",
+          "species_id": "viguiera-dentata"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Viguiera/viguiera-dentata/images/gbif-manual-5938351524-2052d783b.jpg"
+    },
+    {
+      "source_path": "content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis/images/inat-573480720.jpg",
+      "source_git_blob_sha": "fb91c62f9bf9c73e92acee569aea6d5d03080457",
+      "source_size_bytes": 124580,
+      "source_license_claim_bucket": "CC_ATTRIBUTION_CLAIM_UNVERIFIED",
+      "source_metadata": [
+        {
+          "creator": "(c) Andrea Villarreal Rodríguez, some rights reserved (CC BY)",
+          "license_claim": "CC BY",
+          "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+          "source_page": "https://www.inaturalist.org/photos/573480720",
+          "species_id": "wedelia-acapulcensis"
+        }
+      ],
+      "source_blob_link": "https://github.com/Crking92/Hays-County-Botany/blob/034f385e44cec18e8c29be96f83e22aaf78fe3f3/content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis/images/inat-573480720.jpg"
+    }
+  ]
+}
