@@ -1,0 +1,15 @@
+{
+  "status": "INAT_EXACT_PHOTOS_VERIFIED_PRIVATE_ONLY",
+  "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "candidate_observations": 55,
+  "verified_photo_references": 98,
+  "physically_archived_images": 98,
+  "noncommercial_only_images": 92,
+  "held_reasons": {
+    "NO_EXACT_OBSERVATION_AND_PHOTO_IDS": 336,
+    "NOT_ARCHIVED_SOURCE_PHOTO": 29,
+    "NOT_EXPLICIT_CC_LICENSE": 9,
+    "PHOTO_CREATOR_NEEDS_MANUAL_REVIEW": 5
+  },
+  "public_release_approval": false
+}
