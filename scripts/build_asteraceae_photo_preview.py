@@ -35,12 +35,14 @@ orphan_path=STAGING/"migration/asteraceae-orphan11-verified-photo-ledger.json"
 orphan_verified=json.loads(orphan_path.read_text()) if orphan_path.is_file() else {}
 zero_path=STAGING/"migration/asteraceae-zero-species-commons-recovery-ledger.json"
 zero_verified=json.loads(zero_path.read_text()) if zero_path.is_file() else {}
+last_four_path=STAGING/"migration/asteraceae-last-four-original-photo-rights-ledger.json"
+last_four_original=json.loads(last_four_path.read_text()) if last_four_path.is_file() else {}
 overrides_path=STAGING/"migration/asteraceae-orphan11-gallery-overrides.json"
 orphan_overrides=json.loads(overrides_path.read_text()) if overrides_path.is_file() else {}
 assert {x["source_path"] for values in orphan_overrides.values() for x in values}==set(orphan_verified), "Orphan source photos not exactly mapped to gallery entries"
-all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified),set(orphan_verified),set(zero_verified)]
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified),set(nc84_verified),set(orphan_verified),set(zero_verified),set(last_four_original)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
-approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified,**orphan_verified,**zero_verified}
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified,**nc84_verified,**orphan_verified,**zero_verified,**last_four_original}
 # Fresh research-grade observation photographs live outside the canonical 459-file
 # original-photo audit. They have individual iNat photo licenses and full metadata.
 fresh_path=STAGING/"migration/asteraceae-new-texas-inat-cc-photo-ledger.json"
@@ -61,7 +63,14 @@ assert all(
     and v.get("noncommercial_only") is False
     for v in commons_extra.values()
 ), "New Chondrilla Commons photo missing exact license and species identity"
-all_approved={**approved,**new_external,**commons_extra}
+synonym_path=STAGING/"migration/asteraceae-last-four-new-synonym-cc-ledger.json"
+synonym_media=json.loads(synonym_path.read_text()) if synonym_path.is_file() else {}
+assert all(
+    x.get("noncommercial_only") is False and x.get("observed_synonym")
+    and x.get("license_url","").startswith("https://creativecommons.org/licenses/by/")
+    for x in synonym_media.values()
+), "Kew synonym photo provenance/rights missing"
+all_approved={**approved,**new_external,**commons_extra,**synonym_media}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 # No archived picture may evade the per-photo rights ledger, even in private.
@@ -81,6 +90,9 @@ assert all(v["species_id"] in {r["id"] for r in index["entries"]} for v in new_e
 commons_media_root=STAGING/"external-media/asteraceae/new-commons"
 commons_media={x.relative_to(STAGING).as_posix() for x in commons_media_root.rglob("*.jpg")} if commons_media_root.exists() else set()
 assert commons_media==set(commons_extra), "Untracked Commons external-media photo or missing license ledger"
+synonym_media_root=STAGING/"external-media/asteraceae/synonym-inat"
+synonym_media_files={x.relative_to(STAGING).as_posix() for x in synonym_media_root.rglob("*.jpg")} if synonym_media_root.exists() else set()
+assert synonym_media_files==set(synonym_media), "New synonym photo or rights ledger missing"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 if DEST.exists():shutil.rmtree(DEST)
 (DEST/"data/species").mkdir(parents=True)
@@ -126,7 +138,7 @@ for row in index["entries"]:
     else:names,diff=[],""
     photos=[]
     sourced_additions=[{"source_path":path,"role":meta.get("role","Texas research-grade observation photo")}
-                       for path,meta in {**new_external,**commons_extra}.items() if meta["species_id"]==doc["id"]]
+                       for path,meta in {**new_external,**commons_extra,**synonym_media}.items() if meta["species_id"]==doc["id"]]
     for original in (doc.get("images") or []) + orphan_overrides.get(doc["id"],[]) + sourced_additions:
         rel=original.get("file","")
         full=original.get("source_path") or (row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else "")
@@ -136,7 +148,7 @@ for row in index["entries"]:
             or not str(all_approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
         info=all_approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED","STAGING_NEW_COMMONS_EXACT_CC_VERIFIED"))
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY","PRIVATE_NONCOMMERCIAL_STAGING_ONLY","STAGING_NEW_INAT_OBSERVATION_CC_SOURCE_VERIFIED","STAGING_NEW_COMMONS_EXACT_CC_VERIFIED","PRIVATE_SOURCE_ORIGINAL_LICENSE_AND_TAXON_VERIFIED","STAGING_NEW_INAT_TAXONOMIC_SYNONYM_CC_VERIFIED"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -182,6 +194,8 @@ summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else 
          "new_texas_cc_field_photo_copies":len(new_external),
          "new_texas_cc_field_species":len({x["species_id"] for x in new_external.values()}),
          "new_other_commons_field_photos":len(commons_extra),
+         "new_taxonomy_synonym_cc_photos":len(synonym_media),
+         "recovered_old_plainsman_original_photos":len(last_four_original),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
          "new_verified_gbif_media_archives":len(gbif_verified),
