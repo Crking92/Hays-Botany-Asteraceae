@@ -1,0 +1,59 @@
+name: Close out 11 unreferenced Asteraceae photo originals (private verification only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/reconcile_asteraceae_11_unreferenced.py'
+      - '.github/workflows/asteraceae-orphan11-photo-review.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-11-original-photos-rights-review
+  cancel-in-progress: false
+jobs:
+  verify-and-document:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Install image fingerprint library
+        run: python -m pip install 'Pillow>=10,<12'
+      - name: Load source originals by pinned Git commit SHA without exposing held photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$(python3 -c 'import json;print(json.load(open("staging/data/collection-index.json"))["source_commit_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/asteraceae-pinned-orphan-source"
+          git -C "$RUNNER_TEMP/asteraceae-pinned-orphan-source" fetch --depth 1 origin "$SHA"
+          git -C "$RUNNER_TEMP/asteraceae-pinned-orphan-source" update-ref refs/heads/orphan-source "$SHA"
+          git -C "$RUNNER_TEMP/asteraceae-pinned-orphan-source" symbolic-ref HEAD refs/heads/orphan-source
+      - name: Reconcile all 11 by historical source records and live rights
+        run: python3 shell/scripts/reconcile_asteraceae_11_unreferenced.py staging "$RUNNER_TEMP/asteraceae-pinned-orphan-source"
+      - name: Commit only exact-source-approved original images to private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-orphan11-verified-photo-ledger.json migration/asteraceae-orphan11-gallery-overrides.json migration/asteraceae-orphan11-all-decisions.json migration/asteraceae-orphan11-summary.json
+          git diff --cached --check -- 'migration/*.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Verify and explicitly account for 11 unreferenced Asteraceae originals; retain ARR holds"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: asteraceae-11-unreferenced-photo-licensing-and-identity-audit
+          path: staging/qa-report/asteraceae-11-orphan-source-checks/
+          retention-days: 30
+          if-no-files-found: warn
