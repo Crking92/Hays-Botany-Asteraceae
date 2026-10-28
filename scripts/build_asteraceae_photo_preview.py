@@ -26,9 +26,11 @@ upstream_path=STAGING/"migration/asteraceae-upstream-commons-120-ledger.json"
 upstream_verified=json.loads(upstream_path.read_text()) if upstream_path.is_file() else {}
 inat_taxon_path=STAGING/"migration/asteraceae-upstream-inat-taxon-120-ledger.json"
 inat_taxon_verified=json.loads(inat_taxon_path.read_text()) if inat_taxon_path.is_file() else {}
-all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified)]
+gbif_path=STAGING/"migration/asteraceae-upstream-gbif-120-ledger.json"
+gbif_verified=json.loads(gbif_path.read_text()) if gbif_path.is_file() else {}
+all_ledgers=[set(commons_approved),set(inat_approved),set(author_private),set(upstream_verified),set(inat_taxon_verified),set(gbif_verified)]
 assert sum(map(len,all_ledgers))==len(set().union(*all_ledgers)), "Photo rights ledgers overlap; needs human review"
-approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified}
+approved={**commons_approved,**inat_approved,**author_private,**upstream_verified,**inat_taxon_verified,**gbif_verified}
 assert config["publication"]["enabled"] is False and index["authority"]=="STAGING_ONLY"
 assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
@@ -80,11 +82,11 @@ for row in index["entries"]:
         full=row["path"].rsplit("/",1)[0]+"/"+rel if rel and not rel.startswith(("https:","http:")) else ""
         if full not in approved:continue
         if STRICT_PUBLIC_CC and (
-            full in author_private or approved[full].get("noncommercial_only",False)
+            full in author_private or full in gbif_verified or approved[full].get("noncommercial_only",False)
             or not str(approved[full].get("license_url","")).replace("http://","https://").startswith("https://creativecommons.org/")
         ):continue
         info=approved[full]
-        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED"))
+        assert info["publication_approval"].startswith(("STAGING_IMAGE_ONLY","PRIVATE_EDUCATIONAL_PREVIEW_ONLY","PRIVATE_STAGING_SOURCE_VERIFIED","PRIVATE_GBIF_SOURCE_VERIFIED_ONLY"))
         source=STAGING/full
         assert source.is_file(),f"Missing archived source photo {full}"
         b=source.read_bytes()
@@ -102,9 +104,9 @@ for row in index["entries"]:
                        "source_page":info["source_page"],"role":original.get("role",""),
                        "modified":"Scaled/converted to JPEG, metadata removed; no anatomy overlays",
                        "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False)),
-                       "private_rights_review_only":full in author_private,
+                       "private_rights_review_only":full in author_private or full in gbif_verified,
                        "source_page_is_exact":bool(info.get("source_page_verified",True)),
-                       "rights_note":info.get("permission_basis","")})
+                       "rights_note":info.get("permission_basis","") or ("GBIF individual multimedia license and exact image verified; secondary current-source and public release check still required." if full in gbif_verified else "")})
         photo_count+=1;photo_species.add(doc["id"])
         if info.get("noncommercial_only",False):nc_photo_count+=1
         if full in author_private:private_author_photo_count+=1
@@ -124,9 +126,10 @@ assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
-         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified),
+         "source_verified_distinct_archives":len(commons_approved)+len(inat_approved)+len(upstream_verified)+len(inat_taxon_verified)+len(gbif_verified),
          "new_verified_upstream_commons_archives":len(upstream_verified),
          "new_verified_inat_taxon_archives":len(inat_taxon_verified),
+         "new_verified_gbif_media_archives":len(gbif_verified),
          "owner_or_source_record_only_private_photo_archives":len(author_private),
          "owner_or_source_record_only_private_photo_copies":private_author_photo_count,
          "species_with_any_review_photos":len(photo_species),
