@@ -1,0 +1,48 @@
+name: Validate and freeze Asteraceae 179-species photo pass-2 handoff
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/validate_asteraceae_pass2_handoff.py'
+      - '.github/workflows/asteraceae-pass2-photo-handoff.yml'
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-pass2-handoff
+  cancel-in-progress: false
+jobs:
+  verify-and-record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - name: Check every source photo status, new CC media and sole variety gap
+        run: python3 shell/scripts/validate_asteraceae_pass2_handoff.py staging
+      - name: Commit permanent private staging handoff status and final Pectis hold
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/asteraceae-photo-handoff-readiness-20261028.json migration/ASTERACEAE_PHOTO_PASS2_HANDOFF_20261028.md
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Document 362-photo 179-species Asteraceae handoff with single Pectis variety hold"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Preserve handoff report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-pass2-179-species-readiness-gate
+          path: |
+            staging/migration/asteraceae-photo-handoff-readiness-20261028.json
+            staging/migration/ASTERACEAE_PHOTO_PASS2_HANDOFF_20261028.md
+          retention-days: 30
+          if-no-files-found: warn
