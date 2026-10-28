@@ -73,10 +73,15 @@ for path,target in targets.items():
    content_n=re.sub(r"\s+","",contents.lower())
    cc0_link=("creativecommons.org/publicdomain/zero" in lic_url.lower())
    cc0_wikitext=any(z in content_n for z in ("{{cc-zero","{{cc0","{{cc zero","{{cc-zero}}","{{cc-zero|"))
-   if not cc0_link and not cc0_wikitext:
-    rec["reason"]="UPSTREAM_CC0_DEDICATION_NOT_MACHINE_VERIFIED"
-   else:
+   pd_author_deed=("{{pd-self" in content_n or "{{pdself" in content_n)
+   pd_current=(license_short.strip().lower()=="public domain" and val("Copyrighted").strip().lower()=="false")
+   if cc0_link or cc0_wikitext:
     rec["license_verification"]="EXACT_FILE_CC0_DEDICATION"
+   elif pd_author_deed and pd_current:
+    rec["license_verification"]="CURRENT_FILE_AUTHOR_PUBLIC_DOMAIN_SELF_DEDICATION"
+    rec["effective_license"]="Public domain (author dedication)"
+   else:
+    rec["reason"]="UPSTREAM_CC0_OR_AUTHOR_PD_DEDICATION_NOT_MACHINE_VERIFIED"
   elif target["license"]=="CC BY-SA 4.0":
    if "CC BY-SA 4.0" not in license_short.upper() or not ("by-sa/4.0" in lic_url):
     rec["reason"]="COMMONS_BY_SA_LICENSE_MISMATCH"
@@ -98,8 +103,8 @@ for path,target in targets.items():
     (ROOT/path).write_bytes(original)
     approved[path]={
       "source_git_blob_sha":h,"creator":target["author"],"upstream_artist":rec["artist"],
-      "license":target["license"],
-      "license_url":"https://creativecommons.org/publicdomain/zero/1.0/" if target["license"]=="CC0 1.0" else "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license":rec.get("effective_license",target["license"]),
+      "license_url":("https://commons.wikimedia.org/wiki/"+target["page"] if rec.get("effective_license") else ("https://creativecommons.org/publicdomain/zero/1.0/" if target["license"]=="CC0 1.0" else "https://creativecommons.org/licenses/by-sa/4.0/")),
       "source_page":"https://commons.wikimedia.org/wiki/"+target["page"],
       "role":target["role"],"noncommercial_only":False,"visually_matched_dhash_distance":diff,
       "verified_via":"Wikimedia Commons exact file current artist, license and original pixel comparison",
