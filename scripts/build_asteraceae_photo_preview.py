@@ -94,6 +94,7 @@ for row in index["entries"]:
                        "modified":"Scaled/converted to JPEG, metadata removed; no anatomy overlays",
                        "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False)),
                        "private_rights_review_only":full in author_private,
+                       "source_page_is_exact":bool(info.get("source_page_verified",True)),
                        "rights_note":info.get("permission_basis","")})
         photo_count+=1;photo_species.add(doc["id"])
         if info.get("noncommercial_only",False):nc_photo_count+=1
