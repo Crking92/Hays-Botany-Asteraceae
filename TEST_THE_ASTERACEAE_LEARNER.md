@@ -4,7 +4,7 @@
 
 ## Open the latest successfully tested Windows preview
 
-1. [Download Asteraceae test site ZIP — October 28 field-first curated preview](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40784683267/artifacts/12857774896) (sign in to GitHub if necessary).
+1. [Download Asteraceae test site ZIP — October 28 field-first curated preview](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40785673710/artifacts/12858194558) (sign in to GitHub if necessary).
 2. Extract the entire ZIP; do not run files while they are still zipped.
 3. Open the extracted `dist` folder.
 4. Double-click `RUN_ASTERACEAE_REVIEW.bat` and keep the server window running.
@@ -43,8 +43,8 @@ The difference between 179 archived-photo species and 169 display-photo species 
 
 ## Source and QA links
 
-- [Private photo learner QA run — desktop and mobile PASS](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40784683267)
-- [Strict public-CC test workflow — PASS, no deployment](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40784352824)
+- [Private photo learner QA run — desktop and mobile PASS](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40785673710)
+- [Strict public-CC test workflow — PASS, no deployment](https://github.com/Crking92/Hays-Botany-Asteraceae/actions/runs/40785673532)
 - [Source-by-source original photo audit](https://github.com/Crking92/Hays-Botany-Asteraceae/blob/staging/asteraceae-metadata/migration/ASTERACEAE_ALL_459_PHOTOS_ACCOUNTED_20261028.md)
 - [Collection handoff summary](https://github.com/Crking92/Hays-Botany-Asteraceae/blob/staging/asteraceae-metadata/migration/ASTERACEAE_PHOTO_PASS2_HANDOFF_20261028.md)
 - [Original hub](https://crking92.github.io/Hays-County-Botany/)
