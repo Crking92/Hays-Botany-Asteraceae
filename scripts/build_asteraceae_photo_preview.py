@@ -19,7 +19,7 @@ assert len(index["entries"])==180 and len(approved)>=2
 assert index["source_commit_sha"]==census["source_commit_sha"]
 if DEST.exists():shutil.rmtree(DEST)
 (DEST/"data/species").mkdir(parents=True)
-for name in ("index.html","styles.css","app.js"):
+for name in ("index.html","styles.css","app.js","RUN_ASTERACEAE_REVIEW.bat"):
     shutil.copyfile(SHELL/"site"/name,DEST/name)
 h=(DEST/"index.html").read_text()
 h=h.replace("Layout prototype only.</strong> No botanical records or photographs have been transferred to this collection.",
