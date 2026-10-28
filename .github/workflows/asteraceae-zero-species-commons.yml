@@ -1,0 +1,57 @@
+name: Recover zero-photo Asteraceae species from exact Commons sources (PRIVATE)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/recover_zero_species_commons.py'
+      - '.github/workflows/asteraceae-zero-species-commons.yml'
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-zero-photo-gap-originals
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install 'Pillow>=10,<12'
+      - name: Clone immutable original repository without downloading all photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$(python3 -c 'import json;print(json.load(open("staging/data/collection-index.json"))["source_commit_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/hays-zero-commons"
+          git -C "$RUNNER_TEMP/hays-zero-commons" fetch --depth 1 origin "$SHA"
+          git -C "$RUNNER_TEMP/hays-zero-commons" update-ref refs/heads/hays-pinned "$SHA"
+          git -C "$RUNNER_TEMP/hays-zero-commons" symbolic-ref HEAD refs/heads/hays-pinned
+      - name: Validate Commons current license, author and actual photo identity
+        run: python3 shell/scripts/recover_zero_species_commons.py staging "$RUNNER_TEMP/hays-zero-commons"
+      - name: Commit approved originals and preserve all decisions on private staging only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-zero-species-commons-recovery-ledger.json migration/asteraceae-zero-species-commons-recovery-decisions.json migration/asteraceae-zero-species-commons-recovery-summary.json
+          git diff --cached --check -- migration/
+          if ! git diff --cached --quiet; then
+            git commit -m "Verify and privately archive Commons photos for missing Asteraceae species"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-zero-species-commons-check-summary
+          path: staging/migration/asteraceae-zero-species-commons-recovery-summary.json
+          retention-days: 30
+          if-no-files-found: warn
