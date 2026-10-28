@@ -92,7 +92,7 @@ def is_generic_view(role):
     if any(part in role for part in DIAGNOSTIC_TERMS):
         return False
     return not role or any(part in role for part in (
-        "habit","recognition","overview","field reference","field photo",
+        "habit","recognition","overview","additional exact-taxon view","anatomical role pending","first-pass","field reference","field photo",
         "research-grade observation","habitat","whole plant","generic",
         "landscape","reference photograph","general view","plant view"))
 def is_traceable_photo(meta,source):
