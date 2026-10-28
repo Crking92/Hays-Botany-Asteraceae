@@ -21,7 +21,7 @@ for x in assets:
  meta=next((m for m in x["source_metadata"] if re.match(r"^https://www\.inaturalist\.org/taxa/\d+",m.get("source_page",""))),None)
  if meta is None:continue
  candidates.append({"path":x["source_path"],"sha":x["source_git_blob_sha"],"source_page":meta["source_page"],"creator_claim":meta["creator"],"license_claim":meta["license_claim"],"state":"HOLD","reason":""})
-assert len(candidates)==19,f"Expected 19 iNaturalist taxon-source priority files, got {len(candidates)}"
+assert len(candidates)==9,f"Expected 9 iNaturalist taxon-page priority files, got {len(candidates)}"
 qa=ROOT/"qa-report/asteraceae-inat-taxon-rights"
 qa.mkdir(parents=True,exist_ok=True)
 def clean(s):
