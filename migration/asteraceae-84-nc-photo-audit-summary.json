@@ -1,0 +1,25 @@
+{
+  "status": "84_SOURCE_NC_IMAGES_CHECKED_PRIVATE_ONLY",
+  "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "total_candidates": 84,
+  "verified_and_archived": 22,
+  "still_held": 62,
+  "by_source": {
+    "taxon": 37,
+    "observation": 15,
+    "direct_photo": 29,
+    "gbif": 3
+  },
+  "verified_by_source": {
+    "taxon": 18,
+    "observation": 1,
+    "gbif": 3
+  },
+  "hold_reasons": {
+    "NO_EXACT_MEDIA_PHOTO_WITH_CURRENT_LICENSE_CREDIT_AND_PIXELS": 30,
+    "EXACT_PHOTO_PAGE_METADATA_UNAVAILABLE_TO_VERIFY_CURRENT_RIGHTS": 29,
+    "NC_ND_NO_DERIVATIVES_REVIEW_REQUIRED": 3
+  },
+  "noncommercial_only": true,
+  "not_public_website_approved": true
+}
