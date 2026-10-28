@@ -53,6 +53,7 @@ jobs:
               assert data["family"]=="Asteraceae"
               for item in data.get("verified_photos",[]):
                   assert item["noncommercial_only"] is False
+                  assert item.get("private_rights_review_only") is False, "owner-authorized or provisional source-only photo leaked to public candidate"
                   assert item["license"] and item["creator"] and item["license_url"].startswith("https://creativecommons.org/")
                   assert item["source_page"].startswith("https://")
                   assert (root/item["src"]).is_file()
