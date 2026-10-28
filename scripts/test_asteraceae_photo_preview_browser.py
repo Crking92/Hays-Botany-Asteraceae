@@ -11,6 +11,9 @@ with sync_playwright() as p:
         response=page.goto("http://127.0.0.1:8767/?species=achillea-millefolium",wait_until="networkidle")
         assert response.status==200
         assert page.locator("#species-count").inner_text()=="180"
+        summary=page.request.get("http://127.0.0.1:8767/data/preview-summary.json").json()
+        assert summary["verified_photo_copies"]==322, summary
+        assert summary["species_with_any_review_photos"]==149, summary
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
@@ -61,7 +64,22 @@ with sync_playwright() as p:
         assert page.locator(".photo-nc").count()>=1, "New live-verified NC84 photo has no noncommercial warning"
         assert page.locator(".gallery-photo img").first.evaluate("(e)=>e.complete && e.naturalWidth>0")
         page.screenshot(path=str(OUT/f"asteraceae-nc84-new-geiseri-{label}.png"),full_page=True)
+        page.goto("http://127.0.0.1:8767/?species=heterotheca-subaxillaris",wait_until="networkidle")
+        heads=page.locator(".gallery-photo img")
+        heads.first.wait_for()
+        assert heads.count()==2,"Camphorweed should show both recovered Commons photos"
+        assert "MathKnight" in page.locator("#detail").inner_text()
+        assert all(heads.nth(i).evaluate("(e)=>e.complete && e.naturalWidth>0") for i in range(heads.count()))
+        page.screenshot(path=str(OUT/f"asteraceae-heterotheca-recovered-{label}.png"),full_page=True)
+        page.goto("http://127.0.0.1:8767/?species=carthamus-tinctorius",wait_until="networkidle")
+        head=page.locator(".gallery-photo img")
+        head.first.wait_for()
+        assert head.count()==1,"Safflower needs its original restored photo"
+        txt=page.locator("#detail").inner_text()
+        assert "Pseudoanas" in txt and "Public domain" in txt
+        assert head.first.evaluate("(e)=>e.complete && e.naturalWidth>0")
+        page.screenshot(path=str(OUT/f"asteraceae-carthamus-recovered-{label}.png"),full_page=True)
         assert not errors,errors
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"two yarrow credits, Calvin permission, Joey NC, photos loaded, search and Field ID",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"322 photos across 149 species, rescued camphorweed+safflower, yarrow, Calvin, Joey, GBIF, NC and responsive search",flush=True)
         page.close()
     browser.close()
