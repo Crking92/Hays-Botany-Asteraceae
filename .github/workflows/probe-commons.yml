@@ -1,0 +1,16 @@
+name: Probe Commons metadata for Asteraceae source-photo validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/probe_asteraceae_commons.py'
+      - '.github/workflows/probe-commons.yml'
+permissions: {contents: read}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/probe_asteraceae_commons.py
