@@ -1,0 +1,58 @@
+name: Verify held Commons photo rights and visual identity (private only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/archive_asteraceae_held_commons.py'
+      - '.github/workflows/asteraceae-upstream-commons-120.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-priority-commons-photo-import
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install 'Pillow>=10,<12'
+      - name: Open pinned source blobs on demand without fetching all images
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$(python3 -c 'import json;print(json.load(open("staging/data/collection-index.json"))["source_commit_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/hays-upstream-source"
+          git -C "$RUNNER_TEMP/hays-upstream-source" fetch --depth 1 origin "$SHA"
+          git -C "$RUNNER_TEMP/hays-upstream-source" update-ref refs/heads/source-pinned "$SHA"
+          git -C "$RUNNER_TEMP/hays-upstream-source" symbolic-ref HEAD refs/heads/source-pinned
+          test "$(git -C "$RUNNER_TEMP/hays-upstream-source" rev-parse HEAD)" = "$SHA"
+      - name: Match exact Commons File credits licenses and upstream pixels
+        run: python3 shell/scripts/archive_asteraceae_held_commons.py staging "$RUNNER_TEMP/hays-upstream-source"
+      - name: Commit only source-checked originals to private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-upstream-commons-120-ledger.json migration/asteraceae-upstream-commons-120-summary.json
+          git diff --cached --check -- 'migration/*.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive source-verified Commons Asteraceae priority photographs to private staging"
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Preserve source-to-photo rights decisions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-commons-40-exact-photo-rights-review
+          path: staging/qa-report/commons-120-priority/
+          retention-days: 30
+          if-no-files-found: warn
