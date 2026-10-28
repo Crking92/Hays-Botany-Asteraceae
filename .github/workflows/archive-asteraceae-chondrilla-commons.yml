@@ -1,0 +1,38 @@
+name: Add verifiable Chondrilla field habit reference from Commons (PRIVATE)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/archive_asteraceae_chondrilla_commons.py'
+      - '.github/workflows/archive-asteraceae-chondrilla-commons.yml'
+permissions: {contents: write}
+concurrency:
+  group: asteraceae-commons-new-field-reference
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install 'Pillow>=10,<12'
+      - name: Verify exact Commons File page CC BY 2.0 artist and image bytes
+        run: python3 shell/scripts/archive_asteraceae_chondrilla_commons.py staging
+      - name: Commit photo and license evidence only to PRIVATE staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add external-media/asteraceae/new-commons migration/asteraceae-new-commons-field-photo-ledger.json migration/asteraceae-new-commons-field-photo-summary.json
+          git diff --cached --check -- migration/
+          git commit -m "Add independently licensed Chondrilla habit photo with non-Texas context and attribution"
+          git fetch origin staging/asteraceae-metadata
+          git rebase FETCH_HEAD
+          git push origin HEAD:refs/heads/staging/asteraceae-metadata
