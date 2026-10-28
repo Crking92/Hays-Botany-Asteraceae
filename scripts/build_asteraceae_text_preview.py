@@ -22,7 +22,8 @@ assert config["planning_status"] == "STAGING_ONLY_NOT_AUTHORITATIVE"
 assert len(source_index["entries"]) == 180
 assert source_census["species_records"] == 180
 assert source_index["source_commit_sha"] == source_census["source_commit_sha"]
-assert not list((STAGED / "content/taxa/Asteraceae").rglob("*.jpg"))
+# Text-only preview now runs against an intentionally photo-populated private staging tree.
+# The output file allowlist below prevents copying any photo into this build.
 if DEST.exists():
     shutil.rmtree(DEST)
 (DEST / "data/species").mkdir(parents=True)
