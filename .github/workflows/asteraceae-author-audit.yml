@@ -22,7 +22,7 @@ jobs:
           path: shell
           persist-credentials: false
       - name: Inspect source attribution, held and installed images
-        run: python3 shell/scripts/audit_asteraceae_photo_authors.py
+        run: python3 shell/scripts/audit_asteraceae_photo_authors.py staging
       - uses: actions/upload-artifact@v4
         with:
           name: joey-calvin-asteraceae-photo-license-audit
