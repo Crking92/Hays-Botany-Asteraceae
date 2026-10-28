@@ -51,6 +51,7 @@ def to_text(value):
 photo_count=0
 photo_species=set()
 nc_photo_count=0
+private_author_photo_count=0
 for row in index["entries"]:
     src=STAGING/row["path"]; assert src.is_file()
     doc=json.loads(src.read_text())
@@ -98,6 +99,7 @@ for row in index["entries"]:
                        "rights_note":info.get("permission_basis","")})
         photo_count+=1;photo_species.add(doc["id"])
         if info.get("noncommercial_only",False):nc_photo_count+=1
+        if full in author_private:private_author_photo_count+=1
     public_safe={"id":doc["id"],"scientific_name":doc["scientific_name"],"common_name":doc.get("common_name",""),
          "family":"Asteraceae","genus":doc["genus"],"look_here_first":to_text(doc.get("look_here_first")),
          "key_traits":traits,"lookalikes":{"names":names,"differences":diff},
@@ -106,12 +108,18 @@ for row in index["entries"]:
     (DEST/"data/species"/(doc["id"]+".json")).write_text(json.dumps(public_safe,indent=2,ensure_ascii=False)+"\n")
 jpgs=list(DEST.rglob("*.jpg"))
 assert len(jpgs)==photo_count and photo_count>=2
+if STRICT_PUBLIC_CC:
+    assert private_author_photo_count==0, "Owner permission or provisional source photo leaked to strict CC output"
+else:
+    assert private_author_photo_count==len(author_private), "Private author photo archive not fully represented"
 assert len(list((DEST/"data/species").glob("*.json")))==180
 assert not (DEST/"content").exists()
 summary={"status":"STRICT_PUBLIC_CC_RELEASE_CANDIDATE" if STRICT_PUBLIC_CC else "PRIVATE_PHOTO_REVIEW_PREVIEW_NOT_DEPLOYED","species":180,
          "species_with_cc_photos":len(photo_species),"verified_photo_copies":photo_count,
          "source_verified_distinct_archives":len(commons_approved)+len(inat_approved),
          "owner_or_source_record_only_private_photo_archives":len(author_private),
+         "owner_or_source_record_only_private_photo_copies":private_author_photo_count,
+         "species_with_any_review_photos":len(photo_species),
          "noncommercial_only_previews":nc_photo_count,"source_commit_sha":index["source_commit_sha"],
          "output_jpegs":len(jpgs),"public_pages_enabled":False,
          "strict_public_cc":STRICT_PUBLIC_CC}
