@@ -104,5 +104,8 @@ dest=STAGE/"migration"
 cols=["source_path","source_host","source_creator_claim","source_license_claim","physical_archive_complete","decision","reason","current_license_observed","current_artist_observed","visual_dhash_distance","original_hub_blob"]
 with (dest/"asteraceae-priority120-upstream-review-decisions.csv").open("w",newline="",encoding="utf-8") as f:
  w=csv.DictWriter(f,fieldnames=cols,lineterminator="\n");w.writeheader()
- for r in rows:w.writerow({k:r.get(k) for k in cols})
+ for r in rows:
+  # Keep byte-faithful original attribution in JSON; make CSV single-line readable.
+  safe={k:(" ".join(v.split()) if isinstance(v,str) else v) for k in cols for v in [r.get(k)]}
+  w.writerow(safe)
 print("PRIORITY120_CLOSEOUT",json.dumps(summary,sort_keys=True),flush=True)
