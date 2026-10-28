@@ -1,5 +1,95 @@
 {
   "status": "FIELD_FIRST_CREDIT_TRACEABLE_PREVIEW",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "species_with_no_visible_photos": [
+    {
+      "species_id": "chloracantha-spinosa",
+      "scientific_name": "Chloracantha spinosa",
+      "common_name": "Spiny chloracantha",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "diaperia-prolifera",
+      "scientific_name": "Diaperia prolifera",
+      "common_name": "flathead rabbit tobacco",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "diaperia-verna",
+      "scientific_name": "Diaperia verna",
+      "common_name": "many stem evax",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "dysodiopsis-tagetoides",
+      "scientific_name": "Dysodiopsis tagetoides",
+      "common_name": "False dogfennel",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "elephantopus-carolinianus",
+      "scientific_name": "Elephantopus carolinianus",
+      "common_name": "leafy elephant's-foot",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "hymenopappus-tenuifolius",
+      "scientific_name": "Hymenopappus tenuifolius",
+      "common_name": "Chalk Hill Hymenopappus",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "lygodesmia-texana",
+      "scientific_name": "Lygodesmia texana",
+      "common_name": "Texas skeletonplant",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "pectis-angustifolia-var-fastigiata",
+      "scientific_name": "Pectis angustifolia var. fastigiata",
+      "common_name": "Narrowleaf chinchweed, fastigiata variety",
+      "curation_exclusion_reasons": []
+    },
+    {
+      "species_id": "pluchea-odorata",
+      "scientific_name": "Pluchea odorata",
+      "common_name": "Sweetscent",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "porophyllum-scoparium",
+      "scientific_name": "Porophyllum scoparium",
+      "common_name": "Porophyllum scoparium",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "wedelia-acapulcensis-var-hispida",
+      "scientific_name": "Wedelia acapulcensis var. hispida",
+      "common_name": "Texas creeping-oxeye",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    }
+  ],
+  "species_with_no_visible_photos_count": 11,
   "archived_media_removed_or_deleted": 0,
   "source_originals_and_media_rights_ledgers_unchanged": true,
   "generic_views_limit_per_species": 2,
