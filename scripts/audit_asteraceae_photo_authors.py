@@ -9,7 +9,8 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
+import sys
+ROOT=Path(sys.argv[1]).resolve() if len(sys.argv)>1 else Path(__file__).resolve().parents[1]
 index=json.loads((ROOT/"data/collection-index.json").read_text())
 commons=json.loads((ROOT/"migration/asteraceae-verified-commons-photo-ledger.json").read_text())
 inat=json.loads((ROOT/"migration/asteraceae-verified-inat-photo-ledger.json").read_text())
