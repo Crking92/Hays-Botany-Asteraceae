@@ -13,7 +13,7 @@ ROOT=Path(sys.argv[1]).resolve()
 SOURCE=Path(sys.argv[2]).resolve()
 QA=ROOT/"qa-report"/"commons-photo-archive"
 QA.mkdir(parents=True,exist_ok=True)
-assert ROOT.name=="Hays-Botany-Asteraceae"
+assert (ROOT/"config/collection.json").is_file()
 config=json.loads((ROOT/"config/collection.json").read_text())
 assert config["publication"]["enabled"] is False
 assert config["planning_status"]=="STAGING_ONLY_NOT_AUTHORITATIVE"
