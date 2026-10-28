@@ -31,6 +31,22 @@ with sync_playwright() as p:
         assert page.evaluate("document.body.scrollWidth")<=page.evaluate("document.documentElement.clientWidth")+1
         assert not errors,errors
         page.screenshot(path=str(OUT/f"asteraceae-real-photos-{label}.png"),full_page=True)
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"180 searchable, verified yarrow CC photographs load, credits, links, Field ID, no overflow",flush=True)
+        page.goto("http://127.0.0.1:8767/?species=gymnosperma-glutinosum",wait_until="networkidle")
+        page.locator(".gallery-photo img").first.wait_for()
+        owner_text=page.locator("#detail").inner_text()
+        assert "Calvin King" in owner_text
+        assert "Used with Calvin King's permission" in owner_text
+        assert page.locator(".photo-review").count()>=1
+        assert page.locator(".gallery-photo img").first.evaluate("(e)=>e.complete && e.naturalWidth>0")
+        page.screenshot(path=str(OUT/f"asteraceae-calvin-attribution-{label}.png"),full_page=True)
+        page.goto("http://127.0.0.1:8767/?species=chloracantha-spinosa",wait_until="networkidle")
+        page.locator(".gallery-photo img").first.wait_for()
+        joey_text=page.locator("#detail").inner_text()
+        assert "Joey Santore" in joey_text
+        assert "CC BY-NC" in joey_text
+        assert page.locator(".photo-nc").count()>=1
+        assert page.locator(".gallery-photo img").first.evaluate("(e)=>e.complete && e.naturalWidth>0")
+        assert not errors,errors
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"two yarrow credits, Calvin permission, Joey NC, photos loaded, search and Field ID",flush=True)
         page.close()
     browser.close()
