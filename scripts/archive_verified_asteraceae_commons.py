@@ -83,11 +83,18 @@ def query_commons(titles):
 titles=sorted(queue)
 for i in range(0,len(titles),10):
     block=titles[i:i+10]
-    try:
-        response=query_commons(block)
-    except Exception as exc:
+    response = None
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = query_commons(block)
+            break
+        except Exception as exc:
+            last_error = exc
+            time.sleep(1.5 * (attempt + 1))
+    if response is None:
         for title in block:
-            for row in queue[title]:row["reason"]="COMMONS_API_UNAVAILABLE_"+type(exc).__name__
+            for row in queue[title]:row["reason"]="COMMONS_API_UNAVAILABLE_"+type(last_error).__name__
         continue
     for title in block:
         page=response.get(title)
