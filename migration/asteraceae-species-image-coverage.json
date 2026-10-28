@@ -1,0 +1,778 @@
+{
+  "achillea-millefolium": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "acmella-repens": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "acourtia-runcinata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "acourtia-wrightii": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "ageratina-altissima": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "ageratina-havanensis": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "amblyolepis-setigera": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "ambrosia-artemisiifolia": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "ambrosia-psilostachya": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "ambrosia-trifida": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 3
+  },
+  "amphiachyris-amoena": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "amphiachyris-dracunculoides": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "aphanostephus-riddellii": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "aphanostephus-skirrhobasis": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "arnoglossum-plantagineum": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "artemisia-ludoviciana": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 1
+  },
+  "artemisia-tridentata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "baccharis-neglecta": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "baccharis-salicifolia": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "berlandiera-betonicifolia": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "berlandiera-lyrata": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "bidens-frondosa": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "bidens-laevis": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "boltonia-diffusa": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "bradburia-hirtella": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "brickellia-cylindracea": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "brickellia-dentata": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "brickellia-eupatorioides": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "calyptocarpus-vialis": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 3,
+    "staged_source_photos": 2
+  },
+  "carphochaete-bigelovii": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "carthamus-tinctorius": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "centaurea-cyanus": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "centaurea-melitensis": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "chaetopappa-bellidifolia": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "chaetopappa-effusa": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "chaetopappa-ericoides": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "chaptalia-texana": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "chloracantha-spinosa": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "chondrilla-juncea": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "chromolaena-odorata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 1
+  },
+  "chrysactinia-mexicana": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 1
+  },
+  "cirsium-horridulum": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "cirsium-ochrocentrum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "cirsium-texanum": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 3
+  },
+  "cirsium-undulatum": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "cirsium-vulgare": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "conoclinium-coelestinum": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 2
+  },
+  "conoclinium-dissectum": {
+    "physical_source_files": 6,
+    "source_photos_still_held": 6
+  },
+  "coreopsis-basalis": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "coreopsis-lanceolata": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "coreopsis-tinctoria": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "coreopsis-wrightii": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "diaperia-candida": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "diaperia-prolifera": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "diaperia-verna": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "dysodiopsis-tagetoides": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "echinacea-angustifolia": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "eclipta-prostrata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "elephantopus-carolinianus": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "engelmannia-peristenia": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "ericameria-nauseosa": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "erigeron-canadensis": {
+    "physical_source_files": 4,
+    "staged_source_photos": 4
+  },
+  "erigeron-geiseri": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "erigeron-modestus": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "erigeron-philadelphicus": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 2
+  },
+  "erigeron-strigosus": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 3
+  },
+  "eriophyllum-lanatum": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "eupatorium-serotinum": {
+    "physical_source_files": 6,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 4
+  },
+  "fleischmannia-incarnata": {
+    "physical_source_files": 4,
+    "staged_source_photos": 4
+  },
+  "gaillardia-aestivalis": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "gaillardia-amblyodon": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "gaillardia-pulchella": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "gaillardia-suavis": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "gamochaeta-purpurea": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "grindelia-adenodonta": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "grindelia-ciliata": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "grindelia-lanceolata": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "grindelia-nuda": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "gutierrezia-texana": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 1
+  },
+  "gymnosperma-glutinosum": {
+    "physical_source_files": 4,
+    "staged_source_photos": 4
+  },
+  "helenium-amarum": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "helenium-autumnale": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "helenium-elegans": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "helenium-quadridentatum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "helianthus-annuus": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "helianthus-maximiliani": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "heterotheca-canescens": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "heterotheca-stenophylla": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "heterotheca-subaxillaris": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "heterotheca-villosa": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "hymenopappus-artemisiifolius": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "hymenopappus-scabiosaeus": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "hymenopappus-scabiosaeus-var-corymbosus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "hymenopappus-tenuifolius": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "iva-annua": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "iva-asperifolia-var-angustifolia": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "krigia-cespitosa": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "krigia-occidentalis": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "lactuca-ludoviciana": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "lactuca-serriola": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "laphamia-lindheimeri": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "leontodon-rhagadioloides": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "liatris-punctata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "lindheimera-texana": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "lygodesmia-texana": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "marshallia-caespitosa": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "melampodium-leucanthum": {
+    "physical_source_files": 4,
+    "staged_source_photos": 4
+  },
+  "mikania-scandens": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "packera-glabella": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "packera-obovata": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "packera-tampicana": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "palafoxia-callosa": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "parthenium-confertum": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "parthenium-hysterophorus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pectis-angustifolia": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pectis-angustifolia-var-fastigiata": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pinaropappus-roseus": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "plectocephalus-americanus": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "pluchea-camphorata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "pluchea-odorata": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "porophyllum-scoparium": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "pseudognaphalium-canescens": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pseudognaphalium-obtusifolium": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "pyrrhopappus-carolinianus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pyrrhopappus-grandiflorus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "pyrrhopappus-pauciflorus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "ratibida-columnifera": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "rudbeckia-amplexicaulis": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "rudbeckia-hirta": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "rudbeckia-maxima": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "senecio-ampullaceus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "sideranthus-spinulosus": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "sidneya-tenuifolia": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "silphium-albiflorum": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "silphium-laciniatum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "silphium-radula": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "silybum-marianum": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "simsia-calva": {
+    "physical_source_files": 4,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 3
+  },
+  "solidago-altissima": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "solidago-canadensis": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "solidago-gigantea": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "solidago-juliae": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "solidago-mexicana": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "solidago-nemoralis": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "solidago-radula": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "solidago-rugosa": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "sonchus-asper": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "sphagneticola-trilobata": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "symphyotrichum-divaricatum": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "symphyotrichum-drummondii": {
+    "physical_source_files": 2,
+    "staged_source_photos": 2
+  },
+  "symphyotrichum-ericoides": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "symphyotrichum-eulae": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "symphyotrichum-lanceolatum-subsp-lanceolatum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "symphyotrichum-oblongifolium": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "symphyotrichum-patens": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "symphyotrichum-praealtum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "symphyotrichum-sericeum": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "symphyotrichum-subulatum": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "taraxacum-erythrospermum": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "tetragonotheca-texana": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "tetraneuris-acaulis": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "tetraneuris-linearifolia": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 3
+  },
+  "tetraneuris-scaposa": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "thelesperma-filifolium": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 3
+  },
+  "thelesperma-megapotamicum-var-ambiguum": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 2,
+    "staged_source_photos": 1
+  },
+  "thelesperma-simplicifolium": {
+    "physical_source_files": 3,
+    "staged_source_photos": 3
+  },
+  "thymophylla-pentachaeta": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "thymophylla-tenuiloba": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "tragopogon-dubius": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "trixis-californica": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "verbesina-encelioides": {
+    "physical_source_files": 5,
+    "source_photos_still_held": 5
+  },
+  "verbesina-lindheimeri": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "verbesina-virginica": {
+    "physical_source_files": 7,
+    "source_photos_still_held": 3,
+    "staged_source_photos": 4
+  },
+  "vernonia-baldwinii": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 2
+  },
+  "vernonia-lindheimeri": {
+    "physical_source_files": 3,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 2
+  },
+  "vernonia-x-guadalupensis": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "viguiera-dentata": {
+    "physical_source_files": 2,
+    "source_photos_still_held": 1,
+    "staged_source_photos": 1
+  },
+  "wedelia-acapulcensis": {
+    "physical_source_files": 1,
+    "source_photos_still_held": 1
+  },
+  "wedelia-acapulcensis-var-hispida": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  },
+  "xanthium-strumarium": {
+    "physical_source_files": 1,
+    "staged_source_photos": 1
+  }
+}
