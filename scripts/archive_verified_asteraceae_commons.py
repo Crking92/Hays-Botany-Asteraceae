@@ -9,8 +9,8 @@ import hashlib, html, json, re, subprocess, sys, time, urllib.parse, urllib.requ
 from collections import Counter, defaultdict
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parents[1]
-SOURCE=Path(sys.argv[1]).resolve()
+ROOT=Path(sys.argv[1]).resolve()
+SOURCE=Path(sys.argv[2]).resolve()
 QA=ROOT/"qa-report"/"commons-photo-archive"
 QA.mkdir(parents=True,exist_ok=True)
 assert ROOT.name=="Hays-Botany-Asteraceae"
@@ -28,7 +28,7 @@ assert subprocess.check_output(["git","rev-parse","--abbrev-ref","HEAD"],text=Tr
 
 def cc_license(raw):
     v=re.sub(r"[-_\s]+"," ",str(raw).upper()).strip()
-    return v if re.fullmatch(r"CC (?:BY(?: SA)? [234]\.0|CC0 1\.0)",v) else None
+    return v if re.fullmatch(r"(?:CC BY(?: SA)? [234]\.0|CC0 1\.0)",v) else None
 
 def wiki_title(source_page):
     url=urllib.parse.urlparse(str(source_page))
