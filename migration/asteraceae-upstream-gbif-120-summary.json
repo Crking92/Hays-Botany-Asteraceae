@@ -1,0 +1,15 @@
+{
+  "status": "GBIF_MEDIA_SOURCE_RIGHTS_CHECK_PRIVATE_ONLY",
+  "candidates": 58,
+  "verified_and_archived": 54,
+  "held": 4,
+  "held_reasons": {
+    "NO_GBIF_MEDIA_MATCHED_SOURCE_LICENSE_CREDIT_AND_PIXELS": 4
+  },
+  "license_types": {
+    "CC BY": 43,
+    "CC0": 11
+  },
+  "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "public_release": false
+}
