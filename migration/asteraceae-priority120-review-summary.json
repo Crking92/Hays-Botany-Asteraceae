@@ -1,0 +1,41 @@
+{
+  "status": "PRIORITY_120_EXACT_SOURCE_CHECKS_ACCOUNTED_FOR; PUBLISHING_STILL_BLOCKED",
+  "source_priority_photos": 120,
+  "moved_this_pass": 87,
+  "held_after_checks": 33,
+  "by_host": {
+    "backyardnature.net": {
+      "original": 2,
+      "migrated": 0
+    },
+    "commons.wikimedia.org": {
+      "original": 40,
+      "migrated": 28
+    },
+    "warcapps.usgs.gov": {
+      "original": 1,
+      "migrated": 0
+    },
+    "www.gbif.org": {
+      "original": 58,
+      "migrated": 54
+    },
+    "www.inaturalist.org": {
+      "original": 19,
+      "migrated": 5
+    }
+  },
+  "decisions": {
+    "MIGRATED_PRIVATE_SOURCE_VERIFIED; PUBLIC_RIGHTS_GATE_PENDING": 87,
+    "HELD_INAT_EXACT_PHOTO_OR_LICENSE_RECHECK": 14,
+    "HELD_COMMONS_CREATOR_LICENSE_OR_IMAGE_NEEDS_MANUAL_REVIEW": 12,
+    "HELD_OTHER_SOURCE_RIGHTS_UNVERIFIED": 3,
+    "HELD_UPSTREAM_GBIF_MEDIA_RIGHTS_OR_IMAGE_MISMATCH": 4
+  },
+  "full_family_source_photos": 459,
+  "full_family_staged_photo_count": 297,
+  "full_family_held_photo_count": 162,
+  "public_site_published": false,
+  "source_snapshot": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "note": "Transferred files have individual current license/credit/visual verification in separate ledgers. Public source-rights and arrow QA are independent gates."
+}
