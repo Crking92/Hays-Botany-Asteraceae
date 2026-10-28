@@ -12,13 +12,20 @@ with sync_playwright() as p:
         assert response.status==200
         assert page.locator("#species-count").inner_text()=="180"
         summary=page.request.get("http://127.0.0.1:8767/data/preview-summary.json").json()
-        assert summary["verified_photo_copies"]==362, summary
+        assert summary["field_first_curated_gallery"] is True, summary
+        assert summary["archived_unverified_author_photos_hidden"]==24, summary
+        assert 180<=summary["verified_photo_copies"]<362, summary
+        assert 165<=summary["species_with_any_review_photos"]<=179, summary
+        curation=page.request.get("http://127.0.0.1:8767/data/photo-curation-summary.json").json()
+        assert curation["archived_media_removed_or_deleted"]==0
+        assert curation["uncleared_author_photos_archived_but_not_shown"]==24
+        assert curation["generic_views_limit_per_species"]==2
         assert summary["new_taxonomy_synonym_cc_photos"]==2, summary
         assert summary["recovered_old_plainsman_original_photos"]==1, summary
         assert summary["new_other_commons_field_photos"]==1, summary
         assert summary["new_texas_cc_field_photo_copies"]==36, summary
         assert summary["new_texas_cc_field_species"]==26, summary
-        assert summary["species_with_any_review_photos"]==179, summary
+
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
@@ -47,7 +54,7 @@ with sync_playwright() as p:
         assert page.locator(".photo-review").count()>=1
         assert page.locator(".gallery-photo img").first.evaluate("(e)=>e.complete && e.naturalWidth>0")
         page.screenshot(path=str(OUT/f"asteraceae-calvin-attribution-{label}.png"),full_page=True)
-        page.goto("http://127.0.0.1:8767/?species=chloracantha-spinosa",wait_until="networkidle")
+        page.goto("http://127.0.0.1:8767/?species=acourtia-runcinata",wait_until="networkidle")
         page.locator(".gallery-photo img").first.wait_for()
         joey_text=page.locator("#detail").inner_text()
         assert "Joey Santore" in joey_text
@@ -129,6 +136,6 @@ with sync_playwright() as p:
             assert page.locator(".photo-nc").count()==0,"Synonym source must not introduce NC rights"
         page.screenshot(path=str(OUT/f"asteraceae-final-three-species-{label}.png"),full_page=True)
         assert not errors,errors
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"362 photographs across 179 species; 36 Texas CC, one Commons, 2 synonym photos and 1 recovered original, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,f"{summary['verified_photo_copies']} curated photographs across {summary['species_with_any_review_photos']} species; 24 provisional unverified-license images omitted; diagnostic, Calvin, verified Joey, GBIF, NC, Texas CC checks passed",flush=True)
         page.close()
     browser.close()
