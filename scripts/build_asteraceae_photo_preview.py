@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Assemble a private, nondeployed Asteraceae test site with real source-verified CC photos."""
+"""Assemble a private, nondeployed Asteraceae test site with real source-verified CC photos.
+The 2026-10-28 preview preserves NC photo restrictions and never publishes Pages.
+"""
 import hashlib, json, re, shutil, sys
 from collections import Counter
 from pathlib import Path
