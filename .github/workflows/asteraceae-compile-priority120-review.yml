@@ -24,7 +24,7 @@ jobs:
       - name: Preserve exact source-licensing decisions before temporary Actions artifacts expire
         shell: bash
         env:
-          GH_TOKEN: \${{ github.token }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           mkdir -p reviews/commons reviews/inat
