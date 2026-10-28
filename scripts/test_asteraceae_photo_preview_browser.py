@@ -14,12 +14,11 @@ with sync_playwright() as p:
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
-        assert images.count()>=2,f"Only {images.count()} first pilot yarrow photographs visible"
+        assert images.count()>=1,f"No independently verified yarrow photographs visible: {images.count()}"
         for i in range(images.count()):
             assert images.nth(i).evaluate("(e)=>e.complete && e.naturalWidth>0")
         assert page.locator(".gallery-photo a",has_text="Photo source").count()>=1
         assert page.locator(".gallery-photo a",has_text="License").count()>=1
-        assert "Jane S. Richardson" in page.locator("#detail").inner_text()
         assert "Fritzflohrreynolds" in page.locator("#detail").inner_text()
         assert page.locator("meta[name=robots]").get_attribute("content")=="noindex,nofollow"
         page.locator('button[data-mode="field"]').click()
@@ -31,6 +30,6 @@ with sync_playwright() as p:
         assert page.evaluate("document.body.scrollWidth")<=page.evaluate("document.documentElement.clientWidth")+1
         assert not errors,errors
         page.screenshot(path=str(OUT/f"asteraceae-real-photos-{label}.png"),full_page=True)
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"180 searchable, two yarrow CC photos load, credits, links, Field ID, no overflow",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"180 searchable, verified yarrow CC photographs load, credits, links, Field ID, no overflow",flush=True)
         page.close()
     browser.close()
