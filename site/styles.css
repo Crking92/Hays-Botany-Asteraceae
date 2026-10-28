@@ -15,3 +15,5 @@
 .gallery-photo small{color:var(--muted);margin-top:6px}
 .source-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px;font-size:.8rem}
 @media(max-width:780px){.gallery-photo{flex-basis:min(90vw,330px)}}
+
+.photo-nc{background:#fff4db;border-left:3px solid #b88b38;padding:6px 8px;color:#694b16!important;font-weight:700}
