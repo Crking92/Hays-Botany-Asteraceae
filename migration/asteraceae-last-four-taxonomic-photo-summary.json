@@ -1,0 +1,71 @@
+{
+  "status": "EXACT_SYNONYM_ORIGINAL_SOURCE_CHECK_STAGING_ONLY",
+  "candidates": 3,
+  "original_source_photos_recovered": 1,
+  "new_external_cc_photos": 2,
+  "total_species_rescued": 3,
+  "remaining_species_without_photo": 1,
+  "taxonomic_synonyms_reviewed": {
+    "leontodon-rhagadioloides": {
+      "source_name": "Hedypnois rhagadioloides",
+      "accepted_name": "Leontodon rhagadioloides",
+      "authority_link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:211686-1"
+    },
+    "iva-asperifolia-var-angustifolia": {
+      "source_name": "Iva angustifolia",
+      "accepted_name": "Iva asperifolia var. angustifolia",
+      "authority_link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30361801-2"
+    },
+    "hymenopappus-scabiosaeus-var-corymbosus": {
+      "source_name": "Hymenopappus scabiosaeus corymbosus",
+      "accepted_name": "Hymenopappus scabiosaeus var. corymbosus",
+      "authority_link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2"
+    }
+  },
+  "decisions": [
+    {
+      "species_id": "leontodon-rhagadioloides",
+      "accepted_taxon": "Leontodon rhagadioloides",
+      "observation_taxon": "Hedypnois rhagadioloides",
+      "rank": "species",
+      "observation": 111455265,
+      "photo_id": 188150460,
+      "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:211686-1",
+      "status": "VERIFIED_AND_STAGED",
+      "reason": "TAXONOMIC_SYNONYM_PHOTO_LICENSE_ID_AND_ORIGINAL_VERIFIED",
+      "live_photo_attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188150460/large.jpg",
+      "live_photo_license": "cc-by"
+    },
+    {
+      "species_id": "iva-asperifolia-var-angustifolia",
+      "accepted_taxon": "Iva asperifolia var. angustifolia",
+      "observation_taxon": "Iva angustifolia",
+      "rank": "species",
+      "observation": 94831007,
+      "photo_id": 157427419,
+      "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30361801-2",
+      "status": "VERIFIED_AND_STAGED",
+      "reason": "TAXONOMIC_SYNONYM_PHOTO_LICENSE_ID_AND_ORIGINAL_VERIFIED",
+      "live_photo_attribution": "(c) Michelle Lay, some rights reserved (CC BY)",
+      "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157427419/large.jpg",
+      "live_photo_license": "cc-by"
+    },
+    {
+      "species_id": "hymenopappus-scabiosaeus-var-corymbosus",
+      "accepted_taxon": "Hymenopappus scabiosaeus var. corymbosus",
+      "observation_taxon": "Hymenopappus scabiosaeus corymbosus",
+      "rank": "variety",
+      "observation": 159788922,
+      "photo_id": 276095449,
+      "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2",
+      "status": "VERIFIED_AND_STAGED",
+      "reason": "TAXONOMIC_SYNONYM_PHOTO_LICENSE_ID_AND_ORIGINAL_VERIFIED",
+      "live_photo_attribution": "(c) Reid Hardin, some rights reserved (CC BY)",
+      "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/276095449/large.jpeg",
+      "live_photo_license": "cc-by",
+      "dhash_distance": 1
+    }
+  ],
+  "public_published": false
+}

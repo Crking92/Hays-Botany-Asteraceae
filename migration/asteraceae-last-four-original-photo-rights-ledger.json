@@ -1,0 +1,18 @@
+{
+  "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/images/inat-276095449.jpg": {
+    "source_git_blob_sha": "c68290dab277f6f04f45e99a3e0f99aa7f90d335",
+    "source_page": "https://www.inaturalist.org/photos/276095449",
+    "observation_page": "https://www.inaturalist.org/observations/159788922",
+    "creator": "(c) Reid Hardin, some rights reserved (CC BY)",
+    "license": "CC BY (current iNaturalist photo license; version not explicit)",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "noncommercial_only": false,
+    "verified_taxon": "Hymenopappus scabiosaeus corymbosus",
+    "verified_rank": "variety",
+    "accepted_name": "Hymenopappus scabiosaeus var. corymbosus",
+    "taxonomic_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2",
+    "verified_via": "Exact observation photo ID, research-grade variety, photo CC BY and source original pixel dHash",
+    "visual_dhash_distance": 1,
+    "publication_approval": "PRIVATE_SOURCE_ORIGINAL_LICENSE_AND_TAXON_VERIFIED; FINAL_PUBLIC_RIGHTS_QA_PENDING"
+  }
+}
