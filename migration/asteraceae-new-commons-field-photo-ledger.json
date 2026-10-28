@@ -1,0 +1,20 @@
+{
+  "external-media/asteraceae/new-commons/chondrilla-juncea/commons-12112259833.jpg": {
+    "source_git_blob_sha": "bdc8fbb376d1f06d04c3e99888d8d690cdbb3c74",
+    "archive_sha256": "a5e285b6479e51f5b81aaea25a37c4c3a7920eb67f51518f64de8bbca1350c76",
+    "download_source_sha256": "c8d13bdb5355aaffe37c58d02eea1fadebc89046661f913ea03a7422fe7d3bd0",
+    "species_id": "chondrilla-juncea",
+    "scientific_name": "Chondrilla juncea",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Chondrilla_juncea_plant1_(12112259833).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "creator": "Harry Rose  from South West Rocks, Australia",
+    "noncommercial_only": false,
+    "role": "Introduced rush skeletonweed field habit (Australian reference; not a Texas observation)",
+    "modified": "Source image downscaled and metadata removed; no anatomical arrows added",
+    "source_image_original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Chondrilla_juncea_plant1_%2812112259833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_site": "Wikimedia Commons; Flickr license reviewed by FlickreviewR",
+    "provenance": "Wikimedia Commons exact File metadata current CC BY 2.0 and named artist checked 2026-10-28",
+    "publication_approval": "STAGING_NEW_COMMONS_EXACT_CC_VERIFIED; FIELD_VISUAL_AND_PUBLIC_RELEASE_PENDING"
+  }
+}
