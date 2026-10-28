@@ -180,7 +180,7 @@
     "species_id": "symphyotrichum-subulatum",
     "source_original_bytes": 44813,
     "status": "HELD",
-    "reason": "COMMONS_CURRENT_IMAGE_CHECK_FAILED_HTTPError",
+    "reason": "COMMONS_ALTERNATE_SOURCE_IMAGE_UNAVAILABLE_HTTPError",
     "historically_unreferenced": true,
     "source_page": "https://commons.wikimedia.org/wiki/File:SYMPHYOTRICHUM_SUBULATUM.jpg",
     "photographer": "Gaiacoyote",
@@ -205,7 +205,8 @@
       "direct_url": "",
       "modifications": ""
     },
-    "photographer_current": "gaiacoyote"
+    "photographer_current": "gaiacoyote",
+    "primary_commons_api_error": "HTTPError"
   },
   {
     "source_path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-scaposa/images/01-habit-big-bend.jpg",
