@@ -1,0 +1,51 @@
+name: Test real Asteraceae photo learner (NO GitHub Pages deployment)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_asteraceae_photo_preview.py'
+      - 'scripts/test_asteraceae_photo_preview_browser.py'
+      - 'site/**'
+      - '.github/workflows/asteraceae-photo-preview.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  review-site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: data-source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Install site-builder and headless browser
+        run: |
+          python -m pip install 'Pillow>=10,<12' 'playwright>=1.53,<2'
+          python -m playwright install --with-deps chromium
+      - name: Build strictly reviewed-photo-only static site
+        run: |
+          node --check shell/site/app.js
+          python3 shell/scripts/build_asteraceae_photo_preview.py data-source
+      - name: Check deep links, photo loading, attributions, responsive galleries, mobile
+        run: |
+          python -m http.server 8767 --directory shell/dist >/tmp/asteraceae-photo-test-server.log 2>&1 &
+          sleep 2
+          python3 shell/scripts/test_asteraceae_photo_preview_browser.py
+      - name: Save downloadable photo learner and QA images; do not publish
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-real-licensed-photo-learner-test-site
+          path: |
+            shell/dist/
+            shell/qa-report/photo-site/
+          retention-days: 30
+          if-no-files-found: warn
