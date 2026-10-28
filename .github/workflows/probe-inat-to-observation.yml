@@ -1,0 +1,16 @@
+name: Probe legacy inat photo page to observation mapping (read-only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/probe_inat_photo_to_observation.py'
+      - '.github/workflows/probe-inat-to-observation.yml'
+permissions: {contents: read}
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/probe_inat_photo_to_observation.py
