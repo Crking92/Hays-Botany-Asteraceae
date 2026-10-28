@@ -47,6 +47,8 @@ orphan_path=ROOT/"migration/asteraceae-orphan11-verified-photo-ledger.json"
 orphan_verified=json.loads(orphan_path.read_text()) if orphan_path.exists() else {}
 zero_path=ROOT/"migration/asteraceae-zero-species-commons-recovery-ledger.json"
 zero_verified=json.loads(zero_path.read_text()) if zero_path.exists() else {}
+last_four_path=ROOT/"migration/asteraceae-last-four-original-photo-rights-ledger.json"
+last_four_original=json.loads(last_four_path.read_text()) if last_four_path.exists() else {}
 assert index["authority"]=="STAGING_ONLY"
 assert index["source_commit_sha"]==census["source_commit_sha"]
 assert census["source_repository"]==SOURCE_REPO
@@ -55,7 +57,7 @@ assert len(index["entries"])==180
 photos={e["path"]:e for e in source if Path(e["path"]).suffix.lower() in IMAGE_EXT}
 assert len(photos)==459 and census["physical_image_files"]==459
 rights_ledger={}
-for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified),("nc84",nc84_verified),("orphan11",orphan_verified),("zero_species_commons",zero_verified)]:
+for name,records in [("commons",commons),("inat",inat),("author_private",author),("upstream_commons",upstream_commons),("inat_taxon",inat_taxon),("gbif_verified",gbif_verified),("nc84",nc84_verified),("orphan11",orphan_verified),("zero_species_commons",zero_verified),("last_four_original",last_four_original)]:
     for file,info in records.items():
         assert file not in rights_ledger,f"Multiple rights ledgers cover {file}"
         assert file in photos,f"Archived file has no source original: {file}"
@@ -187,6 +189,11 @@ for path in sorted(photos):
             details=ledger["details"]
             decision="ARCHIVED_MISSING_SPECIES_COMMONS_LICENSE_CREDIT_AND_IMAGE_VERIFIED"
             public_gate="PRIVATE_STAGING_SOURCE_VERIFIED; PUBLIC_GALLERY_AND_DERIVATIVE_REVIEW_PENDING"
+        elif cls=="last_four_original":
+            details=ledger["details"]
+            assert details.get("verified_rank")=="variety","Recovered old-plainsman photo rank not verified"
+            decision="ARCHIVED_EXACT_VARIED_OLD_PLAINSMAN_INAT_CC_BY_PHOTO"
+            public_gate="CURRENT_CC_BY_PHOTO_VERIFIED; FINAL_PUBLIC_RIGHTS_AND_DIAGNOSTIC_QA_PENDING"
         else:
             details=ledger["details"]
             decision="ARCHIVED_PRIVATE_CALVIN_AUTHOR_PERMISSION" if details.get("creator")=="Calvin King" else "ARCHIVED_PRIVATE_JOEY_SOURCE_LICENSE_CLAIM"
