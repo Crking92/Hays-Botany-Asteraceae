@@ -1,0 +1,61 @@
+name: Verify 84 Asteraceae source NC photo rights and archive privately (NEVER deploy)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/verify_and_archive_asteraceae_nc84.py'
+      - '.github/workflows/asteraceae-nc84-private-archive.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-84-nc-private-photo-verification
+  cancel-in-progress: false
+jobs:
+  verify-photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - name: Install image comparison package
+        run: python -m pip install 'Pillow>=10,<12'
+      - name: Fetch pinned source SHA as blobs-on-demand, leave main learner authoritative
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$(python3 -c 'import json;print(json.load(open("shell/planning/asteraceae-priority84-nc-source-baseline.json"))["source_sha"])')"
+          git clone --filter=blob:none --no-checkout --depth 1 https://github.com/Crking92/Hays-County-Botany.git "$RUNNER_TEMP/hays-pinned-nc84"
+          git -C "$RUNNER_TEMP/hays-pinned-nc84" fetch --depth 1 origin "$SHA"
+          git -C "$RUNNER_TEMP/hays-pinned-nc84" update-ref refs/heads/hays-photo-pinned "$SHA"
+          git -C "$RUNNER_TEMP/hays-pinned-nc84" symbolic-ref HEAD refs/heads/hays-photo-pinned
+          test "$(git -C "$RUNNER_TEMP/hays-pinned-nc84" rev-parse HEAD)" = "$SHA"
+      - name: Check exact photo source rights, license, creator, visual similarity and Git SHA
+        run: python3 shell/scripts/verify_and_archive_asteraceae_nc84.py staging "$RUNNER_TEMP/hays-pinned-nc84" shell
+      - name: Commit only verified photo originals and complete 84-item audit to private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Asteraceae migration/asteraceae-verified-84-nc-photo-ledger.json migration/asteraceae-84-nc-photo-audit-decisions.json migration/asteraceae-84-nc-photo-audit-summary.json
+          git diff --cached --check -- 'migration/*.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Verify NC84 exact photo licenses and original image SHA; private review only"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Preserve private rights-check summary artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-84-nc-exact-source-licensing-audit
+          path: staging/qa-report/asteraceae-84-nc-photo-rights/
+          retention-days: 30
+          if-no-files-found: warn
