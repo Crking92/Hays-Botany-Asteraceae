@@ -1,0 +1,16 @@
+name: Check remaining four Asteraceae species synonym-photo identity (read-only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/probe_asteraceae_last_four_synonyms.py'
+      - '.github/workflows/probe-asteraceae-last-four.yml'
+permissions: {contents: read}
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/probe_asteraceae_last_four_synonyms.py
