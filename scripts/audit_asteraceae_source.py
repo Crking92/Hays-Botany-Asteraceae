@@ -39,13 +39,25 @@ def classify_license(item):
 def main():
     assert (SOURCE / ".git").exists(), "Supply an actual checked-out hub repository"
     source_sha = command("git", "rev-parse", "HEAD")
-    raw = command("git", "ls-tree", "-r", "-l", "HEAD", "content/taxa/Asteraceae")
+    # Git partial clone deliberately omits photographic blobs. "git ls-tree -l"
+    # forces a lazy download of every photo just to calculate its size. Instead
+    # obtain the content tree's immutable SHA, then one GitHub tree listing
+    # containing both file sizes and blob SHAs; NO image bytes are fetched.
+    from urllib.request import Request, urlopen
+    subtree_sha = command("git", "rev-parse", "HEAD:content/taxa/Asteraceae")
+    endpoint = ("https://api.github.com/repos/Crking92/Hays-County-Botany/git/trees/"
+                + subtree_sha + "?recursive=1")
+    request = Request(endpoint, headers={"Accept": "application/vnd.github+json",
+                                         "User-Agent": "HaysBotany-Asteraceae-Staging-Audit"})
+    with urlopen(request, timeout=60) as response:
+        listing = json.load(response)
+    assert listing.get("truncated") is False, "Truncated Asteraceae Git tree listing"
     ledger = {}
-    for line in raw.splitlines():
-        header, path = line.split("\t", 1)
-        mode, kind, sha, size = header.split()
-        if kind == "blob":
-            ledger[path] = {"path": path, "git_blob_sha": sha, "size_bytes": int(size)}
+    for entry in listing["tree"]:
+        if entry["type"] == "blob":
+            path = "content/taxa/Asteraceae/" + entry["path"]
+            ledger[path] = {"path": path, "git_blob_sha": entry["sha"],
+                            "size_bytes": entry["size"]}
     manifest = json.loads((SOURCE / "data/manifest.json").read_text(encoding="utf-8"))
     manifest_rows = [r for r in manifest["species"] if r["path"].startswith("content/taxa/Asteraceae/")]
     source_cards = {r["path"]: r for r in manifest_rows}
