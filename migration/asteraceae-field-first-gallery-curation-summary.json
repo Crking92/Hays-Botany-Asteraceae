@@ -1,0 +1,13 @@
+{
+  "status": "FIELD_FIRST_CREDIT_TRACEABLE_PREVIEW",
+  "archived_media_removed_or_deleted": 0,
+  "source_originals_and_media_rights_ledgers_unchanged": true,
+  "generic_views_limit_per_species": 2,
+  "uncleared_author_photos_archived_but_not_shown": 24,
+  "hidden_photo_instances_by_reason": {
+    "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE": 4,
+    "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED": 24
+  },
+  "displayed_gallery_photo_instances": 334,
+  "displayed_species_with_any_photos": 169
+}

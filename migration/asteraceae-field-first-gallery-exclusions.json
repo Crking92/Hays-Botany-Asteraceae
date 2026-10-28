@@ -1,0 +1,198 @@
+[
+  {
+    "species_id": "baccharis-salicifolia",
+    "archived_source_path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/images/03-same-plant-field-view-1.jpg",
+    "source_git_blob_sha": "38d94148b66243601aeb5a421a2f991181e0d9a6",
+    "reason": "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE",
+    "original_retained": true
+  },
+  {
+    "species_id": "baccharis-salicifolia",
+    "archived_source_path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/images/04-same-plant-field-view-2.jpg",
+    "source_git_blob_sha": "1cf48941fc4940aa92b878354123063d79a2bc70",
+    "reason": "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE",
+    "original_retained": true
+  },
+  {
+    "species_id": "baccharis-salicifolia",
+    "archived_source_path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/images/05-same-plant-field-view-3.jpg",
+    "source_git_blob_sha": "354bc1228166357b0e953e13e827267c397dcd86",
+    "reason": "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE",
+    "original_retained": true
+  },
+  {
+    "species_id": "chloracantha-spinosa",
+    "archived_source_path": "content/taxa/Asteraceae/Chloracantha/chloracantha-spinosa/images/joey-254330271.jpg",
+    "source_git_blob_sha": "8b76373ff70e1fdfafcf9a4e63ddb057a244d856",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "chloracantha-spinosa",
+    "archived_source_path": "content/taxa/Asteraceae/Chloracantha/chloracantha-spinosa/images/joey-254330281.jpg",
+    "source_git_blob_sha": "577b85bb21b6dc7ac556898c5ce1b9c96fd6a320",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "diaperia-prolifera",
+    "archived_source_path": "content/taxa/Asteraceae/Diaperia/diaperia-prolifera/images/inat-369879187.jpeg",
+    "source_git_blob_sha": "b161fedab0e3ba407a13b4333719beea6b89816c",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "diaperia-verna",
+    "archived_source_path": "content/taxa/Asteraceae/Diaperia/diaperia-verna/images/inat-186054071.jpeg",
+    "source_git_blob_sha": "b20f9e0b43bd34caf2a161807d36c0d280eca42c",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "dysodiopsis-tagetoides",
+    "archived_source_path": "content/taxa/Asteraceae/Dysodiopsis/dysodiopsis-tagetoides/images/inat-689800426.jpg",
+    "source_git_blob_sha": "1bae848341f1c92252283cf7db697c323b4d0195",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "elephantopus-carolinianus",
+    "archived_source_path": "content/taxa/Asteraceae/Elephantopus/elephantopus-carolinianus/images/inat-98842031.jpeg",
+    "source_git_blob_sha": "e031f54f4934d4b43c8030c8134ae82c8b9f1909",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "erigeron-canadensis",
+    "archived_source_path": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/02-upright-flowering-plant.jpg",
+    "source_git_blob_sha": "136b6ce54064c0dce44663e2fb5f401ec0e7fdf3",
+    "reason": "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE",
+    "original_retained": true
+  },
+  {
+    "species_id": "eupatorium-serotinum",
+    "archived_source_path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/03-same-plant-field-view-1.jpg",
+    "source_git_blob_sha": "53c5db0d92245668aec0e3c114e63ee13c338bd2",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "eupatorium-serotinum",
+    "archived_source_path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/04-same-plant-field-view-2.jpg",
+    "source_git_blob_sha": "daef53a842f1e44eca116d527e94e02d09f29ee8",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "eupatorium-serotinum",
+    "archived_source_path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/images/05-same-plant-field-view-3.jpg",
+    "source_git_blob_sha": "c4553a2d17df8987b1110df10c4de031cc7923e6",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "gymnosperma-glutinosum",
+    "archived_source_path": "content/taxa/Asteraceae/Gymnosperma/gymnosperma-glutinosum/images/joey-332721782.jpg",
+    "source_git_blob_sha": "a7f4ab72fa7170367b4c0c8ffee8691008e8b535",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "gymnosperma-glutinosum",
+    "archived_source_path": "content/taxa/Asteraceae/Gymnosperma/gymnosperma-glutinosum/images/joey-332721804.jpg",
+    "source_git_blob_sha": "1e26d96d18c6c312f0f48eed8f47fea6c92f46e9",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "gymnosperma-glutinosum",
+    "archived_source_path": "content/taxa/Asteraceae/Gymnosperma/gymnosperma-glutinosum/images/joey-103884930.jpg",
+    "source_git_blob_sha": "1936943bb41c78230ae5ed48a9fbd892137bfc15",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "hymenopappus-tenuifolius",
+    "archived_source_path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-tenuifolius/images/inat-99330789.jpeg",
+    "source_git_blob_sha": "08098e9971ef77ec1f0b3e93b1c484d43677e008",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "lygodesmia-texana",
+    "archived_source_path": "content/taxa/Asteraceae/Lygodesmia/lygodesmia-texana/images/joey-373978828.jpg",
+    "source_git_blob_sha": "f14ec65234e53dcc6e07a562c49aa3e7a18881c8",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "lygodesmia-texana",
+    "archived_source_path": "content/taxa/Asteraceae/Lygodesmia/lygodesmia-texana/images/joey-373978935.jpg",
+    "source_git_blob_sha": "3b603fac2c6e65e3394f3e1066c25c8fdd54b396",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "lygodesmia-texana",
+    "archived_source_path": "content/taxa/Asteraceae/Lygodesmia/lygodesmia-texana/images/joey-373979015.jpg",
+    "source_git_blob_sha": "06c72adf873e2848ead449287cce9ad9a3e28290",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "melampodium-leucanthum",
+    "archived_source_path": "content/taxa/Asteraceae/Melampodium/melampodium-leucanthum/images/joey-260409718.jpg",
+    "source_git_blob_sha": "75efcaca8480ca91617a81e5d29b87680a5f2d38",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "melampodium-leucanthum",
+    "archived_source_path": "content/taxa/Asteraceae/Melampodium/melampodium-leucanthum/images/joey-260409741.jpg",
+    "source_git_blob_sha": "2cb24a7937189674efc563ff084cc95c53686abc",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "melampodium-leucanthum",
+    "archived_source_path": "content/taxa/Asteraceae/Melampodium/melampodium-leucanthum/images/joey-369898118.jpg",
+    "source_git_blob_sha": "d44223dc9cfdf8bc5e6fed3420c05ae12d569bb3",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "pluchea-odorata",
+    "archived_source_path": "content/taxa/Asteraceae/Pluchea/pluchea-odorata/images/joey-332759686.jpg",
+    "source_git_blob_sha": "d3b4600f249788aaa33fc0175c47622c725f9264",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "pluchea-odorata",
+    "archived_source_path": "content/taxa/Asteraceae/Pluchea/pluchea-odorata/images/joey-332759726.jpg",
+    "source_git_blob_sha": "65293be8767c93c41324fd5e7889f226e10a71ec",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "pluchea-odorata",
+    "archived_source_path": "content/taxa/Asteraceae/Pluchea/pluchea-odorata/images/joey-332759766.jpg",
+    "source_git_blob_sha": "eae1d98825bea4057616235fac12f88881e08c08",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "porophyllum-scoparium",
+    "archived_source_path": "content/taxa/Asteraceae/Porophyllum/porophyllum-scoparium/images/inat-186826214.jpg",
+    "source_git_blob_sha": "ca65445ad39cabcbef29ee044459b5bc7283fdcd",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  },
+  {
+    "species_id": "wedelia-acapulcensis-var-hispida",
+    "archived_source_path": "content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis-var-hispida/images/inat-332574197.jpg",
+    "source_git_blob_sha": "4925ad228b9d1e1f395073406a2909c88195f3be",
+    "reason": "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+    "original_retained": true
+  }
+]
