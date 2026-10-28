@@ -1,0 +1,19 @@
+{
+  "status": "ALL_11_ORPHANS_REVIEWED; PRIVATE_SOURCE_RIGHTS_GATE",
+  "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "original_unreferenced_source_image_files": 11,
+  "new_original_images_verified_and_archived": 0,
+  "held_original_images": 11,
+  "held_reasons": {
+    "HISTORICAL_SOURCE_CSV_SAYS_EADIE_SCHILLINGER_ALL_RIGHTS_RESERVED": 1,
+    "EXPLICIT_OCT_12_LICENSE_AUDIT_SAYS_SUZETTE_ROGERS_ALL_RIGHTS_RESERVED_AND_REMOVED": 1,
+    "UNLINKED_LEGACY_IMAGE_WITH_NO_EXACT_INDIVIDUAL_LICENSE_RECORD; PREVIOUS_ARR_IMAGE_SET_REMOVED_FROM_ACTIVE_GALLERY": 5,
+    "HISTORICAL_SOURCE_CSV_SAYS_JULIA_SOPER_ALL_RIGHTS_RESERVED": 1,
+    "CURRENT_OBSERVATION_PHOTO_NOT_SAME_IMAGE_AS_ARCHIVED": 1,
+    "COMMONS_CURRENT_IMAGE_CHECK_FAILED_HTTPError": 1,
+    "NO_EXACT_ORIGINAL_PHOTO_SOURCE_OR_CREATOR_FOR_UNREFERENCED_BIG_BEND_IMAGE": 1
+  },
+  "gallery_overrides_for_species": [],
+  "still_unreferenced_in_original_canonical_cards": 11,
+  "public_site_published": false
+}
