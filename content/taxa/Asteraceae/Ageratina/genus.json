@@ -1,0 +1,286 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Ageratina",
+  "authority": "Spach",
+  "common_group": "Bonesets / snakeroots",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 2",
+    "species_ids": [
+      "ageratina-altissima",
+      "ageratina-havanensis"
+    ],
+    "species_count": 2,
+    "canonical_species_ids": [
+      "ageratina-altissima",
+      "ageratina-havanensis"
+    ],
+    "source_pool_species_count": 2,
+    "scope_note": "Both source-pool Ageratina species are canonical learner records; their native-range metadata remains unchanged."
+  },
+  "study_strategy": {
+    "priority": [
+      "habit and habitat",
+      "leaf arrangement",
+      "head structure",
+      "phyllaries",
+      "pappus/fruit"
+    ],
+    "warning": "Many fall composites need comparison by structure, not just bloom color."
+  },
+  "curation_status": {
+    "version": "1.2-mistflower-fruit-polish",
+    "last_reviewed": "2026-10-12",
+    "genus_lesson": "two-canonical-species comparison framework",
+    "range_states_unchanged": true,
+    "diagnostic_photo_status": "matched_mature_cypsela_and_stem_views_pending",
+    "field_pair_status": "two_installed_source-backed_visuals_linked"
+  },
+  "visual_status": "fast_fill_coverage_live",
+  "fast_fill_note": "Canonical PASS Ageratina altissima now has a 3-image learner gallery covering whole-plant habit, white discoid heads, and an additional exact-species field reference.",
+  "look_here_first": "Check stem base and persistent leaves: white mistflower / shrubby boneset (A. havanensis) is an evergreen or nearly evergreen shrub with woody, brittle stems, while white snakeroot (A. altissima) is an herbaceous perennial. For definitive fruiting separation, FNA describes A. havanensis CYPSELAE as hairy (hispid), and A. altissima as glabrous; inspect a mature fruit under magnification.",
+  "shared_genus_traits": [
+    "Opposite simple leaves, commonly toothed",
+    "Terminal clusters of many small capitula containing disk florets without ray florets",
+    "Phyllaries form an involucre around each head; mature cypselae bear a bristly pappus"
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Life form and winter leaves",
+      "ageratina_altissima": "Erect, herbaceous perennial (fibrous crown, sometimes rhizomatous); leaves not persistent on woody shrub framework",
+      "ageratina_havanensis": "Evergreen or persistent-leaved shrub/subshrub with brittle woody stems; FNA notes unique evergreen leaves among U.S. Ageratina",
+      "priority": "PRIMARY whole-plant field separation"
+    },
+    {
+      "character": "Mature cypsela indumentum",
+      "ageratina_altissima": "GLABROUS / smooth or hairless cypselae",
+      "ageratina_havanensis": "HISPID / hairy cypselae",
+      "priority": "PRIMARY fruiting-stage reproductive separator; high-magnification matched photos needed"
+    },
+    {
+      "character": "Mature leaf dimensions",
+      "ageratina_altissima": "Commonly 4–11 × 2.5–8 cm, broadly deltate-ovate/ovate, coarsely doubly incised-serrate",
+      "ageratina_havanensis": "Commonly 3–5 × 2–5 cm, deltate to ovate/hastate, toothed",
+      "priority": "Supporting; considerable variation"
+    },
+    {
+      "character": "Petioles",
+      "ageratina_altissima": "Typically 10–30 mm, range 5–50 mm",
+      "ageratina_havanensis": "Typically 3–10 mm, up to 15 mm",
+      "priority": "Supporting; measurement overlap"
+    },
+    {
+      "character": "Involucre length",
+      "ageratina_altissima": "4–5 mm",
+      "ageratina_havanensis": "4–6 mm",
+      "priority": "Overlapping; DO NOT use as decisive separator"
+    },
+    {
+      "character": "Habit and habitat",
+      "ageratina_altissima": "Shadier woodland-edge or disturbed patches, often erect to 120 cm",
+      "ageratina_havanensis": "Limestone bluffs/ledges, slopes, oak-juniper; shrub 30–200 cm",
+      "priority": "Supporting habitat clue; not exclusionary"
+    },
+    {
+      "character": "Flowers",
+      "ageratina_altissima": "Small white discoid capitula",
+      "ageratina_havanensis": "Small white to faintly pinkish discoid capitula",
+      "priority": "Nearly overlapping; not diagnostic"
+    }
+  ],
+  "quick_comparison_steps": [
+    "1. Confirm opposite toothed leaves and clusters of many small rayless heads (one head = many tiny florets).",
+    "2. Inspect old basal stems and leaf persistence: brittle woody framework/persistent foliage suggests A. havanensis; herbaceous perennial crown suggests A. altissima.",
+    "3. Compare mature leaf blades plus petioles: A. havanensis typically shorter petioles/smaller leaves, but overlap requires caution.",
+    "4. At maturity photograph several CYPSELAE with scale; FNA: hairy = A. havanensis, glabrous = A. altissima.",
+    "5. Photograph head side/phyllary series to distinguish these from Chromolaena odorata and Eupatorium serotinum."
+  ],
+  "overlap_and_cautions": [
+    "Both species can have opposite toothed triangular leaves and white rayless flower heads; flower color alone cannot separate them.",
+    "Leaf size, branching density and flatness of head clusters vary with growth conditions and are only supporting cues.",
+    "Basal woodiness may be hard to assess on a young shoot; examine the plant base or previous-season branches.",
+    "A. havanensis native-range certification is not resolved by this comparison; preserve its existing learner/range status.",
+    "A. altissima contains toxic compounds; do not taste plants as an identification method."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Conoclinium coelestinum",
+      "why_confusable": "Blue-violet rayless clusters and opposite leaves; color alone not reliable",
+      "look_for": "leaf outlines plus rounded Conoclinium involucres and mature fruits"
+    },
+    {
+      "taxon": "Eupatorium serotinum",
+      "why_confusable": "white fluffy composite flowering heads",
+      "look_for": "tall herbaceous branched habit; narrow lanceolate gland-dotted leaves; only 9–15 florets per head and 8–12 phyllaries in 1–2 series (FNA)"
+    },
+    {
+      "taxon": "Chromolaena odorata",
+      "why_confusable": "opposite triangular/deltate leaves and pale lavender to white heads",
+      "look_for": "measure side-view cylindrical involucre 8–10 mm and 4–6(–8) phyllary series; Chromolaena research-only comparator, not installed canonical"
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "shot": "matched winter/early spring whole plants plus old basal branches",
+      "purpose": "persistent woody shrub framework vs herbaceous crown",
+      "status": "PENDING_MATCHED_DIAGNOSTIC_VIEWS"
+    },
+    {
+      "priority": 1,
+      "shot": "MATURE cypsela micro-photographs with ruler/scale",
+      "purpose": "hispid A. havanensis vs glabrous A. altissima (FNA)",
+      "status": "PENDING_BOTH_TAXA"
+    },
+    {
+      "priority": 1,
+      "shot": "matched largest middle stem leaves, top and underside with petioles",
+      "purpose": "leaf shape, serration and typical 3–10 vs 10–30 mm petioles",
+      "status": "PENDING_MATCHED_DIAGNOSTIC_VIEWS"
+    },
+    {
+      "priority": 2,
+      "shot": "side view of individual capitulum/involucre and phyllaries",
+      "purpose": "verify head structure; caution head lengths overlap",
+      "status": "PENDING"
+    },
+    {
+      "priority": 2,
+      "shot": "three-way side-head comparison with Chromolaena odorata",
+      "purpose": "Contrast short campanulate Ageratina involucres with long cylindrical Chromolaena involucres",
+      "status": "PENDING"
+    }
+  ],
+  "existing_media_references": [
+    {
+      "species_id": "ageratina-altissima",
+      "reference": "Existing canonical 3-image gallery: habit, discoid heads, additional field view",
+      "reuse_note": "Reference existing species images and their provenance; no new acquisition."
+    },
+    {
+      "species_id": "ageratina-havanensis",
+      "reference": "Existing canonical images including field views",
+      "reuse_note": "Preserve original licenses and provenance; some records are CC BY-NC or unverified."
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "request": "Verify A. havanensis versus A. altissima leaf venation and phyllary measurements using authoritative regional flora/vouchers before turning those into exclusionary key couplets."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Obtain matched basal-stem and mature-leaf/venation macros for both species; prioritize actual diagnostic separation over additional habit images."
+    }
+  ],
+  "external_mistflower_comparison": [
+    {
+      "taxon": "Chromolaena odorata",
+      "source_pool_status": "Missing; research draft prepared as separate comparison candidate",
+      "look_here_first": "Long cylindrical individual heads with 8–10 mm involucre in 4–6+ series; usually larger, often sprawling subshrub. Do not use bloom color."
+    },
+    {
+      "taxon": "Conoclinium coelestinum",
+      "look_here_first": "Rhizomatous perennial with shorter, hemispheric heads, blue-violet disk florets, triangular toothed undissected leaves"
+    },
+    {
+      "taxon": "Conoclinium dissectum",
+      "look_here_first": "Dissected lobed leaves with shorter, hemispheric heads; floral color overlaps other mistflowers"
+    },
+    {
+      "taxon": "Eupatorium serotinum",
+      "look_here_first": "Tall leafy herb with white heads; photograph branching, leaf attachment and individual involucres before relying on habit"
+    }
+  ],
+  "authoritative_morphology_notes": [
+    "FNA A. havanensis: evergreen-persistent opposite leaves, petioles 3–10(–15) mm, blades about 3–5 cm, involucres 4–6 mm, stems shrubs (often 69–150 cm) on limestone slopes; leaves eglandular.",
+    "For A. altissima use mature opposite coarsely dentate petiolate leaves and rhizomatous non-woody base; size/head color alone is insufficient.",
+    "Chromolaena odorata can share an upright shrubby form and white-pinkish heads, but its involucres are noticeably elongated/cylindrical (8–10 mm) and phyllaries have more series."
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America A. havanensis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066014"
+    },
+    {
+      "authority": "Flora of North America A. altissima",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066013"
+    },
+    {
+      "authority": "FNA Eupatorium serotinum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416536"
+    }
+  ],
+  "annotation_blueprint": [
+    {
+      "panel": "Whole-plant matched views",
+      "arrows": [
+        {
+          "label": "woody shrub base",
+          "anchor": "persisting basal stem wood of A. havanensis"
+        },
+        {
+          "label": "herbaceous base",
+          "anchor": "A. altissima basal shoots, no persistent woody shrub framework"
+        }
+      ]
+    },
+    {
+      "panel": "Side-on white-head macro",
+      "arrows": [
+        {
+          "label": "Ageratina involucre",
+          "anchor": "one individual phyllary basket"
+        }
+      ],
+      "warning": "Do not label entire flower sprays as a single capitulum."
+    },
+    {
+      "panel": "White mistflower vs fragrant mistflower",
+      "arrows": [
+        {
+          "label": "Ageratina 4–6 mm",
+          "anchor": "A. havanensis individual involucre tip-to-base"
+        },
+        {
+          "label": "Chromolaena 8–10 mm",
+          "anchor": "C. odorata one cylindrical involucre"
+        }
+      ],
+      "warning": "Use a ruler or scale bar; do not infer length from separate uncropped photographs."
+    }
+  ],
+  "field_ready_image_pair": {
+    "review_date": "2026-10-12",
+    "status": "installed morphology-context gallery pair; woody-versus-herbaceous basal shot not yet directly resolved",
+    "primary_teaching_point": "Use woody persistent shrub form vs herbaceous erect plant first; flower color is inadequate.",
+    "panels": [
+      {
+        "taxon": "Ageratina havanensis",
+        "label": "White mistflower / shrubby boneset",
+        "image": "content/taxa/Asteraceae/Ageratina/ageratina-havanensis/images/06-austin-cc0-flowering-woody-shrub-context.jpg",
+        "license": "CC0 1.0",
+        "show": "branching foliage and flower clusters",
+        "caution": "Austin cultivated specimen, not independent wild target-county range evidence. The picture does NOT prove woody root crown or winter foliage."
+      },
+      {
+        "taxon": "Ageratina altissima",
+        "label": "White snakeroot",
+        "image": "content/taxa/Asteraceae/Ageratina/ageratina-altissima/images/03-field-foliage-petioles.jpg",
+        "license": "CC BY-SA 4.0",
+        "show": "foliage/petiole and flowering-field context",
+        "caution": "Does NOT show excavated herbaceous root crown; compare stems in field."
+      }
+    ],
+    "supporting_learning": {
+      "photo_view": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/ageratina_havanensis.htm",
+      "role": "opposite leaf pairs/short petioles",
+      "rights": "Study reference only—no image redistribution permission verified"
+    },
+    "final_polish_deferred": [
+      "Hairy mature cypsela body versus glabrous fruit surface (user explicitly deferred)",
+      "Matched basal stem and seasonally persistent woodiness",
+      "Side-on phyllaries with measured scales"
+    ]
+  }
+}

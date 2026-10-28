@@ -1,0 +1,6 @@
+﻿Ambrosia psilostachya PHOTO SET
+
+Resolved iNaturalist taxon: Ambrosia psilostachya [ID 60129]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

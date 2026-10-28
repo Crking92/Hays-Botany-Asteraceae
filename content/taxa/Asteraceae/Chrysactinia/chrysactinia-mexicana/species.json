@@ -1,0 +1,127 @@
+{
+  "id": "chrysactinia-mexicana",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Chrysactinia",
+  "species": "mexicana",
+  "scientific_name": "Chrysactinia mexicana",
+  "authority": "A.Gray",
+  "common_name": "Damianita",
+  "synonyms": [
+    "Pectis taxifolia Greene"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Chrysactinia mexicana A.Gray.",
+  "look_here_first": "Crush-free visual ID starts with the tiny narrow leaves: damianita is a low woody-based subshrub with many very narrow aromatic gland-dotted leaves and solitary bright-yellow heads held above the canopy on slender peduncles.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora. Williamson — UT PRC detailed county treatment. Kerr — Kerr WMA flora with voucher.",
+    "range_guardrail": "Habitat association from Joey is supporting context; county PASS is based on independent records."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen aromatic subshrub with woody lower stems",
+      "many short linear to linear-oblanceolate leaves",
+      "leaves conspicuously oil-gland dotted under magnification",
+      "solitary terminal radiate heads on slender peduncles",
+      "bright yellow ray florets surrounding yellow disc florets",
+      "involucre with relatively few phyllaries and conspicuous oil glands",
+      "pappus of many capillary bristles",
+      "inferior ovary maturing into a cypsela"
+    ],
+    "family_training": "Good Asteraceae whole-plant-to-head lesson: aromatic/gland-dotted narrow foliage gets you close, then involucre, ray/disc florets and cypsela/pappus confirm the composite structure.",
+    "video_training": "Joey shows the whole plant and flower heads in thin limestone habitat and mentions aromatic foliage and Tageteae."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tetraneuris linearifolia",
+      "Thymophylla spp.",
+      "other small yellow limestone Asteraceae"
+    ],
+    "key_distinctions": "Damianita is a low woody-based aromatic subshrub with numerous tiny linear gland-dotted leaves; Tetraneuris linearifolia is an annual herb with a different involucre/pappus pattern."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "03:40",
+      "record_id": "Y7A530PjEbU-10",
+      "role": "Low flowering habit with source label.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Chrysactinia mexicana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/chrysactinia-mexicana_habit-source-label_03-40.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "04:00",
+      "record_id": "Y7A530PjEbU-11",
+      "role": "Yellow composite heads paired with narrow foliage.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Chrysactinia mexicana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/chrysactinia-mexicana_flower-head-leaves_04-00.jpg"
+    }
+  ],
+  "tags": [
+    "Asteraceae",
+    "Chrysactinia",
+    "Damianita",
+    "aromatic foliage",
+    "Edwards Plateau",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-video-fed",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Saved Joey Santore study frames installed locally for private learning. They cover whole flowering habit plus the relationship between yellow heads and narrow foliage; public-reuse restrictions are preserved.",
+  "images": [
+    {
+      "file": "images/chrysactinia-mexicana_habit-source-label_03-40.jpg",
+      "role": "Low flowering habit with source label / limestone context",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/chrysactinia-mexicana_flower-head-leaves_04-00.jpg",
+      "role": "Yellow composite heads paired with narrow foliage",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-flowering-mound-branching.jpg",
+      "role": "Whole flowering mound and branch architecture",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chrysactinia_mexicana.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Closer foliage/stem gland detail and a mature fruit/seed head; the current frames cover habit and the head-to-leaf relationship."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "rudbeckia-amplexicaulis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
+  "species": "amplexicaulis",
+  "scientific_name": "Rudbeckia amplexicaulis",
+  "authority": "Vahl",
+  "common_name": "Clasping coneflower",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species. Texas native context is secure, but only Travis is currently locked inside the project target zone.",
+  "look_here_first": "Start with the leaves: smooth to glabrous sessile leaves with rounded bases visibly clasp the stem. Yellow rays often show a reddish-brown basal eye around the raised dark cone.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is exact. Williamson was present in the older review but is outside the project target-county list. Hays TxDOT seed use is deliberate planting and is not native evidence.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual or short-lived perennial",
+      "mostly glabrous shoots",
+      "sessile leaves with rounded clasping bases",
+      "single terminal yellow heads",
+      "yellow rays often with dark basal eye",
+      "raised conic to barrel-shaped disk",
+      "outer phyllaries spreading to reflexed"
+    ],
+    "comparison_training": "The clasping leaf bases are the fastest separator; do not use yellow ray color alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rudbeckia hirta"
+    ],
+    "key_distinctions": "R. amplexicaulis is smoother and has conspicuously clasping sessile leaves; R. hirta is generally hairier and lacks the same clasping leaf-base look."
+  },
+  "tags": [
+    "Asteraceae",
+    "Rudbeckia",
+    "Clasping coneflower",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "clasping leaf base",
+    "flower head face",
+    "side view of disk/phyllaries"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/rudbeckia-amplexicaulis-provisional-face.jpg",
+      "role": "Look closer · yellow ray florets with deep reddish-brown bases around a raised dark central disk; leaf attachment not shown",
+      "creator": "Michael Gras, M.Ed.",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_amplexicaulis.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by"
+    },
+    {
+      "file": "images/gbif-manual-6178972550-002181a28.jpg",
+      "role": "Recognize · many yellow flowerheads with dark raised disks above upright stems and lanceolate green foliage; clasping leaf bases need their own sharp node view",
+      "requested_diagnostic_view": "Glabrous clasping leaf bases at node beneath cone flower head",
+      "creator": "Cricket Raspet",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6178972550",
+      "gbif_occurrence_id": "6178972550",
+      "source_determination": "Rudbeckia amplexicaulis Vahl",
+      "accepted_target": "Rudbeckia amplexicaulis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625106047/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

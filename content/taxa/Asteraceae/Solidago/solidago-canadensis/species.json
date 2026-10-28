@@ -1,0 +1,147 @@
+{
+  "id": "solidago-canadensis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago canadensis",
+  "authority": "L.",
+  "common_name": "Canada Goldenrod",
+  "field_group": "Goldenrod",
+  "project_tracker_diagnostic": "Goldenrod with many small yellow heads in broad panicles; usually less coarsely rough and often with narrower leaves than S. altissima.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect herb, often colonial.",
+    "leaves": "Alternate, lanceolate, serrate, 3-nerved, generally thinner/less harsh than S. altissima.",
+    "heads": "Many small yellow heads in plume-like terminal inflorescences.",
+    "phyllaries": "Small, overlapping series.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "golden plume inflorescences",
+      "narrower leaves",
+      "compare with S. altissima for roughness/robustness"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · upright narrow-leaved stem with branching yellow goldenrod flowerheads; lower stem and microscopic traits not shown",
+      "creator": "(c) jonastid, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/67808",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309294858/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "309294858",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · arching yellow flowering sprays above narrow green leaves; phyllaries and lower-stem hair pattern unresolved",
+      "creator": "(c) Lyudmila Ivanova, some rights reserved (CC BY-NC), uploaded by Lyudmila Ivanova",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/67808",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87573048/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "87573048",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "look_here_first": "For CANADA goldenrod, compare the mid-stem leaf TOOTH pattern and the lower/upper stem hairs with S. altissima; Canada commonly has finer, often more regularly toothed thinner 3-nerved leaves and sparser/longer stem hair than tall goldenrod. However overlap is extreme and some variants of both break these patterns. S. gigantea is the smoother/waxy lower stem one. Photograph lower stem, an entire leaf face/underside and flowering branches on SAME plant.",
+  "photo_diagnostic_lesson": {
+    "pair": "Solidago altissima vs canadensis vs gigantea",
+    "look_here_first": "Check lower stem hair texture and an underside leaf before looking at the plume. Giant goldenrod usually smooth below; Altissima dense short stem hairs and firmer rough leaves; Canadensis often more noticeable teeth and somewhat sparser stem hairs.",
+    "key": [
+      {
+        "part": "Stem WELL below flowering axis",
+        "altissima": "Typically many short fine hairs, sometimes base less hairy",
+        "canadensis": "Often sparser, longer hairs, base may be smooth",
+        "gigantea": "Usually largely glabrous, sometimes glaucous white waxy cast",
+        "why": "Best starting shot, but not a perfect one-character key"
+      },
+      {
+        "part": "Middle leaf venation and edge",
+        "altissima": "3 veins; firm blade, upper/mid edges often fewer/smaller teeth",
+        "canadensis": "3 veins; generally finer more conspicuous serrations",
+        "gigantea": "3 veins too, narrow blade, often more glabrous",
+        "why": "Need whole leaf and scale; many variants overlap"
+      },
+      {
+        "part": "Leaf underside hairs",
+        "altissima": "Often coarse/fine hairs on veins AND between",
+        "canadensis": "Hairs more concentrated on veins but variable",
+        "gigantea": "Typically more glabrous/smoother",
+        "why": "Supporting trait, don't claim ironclad distinction"
+      },
+      {
+        "part": "Involucre/heads",
+        "altissima": "Often somewhat larger phyllaries/heads than canadensis",
+        "canadensis": "Often smaller phyllaries and rays",
+        "gigantea": "Head scales also overlap",
+        "why": "Measure with 1mm rule when altissima/canadensis still unsure"
+      },
+      {
+        "part": "Habitat",
+        "altissima": "Colony forming disturbed areas, dry/mesic",
+        "canadensis": "Old fields and mesic open habitats",
+        "gigantea": "Ditches/floodplains/moist depressions",
+        "why": "Supporting only"
+      }
+    ],
+    "memory_rule": "GIANT = generally SMOOTH stem; TALL = SHORTHAIR firm leaf; CANADA = finer teeth, hair variable. For TALL vs CANADA, examine a bundle of traits.",
+    "caution": "Goldenrods of the canadensis–altissima–gigantea complex hybridize/overlap in photos; retain genus-level ID when evidence insufficient."
+  },
+  "visual_id_status": {
+    "first_pass": "Stem + leaf text key now detailed",
+    "photo_current_count": 3,
+    "photo_limitations": "Existing images retained; matched bottom-stem/underside macro with actual arrows still missing.",
+    "version": "2.0-pair-comparison-20261013"
+  },
+  "unresolved_photo_references": [
+    {
+      "status": "PHOTO_IDENTITY_HOLD_MIXED_SCENE",
+      "previous_image_index": 2,
+      "inspected_at_local": "2026-10-17",
+      "original_gallery_record": {
+        "file": "images/03-texas-reference.jpg",
+        "role": "Texas research-grade reference",
+        "creator": "(c) lan, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/360436188",
+        "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657694951/large.jpg",
+        "platform": "iNaturalist",
+        "observation_id": "360436188",
+        "photo_id": "657694951",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      "image_file_preserved_in_repository": true,
+      "reason": "Full-size image visibly dominated by pink-white evening-primrose-like flowers and mixed foliage. No unambiguous Canada goldenrod subject or goldenrod reproductive structures can be confirmed. Metadata source observation alone does not establish useful exact-species teaching content.",
+      "next_step": "Review original iNaturalist observation/photo context and exact taxon subject before any reinstatement. Do not use pink flowers as Solidago diagnostic evidence.",
+      "display_policy": "Exclude from canonical image gallery pending photo identity review; preserve file, creator, license, source and observation ID."
+    }
+  ],
+  "photo_note": "Audit 064: one mixed-scene photo moved to unresolved_photo_references with physical file and provenance retained; remaining two show goldenrod flowers but cannot diagnose lower-stem hairs."
+}

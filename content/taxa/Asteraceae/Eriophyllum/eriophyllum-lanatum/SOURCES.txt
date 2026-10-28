@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 440); preflight still subject to independent accepted-taxonomy review.
+Taxon: Eriophyllum lanatum
+Kew taxonomy search: https://powo.science.kew.org/results?q=Eriophyllum%20lanatum
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Eriophyllum_lanatum_-_May_2023_-_Sarah_Stierch_18.jpg
+Original/Commons bounded download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Eriophyllum_lanatum_-_May_2023_-_Sarah_Stierch_18.jpg
+Photographer: Sarah Stierch (Missvain)
+License: CC BY 4.0
+Image role: Provisional recognition of flowering plant; leaf hairs and phyllaries require distinct macro photos.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

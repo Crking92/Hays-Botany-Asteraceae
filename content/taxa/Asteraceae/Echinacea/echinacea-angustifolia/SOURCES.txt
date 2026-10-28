@@ -1,0 +1,12 @@
+Deep Review — Echinacea angustifolia
+User-approved range exception: 2026-10-02
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A87143-2
+US Forest Service FEIS: https://research.fs.usda.gov/feis/species-reviews/echang
+NPSOT: https://www.npsot.org/posts/native-plant/echinacea-angustifolia/
+Range guardrail: transplant, Fort Cavazos landscaping, nursery and seed-mix records were not converted to native counties. Underlying status remains UNRESOLVED; Calvin explicitly approved learner inclusion as an exception.
+
+PHOTO FAST-FILL 011 — 2026-10-05
+Media only. Existing recovery audit has no exact saved Joey records for these species. Preserve taxonomy, range, and approval exception exactly. Callirhoe existing licensed flower reused; nursery copyright reference replaced. No pictured cultivated plant or out-of-zone field photo used as native-county evidence. Source licenses individually verified. Downloads/resizing only.
+01-field-reference.jpg | Field foliage / narrow leaves, venation and hairy stems | Jasper Shide | CC0 1.0 | https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_(7-15-24)_03.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_%287-15-24%29_03.jpg/1280px-Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_%287-15-24%29_03.jpg | https://creativecommons.org/publicdomain/zero/1.0/ | Glacial Ridge National Wildlife Refuge, Minnesota. Exact species; no new Texas range evidence.
+02-flower-detail.jpg | Flower head / ray florets and raised disk | Ernie (Wilder Kaiser) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_01Aug2009_-_01.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Echinacea_angustifolia_-_01Aug2009_-_01.jpg/1280px-Echinacea_angustifolia_-_01Aug2009_-_01.jpg | https://creativecommons.org/licenses/by-sa/3.0/ | Photographed in Europe; exact species label, no named cultivar. Visual reference only.
+03-achene-detail.jpg | Achenes / dry one-seeded fruits with scale | Steve Hurst / USDA-NRCS PLANTS Database | Public Domain (U.S. federal work) | https://commons.wikimedia.org/wiki/File:Echinacea.angustifolia02.jpg | https://upload.wikimedia.org/wikipedia/commons/5/52/Echinacea.angustifolia02.jpg | https://creativecommons.org/publicdomain/mark/1.0/ | USDA exact-species fruit reference, not new range evidence.

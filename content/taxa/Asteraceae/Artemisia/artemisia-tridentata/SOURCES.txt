@@ -1,0 +1,21 @@
+Source-pool admission: approved Master Plant Pool row 100, Artemisia tridentata, per curation batch.json and prior installer recovery handoff.
+Taxonomy: POWO accepts Artemisia tridentata Nutt. at species rank; Seriphidium tridentatum is a synonym, not a separate learner card. Several subspecies recognized; source photo is not assigned to one. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20780-2
+Morphology: Flora of North America, Artemisia tridentata, https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066171 ; woody shrub, gray-green shallowly three-lobed persistent leaves, small heads.
+Photo page: https://commons.wikimedia.org/wiki/File:Artemisia_tridentata_kz20.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Artemisia_tridentata_kz20.jpg
+Photographer: Kenraiz (Krzysztof Ziarnek). License: Creative Commons Attribution-ShareAlike 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/ ; preserve credit and ShareAlike for derived media. Exact-species photo shows a Utah shoot with small rounded three-tipped leaves; it does NOT show whole shrub, mature bark, or flowers. Not Central Texas provenance.
+Native-range internal status FAIL_TARGET_ZONE from earlier project decision; do not infer introduced or invasive status from it, and exclude from confirmed-native metrics. Installer must verify physical image and images[] after Action; outstanding photo roles in species.json.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Artemisia tridentata
+Creator: Daughter Dad; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938567434
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/artemisia-tridentata/gbif-5d7417c64fc010.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Artemisia tridentata
+Creator: Daughter Dad; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938674414
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/artemisia-tridentata/gbif-241e41a4490c20.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

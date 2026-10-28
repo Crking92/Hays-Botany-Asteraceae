@@ -1,0 +1,40 @@
+{
+  "id": "sonchus-asper",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Sonchus",
+  "species": "asper",
+  "scientific_name": "Sonchus asper",
+  "authority": "(L.) Hill",
+  "common_name": "Spiny sowthistle",
+  "look_here_first": "LOOK HERE FIRST: Inspect the glossy, stiff leaves with sharply prickly margins and the rounded ear-like leaf bases clasping the stem. Broken stems release milky latex. Flower heads are yellow and composed of strap-shaped florets; compare the softer, less-prickly leaves and more pointed clasping auricles of Sonchus oleraceus.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 1106",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/sonchus-asper-flogaus-faust.jpg",
+      "role": "flower heads and spiny clasping leaves",
+      "creator": "Robert Flogaus-Faust",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sonchus_asper_RF.jpg",
+      "study_use": "private_educational",
+      "public_reuse": "cc_attribution_required"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "leaf bases clasping stem, rounded auricles close-up",
+    "prickly leaf edge close-up",
+    "flower head side and mature achene"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  }
+}

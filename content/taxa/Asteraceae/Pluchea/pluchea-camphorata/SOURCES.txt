@@ -1,0 +1,21 @@
+Deep Review — Pluchea camphorata
+User-approved range exception: 2026-10-02
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1046749-2
+Hays natural flora: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Hays species page: https://w3.biosci.utexas.edu/prc/HaysFlora/pages/PLCA7.html
+Travis herbarium: https://w3.biosci.utexas.edu/prc/specimens/Asteraceae4.html
+Underlying range status remains UNRESOLVED (Hays + Travis firm); Calvin explicitly approved learner inclusion.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Pluchea camphorata
+Creator: Mimi Posey; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6413007838
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/pluchea-camphorata/gbif-76d41affa57e54.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Pluchea camphorata
+Creator: Piotr; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6551918780
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/pluchea-camphorata/gbif-abed2dc25887a2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

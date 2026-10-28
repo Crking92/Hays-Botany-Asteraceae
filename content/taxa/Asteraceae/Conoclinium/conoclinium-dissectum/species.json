@@ -1,0 +1,174 @@
+{
+  "id": "conoclinium-dissectum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
+  "scientific_name": "Conoclinium dissectum",
+  "authority": "A.Gray",
+  "common_name": "Gregg's Mistflower",
+  "other_common_names": [
+    "Palmleaf Mistflower",
+    "Palmleaf Thoroughwort",
+    "Texas Ageratum"
+  ],
+  "taxonomy": {
+    "accepted_name": "Conoclinium dissectum A.Gray",
+    "accepted": true,
+    "important_synonyms": [
+      "Conoclinium greggii Small",
+      "Eupatorium greggii A.Gray"
+    ],
+    "note": "Older nursery, horticultural, and Texas references frequently use Conoclinium greggii."
+  },
+  "field_group": "Blue-purple mistflower composite",
+  "project_tracker_diagnostic": "Rhizomatous perennial with ovate-deltate leaves that are deeply lobed/dissected, and fuzzy lavender-blue to purple discoid flower heads.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Very useful Central Texas mistflower and an important current-name/synonym lesson."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect to spreading perennial, often arising from knotty crowns and capable of forming colonies.",
+    "leaves": "Opposite; blades ovate-deltate to ovate, roughly 1.5–4 cm, with margins distinctly lobed or dissected.",
+    "heads": "Small discoid heads; florets lavender-blue to purple, without ray florets.",
+    "phyllaries": "About 3.5–5 mm in Flora of North America.",
+    "fruit": "Cypselae about 1.8–2.5 mm with a bristly pappus.",
+    "best_field_traits": [
+      "deeply lobed/dissected palmleaf-like leaves",
+      "lavender-blue fuzzy discoid heads",
+      "opposite leaves",
+      "perennial clumping/spreading habit",
+      "Joey's source under the familiar name Conoclinium greggii shows the low mounded/spreading landscape habit—use that habit with the deeply dissected leaves, not flower color alone."
+    ],
+    "joey_field_note": "Joey's West Texas landscaping video labels this plant Conoclinium greggii; the project reconciles that familiar older name to accepted Conoclinium dissectum. The frame is most useful for mounded growth habit and whole-plant architecture.",
+    "reproductive_confirmation": "FNA: corollas 2.5–3.5 mm; cypselae 1.8–2.5 mm hispidulous."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Use accepted iNaturalist taxon Conoclinium dissectum; prefer curated references plus several views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Josh*m, some rights reserved (CC BY-NC-SA)",
+      "license": "cc-by-nc-sa",
+      "source_page": "https://www.inaturalist.org/taxa/288658",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC), uploaded by Chuck Sexton",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/288658",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412142",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412142",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412142",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-public-domain-greggs-plant.jpg",
+      "role": "Labeled Gregg's mistflower habit and divided foliage context; isolated diagnostic leaf macro still pending",
+      "creator": "Stickpen",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eupatoriumgreggii1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-batch2-taxonomy-fix-joey",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "joey_enhanced": true,
+    "diagnostic_polish_date": "2026-10-12",
+    "diagnostic_photo_lock": "pending_matched_leaf_and_cypsela_views"
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "00:12:50",
+      "record_id": "jvid-mA0uMKVyswA-010",
+      "source_name": "Conoclinium greggii",
+      "canonical_reconciliation": "Conoclinium dissectum",
+      "role": "landscape habit / mounded growth",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Joey-enhanced"
+  ],
+  "look_here_first": "Check fully expanded middle leaves: deep lobes or dissections interrupt the leaf outline; opposite foliage and blue-violet rayless heads support Conoclinium. C. coelestinum has a simple toothed—not deeply cut—leaf outline.",
+  "comparisons": {
+    "confused_with": [
+      "Conoclinium coelestinum",
+      "Chromolaena odorata",
+      "Conoclinium betonicifolium"
+    ],
+    "key_distinctions": "Versus C. coelestinum: deeply dissected/lobed leaf vs intact toothed margin (PRIMARY); FNA fruit hispidulous 1.8–2.5 mm vs glabrous 1–1.5 mm (confirmation). Versus Chromolaena odorata: Conoclinium has shorter hemispheric involucres with 2–3 phyllary series, rather than cylindrical 8–10 mm and 4–6+ series."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "leaf_comparison",
+      "priority": "P1",
+      "shot": "one flattened mature middle stem leaf, upper and underside, with ruler",
+      "must_show": "depth of lobing/dissection and basal veins",
+      "status": "diagnostic_match_pending"
+    },
+    {
+      "role": "fruit_macro",
+      "priority": "P1",
+      "shot": "ripe cypsela with millimeter scale at 10x or macro",
+      "must_show": "1.8–2.5 mm length and short hairs",
+      "status": "diagnostic_match_pending"
+    },
+    {
+      "role": "head_side_macro",
+      "priority": "P2",
+      "shot": "one individual involucre sideways, scale and clear phyllaries",
+      "must_show": "phyllary series and rounded/hemispheric head base",
+      "status": "diagnostic_match_pending"
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066412"
+    }
+  ]
+}

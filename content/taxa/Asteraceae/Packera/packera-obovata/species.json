@@ -1,0 +1,37 @@
+{
+  "id": "packera-obovata",
+  "family": "Asteraceae",
+  "genus": "Packera",
+  "species": "obovata",
+  "scientific_name": "Packera obovata",
+  "common_name": "Roundleaf ragwort",
+  "look_here_first": "Examine broad rounded basal leaves, yellow composite heads, and flower-head phyllaries; compare foliage shape with Packera glabella and other ragworts.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Packera%20obovata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed at Missouri Botanical Garden, not a Texas local specimen.",
+  "images": [
+    {
+      "file": "images/commons-packera-obovata.jpg",
+      "role": "Provisional flowering and round-leaved habit at botanical garden; head bract anatomy awaits close-up.",
+      "creator": "James Steakley",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Packera_obovata.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "CC attribution, original source and share-alike on derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

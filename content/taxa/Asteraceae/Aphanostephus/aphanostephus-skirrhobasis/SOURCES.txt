@@ -1,0 +1,11 @@
+Aphanostephus skirrhobasis — Flora of North America https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=102213
+POWO accepted taxonomy https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:15959-2
+Photo: sonnia hill, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aphanostephus_skirrhobasis_(Louisiana).jpg
+Range: Texas-native state level, target-zone UNRESOLVED. Source pool approved. Species-level concept, no variety assigned.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:45:55.819646+00:00
+Aphanostephus skirrhobasis (DC.) Trel. ex Coville & Branner
+https://www.gbif.org/occurrence/6234325420
+Jane Weeden | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Involucre/phyllaries, mature fruit and hairs
+No anatomy arrows; no scientific or native-range changes.

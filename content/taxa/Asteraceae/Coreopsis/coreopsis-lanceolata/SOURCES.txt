@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 053 — Coreopsis lanceolata
+Date: 2026-10-08
+Source: https://commons.wikimedia.org/wiki/File:Coreopsis_lanceolata_1.jpg
+Direct 960px image: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Coreopsis_lanceolata_1.jpg/960px-Coreopsis_lanceolata_1.jpg
+Creator: jimduggan24
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+Study use: yes
+Public reuse: attribution and license terms apply
+Role: Single golden head with notched ray florets; basal foliage not demonstrated
+Media-only; no change to taxonomy, range, HOLD/FAIL, or comparisons.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Coreopsis lanceolata L.
+https://www.gbif.org/occurrence/6130708500
+Thomas Mesaglio | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Lower lanceolate basal leaves and long leafless peduncle; head underside
+No anatomy arrows; no scientific or native-range changes.

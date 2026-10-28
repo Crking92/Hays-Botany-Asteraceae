@@ -1,0 +1,209 @@
+{
+  "id": "ambrosia-artemisiifolia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia artemisiifolia",
+  "authority": "L.",
+  "common_name": "Common Ragweed",
+  "project_tracker_diagnostic": "Annual; lower leaves opposite and upper leaves alternate; blades 1–2-pinnately lobed; male heads form terminal spikes and female heads sit below in leaf axils.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual from seed; does not produce a persistent network of perennial underground rhizomes. An established western ragweed patch may have multiple stems connected belowground.",
+    "habit": "Erect, branching herb of disturbed ground.",
+    "leaves": "Lower leaves opposite, upper leaves alternate; blades generally deeply once- or twice-divided into narrow lobes. Examine leaf position along the same stem rather than one isolated leaf.",
+    "flowers": "Small drooping male pollen-bearing heads arranged along terminal spikes, with tiny separate female heads below in the upper leaf axils. Both sexes occur on the same plant.",
+    "fruit": "Female heads mature into small woody burrlike involucres with usually 4–7 short spines or projections; photograph mature fruit beside a ruler.",
+    "best_field_traits": [
+      "Annual plant with opposite lower leaves, alternate upper leaves",
+      "Deeply divided fernlike foliage",
+      "Dangling male heads in terminal spikes; small female heads beneath",
+      "Small woody fruit with short crownlike projections"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Look closer · upright pollen-bearing green male flowerhead spikes above deeply divided leaves on a hairy branching stem",
+      "creator": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+      "license": "cc-by-sa",
+      "source_page": "https://www.inaturalist.org/taxa/53587",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382193593/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "382193593",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Recognize · tall flowering stalks with repeated narrow spikes of small greenish heads; leaf and fruit detail not clear",
+      "creator": "(c) Felix Riegel, some rights reserved (CC BY-NC), uploaded by Felix Riegel",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/53587",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110847949/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "110847949",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Recognize · dense patch of finely divided green ragweed foliage seen from above; reproductive parts not shown",
+      "creator": "(c) Tracey Burke, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/215117603",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380290811/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "215117603",
+      "photo_id": "380290811",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · many slender lobes of finely dissected ragweed leaves amid overlapping foliage; sexed heads not shown",
+      "creator": "(c) Tracey Burke, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/215117603",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380290868/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "215117603",
+      "photo_id": "380290868",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · leafy branching plant viewed from above; same observation as two other foliage images, not separate ID proof",
+      "creator": "(c) Tracey Burke, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/215117603",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380290951/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "215117603",
+      "photo_id": "380290951",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "look_here_first": "START WITH THE LEAVES: common ragweed is an ANNUAL with finely divided, fernlike leaves, usually opposite low on the stem and alternate above. NEXT inspect flowering stems: dangling greenish MALE pollen heads form terminal spikes; much smaller FEMALE heads sit below them near the upper leaf axils. FINALLY check the mature fruit: a small woody bur with several short pointed projections. Western ragweed can have similar flowers and divided leaves but is a perennial spreading from underground rhizomes; check connected stems if uncertain.",
+  "comparisons": {
+    "confused_with": [
+      "Ambrosia psilostachya (western ragweed)",
+      "Ambrosia trifida (giant ragweed)",
+      "Artemisia spp. (sageworts)"
+    ],
+    "key_distinctions": [
+      {
+        "taxon": "Ambrosia psilostachya",
+        "look_here_first": "Follow multiple stems below ground and compare leaf lobes.",
+        "common_ragweed": "Annual without persistent connecting rhizomes; leaves frequently finely divided.",
+        "lookalike": "Western ragweed is rhizomatous perennial with broader and often less finely cut lobes.",
+        "caution": "Leaves overlap, and mowing changes habit. Rhizome connection is strongest when available."
+      },
+      {
+        "taxon": "Ambrosia trifida",
+        "look_here_first": "Check mature leaf outline.",
+        "common_ragweed": "Leaves are finely pinnately divided into many narrow segments.",
+        "lookalike": "Giant ragweed has very large leaves usually with 3 (sometimes 5) broad palmate lobes.",
+        "caution": "Young plants may have variable leaves; compare multiple mature leaves."
+      },
+      {
+        "taxon": "Artemisia spp.",
+        "look_here_first": "Inspect reproductive heads and leaf odor only as supporting evidence.",
+        "common_ragweed": "Separate dangling male heads in terminal spikes, tiny female heads lower, crownlike burs.",
+        "lookalike": "Sageworts have different composite flower heads and often aromatic or silvery foliage; inspect flowers to confirm.",
+        "caution": "Aromatic foliage is not a reliable standalone test."
+      }
+    ]
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Common ragweed — divided leaves, two flower-head types and fruit",
+    "steps": [
+      {
+        "stage": "RECOGNIZE IT",
+        "look": "Finely divided leaves on upright annual stem",
+        "text": "Existing Tracey Burke images are labeled foliage views but actual pixels were not checked this run. Verify lower opposite and upper alternate leaves in one specimen before assigning anatomy arrows.",
+        "photo_status": "annotation_pending; installed photo roles require visual verification"
+      },
+      {
+        "stage": "LOOK CLOSER",
+        "look": "Terminal male heads above tiny axillary female heads",
+        "text": "Existing Qwert1234 photo is labeled as male flowering spikes, but does not establish a clearly visible female head. Obtain a close-up showing both positions on the same flowering stem.",
+        "photo_file": "images/01-curated-reference.jpg",
+        "photo_status": "installed physical JPEG verified; female-head macro still needed"
+      },
+      {
+        "stage": "CONFIRM THE ID",
+        "look": "Short-spined woody bur and annual root",
+        "text": "Photograph a mature fruit with a millimeter ruler and, where practical, the plant base; compare with western ragweed rhizomes.",
+        "photo_status": "NEEDS_DIAGNOSTIC_PHOTO"
+      }
+    ],
+    "annotation_status": "annotation_pending — no invented image-coordinate targets"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "look_closer",
+      "target": "Single stem with opposite lower leaves and alternate upper leaves visible",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    },
+    {
+      "role": "look_closer",
+      "target": "Male hanging heads and female heads below on same plant, in focus",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    },
+    {
+      "role": "confirm_id",
+      "target": "Mature fruit with several short projections beside mm scale",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    },
+    {
+      "role": "compare",
+      "target": "Annual root base vs rhizome-connected western ragweed shoots",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    }
+  ],
+  "field_id_sources": [
+    {
+      "title": "University of Arizona Cooperative Extension: annual ragweed",
+      "url": "https://yavapaiplants.extension.arizona.edu/ambrosia-artemisiifolia",
+      "supports": "Leaf arrangement, separate male/female heads and short-spined fruits"
+    },
+    {
+      "title": "University of Wisconsin Green Bay herbarium: western ragweed",
+      "url": "https://www.uwgb.edu/biodiversity-old/herbarium/Vascular_plants/Misc_species/ambpsi01.html",
+      "supports": "Rhizomes distinguish western ragweed from common ragweed"
+    },
+    {
+      "title": "University of Arizona Cooperative Extension: western ragweed",
+      "url": "https://yavapaiplants.extension.arizona.edu/ambrosia-psilostachya",
+      "supports": "Rhizomatous habit and reproductive comparison"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "note": "Field-ID text reviewed 2026-10-20; existing photos preserved, male-spike JPEG bytes verified, but fruit/female-head anatomy and photo-specific rights remain incompletely verified. NEEDS_DIAGNOSTIC_PHOTO; annotation_pending."
+  }
+}

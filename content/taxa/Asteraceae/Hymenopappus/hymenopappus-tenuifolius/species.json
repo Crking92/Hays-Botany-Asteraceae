@@ -1,0 +1,36 @@
+{
+  "id": "hymenopappus-tenuifolius",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
+  "species": "tenuifolius",
+  "scientific_name": "Hymenopappus tenuifolius",
+  "common_name": "Chalk Hill Hymenopappus",
+  "look_here_first": "Inspect finely divided narrow leaves and clustered pale disk-only composite flower heads; look closely at the phyllaries.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Hymenopappus%20tenuifolius",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/inat-99330789.jpeg",
+      "role": "Provisional species recognition photo (not diagnostic certified)",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/99330789",
+      "study_use": "Noncommercial botanical learner",
+      "public_reuse": "CC BY-NC: commercial use prohibited; attribution required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

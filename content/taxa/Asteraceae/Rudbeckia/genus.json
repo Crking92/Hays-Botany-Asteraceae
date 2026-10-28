@@ -1,0 +1,104 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Rudbeckia",
+  "authority": "L.",
+  "common_group": "Black-eyed Susans",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 3 — ragweeds, thistles, and common roadside species",
+    "species_ids": [
+      "rudbeckia-amplexicaulis",
+      "rudbeckia-hirta",
+      "rudbeckia-maxima"
+    ],
+    "species_count": 3
+  },
+  "study_strategy": {
+    "priority": [
+      "whole-plant habit",
+      "leaf arrangement and texture",
+      "head architecture",
+      "phyllaries/involucre",
+      "fruit/pappus when available"
+    ],
+    "warning": "This batch includes several groups where flower color alone is weak; use leaf and involucre characters."
+  },
+  "curation_status": {
+    "version": "1.1-three-species-comparison",
+    "last_reviewed": "2026-10-09"
+  },
+  "look_here_first": "Check leaf attachment and hairs BEFORE the yellow rays: smooth clasping leaves = R. amplexicaulis; coarse hairy nonclasping leaves = R. hirta; giant glaucous basal leaves and mostly bare flowering stems = R. maxima.",
+  "shared_genus_traits": [
+    "Asteraceae heads with ray florets surrounding a raised disk; leafy herbs with an involucre of phyllaries.",
+    "Yellow rays and dark disk color overlap; leaf-base structure, pubescence and disk shape separate these species more reliably."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Leaf attachment",
+      "amplexicaulis": "Sessile leaves with rounded clasping bases",
+      "hirta": "Nonclasping leaves",
+      "maxima": "Huge leaves mainly basal; flowering stalk sparsely leafy"
+    },
+    {
+      "character": "Stem and leaf surface",
+      "amplexicaulis": "Mostly smooth/glabrous",
+      "hirta": "Conspicuously rough-hairy/hispid",
+      "maxima": "Bluish glaucous, especially basal foliage"
+    },
+    {
+      "character": "Disk shape",
+      "amplexicaulis": "Raised conical to barrel-shaped",
+      "hirta": "Hemispheric to ovoid",
+      "maxima": "Exceptionally tall elongated cone"
+    },
+    {
+      "character": "Growth form",
+      "amplexicaulis": "Annual or short-lived herb",
+      "hirta": "Biennial or short-lived perennial",
+      "maxima": "Large colony-forming perennial"
+    }
+  ],
+  "overlap_and_cautions": [
+    "Do not use yellow rays or a dark disk alone; all three share these features.",
+    "Young or sterile plants may lack diagnostic disk shapes; prioritize leaves and inspect several nodes.",
+    "R. maxima is a nonlocal comparison where appropriate; do not infer county nativity from inclusion."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Helianthus annuus",
+      "look_for": "Sunflower head architecture and phyllaries; confirm genus rather than assuming any yellow-rayed dark-centered head is Rudbeckia."
+    },
+    {
+      "taxon": "Rudbeckia laciniata",
+      "look_for": "Deeply dissected foliage differs from broad glaucous basal leaves of R. maxima; confirm source-pool status before making it a canonical card."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "shot": "Stem node side-by-side with leaf bases",
+      "character": "Clasping versus nonclasping leaves"
+    },
+    {
+      "shot": "Matched stem/leaf hair macros",
+      "character": "Glabrous versus hispid"
+    },
+    {
+      "shot": "Whole basal rosette plus flowering stem",
+      "character": "R. maxima glaucous basal foliage"
+    },
+    {
+      "shot": "Disk cone side profiles with scale",
+      "character": "Conical, ovoid, and tall elongated disks"
+    },
+    {
+      "shot": "Phyllary/involucre close-ups",
+      "character": "Confirm head structure and overlaps"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Obtain matched leaf-base, hair, basal-leaf and disk-side views; reuse canonical species images where diagnostic."
+    }
+  ]
+}

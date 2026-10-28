@@ -1,0 +1,172 @@
+{
+  "id": "symphyotrichum-drummondii",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "drummondii",
+  "scientific_name": "Symphyotrichum drummondii",
+  "authority": "(Lindl.) G.L.Nesom",
+  "common_name": "Drummond's Aster / Texas Aster",
+  "taxonomic_note": "Stable species-level canonical entry; accepted local infraspecific concept S. drummondii var. texanum is taught internally.",
+  "look_here_first": "Start with the lower leaves: in local var. texanum, broad serrate blades narrow into winged petioles, while tiny narrow leaves occur high on the flowering branches. Distal stems are densely hairy and widely spreading branches have densely short-bracted flower stalks. FNA var. texanum involucres typically 3.8–5.2 mm, heads bluish-white; compare glabrous stalks and 27–36 rays in S. eulae.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays Natural Purola flora records Symphyotrichum drummondii; Travis herbarium and Williamson county treatment document accepted var. texanum. Current Kew accepts S. drummondii var. texanum.",
+    "range_guardrail": "Exact county evidence; accepted local infraspecific concepts reconciled internally."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial",
+      "lower leaves relatively large and serrate",
+      "lower blades taper into winged petiole-like bases",
+      "upper leaves much smaller and narrow",
+      "stems short-hirsute/puberlent",
+      "paniculate flowering array",
+      "rays pale lavender to whitish",
+      "local accepted variety texanum"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-b071",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "aster-genus-2.2",
+    "scientific_status_unchanged": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 2
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20drummondii%202491636.jpg",
+      "role": "Texas field reference / flowering plant",
+      "creator": "Michael D Fox",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_drummondii_2491636.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/2491636",
+      "observation_source": "https://www.inaturalist.org/observations/2083302",
+      "inaturalist_photo_id": 2491636,
+      "inaturalist_observation_id": 2083302,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20drummondii%2052073298.jpg",
+      "role": "Flowering cluster / head display",
+      "creator": "Mary Crickmore",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_drummondii_52073298.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/52073298",
+      "observation_source": "https://www.inaturalist.org/observations/33170724",
+      "inaturalist_photo_id": 52073298,
+      "inaturalist_observation_id": 33170724,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20drummondii%2069433585.jpg",
+      "role": "Texas field reference / foliage and flowering context",
+      "creator": "Craig Hensley",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_drummondii_69433585.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/69433585",
+      "observation_source": "https://www.inaturalist.org/observations/43778234",
+      "inaturalist_photo_id": 69433585,
+      "inaturalist_observation_id": 43778234,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-review017-3eaaca14c0d468bd.jpg",
+      "role": "Recognize · many small pale lilac-rayed heads with yellow disks on widely branching stems; outer phyllaries not resolved",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/99236548",
+      "source_observation": "https://www.inaturalist.org/observations/61974988",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99236548/large.jpeg",
+      "source_determination": "Symphyotrichum drummondii",
+      "photo_id": "99236548",
+      "observation_id": "61974988",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review017-6719c5de26d2b423.jpg",
+      "role": "Look closer · slender hairy-looking branching stems with narrow upper leaves, short side shoots, and nearby pale-rayed heads; basal winged petioles not shown",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/99236573",
+      "source_observation": "https://www.inaturalist.org/observations/61974988",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99236573/large.jpeg",
+      "source_determination": "Symphyotrichum drummondii",
+      "photo_id": "99236573",
+      "observation_id": "61974988",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Exact-species images retain creator, license, iNaturalist photo/observation, and source metadata."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Photograph a lower winged petiole and broad serrate blade WITH its stem",
+      "priority": "must-have",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "10× macro of dense distal stem hairs and very short peduncle bracts",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Measured involucre 3.8–5.2 mm; whole branch architecture",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Matched S. eulae glabrous peduncle and face-on ray count",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    }
+  ],
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum eulae"
+    ],
+    "key_distinctions": "Local var. texanum: hairy stems, winged lower petiole, 3.8–5.2 mm heads; Eulae: glabrous peduncles, 27–36 rays, hemispheric often 5–6.5 mm heads."
+  },
+  "synonyms": [
+    "Symphyotrichum drummondii var. texanum"
+  ],
+  "photo_note": "Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional."
+}

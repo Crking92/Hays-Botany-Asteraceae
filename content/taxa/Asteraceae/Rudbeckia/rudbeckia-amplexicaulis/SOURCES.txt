@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 053 — Rudbeckia amplexicaulis
+Date: 2026-10-08
+Source: https://commons.wikimedia.org/wiki/File:Rudbeckia_amplexicaulis.jpg
+Direct 960px image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Rudbeckia_amplexicaulis.jpg/960px-Rudbeckia_amplexicaulis.jpg
+Creator: Michael Gras, M.Ed.
+License: CC BY 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+Study use: yes
+Public reuse: attribution and license terms apply
+Role: Flower head with reddish-brown ray bases and prominent conical disk; clasping leaves not shown
+Media-only; no change to taxonomy, range, HOLD/FAIL, or comparisons.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Rudbeckia amplexicaulis Vahl
+https://www.gbif.org/occurrence/6178972550
+Cricket Raspet | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Glabrous clasping leaf bases at node beneath cone flower head
+No anatomy arrows; no scientific or native-range changes.

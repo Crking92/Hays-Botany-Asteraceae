@@ -1,0 +1,97 @@
+{
+  "id": "tetraneuris-acaulis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
+  "species": "acaulis",
+  "scientific_name": "Tetraneuris acaulis",
+  "authority": "Greene",
+  "common_name": "Stemless four-nerve daisy",
+  "look_here_first": "Start at the perennial basal rosette and nearly leafless flowering scapes. Because local T. scaposa can look very similar, confirm the taxonomic concept and provenance instead of identifying a scaped yellow daisy as acaulis by color.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "B051 deep review: Kew/GRIN accept state-level Texas nativity, but reviewed var. acaulis is Panhandle/Great Plains-centered and no three qualifying target-zone counties were confirmed.",
+    "range_guardrail": "Do not count as confirmed target-zone native; scientific range FAIL is independent of learner admission."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Perennial basal crown and rosette.",
+      "Leaves concentrated at the base; flowering stalks mostly leafless.",
+      "One yellow radiate head per scape.",
+      "Reviewed var. acaulis is Panhandle/Great Plains-centered; identity must not be inferred from a generic Central Texas four-nerve daisy."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tetraneuris scaposa",
+      "Tetraneuris linearifolia"
+    ],
+    "key_distinctions": "T. linearifolia is an annual with leafy flowering stems. T. scaposa var. scaposa is the documented local perennial rosette-and-scape four-nerve daisy; T. acaulis overlaps morphologically, so use verified species/variety and geography rather than color alone."
+  },
+  "images": [
+    {
+      "file": "images/tetraneuris-acaulis-provisional-face.jpg",
+      "role": "Stemless four-nerve daisy habit/flowers against rocky ground; nonlocal provenance documented.",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tetraneuris_acaulis_-_stemless_hymenoxys.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-6147615001-3f58d2cf8.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Basal rosette and near leafless scape, mature head and phyllary diagnostic",
+      "creator": "Parker James Lloyd",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6147615001",
+      "gbif_occurrence_id": "6147615001",
+      "source_determination": "Tetraneuris acaulis (Pursh) Greene",
+      "accepted_target": "Tetraneuris acaulis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614360620/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "perennial rosette and crown",
+    "basal leaf shape and surface",
+    "single head on scape",
+    "involucre and pappus macro",
+    "comparison with T. scaposa and T. linearifolia"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/tetraneuris-acaulis/draft.json; research-queue.json",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

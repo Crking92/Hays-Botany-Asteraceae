@@ -1,0 +1,70 @@
+{
+  "id": "lactuca-serriola",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Lactuca",
+  "species": "serriola",
+  "scientific_name": "Lactuca serriola",
+  "authority": "L.",
+  "common_name": "Prickly lettuce",
+  "look_here_first": "LOOK HERE FIRST: Turn a middle leaf over and find the row of stiff prickles along the underside midrib. Inspect clasping auriculate leaf bases and small narrow yellow-flowered heads; milky sap on a fresh break.",
+  "taxonomy_notes": "Accepted species Lactuca serriola L. in Kew; Lactuca scariola and Lactuca sativa subsp. serriola are synonyms/alternative treatments, not separate cards.",
+  "synonyms": [
+    "Lactuca scariola L.",
+    "Lactuca sativa subsp. serriola (L.) Frietema"
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 613; installer preflight mass-05",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "COMMON_WEED_COMPARISON",
+    "native_metrics_excluded": true,
+    "notes": "Kew Old World native range, introduced in North America; no invasive claim."
+  },
+  "morphology_keys": {
+    "habit": "Erect annual or biennial herb, leafy stem branching above, milky sap.",
+    "leaves_attachment": "Alternate variable lobed gray-green leaves, clasping auricles and underside midrib row of spines.",
+    "flower_reproductive": "Narrow cylindrical heads with small yellow strap-shaped ligulate florets.",
+    "fruit_seed": "Beaked flattened cypsela with white pappus; macro still needed.",
+    "stem_bud": "Stems often glabrous to prickly; milky latex."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Sonchus asper: glossy, spiny-margined clasping leaves; compare underside midrib and heads.",
+      "Lactuca canadensis: check underside midrib prickles, leaf bases and fruit.",
+      "Lactuca virosa: close look-alike; compare mature fruit and leaves."
+    ],
+    "key_distinctions": "Row of stiff spines along abaxial leaf midrib plus clasping auricles, milky latex and narrow yellow ligulate heads."
+  },
+  "diagnostic_image_needs": [
+    "staged_source_pending_action: underside leaf with midrib spines (Harry Rose CC BY 2.0).",
+    "staged_source_pending_action: narrow yellow-flowered heads (Matt Lavin CC BY-SA 2.0).",
+    "needs_photo: clasping auricles and beaked cypsela macro.",
+    "annotation_pending: verify arrow coordinates."
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/lactuca-serriola-leaf-midrib-commons.jpg",
+      "role": "Underside leaf midrib prickles",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_leaf2_(14446007100).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution"
+    },
+    {
+      "file": "images/lactuca-serriola-flower-heads-commons.jpg",
+      "role": "Narrow yellow flower heads",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_(4971023995).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  }
+}

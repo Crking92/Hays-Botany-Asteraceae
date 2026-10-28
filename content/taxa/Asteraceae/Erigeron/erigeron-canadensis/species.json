@@ -1,0 +1,502 @@
+{
+  "id": "erigeron-canadensis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "species": "canadensis",
+  "scientific_name": "Erigeron canadensis",
+  "authority": "L.",
+  "common_name": "Horseweed",
+  "alternate_common_names": [
+    "Canadian horseweed",
+    "Canadian fleabane",
+    "marestail"
+  ],
+  "synonyms": [
+    "Conyza canadensis (L.) Cronquist",
+    "Leptilon canadense (L.) Britton"
+  ],
+  "taxonomic_note": "Kew POWO accepts Erigeron canadensis L. and synonymizes Conyza canadensis (L.) Cronquist. Flora of North America / some regional keys use Conyza, but it is the SAME taxon for learner lookup; do not install another Conyza card.",
+  "source_pool": {
+    "sheet": "Master Plant Pool",
+    "primary_row": 431,
+    "primary_name": "Erigeron canadensis",
+    "other_row": 292,
+    "other_name": "Conyza canadensis",
+    "primary_curated_in_sheet": "Yes",
+    "other_curated_in_sheet": "No",
+    "user_source_counts": "row 431 iNaturalist 9 total (8 wild 1 cultivated); row 292 Hays Local=Yes",
+    "reconciliation": "Store the Conyza row as synonym rather than a separate species; do not mutate Google Sheet without explicit instruction."
+  },
+  "field_group": "Common annual or winter-annual pioneer aster/horseweed",
+  "look_here_first": "LOOK HERE FIRST: SEASONAL SEQUENCE. (1) Autumn/winter flat rosette of elongated, often unevenly TOOTHED lower leaves; (2) one erect leafy stem with many NARROW, ALTERNATE, sessile stem leaves, smaller toward tip; (3) large upper panicle of numerous TINY greenish capitula, with an involucre ~3–4 mm LONG and rays usually too short to see without a hand lens; (4) white fluffy pappus as fruits mature. Compare a rooted plant and actual flowering heads before confirming an ambiguous rosette. No bright yellow goldenrod plume.",
+  "project_tracker_diagnostic": "Annual/winter-annual taproot and lower toothed rosette; one upright leafy stem with progressively smaller alternate narrow blades; strongly branched terminal panicle; green phyllary cup/involucre ~3–4 mm LONG; minute pale ray florets; white pappus when fruiting.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "range_basis": "Kew POWO lists Erigeron canadensis native to Texas and North America. Approved Master Pool includes Hays County native source row under Conyza canadensis, plus user's own observations. Three separately verified wild voucher occurrences inside the project's 24 target counties were NOT independently checked in this pass; do not count as 3-county PASS.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-13",
+      "reason": "User explicitly selected horseweed following status check; master pool already contains Erigeron canadensis curated Yes and Conyza alias."
+    }
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual or winter annual, commonly from a small taproot, overwintering flat rosette before bolting; not a long-lived basal clump.",
+    "basal": "Early leaves spatulate to oblanceolate, often shallow teeth, up to ~10 cm; basal leaves often shrivel as plant flowers.",
+    "stem": "One generally straight, unbranched lower stem, leafy with many narrow alternate sessile leaves. Branches concentrated near the TOP in a loose tapering panicle (not grass spike or yellow goldenrod raceme).",
+    "leaves": "Alternate, linear to narrowly oblanceolate, lower 20–50(-100) × 4–10(-15) mm, upper progressively narrower, edges sometimes toothed or ciliate with stiff marginal hairs; surfaces often almost smooth except veins.",
+    "heads": "Many tiny heads in a terminal panicle; the INVOLUCRE (the bract cup beneath one head) is about 3–4 mm LONG, not necessarily a 3–4 mm diameter for the full head. Marginal very short white or pinkish ray-floret tips ~0.5–1 mm usually hard to see without magnification; central tubular florets present. Distinguish fresh flowers from ripe silky pappus.",
+    "fruit": "Dry one-seeded cypsela ~1–1.5 mm with one ring of fine white pappus bristles usually ~2–3 mm; wind distributed.",
+    "site": "Disturbed open ground, roadsides, empty beds, old fields, turf gaps, margins. Disturbance-tolerant early successional plant, but not by itself a determination of native-zone certification.",
+    "variation": "Flower heads and stems vary with age, drought and site; non-native-looking labels on overseas photographs describe local status abroad, not species' North American origin.",
+    "best_field_traits": [
+      "Early basal TOOTHED rosette",
+      "narrow ALTERNATE stem leaves and single central stem",
+      "pyramid of MANY very small whitish heads (not a yellow display)",
+      "minute inconspicuous rays",
+      "white fuzzy pappus after seed maturation"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Erigeron philadelphicus",
+      "Erigeron strigosus",
+      "Erigeron annuus",
+      "Erigeron geiseri",
+      "Erigeron modestus",
+      "Symphyotrichum spp.",
+      "Solidago spp.",
+      "Conyza bonariensis",
+      "Conyza sumatrensis"
+    ],
+    "key_distinctions": "On a mature plant, horseweed usually has ONE tall leafy axis, many narrow ALTERNATE leaves, and scores of tiny terminal heads (involucre ~3–4 mm long) with barely projecting whitish ray florets. E. strigosus, E. philadelphicus and E. annuus typically present fewer, larger, clearly daisy-like heads with visible projecting rays; a rosette alone is not a confident separation. E. geiseri is annual but has visibly longer fleabane rays; E. modestus has a woody perennial root crown. Goldenrods (Solidago) have conspicuous yellow rays in yellow flowering sprays. Similar small-headed Conyza/Erigeron bonariensis/sumatrensis should be keyed with hair and phyllary detail; their occurrence here is not asserted."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Horseweed: learn all four seasons/stages",
+    "steps": [
+      {
+        "stage": "1 — WINTER",
+        "look": "Basal rosette",
+        "text": "Low spatulate/oblanceolate leaves with irregular shallow teeth. Photograph full leaf and plant base. Other little rosettes nearby can be DIFFERENT species; rosette alone rarely enough."
+      },
+      {
+        "stage": "2 — BOLTING",
+        "look": "Stem and alternation",
+        "text": "One tall upright stem with many alternate slender leaves; lower leaves broader and toothed, upper leaves narrower and mostly entire. Small hairs may fringe leaves or stem."
+      },
+      {
+        "stage": "3 — FLOWERING",
+        "look": "Head is NOT a big daisy",
+        "text": "WE NOW HAVE AN EARLY-BLOOM MACRO: narrow 6-mm-referenced head with emerging white ray tips over green involucre. Fully open yellow disc florets/ray measurements still require a separate flower-head macro; do not teach a ripe pappus photo as fresh bloom."
+      },
+      {
+        "stage": "4 — FRUITING",
+        "look": "White silk in each head",
+        "text": "Fruit heads open to release tiny dry cypselae with fine, whitish PAPPUS bristles for wind dispersal. The two installed close-ups show this stage, not open fresh florets."
+      }
+    ],
+    "glossary": {
+      "rosette": "Flat basal arrangement of leaves before flower stalk develops",
+      "bolting": "Rapid growth of flower-bearing stem from earlier basal stage",
+      "alternate": "ONE leaf at a node, next leaf at another level on opposite side",
+      "capitulum": "One tiny composite flower head, made of many minute florets",
+      "ray_floret": "Small strap-tipped flower at head edge; horseweed's rays are barely visible",
+      "disc_floret": "Tubular flower near head center",
+      "pappus": "Fine bristles atop the small dry fruit that help it float",
+      "phyllary": "One of the small bracts forming the green involucre/cup under a composite head",
+      "cypsela": "One-seeded dry fruit of the aster family"
+    },
+    "memory_rule": "ROSETTE → ONE LEAFY STICK → MANY TINY FLOWER HEADS → WHITE FLUFF. Use alternate leaves and scale; no guessing a rosette or confusing seed fluff for petals."
+  },
+  "visual_comparison": {
+    "title": "Horseweed: rosette → leafier bolt → real emerging rays → ripe pappus",
+    "subtitle": "Six teaching panels: FOUR physically stored existing horseweed photographs (rosette, mature plant, TWO fruiting macros), plus TWO image-level-licensed Wikimedia Commons close-ups of EARLY BLOOM with 6-mm and 10-mm printed references. TOTAL 16 photo overlay arrows; the 2 new images are linked, not physically installed.",
+    "items": [
+      {
+        "label": "WINTER ROSETTE — HORSEWEED VS NEARBY OTHER ROSETTE",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/01-winter-rosette.jpg",
+        "caption": "The LARGE gray-green rosette with elongated, unevenly toothed leaves is horseweed; the small green rosette below-left is a DIFFERENT PLANT (Draba verna). Follow the horseweed leaf margins and crown. Source photographed in Poland, not Hays County.",
+        "creator": "Agnieszka Kwiecień, Nova",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_Draba_verna_2020-12-30_So%C5%82tysowice_02.jpg",
+        "markers": [
+          {
+            "label": "Horseweed basal crown",
+            "label_x": 66,
+            "label_y": 35,
+            "target_x": 51,
+            "target_y": 47
+          },
+          {
+            "label": "Toothed horseweed leaf",
+            "label_x": 2,
+            "label_y": 13,
+            "target_x": 25,
+            "target_y": 28
+          },
+          {
+            "label": "OTHER rosette (Draba)",
+            "label_x": 2,
+            "label_y": 89,
+            "target_x": 33,
+            "target_y": 79
+          }
+        ],
+        "annotation_status": "Image visually inspected: large horseweed rosette and separate smaller Draba confirmed; three overlays point to visible parts; owner mobile arrow check pending.",
+        "why_it_matters": "Teach the crew to trace leaves to one crown before assigning an ID. Winter rosettes can overlap in appearance: do not identify the small adjacent Draba as horseweed, and confirm ambiguous horseweed rosettes after bolting.",
+        "image_fit": "contain",
+        "scientific_name": "Erigeron canadensis"
+      },
+      {
+        "label": "BOLTED PLANT — ALTERNATE LEAVES AND TERMINAL BRANCHING",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/02-upright-flowering-plant.jpg",
+        "caption": "A SINGLE tall central axis bears many NARROW alternate leaves, with many more branchlets and tiny heads near the top. The tall image does not expose the taproot; do not infer it from the photograph.",
+        "creator": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Canadese_fijnstraal_bloeiende_plant_Conyza_canadensis.jpg",
+        "markers": [
+          {
+            "label": "Tiny heads at top",
+            "label_x": 1,
+            "label_y": 13,
+            "target_x": 68,
+            "target_y": 24
+          },
+          {
+            "label": "Alternate leaf on stem",
+            "label_x": 56,
+            "label_y": 64,
+            "target_x": 47,
+            "target_y": 70
+          },
+          {
+            "label": "Erect main stem",
+            "label_x": 2,
+            "label_y": 84,
+            "target_x": 49,
+            "target_y": 79
+          }
+        ],
+        "annotation_status": "Image visually inspected at full portrait scale; arrow tips placed on terminal head cluster, attached leaf, and upright stem; owner mobile arrow check pending.",
+        "why_it_matters": "The combination of alternate narrow stem leaves, one dominant erect axis, and many small upper heads is a much stronger field clue than height alone.",
+        "image_fit": "contain",
+        "scientific_name": "Erigeron canadensis"
+      },
+      {
+        "label": "OPEN FRUITING HEAD — PAPPUS, NOT FRESH BLOOMS",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/03-tiny-flower-heads.jpg",
+        "caption": "IMPORTANT STAGE CORRECTION: this macro shows a head already in the FRUITING/dispersal stage, with abundant spread-out white pappus bristles and an exposed spent head center. It does NOT prove the tiny white fresh ray florets, despite the source filename containing 'flowerhead'.",
+        "creator": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_flowerhead%2C_Canadese_fijnstraal_bloemhoofdje_%285%29.jpg",
+        "markers": [
+          {
+            "label": "White pappus bristles",
+            "label_x": 70,
+            "label_y": 12,
+            "target_x": 75,
+            "target_y": 44
+          },
+          {
+            "label": "Spent fruiting head",
+            "label_x": 2,
+            "label_y": 37,
+            "target_x": 52,
+            "target_y": 43
+          }
+        ],
+        "annotation_status": "Source JPEG pixel-inspected 2026-10-20. Reclassified from inaccurately labeled flower macro to pappus-stage macro; neither ray florets nor a scale bar is visible. Two verified visible-target arrow coordinates; mobile check pending.",
+        "why_it_matters": "Do not teach the silky fruiting bristles as petals. A separate actual blooming close-up with a millimeter scale is still required.",
+        "image_fit": "contain",
+        "scientific_name": "Erigeron canadensis"
+      },
+      {
+        "label": "OLDER SEED HEAD — FEATHERY FRUIT DISPERSAL",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/04-mature-pappus-seeds.jpg",
+        "caption": "A later fruiting head has fine WHITE PAPPUS BRISTLES spread around pale spent florets and mature fruits. The broad green foreground leaf is not labeled horseweed because its plant attachment/identity is not verifiable from this crop.",
+        "creator": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_seeds%2C_Canadese_fijnstraal_zaden.jpg",
+        "markers": [
+          {
+            "label": "Wind-dispersal pappus",
+            "label_x": 68,
+            "label_y": 10,
+            "target_x": 42,
+            "target_y": 38
+          },
+          {
+            "label": "Fruiting head cluster",
+            "label_x": 4,
+            "label_y": 78,
+            "target_x": 34,
+            "target_y": 46
+          }
+        ],
+        "annotation_status": "Original source visually inspected: pappus and central fruiting cluster visible; foreground leaf not used as a diagnostic character; owner mobile arrow check pending.",
+        "why_it_matters": "Learn the transition from a compact composite head into light wind-dispersal fluff, but confirm species with intact leaves and flowering/fruiting architecture.",
+        "image_fit": "contain",
+        "scientific_name": "Erigeron canadensis"
+      },
+      {
+        "label": "5 · EMERGING WHITE RAYS + GREEN BRACT CUP — 6 MM RULER",
+        "scientific_name": "Erigeron canadensis",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Erigeron_canadensis_sl7.jpg/960px-Erigeron_canadensis_sl7.jpg",
+        "image_fit": "contain",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_sl7.jpg",
+        "image_role": "EXACT horseweed early-flowering capitulum; 6-mm printed reference; light rays visible, not yet fully open yellow disc",
+        "caption": "This is a REAL pre-/early-open flower head, not seed pappus. Short WHITE RAY-FLORET TIPS project out of the GREEN INVOLUCRE (bract cup). A printed 6-mm bar appears to the RIGHT. A fully exposed yellow central disc is NOT pictured here; do not mark it or equate the entire flower height with the ruler length. Vienna morphology illustration, NOT Hays occurrence proof.",
+        "why_it_matters": "Fills the missing flowering stage between a narrow closed head and silky fruiting pappus, with a visible scale so the crew knows just how tiny an individual horseweed head is.",
+        "markers": [
+          {
+            "label": "Emerging white ray tips",
+            "label_x": 0,
+            "label_y": 15,
+            "target_x": 31,
+            "target_y": 16
+          },
+          {
+            "label": "Green phyllary / involucre",
+            "label_x": 2,
+            "label_y": 81,
+            "target_x": 32,
+            "target_y": 62
+          },
+          {
+            "label": "Printed 6 mm ruler",
+            "label_x": 56,
+            "label_y": 87,
+            "target_x": 58,
+            "target_y": 62
+          }
+        ],
+        "annotation_status": "Original Wikimedia pixel-level preview 960x1451 visually inspected 2026-10-21. 3 arrows target clear visible pale tips, green bract cup and separate scale bar. Page owner phone overlay review pending."
+      },
+      {
+        "label": "6 · BRANCHED FLOWERING HEADS + BUDS — 10 MM RULER",
+        "scientific_name": "Erigeron canadensis",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Erigeron_canadensis_sl6.jpg/960px-Erigeron_canadensis_sl6.jpg",
+        "image_fit": "contain",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_sl6.jpg",
+        "image_role": "EXACT horseweed branch, some early-open ray tips and other closed heads, 10mm external scale",
+        "caption": "Many little composite HEADS at different stages along a small branching shoot. WHITE TIPS show ray florets just beginning to emerge from several green involucres. CLOSED GREEN HEADS have not yet opened. A 10-mm printed scale is below; white threads here are not yet seed pappus.",
+        "why_it_matters": "Connects the side macro to real plant architecture and stops crew from calling every pale-tipped head an old seed head.",
+        "markers": [
+          {
+            "label": "Emerging rays on head",
+            "label_x": 2,
+            "label_y": 11,
+            "target_x": 47,
+            "target_y": 14
+          },
+          {
+            "label": "Closed green flower bud",
+            "label_x": 68,
+            "label_y": 37,
+            "target_x": 76,
+            "target_y": 44
+          },
+          {
+            "label": "10-mm reference bar",
+            "label_x": 14,
+            "label_y": 86,
+            "target_x": 55,
+            "target_y": 86
+          }
+        ],
+        "annotation_status": "Original licensed Wikimedia 960x1641 preview visually inspected, flowering/closed stages verified. 3 pixel-target overlays; no invention of mature fruits. Mobile owner QA pending."
+      }
+    ],
+    "annotation_policy": "Photo 03 and 04 are FRUITING pappus; newly added sl6 and sl7 are early FLOWERING (short rays visible), not yellow-disc fully open or ripe fruit. All 16 arrow tips point only to actual visible structures; CC BY-SA author, license and source-page retained; owner's phone overlay check still pending."
+  },
+  "diagnostic_photo_targets": [
+    "PARTLY FILLED: photographed EARLY FLOWERING horseweed capitulum has real visible white ray tips and green phyllary cup alongside printed 6-mm reference (CC BY-SA 4.0 external Wikimedia image). True fully-open flower face with exposed disc/precise ray length still optional photo gap; not a blocker for crew life-stage ID.",
+    "One leaf margin + crown in rooted autumn/winter horseweed rosette, local Texas specimen if possible",
+    "Two adjoining nodes on standing stem showing alternate leaves and marginal hairs with scale",
+    "One fruit/cypsela alone with pappus and 1 mm ruler; do not substitute a fuzzy whole seedhead",
+    "Matched-mm-scale Erigeron strigosus or philadelphicus open head versus horseweed; independent taxon validation; comparison species properly labeled"
+  ],
+  "images": [
+    {
+      "file": "images/01-winter-rosette.jpg",
+      "role": "Winter horseweed rosette, with smaller nearby Draba verna rosette visible; nonlocal Poland, DON'T label Draba as horseweed",
+      "creator": "Agnieszka Kwiecień, Nova",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_Draba_verna_2020-12-30_So%C5%82tysowice_02.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/02-upright-flowering-plant.jpg",
+      "role": "One tall upright flowering horseweed showing lower alternate leaves, narrow upper leaves and heavily branched terminal panicle",
+      "creator": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Canadese_fijnstraal_bloeiende_plant_Conyza_canadensis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/03-tiny-flower-heads.jpg",
+      "role": "Open fruiting horseweed head with white pappus; former flower-head role incorrect, photograph does not show identifiable fresh white rays",
+      "creator": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_flowerhead%2C_Canadese_fijnstraal_bloemhoofdje_%285%29.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/04-mature-pappus-seeds.jpg",
+      "role": "Later mature horseweed fruiting head with fine white pappus; broad foreground leaf cannot be certified as horseweed from crop",
+      "creator": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_seeds%2C_Canadese_fijnstraal_zaden.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    }
+  ],
+  "tags": [
+    "Asteraceae",
+    "Erigeron",
+    "Horseweed",
+    "Marestail",
+    "Conyza canadensis synonym",
+    "Pioneer annual",
+    "Stages study"
+  ],
+  "curation_status": {
+    "version": "1.2-horseweed-real-early-flowers-sixteen-arrows-20261021",
+    "last_reviewed": "2026-10-21",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "visual_status": "NEARLY COMPLETE FOR CREW: 4 original physical source photos + 2 licensed external Wikimedia early-bloom measured references (6mm and 10mm). Now genuinely illustrates flower emergence versus mature pappus. 6 illustrated teaching panels / 16 annotation overlays. Fully open yellow disc, exact ray length, detached fruit still specialist photo gaps; no local provenance claim.",
+    "installation_verified_at": "2026-10-13",
+    "installation_verification": "Checked canonical manifest and all four physical image files in content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/.",
+    "field_training_status": "FIELD_READY_PHOTO_GAPS"
+  },
+  "field_id_finalization": {
+    "status": "FIELD_READY_PHOTO_GAPS",
+    "finished_pass_date": "2026-10-20",
+    "verified_installed_photos": 4,
+    "photo_stage_breakdown": {
+      "winter_rosette": 1,
+      "mature_whole_plant": 1,
+      "fruiting_head_macros": 2,
+      "fresh_flower_head_macro": 0
+    },
+    "main_gallery_arrow_markers": 16,
+    "lesson_goal": "Crew can follow the same species from basal rosette through bolting to fine seeded heads, identify a different adjacent rosette and distinguish fleabane/goldenrod look-alikes.",
+    "five_second_field_rule": "Toothed low rosette? Follow it later. Taller single leafy stick with ALTERNATE narrow leaves and hundreds of very small terminal heads? Horseweed likely. Tiny pale rays need a hand lens. Late fluffy pappus is not flower petals.",
+    "compare_in_field": [
+      {
+        "with": "Erigeron strigosus / Erigeron philadelphicus",
+        "first_check": "Larger daisy-like heads with obvious protruding white/pink/lavender rays rather than horseweed's tiny nearly rayless-looking heads.",
+        "caution": "Rosette-only plants can overlap; head characters needed."
+      },
+      {
+        "with": "Erigeron annuus",
+        "first_check": "Typically broader, more coarsely toothed lower leaves and showier rayed heads; confirm flowering plant.",
+        "caution": "Not a guaranteed leaf-only split; check the flowerhead."
+      },
+      {
+        "with": "Erigeron geiseri",
+        "first_check": "Also an annual slender-taproot fleabane but has notably longer rays, often ~3–6 mm, rather than horseweed's ~0.5–1 mm; check mature head.",
+        "caution": "Do not describe E. geiseri as a perennial; its species card documents annual root."
+      },
+      {
+        "with": "Erigeron modestus",
+        "first_check": "Woody persistent root crown and showier heads rather than horseweed's annually produced tall leafy stem.",
+        "caution": "Roots may be inaccessible; compare flowering and stem structure as well."
+      },
+      {
+        "with": "Solidago spp.",
+        "first_check": "Showy golden-yellow composite heads vs pale inconspicuous horseweed rays.",
+        "caution": "Inflorescence outline alone can be misleading, especially before bloom."
+      }
+    ],
+    "crew_photo_checklist": [
+      "Take rooted rosette photo with all leaf tips visible and nearby plants separated.",
+      "Record TWO successive leaf nodes halfway up the bolt for alternate arrangement.",
+      "Take full stalk and top-of-panicle photograph together, then a flowerhead with ruler.",
+      "Come back later for one pappus-headed specimen and one detached fruit at 1 mm scale."
+    ],
+    "actual_image_review": "Four JPEGs inspected on 2026-10-20; previous photo 03 showed fruit pappus, not fresh ray florets. Main photo 01 includes separate Draba verna. Overlay marker tips on visible structures only; owner mobile verification pending.",
+    "sources": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023708",
+      "https://blogs.cornell.edu/weedid/rosette-forming-weeds-of-early-spring/",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:203653-1"
+    ],
+    "remaining_photo_gaps": [
+      "Optional fully opened flower face with exposed yellow central disc and ray measurement",
+      "Single detached dry cypsela and pappus at 1-mm scale",
+      "Local matched stem-node and rosette series",
+      "Owner final phone arrow review"
+    ],
+    "county_native_range_status_unchanged": "UNRESOLVED",
+    "horseweed_early_bloom_reference": {
+      "source": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_sl7.jpg",
+      "license": "CC BY-SA 4.0",
+      "credit": "Stefan.lefnaer",
+      "physical_file_installed": false,
+      "shown": "Emerging pale ray floret tips and green phyllary cup with printed 6mm bar",
+      "not_shown": "Fully open exposed central disc, 1-mm detached cypsela",
+      "work_completed": "Previously only pappus macro and full habit; now a true early flowering head source is on photo-first card."
+    }
+  },
+  "field_photo_quickcheck": {
+    "heading": "Horseweed — actual early flowers versus ripe seed fluff",
+    "featured_photo_indices": [
+      0,
+      1,
+      4,
+      2
+    ],
+    "steps": [
+      "Start at the toothed rosette; one small, separate Draba rosette is visible beside it.",
+      "Follow NARROW ALTERNATE leaves up a tall stalk and its little terminal flowering branches.",
+      "Look for freshly EMERGING SHORT WHITE RAY TIPS above GREEN PHYLLARIES in the new measured flowering photo. These are florets, NOT mature seed pappus.",
+      "Contrast the old flower-head photo (actually a FRUITING head) where white pappus bristles spread to disperse dry seeds."
+    ],
+    "field_rule": "Rosette → upright narrow-leaved stalk → 6-mm macro with short emerging pale rays → pappus-stage fruiting head. Flowerhead face fully exposed and fruit microscopy remain optional specialist upgrades.",
+    "warning": "Don't call the new early-opening floral white tips 'seeds'; don't label the old pappus macro as flowers. Source is Austria, not county range evidence."
+  },
+  "gallery_external_refs": [
+    {
+      "gallery_species_id": "erigeron-canadensis",
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Erigeron_canadensis_sl7.jpg/960px-Erigeron_canadensis_sl7.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_sl7.jpg",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "public_reuse": "yes",
+      "source_location": "Vienna, Austria (nonlocal)",
+      "role": "Exact-taxon photographed horseweed: close side view of early flowering capitulum with short pale-white ray floret tips, green involucre and a separate PRINTED 6 mm scale bar.",
+      "rights_notes": "Source CC BY-SA 4.0; annotations are web overlays; source image not edited. No Texas provenance, printed scale is not an independently measured head length."
+    },
+    {
+      "gallery_species_id": "erigeron-canadensis",
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Erigeron_canadensis_sl6.jpg/960px-Erigeron_canadensis_sl6.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_canadensis_sl6.jpg",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "public_reuse": "yes",
+      "source_location": "Vienna, Austria (nonlocal)",
+      "role": "Exact-taxon horseweed panicle branch with smaller closed buds and developing flower heads; printed 10 mm reference below.",
+      "rights_notes": "Source CC BY-SA 4.0; web overlay only. Some heads have emerging white tips, others closed; DO NOT claim fully expanded yellow discs from these photos."
+    }
+  ]
+}

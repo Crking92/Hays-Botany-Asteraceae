@@ -1,0 +1,134 @@
+{
+  "id": "coreopsis-wrightii",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "species": "wrightii",
+  "scientific_name": "Coreopsis wrightii",
+  "authority": "(A.Gray) H.M.Parker ex E.B.Sm.",
+  "common_name": "Rock Tickseed / Wright's Coreopsis",
+  "taxonomic_note": "Current Kew accepts Coreopsis wrightii as a distinct species. Older ITIS/FNA treatments have synonymized it with Coreopsis basalis; the project follows current Kew while retaining the synonymy conflict in the learner.",
+  "look_here_first": "Start with life cycle, foliage, and ray pattern. Rock tickseed is an annual with narrow linear leaves and slender branching stems; the yellow ray florets usually carry rusty-red/brown color at the base.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Mason"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — project Master Plant Pool records two wild Hays-local observations. Travis — Balcones Canyonlands Preserve plant list includes Coreopsis wrightii. Mason — Mason Mountain WMA vascular flora includes a voucher for C. wrightii.",
+    "range_guardrail": "County evidence is exact; current Kew species concept retained despite older synonym treatments."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual",
+      "erect, much-branched slender habit",
+      "narrow linear leaves",
+      "yellow ray florets with rusty-red to maroon basal markings",
+      "ray tips 3-toothed",
+      "yellow-brown disk",
+      "calcareous or sandy prairie/roadside habitat"
+    ],
+    "comparison_training": "Compared with C. basalis, C. wrightii is generally narrower-leaved and often more slender, with the classic yellow rays carrying basal reddish-brown marks. Because older floras merge the taxa, final ID should use a full character set rather than ray color alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Coreopsis basalis",
+      "Coreopsis tinctoria"
+    ],
+    "key_distinctions": "Compared with C. basalis, C. wrightii is generally narrower-leaved and often more slender, with the classic yellow rays carrying basal reddish-brown marks. Because older floras merge the taxa, final ID should use a full character set rather than ray color alone."
+  },
+  "curation_status": {
+    "version": "1.0-b067",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 2
+  },
+  "images": [
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20hbt1.JPG",
+      "role": "Whole plant / flowering habit",
+      "creator": "University of Texas at Austin BIO406D PlantPics",
+      "license": "Private-study reference; public reuse not verified",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+      "source_type": "UT Austin BIO406D PlantPics",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20infl1.JPG",
+      "role": "Flower head / rusty-red basal ray markings",
+      "creator": "University of Texas at Austin BIO406D PlantPics",
+      "license": "Private-study reference; public reuse not verified",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+      "source_type": "UT Austin BIO406D PlantPics",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20lf%20arrg.JPG",
+      "role": "Leaf/stem arrangement / narrow linear foliage",
+      "creator": "University of Texas at Austin BIO406D PlantPics",
+      "license": "Private-study reference; public reuse not verified",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+      "source_type": "UT Austin BIO406D PlantPics",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/joey-review017-7a128882eed200be.jpg",
+      "role": "Yellow and maroon Coreopsis flower heads plus flowering habit; phyllaries still require a separate detail view (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/364229979",
+      "source_observation": "https://www.inaturalist.org/observations/205960063",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364229979/large.jpeg",
+      "source_determination": "Coreopsis wrightii",
+      "photo_id": "364229979",
+      "observation_id": "205960063",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    },
+    {
+      "file": "images/joey-review017-ec13cf404b10476a.jpg",
+      "role": "Yellow and maroon Coreopsis flower heads plus flowering habit; phyllaries still require a separate detail view (source determination provisional; no verified anatomy arrows)",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "license_version_note": "License shorthand per image inventory, check original iNaturalist photo for exact version",
+      "source_platform": "Joey Santore iNaturalist Texas observation",
+      "source_page": "https://www.inaturalist.org/photos/364230156",
+      "source_observation": "https://www.inaturalist.org/observations/205960063",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364230156/large.jpeg",
+      "source_determination": "Coreopsis wrightii",
+      "photo_id": "364230156",
+      "observation_id": "205960063",
+      "photo_review": "Actual photograph visually screened via JPEG contact sheet; independent botanical identity pending",
+      "anatomy_arrows": "none; exact structures not expert-confirmed",
+      "study_use": "Private noncommercial educational botany project only, with Joey Santore attribution",
+      "public_reuse": "Noncommercial CC BY-NC conditions; commercial reuse not cleared",
+      "modifications": "Re-encoded JPEG and removed EXIF metadata; creator and original CC BY-NC retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Private-study FAST-FILL using the UT Austin BIO406D PlantPics diagnostic set. Scientific taxonomy/range status unchanged. Public reuse is not verified; replace or clear before any public release."
+  },
+  "photo_note": "Joey Santore photo additions are rights-limited CC BY-NC and botanical ID provisional."
+}

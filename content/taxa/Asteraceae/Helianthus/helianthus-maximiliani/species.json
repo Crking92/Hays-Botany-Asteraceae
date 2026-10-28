@@ -1,0 +1,188 @@
+{
+  "id": "helianthus-maximiliani",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
+  "scientific_name": "Helianthus maximiliani",
+  "authority": "Schrad.",
+  "common_name": "Maximilian Sunflower",
+  "field_group": "Tall yellow composite / sunflower complex",
+  "project_tracker_diagnostic": "Rhizomatous perennial; many narrow 1-strong-veined, commonly V-folded and arching leaves, sessile to short-petioled; usually nearly entire margins; elongated upper-stem head array and long narrow gradually tapered phyllaries.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Rhizomatous perennial; often persists as a colony or patch with multiple shoots in successive seasons.",
+    "habit": "Tall upright, usually rough-hairy stems, with leaves numerous along the stem; branching and height vary.",
+    "leaf_arrangement": "Mostly alternate along the stem; a few lower nodes may be opposite or subopposite. Arrangement alone is not a clean separator from H. annuus.",
+    "leaves": "Long narrow lanceolate blades (commonly ca. 10–30 × 2–5.5 cm), usually folded upward along the midrib (conduplicate) and curving/arching outward or downward; margins usually entire, occasionally finely toothed.",
+    "leaf_venation": "One dominant visible midvein, often producing a trough- or V-shaped blade; contrast broad commonly 3-basal-veined H. annuus.",
+    "leaf_attachment": "Sessile or short-petioled, typically 0–2 cm; inspect a node and compare with the obvious petiole of annual sunflower.",
+    "heads": "Usually 3–15 yellow-rayed heads, often spaced up the upper stem in a long raceme- or spike-like pattern, rather than just a terminal branching spray.",
+    "phyllaries": "Long narrow lanceolate bracts (ca. 2–3 mm wide), narrowing gradually into thin, long-attenuate tips; inspect mature head sides and undersides.",
+    "fruit": "Small flattened cypselas with paired scales/awns; not a reliable split from H. annuus.",
+    "best_field_traits": [
+      "long, narrow, often folded V-shaped blade with one strong midvein",
+      "very short leaf stalk or sessile insertion; often nearly untoothed margins",
+      "upright rhizomatous perennial, often forming colonies",
+      "long slender gradually tapering phyllaries beneath heads"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · tall upright sunflower shoots with yellow terminal and upper-stem flowerheads against the sky; leaf insertion too distant to confirm",
+      "creator": "(c) smwhite, some rights reserved (CC BY-NC), uploaded by smwhite",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/130192",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1456982/large.JPG",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "1456982",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · numerous long narrow arching leaf blades with prominent folded or V-shaped profile; stem attachment not shown clearly",
+      "creator": "(c) Mike Fenoglio, some rights reserved (CC BY-NC), uploaded by Mike Fenoglio",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/130192",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4227698/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "4227698",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Look closer · large yellow-rayed sunflower head with central disk and a hand for scale; underside phyllaries not visible",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401702818",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737323107/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401702818",
+      "photo_id": "737323107",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · yellow composite head above narrow green stem leaves in open grass; a near-repeat of the same field observation",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401702818",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737323151/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401702818",
+      "photo_id": "737323151",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · another flowering stem view from the same observation; narrow drooping leaves visible, not a separate species determination",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401702818",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737323190/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401702818",
+      "photo_id": "737323190",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-leaf-arrangement---Matt-Lavin--CC-BY-SA.jpg",
+      "role": "diagnostic leaf insertion and narrow folded blades",
+      "creator": "Matt Lavin",
+      "license": "cc-by-sa-4.0 (NC State attribution)",
+      "source_page": "https://plants.ces.ncsu.edu/plants/helianthus-maximiliani/",
+      "photo_id": "",
+      "platform": "NC State Extension Plant Toolbox",
+      "geography": "not recorded",
+      "direct_image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-leaf-arrangement---Matt-Lavin--CC-BY-SA.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms and linked attribution",
+      "media_storage": "externally hosted verified exact-species link; not a local project image",
+      "external_reference": true,
+      "visual_role_reviewed": "2026-10-08"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-calyx---Matt-Lavin--CC-BY-SA.jpg",
+      "role": "diagnostic mature underside phyllary macro, long narrow and gradually pointed",
+      "creator": "Matt Lavin",
+      "license": "cc-by-sa-4.0 (NC State attribution)",
+      "source_page": "https://plants.ces.ncsu.edu/plants/helianthus-maximiliani/",
+      "photo_id": "",
+      "platform": "NC State Extension Plant Toolbox",
+      "geography": "not recorded",
+      "direct_image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-calyx---Matt-Lavin--CC-BY-SA.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms and linked attribution",
+      "media_storage": "externally hosted verified exact-species link; not a local project image",
+      "external_reference": true,
+      "visual_role_reviewed": "2026-10-08"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-helianthus-id-polish",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-08",
+    "photo_metadata_count": 7,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "joey_enhanced": true,
+    "video_study_media_count": 2,
+    "comparison_partner": "helianthus-annuus",
+    "visual_polish_status": "leaf_attachment_and_phyllary_pair_in_gallery__matched-scale_local_photo_optional",
+    "remote_diagnostic_photo_count": 2
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "29:30",
+      "record_id": "N4yq5Z1_0Eo-37",
+      "role": "sessile/conduplicate leaf",
+      "source_taxon": "Helianthus maximiliani",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/helianthus-maximiliani_sessile-folded-leaf-source-label_29-30.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "29:40",
+      "record_id": "N4yq5Z1_0Eo-38",
+      "role": "capitulum / narrow multiseriate phyllaries",
+      "source_taxon": "Helianthus maximiliani",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/helianthus-maximiliani_head-phyllaries_29-40.jpg"
+    }
+  ],
+  "diagnostic_comparison": {
+    "look_first": "Mid-stem leaf: narrow + almost stalkless + one strong midvein + V-folded blade = Maximilian; inspect more than one node.",
+    "separate_from": "helianthus-annuus",
+    "confirm_with": "Mature flowering heads spaced along upper stem, each with long narrow gradually attenuate phyllaries.",
+    "caution": "Some leaves are subopposite; small teeth may occur. Do not diagnose from head color or colony habit alone."
+  },
+  "source_audit": {
+    "date": "2026-10-08",
+    "reference": "Flora of North America",
+    "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066889",
+    "scope": "Morphology and pairing only. County native-range status left unchanged."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "plectocephalus-americanus",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Plectocephalus",
+  "scientific_name": "Plectocephalus americanus",
+  "authority": "(Nutt.) D.Don",
+  "common_name": "American Basketflower",
+  "project_tracker_diagnostic": "Tall annual with very large lavender-pink discoid heads and striking basket-like overlapping involucral bracts; older name Centaurea americana is still widely encountered.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Tall erect branching herb.",
+    "leaves": "Alternate, lanceolate to oblong-lanceolate, entire to toothed/lobed.",
+    "heads": "Large solitary lavender-pink heads made only of disc florets; outer florets enlarged and showy.",
+    "phyllaries": "Broadly overlapping, papery/fringed bracts create the distinctive basket appearance.",
+    "best_field_traits": [
+      "huge pink-lavender head",
+      "basket-like involucral bracts",
+      "tall annual habit",
+      "no ray florets"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  },
+  "taxonomy_note": "Accepted as Plectocephalus americanus; Centaurea americana is a homotypic synonym."
+}

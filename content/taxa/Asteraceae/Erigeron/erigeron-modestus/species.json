@@ -1,0 +1,243 @@
+{
+  "id": "erigeron-modestus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron modestus",
+  "authority": "A.Gray",
+  "common_name": "Plains fleabane",
+  "look_here_first": "LOOK HERE FIRST: Plains fleabane is typically a SHORT perennial (8–40 cm) with a WOODY or LIGNIFIED taproot/crown, often persistent old stem bases. Early spring shoots can appear annual and bear a single relatively large showy head; later flowering stems often branch into many smaller heads. Lower stem hairs and ray lengths overlap E. geiseri, so a daisy-only photo is not a reliable split. Examine the mature base, seasonal branching, leaves, stem hairs and fresh phyllaries together. An uncertain plant stays Erigeron sp.",
+  "morphology_keys": {
+    "root": "Woody perennial taproot and persistent basal stems",
+    "head": "About 24-65, occasionally 170, rays 4-7 mm (sometimes 11 mm); involucre 3-4.5 mm",
+    "habit": "Early growth may have one large head; late growth often many smaller heads"
+  },
+  "comparisons": {
+    "confused_with": [
+      "Erigeron geiseri"
+    ],
+    "key_distinctions": "E. geiseri has a slender annual root and characteristic lower versus upper stem hairs; rays and flowering time overlap.",
+    "cautions": "Variable polyploid complex; voucher sometimes needed. E. plateauensis and E. lobatus var. warnockii are synonyms.",
+    "field_recognition": [
+      {
+        "other": "Erigeron geiseri",
+        "field_split": "Small annual with slender nonwoody root; lower/upper hairs overlap. Photograph roots to decide."
+      },
+      {
+        "other": "Erigeron tenuis",
+        "field_split": "Early small white heads, sometimes reddish lower stems; must check woody crown, leaf bases and mature pappus."
+      },
+      {
+        "other": "Erigeron philadelphicus",
+        "field_split": "Clasping leaf ears and many fine rays; a woody persistent crown is much more typical of mature plains fleabane."
+      }
+    ],
+    "caution": "FNA calls E. modestus a variable polyploid complex; an unclear or incomplete root/crown may require a collected voucher; no county-range certification inferred.",
+    "root_crown_confirmation_note": "The genus key contrasts mature lignified persistent crown with geiseri's slender annual root. Current E. modestus photographs show bloom and pappus, not the root crown. No licensed close-up found at the required species-specific standard; do not claim photographic closeout."
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 433,
+    "target_zone_status": "UNRESOLVED",
+    "include_in_native_only_metrics": false
+  },
+  "diagnostic_image_needs": [
+    "Root crown",
+    "Persistent stems",
+    "Phyllaries and rays with scale",
+    "Seasonal plant architecture"
+  ],
+  "images": [
+    {
+      "file": "images/inat-717619901-first-photo.jpg",
+      "role": "Flowering stems with small white-rayed heads in mixed vegetation; basal leaves and phyllary macro still needed",
+      "creator": "Suanne Pyle",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/717619901",
+      "observation_url": "https://www.inaturalist.org/observations/391625120",
+      "observation_id": 391625120,
+      "photo_id": 717619901,
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Suanne Pyle, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/717619901/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes; retain attribution",
+      "modifications": "EXIF removed and JPEG normalized; no anatomy overlays",
+      "photo_review": "2026-10-21 pixel pass: several fresh white-rayed heads, small fruiting pappus and thin branching flowering shoots visible among grasses. Root crown not visible; plant identity relies on linked source determination, not this image alone."
+    },
+    {
+      "file": "images/gbif-manual-6131542687-8ab0fbd47.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Basal leaf crown or side view of phyllaries",
+      "creator": "Vicki Schmidt",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6131542687",
+      "gbif_occurrence_id": "6131542687",
+      "source_determination": "Erigeron modestus A.Gray",
+      "accepted_target": "Erigeron modestus",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607258923/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "2026-10-21 pixel pass: white rays, yellow disc, and neighboring mature pappus are well resolved in this photo. Root crown, basal leaves, and fine phyllary/stem hairs remain unavailable.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15",
+    "last_reviewed": "2026-10-21",
+    "field_training_status": "CREW_CLOSEOUT_DIAGNOSTIC_SPECIALIST_GAPS",
+    "visual_reviewed": true
+  },
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Two reviewed real photos with five actual-structure arrow markers; featured mobile photo-first steps added. Diagnostic root/crown, hairs, fresh phyllaries and cypsela remain PHOTO GAPS."
+  },
+  "photo_note": "First exact licensed photo physically installed 2026-10-14; fine diagnostic gallery pending. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "visual_comparison": {
+    "title": "Plains fleabane — flowers and pappus, not root proof",
+    "subtitle": "Two existing CC BY credited photos inspected; markers distinguish fresh flowers from wind-borne fruiting pappus. Neither proves the woody perennial crown.",
+    "items": [
+      {
+        "label": "1 · Branching flower stalks among grasses",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-modestus/images/inat-717619901-first-photo.jpg",
+        "caption": "Multiple white-rayed heads and some spent, fluffy seed heads amid mixed vegetation. Basal crown is hidden, so do not use this picture to demonstrate perennial root characters.",
+        "creator": "Suanne Pyle",
+        "license": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/717619901",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Fresh ray-flowered head",
+            "label_x": 4,
+            "label_y": 15,
+            "target_x": 29,
+            "target_y": 24
+          },
+          {
+            "label": "Spent head with pappus",
+            "label_x": 3,
+            "label_y": 58,
+            "target_x": 25,
+            "target_y": 47
+          }
+        ],
+        "annotation_status": "visible flower and fruit targets qa pass",
+        "why_it_matters": "Crew sees the plant's look in a grassy site, and how pappus-stage heads differ from flowers.",
+        "scientific_name": "Erigeron modestus"
+      },
+      {
+        "label": "2 · Fresh flower beside mature pappus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-modestus/images/gbif-manual-6131542687-8ab0fbd47.jpg",
+        "caption": "One clearly open head has white outer ray florets and yellow inner disc; fuzzy head to the left is fruiting pappus, not extra white petals. Crown and diagnostic phyllary macros still missing.",
+        "creator": "Vicki Schmidt",
+        "license": "CC BY",
+        "source_page": "https://www.gbif.org/occurrence/6131542687",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "White ray florets",
+            "label_x": 80,
+            "label_y": 15,
+            "target_x": 57,
+            "target_y": 30
+          },
+          {
+            "label": "Yellow disc florets",
+            "label_x": 75,
+            "label_y": 60,
+            "target_x": 55,
+            "target_y": 38
+          },
+          {
+            "label": "Mature white pappus",
+            "label_x": 4,
+            "label_y": 15,
+            "target_x": 34,
+            "target_y": 38
+          }
+        ],
+        "annotation_status": "visible flower and fruit targets qa pass",
+        "why_it_matters": "Strong first-stage comparison: the familiar daisy face becomes a white feathery fruit head; do not confuse those two stages.",
+        "scientific_name": "Erigeron modestus"
+      }
+    ],
+    "annotation_policy": "All targets have visible tissues in the pixels. No invented woody-crown, hair, or phyllary arrows; owner mobile arrow-tip signoff pending."
+  },
+  "crew_field_sequence": [
+    "Examine the rooted base: older woody crown and persistent basal stems are stronger clues than head color.",
+    "Inspect leaf shape and diminishing upper leaves; do not assign overlapping grass leaves in a photo to the fleabane.",
+    "Compare fresh rays, phyllaries, and fine hairs with E. geiseri using a lens and ruler.",
+    "A showy daisy-like head by itself cannot separate E. modestus from E. geiseri.",
+    "If roots are unavailable, record Erigeron sp. or a provisional comparison; preserve unresolved county native-range status."
+  ],
+  "diagnostic_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635",
+  "field_photo_quickcheck": {
+    "heading": "Plains fleabane — crown before confidence",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "The existing photo pair shows FRESH white-rayed heads versus later fluffy pappus; these are different reproductive stages.",
+      "Inspect an exposed root crown for woody older tissue, persistent stem stubs or multiple seasonal shoots.",
+      "Confirm season, branching and stem-hair pattern with a lens and ruler, comparing Geiser's annual slender root when available."
+    ],
+    "field_rule": "Woody persistent crown + appropriate seasonal habit supports plains fleabane. Flower rays, color or pappus alone are not decisive.",
+    "warning": "Neither installed photograph shows the diagnostic WOODY perennial crown. No false root arrow is placed."
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Mature woody perennial crown and remains of older stems",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635"
+    },
+    {
+      "role": "Same rooted individual early one-head vs later many-head habit",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635"
+    },
+    {
+      "role": "Lower and upper stem hairs with millimeter ruler",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635"
+    },
+    {
+      "role": "Involucre side and open rays with scale",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635"
+    },
+    {
+      "role": "Single fruit and pappus outer/inner bristles with 1-mm scale",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066635"
+    }
+  ],
+  "crew_closeout": {
+    "status": "PRACTICAL_FIELD_KEY_DONE_MACRO_EVIDENCE_PENDING",
+    "comparison": "Geiseri annual slender herbaceous taproot versus modestus woody perennial root/crown and persistent stems",
+    "observed_reference": "Two licensed photos with flower rays, fruit pappus and branching vegetation; basal crown not shown",
+    "unverified_critical_trait": "No decisive woody crown macro; existing flower photos hide plant base.",
+    "next_photo_spec": "Mature, exact-taxon E. modestus showing root and lignified perennial crown with old stem bases and ruler",
+    "source_guards": "Copyrighted 2015 research figure by Noyes et al. is research-only and not copied as photo. No local native status or taxon acceptance flags updated.",
+    "crew_decision": "If base hidden, leave at Erigeron sp. instead of claiming geiseri or modestus on flower color alone.",
+    "photo_status": "NEEDS_SPECIES_EXACT_CLOSEUP, NOT A BLOCKER TO CREW LESSON"
+  }
+}

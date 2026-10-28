@@ -1,0 +1,54 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Chloracantha",
+  "common_group": "Spiny chloracantha / spiny aster",
+  "project_scope": {
+    "selection_mode": "small-genus structural learner batch",
+    "species_ids": [],
+    "species_count": 0,
+    "source_taxa": [
+      "Chloracantha spinosa"
+    ],
+    "note": "C. spinosa is a high-priority live source concept but is not currently installed in data/manifest.json. This genus lesson is recognition scaffolding only and does not promote the species."
+  },
+  "recognition": {
+    "where_to_look_first": "Ignore the flower first and look at the plant skeleton: erect green photosynthetic stems arise from rhizomes, leaves are alternate but drop early, and sharply ascending side branches can be reduced to thorn-like tips. Then confirm small daisy-like heads with white rays and yellow disks.",
+    "priority": [
+      "green photosynthetic nearly leafless stems",
+      "rhizomatous colony-forming habit",
+      "sharply ascending lateral branches",
+      "branchlets sometimes modified into thorns",
+      "alternate narrow leaves present mainly on young growth and early deciduous",
+      "small white-rayed yellow-disk flower heads"
+    ]
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "C. spinosa — coarse, rhizomatous, often nearly leafless perennial/subshrub; green broom-like stems and sharply ascending branches are the fastest habit cue.",
+      "Young growth can carry narrow oblanceolate leaves, but mature flowering plants may look almost leafless because those leaves are early deciduous.",
+      "Do not require every branch to be thorny: some lateral branches become thorns, but thorn expression is variable."
+    ],
+    "family_context": "The white-rayed heads confirm Asteraceae, but the combination of persistent green photosynthetic stems, ephemeral leaves, rhizomatous colonies, and occasional thorn-like branches is the stronger field-recognition package."
+  },
+  "visual_anchors": [],
+  "visual_needs": [
+    "whole colony showing rhizomatous clumping and erect green broom-like stems",
+    "whole flowering stem showing the nearly leafless mature architecture",
+    "young stem with alternate narrow leaves before they drop",
+    "closeup of a lateral branch modified into a thorn",
+    "closeup of a white-rayed yellow-disk head and involucre",
+    "annotated comparison showing ordinary ascending branch versus thorn-modified branch"
+  ],
+  "visual_status": "needs_exact_displayable_images",
+  "source_notes": [
+    "Nesom's Chloracantha treatment describes rhizomatous perennial subshrubs with erect green stems, sharply ascending lateral branches sometimes modified as thorns, alternate early-deciduous leaves, and radiate heads.",
+    "Texas A&M's Texas rangeland treatment independently emphasizes green striped stems, brief spring foliage, rhizomatous colonies, occasional spines, and white rays with yellow disks."
+  ],
+  "curation_status": {
+    "version": "1.0-small-genus-asteraceae-003",
+    "genus_audit": "adequate",
+    "species_work_independent": true,
+    "last_reviewed": "2026-10-04"
+  }
+}

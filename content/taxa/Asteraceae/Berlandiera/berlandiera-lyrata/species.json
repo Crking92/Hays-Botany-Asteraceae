@@ -1,0 +1,70 @@
+{
+  "id": "berlandiera-lyrata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Berlandiera",
+  "species": "lyrata",
+  "scientific_name": "Berlandiera lyrata",
+  "authority": "Benth.",
+  "common_name": "Chocolate daisy / lyreleaf greeneyes",
+  "look_here_first": "LOOK HERE FIRST: Examine the flower head from both sides. The yellow ray florets have reddish-maroon veins underneath, and the head is cupped by broad overlapping green involucral bracts (phyllaries). Look for a dark maroon disk and soft, often lyrately lobed gray-green basal leaves. Smell may be chocolate-like, especially in the morning, but do not identify from fragrance or yellow rays alone.",
+  "taxonomy_notes": "POWO accepts Berlandiera lyrata Benth. as a distinct species. Berlandiera incisa is a synonym. Do not automatically fold Berlandiera lyrata var. macrophylla into this card: POWO treats Berlandiera macrophylla as an accepted separate species; check the actual concept.",
+  "synonyms": [
+    "Berlandiera incisa Torr. & A.Gray"
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 132; workflow/INSTALLER_PREFLIGHT_QUEUE_2026-10-15.json mass-01",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Source-pool admission independent of county range; Texas nativity alone is not a three-target-county PASS. Preserve any prior internal range evidence."
+  },
+  "morphology_keys": {
+    "habit": "Perennial forb with leafy basal growth and ascending flowering stalks; variable low mounding to taller growth.",
+    "leaves_attachment": "Leaves alternate, often concentrated near base, softly hairy, gray-green, obovate to spatulate or lyrately lobed; terminal leaf portion often larger than small lower lobes. Inspect the actual plant rather than assume all leaves are deeply divided.",
+    "flower_reproductive": "Solitary radiate heads on stalks, usually several yellow ray florets with maroon veins on the lower surface, surrounding a reddish-maroon disk. Broad green overlapping phyllaries form a conspicuous cup below the head.",
+    "fruit_seed": "At fruiting, distinctive green cup-like head structure persists as rays fall; confirm mature cypsela and associated bracts in a macro view.",
+    "stem_bud": "Hairy, often longitudinally striped flowering stems; check stem and leaf attachment on live material."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Berlandiera texana — may share yellow rays and dark disk; check more strongly clasping stem leaves and detailed head/leaf structures, not scent alone.",
+      "Berlandiera pumila — similar chocolate-flower relatives; compare leaf dissection, pubescence, phyllaries and mature fruit with a regional key.",
+      "Thelesperma spp. — yellow ray or rayless heads can confuse at a glance; check leaves and green cup-like involucral bracts."
+    ],
+    "key_distinctions": "Combine ray underside maroon venation, green cup-like overlapping phyllaries, maroon disk and leaf shape. One yellow head is not enough."
+  },
+  "diagnostic_image_needs": [
+    "installed_source_pending_action: head front shows yellow rays and maroon central florets, not leaf attachment (Krzysztof Ziarnek CC BY-SA 4.0).",
+    "installed_source_pending_action: underside photo clearly shows broad overlapping green phyllaries and maroon-striped ray undersides (Nadiatalent CC BY-SA 4.0).",
+    "needs_photo: whole plant and basal lyrate leaves with scale.",
+    "needs_photo: mature fruit/cypsela and head bracts with clear detail.",
+    "annotation_pending: phyllary arrow targets require coordinate verification on installed image."
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/berlandiera-lyrata-head-front-commons.jpg",
+      "role": "Exact-species head front showing yellow rays and maroon disk",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Berlandiera_lyrata_kz1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 4.0"
+    },
+    {
+      "file": "images/berlandiera-lyrata-phyllaries-underside-commons.jpg",
+      "role": "Exact-species underside showing broad green phyllaries and red-striped ray undersides",
+      "creator": "Nadiatalent",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Berlandiera_lyrata,_involucral_bracts.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 4.0"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  }
+}

@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/1093589-2
+Source research-grade observation: https://www.inaturalist.org/observations/207374903
+Photo: https://www.inaturalist.org/photos/366806657
+Attribution: (c) ndalwenhlemchunu, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Sphagneticola trilobata
+Creator: johnyochum; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6252098590
+Stored archive: hays-photo-library-mass-38994386296 :: staged_images/sphagneticola-trilobata/gbif-a945a299265a6c.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Sphagneticola trilobata
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5063175711
+Stored archive: hays-photo-library-mass-38994386296 :: staged_images/sphagneticola-trilobata/gbif-852d253858f3ab.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

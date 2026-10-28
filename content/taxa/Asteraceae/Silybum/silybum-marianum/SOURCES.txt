@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249211-1
+Source research-grade observation: https://www.inaturalist.org/observations/83002451
+Photo: https://www.inaturalist.org/photos/136304077
+Attribution: (c) goldust, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Silybum marianum
+Creator: Sue Ann Kendall; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6185942865
+Stored archive: hays-photo-library-mass-38994386296 :: staged_images/silybum-marianum/gbif-702c59f5242ce1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Silybum marianum
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6234275194
+Stored archive: hays-photo-library-mass-38994386296 :: staged_images/silybum-marianum/gbif-52cdce5aa7593f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

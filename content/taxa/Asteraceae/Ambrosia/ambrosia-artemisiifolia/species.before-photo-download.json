@@ -1,0 +1,41 @@
+{
+  "id": "ambrosia-artemisiifolia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia artemisiifolia",
+  "authority": "L.",
+  "common_name": "Common Ragweed",
+  "project_tracker_diagnostic": "Annual; lower leaves opposite and upper leaves alternate; blades 1\u20132-pinnately lobed; male heads form terminal spikes and female heads sit below in leaf axils.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect, branching herb of disturbed ground.",
+    "leaves": "Lower leaves opposite, upper leaves alternate; blades deltate to lanceolate, 1\u20132-pinnately lobed, gland-dotted.",
+    "flowers": "Separate male and female heads on the same plant; male heads in terminal spikes/racemes, female heads clustered below.",
+    "fruit": "Small burs, roughly globose to pear-shaped, with 3\u20135 short spines/tubercles.",
+    "best_field_traits": [
+      "finely divided ragweed leaves",
+      "opposite lower leaves",
+      "male spike above female heads",
+      "small burs with short spines"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

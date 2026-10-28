@@ -1,0 +1,37 @@
+{
+  "id": "xanthium-strumarium",
+  "family": "Asteraceae",
+  "genus": "Xanthium",
+  "species": "strumarium",
+  "scientific_name": "Xanthium strumarium",
+  "common_name": "Common cocklebur",
+  "look_here_first": "Look for large triangular to heart-shaped rough leaves and paired hooked spiny burs that stick to clothing; inspect burr beaks and leaf base. Multiple Xanthium species/concepts need scrutiny.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Xanthium%20strumarium",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Taxonomy/range of Xanthium strumarium complex is unsettled; photograph from Ukraine, not reliable evidence of Texas identity or origin.",
+  "images": [
+    {
+      "file": "images/commons-xanthium-strumarium.jpg",
+      "role": "Provisional cocklebur visual recognition in a named species photo; burr morphology and local species complex unresolved.",
+      "creator": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Xanthium_strumarium_2026_G1.jpg",
+      "study_use": "Private noncommercial botanical learner",
+      "public_reuse": "Attribution and source license must be retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

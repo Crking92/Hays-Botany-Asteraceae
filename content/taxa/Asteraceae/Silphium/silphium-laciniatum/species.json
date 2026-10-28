@@ -1,0 +1,111 @@
+{
+  "id": "silphium-laciniatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Silphium",
+  "species": "laciniatum",
+  "scientific_name": "Silphium laciniatum",
+  "authority": "L.",
+  "common_name": "Compass plant",
+  "look_here_first": "Look at the basal leaves first: huge, stiff, deeply pinnatifid blades cut almost to the midrib into narrow lobes. Then check the towering flowering stem and yellow ray-and-disk heads. Leaf north-south orientation is variable and not diagnostic by itself.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Master Plant Pool/source-pool membership",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Prior B064 review could not confirm three native target-zone counties; Hays/Purola record represents introduced planting, not native range evidence.",
+    "range_guardrail": "Do not count planted compass plants or state-level Texas nativity as target-county native proof."
+  },
+  "morphology_keys": {
+    "life_cycle": "Long-lived perennial",
+    "best_field_traits": [
+      "Massive deeply pinnatifid basal leaves with narrow lobes.",
+      "Very tall erect flowering stalk, often above a basal leaf rosette.",
+      "Yellow ray florets and central disk florets in sunflower-like heads.",
+      "Stiff coarse foliage; inspect leaf dissection rather than flower color.",
+      "Leaves sometimes held approximately north-south, but orientation alone is unreliable."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Silphium radula",
+      "Silphium albiflorum",
+      "Silphium integrifolium"
+    ],
+    "key_distinctions": "S. radula has broader rough leaves rather than the extremely deeply dissected compass leaves. S. albiflorum has white rays and different leaf architecture. S. integrifolium has broad mostly entire leaves; historic Central Texas variety names need concept-level reconciliation.",
+    "warning": "Separate cultivated local plants from native county occurrences."
+  },
+  "images": [
+    {
+      "file": "images/silphium-laciniatum-provisional-face.jpg",
+      "role": "Recognize · tall branched flowering stalks bearing yellow ray-and-disk heads, seen from below; distinctive basal leaves not shown",
+      "creator": "Frank Mayfield",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_2.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/6/69/Silphium_laciniatum_leaves_%289292304354%29.jpg",
+      "role": "Deeply pinnatifid basal leaves (diagnostic view)",
+      "creator": "Steve Law (peganum)",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_leaves_(9292304354).jpg",
+      "source_record_id": "Flickr 9292304354",
+      "study_use": true,
+      "public_reuse": true
+    },
+    {
+      "file": "images/library-review027-bd42c17bd96a7a8.jpg",
+      "role": "Confirm clue · broad green leaf deeply cleft into long narrow lobes toward the midrib; mature entire basal leaf and stalk not in frame",
+      "requested_diagnostic_view": "Show the unusually deeply dissected leaf",
+      "creator": "Piotr",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6551317959",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649050776/original.jpg",
+      "source_determination": "Silphium laciniatum",
+      "source_observation_id": "6551317959",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/silphium-laciniatum/gbif-68a8255573d8df.jpg",
+      "archive_image_sha256": "aa7fbc2af7a74038c496555f79c487e3101c1a5ee0b2c9b5ee41143343ac7e34",
+      "image_dimensions": [
+        1054,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-08",
+    "note": "Two complementary diagnostic views: existing flowering branches and remote Wikimedia basal leaf photograph; local installation pending."
+  },
+  "diagnostic_image_plan": [
+    "Whole plant with basal rosette and tall stalk",
+    "Basal leaf front showing deep pinnatifid lobes",
+    "Leaf attachment and rough surface",
+    "Head front and side",
+    "Mature fruit and phyllaries"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/silphium-laciniatum/draft.json; research-queue.json B064",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "manual_library_install_027": "2026-10-16"
+  },
+  "photo_note": "Flowering branch image preserved; second exact-species Steve Law CC BY-SA 2.0 remote basal-leaf photograph shows deeply pinnatifid leaves. Local installation pending. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

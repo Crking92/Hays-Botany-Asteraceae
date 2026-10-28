@@ -1,0 +1,89 @@
+{
+  "id": "aphanostephus-riddellii",
+  "family": "Asteraceae",
+  "genus": "Aphanostephus",
+  "species": "riddellii",
+  "scientific_name": "Aphanostephus riddellii",
+  "common_name": "Riddell's dozedaisy",
+  "look_here_first": "Small daisy heads with narrow white to pale ray florets, yellow disk and finely dissected to narrow leaves; inspect head bracts and fruit before separating similar daisies.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_036": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/177843-1",
+  "images": [
+    {
+      "file": "images/inat-7847811.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) ellen hildebrandt, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/7847811",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review036-f1e6a341895c26e.jpg",
+      "role": "Many small white ray-flowered capitula mixed with slender finely divided foliage on the living plant; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Chet Burrier",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6353233587",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668079880/original.jpg",
+      "source_determination": "Aphanostephus riddellii",
+      "source_observation_id": "6353233587",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/aphanostephus-riddellii/gbif-6e4ff0f974007f.jpg",
+      "archive_image_sha256": "b81bd6b0c5da6ed92b737e9bffd13e6bcfc9222728b9a1daff90607cccb0e79d",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review036-97f7cba03b6275e.jpg",
+      "role": "Flowering head arrangement and multiple white ray flowers showing species habit; phyllaries need later macro; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Eric Knight",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/1229615513",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563791/original.jpg",
+      "source_determination": "Aphanostephus riddellii",
+      "source_observation_id": "1229615513",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/aphanostephus-riddellii/gbif-dc0b58475e23ee.jpg",
+      "archive_image_sha256": "b518b080eb6fce51ef3d2bdbcc581d861f4d94e35d9a73aeb14e4096e64d7876",
+      "image_dimensions": [
+        717,
+        960
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

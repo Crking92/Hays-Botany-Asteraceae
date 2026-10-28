@@ -1,0 +1,37 @@
+{
+  "id": "taraxacum-erythrospermum",
+  "family": "Asteraceae",
+  "genus": "Taraxacum",
+  "species": "erythrospermum",
+  "scientific_name": "Taraxacum erythrospermum",
+  "common_name": "Red-seeded dandelion (introduced species complex)",
+  "look_here_first": "Recognize a leafless stalk with a fully ligulate yellow composite head and basal lobed leaf rosette; verify red-brown mature achenes and beak/pappus details.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Taraxacum%20erythrospermum",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Taraxacum microspecies taxonomy can be difficult. Treat the photo's stated species as provisional; this is introduced weed/comparison only.",
+  "images": [
+    {
+      "file": "images/commons-taraxacum-erythrospermum.jpg",
+      "role": "Provisional fruit/pappus photograph supporting seed-color inspection; rosette and flower not fully represented.",
+      "creator": "jkirkhart35 (Jerry Kirkhart)",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Taraxacumerythrospermum.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "Creator/source/license attribution required for reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

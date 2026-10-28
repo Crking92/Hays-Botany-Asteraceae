@@ -1,0 +1,84 @@
+{
+  "id": "vernonia-x-guadalupensis",
+  "entry_type": "hybrid",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "species": "guadalupensis",
+  "scientific_name": "Vernonia × guadalupensis",
+  "authority": "A.Heller",
+  "common_name": "Guadalupe ironweed",
+  "hybrid_formula": "Vernonia baldwinii × Vernonia lindheimeri",
+  "taxonomic_note": "Current Kew POWO accepts Vernonia × guadalupensis as a natural hybrid. Some modern regional treatments emphasize that the name represents recurrent hybrid populations rather than a single independent lineage.",
+  "look_here_first": "Expect an intermediate ironweed. Plants occur where western ironweed and woolly ironweed meet, with foliage, hairiness, leaf width, and head characters falling between the parents.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — UT herbarium index records Vernonia baldwinii × V. lindheimeri. Williamson — Berry Springs Park hybrid population documented by UT Plant Resources Center. Kerr — type/isotype of Vernonia guadalupensis collected at Kerrville.",
+    "range_guardrail": "Hays Purola hybrid record is explicitly introduced and is not counted."
+  },
+  "morphology_keys": {
+    "family_pattern": "Asteraceae head made entirely of purple disc florets; no ray florets.",
+    "best_field_traits": [
+      "perennial ironweed",
+      "purple discoid flower heads",
+      "intermediate leaf width and hairiness",
+      "intermediate between V. baldwinii and V. lindheimeri",
+      "often found where parent habitats meet",
+      "mature flowering material and nearby parents are important for confident ID"
+    ],
+    "comparison_training": "Do not force intermediate ironweeds into one parent. V. lindheimeri has narrow strongly revolute leaves with dense white hairs beneath; V. baldwinii has broader less-woolly foliage. The hybrid spans the middle."
+  },
+  "curation_status": {
+    "version": "1.0-b089",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1,
+    "external_first_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/inat-first-208077496.jpg",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/208077496",
+      "observation_url": "https://www.inaturalist.org/observations/122867457",
+      "photo_id": "208077496",
+      "observation_id": "122867457",
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Cleveland Powell, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/208077496/large.jpeg",
+      "image_dimensions": [
+        1024,
+        768
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, attribution required",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": "none; targets unverified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "One exact-taxon Research Grade photo provisionally installed; morphological teaching views need visual review.",
+    "missing_diagnostic_views": [
+      "Species-diagnostic macros and visually checked morphology"
+    ]
+  },
+  "photo_note": "First-pass CC-licensed observation photo installed; precise anatomy and image quality require visual review."
+}

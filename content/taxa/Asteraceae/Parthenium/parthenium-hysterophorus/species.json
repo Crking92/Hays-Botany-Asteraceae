@@ -1,0 +1,37 @@
+{
+  "id": "parthenium-hysterophorus",
+  "family": "Asteraceae",
+  "genus": "Parthenium",
+  "species": "hysterophorus",
+  "scientific_name": "Parthenium hysterophorus",
+  "common_name": "Santa Maria feverfew (introduced/invasive weed)",
+  "look_here_first": "Look for finely dissected leaves and clusters of small whitish composite heads; examine involucral bracts, mature achenes, and branching habit. Avoid confusing with native Parthenium.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Parthenium%20hysterophorus",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced invasive-comparison/management card, not native seed or planting recommendation.",
+  "images": [
+    {
+      "file": "images/commons-parthenium-hysterophorus.jpg",
+      "role": "Provisional overall invasive-weed identification from named species image; fine flower anatomy pending.",
+      "creator": "Apurv013",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parthenium_hysterophorus.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "CC0 public-domain dedication, photographer credit voluntarily preserved"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

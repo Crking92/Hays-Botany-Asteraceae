@@ -1,0 +1,20 @@
+Ageratina havanensis — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:176043-2
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066347
+
+PROJECT TRACKER DIAGNOSTIC
+Woody-based or shrubby white composite with opposite leaves and clusters of discoid white heads; much more shrubby than herbaceous bonesets.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH2-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.
+
+Practical photo supplement 2026-10-12: Daderot CC0 exact-species flowering context at Austin Zilker Botanical Garden; cultivated garden photograph, not wild native-county evidence; woody basal stem macro still pending (not seed micro).

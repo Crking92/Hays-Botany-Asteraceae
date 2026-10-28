@@ -1,0 +1,36 @@
+{
+  "id": "hymenopappus-artemisiifolius",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
+  "species": "artemisiifolius",
+  "scientific_name": "Hymenopappus artemisiifolius",
+  "common_name": "Hymenopappus artemisiifolius",
+  "look_here_first": "Inspect the divided leaves and small rayless flower heads, checking the layered involucral bracts.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Hymenopappus%20artemisiifolius",
+  "images": [
+    {
+      "file": "images/inat-204546167.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) J. Richard Abbott, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/204546167",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

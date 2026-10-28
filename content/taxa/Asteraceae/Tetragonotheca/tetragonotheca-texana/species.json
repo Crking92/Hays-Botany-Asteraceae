@@ -1,0 +1,160 @@
+{
+  "id": "tetragonotheca-texana",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Tetragonotheca",
+  "species": "texana",
+  "scientific_name": "Tetragonotheca texana",
+  "authority": "A.Gray & Engelm.",
+  "common_name": "Squarebud daisy",
+  "other_common_names": [
+    "Nerve-ray",
+    "Plateau nerve-ray"
+  ],
+  "synonyms": [
+    "Halea texana A.Gray",
+    "Tetragonosperma lyratifolium Scheele"
+  ],
+  "taxonomic_note": "Accepted by ITIS and USDA GRIN; current Flora of North America recognizes Tetragonotheca texana as one of four North American species in the genus.",
+  "look_here_first": "Flip the flower head over. The quickest field mark is the involucre: the four broad outer phyllaries form a conspicuous square/collar-like base around the head. Then confirm the yellow ray florets, large disc florets with paleae, and the leafy upright habit.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural-flora list documents Tetragonotheca texana as naturally occurring. Travis — UT Plant Resources Center Travis County Asteraceae herbarium index includes T. texana. Kerr — Kerr Wildlife Management Area vascular flora documents T. texana with voucher collections.",
+    "range_guardrail": "County evidence comes from natural-flora/herbarium/WMA sources. Joey frames support morphology only and are not used as range proof."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "upright perennial herb with leafy stems",
+      "leaves mostly cauline, opposite in much of the genus; local plants can have irregularly toothed to pinnatifid blades",
+      "radiate yellow composite heads",
+      "outer four involucral bracts/phyllaries broad and conspicuous, producing the characteristic squarebud/collar appearance",
+      "inner phyllaries smaller and more scarious",
+      "receptacle paleate, with a sharp bract/palea subtending individual disc florets",
+      "ray florets pistillate and fertile",
+      "disc florets bisexual and fertile",
+      "cypsela dry and one-seeded"
+    ],
+    "family_training": "High-value Asteraceae teaching species: identify the family from the capitulum/ray+disc architecture, then use the underside of the head—the square outer phyllaries/involucre—as the genus/species-level field shortcut.",
+    "video_training": "Joey explicitly flips the head over and uses the four broad square-ish phyllaries as the diagnostic cue among several similar yellow composites."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tetraneuris linearifolia",
+      "Thelesperma filifolium",
+      "other small yellow Asteraceae"
+    ],
+    "key_distinctions": "Do not use yellow rays alone. Tetragonotheca texana announces itself from below: four broad outer phyllaries make a boxy/square collar. Tetraneuris instead emphasizes narrow foliage and a conventional multi-series involucre; Thelesperma has threadlike divided leaves."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "08:52",
+      "record_id": "Y7A530PjEbU-16",
+      "role": "whole flowering habit / source label",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "09:04",
+      "record_id": "Y7A530PjEbU-17",
+      "role": "square phyllaries / involucre / underside of head",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "09:12",
+      "record_id": "Y7A530PjEbU-18",
+      "role": "ray florets / disc florets / capitulum structure",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Asteraceae",
+    "Tetragonotheca",
+    "Squarebud daisy",
+    "phyllary",
+    "involucre",
+    "Edwards Plateau",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-video-fed",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03"
+  },
+  "photo_note": "Saved Joey Santore video frames installed locally for private study. The selected views were visually checked and chosen for diagnostic teaching value.",
+  "images": [
+    {
+      "file": "images/tetragonotheca-texana_habit-source-label_08-52.jpg",
+      "role": "Whole flowering plant held in habitat, showing branching habit and head position.",
+      "caption": "Tetragonotheca texana flowering habit. Use this for the low branching form and placement of the flower heads; finer identification comes from the head close-ups.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "flowering heads"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-16",
+      "timestamp": "08:52",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/tetragonotheca-texana_square-phyllaries_09-04.jpg",
+      "role": "Underside of a flower head showing the broad overlapping phyllaries and angular involucre.",
+      "caption": "Underside of Tetragonotheca texana head. The broad overlapping phyllaries create the distinctive angular/squared involucre look—one of the most useful recognition views in this set.",
+      "diagnostic_roles": [
+        "phyllaries",
+        "involucre",
+        "underside of head"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-17",
+      "timestamp": "09:04",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/tetragonotheca-texana_disk-florets-ray-florets_09-12.jpg",
+      "role": "Front view of the capitulum showing central disk florets and yellow ray florets.",
+      "caption": "Front of the Tetragonotheca texana flower head showing disk florets in the center and yellow ray florets around the edge. Pair this with the underside/phyllary frame.",
+      "diagnostic_roles": [
+        "disk florets",
+        "ray florets",
+        "capitulum"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-18",
+      "timestamp": "09:12",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Leaf/stem close-up and mature fruit/cypsela view."
+  ]
+}

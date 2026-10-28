@@ -1,0 +1,28 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Eupatorium",
+  "authority": "L.",
+  "common_group": "Bonesets",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 2",
+    "species_ids": [
+      "eupatorium-serotinum"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "habit and habitat",
+      "leaf arrangement",
+      "head structure",
+      "phyllaries",
+      "pappus/fruit"
+    ],
+    "warning": "Many fall composites need comparison by structure, not just bloom color."
+  },
+  "curation_status": {
+    "version": "1.0-batch2",
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,21 @@
+Gaillardia pulchella — SOURCES
+Reviewed: 2026-10-02
+
+BOTANICAL SOURCES
+https://w3.biosci.utexas.edu/prc/wildflowers/flower/gaillardia-pulchella-var-pulchella
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:197758-2
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066651
+
+PROJECT TRACKER DIAGNOSTIC
+Annual to short-lived perennial with striking red to maroon ray bases and yellow tips; hairy stems/leaves; phyllaries often reflexed or spreading.
+
+JOEY SANTORE SPECIES LAYER
+Video: EDWARDS PLATEAU BOTANY PART II
+Video ID: FHkFcxU0N5Q
+Source URL: https://www.youtube.com/watch?v=FHkFcxU0N5Q
+Record FHkFcxU0N5Q-03 @ 03:23 — Joey flips the flower head over and points out the elongated/spiky phyllaries and involucre.
+Learner use: prioritize head underside/phyllaries rather than relying only on red-yellow flower color.
+Rights: extracted Joey frame is a private-study asset; public reuse is not assumed.
+
+PHOTO METHOD
+Existing curated iNaturalist photo set retained unchanged.

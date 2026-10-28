@@ -1,0 +1,4 @@
+Sonchus asper (L.) Hill is accepted by Kew POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1003017-2
+Master Plant Pool row 1106, from the dated preflight batch 011 handoff; confirmed uninstalled and without competing active claims on 2026-10-17. Native-by-county review deferred; no confirmed native metric.
+LOOK HERE FIRST: glossy prickly leaves, rounded clasping leaf-base auricles, milky latex and yellow heads of strap-shaped florets. Compare softer, more pointed clasping auricles of Sonchus oleraceus.
+Source photo: Wikimedia Commons File:Sonchus_asper_RF.jpg by Robert Flogaus-Faust, individual CC BY 4.0; https://commons.wikimedia.org/wiki/File:Sonchus_asper_RF.jpg . Commons file title is the original photo identifier; no iNaturalist observation/photo ID. 960px actual preview visually inspected 2026-10-17. Attribution required. Physical file not yet installed; validate via curation Action before counting.

@@ -1,0 +1,130 @@
+{
+  "id": "tetraneuris-scaposa",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
+  "scientific_name": "Tetraneuris scaposa var. scaposa",
+  "authority": "(DC.) Greene",
+  "common_name": "Four-nerve Daisy",
+  "project_tracker_diagnostic": "Perennial from a branching caudex; leaves concentrated at the base; long mostly leafless peduncles each bear a yellow head; pappus consists of 5–7 aristate scales.",
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Natural Purola Plants lists Tetraneuris scaposa; Travis — UT herbarium index contains Tetraneuris scaposa var. scaposa; Williamson — dedicated county treatment of var. scaposa.",
+    "range_guardrail": "Canonical path remains tetraneuris-scaposa for stability; learner text teaches the accepted local variety var. scaposa."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Low rosette-forming plant with 1–many erect flowering stalks.",
+    "leaves": "Mostly basal/proximal, linear to oblanceolate or spatulate, entire or rarely toothed/lobed, often gland-dotted.",
+    "heads": "Yellow rays and yellow discs, usually one head per long peduncle.",
+    "phyllaries": "Outer phyllaries 8–16; inner series shorter and more numerous.",
+    "best_field_traits": [
+      "basal leaf rosette",
+      "long leafless peduncles",
+      "single yellow heads",
+      "compact perennial caudex"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Jerry Oldenettel, some rights reserved (CC BY-NC-SA)",
+      "license": "cc-by-nc-sa",
+      "source_page": "https://www.inaturalist.org/taxa/132723",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/742671/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "742671",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Carlos/Giancarla Ross (AnimeBirder), some rights reserved (CC BY-NC), uploaded by Carlos/Giancarla Ross (AnimeBirder)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/132723",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34849867/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "34849867",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) David Willis, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/359970032",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656816225/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "359970032",
+      "photo_id": "656816225",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) David Willis, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/359970032",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656816294/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "359970032",
+      "photo_id": "656816294",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) David Willis, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/359970032",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656816362/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "359970032",
+      "photo_id": "656816362",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-b051-range-reconciled",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "range_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true
+  },
+  "variety": "scaposa",
+  "taxonomic_note": "Current Kew accepts Tetraneuris scaposa with two varieties; var. scaposa is the Central Texas learner concept documented in Hays, Travis, and Williamson. Hymenoxys scaposa is a synonym at species level.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "look_here_first": "Start with perennial rosette architecture. Tetraneuris scaposa var. scaposa is a perennial with basal linear leaves and long mostly leafless peduncles bearing solitary yellow heads. This contrasts strongly with annual T. linearifolia.",
+  "comparisons": {
+    "confused_with": [
+      "Tetraneuris linearifolia",
+      "Tetraneuris acaulis"
+    ],
+    "key_distinctions": "T. scaposa var. scaposa is the local perennial rosette/scape species; T. linearifolia is annual and stem-leaved. T. acaulis is a more northern/western Texas species and is not being treated as a target-zone native without exact county evidence."
+  }
+}

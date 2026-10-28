@@ -1,0 +1,280 @@
+{
+  "id": "vernonia-lindheimeri",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "species": "lindheimeri",
+  "scientific_name": "Vernonia lindheimeri",
+  "authority": "A.Gray & Engelm.",
+  "common_name": "Woolly ironweed",
+  "synonyms": [],
+  "taxonomic_note": "POWO accepts Vernonia lindheimeri; native range includes Texas.",
+  "look_here_first": "Narrow-leaved purple ironweed of dry rocky sites: linear leaves with densely woolly lower surfaces, usually glabrate upper surfaces, and strongly revolute margins.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis and Kerr are exact target-zone records. Williamson is documented but outside the project target-county list and is not counted.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Correct stale PASS while preserving learner admission."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "dry rocky-site ironweed",
+      "linear cauline leaves",
+      "lower leaf surfaces densely sericeo-tomentose",
+      "upper surfaces usually glabrate",
+      "strongly revolute leaf margins",
+      "purple discoid heads in corymbiform arrays"
+    ],
+    "comparison_training": "Much narrower-leaved than V. baldwinii; watch for intermediate V. × guadalupensis."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vernonia baldwinii",
+      "Vernonia × guadalupensis"
+    ],
+    "key_distinctions": "Linear revolute leaves with woolly undersides strongly favor V. lindheimeri; intermediates may be hybrid."
+  },
+  "tags": [
+    "Asteraceae",
+    "Vernonia",
+    "Woolly ironweed",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-visual-learning-polish-2026-10-07",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-07",
+    "visual_learning_polished": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "linear leaf",
+    "woolly lower leaf surface",
+    "revolute margin",
+    "flowering array",
+    "comparison with V. baldwinii"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "visual_learning": {
+    "version": "1.0-parent-hybrid-comparison",
+    "learner_goal": "Recognize V. lindheimeri as the narrow, strongly revolute, woolly-underleaf parent endpoint and distinguish it from broad-leaved V. baldwinii without forcing intermediate hybrids.",
+    "verified_measurement_anchor": {
+      "character": "cauline leaf blade",
+      "range": "about 5–8 cm × 2–4 mm",
+      "source_basis": "existing B161 FNA/WFO morphology review",
+      "teaching_use": "Photograph a mature mid-stem leaf beside a scale so the extremely narrow proportion is visually obvious."
+    },
+    "look_sequence": [
+      {
+        "step": 1,
+        "look_at": "one mature cauline leaf with scale",
+        "question": "Is the blade truly linear and only a few millimeters wide?",
+        "teaching_note": "Use the reviewed cauline-leaf range of about 5–8 cm × 2–4 mm as a visual anchor, not flower color."
+      },
+      {
+        "step": 2,
+        "look_at": "leaf edge in oblique/cross view",
+        "question": "Are the margins strongly rolled under (revolute)?",
+        "teaching_note": "Side lighting or a small cross-section diagram makes the rolled margin much easier to learn than a flat photo."
+      },
+      {
+        "step": 3,
+        "look_at": "lower leaf surface",
+        "question": "Is the underside densely sericeo-tomentose/woolly?",
+        "teaching_note": "Use a macro with an arrow to the dense pale hairs."
+      },
+      {
+        "step": 4,
+        "look_at": "upper leaf surface",
+        "question": "Is the upper surface comparatively glabrate?",
+        "teaching_note": "Pair upper and lower macros from the same leaf so the contrast is learned directly."
+      },
+      {
+        "step": 5,
+        "look_at": "same characters on possible V. baldwinii or hybrid material",
+        "question": "Does the plant sit cleanly at this narrow/revolute/woolly endpoint?",
+        "teaching_note": "Intermediate leaf width, margin roll or indumentum should trigger V. × guadalupensis rather than a forced parent ID."
+      }
+    ],
+    "comparison_board": [
+      {
+        "compare_with": "Vernonia baldwinii",
+        "same_frame_features": [
+          "whole mature leaf at same scale",
+          "margin edge profile",
+          "upper-surface macro",
+          "lower-surface macro"
+        ],
+        "lindheimeri_side": "linear cauline leaf about 5–8 cm × 2–4 mm; strongly revolute margin; densely woolly lower surface; upper surface usually glabrate",
+        "other_side": "much broader ovate to lance-ovate leaf; lower surface hairy/tomentose",
+        "best_visual_lock": "same-scale leaf + margin profile + paired upper/lower surface macros"
+      },
+      {
+        "compare_with": "Vernonia × guadalupensis",
+        "same_frame_features": [
+          "leaf width",
+          "margin roll",
+          "upper/lower indumentum",
+          "whole flowering plant"
+        ],
+        "lindheimeri_side": "narrow/revolute/woolly-underleaf parent endpoint",
+        "other_side": "natural hybrid may bridge V. lindheimeri and V. baldwinii",
+        "best_visual_lock": "three-column parent–hybrid–parent plate"
+      }
+    ],
+    "photo_diagram_needs": [
+      {
+        "priority": 1,
+        "role": "scaled mature cauline leaf",
+        "annotation": "label reviewed 5–8 cm × 2–4 mm range and mark width axis",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "revolute-margin oblique macro",
+        "annotation": "arrows showing both margins rolled under; optional simple cross-section inset",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "paired upper/lower leaf-surface macro",
+        "annotation": "label usually glabrate upper surface versus densely sericeo-tomentose lower surface",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "three-column V. baldwinii × V. guadalupensis V. lindheimeri comparison",
+        "annotation": "same scale and same diagnostic views for all three",
+        "status": "missing"
+      },
+      {
+        "priority": 2,
+        "role": "whole flowering habit + corymbiform head array",
+        "annotation": "connect habit view to the leaf sampled for the diagnostic close-ups",
+        "status": "missing"
+      },
+      {
+        "priority": 2,
+        "role": "discoid head close-up",
+        "annotation": "label disc florets/no rays as ironweed context, not the parent-level separator",
+        "status": "missing"
+      }
+    ],
+    "avoid_overtrusting": [
+      "purple flower color",
+      "dry rocky habitat by itself",
+      "plant height by itself",
+      "one leaf on an intermediate plant",
+      "range status as an identification character"
+    ]
+  },
+  "photo_candidates": [
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia lindheimeri",
+      "role": "whole flowering habit / narrow linear leaves / head array",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain — author dedication",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_lindheimeri.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vernonia_lindheimeri.jpg",
+      "diagnostic_value": "Texas photograph showing narrow linear leaves and flowering architecture; strong habit anchor while revolute-margin and woolly-underleaf macros are still needed.",
+      "public_reuse": "yes",
+      "locality_context": "Lost Maples State Natural Area, Texas (Commons description)"
+    },
+    {
+      "status": "licensed_exact_taxon_source_selected_needs_image_level_routing",
+      "scientific_name": "Vernonia lindheimeri var. lindheimeri",
+      "role": "additional exact-taxon image source; inspect for linear leaf, margin profile and lower-surface wool",
+      "creator": "World Flora Online data provider / image provider as shown per image",
+      "license": "CC BY 4.0 unless individual image states otherwise",
+      "source_page": "https://stage.worldfloraonline.org/taxon/wfo-0000106086",
+      "diagnostic_value": "Exact infraspecific page provides reusable imagery; select only frames where the narrow leaf or diagnostic surface/margin is actually visible.",
+      "public_reuse": "yes_with_attribution_and_image_level_verification"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/vernonia-lindheimeri-provisional-face.jpg",
+      "role": "Exact-species woolly ironweed photo from limestone Sabinal River bank in Bandera County, Texas; first-pass recognition only, phyllary and abaxial leaf macros later.",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain — author dedication (PD-user-en)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_lindheimeri.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/joey-inat-260411921.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260411921",
+      "observation_url": "https://www.inaturalist.org/observations/150968268",
+      "observation_id": "150968268",
+      "photo_id": "260411921",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260411921/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-369801978.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369801978",
+      "observation_url": "https://www.inaturalist.org/observations/208984325",
+      "observation_id": "208984325",
+      "photo_id": "369801978",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369801978/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-11",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

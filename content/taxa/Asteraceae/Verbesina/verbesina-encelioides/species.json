@@ -1,0 +1,112 @@
+{
+  "id": "verbesina-encelioides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
+  "scientific_name": "Verbesina encelioides",
+  "authority": "(Cav.) Benth. & Hook.f. ex A.Gray",
+  "common_name": "Cowpen Daisy",
+  "field_group": "Showy yellow daisy-like composite",
+  "project_tracker_diagnostic": "Annual with opposite lower leaves, bright yellow rays, and gray-green somewhat woolly foliage; very different from frostweed despite sharing the genus.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect branching herb.",
+    "leaves": "Lower leaves opposite, upper alternate; blades triangular to ovate, coarsely toothed to lobed, often gray-green and somewhat hairy.",
+    "heads": "Showy yellow rays with yellow disks.",
+    "phyllaries": "Several series, often somewhat leafy.",
+    "fruit": "Cypselae flattened, winged or margined.",
+    "best_field_traits": [
+      "bright yellow heads",
+      "gray-green hairy foliage",
+      "opposite lower leaves",
+      "annual habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · shrubby branching annual with numerous golden yellow composite flowerheads in open dry habitat",
+      "creator": "(c) RCBuck, all rights reserved, uploaded by RCBuck",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/79495",
+      "direct_image_url": "https://static.inaturalist.org/photos/24493401/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "24493401",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · two yellow heads with ray florets around orange-yellow disk florets; leaf attachment not shown",
+      "creator": "(c) Christine Sydes, some rights reserved (CC BY-NC), uploaded by Christine Sydes",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/79495",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15501988/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "15501988",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Look closer · yellow rays and dense yellow disk on an open head beside an unopened green-bracted bud; phyllary detail unresolved",
+      "creator": "(c) Katelyn Presley, all rights reserved",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/observations/404006788",
+      "direct_image_url": "https://static.inaturalist.org/photos/741854802/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "404006788",
+      "photo_id": "741854802",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Recognize · leafy gray-green branching flowering plant with scattered bright yellow heads; fine leaf hairs unresolved",
+      "creator": "(c) Katelyn Presley, all rights reserved",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/observations/404006788",
+      "direct_image_url": "https://static.inaturalist.org/photos/741854878/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "404006788",
+      "photo_id": "741854878",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · wider same-observation view of several yellow heads among dense gray-green stems and foliage; not independent taxon proof",
+      "creator": "(c) Katelyn Presley, all rights reserved",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/observations/404006788",
+      "direct_image_url": "https://static.inaturalist.org/photos/741854928/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "404006788",
+      "photo_id": "741854928",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  }
+}

@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:185784-1
+Source research-grade observation: https://www.inaturalist.org/observations/16083122
+Photo: https://www.inaturalist.org/photos/24088672
+Attribution: (c) Paul Marcum, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Boltonia diffusa
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5867869137
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/boltonia-diffusa/gbif-5acbd26114a1e3.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Boltonia diffusa
+Creator: beth_snow; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5868197022
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/boltonia-diffusa/gbif-1aeef759e7bacc.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

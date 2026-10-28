@@ -1,0 +1,9 @@
+Approved source-pool Phase3 name Thymophylla tenuiloba source rows 1174.
+Name reference: https://powo.science.kew.org/results?q=Thymophylla%20tenuiloba
+Exact Commons file page: https://commons.wikimedia.org/wiki/File:Thymophylla_tenuiloba_(2).JPG
+Original photo/direct Commons file redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Thymophylla%20tenuiloba%20(2).JPG
+Photo creator Prenn
+License CC BY-SA 3.0
+Visual role Provisional yellow flowering form for visual recognition, not a verified local provenance or phyllary macro.
+Caution Source cultivated/photographic context may not represent wild-type Hays plants; no cultivar or county nativity assumption.
+Do not assert Hays County, west/north counties or BONAP target-range nativity from out-of-area photos.

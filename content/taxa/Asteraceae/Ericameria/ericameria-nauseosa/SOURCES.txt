@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 430); preflight still subject to independent accepted-taxonomy review.
+Taxon: Ericameria nauseosa
+Kew taxonomy search: https://powo.science.kew.org/results?q=Ericameria%20nauseosa
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Ericameria_nauseosa_1.jpg
+Original/Commons bounded download: https://upload.wikimedia.org/wikipedia/commons/d/d9/Ericameria_nauseosa_1.jpg
+Photographer: Stan Shebs
+License: CC BY-SA 3.0
+Image role: Provisional flowering habit showing shrub branches and yellow composite flower heads; phyllaries not resolved.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

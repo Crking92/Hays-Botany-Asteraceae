@@ -1,0 +1,59 @@
+TETRAGONOTHECA TEXANA A.GRAY & ENGELM. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Workflow: Joey-video downstream batch
+
+## Taxonomy
+ITIS — Tetragonotheca texana accepted:
+https://www.itis.gov/servlet/SingleRpt/SingleRpt?print_version=PRT&search_topic=TSN&search_value=505455&source=to_print
+
+USDA GRIN — verified taxon; native in Texas:
+https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=413454
+
+Flora of North America — Tetragonotheca genus treatment and key:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=132576
+
+## Strict target-zone range
+Hays — Purola Preserve natural-flora list; naturally occurring:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Species page:
+https://w3.biosci.utexas.edu/prc/HaysFlora/pages/TETE2.html
+
+Travis — UT Plant Resources Center Travis County Asteraceae specimen index:
+https://w3.biosci.utexas.edu/prc/specimens/Asteraceae5.html
+
+Kerr — Texas Parks and Wildlife Kerr WMA vascular flora:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Hays, Travis, Kerr.
+
+## Morphology
+Flora of North America:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=132576
+
+Native Plant Society of Texas:
+https://www.npsot.org/posts/native-plant/tetragonotheca-texana/
+
+Key learner cue:
+Flip the head over — four broad outer phyllaries create the square/collar-like involucre.
+
+## Joey study media
+Video: Y7A530PjEbU
+- Y7A530PjEbU-16 — whole flowering habit
+- Y7A530PjEbU-17 — square phyllaries / involucre
+- Y7A530PjEbU-18 — disk + ray florets / capitulum
+
+Study rights only; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Demolishing the Edwards Plateau for a Golf Course
+https://www.youtube.com/watch?v=Y7A530PjEbU
+tetragonotheca-texana_habit-source-label_08-52.jpg @ 08:52
+Tetragonotheca texana flowering habit. Use this for the low branching form and placement of the flower heads; finer identification comes from the head close-ups.
+https://www.youtube.com/watch?v=Y7A530PjEbU
+tetragonotheca-texana_square-phyllaries_09-04.jpg @ 09:04
+Underside of Tetragonotheca texana head. The broad overlapping phyllaries create the distinctive angular/squared involucre look—one of the most useful recognition views in this set.
+https://www.youtube.com/watch?v=Y7A530PjEbU
+tetragonotheca-texana_disk-florets-ray-florets_09-12.jpg @ 09:12
+Front of the Tetragonotheca texana flower head showing disk florets in the center and yellow ray florets around the edge. Pair this with the underside/phyllary frame.
+Rights: private study only; public reuse not cleared. User confirms private learner. Existing scientific/range status preserved.

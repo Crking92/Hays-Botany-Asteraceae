@@ -1,0 +1,89 @@
+{
+  "id": "gamochaeta-purpurea",
+  "family": "Asteraceae",
+  "genus": "Gamochaeta",
+  "species": "purpurea",
+  "scientific_name": "Gamochaeta purpurea",
+  "common_name": "Purple cudweed",
+  "look_here_first": "Gray-woolly leaf surfaces and clustered small pale purple-brown papery composite heads; examine flower head bracts.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_049": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Gamochaeta%20purpurea",
+  "images": [
+    {
+      "file": "images/inat-379057596.jpg",
+      "role": "Recognize · small basal leaves and an upright stem",
+      "creator": "(c) Michael J. Papay, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/379057596",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review049-f4152c93767377d.jpg",
+      "role": "Look closer · upright woolly-looking stem bearing several small clustered flower heads; involucral bracts need a macro",
+      "requested_diagnostic_view": "Woolly flowering stems and basal leaves",
+      "creator": "Rich Sommer",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5154840664",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498458254/original.jpeg",
+      "source_determination": "Gamochaeta purpurea",
+      "source_observation_id": "5154840664",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/gamochaeta-purpurea/gbif-affe504ba7b2cd.jpg",
+      "archive_image_sha256": "b647415204b9546ac59ebad02dc1b1f1726d5d2b4a023379f21062315c4764d6",
+      "image_dimensions": [
+        1055,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review049-379d98c9c1d591c.jpg",
+      "role": "Recognize · low rosette of elongated basal leaves seen from above; leaf hairs need closer inspection",
+      "requested_diagnostic_view": "Woolly flowering stems and basal leaves",
+      "creator": "Silva Luís",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110000078",
+      "media_source_url": "https://bs.plantnet.org/image/o/9ba94518ebeb0dd3b7d08eea9d5ec5f36e1a0704",
+      "source_determination": "Gamochaeta purpurea",
+      "source_observation_id": "5110000078",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/gamochaeta-purpurea/plantnet-via-gbif-cd1b66772a3b75.jpg",
+      "archive_image_sha256": "7a895b229c364588992ea814eff15fb7dc8a8162c3120bee58c1fc6ce22e9a8b",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

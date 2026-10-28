@@ -1,0 +1,131 @@
+{
+  "id": "solidago-radula",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "species": "radula",
+  "scientific_name": "Solidago radula",
+  "authority": "Nutt.",
+  "common_name": "Rough goldenrod",
+  "synonyms": [],
+  "taxonomic_note": "Current Kew/POWO accepts Solidago radula and lists Texas in its native range.",
+  "look_here_first": "Touch and inspect the stem and leaves first: rough goldenrod is genuinely scabrous, with short stiff hairs on the stem and rough leaf surfaces. Then compare the broader lower leaves, rapid reduction upward, and the compact terminal panicle.",
+  "county_occurrences_target_zone": [
+    "Burnet",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Burnet — prior verified UT Plant Resources Center county flora. Travis — prior verified UT PRC herbarium records. Kerr — John C. Semple (2023), Phytoneuron 2023-20, p.4, cites S. radula Kerr County herbarium vouchers Morton & Venn NA16362 and NA16364 (TRT). All three are inside the project's 24-county target zone. The prior Williamson record remains historically relevant but is out of zone and is not counted.",
+    "range_guardrail": "Use exact county floristic or herbarium evidence; do not infer a county from a city or locality label when the county is not explicit.",
+    "native_range_review": {
+      "reviewed_at": "2026-10-14",
+      "status": "PASS",
+      "accepted_name": "Solidago radula Nutt.",
+      "confidence": "high",
+      "verified_counties": [
+        "Burnet",
+        "Travis",
+        "Kerr"
+      ],
+      "excluded_non_target_counties": [
+        "Williamson"
+      ],
+      "source_links": [
+        {
+          "url": "https://www.phytoneuron.net/wp-content/uploads/2023/07/20PhytoN-SectRadulaeCytogeography.pdf",
+          "role": "Published Kerr County herbarium cytovouchers, Table 1, p. 4"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249822-1",
+          "role": "Accepted taxonomy and Texas native range"
+        }
+      ],
+      "reason": "Replace erroneously counted out-of-zone Williamson County with publication-backed native Kerr County; original Burnet/Travis evidence retained."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "erect to ascending rhizomatous perennial",
+      "stem conspicuously rough or hispid with stiff short hairs",
+      "foliage distinctly scabrous to the touch",
+      "lower leaves broader and larger, with upper leaves abruptly smaller",
+      "terminal compact paniclelike array of many small yellow heads",
+      "typical of calcareous rocky openings, prairies, and dry woods"
+    ],
+    "comparison_training": "Solidago radula is the rough/scabrous one: stiff stem and leaf hairs are more tactile and obvious than the fine gray pubescence of S. nemoralis. Its flowering array is generally more compact and terminal."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Solidago nemoralis",
+      "Solidago altissima",
+      "Solidago juliae",
+      "Solidago gigantea"
+    ],
+    "key_distinctions": "Rough goldenrod has conspicuously stiff, scabrous stems and leaves plus a compact terminal flowering array; S. nemoralis is grayer and finer-haired with a more one-sided wandlike inflorescence."
+  },
+  "tags": [
+    "Asteraceae",
+    "Solidago",
+    "Rough goldenrod",
+    "Central Texas",
+    "goldenrod"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-closeout-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/solidago-radula-provisional-face.jpg",
+      "role": "Whole voucher / architecture reference",
+      "creator": "UT Plant Resources Center (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Asteraceae4.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/gbif-manual-6234615536-18c69c879.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Short stiff rough stem/leaf hairs and scabrous lower foliage; mature head side view",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234615536",
+      "gbif_occurrence_id": "6234615536",
+      "source_determination": "Solidago radula Nutt.",
+      "accepted_target": "Solidago radula",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643827665/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

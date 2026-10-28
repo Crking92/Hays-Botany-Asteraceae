@@ -1,0 +1,298 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Aphanostephus",
+  "project_scope": {
+    "source_pool_species": [
+      "Aphanostephus riddellii",
+      "Aphanostephus skirrhobasis"
+    ],
+    "canonical_species_ids": [
+      "aphanostephus-riddellii",
+      "aphanostephus-skirrhobasis"
+    ],
+    "installer_dependency": "Both species already have canonical learner cards in the current manifest; do not reinstall either. A. riddellii has three physically present images, A. skirrhobasis has two; diagnostic photography belongs to the photo lane.",
+    "range_note": "Preserve A. skirrhobasis UNRESOLVED target-zone status.",
+    "photo_inventory_checked": "2026-10-18: five individual JPEG paths re-fetched from main, three for A. riddellii and two for A. skirrhobasis. Physical presence does not certify identity, part visibility, or diagnostic adequacy."
+  },
+  "look_here_first": "Start with annual versus perennial habit; turn a head over to examine overlapping pale-margined phyllaries; use mature disc florets and magnified cypsela hairs for a confident species split.",
+  "shared_genus_traits": [
+    "Small radiate Asteraceae heads with pale ray florets and yellow disc florets; color alone does not identify the genus.",
+    "Overlapping involucral phyllaries and a conical receptacle; mature fruit morphology is important for separating similar small daisies.",
+    "Narrow to dissected leaves and small solitary radiate heads are useful recognition cues, but variable and not sufficient to distinguish A. riddellii from A. skirrhobasis."
+  ],
+  "genus_diagnostics": {
+    "shared_structure_examples": [
+      {
+        "term": "capitulum (flower head)",
+        "plain": "One daisy-like head contains many tiny ray and disc flowers.",
+        "photo_role": "same-scale front and side flower-head macro",
+        "status": "needs_photo"
+      },
+      {
+        "term": "involucral phyllaries",
+        "plain": "Several overlapping rows of bracts wrap the underside of each head; inspect their pale margins.",
+        "photo_role": "underside of mature head with scale",
+        "status": "needs_photo"
+      },
+      {
+        "term": "disc-floret corolla base",
+        "plain": "The base of a mature central floret may be bulbously swollen in A. skirrhobasis.",
+        "photo_role": "dissected mature disc floret under magnification",
+        "status": "needs_photo"
+      },
+      {
+        "term": "cypsela duplex hairs",
+        "plain": "Tiny hairs on the dry one-seeded fruit bend in different patterns between species.",
+        "photo_role": "matched microscope photographs of mature fruits",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Life cycle",
+      "skirrhobasis": "Annual, often low and branched",
+      "riddellii": "Perennial",
+      "how_to_check": "Examine roots and several mature plants; do not infer from a cropped flower photo."
+    },
+    {
+      "character": "Mature disc-corolla base",
+      "skirrhobasis": "Bulbously swollen",
+      "riddellii": "Not conspicuously swollen",
+      "how_to_check": "Dissect fully mature disc florets under magnification; immature heads unreliable."
+    },
+    {
+      "character": "Cypsela hairs",
+      "skirrhobasis": "Curved or coiled predominantly in one direction",
+      "riddellii": "Glochidiate hairs with opposing hooks",
+      "how_to_check": "Matched magnified mature fruits; targeted regional-key verification pending."
+    },
+    {
+      "character": "White ray florets",
+      "skirrhobasis": "Present",
+      "riddellii": "Present",
+      "how_to_check": "Overlapping character; not a species separator."
+    },
+    {
+      "character": "Stem base and root / duration",
+      "skirrhobasis": "Taprooted annual; no persistent perennial crown expected",
+      "riddellii": "Perennial; inspect persistent base or repeated growth",
+      "how_to_check": "Photograph a whole mature plant with root/crown, not a clipped shoot; distinguish true perennial base from a large annual."
+    },
+    {
+      "character": "Stem architecture",
+      "skirrhobasis": "Low, branching, often decumbent to ascending, hairy",
+      "riddellii": "Variable perennial branching; posture may overlap with skirrhobasis",
+      "how_to_check": "Include whole plant and habitat; use only as supporting context, never a species-level proof."
+    },
+    {
+      "character": "Leaf shape / dissection",
+      "skirrhobasis": "Basal and alternate cauline leaves, oblanceolate to narrow; lower leaves can be lobed or toothed",
+      "riddellii": "Narrow or finely divided leaves reported in current learner card; variation needs matched study",
+      "how_to_check": "Compare basal and mid-stem leaves with ruler; leaf divisions alone cannot settle the pair."
+    },
+    {
+      "character": "Involucral phyllaries",
+      "skirrhobasis": "Overlapping rows, pale scarious margins; species-level phyllary-tip distinction not yet verified",
+      "riddellii": "Overlapping pale-margined phyllaries; species-level tip distinction not yet verified",
+      "how_to_check": "Photograph underside and side of mature head at matched scale; do not invent a nonoverlapping phyllary-tip key."
+    },
+    {
+      "character": "Mature fruit pappus and ribbing",
+      "skirrhobasis": "Angular or strongly ribbed cypsela; short crown/scales reported in canonical species record",
+      "riddellii": "Mature cypsela and pappus require source-backed comparison",
+      "how_to_check": "Collect mature fruit and image face, ribs, pappus and hair tips with calibrated magnification; do not infer from rays."
+    }
+  ],
+  "study_strategy": {
+    "look_here_first": [
+      "Identify a composite head and check the underside phyllaries.",
+      "Record whole-plant life cycle and basal versus stem leaves.",
+      "Dissect mature disc florets and fruits when the species matters.",
+      "Leave uncertain plants at Aphanostephus until mature diagnostic material is available."
+    ],
+    "overlap_cautions": [
+      "Both species have similar pale rays and yellow centers.",
+      "A. pilosus and small Erigeron may resemble these plants; compare receptacle, phyllaries, cypsela ribs and pappus rather than flower color.",
+      "The fruit-hair distinction needs an authoritative key and actual magnified specimen verification before any arrows."
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Annual versus perennial lazydaisies",
+      "taxon_ids": [
+        "aphanostephus-skirrhobasis",
+        "aphanostephus-riddellii"
+      ],
+      "look_here_first": "Whole plant and root first, mature disc florets and cypsela hairs second.",
+      "photo_requirements": [
+        "matched whole-plant and basal-root views",
+        "mature disc-floret base microscope pair",
+        "mature cypsela duplex-hair microscope pair"
+      ]
+    },
+    {
+      "title": "What a flower-only photo cannot tell you",
+      "taxon_ids": [
+        "aphanostephus-riddellii",
+        "aphanostephus-skirrhobasis"
+      ],
+      "look_here_first": "Both have small pale-rayed heads. Mark species unresolved when only flower color or one head is visible.",
+      "photo_requirements": [
+        "same-scale head underside and phyllary-tip views",
+        "whole plant with intact base"
+      ]
+    },
+    {
+      "title": "Lazydaisy versus fleabane",
+      "taxon_ids": [
+        "aphanostephus-riddellii",
+        "aphanostephus-skirrhobasis"
+      ],
+      "look_here_first": "Against Erigeron and other small white-rayed Asteraceae, compare head architecture, phyllaries, receptacle, pappus and mature fruit rather than petal color.",
+      "photo_requirements": [
+        "representative exact-taxon flowering heads with rights verified",
+        "dissected head and cypsela comparisons"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "five_installed_files_verified_diagnostic_roles_pending",
+    "existing_media": [
+      {
+        "taxon_id": "aphanostephus-riddellii",
+        "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/inat-7847811.jpg",
+        "creator": "ellen hildebrandt",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/7847811",
+        "reuse": "noncommercial_attribution_required",
+        "status": "installed_verified_file_present; diagnostic_anatomy_unverified; annotation_pending",
+        "caption": "provisional species recognition; no diagnostic part certified",
+        "observed_anatomy": "not certified from pixels"
+      },
+      {
+        "taxon_id": "aphanostephus-riddellii",
+        "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-f1e6a341895c26e.jpg",
+        "creator": "Chet Burrier",
+        "license": "CC BY (version pending source check)",
+        "source_page": "https://www.gbif.org/occurrence/6353233587",
+        "reuse": "review_original_license_version_before_public_reuse",
+        "status": "installed_verified_file_present; diagnostic_anatomy_unverified; annotation_pending",
+        "caption": "flowering habit and foliage screened; species determination provisional",
+        "observed_anatomy": "not certified from pixels"
+      },
+      {
+        "taxon_id": "aphanostephus-riddellii",
+        "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/images/library-review036-97f7cba03b6275e.jpg",
+        "creator": "Eric Knight",
+        "license": "CC BY (version pending source check)",
+        "source_page": "https://www.gbif.org/occurrence/1229615513",
+        "reuse": "review_original_license_version_before_public_reuse",
+        "status": "installed_verified_file_present; diagnostic_anatomy_unverified; annotation_pending",
+        "caption": "flower-head arrangement screened; phyllary anatomy unverified",
+        "observed_anatomy": "not certified from pixels"
+      },
+      {
+        "taxon_id": "aphanostephus-skirrhobasis",
+        "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/images/aphanostephus-skirrhobasis-flowering-sonnia-hill.jpg",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aphanostephus_skirrhobasis_(Louisiana).jpg",
+        "reuse": "attribution_required",
+        "status": "installed_verified_file_present; diagnostic_anatomy_unverified; annotation_pending",
+        "caption": "flowering habit only; microscopic anatomy unverified",
+        "observed_anatomy": "not certified from pixels"
+      },
+      {
+        "taxon_id": "aphanostephus-skirrhobasis",
+        "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/images/gbif-manual-6234325420-9515cb1b5.jpg",
+        "creator": "Jane Weeden",
+        "license": "CC BY 4.0 (source metadata)",
+        "source_page": "https://www.gbif.org/occurrence/6234325420",
+        "reuse": "attribution_required",
+        "status": "installed_verified_file_present; diagnostic_anatomy_unverified; annotation_pending",
+        "caption": "distinct candidate view; diagnostic structures not verified",
+        "observed_anatomy": "not certified from pixels"
+      }
+    ],
+    "photo_gaps": [
+      "Matched whole-plant/root-crown photos for annual versus perennial base",
+      "Same-scale side/underside phyllary views for both species",
+      "Mature dissected disc-floret bases showing swelling or absence",
+      "Calibrated mature cypsela micrographs showing hair-hook direction and pappus for both species"
+    ]
+  },
+  "diagnostic_review_handoffs": [
+    "Taxonomy lane: independently verify regional-key fruit-hair and mature disc-corolla-base distinctions, and any infraspecific concept before annotation; preserve existing range and taxon statuses.",
+    "Diagnostic Photo lane: five installed portraits are available as references but do not fulfill specialist anatomy roles; prioritize roots, phyllaries, disc-corolla bases and fruit hairs with ruler/magnification and individually cleared rights.",
+    "Approved Taxa Installer lane: both species are already in the canonical manifest; no new card installation is requested."
+  ],
+  "curation_status": {
+    "structural_lesson": "expanded_photo_led_2026_10_18",
+    "visual_lock": "five_installed_files_present_anatomy_photo_roles_pending",
+    "species_installation": "unchanged_both_canonical"
+  },
+  "anatomy_lessons": [
+    {
+      "step": 1,
+      "title": "Recognize the head, then flip it",
+      "botanical_parts": [
+        "capitulum",
+        "ray floret",
+        "disc floret",
+        "involucre",
+        "phyllary"
+      ],
+      "look_here_first": "Find one small radiate daisy head, then photograph the side and underside where the phyllaries overlap.",
+      "why_it_matters": "Ray color and yellow disc are shared; involucre structure helps test the genus, but does not alone split these two species.",
+      "photo_role": "matched front, side and underside views with millimeter scale",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "step": 2,
+      "title": "Follow the stem to the root",
+      "botanical_parts": [
+        "annual taproot",
+        "perennial crown",
+        "basal leaf",
+        "cauline leaf"
+      ],
+      "look_here_first": "Trace one intact flowering stem down to its base; compare basal and stem leaves.",
+      "why_it_matters": "The annual A. skirrhobasis versus perennial A. riddellii distinction is strongest on intact plants; a clipped flowering sprig cannot prove duration.",
+      "photo_role": "matched whole plants, basal stems and roots/crowns with ruler",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "step": 3,
+      "title": "Dissect a mature central flower",
+      "botanical_parts": [
+        "disc floret",
+        "corolla base",
+        "receptacle"
+      ],
+      "look_here_first": "Remove a mature central disc floret and inspect the base under a dissecting microscope.",
+      "why_it_matters": "A bulbously swollen disc-corolla base is reported for A. skirrhobasis; the comparison with A. riddellii needs actual matched mature specimens.",
+      "photo_role": "paired dissected mature disc-floret bases at matching magnification",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "step": 4,
+      "title": "Examine the fruit hairs",
+      "botanical_parts": [
+        "cypsela",
+        "duplex hair",
+        "glochidiate hook",
+        "pappus"
+      ],
+      "look_here_first": "Place fully mature dry fruits flat under a microscope and focus on the tiny hair tips.",
+      "why_it_matters": "Reported one-directional curled hairs in A. skirrhobasis versus opposing hooked hairs in A. riddellii are a potential high-value separator; independently confirm the regional key before labeling arrows.",
+      "photo_role": "paired mature cypsela faces, hair tips and pappus at calibrated magnification",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    }
+  ]
+}

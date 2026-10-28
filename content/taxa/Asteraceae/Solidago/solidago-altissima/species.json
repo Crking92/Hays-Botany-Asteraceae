@@ -1,0 +1,161 @@
+{
+  "id": "solidago-altissima",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago altissima",
+  "authority": "L.",
+  "common_name": "Tall Goldenrod",
+  "field_group": "Goldenrod",
+  "project_tracker_diagnostic": "Tall colony-forming goldenrod with plume-like panicles of many small yellow heads and rougher leaves/stems; often more robust than Canada goldenrod.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial, often rhizomatous.",
+    "habit": "Tall erect herb often forming colonies.",
+    "leaves": "Alternate, lanceolate, serrate, rough/scabrous, 3-nerved.",
+    "heads": "Many very small yellow heads in arching or plume-like panicles.",
+    "phyllaries": "Small, several series.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "tall golden panicles",
+      "rough leaves/stems",
+      "colony-forming habit",
+      "If working below species level, do not assign a subspecies from general goldenrod habit alone; Joey's exact reference is S. altissima subsp. gilvocanescens."
+    ],
+    "joey_reference_note": "Joey's exact iNaturalist photo reference is Solidago altissima subsp. gilvocanescens. Use it as an infraspecific habit/morphology comparison, not as evidence that every local tall goldenrod belongs to that subspecies."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · tall upright goldenrod with spreading, arching yellow flowering branches",
+      "creator": "(c) jitensha2021, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/79148",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · magnified leaf underside with raised veins and fine marginal hairs; lower stem not shown",
+      "creator": "(c) Joshua Harkness, some rights reserved (CC BY-NC), uploaded by Joshua Harkness",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/79148",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Look closer · slender flowering goldenrod branch amidst other plants; small heads not resolved",
+      "creator": "(c) lynnwchen, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/330303307",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Recognize · flowering stem laid out against ground for branching and foliage context",
+      "creator": "(c) lynnwchen, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/330303307",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Look closer · clusters of yellow flowerheads on an upright branch; phyllaries unresolved",
+      "creator": "(c) lynnwchen, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/330303307",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2-joey",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "joey_enhanced": true,
+    "photo_metadata_schema": "full-v1",
+    "photo_metadata_repaired": "2026-10-03"
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / iNaturalist",
+      "record_id": "j011-002",
+      "taxon_shown": "Solidago altissima subsp. gilvocanescens",
+      "photo_id": "317067342",
+      "source_page": "https://www.inaturalist.org/photos/317067342",
+      "role": "goldenrod habit / infraspecific morphology reference",
+      "license": "CC BY-NC",
+      "rights": "study use; preserve subspecies label and license"
+    }
+  ],
+  "tags": [
+    "Joey-enhanced"
+  ],
+  "look_here_first": "For TALL goldenrod, inspect SHORT, FINE hairs low on a standing stem and a FIRM, often noticeably rough three-nerved middle leaf. Check if upper-mid leaves are entire or sparsely toothed. Compare Canada goldenrod: often thinner more serrated leaves and less crowded longer stem hairs — many characters overlap. Giant goldenrod tends to have genuinely smooth/waxy lower stem. Photograph the stem at ground level and the leaf UNDERSIDE, not only the yellow plume.",
+  "photo_diagnostic_lesson": {
+    "pair": "Solidago altissima vs canadensis vs gigantea",
+    "look_here_first": "Check lower stem hair texture and an underside leaf before looking at the plume. Giant goldenrod usually smooth below; Altissima dense short stem hairs and firmer rough leaves; Canadensis often more noticeable teeth and somewhat sparser stem hairs.",
+    "key": [
+      {
+        "part": "Stem WELL below flowering axis",
+        "altissima": "Typically many short fine hairs, sometimes base less hairy",
+        "canadensis": "Often sparser, longer hairs, base may be smooth",
+        "gigantea": "Usually largely glabrous, sometimes glaucous white waxy cast",
+        "why": "Best starting shot, but not a perfect one-character key"
+      },
+      {
+        "part": "Middle leaf venation and edge",
+        "altissima": "3 veins; firm blade, upper/mid edges often fewer/smaller teeth",
+        "canadensis": "3 veins; generally finer more conspicuous serrations",
+        "gigantea": "3 veins too, narrow blade, often more glabrous",
+        "why": "Need whole leaf and scale; many variants overlap"
+      },
+      {
+        "part": "Leaf underside hairs",
+        "altissima": "Often coarse/fine hairs on veins AND between",
+        "canadensis": "Hairs more concentrated on veins but variable",
+        "gigantea": "Typically more glabrous/smoother",
+        "why": "Supporting trait, don't claim ironclad distinction"
+      },
+      {
+        "part": "Involucre/heads",
+        "altissima": "Often somewhat larger phyllaries/heads than canadensis",
+        "canadensis": "Often smaller phyllaries and rays",
+        "gigantea": "Head scales also overlap",
+        "why": "Measure with 1mm rule when altissima/canadensis still unsure"
+      },
+      {
+        "part": "Habitat",
+        "altissima": "Colony forming disturbed areas, dry/mesic",
+        "canadensis": "Old fields and mesic open habitats",
+        "gigantea": "Ditches/floodplains/moist depressions",
+        "why": "Supporting only"
+      }
+    ],
+    "memory_rule": "GIANT = generally SMOOTH stem; TALL = SHORTHAIR firm leaf; CANADA = finer teeth, hair variable. For TALL vs CANADA, examine a bundle of traits.",
+    "caution": "Goldenrods of the canadensis–altissima–gigantea complex hybridize/overlap in photos; retain genus-level ID when evidence insufficient."
+  },
+  "visual_id_status": {
+    "first_pass": "Stem + leaf text key now detailed",
+    "photo_current_count": 5,
+    "photo_limitations": "Existing images retained; matched bottom-stem/underside macro with actual arrows still missing.",
+    "version": "2.0-pair-comparison-20261013"
+  }
+}

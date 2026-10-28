@@ -1,0 +1,130 @@
+{
+  "id": "cirsium-ochrocentrum",
+  "entry_type": "provisional_species",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "species": "ochrocentrum",
+  "scientific_name": "Cirsium ochrocentrum",
+  "authority": "A.Gray",
+  "common_name": "Yellowspine thistle",
+  "look_here_first": "Start with woolly gray stems/leaves AND side of unopened head. C. ochrocentrum has strong, often straw-yellow phyllary spines (FNA large-headed keyed forms ~5–12 mm, other forms longer), while several middle/upper leaves may extend onto the stem as SPINY WINGS up to ~5 cm. Check glutinous/resinous midribs on outer/middle phyllaries if visible. The gray wool and yellowish spines ALONE do not distinguish it from C. undulatum or other western thistles.",
+  "county_occurrences_target_zone": [
+    "Kerr"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Kerr.",
+    "range_guardrail": "Accepted taxon; only Kerr locked in target zone so far."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Woolly gray tomentum across stems and lower leaf surfaces, in conjunction with other characters.",
+      "Long stout phyllary-spine tips, often ~5–12 mm in FNA large-headed form; measure from bract tip, not flower.",
+      "Mid and distal stem leaves can be DECURRENT as spiny wings, about 1–5 cm in keyed large-headed form.",
+      "Outer/middle phyllaries often with a translucent or sticky resinous median ridge; inspect macro.",
+      "C. undulatum also gray-woolly; it has different leaf lobe form, less uniformly pronounced stem wings, and unusually large mature 6–7 mm cypselae.",
+      "Native status in Texas broadly does not prove target-zone counties; current Kerr-only provisional range retained."
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-yellowspine-woolly-pair-review",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "range_status_unchanged": true,
+    "feature_verified_external_macro": true,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/cirsium-ochrocentrum-provisional-face.jpg",
+      "role": "Whole plant / flowering head recognizable face",
+      "creator": "Clarence A. Rechenthin",
+      "license": "Public domain (USDA NRCS / U.S. federal work)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsiumochrocentrum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://pixnio.com/free-images/2023/05/07/2023-05-07-23-20-29-1536x1536.jpg",
+      "role": "ACTUAL macro of green C. ochrocentrum flower bud covered in long yellow phyllary spines; gray wool on foreground stems",
+      "creator": "befish",
+      "license": "Pixnio Free to Use License (verify terms at source, not asserted CC0)",
+      "source_page": "https://pixnio.com/media/flower-wildlife-green-sharp-thorn",
+      "study_use": "yes",
+      "public_reuse": "Pixnio free-use conditions; follow source license",
+      "photo_status": "EXTERNAL PHOTO NOT PHYSICALLY DOWNLOADED",
+      "image_feature_verification": "Human-visible yellow spines on green imbricate phyllaries and silver-gray wool on nearby stems; 1000 px preview checked 2026-10-12"
+    },
+    {
+      "file": "images/joey-inat-202483492.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/202483492",
+      "observation_url": "https://www.inaturalist.org/observations/119758905",
+      "observation_id": "119758905",
+      "photo_id": "202483492",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/202483492/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "two_exact_species_photos_in_learner",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+    "photo_metadata_count": 2,
+    "remote_photo_count": 1,
+    "physical_photo_count": 1,
+    "photo_morphology": "new bud macro shows real long yellow phyllary spine and tomentose stems"
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cirsium undulatum",
+      "Cirsium vulgare",
+      "Cirsium horridulum"
+    ],
+    "key_distinctions": "Ochrocentrum's long phyllary spine plus conspicuous decurrent spiny wings (some forms), woolly stems and possible resin gland ridge; undulatum leaves often less divided/shallowly lobed, winging minimal or absent in much of FNA key, and mature fruit 6–7 mm. Vulgare upper blade carries short bristlelike spines, not the same as marginal thorns. Horridulum has an extra under-head armored bract collar."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Unopened head side showing measured outer phyllary spines",
+      "priority": "high",
+      "status": "macro needed; existing photo is only face"
+    },
+    {
+      "role": "Spiny wing running down middle stem",
+      "priority": "high",
+      "status": "macro needed"
+    },
+    {
+      "role": "Glutinous central phyllary ridge under lens",
+      "priority": "medium",
+      "status": "needs specimen-backed macro"
+    }
+  ]
+}

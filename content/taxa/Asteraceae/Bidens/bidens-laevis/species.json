@@ -1,0 +1,173 @@
+{
+  "id": "bidens-laevis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Bidens",
+  "species": "laevis",
+  "scientific_name": "Bidens laevis",
+  "authority": "(L.) Britton, Sterns & Poggenb.",
+  "common_name": "Smooth beggarticks / bur-marigold",
+  "synonyms": [],
+  "taxonomic_note": "POWO accepts Bidens laevis (L.) Britton, Sterns & Poggenb. Source pool iNaturalist taxon 75766.",
+  "look_here_first": "FIRST find a MIDDLE STEM LEAF still attached to an opposite leaf node: each leaf is SIMPLE (one lance-shaped blade), sessile or nearly so, often toothed, rather than three separate leaflets attached to a common leafstalk (B. frondosa). SECOND inspect head: usually 7–8 showy yellow rays about 15–25 mm long and 5–7+ OUTER CALYCULUS green leaflike bractlets, then the INNER overlapping phyllaries. THIRD compare mature fruit with B. cernua: B. laevis outer cypselae 6–8 mm, inner 8–10 mm, margins NOT conspicuously thickened or corky-winged, usually 2–4 barbed awns 3–5 mm long; B. cernua fruits have more conspicuous thickened/winged margins, often shorter awns and smaller rays. Both can have nodding ripe heads. Flower color, 'nodding' or wetland site alone are not enough.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool row 135 (My iNaturalist Flora and Hays County native pool); taxonomy and diagnostic review dated 2026-10-08",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "POWO supports Texas nativity at state level; Hays source flag alone does not satisfy the three-target-county PASS rule."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "ANNUAL herb, SOMETIMES PERSISTING, about 20–60(-120+) cm in FNA; most frequent in marshy margins, wet meadows, pools and streams. Older project label 'perennial wetland' was too absolute and scientifically corrected.",
+    "leaves": "Opposite (occasionally 3–4 at a node), SIMPLE sessile (without individual leaflet stalks); blades linear to lanceolate or elliptic/obovate, 20–160+ mm, coarse teeth common; examine actual attachment on the stem.",
+    "heads": "Usually 7–8 rays about 15–25(-30) mm, but rays occasionally absent. Two concentric bract zones below head: OUTER calyculus often 5–7(-9+) green leaflike bractlets around 10–12 mm, INNER involucre of 8–12 phyllaries about 6–8 mm. May nod in fruit; cannot use head nodding alone vs B. cernua.",
+    "fruits": "Mature outer cypselae approximately 6–8 mm and inner approximately 8–10 mm, with non-corky (not conspicuously winged) margins and 2–4 retrorsely barbed pappus awns about 3–5 mm; check fruit at 10× versus B. cernua's often corky/thickened fruit margins.",
+    "best_field_traits": [
+      "Opposite whole SIMPLE stem leaves, one toothed blade attached at each leaf base; cannot confuse with three compound leaflets.",
+      "Showy head commonly 7–8 rays, each typically around 15–25 mm (but rays occasionally reduced or absent).",
+      "OUTER calyculus of ~5–7 green leaflike bractlets surrounding INNER ring of ~8–12 overlapping phyllaries; show separate colored labels.",
+      "Mature cypselae OUTER 6–8 vs INNER 8–10 mm, 2–4 awns 3–5 mm; photo of true fruit required, not generic beggartick.",
+      "Versus B. cernua: cernua generally shorter rays (often 2–15 mm) and outer fruits with thickened/corky or winged margins; overlaps exist.",
+      "FNA: ANNUAL SOMETIMES PERSISTING; do not describe as invariably perennial.",
+      "October flowering is often expected in suitable wetland habitat, but plant/fruit state varies with site."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Bidens frondosa",
+      "Bidens cernua (comparison only)",
+      "Bidens aristosa (comparison only)"
+    ],
+    "key_distinctions": "Frondosa bears usually 3 (occasionally 5) leaflets and generally lacks showy rays, whereas laevis has one simple sessile blade per leaf and often showy rays. Cernua also simple-leaved; separate by longer usual ray lamina (laevis 15–25 mm vs cernua 2–15 mm), non-corky cypsela margins and 3–5 mm awns versus cernua's often distinctly thickened/winged margins and 1–4 mm awns. FNA explicitly warns of phenotypic overlap; keep Bidens cf. laevis if uncertain."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "Middle stem node full leaf, entire blade and attachment",
+      "target": "Show OPPOSITE, SIMPLE, SESSILE blades, do not crop the basal attachment. Licensed closeup not yet installed."
+    },
+    {
+      "priority": 1,
+      "role": "Face of open yellow head with ray count",
+      "target": "Mark actual ray florets (typically 7–8); rays are individual modified florets, not 'petals' of one flower."
+    },
+    {
+      "priority": 1,
+      "role": "Side of head showing outer calyculus vs inner phyllaries",
+      "target": "Two different concentric rings, outer green leaflike bracts, inner shorter bracts hugging disc."
+    },
+    {
+      "priority": 1,
+      "role": "Actual maturity-stage cypsela and awn with mm scale",
+      "target": "Compare B. laevis 6–8 and 8–10 mm body classes + 3–5 mm barbed awns; show marginal hairs with 10×."
+    },
+    {
+      "priority": 2,
+      "role": "B. cernua matched reproductive comparator",
+      "target": "Show cernua fruit's thicker or corky-winged margin and shorter ray lamina; ensure exact scientific ID of source."
+    }
+  ],
+  "images": [
+    {
+      "file": "images/bidens-laevis-flowering.jpg",
+      "role": "Recognize · yellow-rayed Bidens flowering shoots above shallow water, with green leafy stems; opposite leaf-node details not resolved",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20laevis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/bidens-laevis-achenes.jpg",
+      "role": "Look closer · mature dark slender cypselae radiating from a spent head among pale receptacular chaff; fruit margins and individual barbed awns need stronger magnification",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20laevis%20-%20achenes%20and%20chaff.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bidens%20laevis%201a.jpg",
+      "role": "Real close-up of showy individual yellow ray FLORETS surrounding many tiny central disk FLORETS, verified pixels; NOT a leaf attachment image",
+      "creator": "jimduggan24",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_1a.jpg",
+      "source_provenance": "Flora of Florida, Flickr photo 49642890946 uploaded to Commons with license review",
+      "image_size": "953×768",
+      "photo_status": "EXTERNAL_LICENSED_SOURCE_VIEWED; no local binary",
+      "study_use": "yes",
+      "public_reuse": "CC BY 2.0 attribution",
+      "diagnostic_visual_note": "Photo shows large yellow ray florets and central many-tubed disk florets; white woolly foliage in foreground not proof of simple node leaf."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "version": "2.0-lifecycle-fruit-bract-polish",
+    "taxonomy_identity_checked": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "last_reviewed": "2026-10-12",
+    "native_range_status_preserved": true,
+    "scientific_life_cycle_corrected": true,
+    "flower_ray_macro_verified": true
+  },
+  "tags": [
+    "Asteraceae",
+    "Bidens",
+    "morphology-first",
+    "range unresolved"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "visual_photo_audit_2026_10_12": {
+    "installed_photos": "2 real physical CC BY 2.0 images by sonnia hill already in images folder: flowering plant + mature fruits and receptacular chaff, both from Texas Angelina County (not project target-zone).",
+    "important_new_research_photo_links": [
+      {
+        "source": "NC State Extension leaf attachment",
+        "url": "https://plants.ces.ncsu.edu/plants/bidens-laevis/",
+        "role": "Opposite simple leaves attached at stem node, side view; copyrighted study link only"
+      },
+      {
+        "source": "UC Irvine natural history",
+        "url": "https://nathistoc.bio.uci.edu/plants/Asteraceae/Bidens%20laevis/Bidens%20laevis.htm",
+        "role": "Simple full leaf photographed with hand scale and a separate yellow head; photo alone cannot prove leaf attachment",
+        "reuse": "source site study link only"
+      },
+      {
+        "source": "USGS Plants of Louisiana, Bidens laevis",
+        "url": "https://warcapps.usgs.gov/PlantID/Species/Details/2311",
+        "role": "Whole flowering plant with attached slender opposite leaves, habitat",
+        "reuse": "USGS photo; specific reusable license must be verified"
+      }
+    ],
+    "photo_missing": "Fully licensed B. laevis leaf BASE macro and same-scale matched B. cernua head/fruit.",
+    "scientific_correction": "Original species and genus lesson incorrectly stated 'perennial wetland' as default; corrected per Flora of North America B. laevis."
+  },
+  "visual_photo_polish_2026_10_12": {
+    "licensed_ray_macro": {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_1a.jpg",
+      "creator": "jimduggan24",
+      "license": "CC BY 2.0",
+      "feature": "Full ray floret versus central disk florets on same flower head; pixels visually inspected",
+      "annotation_ready": true,
+      "not_proven": "Simple sessile leaf attachment not in this frame"
+    }
+  }
+}

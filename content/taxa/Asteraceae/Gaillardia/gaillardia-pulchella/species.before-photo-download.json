@@ -1,0 +1,42 @@
+{
+  "id": "gaillardia-pulchella",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia pulchella",
+  "authority": "Foug.",
+  "common_name": "Indian Blanket",
+  "field_group": "Showy red-and-yellow composite",
+  "project_tracker_diagnostic": "Annual to short-lived perennial with striking red to maroon ray bases and yellow tips; hairy stems/leaves; phyllaries often reflexed or spreading.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual or short-lived perennial.",
+    "habit": "Erect branched herb, often hairy.",
+    "leaves": "Alternate, mostly entire to lobed, hairy; lower leaves often spoon-shaped or lobed.",
+    "heads": "Large showy heads with red/maroon-centered rays tipped yellow; disk reddish to purplish.",
+    "phyllaries": "In several series, often spreading or reflexed, sometimes somewhat leafy.",
+    "fruit": "Cypselae with a pappus of scales/aristate awns.",
+    "best_field_traits": [
+      "red-and-yellow heads",
+      "hairy foliage",
+      "showy blanketflower look"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

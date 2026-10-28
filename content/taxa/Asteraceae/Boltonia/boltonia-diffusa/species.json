@@ -1,0 +1,89 @@
+{
+  "id": "boltonia-diffusa",
+  "family": "Asteraceae",
+  "genus": "Boltonia",
+  "species": "diffusa",
+  "scientific_name": "Boltonia diffusa",
+  "common_name": "Diffuse boltonia",
+  "look_here_first": "Inspect small white-ray daisy heads on finely branched stems; examine narrow leaf blades, disc florets and phyllaries.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_036": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:185784-1",
+  "images": [
+    {
+      "file": "images/inat-24088672.jpg",
+      "role": "Recognize · several small white-rayed daisy heads along thin branching green stems, photographed with a hand for size",
+      "creator": "(c) Paul Marcum, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/24088672",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review036-9d53ebe5e091783.jpg",
+      "role": "Look closer · white ray florets around yellow disk and adjacent closed green head; phyllary arrangement needs a sharper side view",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5867869137",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580810509/original.jpg",
+      "source_determination": "Boltonia diffusa",
+      "source_observation_id": "5867869137",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/boltonia-diffusa/gbif-5acbd26114a1e3.jpg",
+      "archive_image_sha256": "937f3c181d05c21a3a1af01960fe53c34b88860de97a95fce542c7d496c05d11",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review036-d8bfcd304240b6d.jpg",
+      "role": "Recognize · thin spreading stems with narrow leaves and many tiny flowering heads seen at plant scale",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "beth_snow",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5868197022",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580633981/original.jpg",
+      "source_determination": "Boltonia diffusa",
+      "source_observation_id": "5868197022",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/boltonia-diffusa/gbif-1aeef759e7bacc.jpg",
+      "archive_image_sha256": "b4aea552cc87431b437e68d5c366da66b700b58a6f5970a4acb68bc77b48100e",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

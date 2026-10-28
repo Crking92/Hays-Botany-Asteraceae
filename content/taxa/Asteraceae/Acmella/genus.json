@@ -1,0 +1,29 @@
+{
+  "rank": "genus",
+  "name": "Acmella",
+  "family": "Asteraceae",
+  "common_group": "spotflowers",
+  "project_scope": {
+    "selection_mode": "approved-source-pool learner fast-fill",
+    "species_ids": [
+      "acmella-repens"
+    ],
+    "species_count": 1,
+    "admission_note": "A. repens approved for learner; target-zone range UNRESOLVED."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Check opposite leaves at a trailing node and then dissect the head for the chaffy conical receptacle and fruit.",
+    "shared": "Herbs with pedunculate heads, yellowish disk florets and paleate receptacles; fruit and node characters matter more than ray color."
+  },
+  "local_lookalike_cautions": [
+    "Eclipta prostrata: opposite leaves but usually white rays; check receptacle and fruits.",
+    "Synedrella nodiflora: different head placement and cypsela architecture.",
+    "Sphagneticola trilobata: commonly lobed leaves and larger rays."
+  ],
+  "diagnostic_photo_checklist": [
+    "opposite leaves/rooted node",
+    "head side and front",
+    "dissected conical receptacle",
+    "mature cypsela"
+  ]
+}

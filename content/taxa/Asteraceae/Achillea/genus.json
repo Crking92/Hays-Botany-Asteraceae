@@ -1,0 +1,29 @@
+{
+  "rank": "genus",
+  "name": "Achillea",
+  "family": "Asteraceae",
+  "common_group": "yarrows",
+  "project_scope": {
+    "selection_mode": "approved-source-pool learner fast-fill",
+    "species_ids": [
+      "achillea-millefolium"
+    ],
+    "species_count": 1,
+    "admission_note": "A. millefolium approved for learner; Texas native-range CONFLICT; exclude from native metrics."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Inspect finely divided leaves and a single capitulum; compare ray count, phyllary rows and the flat-topped arrangement of many small heads.",
+    "shared": "Aromatic herbs with many small heads in clustered inflorescences; leaf dissection and capitulum architecture are primary learner cues."
+  },
+  "local_lookalike_cautions": [
+    "Anthemis cotula has solitary larger heads; inspect cluster architecture.",
+    "Tanacetum parthenium has broader lobed foliage and larger heads.",
+    "Artemisia ludoviciana has less finely divided foliage and inconspicuous heads."
+  ],
+  "diagnostic_photo_checklist": [
+    "finely divided leaf macro",
+    "whole corymb",
+    "head front and phyllary side view",
+    "mature cypsela with scale"
+  ]
+}

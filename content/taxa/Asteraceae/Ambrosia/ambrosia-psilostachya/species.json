@@ -1,0 +1,156 @@
+{
+  "id": "ambrosia-psilostachya",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia psilostachya",
+  "authority": "DC.",
+  "common_name": "Western Ragweed",
+  "project_tracker_diagnostic": "Perennial ragweed; lower leaves opposite and upper leaves alternate; blades toothed to pinnately lobed; often forms colonies from spreading roots/rhizomes.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect perennial, often colony-forming.",
+    "leaves": "Lower leaves opposite, upper alternate; deltate to lanceolate, pinnately toothed to 1-pinnately lobed.",
+    "flowers": "Male heads in terminal spike-like racemes; female heads clustered below.",
+    "fruit": "Small obpyramidal to globose burs with 0–6 short distal spines/tubercles.",
+    "best_field_traits": [
+      "Perennial often forming connected patches from creeping rhizomes; check underground connections only where disturbance is appropriate",
+      "Lower leaves commonly opposite, upper alternate; blades toothed to deeply lobed, but leaf form varies",
+      "Terminal elongated clusters of pollen-bearing male heads; small seed-bearing female heads occur below, toward leaf axils",
+      "Compare annual Ambrosia artemisiifolia: often more finely dissected foliage and no persistent perennial rhizome network; leaf shape alone can overlap",
+      "Compare giant ragweed A. trifida: much larger broad 3–5-lobed leaves and tall coarse stems; inspect reproductive heads for confirmation"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation.",
+    "remaining_need": "NEEDS_DIAGNOSTIC_PHOTO: close-up female seed-bearing heads/burs with scale and safely exposed rhizome connection. annotation_pending until exact photographed structures and rights are verified."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Look closer · upright green spikes of crowded pollen-bearing male heads above narrow deeply lobed ragweed foliage; fruit not visible",
+      "creator": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+      "license": "cc-by-sa",
+      "source_page": "https://www.inaturalist.org/taxa/60129",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303178849/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "303178849",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · mature-looking spike of small male heads and hairy branching stems; lower leaves visible but not a root or rhizome view",
+      "creator": "AnRo0002, no known copyright restrictions (public domain)",
+      "license": "pd",
+      "source_page": "https://www.inaturalist.org/taxa/60129",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303178860/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "303178860",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Recognize · small erect leafy ragweed plant in dry open ground; flower spikes and microscopic traits not resolved",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398764129",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731537560/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "398764129",
+      "photo_id": "731537560",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · deeply divided gray-green leaf segments on branching stems; image from same field observation as other two leafy views",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398764129",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731537308/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "398764129",
+      "photo_id": "731537308",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · dense narrow-lobed foliage on the same field plant; not independent evidence of exact species identification",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398764129",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/731537343/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "398764129",
+      "photo_id": "731537343",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "field_id_lesson": {
+    "status": "FIELD-READY, PHOTO GAPS",
+    "look_here_first": "Check lower opposite versus upper alternate leaves, then terminal drooping-to-upright clusters of pollen-bearing male heads. Search just below these spikes and in upper leaf axils for the much smaller female heads. Do not identify from leaf lobing alone.",
+    "crew_checkpoints": [
+      "Habit: erect perennial, frequently in colonies; rhizomes are supporting evidence only when already exposed, not a reason to dig up managed sites.",
+      "Leaves: lower opposite and upper alternate; variable toothed to pinnately lobed blades. Photograph both nodes and a complete blade.",
+      "Flowers: terminal racemes of small male heads, with separate female heads lower down near upper leaf axils. Photograph both on the same plant.",
+      "Fruit: burs may have 0–6 short spines or tubercles; photograph mature fruit beside a millimeter scale before relying on this trait."
+    ],
+    "local_look_alikes": [
+      {
+        "taxon": "Ambrosia artemisiifolia",
+        "distinguish": "Annual common ragweed typically has more finely dissected foliage; check perennial rhizome evidence and flowering structures rather than leaf form alone."
+      },
+      {
+        "taxon": "Ambrosia trifida",
+        "distinguish": "Giant ragweed usually has much larger broad leaves, often with 3–5 palmate lobes, unlike the narrower pinnately lobed leaves here."
+      }
+    ],
+    "photo_roles": [
+      {
+        "role": "habit and colony",
+        "status": "existing leafy field views; no rhizome connection verified"
+      },
+      {
+        "role": "lower and upper leaf nodes",
+        "status": "NEEDS_DIAGNOSTIC_PHOTO: both node positions clearly shown"
+      },
+      {
+        "role": "male inflorescence",
+        "status": "existing images 01 and 02; no new arrow claimed"
+      },
+      {
+        "role": "female heads and mature burs",
+        "status": "NEEDS_DIAGNOSTIC_PHOTO: macro with millimeter scale"
+      },
+      {
+        "role": "rhizome connection",
+        "status": "NEEDS_DIAGNOSTIC_PHOTO: opportunistic exposed connection only"
+      }
+    ],
+    "annotation_status": "annotation_pending: verify exact visible organ and pixel coordinates before adding arrows",
+    "public_photo_note": "Existing CC BY-NC photos retain public_reuse=review pending individual public-use verification; do not upgrade rights or status by inference."
+  }
+}

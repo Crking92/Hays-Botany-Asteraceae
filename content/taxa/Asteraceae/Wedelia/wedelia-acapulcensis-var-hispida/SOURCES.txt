@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:967065-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:967065-1
+Photographed under scientific synonym: Wedelia hispida
+Source research-grade observation: https://www.inaturalist.org/observations/189791954
+Photo: https://www.inaturalist.org/photos/332574197
+Attribution: (c) Joey Santore, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

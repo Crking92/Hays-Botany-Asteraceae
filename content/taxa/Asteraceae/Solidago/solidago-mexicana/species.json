@@ -1,0 +1,121 @@
+{
+  "id": "solidago-mexicana",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "species": "mexicana",
+  "scientific_name": "Solidago mexicana",
+  "authority": "L.",
+  "common_name": "Southern seaside goldenrod",
+  "look_here_first": "Check the thick, often somewhat fleshy narrow alternate leaves and the long terminal cluster of small yellow heads, often borne predominantly on one side of branches. Coastal wet-saline habitat is a supporting cue, not proof by itself.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved source pool / Master Plant Pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "B070 deep review recognizes an Atlantic/Gulf coastal marsh and dune species; no confirmed native county among the inland project target counties. Cultivated Central Texas records do not establish native range.",
+    "range_guardrail": "Not counted as a confirmed target-zone native unless a separate three-county PASS review is completed."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Rhizomatous perennial goldenrod of coastal marshes, dunes, and brackish margins.",
+      "Leaves alternate, comparatively thick and narrow; inspect leaf texture and venation rather than flower color.",
+      "Numerous small yellow composite heads in a terminal, often one-sided inflorescence.",
+      "Inflorescence architecture and fleshy leaf texture together are more useful than plant height.",
+      "Check mature involucres and foliage against closely related seaside goldenrods before final ID."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Solidago sempervirens",
+      "Solidago altissima",
+      "Solidago canadensis",
+      "Solidago gigantea"
+    ],
+    "key_distinctions": "The seaside-goldenrod complex needs current accepted-name and geographic context; older references may fold S. mexicana into S. sempervirens. Inland S. altissima and S. canadensis typically have thinner serrate, three-nerved leaves and broader arching panicles; S. gigantea also differs in stem surface and inland ecology. Confirm with leaf thickness, venation, heads, and range together."
+  },
+  "images": [
+    {
+      "file": "images/solidago-mexicana-provisional-face.jpg",
+      "role": "Recognize · arching yellow goldenrod flower branch and narrow leaves; white-rayed aster-like flowers belong to background vegetation",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_mexicana1.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/joey-inat-185752133.jpg",
+      "role": "Confirm clue · multiple yellow composite heads with green overlapping involucral bracts (phyllaries) and yellow florets; exact species determination remains provisional",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/185752133",
+      "observation_url": "https://www.inaturalist.org/observations/110141358",
+      "observation_id": "110141358",
+      "photo_id": "185752133",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/185752133/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-185752146.jpg",
+      "role": "Look closer · upright spray of small yellow heads, green involucral bracts and developing florets; basal leaves and stem traits not visible",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/185752146",
+      "observation_url": "https://www.inaturalist.org/observations/110141358",
+      "observation_id": "110141358",
+      "photo_id": "185752146",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/185752146/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "Whole coastal habitat and habit",
+    "Thick narrow alternate leaf close-up and stem attachment",
+    "Leaf surface/venation macro",
+    "Terminal panicle architecture",
+    "Small capitula and phyllaries",
+    "Mature cypsela and pappus"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/solidago-mexicana/draft.json; research-queue.json B070",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

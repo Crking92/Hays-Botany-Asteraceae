@@ -1,0 +1,24 @@
+CHRYSACTINIA MEXICANA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing preferred Joey Santore frames retained first:
+1) chrysactinia-mexicana_habit-source-label_03-40.jpg
+   Joey Santore / Crime Pays But Botany Doesn't
+   https://www.youtube.com/watch?v=Y7A530PjEbU
+   Private study only; public reuse not cleared.
+   Role: low flowering habit / limestone context.
+2) chrysactinia-mexicana_flower-head-leaves_04-00.jpg
+   Joey Santore / Crime Pays But Botany Doesn't
+   https://www.youtube.com/watch?v=Y7A530PjEbU
+   Private study only; public reuse not cleared.
+   Role: yellow heads paired with narrow foliage.
+
+Additional exact-species licensed image:
+- Creator: Stan Shebs
+- License: CC BY-SA 3.0 (also offered under compatible older license/GFDL terms)
+- Source: https://commons.wikimedia.org/wiki/File:Chrysactinia_mexicana.jpg
+- Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chrysactinia_mexicana.jpg
+- Role: whole flowering mound / branch architecture.
+
+This brings the fast-fill gallery to three complementary views while retaining Joey material as the preferred teaching source.

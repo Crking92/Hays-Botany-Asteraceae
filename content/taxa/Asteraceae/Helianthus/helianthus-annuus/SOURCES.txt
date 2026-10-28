@@ -1,0 +1,24 @@
+Helianthus annuus — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://w3.biosci.utexas.edu/prc/K12/pages/Helianthus%20annuus.html
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:119884-2
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200024005
+
+PROJECT TRACKER DIAGNOSTIC
+Annual; usually branching; broad rough leaves, often opposite below and alternate above; heads with dark disk and yellow rays; achenes 2-awned.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH1-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.
+
+2026-10-08 GENUS POLISH SOURCES
+Flora of North America, Helianthus genus key: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114871
+Oklahoma State University identification reference: https://extension.okstate.edu/programs/plant-id/plant-profiles/annual-sunflower
+Note: comparison photo source/rights and additional original-site photo links are in content/taxa/Asteraceae/Helianthus/genus.json. This update does not alter county-range status.

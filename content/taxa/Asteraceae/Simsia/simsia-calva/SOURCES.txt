@@ -1,0 +1,19 @@
+Simsia calva — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249220-1
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067530
+https://www.npsot.org/posts/native-plant/simsia-calva/
+
+PROJECT TRACKER DIAGNOSTIC
+Perennial/subshrub with winged petiole bases that often fuse into conspicuous nodal discs; yellow-orange heads usually solitary or in 2s–3s; rough foliage.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH3-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

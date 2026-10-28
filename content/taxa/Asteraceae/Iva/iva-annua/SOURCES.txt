@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Iva%20annua
+Source research-grade observation: https://www.inaturalist.org/observations/61694753
+Photo: https://www.inaturalist.org/photos/98747913
+Attribution: (c) Curtis Eckerman, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Iva annua
+Creator: Linda Jo Conn; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938067615
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/iva-annua/gbif-2bc21f0db630d9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Iva annua
+Creator: Richard Aguirre; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110255981
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/iva-annua/plantnet-via-gbif-e117baa42f0cf2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

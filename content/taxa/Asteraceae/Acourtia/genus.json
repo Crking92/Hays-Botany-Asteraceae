@@ -1,0 +1,247 @@
+{
+  "rank": "genus",
+  "name": "Acourtia",
+  "family": "Asteraceae",
+  "project_scope": {
+    "species_ids": [
+      "acourtia-runcinata",
+      "acourtia-wrightii"
+    ],
+    "species_count": 2
+  },
+  "shared_genus_characters": {
+    "look_here_first": "First decide whether leaves form a deeply lobed basal rosette or grow along branched leafy stems. Confirm with head arrangement, disk floret count and phyllary tips.",
+    "shared": "Perennial Asteraceae with rayless pink/lavender heads and pappus-bearing cypselae. Color is not a reliable separator."
+  },
+  "species_comparison_matrix": [
+    {
+      "species": "Acourtia runcinata",
+      "leaves": "Deeply pinnately lobed basal rosette",
+      "stems": "Low, mostly leafless scapes",
+      "heads": "1–3 heads, 25–53 florets",
+      "phyllaries": "Acuminate"
+    },
+    {
+      "species": "Acourtia wrightii",
+      "leaves": "Unlobed dentate cauline leaves",
+      "stems": "Taller branched leafy stems",
+      "heads": "Clustered, 8–12 florets",
+      "phyllaries": "Obtuse to shortly acute"
+    }
+  ],
+  "local_lookalike_cautions": [
+    "A. microcephala has spinulose leaf teeth and pointed/mucronate phyllaries; count overlap makes phyllaries essential.",
+    "A. nana has small rounded hollylike leaves."
+  ],
+  "diagnostic_photo_checklist": [
+    "basal vs cauline leaves",
+    "flower head front and side",
+    "phyllary tips",
+    "whole plant habit"
+  ],
+  "common_group": "Desertpeonies / brownfoot",
+  "look_here_first": "Find the BASE of the plant and follow its leaves upward. A deeply pinnately lobed basal rosette with mostly leafless flowering scapes points to A. runcinata; unlobed toothed leaves along taller branched stems point to A. wrightii. Then check head floret counts and phyllary tips on a mature head; flower color is shared.",
+  "study_strategy": {
+    "shared_traits": [
+      "Perennial members of Asteraceae: each apparent flower head is a capitulum made of multiple disk florets, without ray florets in the two installed species.",
+      "Heads are subtended by overlapping involucral bracts (phyllaries); their tip shapes provide supporting species-level characters.",
+      "Leaves are toothed to divided, but where the leaves are carried (basal rosette versus leafy stem) is more informative than the color of the heads.",
+      "Fruits are cypselae with a pappus; photograph mature fruits when available rather than relying on petal color."
+    ],
+    "priority": [
+      "1 · Photograph the plant BASE and the first 20–30 cm of stem: basal rosette and mostly leafless scapes versus tall branched leafy stems.",
+      "2 · Photograph an intact mid-stem leaf with its attachment: deeply pinnately lobed basal leaves versus unlobed dentate alternate cauline leaves.",
+      "3 · Photograph multiple mature heads: 1–3 relatively large heads versus clusters of smaller heads.",
+      "4 · On a head face count disk florets: canonical accounts give 25–53 for A. runcinata and 8–12 for A. wrightii; use intact mature heads.",
+      "5 · Turn the head sideways and magnify phyllary tips: long-tapering acuminate versus blunt to shortly acute."
+    ],
+    "warning": "Both are rayless, pink/lavender-headed composites. A close-up of the colored head alone cannot show basal-versus-cauline foliage. Species counts and phyllary tips follow the settled canonical cards; do not extrapolate to unreviewed Acourtia taxa."
+  },
+  "quick_key": [
+    {
+      "if": "Deeply pinnately lobed leaves concentrated in a basal rosette; mostly leafless scapes; usually 1–3 heads with 25–53 disk florets and acuminate phyllaries",
+      "then": "Acourtia runcinata — featherleaf desertpeony"
+    },
+    {
+      "if": "Alternate, unlobed but dentate leaves distributed along taller branched stems; clustered heads with about 8–12 disk florets and blunt to shortly acute phyllaries",
+      "then": "Acourtia wrightii — brownfoot"
+    },
+    {
+      "if": "Only a flower-head close-up, incomplete leaf base, or immature heads are visible",
+      "then": "Leave as Acourtia sp. until leaf architecture and mature head details are available"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Featherleaf desertpeony vs brownfoot",
+      "look_here_first": "Photograph the entire plant from ground level before zooming into the flower heads: where are the leaves, and are the flowering stalks leafy?",
+      "field_matrix": [
+        {
+          "character": "Leaf placement and division (PRIMARY)",
+          "runcinata": "Basal rosette; deeply pinnately lobed leaves",
+          "wrightii": "Alternate cauline leaves on branched stems; blades unlobed but dentate",
+          "strength": "high, when complete plant visible"
+        },
+        {
+          "character": "Flowering stem architecture (PRIMARY)",
+          "runcinata": "Low, mostly leafless scapes",
+          "wrightii": "Taller branched, leafy flowering stems (canonical habit 30–150 cm)",
+          "strength": "high, with intact base"
+        },
+        {
+          "character": "Head number and grouping",
+          "runcinata": "Usually 1–3 heads per flowering stalk",
+          "wrightii": "Heads grouped in clusters on branched stems",
+          "strength": "strong supporting character"
+        },
+        {
+          "character": "Disk florets per mature head",
+          "runcinata": "25–53 (canonical account)",
+          "wrightii": "8–12 (canonical account)",
+          "strength": "high supporting count; use mature, intact heads"
+        },
+        {
+          "character": "Phyllary tips",
+          "runcinata": "Acuminate, long-tapering",
+          "wrightii": "Obtuse to shortly acute, blunt to short-pointed",
+          "strength": "supporting; requires sharp side macro"
+        },
+        {
+          "character": "Ray florets and head color",
+          "runcinata": "Ray florets absent; pink/lavender disk heads",
+          "wrightii": "Ray florets absent; pink/lavender disk heads",
+          "strength": "shared; NOT a separator"
+        }
+      ],
+      "caution": "Color and raylessness are shared. Detached heads can conceal the strongest distinction: leaf distribution. A. microcephala can resemble brownfoot and may overlap in head counts; verify its sharper leaf teeth and pointed/mucronate phyllaries in an authoritative key before species assignment."
+    }
+  ],
+  "overlap_cautions": [
+    "Both canonical species lack ray florets and may have pink/lavender heads; color is not a species-level decision.",
+    "Do not use a detached head to infer whether foliage is basal or cauline. Capture the whole plant and the stem base.",
+    "Counts of disk florets require mature intact heads and correct counting of individual florets, not petals or phyllaries.",
+    "Phyllary tip shape is best viewed from the side; damage or immature tips can imitate a shorter point.",
+    "Acourtia microcephala and A. nana are comparison-only names in this lesson, not newly admitted or confirmed local species.",
+    "Both installed species retain UNRESOLVED target-zone native-range status; no range or taxonomy decisions are changed."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Acourtia microcephala",
+      "scope": "regional/taxonomic comparison only; local presence not asserted",
+      "separate_by": "Compare leaf-margin spinulose teeth and pointed or mucronate phyllaries; do not rely on head-floret counts alone."
+    },
+    {
+      "taxon": "Acourtia nana",
+      "scope": "taxonomic comparison only; local presence not asserted",
+      "separate_by": "Look for small rounded, hollylike leaves rather than the deeply lobed basal rosette or taller leafy stems."
+    },
+    {
+      "taxon": "Other rayless pink/purple Asteraceae",
+      "scope": "general field confusion",
+      "separate_by": "Confirm capitulum and phyllary architecture; then use Acourtia leaf placement, mature heads and cypselae rather than color."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": 1,
+      "role": "paired whole plant with ground line",
+      "species": [
+        "acourtia-runcinata",
+        "acourtia-wrightii"
+      ],
+      "target": "Include rosette, stem base and full flowering axis; mark basal versus cauline leaves.",
+      "status": "runcinata diagnostic habit photo missing; polish lane"
+    },
+    {
+      "priority": 1,
+      "role": "matched leaf-and-attachment closeups",
+      "species": [
+        "acourtia-runcinata",
+        "acourtia-wrightii"
+      ],
+      "target": "Runcinata deeply lobed basal blade versus wrightii unlobed dentate cauline blade; include node and scale.",
+      "status": "wrightii existing leaf reference; runcinata missing"
+    },
+    {
+      "priority": 1,
+      "role": "matched head face with florets counted",
+      "species": [
+        "acourtia-runcinata",
+        "acourtia-wrightii"
+      ],
+      "target": "One mature head per species, annotate individual disk florets and compare canonical 25–53 versus 8–12.",
+      "status": "wrightii inflorescence reference available; runcinata missing"
+    },
+    {
+      "priority": 1,
+      "role": "matched side-on involucre macro",
+      "species": [
+        "acourtia-runcinata",
+        "acourtia-wrightii"
+      ],
+      "target": "Arrow to one phyllary tip, label acuminate versus obtuse/shortly acute; include scale.",
+      "status": "wrightii phyllary reference available; runcinata missing"
+    },
+    {
+      "priority": 2,
+      "role": "mature cypsela and pappus macro",
+      "species": [
+        "acourtia-runcinata",
+        "acourtia-wrightii"
+      ],
+      "target": "Document fruit and pappus to reinforce genus identification; do not claim this alone separates these two species.",
+      "status": "pending"
+    }
+  ],
+  "existing_media_references": [
+    {
+      "species_id": "acourtia-wrightii",
+      "file": "images/acourtia-wrightii-inflorescence.jpg",
+      "role": "clustered rayless heads",
+      "license": "CC BY 4.0",
+      "status": "listed in canonical species images"
+    },
+    {
+      "species_id": "acourtia-wrightii",
+      "file": "images/acourtia-wrightii-phyllaries.jpg",
+      "role": "phyllary tips",
+      "license": "CC BY 4.0",
+      "status": "listed in canonical species images"
+    },
+    {
+      "species_id": "acourtia-wrightii",
+      "file": "images/acourtia-wrightii-leaf.jpg",
+      "role": "cauline toothed leaf",
+      "license": "CC BY 4.0",
+      "status": "listed in canonical species images"
+    },
+    {
+      "species_id": "acourtia-runcinata",
+      "role": "basal rosette, scape, mature head and phyllary closeups",
+      "status": "canonical images[] empty; no photo asserted"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Obtain exact-species, rights-clear A. runcinata whole-plant/basal rosette, leaf, mature head and phyllary images; pair with existing A. wrightii roles. No generic look-alike substitutions."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Only if an intermediate/atypical Acourtia specimen appears, confirm head-floret counts and phyllary-tip key against a primary flora before asserting a strict exclusion; existing canonical cards are not reopened by this lesson."
+    }
+  ],
+  "sources": [
+    "content/taxa/Asteraceae/Acourtia/acourtia-runcinata/species.json",
+    "content/taxa/Asteraceae/Acourtia/acourtia-wrightii/species.json",
+    "content/taxa/Asteraceae/family.json",
+    "data/manifest.json"
+  ],
+  "curation_status": {
+    "version": "2.0-genus-comparison-builder",
+    "last_reviewed": "2026-10-12",
+    "canonical_species_unchanged": true,
+    "range_decisions_unchanged": true,
+    "visual_status": "field-comparison-text-ready; runcinata diagnostic-photo-backfill-pending"
+  }
+}

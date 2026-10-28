@@ -1,0 +1,117 @@
+{
+  "id": "brickellia-dentata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "species": "dentata",
+  "scientific_name": "Brickellia dentata",
+  "authority": "(DC.) Sch.Bip.",
+  "common_name": "Gravelbar / leafy brickellbush",
+  "synonyms": [
+    "Clavigera dentata DC.",
+    "Brickellia riddellii A.Gray"
+  ],
+  "look_here_first": "First inspect alternate leaves (often coarsely toothed but occasionally entire) and narrow cylindrical flower heads. Use a loupe to check 18–22 phyllaries in 5–6 overlapping series and 13–20 disk florets. At fruiting, confirm mostly hairless cypselae with 30–35 tawny pappus bristles. Do not use river-gravel habitat or leaf teeth alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 158,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Kew accepts Texas native species, but exact three-county project threshold was not reviewed in this installation; native-only metrics excluded pending independent range review."
+  },
+  "morphology_keys": {
+    "habit": "Branched woody shrub about 60–120 cm; stems finely hairy and sparsely gland-dotted.",
+    "leaves": "Alternate, short-petiolate (1–2 mm); blades lanceolate to lance-ovate, 5–40 × 3.5–12 mm, faintly three-veined from base; margins usually coarsely toothed but sometimes entire; gland dots.",
+    "heads": "Narrow panicle of cylindrical to bell-shaped involucres 7–11 mm, phyllaries 18–22 in 5–6 series, florets 13–20, pale green/yellow tubular disk corollas.",
+    "fruits": "Cypselae 3.5–4 mm, usually glabrous; 30–35 tawny barbellate to subplumose pappus bristles.",
+    "best_field_traits": [
+      "Alternate often toothed leaves",
+      "13–20 disk florets per head",
+      "Phyllaries 18–22 in 5–6 series",
+      "Mostly hairless mature cypselae with tawny bristles"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Brickellia cylindracea",
+      "Brickellia eupatorioides"
+    ],
+    "key_distinctions": "B. dentata typically has alternate, toothed leaves and mostly glabrous cypselae; B. cylindracea frequently has opposite/subopposite leaves with a woolly underside; B. eupatorioides usually has opposite leaves and often subplumose pappus. Confirm with mature heads and fruits, not leaf position alone.",
+    "cautions": "Leaf teeth and leaf arrangement vary; compare several mature nodes and mature cypselae. Do not force a separation on sterile material."
+  },
+  "diagnostic_image_needs": [
+    "Habit on limestone gravel/river-scour substrate",
+    "Leaf nodes showing alternate arrangement and gland dots",
+    "Head macro showing phyllary series and florets",
+    "Mature cypsela and pappus macro",
+    "Matched comparison with B. cylindracea and B. eupatorioides"
+  ],
+  "images": [
+    {
+      "file": "images/joey-inat-201249816.jpg",
+      "role": "First-pass whole-plant/recognition candidate; exact diagnostic structures not checked",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/201249816",
+      "observation_url": "https://www.inaturalist.org/observations/119072389",
+      "observation_id": "119072389",
+      "photo_id": "201249816",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/201249816/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-364816879.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/364816879",
+      "observation_url": "https://www.inaturalist.org/observations/206273363",
+      "observation_id": "206273363",
+      "photo_id": "364816879",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/364816879/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "missing_diagnostic_views": [
+      "Review close-ups of the diagnostic plant parts"
+    ],
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "At least one Joey Santore photograph installed; fine diagnostic verification pending."
+  },
+  "photo_note": "Exact-species photo candidate known from iNaturalist/Commons, but downloader-ready license/source not yet verified; no placeholder or other Brickellia species substituted. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

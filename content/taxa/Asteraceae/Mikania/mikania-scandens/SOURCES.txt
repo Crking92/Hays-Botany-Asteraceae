@@ -1,0 +1,9 @@
+Approved source pool working taxon Mikania scandens; original source rows 713.
+Taxonomy search https://powo.science.kew.org/results?q=Mikania%20scandens
+Exact licensed image Commons file https://commons.wikimedia.org/wiki/File:Mikania_scandens_4481.jpg
+Physical original download via https://commons.wikimedia.org/wiki/Special:Redirect/file/Mikania%20scandens%204481.jpg
+Creator Vengolis
+Image license CC BY-SA 4.0
+Photo provisional role Provisional photographed climbing vine habit; head flower count not anatomically checked.
+Caution Do not claim local occurrence from this source photo; distinguish from other climbing Asteraceae.
+Photo is an aid, not completed independent confirmation of all botanical parts or Hays-range nativity.

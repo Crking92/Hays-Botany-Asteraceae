@@ -1,0 +1,116 @@
+{
+  "id": "artemisia-tridentata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Artemisia",
+  "species": "tridentata",
+  "scientific_name": "Artemisia tridentata",
+  "authority": "Nutt.",
+  "common_name": "Big sagebrush",
+  "synonyms": [
+    "Seriphidium tridentatum"
+  ],
+  "look_here_first": "LOOK HERE FIRST: Check for a persistent woody shrub with many short gray-green wedge-shaped leaves, commonly ending in three short rounded teeth. Confirm gray-brown woody stems and, when present, upright sprays of tiny heads. Three tips alone are not proof: compare the shrub habit and leaf proportions.",
+  "taxonomy_notes": "POWO accepts Artemisia tridentata at species rank and recognizes multiple subspecies. The source pool is species-level. Do not assign a subspecies from a Utah photograph or create synonym duplicates.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 100; approved source-pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "native_metrics_excluded": true,
+    "notes": "Preserve prior internal FAIL_TARGET_ZONE decision. A failed project-target county threshold is not itself proof of introduced or invasive status. No default native/non-native badge."
+  },
+  "morphology_keys": {
+    "habit": "Aromatic, gray-haired, woody shrub typically 0.4–2 m tall, sometimes larger; substantial older trunks and branches with exfoliating gray bark; not rhizomatous.",
+    "leaves_attachment": "Persistent small gray-green leaves on shoots, typically wedge-shaped, 0.5–3.5 cm long and narrow, commonly shallowly three-lobed at tip with rounded lobes; some leaves may be entire.",
+    "flower_reproductive": "Tiny discoid heads in upright, branching panicle-like clusters; narrow involucres around 1.5–4 mm long, with woolly phyllaries; no showy rays.",
+    "fruit_seed": "Small dry one-seeded cypselae around 1–2 mm; inspect under magnification.",
+    "stem_bud": "Woody gray-brown branches, gray bark peeling in strips; gray-hairy vegetative growth."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Artemisia ludoviciana (rhizomatous, upright perennial herb with much larger and more variable leaves, rather than a persistent woody shrub)",
+      "Artemisia tripartita (leaves more deeply three-lobed with narrow acute lobes; shrub often root-sprouting)",
+      "Artemisia arbuscula (much smaller low sagebrush; use mature shrub habit and heads)"
+    ],
+    "key_distinctions": "Combine persistent woody shrub habit with short, gray-green wedge-shaped leaves bearing three shallow rounded terminal lobes. In A. tripartita lobes are proportionally deeper; A. ludoviciana is a rhizomatous herb."
+  },
+  "diagnostic_image_needs": [
+    "staged_source: exact-species Utah shoot showing shallow three-tipped leaves, Kenraiz CC BY-SA 4.0; do not claim the photo shows mature bark or flowers",
+    "needs_photo: entire mature woody shrub with branching architecture",
+    "needs_photo: mature woody stem/bark and basal crown",
+    "needs_photo: leaf apex macro showing rounded three lobes beside A. tripartita",
+    "needs_photo: involucre and flower heads macro with scale",
+    "annotation_pending: arrows only after exact installed image is checked"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/artemisia-tridentata-leaves-commons.jpg",
+      "role": "Look closer · short silvery gray-green leaves with rounded three-tipped ends along upright woody twig; entire shrub not shown",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Artemisia_tridentata_kz20.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 4.0"
+    },
+    {
+      "file": "images/library-review013-ec182e0899b824b.jpg",
+      "role": "Recognize · mature gray woody shrub bearing numerous tall brown dried flowering sprays; leaf and flower microscopic traits not shown",
+      "requested_diagnostic_view": "Tall flowering stems and fine gray foliage closeup; complements existing gray leafy branch",
+      "creator": "Daughter Dad",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938567434",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605263211/original.jpg",
+      "source_determination": "Artemisia tridentata",
+      "source_observation_id": "5938567434",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/artemisia-tridentata/gbif-5d7417c64fc010.jpg",
+      "archive_image_sha256": "bdcb517fb32beb74d110e8c500888dfdab210543cfc6368761d0a8e62f734803",
+      "image_dimensions": [
+        1400,
+        788
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review013-5f37bf12a8f47a5.jpg",
+      "role": "Look closer · fuzzy silvery three-tipped leafy shoots next to brown dry flowerhead sprays; small floral anatomy unresolved",
+      "requested_diagnostic_view": "Tall flowering stems and fine gray foliage closeup; complements existing gray leafy branch",
+      "creator": "Daughter Dad",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938674414",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605538890/original.jpg",
+      "source_determination": "Artemisia tridentata",
+      "source_observation_id": "5938674414",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/artemisia-tridentata/gbif-241e41a4490c20.jpg",
+      "archive_image_sha256": "e9f0e949fcdfec530022db411dd308059d70c34f44c103d06f9d17d4044d8855",
+      "image_dimensions": [
+        1400,
+        788
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_013": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

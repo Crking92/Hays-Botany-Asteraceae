@@ -1,0 +1,162 @@
+{
+  "id": "helianthus-annuus",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
+  "scientific_name": "Helianthus annuus",
+  "authority": "L.",
+  "common_name": "Annual Sunflower",
+  "field_group": "Tall yellow composite / sunflower complex",
+  "project_tracker_diagnostic": "Annual, usually taprooted; broad rough ovate-triangular usually serrate leaves with conspicuous petioles and often 3 strong basal veins; branching variable; broad abruptly tapering phyllaries.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual herb, usually with a taproot; do not use a single year's appearance alone to infer lifecycle.",
+    "habit": "Coarse, erect, stiff-hairy stems; often branching, though some wild plants and cultivated forms are little-branched.",
+    "leaf_arrangement": "Lower leaves sometimes opposite; much of stem often alternate. Arrangement alone cannot separate this from H. maximiliani.",
+    "leaves": "Representative mid-stem leaves broadly ovate to triangular, often heart-based; rough, usually prominently serrate and visibly petiolate (petioles ca. 2–20 cm).",
+    "leaf_venation": "Usually 3 conspicuous veins arising from or near the leaf base; blade is generally flat, not narrow and V-folded.",
+    "leaf_attachment": "Longer petiole is readily visible; compare several mature mid-stem nodes against Maximilian's sessile/short-petioled leaves.",
+    "heads": "Wild forms typically 1–9 heads, usually terminal on stem or branches; very large cultivated flower heads and strongly branched forms vary.",
+    "phyllaries": "Broad ovate to lance-ovate bracts (often 5–8 mm wide) with abruptly acuminate tips, hairy/ciliate edges; check side or underside of a mature head.",
+    "fruit": "Flattened cypselas usually bearing a pair of deciduous scales/awns; shared character, not the key split from Maximilian.",
+    "best_field_traits": [
+      "broad, commonly toothed, petiolate leaf: inspect a mid-stem blade",
+      "3 strong veins from near leaf base",
+      "coarse rough annual stem; branching may vary",
+      "broad phyllaries with rather abruptly narrowed tips"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · solitary large yellow sunflower head held high on an upright leafy flowering stem in open habitat",
+      "creator": "(c) Emily Scherer, some rights reserved (CC BY-NC), uploaded by Emily Scherer",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/57983",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323768714/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "323768714",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · yellow ray florets surrounding crowded dark central disk florets; leaf insertion and phyllaries not shown",
+      "creator": "(c) Emily Scherer, some rights reserved (CC BY-NC), uploaded by Emily Scherer",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/57983",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323768723/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "323768723",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Look closer · smaller yellow sunflower head with broad rough-looking leaves in surrounding vegetation; source observation identity provisional",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412285",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740687506/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "403412285",
+      "photo_id": "740687506",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · aging or spent dark sunflower heads along rough branching stems with a few yellow rays remaining; leaves partly obscured",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412285",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740687567/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "403412285",
+      "photo_id": "740687567",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · several drying dark-headed sunflower branches in grassy vegetation; no close phyllary or leaf-node view",
+      "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403412285",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740687536/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "403412285",
+      "photo_id": "740687536",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg/1280px-Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg",
+      "role": "diagnostic broad leaf, basal veins and petiole",
+      "creator": "Harry Rose",
+      "license": "cc-by-2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg",
+      "photo_id": "25167425755",
+      "platform": "Wikimedia Commons (Flickr original)",
+      "geography": "Australia",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg/1280px-Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms and linked attribution",
+      "media_storage": "externally hosted verified exact-species link; not a local project image",
+      "external_reference": true,
+      "visual_role_reviewed": "2026-10-08"
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Helianthus_annuus_%285021132604%29.jpg/960px-Helianthus_annuus_%285021132604%29.jpg",
+      "role": "diagnostic mature underside phyllary macro, broad and coarse-hairy",
+      "creator": "Matt Lavin",
+      "license": "cc-by-sa-2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_(5021132604).jpg",
+      "photo_id": "5021132604",
+      "platform": "Wikimedia Commons (Flickr original)",
+      "geography": "Bozeman, Montana",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Helianthus_annuus_%285021132604%29.jpg/960px-Helianthus_annuus_%285021132604%29.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms and linked attribution",
+      "media_storage": "externally hosted verified exact-species link; not a local project image",
+      "external_reference": true,
+      "visual_role_reviewed": "2026-10-08"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-helianthus-id-polish",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-08",
+    "photo_metadata_count": 7,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "comparison_partner": "helianthus-maximiliani",
+    "visual_polish_status": "leaf_attachment_and_phyllary_pair_in_gallery__matched-scale_local_photo_optional",
+    "remote_diagnostic_photo_count": 2
+  },
+  "diagnostic_comparison": {
+    "look_first": "Mid-stem leaf: broad + stalked + commonly toothed + 3 strong basal veins = H. annuus; check several nodes.",
+    "separate_from": "helianthus-maximiliani",
+    "confirm_with": "Compare underside of flowering head: broader phyllaries with more abrupt pointed ends in H. annuus.",
+    "caution": "Disk color, yellow rays, height, branching and opposite/alternate leaf arrangement alone are unreliable."
+  },
+  "source_audit": {
+    "date": "2026-10-08",
+    "reference": "Flora of North America",
+    "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200024005",
+    "scope": "Morphology and pairing only. County native-range status left unchanged."
+  }
+}

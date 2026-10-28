@@ -1,0 +1,24 @@
+PHOTO FAST-FILL 046 — Verbesina lindheimeri
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact-species UT Plant Resources Center Travis County herbarium specimen.
+Source: https://w3.biosci.utexas.edu/prc/specimens/Asteraceae5.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/txu-herb-00407332.JPG
+Source attribution: UT Plant Resources Center / Lundell Herbarium
+Individual photographer: not stated
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / leaf and flower architecture
+Media only; scientific status unchanged.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:59:14.177044+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260226880
+https://www.inaturalist.org/observations/150870386
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:18:07.459034+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260226898
+https://www.inaturalist.org/observations/150870386
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

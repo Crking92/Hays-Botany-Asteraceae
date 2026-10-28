@@ -1,0 +1,43 @@
+{
+  "id": "wedelia-acapulcensis-var-hispida",
+  "family": "Asteraceae",
+  "genus": "Wedelia",
+  "species": "acapulcensis",
+  "entry_type": "infraspecific_taxon",
+  "infraspecific_rank": "variety",
+  "infraspecific_epithet": "hispida",
+  "scientific_name": "Wedelia acapulcensis var. hispida",
+  "common_name": "Texas creeping-oxeye",
+  "look_here_first": "Inspect opposite rough-haired leaves, creeping or sprawling stems, and yellow composite heads; compare phyllaries and mature dry fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:967065-1",
+  "synonyms": [
+    "Wedelia hispida"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-332574197.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/332574197",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

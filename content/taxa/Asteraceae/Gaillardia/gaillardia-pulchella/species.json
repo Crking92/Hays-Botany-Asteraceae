@@ -1,0 +1,104 @@
+{
+  "id": "gaillardia-pulchella",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia pulchella",
+  "authority": "Foug.",
+  "common_name": "Indian Blanket",
+  "field_group": "Showy red-and-yellow composite",
+  "project_tracker_diagnostic": "Annual to short-lived perennial with striking red to maroon ray bases and yellow tips; hairy stems/leaves; phyllaries often reflexed or spreading.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual or short-lived perennial.",
+    "habit": "Erect branched herb, often hairy.",
+    "leaves": "Alternate, mostly entire to lobed, hairy; lower leaves often spoon-shaped or lobed.",
+    "heads": "Large showy heads with red/maroon-centered rays tipped yellow; disk reddish to purplish.",
+    "phyllaries": "In several series, often spreading or reflexed, sometimes somewhat leafy.",
+    "fruit": "Cypselae with a pappus of scales/aristate awns.",
+    "best_field_traits": [
+      "red-and-yellow heads",
+      "hairy foliage",
+      "showy blanketflower look",
+      "flip the head over and inspect the spreading/reflexed phyllaries"
+    ],
+    "joey_field_note": "Joey physically flips a Gaillardia pulchella head over in the Edwards Plateau video and points out the elongated, spiky phyllaries—an especially useful structural cue beyond flower color."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "FHkFcxU0N5Q",
+      "timestamp": "03:23",
+      "record_id": "FHkFcxU0N5Q-03",
+      "role": "phyllaries / involucre / composite head underside",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Look closer · red ray florets with yellow outer tips surrounding a central reddish disk; underside phyllaries not shown",
+      "creator": "TexasEagle",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/taxa/51768",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Recognize · multiple red-and-yellow flowering heads above a low branched plant in open ground",
+      "creator": "Conway Hawn",
+      "license": "CC0",
+      "source_page": "https://www.inaturalist.org/taxa/51768",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Recognize · solitary red-and-yellow flowerhead on narrow leafy stems among grasses; same observation as next two views",
+      "creator": "Nina Leonard",
+      "license": "all rights reserved",
+      "source_page": "https://www.inaturalist.org/observations/376883263",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · red-and-yellow ray florets and reddish disk florets on one head; leaf hair and phyllary details not resolved",
+      "creator": "Nina Leonard",
+      "license": "all rights reserved",
+      "source_page": "https://www.inaturalist.org/observations/376883263",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Look closer · small rough-looking leaves and stem held for scale; not a flowerhead anatomy image",
+      "creator": "Nina Leonard",
+      "license": "all rights reserved",
+      "source_page": "https://www.inaturalist.org/observations/376883263",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-batch1-joey",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "joey_enhanced": true
+  }
+}

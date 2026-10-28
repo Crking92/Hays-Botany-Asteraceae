@@ -1,0 +1,36 @@
+{
+  "id": "centaurea-melitensis",
+  "family": "Asteraceae",
+  "genus": "Centaurea",
+  "species": "melitensis",
+  "scientific_name": "Centaurea melitensis",
+  "common_name": "Malta starthistle",
+  "look_here_first": "Inspect a yellow composite flower head surrounded by narrow phyllaries ending in sharp spines; look for winged stem portions.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:190991-1",
+  "images": [
+    {
+      "file": "images/inat-352790294.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) abounabatphone, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/352790294",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

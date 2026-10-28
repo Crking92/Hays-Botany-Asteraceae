@@ -1,0 +1,91 @@
+{
+  "id": "aphanostephus-skirrhobasis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Aphanostephus",
+  "species": "skirrhobasis",
+  "scientific_name": "Aphanostephus skirrhobasis",
+  "authority": "(DC.) Trel. ex Coville & Branner",
+  "common_name": "Arkansas lazydaisy",
+  "look_here_first": "LOOK HERE FIRST: follow the low, hairy, branching annual stems to individual terminal daisy heads. Check alternate narrow-to-spatulate leaves and the overlapping, pale-margined phyllaries under a head. For the hard separation from perennial A. riddellii, inspect plant duration/root and mature cypsela hairs with magnification; white rays alone are not diagnostic.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool (2026-10-15, row 79)",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Accepted taxon native to Texas at state level. No three-target-county PASS assigned; source-pool learner admission is independent of range certification."
+  },
+  "taxonomy_notes": "Accepted species under POWO and Flora of North America. The species includes varieties kidderi, skirrhobasis, and thalassius; source row does not establish an infraspecific identity. Do not silently install a variety-level duplicate.",
+  "morphology_keys": {
+    "habit": "Taprooted annual, low and branching; stems often decumbent to ascending, hairy, commonly forming loose mounds.",
+    "leaves_attachment": "Basal and alternate stem leaves, sessile or short-petiolate, from oblanceolate to narrow-lanceolate; lower leaves may be toothed or lobed while upper leaves can be less divided. Surface hairs are visible at close range.",
+    "flower_reproductive": "One radiate flower head at the end of a stalk; white rays (sometimes pinkish beneath) surround yellow disc florets. Under each head are several overlapping rows of phyllaries with pale, scarious margins; receptacle conical and without chaff.",
+    "fruit_seed": "Mature dry one-seeded cypselae are angular/strongly ribbed, often with short duplex hairs curved at the tip; the pappus is a short crown or small scales. Mature disc-corolla bases can become bulbously swollen. Fruit hair form and corolla-base details require a microscope or macro.",
+    "stem_bud": "Check soft to spreading hairs on branches and the solitary nodding-to-upright head buds; do not use bud posture alone as species proof."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aphanostephus riddellii (perennial lazydaisy)",
+      "Aphanostephus pilosus (annual; straighter cypsela hairs and generally fewer rays)",
+      "Erigeron spp. (small white-rayed fleabanes)"
+    ],
+    "key_distinctions": "A. skirrhobasis is annual and develops bulbously swollen mature disc-corolla bases and one-directionally coiled cypsela hairs; A. riddellii is perennial, has unswollen mature disc-corolla bases and glochidiate/pronged cypsela hairs. These decisive fruit traits need magnification. Erigeron generally differs in the combination of phyllaries, conical receptacle, fruit ribs and pappus; never separate by flower color alone."
+  },
+  "diagnostic_image_needs": [
+    "external_reference_until_installed: sonnia hill CC BY 2.0 photo of flowering annuals; shows numerous white-rayed heads and leaves, but not microscopic fruit hairs.",
+    "needs_photo: basal and cauline leaf sequence with leaf attachment and margin variation, close enough to see hairs.",
+    "needs_photo: side and underside of head showing 3-4 phyllary rows, scarious margins and receptacle.",
+    "needs_photo: mature cypsela under dissecting microscope showing coiled duplex hairs and short coroniform pappus; compare directly with A. riddellii glochidiate hairs.",
+    "needs_photo: dissected mature disc floret base showing swollen corolla base; verified arrows annotation_pending.",
+    "needs_photo: perennial A. riddellii vs annual A. skirrhobasis roots/habit in same-scale comparison."
+  ],
+  "images": [
+    {
+      "file": "images/aphanostephus-skirrhobasis-flowering-sonnia-hill.jpg",
+      "role": "Flowering habit",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aphanostephus_skirrhobasis_(Louisiana).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes_with_attribution"
+    },
+    {
+      "file": "images/gbif-manual-6234325420-9515cb1b5.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Involucre/phyllaries, mature fruit and hairs",
+      "creator": "Jane Weeden",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234325420",
+      "gbif_occurrence_id": "6234325420",
+      "source_determination": "Aphanostephus skirrhobasis (DC.) Trel. ex Coville & Branner",
+      "accepted_target": "Aphanostephus skirrhobasis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647500618/original.jpg",
+      "image_dimensions": [
+        1350,
+        900
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_photo_candidate",
+    "note": "One exact-species licensed flowering-habit photo staged; physical installation unverified until curation Action completes. Fruit micrographs and comparison views assigned to Diagnostic Photo Polish. No arrows verified."
+  },
+  "photo_note": "Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

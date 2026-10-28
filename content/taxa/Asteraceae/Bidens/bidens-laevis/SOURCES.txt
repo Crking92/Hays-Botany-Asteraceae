@@ -1,0 +1,26 @@
+# Bidens laevis — source-pool learner curation 2026-10-10
+Source: Calvin Master Plant Pool row 135; prior taxonomy/diagnostic review 2026-10-08.
+Learner admission: APPROVED. Target-zone native range: UNRESOLVED; exclude native-only metrics.
+POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:32497-2
+FNA Bidens key: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=103917
+FNA/source-pool review distinguishes B. frondosa vs B. laevis by leaf architecture, rays, calyculus and cypselae.
+Exact-species Commons images and licenses:
+- https://commons.wikimedia.org/wiki/File:Bidens%20laevis.jpg — sonnia hill, CC BY 2.0, role: Flowering plant and radiate heads; leaf and bract details still need macros
+- https://commons.wikimedia.org/wiki/File:Bidens%20laevis%20-%20achenes%20and%20chaff.jpg — sonnia hill, CC BY 2.0, role: Mature cypselae and receptacular chaff; diagnostic reproductive detail
+Photo gap: matched leaf-node, calyculus and fruit macro comparison needed. Image source geography is not evidence of target-zone nativity.
+
+2026-10-12 VISUAL GENUS POLISH (REMOTE ONLY, NOT LOCAL BINARY)
+- Actual close-up large yellow RAY FLORET versus central numerous DISK FLORETS: jimduggan24, CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Bidens_laevis_1a.jpg
+  External image in species.json; species image-sources.csv intentionally lists physically stored filenames only. This photo DOES NOT show simple leaves at the stem node. Original flower photograph inspected; genus study arrows mark one ray and many central disk florets.
+- Existing physical specimen flowering/context: sonnia hill, CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Bidens_laevis.jpg
+- Existing physical mature fruit CHAFF and CYPSELA photo: sonnia hill, CC BY 2.0 (Angelina County TX, Dec 2019, not target zone)
+  https://commons.wikimedia.org/wiki/File:Bidens_laevis_-_achenes_and_chaff.jpg
+  Inspected source preview and used two nonmetric annotations on true dark fruit cluster and pale receptacular chaff.
+- Simple sessile leaf attachment STUDY PHOTO ONLY; source rights not cleared:
+  https://plants.ces.ncsu.edu/plants/bidens-laevis/
+- Original authoritative FNA ID:
+  https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416177
+  Life cycle ANNUAL (SOMETIMES PERSISTING) — this replaces prior erroneously 'perennial' description. Compared with B. cernua outer fruit margins often more conspicuously thickened/winged.
+SCIENTIFIC RANGE UNRESOLVED preserved, no 3-county PASS inferred from offsite photos.

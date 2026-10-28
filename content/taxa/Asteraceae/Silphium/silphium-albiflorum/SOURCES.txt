@@ -1,0 +1,26 @@
+Silphium albiflorum — B129 LEARNER FAST-FILL
+
+Science
+- Current Kew/POWO accepts Silphium albiflorum A.Gray and treats it as Texas-native.
+- BONAP/NAPA is the project county-distribution cross-check.
+- Travis County: University of Texas Plant Resources Center specimen/index evidence.
+- Burnet County: documented occurrence at Doeskin Ranch, Balcones Canyonlands National Wildlife Refuge.
+- Mason County: Texas Parks and Wildlife Department Mason Mountain WMA vascular flora.
+- Project decision: PASS — Travis + Burnet + Mason.
+- Guardrail: the Purola/Hays occurrence is introduced and is not counted as native Hays evidence.
+
+Identification
+- White ray florets are the fastest project-level split from the yellow-headed Silphium comparisons.
+- Foliage is tough/rough and commonly strongly lobed or divided.
+- Dry limestone/calcareous prairie is characteristic habitat.
+
+FAST-FILL images
+1. Silphium albiflorum Flowers.jpg — TDogg310 — CC BY-SA 4.0 — Wikimedia Commons.
+2. Silphium albiflorum.jpg — Mason Brock (Masebrock) — public domain — Wikimedia Commons.
+Two exact-species images are sufficient for provisional learner-ready use now. Add a leaf/phyllary or fruit macro later.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:04:14.261994+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/205850584
+https://www.inaturalist.org/observations/121635076
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

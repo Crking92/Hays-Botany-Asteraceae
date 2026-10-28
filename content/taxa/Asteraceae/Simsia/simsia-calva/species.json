@@ -1,0 +1,101 @@
+{
+  "id": "simsia-calva",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Simsia",
+  "scientific_name": "Simsia calva",
+  "authority": "(A.Gray & Engelm.) A.Gray",
+  "common_name": "Bush Sunflower",
+  "project_tracker_diagnostic": "Perennial/subshrub with winged petiole bases that often fuse into conspicuous nodal discs; yellow-orange heads usually solitary or in 2s–3s; rough foliage.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial or subshrub.",
+    "habit": "Erect to ascending, often 30–150 cm.",
+    "leaves": "Opposite; petiole bases dilated/winged and often fused across the node into a disc; blades ovate, sometimes 3-lobed.",
+    "heads": "Usually solitary, sometimes 2–3; rays light orange-yellow, often brown/purple-lined beneath.",
+    "fruit": "Cypselae often with pappus absent or minute.",
+    "best_field_traits": [
+      "At an intact opposite-leaf node, look for widened/winged petiole bases connecting across the stem into a nodal disc; this is the strongest practical recognition feature.",
+      "Perennial/subshrub with coarse hairy stems and ovate, sometimes three-lobed, opposite leaves.",
+      "Heads commonly single or in twos or threes; rays light orange-yellow, often dark-lined on undersides.",
+      "Compare Simsia lagasceiformis: usually annual, with different nodal-disc and root habit; do not rely on pappus absence alone, as it overlaps.",
+      "Crew photo sequence: whole plant; front/side node macro; underside of head; mature fruit with scale. Mark only visible structures on correctly identified licensed images."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation.",
+    "remaining_need": "Find a verified nodal-disc close-up (two petiole bases fused across stem) and a mature fruit macro; existing photos do not establish nodal-disc evidence. Do not invent arrow coordinates.",
+    "public_media_audit": "Removed all-rights-reserved photo metadata from the public learner card; historical file may still be in repository and needs separate inventory cleanup. Remaining CC BY-NC photos require individual noncommercial-use checks. Do not add diagnostic arrows until visible structures and adaptation rights are verified.",
+    "scientific_reference": "Flora of North America Simsia calva treatment (https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067530); UT Austin Vascular Plants of Williamson County Simsia calva account."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · several yellow flowerheads above broad coarsely toothed and lobed leaves on branching stems; source species identity not independently verified",
+      "creator": "(c) Laura Clark, some rights reserved (CC BY), uploaded by Laura Clark",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/taxa/169002",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19450753/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "19450753",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Recognize · sprawling leafy green flowering plant among other vegetation; individual leaf and flower characters not resolved",
+      "creator": "(c) ecmoser, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/380450072",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696026910/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "380450072",
+      "photo_id": "696026910",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · face of yellow ray florets surrounding raised golden disk florets; phyllaries hidden from this angle",
+      "creator": "(c) ecmoser, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/380450072",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696026871/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "380450072",
+      "photo_id": "696026871",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Confirm clue · underside of yellow flowerhead with many narrow hairy green involucral bracts (phyllaries) and hairy stalk; exact species ID remains provisional",
+      "creator": "(c) ecmoser, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/380450072",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696026883/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "380450072",
+      "photo_id": "696026883",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  }
+}

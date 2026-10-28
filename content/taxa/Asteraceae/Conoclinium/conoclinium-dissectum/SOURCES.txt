@@ -1,0 +1,48 @@
+Conoclinium dissectum — SOURCES
+Reviewed: 2026-09-30
+
+CURRENT ACCEPTED TAXONOMY
+Kew Plants of the World Online:
+https://powo.science.kew.org/taxon/197046-1
+
+POWO treats:
+- Conoclinium greggii Small
+- Eupatorium greggii A.Gray
+as synonyms of Conoclinium dissectum A.Gray.
+
+FLORA OF NORTH AMERICA
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066412
+
+FNA supports:
+- ovate-deltate to ovate leaves
+- margins dissected or lobed
+- blue/lavender/purple discoid florets
+- phyllaries 3.5–5 mm
+- Texas occurrence
+
+NATIVE PLANT SOCIETY OF TEXAS
+https://www.npsot.org/posts/native-plant/conoclinium-greggii/
+NPSOT currently displays Gregg's Mistflower under Conoclinium dissectum while preserving the familiar common name.
+
+
+JOEY SANTORE SPECIES LAYER
+Video: West Texas Native Plant Landscaping (Pro Jahb)
+Video ID: mA0uMKVyswA
+Record jvid-mA0uMKVyswA-010 @ 00:12:50 — source label Conoclinium greggii; current project taxonomy reconciles that name to Conoclinium dissectum.
+Diagnostic value: whole-plant/landscape habit and mounded growth.
+Rights: extracted video frame is private-study material; public reuse is not assumed.
+
+ADDITIONAL COMMONS:
+{
+  "file_name": "06-public-domain-greggs-plant.jpg",
+  "role": "Labeled Gregg's mistflower habit and divided foliage context; isolated diagnostic leaf macro still pending",
+  "platform": "Wikimedia Commons",
+  "observation_id": "",
+  "photo_id": "",
+  "creator": "Stickpen",
+  "license": "Public Domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Eupatoriumgreggii1.jpg",
+  "direct_image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eupatoriumgreggii1.jpg",
+  "study_use": "yes",
+  "public_reuse": "yes"
+}

@@ -1,0 +1,394 @@
+{
+  "rank": "genus",
+  "name": "Bidens",
+  "family": "Asteraceae",
+  "common_group": "beggarticks / bur-marigolds",
+  "project_scope": {
+    "selection_mode": "2026-10-12 live manifest + approved source pool",
+    "species_ids": [
+      "bidens-frondosa",
+      "bidens-laevis"
+    ],
+    "species_count": 2,
+    "admission_note": "Both source-pool species approved for learner; native-range UNRESOLVED until target-county audit.",
+    "range_note": "Both UNRESOLVED, no automatic native PASS; additional comparison-only taxa not installed."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Start with ONE leaf attached to a MIDDLE stem node: compound 3(–5) leaflets versus SIMPLE sessile blade. Then look at the actual OUTER green calyculus (extra bract ring) and INNER phyllaries behind each disk/head. Finally magnify the ripe wedge-shaped CY­PSELA (fruit) and individual barbed AWNS; rays yellow/absent alone insufficient.",
+    "shared": "Opposite leaves often, Asteraceae heads with yellow/orange disk florets and optional rays. Two nested sets of bracts: outer green leaflike CALYCULUS bractlets, inner overlapping involucre PHYL­LARIES. Flattened fruit (cypsela, often wrongly called a seed) with 2–4 spine-like pappus AWNS whose barbs catch fur and clothing; awn count and anatomy vary across species.",
+    "glossary": [
+      {
+        "term": "Compound leaf",
+        "plain": "One whole leaf made of several individual small leaflets attached to one shared stalk."
+      },
+      {
+        "term": "Simple leaf",
+        "plain": "One continuous blade on one leaf base, even when the margin is toothed."
+      },
+      {
+        "term": "Calyculus",
+        "plain": "Outer crown of often green, leaflike bractlets UNDER the main overlapping flower-head bracts."
+      },
+      {
+        "term": "Phyllary",
+        "plain": "One of the inner overlapping bracts wrapping around the disk/florets."
+      },
+      {
+        "term": "Ray floret",
+        "plain": "One strap-shaped individual flower, NOT one petal belonging to a larger flower."
+      },
+      {
+        "term": "Cypsela",
+        "plain": "The dry one-seeded FRUIT, like the sticky black beggartick 'seed'."
+      },
+      {
+        "term": "Pappus awn",
+        "plain": "Pointed tip on cypsela bearing tiny hooks; often two or more like a tiny pitchfork."
+      },
+      {
+        "term": "Retrorse",
+        "plain": "Barbs point BACK toward the base/fruit, like a fishhook."
+      },
+      {
+        "term": "Antrorse",
+        "plain": "Barbs point FORWARD toward the awn tip; some frondosa awns and fruit margins vary."
+      }
+    ]
+  },
+  "species_comparison_matrix": [
+    {
+      "taxon": "Bidens frondosa",
+      "growth": "ANNUAL",
+      "leaf": "Opposite petiolate compound leaves usually 3, sometimes 5 serrated leaflets",
+      "head": "Ray florets 0 or 1–3, small (2–3.5 mm), inconspicuous; orange-yellow disk",
+      "bracts": "Calyculus usually 5–8(–10), ciliolate outer green bractlets",
+      "fruit": "Outer cypsela 5–7 mm, inner 7–10 mm; usually 2 barbed pappus awns ~2–5 mm",
+      "first": "Find shared petiole for three leaflets attached to one stem leaf node",
+      "lookalike": "B. vulgata (comparison-only) has compound or laciniate leaves too, but calyculus usually 10–16(–21) and more deeply cut leaflets."
+    },
+    {
+      "taxon": "Bidens laevis",
+      "growth": "ANNUAL, sometimes persists (corrected 2026-10-12; NOT default perennial)",
+      "leaf": "Opposite, usually sessile SIMPLE lanceolate/elliptic blades, coarse teeth often",
+      "head": "Usually 7–8 yellow rays ~15–25 mm; occasionally rays absent",
+      "bracts": "Calyculus often 5–7(–9+) bractlets, often spread/reflex; inner phyllaries ~8–12",
+      "fruit": "Outer cypsela 6–8 mm, inner 8–10 mm; usually 2–4 awns ~3–5 mm; margins not conspicuously corky-winged",
+      "first": "Find one entire simple leaf STILL attached at opposite stem node",
+      "lookalike": "B. cernua (comparison-only) may have simple leaves & 6–8 rays, but rays often 2–15 mm; cypsela margins often thickened/winged and awns 1–4 mm. These overlap."
+    }
+  ],
+  "decision_sequence": [
+    "1. Take photo of middle STEM NODE with both opposite leaves and at least one full leaf attached. Count leaflets per LEAF, not leaves per NODE.",
+    "2. THREE separate toothed leaflets on common petiole? Favor B. frondosa, but check B. vulgata and calyculus bract number.",
+    "3. ONE long toothed SIMPLE sessile blade per leaf? Favor B. laevis, but B. cernua also simple; photograph flower head and mature fruits.",
+    "4. Turn intact HEAD SIDEWAYS: the extra longer green outer calyculus bractlets are outside/BELOW the inner shorter overlapping phyllaries; avoid counting inner as outer.",
+    "5. With 10× lens and millimeter scale, image a ripe dark CY­PSELA: how many barbed AWNS, do margins have conspicuous corky WINGS, and how long is fruit body vs awn?",
+    "6. If no mature fruit or reliable complete calyculus, identify Bidens sp. or cf. B. laevis/frondosa, rather than invent certainty."
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "group": "frondosa",
+      "role": "Complete three-leaflet leaf with petiole, ideally opposite node in frame",
+      "status": "CC BY-SA 4.0 complete standalone compound leaf FOUND, actual original image reviewed, two correct arrows added in genus. Stem node still missing.",
+      "source": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-18.jpg"
+    },
+    {
+      "priority": 1,
+      "group": "laevis",
+      "role": "One undivided sessile leaf on actual opposite stem node",
+      "status": "High-quality photographic NC State source LINK only, image reuse rights not cleared.",
+      "source": "https://plants.ces.ncsu.edu/plants/bidens-laevis/"
+    },
+    {
+      "priority": 1,
+      "group": "frondosa",
+      "role": "Outer calyculus 5–8(–10) versus inner phyllaries on head side",
+      "status": "Original longitudinal fruit-head photo reviewed and outer bract + awns arrowed; a whole SIDE HEAD complete calyculus count against vulgata remains open."
+    },
+    {
+      "priority": 1,
+      "group": "laevis",
+      "role": "True ripe cypsela vs B. cernua winged/corky fruit margins",
+      "status": "Existing licensed Texas fruit/chaff photograph physically installed; B. cernua comparable licensed fruit image outstanding."
+    },
+    {
+      "priority": 2,
+      "group": "frondosa-vulgata",
+      "role": "Count entire calyculus 5–8 vs 10–16(–21) on same-scale intact heads",
+      "status": "Both species mature head study macros not yet matched; B. vulgata comparison-only, not approved new card."
+    }
+  ],
+  "curation_status": {
+    "version": "2.2-bidens-reproductive-arrows-and-maturity-correction",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "range_status": "UNRESOLVED",
+    "photo_polish_pending": true,
+    "last_reviewed": "2026-10-12",
+    "visual_gallery_items": 5,
+    "major_scientific_correction_complete": true,
+    "verified_visual_arrow_count": 8
+  },
+  "head_to_head": [
+    {
+      "pair": "Bidens frondosa vs Bidens laevis",
+      "first": "At MIDDLE stem node, frondosa = ONE compound leaf divided into typically THREE leaflet blades on a shared stalk. Laevis = ONE undivided serrate blade per leaf, sessile/opposite. Frondosa flower head mainly disks, laevis often showy 7–8 rays. Check actual head/fruit anatomy and not color alone.",
+      "photo": "Paired WHOLE leaves with node/base visible, then both heads with outer calyculus bractlets and inner phyllaries."
+    },
+    {
+      "pair": "Bidens frondosa vs Bidens vulgata (comparison only)",
+      "first": "BOTH can be compound-leaved with tiny/absent ray florets; count OUTER calyculus bractlets around the mature head: frondosa ~5–8(–10), vulgata ~10–16(–21). Vulgata often has more deeply laciniate/lobed leaves; variable, don't force ID when count overlaps.",
+      "photo": "Face view showing entire branching compound leaf, head SIDE 360-degree calyculus count; ripe barbed cypselae."
+    },
+    {
+      "pair": "Bidens laevis vs Bidens cernua (comparison only)",
+      "first": "Both SIMPLE sessile leaves and yellow rays in wetlands. Laevis often longer rays ~15–25 mm and fruit margins not notably winged; cernua rays commonly 2–15 mm and mature cypsela margins thickened or corky-winged, usually shorter awns. Nodding in fruit occurs in BOTH.",
+      "photo": "Matched measured rays and OUTER CY­PSELA edge at ≥10× with 1mm ruler; head profile with green outer calyculus visible."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Beggarticks — see the leaf FIRST, then green bracts and sticky fruits",
+    "subtitle": "Six actual Bidens photos, now eight verified broad-structure arrows teach compound leaflets, ray versus disk florets, outer calyculus, fruit awns, mature cypselae and pale receptacular chaff.",
+    "memory_rule": "FRO(N)DOSA: leaf FRACTIONS (3–5) + mostly disk head; LAEVIS: ONE leaf blade + often large yellow rays. For look-alikes, count OUTER calyculus bracts and examine ripe fruit margins.",
+    "items": [
+      {
+        "label": "Devil's beggarticks — whole plant and leaves",
+        "scientific_name": "Bidens frondosa",
+        "image_role": "Recognizable branching habit and reduced rays",
+        "image_url": "content/taxa/Asteraceae/Bidens/bidens-frondosa/images/bidens-frondosa-habit.jpg",
+        "caption": "Study branching reddish stems and leaf divisions. Confirm with the standalone complete-leaf photo next; do not infer a leaflet connection if hidden behind stems.",
+        "creator": "Frank Mayfield",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa.jpg",
+        "image_fit": "contain"
+      },
+      {
+        "label": "B. frondosa — actual complete leaf, photographed from ABOVE",
+        "scientific_name": "Bidens frondosa",
+        "image_role": "Entire compound leaf with leaflet division visible",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bidens%20frondosa%2015-p.bot-biden.frondo-18.jpg",
+        "caption": "Gilles Ayotte photographed an actual Bidens frondosa leaf from above. Notice separate leaflets making ONE compound leaf. Stem node itself is outside this leaf-study photograph: still seek a node macro.",
+        "creator": "Gilles Ayotte / Université Laval",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-18.jpg",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Three leaflets — ONE compound leaf",
+            "label_x": 3,
+            "label_y": 7,
+            "target_x": 57,
+            "target_y": 70
+          },
+          {
+            "label": "Terminal leaflet",
+            "label_x": 58,
+            "label_y": 4,
+            "target_x": 50,
+            "target_y": 29
+          }
+        ],
+        "annotation_note": "Compared against exact original licensed 1263×1828 image: first arrow points at common trifoliate junction x≈57%,y≈70%, second at terminal blade tissue x≈50%,y≈29%. Neither claims a visible STEM NODE (cropped leaf ends below). Added overlay by learner, not part of the source photo.",
+        "photo_status": "ORIGINAL_PIXELS_VIEWED_AND_LEAFLET_JUNCTION_MARKED"
+      },
+      {
+        "label": "B. frondosa — REAL cut-through fruiting head and awns",
+        "scientific_name": "Bidens frondosa",
+        "image_role": "Cut-through head showing dark cypselae, inner/outer bracts and receptacular chaff",
+        "image_url": "content/taxa/Asteraceae/Bidens/bidens-frondosa/images/bidens-frondosa-fruiting-head.jpg",
+        "caption": "Actual photo of a partly developed fruiting head sliced open. TWO different parts are visible: long green OUTER calyculus bract on left and thin developing AWNS projecting from inner fruit bodies. Some fruits here are not dark/fully mature; do not use their apparent color as a mature-state character.",
+        "creator": "Gilles Ayotte / Université Laval",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-12.jpg",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Outer calyculus bract",
+            "label_x": 1,
+            "label_y": 8,
+            "target_x": 18,
+            "target_y": 40
+          },
+          {
+            "label": "Developing fruit awns",
+            "label_x": 67,
+            "label_y": 6,
+            "target_x": 45,
+            "target_y": 30
+          }
+        ],
+        "annotation_note": "Inspected original 2048×1536 Commons image: outer left elongated green bract and central slender awn tips are real. The image is a reproductive developmental cross-section, not a metric scale."
+      },
+      {
+        "label": "B. laevis — flowering plant and simple leaves",
+        "scientific_name": "Bidens laevis",
+        "image_role": "Flowering habit with usually 7–8 conspicuous rays",
+        "image_url": "content/taxa/Asteraceae/Bidens/bidens-laevis/images/bidens-laevis-flowering.jpg",
+        "caption": "The obvious yellow ray FLORETS and narrow undivided stem leaves contrast strongly with B. frondosa, but check real attached leaf and fruit for confidence.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_laevis.jpg",
+        "image_fit": "contain"
+      },
+      {
+        "label": "B. laevis — actual mature fruits and receptacular chaff",
+        "scientific_name": "Bidens laevis",
+        "image_role": "Detailed mature cypselae with chaff, originally photographed in Texas",
+        "image_url": "content/taxa/Asteraceae/Bidens/bidens-laevis/images/bidens-laevis-achenes.jpg",
+        "caption": "Original Texas December macro shows a dense cluster of long dark mature cypselae (fruits), narrow pointed awns and lighter pale receptacular CHAFF/PALEAE between fruits. Corrected labels help avoid calling the pale chaff 'seeds'. There is no ruler in this photo: do not derive 6–10 mm lengths from image pixels.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_-_achenes_and_chaff.jpg",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Dark cypselae (fruits)",
+            "label_x": 68,
+            "label_y": 80,
+            "target_x": 67,
+            "target_y": 68
+          },
+          {
+            "label": "Pale chaff (paleae)",
+            "label_x": 4,
+            "label_y": 80,
+            "target_x": 49,
+            "target_y": 65
+          }
+        ],
+        "annotation_note": "Viewed exact original photograph at Commons 500px preview; dark fruits are on right central radiating group and pale slender chaff emerges between/under fruits. Both labels are broad parts, not measurements. Ensure first render arrow points at the central fruit cluster; recheck at native-resolution if finer labeling planned."
+      },
+      {
+        "label": "Smooth beggarticks — actual RAY FLORET and center DISK FLORETS",
+        "scientific_name": "Bidens laevis",
+        "image_role": "Clear large yellow strap-shaped ray florets and central cluster of small tubular disk florets, same head",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bidens%20laevis%201a.jpg",
+        "caption": "A whole head is made of many flowers: each large YELLOW STRAP is ONE ray floret, and the tight center is MANY tiny tubular disk florets. Compare frondosa's usually rayless/small-rayed heads, but always confirm the leaf and fruit.",
+        "creator": "jimduggan24",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_1a.jpg",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "ONE ray floret",
+            "label_x": 7,
+            "label_y": 14,
+            "target_x": 34,
+            "target_y": 40
+          },
+          {
+            "label": "Many disk florets",
+            "label_x": 59,
+            "label_y": 8,
+            "target_x": 53,
+            "target_y": 56
+          }
+        ],
+        "annotation_note": "Original 953×768 photograph inspected: ray target in upper-left large yellow strap blade; disk target in center yellow/orange tubular floret cluster. Do NOT put an arrow on woolly leaf at bottom claiming species-specific leaf attachment.",
+        "photo_status": "ORIGINAL_PIXELS_VIEWED_AND_TWO_FLORAL_PARTS_LABELED"
+      }
+    ],
+    "overlay_note": "Arrow overlays (8 total) were placed after visually examining original or source previews. Fine individual barbs, calyculus count, fruit lengths and true attached B. laevis leaf base are NOT asserted without macro/ruler evidence. Preserve source photographer/license/attribution; learning arrows are not in originals.",
+    "study_only_intro": "Diagnostic photographs shown on their original sites cannot be copied into the learner without image-specific reuse permission; these are research links for humans.",
+    "study_only_photo_links": [
+      {
+        "label": "B. laevis: actual simple sessile leaves at red opposite stem node, close-up",
+        "url": "https://plants.ces.ncsu.edu/plants/bidens-laevis/",
+        "look_for": "Photograph of leaf BASE and true opposite stem node, often slightly clasping; existing rights not established for copying.",
+        "reuse": "NC State Extension, link only"
+      },
+      {
+        "label": "B. frondosa: complete leaflet-junction image",
+        "url": "https://www.missouriplants.com/Bidens_frondosa_page.html",
+        "look_for": "Multiple true compound leaves with three individual toothed leaflets, photographed isolated against white backdrop.",
+        "reuse": "MissouriPlants copyrighted, link only"
+      },
+      {
+        "label": "B. frondosa: actual separated barbed fruit bodies on palm",
+        "url": "https://harvest.cals.ncsu.edu/plantguidedb/index.cfm?ViewPlantID=10560",
+        "look_for": "Three mature flattened dark cypselae, 2 barbed awns apiece, shown against a palm. Does NOT prove all species fruit characters.",
+        "reuse": "NCSU photo, reuse rights not established, study link only"
+      },
+      {
+        "label": "B. laevis: photograph from Louisiana wetland with leaf attachments",
+        "url": "https://warcapps.usgs.gov/PlantID/Species/Details/2311",
+        "look_for": "Whole flowering plant and attached opposite slender leaves, habitat context.",
+        "reuse": "USGS source; check exact photographer/license before downloading"
+      },
+      {
+        "label": "B. frondosa: photograph from Louisiana wetland with compound leaves",
+        "url": "https://warcapps.usgs.gov/PlantID/Species/Details/2310",
+        "look_for": "Opposite compound leaves and small disk-only heads on actual plant.",
+        "reuse": "USGS photo; check image reuse requirements"
+      },
+      {
+        "label": "B. frondosa: original botanical cut-through cypsela/paleae photo CC BY-SA",
+        "url": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-12.jpg",
+        "look_for": "Count chaff and distinguish two awns from surrounding bracts; already licensed gallery asset.",
+        "reuse": "Gilles Ayotte CC BY-SA 4.0"
+      },
+      {
+        "label": "B. laevis: Texas specimen achenes and paleae photo CC BY",
+        "url": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_-_achenes_and_chaff.jpg",
+        "look_for": "Fruit and thin straw-colored receptacular chaff, source from Angelina County TX; installed.",
+        "reuse": "sonnia hill CC BY 2.0"
+      }
+    ]
+  },
+  "photo_audit_2026_10_12": {
+    "physical_images_frondosa": 2,
+    "physical_images_laevis": 2,
+    "remote_image_frondosa": 1,
+    "genus_gallery_cards": 6,
+    "diagnostic_arrows": 8,
+    "why_no_arrows": "Part photographs are sourced and present; image-pixel coordinates have not been independently checked, so no guessed marker positions.",
+    "remaining": "Node-attached leafy macros, matched 2 species and lookalikes at same scale, calyculus and fruit barbs with metric measurement.",
+    "remote_images_laevis": 1,
+    "feature_verified_arrow_photo_sources": [
+      {
+        "species": "Bidens frondosa",
+        "url": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-18.jpg",
+        "features": [
+          "three leaflet junction",
+          "terminal leaflet"
+        ]
+      },
+      {
+        "species": "Bidens laevis",
+        "url": "https://commons.wikimedia.org/wiki/File:Bidens_laevis_1a.jpg",
+        "features": [
+          "ray floret",
+          "center disk florets"
+        ]
+      }
+    ],
+    "why_no_other_arrows": "Only actual complete original images inspected; small fruit barbs and inner calyculus not yet pixel-position-checked.",
+    "fruit_photo_originals_inspected": true,
+    "critical_phenology_note": "Laval frondosa cut-through photograph includes green developing fruits; don't call every pictured fruit ripe/dark. Texas laevis fruit photo from December shows mature dark cypselae and paleae.",
+    "unresolved_macro": "Metric fruit length and visible awn barb detail still need truly scaled 10× photographs."
+  },
+  "scientific_correction_2026_10_12": "Previously genus.matrix labeled B. laevis 'perennial wetland'; FNA describes annual sometimes persisting. Updated across genus and species card. Also B. frondosa has antrorse OR retrorse barbs, cannot claim always backward.",
+  "authoritative_sources": [
+    {
+      "name": "FNA Bidens genus and key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=103917"
+    },
+    {
+      "name": "FNA Bidens frondosa",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023534"
+    },
+    {
+      "name": "FNA Bidens laevis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416177"
+    },
+    {
+      "name": "FNA Bidens vulgata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416178"
+    },
+    {
+      "name": "FNA Bidens cernua",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023533"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Master Plant Pool row 525: Gutierrezia texana approved; 8 wild iNaturalist observations; Hays County native source.
+Accepted taxonomy: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:210880-1
+Regional morphology: https://w3.biosci.utexas.edu/prc/K12/pages/Gutierrezia%20texana%20texana.html
+Flora of North America: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114211
+Regional lookalike comparison: https://www.inaturalist.org/journal/rymcdaniel/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas
+Jim Conrad 2012 Dry Frio River Uvalde photo source: https://backyardnature.net/n/h/gut-tex.htm
+Public domain image rights: https://www.backyardnature.net/j/copyrite.htm
+Images: 121014gu.jpg flowering canopy; 121014gv.jpg flower-head closeup.
+Photo gaps: matched phyllary reverse sides, disc pappus scales, mature cypselae with ruler.
+County nativity remains UNRESOLVED under 3-county BONAP/NAPA project rule.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:46:50.054519+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/332571417
+https://www.inaturalist.org/observations/189791015
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

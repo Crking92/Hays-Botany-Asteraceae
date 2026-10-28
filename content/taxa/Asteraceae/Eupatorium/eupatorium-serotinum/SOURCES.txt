@@ -1,0 +1,33 @@
+Eupatorium serotinum — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:196058-2
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066633
+
+PROJECT TRACKER DIAGNOSTIC
+Tall herbaceous white composite with opposite serrate leaves and flat-topped clusters of fuzzy white heads; more herbaceous and rank than shrubby boneset.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH2-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.
+
+ADDITIONAL COMMONS:
+{
+  "file_name": "06-flowering-field-branch.jpg",
+  "role": "Wild flowering branches and inflorescence context; single-head phyllary macro still pending",
+  "platform": "Wikimedia Commons",
+  "observation_id": "",
+  "photo_id": "",
+  "creator": "Fritzflohrreynolds",
+  "license": "CC BY-SA 3.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Eupatorium_serotinum_-_Late_Boneset.jpg",
+  "direct_image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eupatorium_serotinum_-_Late_Boneset.jpg",
+  "study_use": "yes",
+  "public_reuse": "yes"
+}

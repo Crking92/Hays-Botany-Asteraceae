@@ -1,0 +1,55 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Chromolaena",
+  "common_group": "Fragrant mistflowers / crucita",
+  "project_scope": {
+    "species_ids": [
+      "chromolaena-odorata"
+    ],
+    "species_count": 1,
+    "learner_role": "LOOKALIKE_COMPARISON",
+    "native_target_zone_proof": "UNRESOLVED"
+  },
+  "look_here_first": "Inspect one individual capitulum sideways: a cylindrical 8–10 mm involucre with 4–6 or more phyllary series, versus rounded shorter Conoclinium heads. Confirm opposite toothed three-veined leaves and branching shrubby habit.",
+  "shared_genus_traits": [
+    "Usually opposite, toothed leaves with 3 basal main veins",
+    "Rayless capitula in branching clusters; overlapping imbricate phyllaries",
+    "Cypselae bearing pappus bristles"
+  ],
+  "lookalike_genus_comparisons": [
+    {
+      "genus": "Conoclinium",
+      "difference": "Individual heads shorter and more hemispherical, fewer series of phyllaries; Gregg's cut leaves especially distinctive"
+    },
+    {
+      "genus": "Ageratina",
+      "difference": "A. havanensis white heads shorter involucres and different phyllaries; often woody; A. altissima herbaceous"
+    },
+    {
+      "genus": "Fleischmannia",
+      "species": "Fleischmannia incarnata",
+      "canonical_status": "fleischmannia-incarnata canonical and 4 real photographs installed on 2026-10-13; specialty bract macros pending",
+      "difference": "Pink thoroughwort overlaps in pink-to-lilac flower color and opposite toothed leaves. Compare ONE capitulum from the side: Fleischmannia short ~4–5 mm involucre with fewer phyllary series versus Chromolaena odorata generally elongated cylindrical ~8–10 mm involucre with numerous imbricate phyllary ranks. Fleischmannia is usually a lax/scandent herb; Chromolaena more robust shrub-like. Do not separate solely by color or leaf shape.",
+      "photo_requirements": [
+        "same-scale lateral capitulum views with arrows on bract series and mm ruler",
+        "mature leaf and stem habit comparison"
+      ]
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "shot": "single head side showing cylindrical overlapping bracts",
+      "status": "rights-clear Commons candidate (J.M.Garg), not scaled"
+    },
+    {
+      "shot": "opposite leaves and long petioles",
+      "status": "rights-clear Commons photo candidate"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-fragrant-comparison",
+    "last_reviewed": "2026-10-12",
+    "scientific_status": "target zone native unresolved"
+  }
+}

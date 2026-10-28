@@ -1,0 +1,360 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Ambrosia",
+  "authority": "L.",
+  "common_group": "Ragweeds",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 3 — ragweeds, thistles, and common roadside species",
+    "species_ids": [
+      "ambrosia-artemisiifolia",
+      "ambrosia-trifida",
+      "ambrosia-psilostachya"
+    ],
+    "species_count": 3
+  },
+  "study_strategy": {
+    "priority": [
+      "whole-plant habit",
+      "leaf arrangement and texture",
+      "head architecture",
+      "phyllaries/involucre",
+      "fruit/pappus when available"
+    ],
+    "warning": "This batch includes several groups where flower color alone is weak; use leaf and involucre characters."
+  },
+  "curation_status": {
+    "version": "2.1-ambrosia-nine-view-photo-teaching",
+    "last_reviewed": "2026-10-13",
+    "visual_status": "comparison built; diagnostic macro photographs pending",
+    "genus_photo_examples": 9,
+    "canonical_species_count": 3,
+    "photo_metadata_verified": true,
+    "photo_files_present_to_be_checked": true,
+    "private_study_status": "Original CC BY-NC/license flags preserved; all-rights-reserved giant-ragweed reference 02 explicitly omitted from genus comparison.",
+    "annotation_status": "Pending actual image-by-image anatomy and spatial verification",
+    "native_range_changes": "none"
+  },
+  "look_here_first": "START with the FLOWERING STEM, not a yellow daisy: Ambrosia usually has dangling male (STAMINATE) flower HEADS on upper terminal branches and tiny female (PISTILLATE) heads lower on/near the leaf axils. Then inspect MID-STEM LEAVES: broad mostly opposite leaves with 3–5 radiating PALMATE lobes suggest giant ragweed (A. trifida); deeply featherlike 1–2-pinnately divided leaves are common ragweed (A. artemisiifolia); narrower often 1-pinnately divided/toothed leaves can be western ragweed (A. psilostachya). Because artemisiifolia and psilostachya overlap, check LIFE HISTORY: annual with no creeping rhizomes versus a perennial spreading from RHIZOMES, then confirm mature female BURS.",
+  "shared_traits": [
+    "Unlike many 'sunflower' relatives, ragweeds have NO showy ray florets; look for tiny unisexual FLOWER HEADS on a green or yellow-green spike-like flowering shoot.",
+    "Each upper STAMINATE (male) head contains several pollen-producing FLORETS within a cup-shaped involucre, often hanging down. Lower PISTILLATE (female) heads contain one floret in these three species, with a surrounding involucre that becomes a bur.",
+    "Ragweeds are monoecious in this field-guide group—male and female heads are separate but typically on the same plant. The male head and female bur are different structures, not successive color phases of one flower.",
+    "Leaves are often opposite at lower nodes and sometimes alternate higher up; mid-stem leaf DISSECTION (palmate versus pinnate) helps, but a single leaf cannot always establish species.",
+    "A female ragweed BUR is a modified persistent INVOLUCRE fused around a one-seeded fruit (CYPSELA); this differs from Xanthium's large two-seeded, many-hooked bur and sunflower-type fruit with conspicuous ray flowers.",
+    "As Asteraceae, each apparent 'male flower' is actually a small HEAD made up of multiple tiny florets; the female head contains a single floret in the three study species."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Mid-stem leaves",
+      "artemisiifolia": "Thin, often twice-pinnatifid",
+      "psilostachya": "Thicker, often once-pinnatifid",
+      "trifida": "Broad, usually palmately 3–5-lobed"
+    },
+    {
+      "character": "Life history",
+      "artemisiifolia": "Annual, no creeping rhizomes",
+      "psilostachya": "Perennial, rhizomatous colonies",
+      "trifida": "Annual, often robust"
+    },
+    {
+      "character": "Leaf attachment",
+      "artemisiifolia": "Opposite below, often alternate above",
+      "psilostachya": "Opposite below, often alternate above",
+      "trifida": "Mostly opposite"
+    },
+    {
+      "character": "Mature female bur",
+      "artemisiifolia": "Small with several short sharp spines",
+      "psilostachya": "Small with blunt or absent tubercles",
+      "trifida": "Larger pyramidal bur, 4–5 apical spines"
+    },
+    {
+      "character": "Flower-head architecture",
+      "artemisiifolia": "Terminal male heads above axillary female heads",
+      "psilostachya": "Terminal male heads above axillary female heads",
+      "trifida": "Same arrangement; sometimes dark-veined male involucres"
+    }
+  ],
+  "overlap_cautions": [
+    "A. artemisiifolia and A. psilostachya leaf dissection and bur spines overlap; confirm rhizomes and mature burs.",
+    "A. trifida can have unlobed leaves; inspect multiple nodes.",
+    "Height and color are not decisive."
+  ],
+  "lookalikes": [
+    "Iva annua: inspect leaf dissection and male/female head arrangement.",
+    "Iva angustifolia: narrow leaves; compare reproductive heads.",
+    "Xanthium strumarium: broad leaves and large paired hooked burs.",
+    "Parthenium hysterophorus: finely dissected leaves but small heads with tiny white rays."
+  ],
+  "diagnostic_photo_checklist": [
+    "Matched mid-stem leaf views with lobe origin labeled for all three.",
+    "Annual root versus western-ragweed creeping rhizome.",
+    "Three mature female burs with millimeter scale and spine/tubercle labels.",
+    "Same-plant terminal male versus axillary female head close-ups.",
+    "Lower and upper stem nodes showing leaf arrangement.",
+    "Matched whole-plant habit and colonies with scale."
+  ],
+  "existing_media_anchors": [
+    {
+      "species_id": "ambrosia-trifida",
+      "source": "Existing Joey Santore study_media video N4yq5Z1_0Eo at 05:43",
+      "role": "male and female heads",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Match licensed close-ups of rhizomes, mid-stem leaves, and mature female burs; preserve author/license and verify each structure before annotation."
+    }
+  ],
+  "sources": [
+    "https://gobotany.nativeplanttrust.org/dkey/ambrosia/",
+    "https://www.worldfloraonline.org/taxon/wfo-0000114875",
+    "https://www.worldfloraonline.org/taxon/wfo-0000137200",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023072",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416043",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023073"
+  ],
+  "genus_diagnostics": {
+    "male_heads": "STAMINATE means 'pollen-producing male.' At the upper end of the plant, look for branchlets of small hanging/cupped head units, each a HEAD of multiple florets—not a long tassel that is one flower. Note the cup-shaped INVOLUCRE; its tiny bracts surround the male florets.",
+    "female_heads": "PISTILLATE means 'female/fruit-producing.' The female head is far smaller, usually nearer leaf axils below the male spikes. Its single floret develops one dry cypsela, enclosed in a persistent INVOLUCRE that hardens into a bur; need extreme closeups to confirm female head and exact spines.",
+    "leaves": "Count where lobes arise from the blade: GIANT ragweed usually 3 (sometimes 5) palmately lobed, broad leaf; COMMON ragweed usually thin 1–2-pinnately divided (cuts follow central axis); WESTERN ragweed often narrower, toothed to 1-pinnately lobed, but overlap with common ragweed is real.",
+    "nodes": "Look at one full node and compare lower versus upper stem: common and western ragweed commonly opposite below and alternate toward the inflorescence. Giant ragweed is mostly opposite but can vary. Do not assume one leaf controls the whole plant's phyllotaxy.",
+    "roots": "Western ragweed is a rhizomatous PERENNIAL: a RHIZOME is a creeping UNDERGROUND stem linking shoots. Common and giant ragweed are ANNUALS arising from seed. Seeing nearby stems does not prove a rhizome; an intact basal/rhizome image is required.",
+    "fruit": "Compare mature female burs at the same scale. COMMON ragweed roughly 2–3 mm globose/pyriform with several (often 3–5+) short sharp projections. WESTERN ragweed roughly 2–3 mm, with zero to several distal projections. GIANT ragweed broader/pyramidal roughly 3–5 mm with about four to five distal spines. Use a millimeter scale and examine multiple ripe samples.",
+    "habit": "Giant ragweed is often tall and robust; western ragweed forms perennial stands; common ragweed is an annual often on disturbed ground. Site management, mowing, competition and age change heights, so habit only guides the next structure.",
+    "family_context": "Ragweed belongs to ASTERACEAE even without yellow petals/ray florets. Here HEAD refers to a cluster of florets and INVOLUCRE refers to the enclosing bracts; for female ragweed the involucre hardens to a bur. Do not describe all Asteraceae as having rays or always both flower sexes in one head."
+  },
+  "quick_key": [
+    {
+      "if": "MID-STEM LEAF BROAD, often 3 PALMATE lobes (possibly unlobed), usually mostly opposite; plant robust annual",
+      "then": "A. trifida — giant ragweed. Confirm comparatively large pyramidal female bur with ~4–5 distal spines."
+    },
+    {
+      "if": "MID-STEM LEAVES very finely 1–2 PINNATELY cut; annual plant without underground connecting rhizomes",
+      "then": "A. artemisiifolia — common ragweed. Confirm small roughly 2–3 mm bur with several short sharp spines."
+    },
+    {
+      "if": "MID-STEM LEAVES narrower, often only 1-PINNATELY lobed or toothed; perennial shoot connected by creeping rhizomes",
+      "then": "A. psilostachya — western ragweed. Confirm small bur with few/absent tubercles; leaf alone not definitive."
+    },
+    {
+      "if": "Leaves and stem look ragweed-like but flower heads / underground connection absent",
+      "then": "Ambrosia sp. — provisional. Photograph whole mid-stem leaf, a lower + upper stem node, mature burs with scale, terminal male and axillary female heads; if feasible an intact basal rhizome."
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "ambrosia-three-way",
+      "title": "Common, western and giant ragweed",
+      "taxon_ids": [
+        "ambrosia-artemisiifolia",
+        "ambrosia-psilostachya",
+        "ambrosia-trifida"
+      ],
+      "look_here_first": "Leaf lobes FIRST (PALMATE broad giant vs PINNATE finely divided common/western). Then annual plant base vs perennial creeping RHIZOME, finally ripe female BUR. Heights, color, or the appearance of one leaf alone do not settle the ID.",
+      "photo_requirements": [
+        "matched mid-stem mature leaves at same size",
+        "whole stem from top male heads to axillary female heads",
+        "female burs on ruler, ~2–5 mm",
+        "western intact creeping rhizome versus annual root"
+      ],
+      "caution": "Some A. trifida leaves are not lobed; A. psilostachya and A. artemisiifolia overlap and have recorded hybrids; avoid single-character absolute assertions."
+    },
+    {
+      "id": "ragweed-male-female-heads",
+      "title": "Which head makes pollen, which makes a bur?",
+      "taxon_ids": [
+        "ambrosia-artemisiifolia",
+        "ambrosia-psilostachya",
+        "ambrosia-trifida"
+      ],
+      "look_here_first": "Male heads at tip look like little downward-facing bells/cups releasing pollen. Female heads below in/near axils are much smaller and each yields a single bur-like fruit unit. Photograph both on same stem and zoom down to ONE floret.",
+      "photo_requirements": [
+        "terminal staminate head side and dissected open",
+        "axillary female head and developing bur",
+        "one female cypsela within hardened involucre"
+      ],
+      "caution": "Existing images may show flowering shoots but neither verified closeup nor installed arrow proves exact head sexes."
+    },
+    {
+      "id": "ambrosia-vs-xanthium-iva",
+      "title": "Ragweed versus cocklebur and marsh elders",
+      "taxon_ids": [
+        "ambrosia-artemisiifolia",
+        "ambrosia-psilostachya",
+        "ambrosia-trifida"
+      ],
+      "look_here_first": "Xanthium has a bigger usually oval hooked BUR enclosing two cypselae and broad leaves. Ambrosia female burs usually one fruit, smaller with differently shaped short spines. Iva (marsh elder) can have inconspicuous green flowering heads but leaf shape/head/bur anatomy differs. Photos need exact separate species anchors.",
+      "photo_requirements": [
+        "Ambrosia male/female head and mature bur",
+        "Xanthium hooked two-cypsela bur cross-section",
+        "Iva head and fruit closeup"
+      ],
+      "caution": "Do not use spines alone to call genus without reproductive architecture and leaves."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Ambrosia: three ragweeds and two kinds of flower heads",
+    "subtitle": "Nine verified physical exact-species files already in the project, selected for three species recognition and field-context views. Some are restricted to private study; specialist sexual-head, rhizome, and bur macros still need photo-by-photo inspection.",
+    "memory_rule": "PALMATE big lobes = TRIFIDA. FINE PINNATE cuts + ANNUAL = ARTEMISIIFOLIA. COARSER PINNATE cuts + RHIZOMATOUS PERENNIAL = PSILOSTACHYA. Confirm TERMINAL MALE heads, AXILLARY FEMALE heads and measured mature BURS.",
+    "items": [
+      {
+        "label": "Common ragweed — recognition view",
+        "scientific_name": "Ambrosia artemisiifolia",
+        "image_role": "common-ragweed species portrait",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/01-curated-reference.jpg",
+        "source_page": "https://www.inaturalist.org/taxa/53587",
+        "creator": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+        "license": "cc-by-sa",
+        "caption": "Start with the middle leaves: are the lobes cut along a central midrib, often into multiple orders? Look for terminal male-head flower spikes as the plant blooms. Species and image path are verified, but specific leaf margin and sexed-head parts need a visibly matched detailed macro.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; arrows_pending"
+      },
+      {
+        "label": "Common ragweed — same-plant field view A",
+        "scientific_name": "Ambrosia artemisiifolia",
+        "image_role": "field context and repeated ragweed leaf divisions",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/03-same-plant-field-view-1.jpg",
+        "source_page": "https://www.inaturalist.org/observations/215117603",
+        "creator": "(c) Tracey Burke, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Compare several leaves along ONE annual plant. Lower leaves are commonly opposite, with upper leaves often alternate. This is a separate imported field reference from one observation, not a verified rhizome or bur macro. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      },
+      {
+        "label": "Common ragweed — same-plant field view B",
+        "scientific_name": "Ambrosia artemisiifolia",
+        "image_role": "second field angle / stem and head context",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/images/04-same-plant-field-view-2.jpg",
+        "source_page": "https://www.inaturalist.org/observations/215117603",
+        "creator": "(c) Tracey Burke, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Check whether the leaves show one- versus two-times pinnate lobing and where flowering axes branch. Fine flower-head sex and cypsela traits cannot be inferred without closeups. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      },
+      {
+        "label": "Western ragweed — recognition view",
+        "scientific_name": "Ambrosia psilostachya",
+        "image_role": "western-ragweed species portrait",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/01-curated-reference.jpg",
+        "source_page": "https://www.inaturalist.org/taxa/60129",
+        "creator": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+        "license": "cc-by-sa",
+        "caption": "Find the narrower leaves, commonly once-pinnately lobed or toothed, with less finely cut outline than many common ragweeds. Overlap is extensive; underground creeping RHIZOMES, not leaf shape alone, confirm colony-forming perennial western ragweed.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; arrows_pending"
+      },
+      {
+        "label": "Western ragweed — second recognition view",
+        "scientific_name": "Ambrosia psilostachya",
+        "image_role": "second species portrait / flowering shoot",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/02-curated-reference.jpg",
+        "source_page": "https://www.inaturalist.org/taxa/60129",
+        "creator": "AnRo0002, no known copyright restrictions (public domain)",
+        "license": "pd",
+        "caption": "Compare the flowering shoot with the opposite-below and alternate-above leaves characteristic of these ragweeds. Seek the male flower-head spikes at the top and tiny female heads lower down when actually resolved in the photograph.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; arrows_pending"
+      },
+      {
+        "label": "Western ragweed — field observation A",
+        "scientific_name": "Ambrosia psilostachya",
+        "image_role": "same-plant field view / colony habit context",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/images/03-same-plant-field-view-1.jpg",
+        "source_page": "https://www.inaturalist.org/observations/398764129",
+        "creator": "(c) Valdez, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Look for repeated similar shoots that might indicate colony habit, but this image alone does NOT verify underground rhizomes. Collect a documented basal stem/root connection for proof. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      },
+      {
+        "label": "Giant ragweed — leaf-and-stem recognition",
+        "scientific_name": "Ambrosia trifida",
+        "image_role": "species portrait / broad opposite leaves",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/images/01-curated-reference.jpg",
+        "source_page": "https://www.inaturalist.org/taxa/53034",
+        "creator": "(c) thaven, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Find one BROAD leaf blade and count LOBES radiating from its petiole: many giant-ragweed leaves have 3 (sometimes 5), but some are simple. Mature whole-plant height and the large pyramidal bur provide support; avoid relying only on height. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      },
+      {
+        "label": "Giant ragweed — same-plant field view A",
+        "scientific_name": "Ambrosia trifida",
+        "image_role": "field observation / broad leaf shape and stem context",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/images/03-same-plant-field-view-1.jpg",
+        "source_page": "https://www.inaturalist.org/observations/397364263",
+        "creator": "(c) Ida Mae Rogers, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Compare leaf shape and attachment to common/western ragweed. Giant ragweed often carries opposite large leaves, though both lobed and unlobed foliage may occur on the same plant. The image's exact node and lobe count still need visual checking before arrows. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      },
+      {
+        "label": "Giant ragweed — same-plant field view C",
+        "scientific_name": "Ambrosia trifida",
+        "image_role": "field observation / overall ragweed inflorescence context",
+        "image_url": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/images/05-same-plant-field-view-3.jpg",
+        "source_page": "https://www.inaturalist.org/observations/397364263",
+        "creator": "(c) Ida Mae Rogers, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "caption": "Look for terminal male inflorescences and small female burr-forming structures closer to leaves. Mature giant-ragweed involucres form relatively large pyramidal burs with roughly 4–5 distal spines; this particular image is NOT established as a macro showing those traits. Private study only / rights review; public reuse not cleared.",
+        "markers": [],
+        "visual_status": "installed_exact_species_file_verified; anatomical_detail_unverified; private_study_reuse_restricted; arrows_pending"
+      }
+    ],
+    "specialty_photo_needs": [
+      {
+        "priority": 1,
+        "part": "same-plant male and female flowering heads",
+        "species_ids": [
+          "ambrosia-artemisiifolia",
+          "ambrosia-psilostachya",
+          "ambrosia-trifida"
+        ],
+        "need": "Macro of terminal STAMINATE cup/individual florets and axillary PISTILLATE single-floret head, arrows after spatial verification",
+        "status": "needs_verified_macro"
+      },
+      {
+        "priority": 1,
+        "part": "mature female burs matched millimeter-scale comparison",
+        "species_ids": [
+          "ambrosia-artemisiifolia",
+          "ambrosia-psilostachya",
+          "ambrosia-trifida"
+        ],
+        "need": "~2–5 mm mature burs; count spines/tubercles, size and body shape with ruler",
+        "status": "needs_verified_macro"
+      },
+      {
+        "priority": 1,
+        "part": "western ragweed intact rhizome versus annual root",
+        "species_ids": [
+          "ambrosia-psilostachya",
+          "ambrosia-artemisiifolia"
+        ],
+        "need": "one correctly identified intact underground RHIZOME joining western shoots; contrast to seeded annual crown",
+        "status": "needs_verified_macro"
+      },
+      {
+        "priority": 2,
+        "part": "matched mid-stem leaf division and node arrangement",
+        "species_ids": [
+          "ambrosia-artemisiifolia",
+          "ambrosia-psilostachya",
+          "ambrosia-trifida"
+        ],
+        "need": "matched complete mature mid-stem blades and opposite/alternate node context at same scale; no unverified arrows",
+        "status": "existing_species_images_installed; exact_feature_visibility_review_pending"
+      }
+    ],
+    "annotations_note": "Image coordinates and target structures were not personally confirmed on the binary photos in this pass; markers are empty, and all plant-part captions are identification prompts rather than image-specific annotation proof."
+  }
+}

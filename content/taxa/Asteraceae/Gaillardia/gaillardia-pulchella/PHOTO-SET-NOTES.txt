@@ -1,0 +1,12 @@
+﻿Gaillardia pulchella PHOTO SET
+
+Resolved iNaturalist taxon: Gaillardia pulchella [ID 51768]
+Downloaded images: 5
+
+Learning priority:
+- whole plant architecture
+- leaf arrangement/dissection
+- head details / phyllaries
+- same-observation multi-view set when possible
+
+This script patched only the images array in species.json and preserved the rest of the species data.

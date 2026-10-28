@@ -1,0 +1,192 @@
+{
+  "id": "solidago-gigantea",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "species": "gigantea",
+  "scientific_name": "Solidago gigantea",
+  "authority": "Aiton",
+  "common_name": "Giant Goldenrod / Smooth Goldenrod",
+  "look_here_first": "First stroke/look at a LOWER STEM 10–20 cm above plant base: S. gigantea is often smooth (GLABROUS) and sometimes waxy bluish (GLAUCOUS) well below flower panicle. The leaves are narrow lanceolate and often 3-nerved, but ALL tall-goldenrod complex relatives can share 3 veins. Compare hairier lower stems on altissima and canadensis, moisture settings as support, then measure phyllaries if uncertain. Never use only flower plume or leaf veins.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — project Hays-local source pool. Travis — UT Plant Resources Center herbarium index includes Solidago gigantea. Williamson — dedicated county flora documents S. gigantea.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial",
+      "lower stem glabrous to nearly glabrous",
+      "many narrow lanceolate leaves",
+      "leaves commonly 3-nerved",
+      "large arching/panicle-like inflorescence",
+      "many small yellow heads",
+      "often moist riparian or mesic sites"
+    ],
+    "comparison_training": "Compared with S. altissima, the lower stem is much smoother and less hairy. Compared with S. juliae, S. gigantea is more strongly rhizomatous and typically has smoother stems with narrower leaves."
+  },
+  "curation_status": {
+    "version": "2.0-gigantea-physically-installed-photo-polish",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "last_visual_reviewed": "2026-10-13",
+    "visual_status": "New 3 exact species verified licensed Commons pictures queued for local image install; old 3 references preserved separately; compare lower stem."
+  },
+  "images": [
+    {
+      "file": "images/01-whole-flowering-habit.jpg",
+      "role": "Recognize · tall yellow branching plume of many small composite flowerheads; nonlocal source photo",
+      "creator": "Calimo",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/02-smooth-stem-leaf-underside.jpg",
+      "role": "Look closer · narrow lanceolate leaves, prominent veins and a smooth-looking section of stem; lower-stem hairlessness unconfirmed",
+      "creator": "Pethan",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea04.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    },
+    {
+      "file": "images/03-leaf-and-stem-field-view.jpg",
+      "role": "Look closer · narrow elongated leaves along the flowering shoot; leaf venation alone cannot confirm species",
+      "creator": "Michel Langeveld",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea_211207255.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Gallery emphasizes reproductive display plus leaf/stem characters useful for separating giant goldenrod from similar Solidago."
+  },
+  "external_reference_images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solidago%20gigantea.jpg",
+      "role": "Flowering heads / reproductive display",
+      "creator": "Calimo",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea.jpg",
+      "source_type": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solidago%20gigantea%20211207255.jpg",
+      "role": "Leaf diagnostic / narrow foliage reference",
+      "creator": "Michel Langeveld",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea_211207255.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/211207255",
+      "observation_source": "https://www.inaturalist.org/observations/124601958",
+      "inaturalist_photo_id": 211207255,
+      "inaturalist_observation_id": 124601958,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solidago%20gigantea04.jpg",
+      "role": "Leaf underside and stem / smooth-stem diagnostic reference",
+      "creator": "Pethan",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea04.jpg",
+      "source_type": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "photo_diagnostic_lesson": {
+    "pair": "Solidago gigantea vs altissima vs canadensis",
+    "first": "Smooth lower stem and leaf UNDERSIDE",
+    "key": [
+      {
+        "part": "Lower stem",
+        "gigantea": "Smooth/hairless to near-hairless, often whitish-blue waxy",
+        "altissima": "Often fine short-haired",
+        "canadensis": "Generally hairy but can become nearly smooth toward base"
+      },
+      {
+        "part": "Midstem leaf",
+        "gigantea": "Narrow lanceolate and 3 veins; relatively smooth lower surface",
+        "altissima": "Firm and slightly rough, three veins; upper margin often fewer teeth",
+        "canadensis": "Often finer and more regular serrations, three veins"
+      },
+      {
+        "part": "Flower panicle",
+        "gigantea": "Broad and arching/plumelike",
+        "altissima": "Also broad plume; can't prove giant from flowers alone",
+        "canadensis": "Also pyramidal; overlap"
+      },
+      {
+        "part": "Site",
+        "gigantea": "Often wetter ditch/stream/floodplain",
+        "altissima": "Frequently drier open disturbed prairie",
+        "canadensis": "Often mesic old fields"
+      }
+    ],
+    "memory_rule": "GIANT = GLABROUS lower stem (then leaf underside). TALL/CANADA = commonly hairy below, but check other evidence.",
+    "photo_needs": [
+      "Match lowest 20cm of stem in true macro for all 3",
+      "Same-scale both leaf surfaces with 3-nerved leaf, teeth and hair/veins",
+      "Measured actual flower head phyllaries"
+    ]
+  },
+  "visual_comparison": {
+    "title": "Giant goldenrod — inspect lower stem and underside",
+    "subtitle": "Three local physical exact-species photos licensed from Commons; taken outside Texas and are morphology references, not target-zone county evidence.",
+    "items": [
+      {
+        "label": "OVERALL FLOWERING HABIT",
+        "image_url": "content/taxa/Asteraceae/Solidago/solidago-gigantea/images/01-whole-flowering-habit.jpg",
+        "caption": "Whole flowering branch shows overall arching panicle, but plumes overlap tall and Canada goldenrod. Start ID with stem BELOW this flowering structure.",
+        "creator": "Calimo",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea.jpg",
+        "markers": [],
+        "annotation_status": "No guessed per-pixel arrows; final mark smooth region only after full photo QA."
+      },
+      {
+        "label": "DIAGNOSTIC SMOOTH STEM + LEAF UNDERSIDE",
+        "image_url": "content/taxa/Asteraceae/Solidago/solidago-gigantea/images/02-smooth-stem-leaf-underside.jpg",
+        "caption": "Study the leaf underside and much SMOOTHER stem from a real giant goldenrod. The low stem may be bluish/waxy; don't call all leaf surfaces perfectly hairless.",
+        "creator": "Pethan",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea04.jpg",
+        "markers": [],
+        "annotation_status": "No guessed per-pixel arrows; final mark smooth region only after full photo QA."
+      },
+      {
+        "label": "THREE-VEIN LEAF STUDY",
+        "image_url": "content/taxa/Asteraceae/Solidago/solidago-gigantea/images/03-leaf-and-stem-field-view.jpg",
+        "caption": "See the elongated leaf shape and venation. Three veins also appear on tall and Canada goldenrods, so pair with lower-stem pubescence.",
+        "creator": "Michel Langeveld",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea_211207255.jpg",
+        "markers": [],
+        "annotation_status": "No guessed per-pixel arrows; final mark smooth region only after full photo QA."
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 1173.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Thymophylla%20pentachaeta
+Exact source photograph https://commons.wikimedia.org/wiki/File:Thymophylla_pentachaeta_-_Flickr_-_aspidoscelis.jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Thymophylla%20pentachaeta%20-%20Flickr%20-%20aspidoscelis.jpg
+Original photo creator Patrick Alexander
+Photo file-level license CC0 1.0
+Provisional photo role Provisional initial plant recognition, based on a labelled New Mexico source photograph; leaf gland and phyllary macro needed.
+Caution Photographed at BLM Las Cruces office from a New Mexico collected plant; not native-range evidence for Hays.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

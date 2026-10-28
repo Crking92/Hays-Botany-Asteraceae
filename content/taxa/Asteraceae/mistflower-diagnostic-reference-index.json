@@ -1,0 +1,148 @@
+{
+  "kind": "diagnostic_study_reference_index",
+  "group": "Central Texas mistflowers and similar Eupatorieae",
+  "updated": "2026-10-12",
+  "caution": "These are PHOTO REFERENCE LINKS, not automatically installed image files. Preserve rights metadata: UT Austin and Missouri Plants image display pages do not by themselves authorize reuse. Wikimedia Commons candidates can be downloaded only with the credited license terms.",
+  "primary_field_decisions": [
+    "First distinguish actual Asteraceae capitula from the whole flower cluster: one small head contains multiple disk florets.",
+    "Opposite mature middle-stem leaves: deeply lobed = Conoclinium dissectum; toothed but undissected = Conoclinium coelestinum, pending genus confirmation.",
+    "Shrubby evergreen woody stems vs nonpersistent herbaceous stems: Ageratina havanensis vs A. altissima.",
+    "Under magnification: FNA A. havanensis cypselae hispid, A. altissima glabrous.",
+    "Single side-view capitulum: Chromolaena odorata cylindrical involucral body around 8–10 mm with 4–6(–8) phyllary series, unlike shorter hemispheric Conoclinium.",
+    "Photo of an inflorescence alone cannot show phyllary series or scale; side-on single-head macros are mandatory."
+  ],
+  "references": [
+    {
+      "taxon": "Conoclinium dissectum",
+      "target_role": "primary split: one deeply dissected mature leaf",
+      "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/Conoclinium%20greggii%20leaf.jpg",
+      "landing_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/conoclinium_greggii.htm",
+      "creator": "UT Austin BIO406D (photographer not confirmed)",
+      "license": "not established",
+      "reuse": "external study reference only; do not download into learner without permission",
+      "readiness": "visual leaf example confirmed; photo reuse rights pending"
+    },
+    {
+      "taxon": "Conoclinium dissectum",
+      "target_role": "opposite leaf node and deeply cut blades",
+      "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Conoclinium%20greggii%20leafnode.jpg",
+      "landing_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/conoclinium_greggii.htm",
+      "creator": "UT Austin BIO406D (photographer not confirmed)",
+      "license": "not established",
+      "reuse": "external study reference only",
+      "readiness": "diagnostic view identified, no reuse rights confirmed"
+    },
+    {
+      "taxon": "Conoclinium coelestinum",
+      "target_role": "flattened set of undissected toothed leaves, 3 basal veins",
+      "url": "https://www.missouriplants.com/images/Conoclinium_coelestinum_leaves.jpg",
+      "landing_page": "https://www.missouriplants.com/Conoclinium_coelestinum_page.html",
+      "creator": "D. E. Tenaglia (as page credit)",
+      "license": "not established",
+      "reuse": "external study reference only",
+      "readiness": "diagnostic view located; no licensed local asset"
+    },
+    {
+      "taxon": "Conoclinium coelestinum",
+      "target_role": "side-view phyllaries/involucre",
+      "url": "https://www.missouriplants.com/images/Conoclinium_coelestinum_involucre.jpg",
+      "landing_page": "https://www.missouriplants.com/Conoclinium_coelestinum_page.html",
+      "creator": "S. R. Turner (as page credit)",
+      "license": "not established",
+      "reuse": "external study reference only",
+      "readiness": "head side example located; license not confirmed"
+    },
+    {
+      "taxon": "Ageratina havanensis",
+      "target_role": "opposite petioles and leaf-base closeup",
+      "url": "https://web.biosci.utexas.edu/bio406d/images/pics/ast/Ageratina%20havanensis%20opplvs.jpg",
+      "landing_page": "https://web.biosci.utexas.edu/bio406d/images/pics/ast/ageratina_havanensis.htm",
+      "creator": "UT Austin BIO406D (photographer not confirmed)",
+      "license": "not established",
+      "reuse": "external study reference only",
+      "readiness": "page explicitly identifies this role; photo reuse rights pending"
+    },
+    {
+      "taxon": "Ageratina havanensis",
+      "target_role": "single mature serrate leaf",
+      "url": "https://web.biosci.utexas.edu/bio406d/images/pics/ast/Ageratina%20havanensis%20leaf1.jpg",
+      "landing_page": "https://web.biosci.utexas.edu/bio406d/images/pics/ast/ageratina_havanensis.htm",
+      "creator": "UT Austin BIO406D (photographer not confirmed)",
+      "license": "not established",
+      "reuse": "external study reference only",
+      "readiness": "page identifies leaf shot; no license confirmed"
+    },
+    {
+      "taxon": "Chromolaena odorata",
+      "target_role": "actual opposite triangular, coarse-toothed leaves on a nonflowering plant",
+      "url": "https://commons.wikimedia.org/wiki/File:Chromolaena_odorata.jpg",
+      "creator": "L. Shyamal",
+      "license": "CC BY 2.5",
+      "reuse": "license permits attributed reuse; no local copy created in this pass",
+      "readiness": "visual content inspected: foliage/habit, NOT flowering",
+      "source_type": "Wikimedia Commons"
+    },
+    {
+      "taxon": "Chromolaena odorata",
+      "target_role": "leaf-outline source at 2048 x 1536",
+      "url": "https://commons.wikimedia.org/wiki/File:Chromolaena_odorata_leaves_(2006).jpg",
+      "creator": "M.arunprasad",
+      "license": "CC BY 2.5 OR CC BY-SA 3.0 (choose one license for reuse)",
+      "reuse": "license permits attributed reuse under selected license; no local copy created",
+      "readiness": "exact-species foliage candidate license and attribution confirmed",
+      "source_type": "Wikimedia Commons"
+    },
+    {
+      "taxon": "Chromolaena odorata",
+      "target_role": "flowering cluster candidate, head side diagnosis not yet confirmed",
+      "url": "https://commons.wikimedia.org/wiki/File:Chromolaena_odorata_flower-.jpg",
+      "creator": "Vis M",
+      "license": "CC BY-SA 4.0",
+      "reuse": "license permits attributed share-alike reuse; no local copy created",
+      "readiness": "flower-head photo identified and licensed but structure not yet macro-locked",
+      "source_type": "Wikimedia Commons"
+    }
+  ],
+  "critical_missing_photos": [
+    {
+      "taxa": [
+        "Conoclinium dissectum",
+        "Conoclinium coelestinum"
+      ],
+      "shot": "side-by-side SAME SCALE fruit showing hispidulous vs glabrous cypselae",
+      "status": "no verified exact-species paired usable license images found"
+    },
+    {
+      "taxa": [
+        "Ageratina havanensis",
+        "Ageratina altissima"
+      ],
+      "shot": "side-by-side SAME SCALE fruit showing hispid vs glabrous cypselae",
+      "status": "no verified exact-species paired usable license images found"
+    },
+    {
+      "taxa": [
+        "Chromolaena odorata",
+        "Conoclinium coelestinum"
+      ],
+      "shot": "side-by-side individual capitula exposing full involucral length with mm scale",
+      "status": "photos not yet matched"
+    },
+    {
+      "taxa": [
+        "Ageratina havanensis",
+        "Ageratina altissima"
+      ],
+      "shot": "stem bases in winter showing persistent shrubby versus herbaceous life form",
+      "status": "photos not yet matched"
+    }
+  ],
+  "research_warning": {
+    "title": "Conoclinium coelestinum cypsela measurement varies by treatment",
+    "primary_authority": "FNA: 1–1.5 mm, glabrous",
+    "alternative_field_resource": "Missouri Plants species account: 1.6–2.4 mm, glabrous",
+    "interpretation": "Both sources call the fruit glabrous, but length ranges differ. Do not use length alone as a decisive field split until reconciled with same-source, measured vouchers. Hairiness plus leaves remains the stronger combined evidence.",
+    "fna_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220003245",
+    "alternate_url": "https://www.missouriplants.com/Conoclinium_coelestinum_page.html"
+  }
+}

@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/177843-1
+Source research-grade observation: https://www.inaturalist.org/observations/6243046
+Photo: https://www.inaturalist.org/photos/7847811
+Attribution: (c) ellen hildebrandt, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Aphanostephus riddellii
+Creator: Chet Burrier; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6353233587
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/aphanostephus-riddellii/gbif-6e4ff0f974007f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Aphanostephus riddellii
+Creator: Eric Knight; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/1229615513
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/aphanostephus-riddellii/gbif-dc0b58475e23ee.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

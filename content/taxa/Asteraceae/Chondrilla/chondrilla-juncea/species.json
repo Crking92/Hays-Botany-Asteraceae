@@ -1,0 +1,36 @@
+{
+  "id": "chondrilla-juncea",
+  "family": "Asteraceae",
+  "genus": "Chondrilla",
+  "species": "juncea",
+  "scientific_name": "Chondrilla juncea",
+  "common_name": "Rush skeletonweed",
+  "look_here_first": "Inspect wiry branching stems with very narrow leaves and small yellow all-ray flower heads; basal foliage can be lobed.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328774-2",
+  "images": [
+    {
+      "file": "images/inat-568515470.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Carlos Bernal, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/568515470",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

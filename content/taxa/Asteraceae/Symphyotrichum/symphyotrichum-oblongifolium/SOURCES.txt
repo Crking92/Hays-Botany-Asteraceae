@@ -1,0 +1,12 @@
+Research: research-drafts/symphyotrichum-oblongifolium/draft.json (B120 reviewed PASS).
+Genus diagnostics: content/taxa/Asteraceae/Symphyotrichum/genus.json, scientific_diagnostic_review_20261008.
+FNA morphology: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067664
+Range: Hays source pool; UT PRC Travis voucher; San Antonio River Authority Bexar native planting guidance (as recorded in B120).
+Photo: https://commons.wikimedia.org/wiki/File:Symphyotrichum_oblongifolium_99857187.jpg ; creator stlmark; CC0 1.0; iNaturalist photo 99857187, observation 62333673. Photo is from Missouri and is not range evidence.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Symphyotrichum oblongifolium (Nutt.) G.L.Nesom
+https://www.gbif.org/occurrence/6273701092
+Gary Rogers | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Upper stem node with sessile oblong weakly clasping leaves, side-head phyllaries
+No anatomy arrows; no scientific or native-range changes.

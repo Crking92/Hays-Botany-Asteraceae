@@ -1,0 +1,132 @@
+{
+  "id": "heterotheca-subaxillaris",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
+  "species": "subaxillaris",
+  "scientific_name": "Heterotheca subaxillaris",
+  "authority": "(Lam.) Britton & Rusby",
+  "common_name": "Camphorweed",
+  "synonyms": [
+    "Heterotheca latifolia Buckley (treated by FNA at subspecies rank within H. subaxillaris)"
+  ],
+  "look_here_first": "Look for alternate, hairy and often glandular leaves; frequently subclasping upper leaves; branching yellow ray-and-disk flower heads. Inspect side of heads for glandular phyllaries and the coarse hairs at their tips; scent alone is unreliable.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Master Plant Pool row 552, My iNaturalist flora, 10 wild observations; source count 2",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "range_basis": "Native to Texas at state level per USDA GRIN; individual project target-zone county proof not audited",
+    "native_metrics_excluded": true
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "habit": "Aromatic, branching, taprooted annual or biennial; stem sparsely to densely spreading-hairy and glandular.",
+    "leaves": "Alternate, lower leaves often petiolate and upper leaves sessile and sometimes partly clasping; variable ovate to lanceolate, toothed or nearly entire; check multiple mid and upper leaves.",
+    "heads": "Yellow ligulate ray florets and yellow tubular disk florets; side-view involucre with glandular and hairy phyllaries.",
+    "subspecies": "FNA separates subsp. subaxillaris by a terminal tuft of coarse hairs on outer/mid phyllaries (often 6–28) versus subsp. latifolia without distinct tuft (occasionally 1–2 hairs); geography and season matter.",
+    "fruit": "Ray and disk cypselae can differ; macro/microscopic examination for final polish."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Heterotheca canescens",
+      "Heterotheca stenophylla",
+      "Heterotheca villosa",
+      "Pluchea camphorata",
+      "Other yellow-rayed Asteraceae"
+    ],
+    "key_distinctions": "Pluchea camphorata has non-yellow rayless pinkish/purplish heads; within Heterotheca verify upper leaf bases, vestiture, phyllaries and reproductive structures rather than flower color alone. Other Heterotheca comparison pending matched photo review."
+  },
+  "diagnostic_image_needs": [
+    {
+      "priority": 1,
+      "role": "Close-up of clasping/subclasping upper leaf base, multiple leaves",
+      "status": "PENDING"
+    },
+    {
+      "priority": 1,
+      "role": "Side view of glandular phyllaries with coarse terminal hairs or lack thereof",
+      "status": "PENDING"
+    },
+    {
+      "priority": 1,
+      "role": "Glandular and coarse stem hairs at scale",
+      "status": "PENDING"
+    },
+    {
+      "priority": 2,
+      "role": "Heterotheca look-alike same-scale morphological comparisons",
+      "status": "PENDING"
+    },
+    {
+      "priority": 1,
+      "role": "Texas-local matched leaf base, stem gland and phyllary underside macro from UT Austin/Texas Wildbuds",
+      "status": "STUDY_REFERENCES_ONLY; PHOTO REUSE PERMISSION NOT VERIFIED"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/heterotheca-subaxillaris-flower.jpg",
+      "role": "flower recognition (nonlocal)",
+      "creator": "RickP",
+      "license": "CC BY 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris_01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/heterotheca-subaxillaris-habit.jpg",
+      "role": "habit recognition (nonlocal)",
+      "creator": "MathKnight",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris002.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/heterotheca-subaxillaris-extra-recognition.jpg",
+      "role": "additional recognition view (nonlocal)",
+      "creator": "MathKnight",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris001.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416651"
+    },
+    {
+      "name": "FNA subsp. latifolia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250059792"
+    },
+    {
+      "name": "USDA GRIN",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=316896"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "range_reviewed": false,
+    "source_pool_approved": true,
+    "user_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "last_reviewed": "2026-10-13"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

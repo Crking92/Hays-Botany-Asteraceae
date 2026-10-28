@@ -1,0 +1,43 @@
+{
+  "id": "eupatorium-serotinum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Eupatorium",
+  "scientific_name": "Eupatorium serotinum",
+  "authority": "Michx.",
+  "common_name": "Late Boneset",
+  "field_group": "White herbaceous composite",
+  "project_tracker_diagnostic": "Tall herbaceous white composite with opposite serrate leaves and flat-topped clusters of fuzzy white heads; more herbaceous and rank than shrubby boneset.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Tall branching herb.",
+    "leaves": "Opposite, coarsely serrate, petiolate, often with scattered glands.",
+    "heads": "Small white discoid heads in broad corymbs/panicles.",
+    "phyllaries": "Several series, narrow, green.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "tall herbaceous habit",
+      "opposite serrate leaves",
+      "white fuzzy clusters",
+      "non-shrubby boneset look"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

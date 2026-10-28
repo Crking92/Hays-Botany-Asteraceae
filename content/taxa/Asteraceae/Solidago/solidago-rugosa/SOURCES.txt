@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 053 — Solidago rugosa
+Date: 2026-10-08
+Source: https://commons.wikimedia.org/wiki/File:Solidago_rugosa.jpg
+Direct 960px image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Solidago_rugosa.jpg/960px-Solidago_rugosa.jpg
+Creator: Botsci
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Study use: yes
+Public reuse: attribution and license terms apply
+Role: Branching goldenrod flower clusters and serrate leaves in habit view
+Media-only; no change to taxonomy, range, HOLD/FAIL, or comparisons.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Solidago rugosa Mill.
+https://www.gbif.org/occurrence/6185566215
+Sandy Wolkenberg | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Wrinkled serrate leaves and lower stem pubescence; plume-shaped flower clusters
+No anatomy arrows; no scientific or native-range changes.

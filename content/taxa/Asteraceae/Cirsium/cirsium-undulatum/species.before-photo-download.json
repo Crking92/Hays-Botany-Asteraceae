@@ -1,0 +1,41 @@
+{
+  "id": "cirsium-undulatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium undulatum",
+  "authority": "(Nutt.) Spreng.",
+  "common_name": "Wavyleaf Thistle",
+  "project_tracker_diagnostic": "Perennial thistle with strongly wavy/lobed leaves and dense gray-white tomentum beneath; large purple heads; often more woolly than Texas thistle.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial from deep roots.",
+    "habit": "Erect or ascending, often gray-tomentose.",
+    "leaves": "Elliptic to oblong/ovate; margins strongly undulate, toothed or lobed; lower surface densely gray-tomentose; spine-tipped divisions.",
+    "heads": "Large purple discoid heads, usually on evident peduncles.",
+    "phyllaries": "Lanceolate and spine-tipped; larger involucres can exceed 3 cm.",
+    "best_field_traits": [
+      "wavy leaf margins",
+      "gray-woolly leaf underside",
+      "large purple heads",
+      "perennial deep-rooted habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

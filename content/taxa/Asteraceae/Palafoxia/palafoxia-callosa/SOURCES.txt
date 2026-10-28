@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/310773098
+Photo: https://www.inaturalist.org/photos/560924985
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Palafoxia callosa (Nutt.) Torr. & A.Gray
+https://www.gbif.org/occurrence/5938492058
+Sam Kieschnick | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Pink to lilac flower heads, involucral bract detail and foliage along stem
+No anatomy arrows; no scientific or native-range changes.

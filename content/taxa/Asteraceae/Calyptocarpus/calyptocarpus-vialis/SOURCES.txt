@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/188166-1
+Source research-grade observation: https://www.inaturalist.org/observations/195700889
+Photo: https://www.inaturalist.org/photos/344357584
+Attribution: (c) Chuck Sexton, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Calyptocarpus vialis
+Creator: Dan Johnson; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938419383
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/calyptocarpus-vialis/gbif-e5e71a942c80e1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Calyptocarpus vialis
+Creator: Linda Jo Conn; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938617170
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/calyptocarpus-vialis/gbif-e144fbeacc55ed.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,9 @@
+Master pool Phase3 preflight source rows 890
+Taxonomy reference https://powo.science.kew.org/results?q=Pinaropappus%20roseus
+Original exact source photo https://commons.wikimedia.org/wiki/File:Pinaropappus_roseus.jpg
+Download direct https://commons.wikimedia.org/wiki/Special:Redirect/file/Pinaropappus%20roseus.jpg
+Photo author Bodofzt
+Photo license CC BY-SA 4.0
+Role: Provisional pink ligulate flower head; phyllaries and mature fruit details are not guaranteed visible.
+Caution: Photographed in Mexico. No source photo can establish Hays County occurrence.
+Local native status not inferred and botanical image roles provisional only.

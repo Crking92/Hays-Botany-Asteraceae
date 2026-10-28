@@ -1,0 +1,198 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Silphium",
+  "common_group": "Rosinweeds / compass plants",
+  "project_scope": {
+    "selection_mode": "B064 science + B129 LEARNER FAST-FILL",
+    "species_ids": [
+      "silphium-radula",
+      "silphium-albiflorum"
+    ],
+    "species_count": 2,
+    "holds": [
+      "silphium-laciniatum",
+      "silphium-integrifolium"
+    ],
+    "anchors": [
+      "silphium-radula",
+      "silphium-albiflorum"
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "leaf dissection",
+      "leaf arrangement",
+      "surface roughness/pubescence",
+      "peduncle length",
+      "resin/aroma",
+      "current taxonomy of historical varieties"
+    ],
+    "warning": "Central Texas Silphium names have shifted. Old S. integrifolium var. asperrimum and var. radulum labels should not be reassigned automatically under modern species concepts."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "S. albiflorum — white ray flowers + rough often deeply divided leaves; project PASS (Travis, Burnet, Mason).",
+      "S. radula — broad rough/scabrous leaves and stems + yellow heads; project PASS (Hays, Williamson, Kerr).",
+      "S. laciniatum — huge deeply pinnatifid compass leaves + yellow heads; project RANGE HOLD because known Hays occurrence is introduced.",
+      "S. integrifolium — broad entire leaves + yellow heads; taxonomy/range HOLD because historical Central Texas varietal names do not map cleanly to current species concepts."
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-photo-first-silphium",
+    "last_reviewed": "2026-10-14",
+    "fast_fill_active": true,
+    "physical_image_anchors": 4,
+    "external_leaf_reference": 1,
+    "new_image_binaries": 0,
+    "anatomical_arrows_pending": true,
+    "range_decisions_changed": false
+  },
+  "look_here_first": "First photograph the WHOLE basal and stem leaves, not only the sunflower-like flower head. WHITE rays strongly indicate S. albiflorum among these three. For YELLOW heads, broad rough undivided sessile leaves suggest S. radula, while very large deeply divided (pinnatifid) lower leaves suggest the range-unresolved S. laciniatum. Then photograph a head from the side to show the PHYLARIES (involucral bracts) below its ray/disk florets. Separate plant identification from target-county nativity.",
+  "shared_genus_pattern": {
+    "shared_traits": [
+      "Coarse perennial herbs with often resinous and harshly hairy foliage.",
+      "Sunflower-like composite HEADS containing outer RAY FLORETS and central DISK FLORETS.",
+      "PHYLARIES form the involucre beneath each head; inspect their shape and orientation in side view.",
+      "Fruit is a dry CYPSELA (aster-family fruit); in Silphium, outer fertile ray florets produce the principal cypselae."
+    ],
+    "glossary": "PINNATIFID = deeply lobed along a central blade axis but lobes remain connected; SESSILE = leaf without a distinct stalk; SCABROUS = sandpapery rough; PHYLARY = modified bract below a flower head; RAY FLORET = strap-like outer floret; DISK FLORET = tiny central floret.",
+    "caution": "White/yellow ray color routes these three, not every Silphium on Earth. Old varietal names and hybrid/intermediate material require scientific review."
+  },
+  "comparison_matrix": [
+    {
+      "character": "ray floret color",
+      "albiflorum": "White (strongly useful)",
+      "radula": "Yellow",
+      "laciniatum": "Yellow",
+      "priority": "look here first, then foliage"
+    },
+    {
+      "character": "large basal/low leaves",
+      "albiflorum": "Often deeply lobed/divided, rough",
+      "radula": "Mostly broad, relatively undivided, very rough",
+      "laciniatum": "Huge and deeply pinnatifid into narrow lobes",
+      "priority": "best yellow-head split"
+    },
+    {
+      "character": "stem leaves",
+      "albiflorum": "Rough, often divided",
+      "radula": "Broad, sessile, rough; opposite lower / sometimes alternate higher",
+      "laciniatum": "Become smaller and often less divided upward",
+      "priority": "confirm from whole stem"
+    },
+    {
+      "character": "head / stalk",
+      "albiflorum": "White-rayed terminal heads; inspect side-on involucre",
+      "radula": "Yellow heads often on comparatively short stalks close to leafy upper stem",
+      "laciniatum": "Yellow heads on tall, comparatively leaf-poor upper flowering shoots",
+      "priority": "supporting; angle and age matter"
+    },
+    {
+      "character": "project admission",
+      "albiflorum": "PASS (Travis, Burnet, Mason verified by project)",
+      "radula": "PASS (Hays, Williamson, Kerr evidence in project)",
+      "laciniatum": "RANGE_UNRESOLVED; known Hays planted occurrence does not prove local nativity",
+      "priority": "do not conflate ID with county range"
+    }
+  ],
+  "field_key": [
+    "1. Check RAY color on a flowering head: white → S. albiflorum, confirm with coarse often pinnately lobed leaves.",
+    "2. Yellow rays → examine FULL LOWER LEAF, not just the flowering top.",
+    "3. Broad rough, mainly undivided sessile leaves and heads near leafy stems → S. radula (subject to taxonomic look-alikes).",
+    "4. Very large deeply divided lower leaves and tall comparatively leafless flowering stalk → S. laciniatum comparison only; project county status remains RANGE_UNRESOLVED.",
+    "5. Ambiguous yellow-headed specimen with neither confident leaf pattern → Silphium sp.; check S. integrifolium and close relatives; no forced ID."
+  ],
+  "visual_comparison": {
+    "title": "Silphium: leaves first, heads second",
+    "teaching_order": "whole plant / lower leaf → white or yellow ray → divided versus broad leaf → head side view → phyllaries and flower anatomy",
+    "physically_installed": [
+      {
+        "species": "Silphium albiflorum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/01-white-flowers.jpg",
+        "role": "White rays and flowering heads",
+        "creator": "TDogg310",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum_Flowers.jpg"
+      },
+      {
+        "species": "Silphium albiflorum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/02-roadside-habit.jpg",
+        "role": "Whole-plant/roadside habit",
+        "creator": "Mason Brock",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum.jpg"
+      },
+      {
+        "species": "Silphium radula",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-radula/images/01-flowering-habit.jpg",
+        "role": "Broad coarse leaves and yellow heads",
+        "creator": "Eric Hunt",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_radula_Arkansas.jpg"
+      },
+      {
+        "species": "Silphium laciniatum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-laciniatum/images/silphium-laciniatum-provisional-face.jpg",
+        "role": "Yellow flowering shoot; important basal leaves are NOT shown",
+        "creator": "Frank Mayfield",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_2.jpg",
+        "range_status": "RANGE_UNRESOLVED"
+      }
+    ],
+    "external_diagnostic_reference": [
+      {
+        "species": "Silphium laciniatum",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Silphium_laciniatum_leaves_%289292304354%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_leaves_(9292304354).jpg",
+        "role": "Deeply pinnatifid basal leaves",
+        "creator": "Steve Law (peganum)",
+        "license": "CC BY-SA 2.0",
+        "status": "external_not_physically_installed"
+      }
+    ],
+    "note": "Every actual local photo path is verified by the project species image inventory. Do not claim a calyx, cypsela or phyllary macro is visible unless checked at pixel level."
+  },
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "target": "Matched lower-leaf photographs of all three taxa",
+      "reason": "The single most useful side-by-side differentiator, especially S. radula vs S. laciniatum"
+    },
+    {
+      "priority": 1,
+      "target": "Locally install rights-safe S. laciniatum deeply divided leaf reference",
+      "reason": "Current project close-up is external only; preserve source credit"
+    },
+    {
+      "priority": 1,
+      "target": "Head underside with outer and inner phyllaries",
+      "reason": "Teach actual involucre anatomy at sufficient magnification"
+    },
+    {
+      "priority": 2,
+      "target": "Same-scale rough hair/leaf margin macros",
+      "reason": "Show scabrous texture and leaflet lobes"
+    },
+    {
+      "priority": 2,
+      "target": "Ray versus disk florets and ripe cypsela",
+      "reason": "Connect to Asteraceae floral structure; avoid false arrows"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America / SERNEC Silphium treatment",
+      "url": "https://sernecportal.org/portal/taxa/index.php?clid=4356&pid=84&taxauthid=1&tid=17517"
+    },
+    {
+      "source": "Plants of the World Online Silphium albiflorum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249110-1"
+    },
+    {
+      "source": "Flora of North America Silphium laciniatum via World Flora Online",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0000117950"
+    }
+  ]
+}

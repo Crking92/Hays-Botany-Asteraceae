@@ -1,0 +1,121 @@
+{
+  "id": "liatris-punctata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Liatris",
+  "species": "punctata",
+  "scientific_name": "Liatris punctata",
+  "common_name": "Dotted Gayfeather / Blazing Star",
+  "synonyms": [
+    "Liatris mucronata"
+  ],
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS"
+  },
+  "look_here_first": "Unbranched spike of small purple discoid heads; use stem surface, corm, and fruit to teach local var. punctata versus var. mucronata.",
+  "infraspecific_lesson": {
+    "Liatris punctata var. mucronata": "Accepted variety; familiar Liatris mucronata concept; often glossy reddish stems locally.",
+    "Liatris punctata var. punctata": "Accepted autonym variety; often grayer and more pubescent stems locally."
+  },
+  "curation_status": {
+    "version": "1.0-b034",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/liatris-punctata_flowering-spike-source-label_30-50.jpg",
+      "role": "Purple flowering spike with heads arranged along the stem.",
+      "caption": "Source-labeled Liatris punctata in flower, showing the dense purple heads arranged along an upright spike. Use finer leaf and involucral characters to separate similar blazing stars.",
+      "diagnostic_roles": [
+        "flowering spike",
+        "purple composite heads",
+        "head arrangement"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-39",
+      "timestamp": "30:50",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-369801454.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369801454",
+      "observation_url": "https://www.inaturalist.org/observations/208984072",
+      "observation_id": "208984072",
+      "photo_id": "369801454",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369801454/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-97838169.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/97838169",
+      "observation_url": "https://www.inaturalist.org/observations/61158192",
+      "observation_id": "61158192",
+      "photo_id": "97838169",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/97838169/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "30:50",
+      "record_id": "N4yq5Z1_0Eo-39",
+      "role": "Purple flowering spike with heads arranged along the stem.",
+      "source_taxon": "Liatris punctata",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/liatris-punctata_flowering-spike-source-label_30-50.jpg"
+    }
+  ],
+  "photo_note": "Saved Joey Santore flowering frame installed locally for private study. It gives the overall purple spike and head arrangement; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "diagnostic_image_needs": [
+    "Leaf and stem close-ups, involucral bracts, and mature fruit/pappus; the current frame emphasizes the flowering spike."
+  ]
+}

@@ -1,0 +1,8 @@
+﻿Cirsium texanum PHOTO SET
+
+Resolved iNaturalist taxon: Cirsium texanum [ID 128152]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.
+
+2026-10-12 LICENSING AUDIT: original image 02-curated-reference.jpg, photo ID 7378430, attributed Suzette Rogers, is all-rights-reserved / source license not supplied. Removed from active species.json images[] and image-sources.csv, so do NOT feed it back into automated learner galleries. Binary remains in original images/ as audit-only historical artifact; no permission to republish is implied. Replacement ACTIVE source is Megan Kossa's Commons exact Texas thistle image, CC BY 4.0, external URL linked in species.json: https://commons.wikimedia.org/wiki/File:Cirsium_texanum.jpg.

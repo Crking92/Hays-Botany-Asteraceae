@@ -1,0 +1,41 @@
+{
+  "id": "simsia-calva",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Simsia",
+  "scientific_name": "Simsia calva",
+  "authority": "(A.Gray & Engelm.) A.Gray",
+  "common_name": "Bush Sunflower",
+  "project_tracker_diagnostic": "Perennial/subshrub with winged petiole bases that often fuse into conspicuous nodal discs; yellow-orange heads usually solitary or in 2s\u20133s; rough foliage.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial or subshrub.",
+    "habit": "Erect to ascending, often 30\u2013150 cm.",
+    "leaves": "Opposite; petiole bases dilated/winged and often fused across the node into a disc; blades ovate, sometimes 3-lobed.",
+    "heads": "Usually solitary, sometimes 2\u20133; rays light orange-yellow, often brown/purple-lined beneath.",
+    "fruit": "Cypselae often with pappus absent or minute.",
+    "best_field_traits": [
+      "fused nodal petiole discs",
+      "opposite ovate leaves",
+      "yellow-orange heads",
+      "perennial/subshrub habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

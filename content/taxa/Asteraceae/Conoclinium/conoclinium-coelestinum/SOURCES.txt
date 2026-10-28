@@ -1,0 +1,34 @@
+CONOCLINIUM COELESTINUM — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing project/Joey material was checked first; no installed exact-species gallery was available.
+
+1) iNaturalist photo 729315062 / observation 397625295, mirrored on Wikimedia Commons.
+Creator: Alex Abair
+License: CC BY 4.0
+Source: https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum_729315062.jpg
+Original iNaturalist: https://www.inaturalist.org/photos/729315062
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Conoclinium_coelestinum_729315062.jpg
+Role: flowering plant/inflorescence context.
+
+2) iNaturalist photo 154837846 / observation 93422503, mirrored on Wikimedia Commons.
+Creator: Emily Summerbell
+License: CC BY 4.0
+Source: https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum_154837846.jpg
+Original iNaturalist: https://www.inaturalist.org/photos/154837846
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Conoclinium_coelestinum_154837846.jpg
+Role: blue-violet discoid heads and upper foliage.
+
+3) Wikimedia Commons exact-species photo.
+Creator: Kingdon
+License: Public Domain
+Source: https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum.jpg
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Conoclinium_coelestinum.jpg
+Role: close flowering-head confirmation.
+
+4) USGS Plants of Louisiana — public-domain leaf/flower view.
+Source: https://warcapps.usgs.gov/PlantID/Species/Details/870
+Photo: https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Conoclinium+coelestinum+_0039.JPG&id=870
+Role: opposite toothed leaves (not dissected), flower corroboration. Not the later-scale matched leaf closeup.
+Credit: USGS guide (Larry Allain/Chris Reid named guide producers; exact image creator unconfirmed).

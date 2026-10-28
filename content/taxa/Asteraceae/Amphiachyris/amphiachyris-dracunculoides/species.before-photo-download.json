@@ -1,0 +1,43 @@
+{
+  "id": "amphiachyris-dracunculoides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Amphiachyris",
+  "scientific_name": "Amphiachyris dracunculoides",
+  "authority": "(DC.) Nutt.",
+  "common_name": "Prairie Broomweed",
+  "field_group": "Broomweed / late-season yellow composite",
+  "project_tracker_diagnostic": "Strongly branched plant with a broomy look; many small yellow heads; narrow leaves; whole-plant architecture is one of the best identification characters.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect, broomy, many-branched herb.",
+    "leaves": "Alternate, narrow, linear to oblanceolate, often becoming reduced upward.",
+    "heads": "Many small discoid or nearly discoid yellow heads clustered toward branch ends.",
+    "phyllaries": "Imbricate, green to yellowish.",
+    "fruit": "Cypselae with a pappus of scales.",
+    "best_field_traits": [
+      "broomy architecture",
+      "many tiny yellow heads",
+      "narrow leaves",
+      "late-season look"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "amphiachyris-dracunculoides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Amphiachyris",
+  "scientific_name": "Amphiachyris dracunculoides",
+  "authority": "(DC.) Nutt.",
+  "common_name": "Prairie Broomweed",
+  "field_group": "Broomweed / late-season yellow composite",
+  "project_tracker_diagnostic": "Strongly branched plant with a broomy look; many small yellow heads; narrow leaves; whole-plant architecture is one of the best identification characters.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect, broomy, many-branched herb.",
+    "leaves": "Alternate, narrow, linear to oblanceolate, often becoming reduced upward.",
+    "heads": "Many tiny yellow RADIATE heads with separate ray florets and central disc florets, usually in crowded corymbiform flat-to-rounded arrays on terminal branches. Do not call discoid: Flora of North America and UT Austin describe rays + discs.",
+    "phyllaries": "12–15 involucral phyllaries with pale/whitish resinous faces, 1-veined without a narrow GREEN BORDER along the dorsal nerve (unlike sometimes-green-nerved Gutierrezia texana). Need a true macro to teach this.",
+    "fruit": "Cypselae with a pappus of scales.",
+    "best_field_traits": [
+      "broomy architecture",
+      "many tiny yellow heads",
+      "narrow leaves",
+      "late-season look",
+      "Yellow RAY and DISC florets, not discoid",
+      "Crowded corymbiform flowering arrays",
+      "Disc pappus has long basally united scales (verify under hand lens)"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Debra Halter, some rights reserved (CC BY-NC-ND), uploaded by Debra Halter",
+      "license": "cc-by-nc-nd",
+      "source_page": "https://www.inaturalist.org/taxa/135204",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2663676/large.JPG",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "2663676",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Ryan McDaniel, all rights reserved, uploaded by Ryan McDaniel",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/135204",
+      "direct_image_url": "https://static.inaturalist.org/photos/55861938/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "55861938",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/248934701",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444895048/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248934701",
+      "photo_id": "444895048",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/248934701",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444895040/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248934701",
+      "photo_id": "444895040",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/248934701",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444895091/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248934701",
+      "photo_id": "444895091",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "look_here_first": "Find many small YELLOW RADIATE heads crowded in roughly level or rounded terminal clusters. Confirm with pale whitish phyllaries lacking green nerve borders and longer DISC-floret pappus scales; compare Gutierrezia texana and Amphiachyris amoena before naming.",
+  "comparisons": {
+    "confused_with": [
+      "Amphiachyris amoena",
+      "Gutierrezia texana"
+    ],
+    "key_distinctions": "Amphiachyris dracunculoides tends toward crowded corymb-like arrays; A. amoena has open paniculate arrays. Both are radiate. In comparison with Gutierrezia texana, the disc pappus scales are long (almost disc-corolla length) versus very short or nearly absent, while Amphiachyris phyllary nerves lack narrow green borders."
+  },
+  "diagnostic_image_needs": [
+    "Mature flower head ray + disc front, label only visible florets",
+    "Posterior phyllary nerve macro with millimeter scale",
+    "DISC-floret long-scale pappus macro for matched comparison to Gutierrezia texana",
+    "Crowded terminal flowering arrays compared with open Amphiachyris amoena and Gutierrezia texana"
+  ],
+  "diagnostic_review_20261012": {
+    "correction": "Replace incorrect 'discoid or nearly discoid' with radiate heads. FNA Amphiachyris genus recognizes 7–12 rays, 10–21 discs (genus-level ranges).",
+    "source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=101427",
+    "species_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220000600",
+    "training_note": "Ray and disc are separate individual florets; verify species photo before labeling visible rays. Current existing photo provenance and settled native-range status unchanged."
+  }
+}

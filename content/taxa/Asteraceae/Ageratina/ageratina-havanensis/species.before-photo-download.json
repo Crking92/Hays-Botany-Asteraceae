@@ -1,0 +1,43 @@
+{
+  "id": "ageratina-havanensis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
+  "scientific_name": "Ageratina havanensis",
+  "authority": "(Kunth) R.M.King & H.Rob.",
+  "common_name": "Shrubby Boneset",
+  "field_group": "White shrubby composite",
+  "project_tracker_diagnostic": "Woody-based or shrubby white composite with opposite leaves and clusters of discoid white heads; much more shrubby than herbaceous bonesets.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial subshrub/shrub.",
+    "habit": "Rounded shrubby plant, often woody at the base.",
+    "leaves": "Opposite, ovate to triangular-ovate, serrate, often aromatic when crushed.",
+    "heads": "Small white discoid heads in terminal corymbs or panicles.",
+    "phyllaries": "Several imbricate series.",
+    "fruit": "Cypselae with bristly pappus.",
+    "best_field_traits": [
+      "shrubby habit",
+      "opposite leaves",
+      "white fluffy clusters",
+      "woody base"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

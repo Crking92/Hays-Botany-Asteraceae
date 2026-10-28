@@ -1,0 +1,100 @@
+{
+  "id": "grindelia-nuda",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "species": "nuda",
+  "scientific_name": "Grindelia nuda",
+  "authority": "Alph.Wood",
+  "common_name": "Curlytop Gumweed / Rayless Gumweed",
+  "taxonomic_note": "Current Kew accepts Grindelia nuda; Grindelia squarrosa var. nuda is a homotypic synonym.",
+  "look_here_first": "Start with the head: curlytop gumweed is typically rayless, with only yellow disc florets surrounded by many narrow spreading to ascending resin-gland-tipped phyllaries. Vegetative parts are strongly gland-dotted and aromatic.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Burnet"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Natural Purola flora lists Grindelia nuda var. nuda as naturally occurring. Williamson — county flora documents Grindelia squarrosa var. nuda, a synonym of current Grindelia nuda. Burnet — detailed county treatment documents the same synonym/current concept.",
+    "range_guardrail": "Historic var. nuda records are counted only after explicit synonym reconciliation to current Grindelia nuda."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "biennial to short-lived subshrub",
+      "glabrous to nearly glabrous gland-dotted shoots",
+      "sessile somewhat clasping serrate leaves",
+      "strongly aromatic when crushed",
+      "ray florets absent",
+      "many narrow spreading to ascending phyllaries with resinous tips",
+      "disc florets yellow",
+      "usually solitary terminal heads"
+    ],
+    "comparison_training": "Rayless yellow head + gland-dotted aromatic foliage + narrow spreading resin-tipped phyllaries is the strongest field package."
+  },
+  "curation_status": {
+    "version": "1.0-b062+b127-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_visual_reviewed": "2026-10-05",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — licensed exact/current-concept diagnostic image first",
+    "target_count": "about 3 when practical",
+    "visual_priority": "rayless/discoid head + resin-tipped phyllaries + habit/leaf attachment",
+    "current_gap": "One diagnostic flower/leaf image installed first. Add a clearly licensed Texas habit/leaf-attachment view later; do not substitute radiate Grindelia squarrosa."
+  },
+  "images": [
+    {
+      "file": "images/grindelia-nuda-provisional-face.jpg",
+      "role": "Diagnostic rayless/discoid head, leaves, and recurved phyllaries",
+      "creator": "JerryFriedman",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_squarrosa_discoid_flower2.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6188528167-fae1b9853.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Rayless mature heads with narrow curved resinous phyllaries, dotted leaf",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6188528167",
+      "gbif_occurrence_id": "6188528167",
+      "source_determination": "Grindelia nuda Alph.Wood",
+      "accepted_target": "Grindelia nuda",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632475073/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

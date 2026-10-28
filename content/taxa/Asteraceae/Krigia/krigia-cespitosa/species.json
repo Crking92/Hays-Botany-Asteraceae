@@ -1,0 +1,37 @@
+{
+  "id": "krigia-cespitosa",
+  "family": "Asteraceae",
+  "genus": "Krigia",
+  "species": "cespitosa",
+  "scientific_name": "Krigia cespitosa",
+  "common_name": "Common dwarf dandelion",
+  "look_here_first": "Look for small yellow heads made entirely of strap-shaped florets above low basal leaves; inspect phyllaries, milky sap, and fruit pappus to separate other small yellow Asteraceae.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Krigia%20cespitosa",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Georgia source photograph and taxon label; not a Hays County voucher.",
+  "images": [
+    {
+      "file": "images/commons-krigia-cespitosa.jpg",
+      "role": "Provisional close recognition photograph of a flowering Krigia; basal leaves and pappus need separate close-ups.",
+      "creator": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:KrigiaC1.jpg",
+      "study_use": "Private noncommercial botanical learner",
+      "public_reuse": "Attribution and ShareAlike apply to derivative use"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

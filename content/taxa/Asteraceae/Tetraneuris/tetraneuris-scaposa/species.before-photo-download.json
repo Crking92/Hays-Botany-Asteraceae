@@ -1,0 +1,41 @@
+{
+  "id": "tetraneuris-scaposa",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
+  "scientific_name": "Tetraneuris scaposa",
+  "authority": "(DC.) Greene",
+  "common_name": "Four-nerve Daisy",
+  "project_tracker_diagnostic": "Perennial from a branching caudex; leaves concentrated at the base; long mostly leafless peduncles each bear a yellow head; pappus consists of 5\u20137 aristate scales.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Low rosette-forming plant with 1\u2013many erect flowering stalks.",
+    "leaves": "Mostly basal/proximal, linear to oblanceolate or spatulate, entire or rarely toothed/lobed, often gland-dotted.",
+    "heads": "Yellow rays and yellow discs, usually one head per long peduncle.",
+    "phyllaries": "Outer phyllaries 8\u201316; inner series shorter and more numerous.",
+    "best_field_traits": [
+      "basal leaf rosette",
+      "long leafless peduncles",
+      "single yellow heads",
+      "compact perennial caudex"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ambrosia-psilostachya",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia psilostachya",
+  "authority": "DC.",
+  "common_name": "Western Ragweed",
+  "project_tracker_diagnostic": "Perennial ragweed; lower leaves opposite and upper leaves alternate; blades toothed to pinnately lobed; often forms colonies from spreading roots/rhizomes.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect perennial, often colony-forming.",
+    "leaves": "Lower leaves opposite, upper alternate; deltate to lanceolate, pinnately toothed to 1-pinnately lobed.",
+    "flowers": "Male heads in terminal spike-like racemes; female heads clustered below.",
+    "fruit": "Small obpyramidal to globose burs with 0\u20136 short distal spines/tubercles.",
+    "best_field_traits": [
+      "perennial colony-forming habit",
+      "ragweed-style divided leaves",
+      "terminal male spikes",
+      "often shorter and more colonial than giant ragweed"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

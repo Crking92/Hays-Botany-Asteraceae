@@ -1,0 +1,178 @@
+{
+  "id": "fleischmannia-incarnata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Fleischmannia",
+  "species": "incarnata",
+  "scientific_name": "Fleischmannia incarnata",
+  "authority": "(Walter) R.M.King & H.Rob.",
+  "common_name": "Pink thoroughwort",
+  "other_common_names": [
+    "Pink slender-thoroughwort"
+  ],
+  "synonyms": [
+    "Eupatorium incarnatum Walter",
+    "Kyrstenia incarnata (Walter) Greene"
+  ],
+  "taxonomy_note": "Treat Fleischmannia incarnata as the accepted species concept (FNA/POWO). Do not equate all pink Eupatorieae or cross-label Chromolaena odorata and Conoclinium coelestinum photographs.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "master_plant_pool_row": 477,
+    "source_pool": "My iNaturalist Flora; Personal List",
+    "source_count": 2,
+    "observations_total": 5,
+    "wild_observations": 5,
+    "inat_taxon_id": 129639,
+    "target_zone_status": "UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "range_basis": "FNA and NPSOT acknowledge species in Texas, but 3 target-zone counties are not independently confirmed through BONAP/NAPA; learner source-pool inclusion is independent of range certification."
+  },
+  "look_here_first": "Check a fully opened FLOWERING SHOOT and an OPPOSITE mature leaf: this is a lax/sprawling herb with paired triangular-to-heart-based COARSELY TOOTHED leaves on long petioles and loose sprays of relatively small pale-pink/purple discoid heads. To separate fragrant mistflower (Chromolaena odorata), view ONE flower head FROM THE SIDE: Fleischmannia's involucre is only ~4–5 mm long and has fewer overlapping phyllary series; Chromolaena usually has an 8–10 mm cylindrical involucre with many imbricated phyllaries. Blue mistflower (Conoclinium coelestinum) has many more florets/head and a distinctly conical receptacle; dissection helps. Color alone proves nothing.",
+  "morphology_keys": {
+    "habit": "Perennial herb 30–120(–200) cm, lax or sprawling, weakly climbing or leaning among neighbors, much branched.",
+    "stems": "Herbaceous, often long and slender with widely spaced opposite leaves; do not confuse scrambling habit with twining vine.",
+    "leaves": "Opposite, long-petiolate blades triangular-deltate, commonly 2–5(–7) × 1.5–3.5(–5) cm, base truncate to cordate, margins crenate-serrate/coarsely serrate. Look for the actual paired leaf bases at a node.",
+    "inflorescence": "Small heads borne in relatively open flat-topped to irregular terminal corymbiform arrays on slender branchlets.",
+    "flowers": "Discoid heads without ray florets; small pink, pale lavender, pink-white or occasionally whitish florets, often about 13–25 per head in regional accounts; count individual florets rather than whole cluster.",
+    "involucre": "About 4–5 mm long, with comparatively few phyllary series; measure a SIDE VIEW next to a ruler, not the entire pink top.",
+    "receptacle": "Flat to slightly convex after florets are carefully removed (Conoclinium tends conspicuously conic). This is a diagnostic DISSECTION character, not typically visible in casual images.",
+    "fruit": "Cypselae about 1.8–2.8 mm in FNA, sparsely hairy to sometimes nearly smooth; pappus bristles. Microscopic carpopodium stopper-shaped and sharply differentiated.",
+    "field_id_sequence": [
+      "Check opposite leaves on a single stem, including long petioles, toothed edge and triangular/heart-shaped base.",
+      "Trace the thin often sprawling herbaceous stems to small open branching clusters.",
+      "Photograph a whole inflorescence and then ONE individual head from the SIDE with scale.",
+      "Compare ~4–5 mm head involucre and bract ranks against longer ~8–10 mm cylindrical Chromolaena involucres.",
+      "If comparing to blue mistflower, count florets per head or carefully dissect a spent head for flat versus conic receptacle."
+    ],
+    "cautions": [
+      "Pink heads plus opposite leaves are shared by Chromolaena, Conoclinium, and other eupatorieae; never identify by pink color alone.",
+      "Stem laxness and flower color vary across seasons and sites; use capitulum structure for final separation.",
+      "Currently installed photo views show field habit, foliage and head clusters but NOT a same-scale diagnostic involucre or receptacle macro; reserve arrows until a verified close-up is available.",
+      "Preserve UNRESOLVED county-native status until BONAP/NAPA target-zone county audit."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Chromolaena odorata",
+      "Conoclinium coelestinum",
+      "Conoclinium dissectum",
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Eupatorium serotinum"
+    ],
+    "primary_competitor": "Chromolaena odorata",
+    "key_distinctions": "Chromolaena odorata (fragrant mistflower): larger ~8–10 mm long cylindrical involucres with many overlapping bract ranks vs Fleischmannia ~4–5 mm shorter heads; both can have toothed opposite leaves and pinkish flowers. Conoclinium coelestinum (blue mistflower): generally more disk florets (often 35–70+) per head and distinctly conic receptacle vs Fleischmannia ~13–25 and flat/slightly convex receptacle; flower shades overlap. Ageratina havanensis: usually woody/shrubby with white to lavender heads; confirm head architecture; no color-only ID."
+  },
+  "images": [
+    {
+      "file": "images/01-field-leaves-and-flowers.jpg",
+      "role": "Whole plant context showing opposite triangular, toothed leaves, low trailing branches and clustered blooms",
+      "creator": "Cornus33",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fleischmannia_incarnata_Arkansas_2011.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, with attribution and share-alike as required",
+      "source_photo_id": "Commons: Fleischmannia incarnata Arkansas 2011",
+      "caption": "Field plant in Arkansas: look for paired opposite triangular leaves, strong tooth margins, loosely sprawling herbaceous branches and pale-pink heads. Photo by Cornus33, CC BY-SA 3.0. The image does NOT resolve individual phyllary layers at measured scale.",
+      "diagnostic_roles": [
+        "opposite leaves",
+        "coarse leaf teeth",
+        "herbaceous low spreading habit",
+        "flowering context"
+      ]
+    },
+    {
+      "file": "images/02-branching-blooming-habit.jpg",
+      "role": "Tall, slender open-branching flowering shoots with terminal head clusters",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354155044).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, with attribution and share-alike as required",
+      "source_photo_id": "24354155044",
+      "caption": "Airy upright flowering shoot from Tennessee, photographed by Melissa McMasters, CC BY 2.0. Follow slender branches toward the small isolated flower heads; habit differs from a robust shrubby mistflower, but habit alone is not definitive.",
+      "diagnostic_roles": [
+        "tall lax flowering habit",
+        "terminal branched clusters",
+        "small heads"
+      ]
+    },
+    {
+      "file": "images/03-opposite-leaf-and-terminal-heads.jpg",
+      "role": "Flowering lateral shoot with opposite toothed leaves and loose branched flowering heads",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354616404).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, with attribution and share-alike as required",
+      "source_photo_id": "24354616404",
+      "caption": "Closer flowering branch photographed by Melissa McMasters, CC BY 2.0. Note opposite toothed leaves and branched clusters with small head groups. A short bract cup may be glimpsed, but precise involucre dimensions are NOT measurable here.",
+      "diagnostic_roles": [
+        "leaf attachment",
+        "toothed leaf blades",
+        "branching flower heads"
+      ]
+    },
+    {
+      "file": "images/04-pink-flower-heads.jpg",
+      "role": "Relatively close view of pink-lilac head clusters, flowering branches and florets",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24891460281).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, with attribution and share-alike as required",
+      "source_photo_id": "24891460281",
+      "caption": "Pale lilac flowering cluster photographed by Melissa McMasters, CC BY 2.0. Compare the numerous small heads with a fragrant mistflower cluster. This is NOT yet a true side-on involucre macro with scale.",
+      "diagnostic_roles": [
+        "pale-pink florets",
+        "head cluster",
+        "flower face"
+      ]
+    }
+  ],
+  "diagnostic_photo_needs": [
+    {
+      "role": "living flowering habit and leaf arrangement",
+      "status": "covered: three field context views; final image quality to be verified after installation"
+    },
+    {
+      "role": "mature paired toothed leaves",
+      "status": "covered in field photos, no isolated ruler-scale leaf"
+    },
+    {
+      "role": "one capitulum side + ruler for measured involucre length and phyllary rows",
+      "status": "FINAL POLISH REQUIRED"
+    },
+    {
+      "role": "same scale Fleischmannia vs fragrant mistflower capitula with accurate arrows",
+      "status": "FINAL POLISH REQUIRED"
+    },
+    {
+      "role": "dissected receptacle flat vs conic blue mistflower",
+      "status": "FINAL POLISH REQUIRED"
+    },
+    {
+      "role": "ripe cypsela and differentiated carpopodium",
+      "status": "FINAL POLISH REQUIRED"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_polish",
+    "image_count": 4,
+    "photo_files_present": 4,
+    "note": "Four exact-species licensed Commons real photographs physically downloaded and listed in manifest; flowers, field habit and toothed leaves shown. Measured involucre/phyllary-series and dissected receptacle macros remain final-polish gaps. Do not present these as completed arrows.",
+    "verified_at": "2026-10-13"
+  },
+  "curation_status": {
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "range_reviewed": false,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "curated_at": "2026-10-13",
+    "photo_install_verified": "2026-10-13"
+  }
+}

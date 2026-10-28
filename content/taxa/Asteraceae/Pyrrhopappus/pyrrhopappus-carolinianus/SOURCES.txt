@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://auth1.dpr.ncparks.gov/flora/species_account.php?id=559
+Source research-grade observation: https://www.inaturalist.org/observations/84549214
+Photo: https://www.inaturalist.org/photos/138976212
+Attribution: (c) ladyf, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,6 @@
+Research: research-drafts/symphyotrichum-praealtum/draft.json (B120 range HOLD).
+Taxonomy: current POWO accepted Symphyotrichum praealtum; Texas native at state level, target-zone counties UNRESOLVED.
+Range: Travis PRC specimen index; historical Bexar/Guadalupe route deliberately not counted as county evidence.
+Photo 1: https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum.jpg ; Reuven Martin; CC0 1.0; iNaturalist observation 33923115.
+Photo 2: https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg ; Reuven Martin; CC0 1.0; iNaturalist observation 33678700.
+Both photos from Ontario, Canada; not Texas occurrence or native-range evidence.

@@ -1,0 +1,19 @@
+Rudbeckia hirta — B128 LEARNER FAST-FILL visual cleanup
+
+Science:
+- Preserve B060 taxonomy/range/morphology decisions unchanged.
+- Project PASS remains Hays + Travis + Williamson.
+- Accepted Rudbeckia hirta var. pulcherrima remains taught internally within the species-level learner; do not create a duplicate page.
+
+Fast-fill media policy:
+- Removed/omitted the prior three all-rights-reserved iNaturalist images from observation 398164325.
+- Retained/reselected exact-species licensed images only.
+
+Selected images:
+1. iNaturalist photo 339152507 — ankakay — CC BY. Diagnostic yellow-ray / dark raised disk flower-head view.
+2. iNaturalist photo 7861779 — Brady Reed — CC0. Rudbeckia hirta var. pulcherrima; useful accepted local infraspecific flowering reference.
+3. iNaturalist photo 20050503 — germangirl — CC BY-NC. Additional exact-species field reference.
+
+FAST-FILL status:
+- Three licensed exact-species images are enough for provisional learner-ready use.
+- Later polish may replace one image with a stronger leaf/stem trichome macro without reopening B060 science.

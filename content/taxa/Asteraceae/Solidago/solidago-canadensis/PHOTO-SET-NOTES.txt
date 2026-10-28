@@ -1,0 +1,6 @@
+﻿Solidago canadensis PHOTO SET
+
+Resolved iNaturalist taxon: Solidago canadensis [ID 67808]
+Downloaded images: 3
+
+This script patched only the images array in species.json and preserved the rest of the species data.

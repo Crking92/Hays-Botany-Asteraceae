@@ -1,0 +1,273 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Conoclinium",
+  "authority": "DC.",
+  "common_group": "Mistflowers",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 2",
+    "species_ids": [
+      "conoclinium-dissectum",
+      "conoclinium-coelestinum"
+    ],
+    "species_count": 2,
+    "taxonomy_note": "Conoclinium greggii is treated as a synonym of Conoclinium dissectum by POWO and Flora of North America.",
+    "canonical_species_ids": [
+      "conoclinium-dissectum",
+      "conoclinium-coelestinum"
+    ],
+    "scope_note": "Both species are installed in data/manifest.json; this corrects the earlier genus file that listed only dissectum."
+  },
+  "study_strategy": {
+    "priority": [
+      "deeply lobed/dissected leaf shape",
+      "lavender-blue discoid heads",
+      "rhizomatous/clumping habit",
+      "phyllaries and fruit when available"
+    ],
+    "warning": "Many horticultural and older Texas sources still use the name Conoclinium greggii."
+  },
+  "curation_status": {
+    "version": "1.3-diagnostic-reference-and-third-genus-lookalike",
+    "last_reviewed": "2026-10-12",
+    "diagnostic_photo_status": "pending matched leaves/fruit/head photos",
+    "diagnostic_reference_status": "9 source links verified/identified; macros pending",
+    "canonical_chromolaena_comparator_updated": "2026-10-12",
+    "field_pair_status": "two_existing_public_domain_photos_linked_2026-10-12"
+  },
+  "look_here_first": "Separate these two from a single fully expanded middle stem leaf: C. dissectum has a blade cut into obvious lobes/dissections; C. coelestinum has an intact triangular/ovate outline with marginal teeth but no deep lobes. Confirm opposite leaves and blue-violet rayless heads. Do not identify from flower color alone.",
+  "shared_genus_traits": [
+    "Usually rhizomatous perennial with opposite leaves, often 3 main veins from the base",
+    "Small blue/lavender to violet heads composed only of disk florets; clustered in terminal/axillary corymbiform arrays",
+    "Approximately 25 phyllaries in 2–3 series around hemispheric involucres; cone-shaped receptacle without paleae",
+    "Persistent pappus bristles on five-ribbed cypselae"
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Fully expanded stem leaf margin",
+      "conoclinium_dissectum": "Deeply lobed/dissected blade, often giving a palmleaf outline",
+      "conoclinium_coelestinum": "Undissected triangular/deltate/ovate blade with serrate/dentate/crenate teeth",
+      "priority": "PRIMARY field discriminator; check mature leaves from several nodes"
+    },
+    {
+      "character": "Leaf blade size (FNA typical range)",
+      "conoclinium_dissectum": "1.5–4 cm long",
+      "conoclinium_coelestinum": "2–7 cm long, occasionally 13 cm",
+      "priority": "Supporting only; overlap"
+    },
+    {
+      "character": "Corolla length (FNA)",
+      "conoclinium_dissectum": "2.5–3.5 mm",
+      "conoclinium_coelestinum": "Usually 2–2.5 mm (occasionally 1.6 mm)",
+      "priority": "Microscopic corroboration; flower-head photo should include scale"
+    },
+    {
+      "character": "Cypsela length and surface (FNA)",
+      "conoclinium_dissectum": "1.8–2.5 mm, short-hairy (hispidulous)",
+      "conoclinium_coelestinum": "1–1.5 mm, glabrous",
+      "priority": "High-value reproductive confirmation when mature fruit is available"
+    },
+    {
+      "character": "Flower color",
+      "conoclinium_dissectum": "Blue, lavender or purple",
+      "conoclinium_coelestinum": "Blue/blue-violet or rosy-violet",
+      "priority": "Not diagnostic; substantial overlap"
+    },
+    {
+      "character": "Habit",
+      "conoclinium_dissectum": "Rhizomatous, many stems, sometimes knotty crown or somewhat woody at base",
+      "conoclinium_coelestinum": "Colonial rhizomatous plant, usually erect, sometimes rooting at nodes",
+      "priority": "Supporting; habit overlaps"
+    }
+  ],
+  "quick_comparison_steps": [
+    "1. Verify opposite leaves and terminal clusters of true Asteraceae capitula lacking rays.",
+    "2. Photograph a fully expanded middle stem leaf flat, including outline, petiole, and venation.",
+    "3. Deep lobes or dissections → C. dissectum; simple triangular/deltate blade with teeth → C. coelestinum.",
+    "4. When leaves are atypical or partly damaged, corroborate mature cypsela surface and length (hairy 1.8–2.5 mm versus smooth 1–1.5 mm), with scale."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Chromolaena odorata",
+      "learner_role": "Canonical LOOKALIKE_COMPARISON; target zone native status UNRESOLVED; not native-counted",
+      "separate_by": "Typically 8–10 mm long CYLINDRICAL involucre with 4–6 or more phyllary series vs much shorter Conoclinium heads with hemispheric involucres and only 2–3 phyllary series; often tall sprawling subshrub."
+    },
+    {
+      "taxon": "Ageratina havanensis",
+      "learner_role": "Canonical",
+      "separate_by": "Woody evergreen shrub with white or faintly pink heads, and 4–6 mm involucres; verify stems and head structure, not color alone."
+    },
+    {
+      "taxon": "Ageratina altissima",
+      "learner_role": "Canonical",
+      "separate_by": "Herbaceous erect rhizomatous perennial with long-petioled coarsely toothed leaves and white heads."
+    },
+    {
+      "taxon": "Conoclinium betonicifolium",
+      "learner_role": "Noncanonical comparative taxon",
+      "separate_by": "Usually oblong/oblong-lanceolate leaves with truncate to cordate/subauriculate bases and dilated pappus bristle tips; regional occurrence must be checked before treating as local."
+    },
+    {
+      "taxon": "Fleischmannia incarnata",
+      "learner_role": "Source-pool taxon (five personal iNaturalist wild observations); research-drafts/fleischmannia-incarnata.json; not yet canonical",
+      "separate_by": "Opposite triangular leaves and pinkish rayless heads may look like C. coelestinum, but Fleischmannia generally has a lax/sprawling habit, about 13–25 disk florets per head (vs Conoclinium 35–70+) and a flat or nearly flat receptacle (vs conic). Flower color only supporting."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "shot": "Side-by-side fully expanded leaves from both species, adaxial and abaxial, same scale",
+      "label": "dissected blade vs intact toothed blade; petiole; 3 basal veins",
+      "status": "MATCHED_DIAGNOSTIC_SET_PENDING"
+    },
+    {
+      "priority": 1,
+      "shot": "Same-scale fruit/seed macros from both species",
+      "label": "C. dissectum hispidulous 1.8–2.5 mm vs C. coelestinum glabrous 1–1.5 mm",
+      "status": "MATCHED_DIAGNOSTIC_SET_PENDING"
+    },
+    {
+      "priority": 2,
+      "shot": "Flower-head side macros with phyllaries and mm scale",
+      "label": "involucre, phyllaries, disk florets; do not mistake clusters for single heads",
+      "status": "MATCHED_DIAGNOSTIC_SET_PENDING"
+    },
+    {
+      "priority": 2,
+      "shot": "Habit and habitat photos showing ground-level stems",
+      "label": "knotty crown/spreading versus rhizomatous colonies; supporting only",
+      "status": "existing broad views; fine diagnostic pair pending"
+    }
+  ],
+  "taxonomic_safeguards": [
+    "Conoclinium greggii and Eupatorium greggii are synonyms of accepted C. dissectum, not separate species pages.",
+    "Do not treat leaf color, bloom timing or head color alone as species separators."
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America genus key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=107871"
+    },
+    {
+      "authority": "Flora of North America C. dissectum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066412"
+    },
+    {
+      "authority": "Flora of North America C. coelestinum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220003245"
+    },
+    {
+      "authority": "UT Austin PRC C. dissectum",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Conoclinium%20dissectum"
+    }
+  ],
+  "annotation_blueprint": [
+    {
+      "panel": "Gregg's middle stem leaf",
+      "arrows": [
+        {
+          "label": "deep lobe sinus",
+          "anchor": "innermost clearly visible cleft between lobes"
+        },
+        {
+          "label": "basal veins",
+          "anchor": "veins emerging from petiole junction"
+        }
+      ],
+      "warning": "Do not point to a marginal tooth as if it were a lobe."
+    },
+    {
+      "panel": "Blue middle stem leaf",
+      "arrows": [
+        {
+          "label": "continuous margin",
+          "anchor": "unbroken outer leaf outline between teeth"
+        },
+        {
+          "label": "serrated teeth",
+          "anchor": "edge denticles"
+        },
+        {
+          "label": "three basal veins",
+          "anchor": "petiole-blade junction"
+        }
+      ],
+      "warning": "Do not circle a damaged or folded leaf and call it dissected."
+    },
+    {
+      "panel": "Side-on capitulum comparison",
+      "arrows": [
+        {
+          "label": "involucre",
+          "anchor": "phyllary basket directly below disk florets"
+        },
+        {
+          "label": "phyllary series",
+          "anchor": "overlapping bracts under one head"
+        }
+      ],
+      "warning": "Label a single capitulum, not the entire inflorescence as an involucre."
+    },
+    {
+      "panel": "Matched ripe fruit macros",
+      "arrows": [
+        {
+          "label": "cypsela hairs",
+          "anchor": "surface of C. dissectum fruit"
+        },
+        {
+          "label": "smooth fruit",
+          "anchor": "C. coelestinum fruit surface"
+        }
+      ],
+      "warning": "Include millimeter scale before asserting measured difference."
+    }
+  ],
+  "diagnostic_reference_index": "content/taxa/Asteraceae/mistflower-diagnostic-reference-index.json",
+  "measurement_conflicts": [
+    {
+      "taxon": "Conoclinium coelestinum",
+      "character": "Mature cypsela length",
+      "fna": "1–1.5 mm, glabrous",
+      "missouri_plants": "1.6–2.4 mm, glabrous",
+      "resolution": "Unreconciled variation across treatments. Avoid using length as a standalone hard cutoff. Use leaves and fruit hairiness; add paired voucher microscopy before a locked size key.",
+      "fna_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220003245",
+      "other_url": "https://www.missouriplants.com/Conoclinium_coelestinum_page.html"
+    }
+  ],
+  "field_ready_image_pair": {
+    "status": "installed_gallery_pair_available; diagnostic macro still desirable",
+    "reviewed": "2026-10-12",
+    "primary_teaching_point": "Use LEAF BLADE OUTLINE—not flower color—to split Gregg's and blue mistflower.",
+    "paired_panels": [
+      {
+        "scientific_name": "Conoclinium dissectum",
+        "common_name": "Gregg's mistflower",
+        "image": "content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/images/06-public-domain-greggs-plant.jpg",
+        "license": "Public Domain",
+        "teaching_annotation": "Look for the blade divided deeply into prominent lobes",
+        "view_limit": "Flowering/foliage context, not an isolated full leaf at scale"
+      },
+      {
+        "scientific_name": "Conoclinium coelestinum",
+        "common_name": "Blue mistflower",
+        "image": "content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/images/04-usgs-opposite-toothed-leaves.jpg",
+        "license": "Public Domain (USGS)",
+        "teaching_annotation": "Look for opposite leaves whose continuous outline has teeth, not deep dissection",
+        "view_limit": "Usable attached-leaf view, not an isolated leaf with ruler"
+      }
+    ],
+    "strong_study_only_reference": {
+      "scientific_name": "Conoclinium dissectum",
+      "page": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/conoclinium_greggii.htm",
+      "image": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/Conoclinium%20greggii%20leaf.jpg",
+      "character": "Deeply cut leaf margin; close enough for clear learner ID",
+      "use_policy": "Link-only educational reference; photography redistribution permission NOT confirmed; do not copy into learner."
+    },
+    "final_polish_not_current_blocker": [
+      "Replace Gregg's reference with licensed or user-shot flattened leaf macro as available",
+      "Same-scale leaves with veins and petioles",
+      "Fruit surface micrographs and involucre-side phyllary counts"
+    ]
+  }
+}

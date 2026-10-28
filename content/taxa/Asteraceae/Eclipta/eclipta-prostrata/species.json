@@ -1,0 +1,89 @@
+{
+  "id": "eclipta-prostrata",
+  "family": "Asteraceae",
+  "genus": "Eclipta",
+  "species": "prostrata",
+  "scientific_name": "Eclipta prostrata",
+  "common_name": "False daisy",
+  "look_here_first": "Opposite narrow leaves and tiny white composite heads; inspect involucral bracts and mature achenes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_043": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Eclipta%20prostrata",
+  "images": [
+    {
+      "file": "images/inat-157567655.jpg",
+      "role": "Recognize · low branching mat of narrow-leaved stems with scattered minute white heads among dry ground litter; fine parts not resolved",
+      "creator": "(c) Laura P., some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/157567655",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review043-d08d53eabf2e364.jpg",
+      "role": "Look closer · opposite narrow rough-hairy leaves and small white composite head shown against fingers; mature achenes not visible",
+      "requested_diagnostic_view": "Useful photo of different life stage or botanical organ after visual inspection, exact source species provisional",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234172505",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646966675/original.jpg",
+      "source_determination": "Eclipta prostrata",
+      "source_observation_id": "6234172505",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/eclipta-prostrata/gbif-ba884f97176f4e.jpg",
+      "archive_image_sha256": "5ce23329cf933f578c81566fc7b9555b207f1152edcbb0a62cae26fd753c6f43",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review043-5974f17979e99c8.jpg",
+      "role": "Look closer · tiny white-rayed flowerhead, opposite bristly leaves and rounded green head; phyllary/fruit maturity not confirmed",
+      "requested_diagnostic_view": "Useful photo of different life stage or botanical organ after visual inspection, exact source species provisional",
+      "creator": "Jackie T",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6252031432",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650851679/original.jpg",
+      "source_determination": "Eclipta prostrata",
+      "source_observation_id": "6252031432",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/eclipta-prostrata/gbif-537dc8acea0e13.jpg",
+      "archive_image_sha256": "4ee9ce5ebc2ebfb4cee6f03b5cd4ced0a00dcd56a9b1ca545346e4e788cccc8a",
+      "image_dimensions": [
+        1321,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

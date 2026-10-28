@@ -1,0 +1,246 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Diaperia",
+  "common_group": "Pygmy-cudweeds / rabbit-tobaccos",
+  "project_scope": {
+    "canonical_species_count": 3,
+    "canonical_species_ids": [
+      "diaperia-candida",
+      "diaperia-prolifera",
+      "diaperia-verna"
+    ],
+    "source_pool": "Master Plant Pool rows 369–371; all three IDs in data/manifest.json",
+    "lesson_status": "genus lesson prepared from existing canonical species; no species/range/media installation",
+    "taxonomy_note": "Treat varietal names under D. verna and D. prolifera as infraspecific concepts, not new species learner installs. Species-level taxonomy reviews remain provisional."
+  },
+  "look_here_first": "LOOK HERE FIRST: on a tiny gray-woolly spring annual, separate a single capitulum (individual head) from the larger glomerule (cluster). Use a 10–20× lens and a millimeter scale: first measure ONE head and view it from the side; next check whether little capitular leaves protrude between and beyond the heads. Only then inspect branching and tiny florets. Flower color and woolliness alone do not separate these three.",
+  "shared_genus_traits": [
+    "Small annual herbs, gray-green to whitish from dense silky/woolly hairs; leaves mostly alternate and sessile.",
+    "Very small rayless Asteraceae heads clustered among small leaflike bracts; what looks like one woolly flower can be several capitula.",
+    "Capitula have distinct peripheral pistillate florets and central florets; internal paleae and mature cypselae are valuable under magnification.",
+    "Branch pattern, single-head proportions, palea overlap and relative height of subtending capitular leaves are more reliable than overall silver color."
+  ],
+  "field_sequence": [
+    "1. Photograph entire plant with ruler, then isolate one complete head (not the 8-mm glomerule).",
+    "2. Measure head height and width to nearest 0.5 mm with a loupe/macro scale.",
+    "3. In side view, check whether capitular leaves are hidden or clearly extend beyond the heads.",
+    "4. Examine branching and arrangement of heads (raceme/spike-like versus forked/dichasial).",
+    "5. If uncertain, dissect a mature head: compare pistillate palea overlap, central florets and cypsela length; retain identification as provisional without those views."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Individual head length (FNA)",
+      "candida": "1.5–2 mm",
+      "verna": "2–3.3 mm",
+      "prolifera": "3.5–4.5 mm",
+      "weight": "HIGH; measure individual capitulum, not glomerule; verna/prolifera gap but variability possible"
+    },
+    {
+      "character": "Head proportions (FNA)",
+      "candida": "small heads; confirm array and floral characters",
+      "verna": "roughly spherical/campanulate, height about equal to diameter",
+      "prolifera": "ellipsoid/cylindrical, height 2–3× diameter",
+      "weight": "HIGH in mature side-view head"
+    },
+    {
+      "character": "Capitular leaves between heads (FNA)",
+      "candida": "inspect bracts; use head/array key",
+      "verna": "mostly hidden and shorter than heads",
+      "prolifera": "visible between and extending past heads",
+      "weight": "HIGH; same-scale head-cluster macro"
+    },
+    {
+      "character": "Head array (FNA)",
+      "candida": "raceme-like or spike-like; branching basal or absent",
+      "verna": "subdichasiform/forking clusters; proximal and distal branches",
+      "prolifera": "strictly dichasiform or pseudo-polytomous; branches proximal and distal",
+      "weight": "SUPPORT; branching overlaps and plants can be stunted"
+    },
+    {
+      "character": "Longest pistillate paleae (FNA)",
+      "candida": "0.9–1.3 mm",
+      "verna": "1.9–4 mm species pair range; verify exact species treatment before narrower claims",
+      "prolifera": "2.5–4 mm reported in FNA species treatment",
+      "weight": "DISSECTION; paleae need scale and verified species treatment"
+    },
+    {
+      "character": "Central florets (FNA)",
+      "candida": "3–5 bisexual florets; 0.5–0.9 mm corollas protrude; functionally staminate florets usually absent",
+      "verna": "0 bisexual florets; 2–5 functionally staminate florets hidden within head (shared paired key)",
+      "prolifera": "0 bisexual florets; 2–5 functionally staminate florets hidden within head (shared paired key)",
+      "weight": "MICROSCOPE; critical confirmation against candida"
+    },
+    {
+      "character": "Mature cypsela length (FNA)",
+      "candida": "not assigned from genus key; consult species treatment",
+      "verna": "mostly 0.7–0.9 mm",
+      "prolifera": "mostly 0.9–1.2 mm",
+      "weight": "SUPPORT; ranges touch at 0.9 mm"
+    },
+    {
+      "character": "Plant color and white wool",
+      "candida": "often strikingly silvery",
+      "verna": "gray-green to silvery",
+      "prolifera": "gray-green to silvery",
+      "weight": "NOT diagnostic; light, age and varieties affect appearance"
+    }
+  ],
+  "overlap_cautions": [
+    "Never confuse a multi-head glomerule (often about 8 mm across) with an individual 2–4.5 mm capitulum; mixing these measurements breaks the key.",
+    "D. verna and D. prolifera both branch and both are woolly. Use head height:width, protruding capitular leaves and mature reproductive anatomy together.",
+    "Cypsela ranges for verna/prolifera meet near 0.9 mm. One fruit cannot settle a difficult specimen.",
+    "D. prolifera varieties can differ in silver color; do not use color to assert variety or nativity.",
+    "Species cards currently say taxonomy_reviewed=false and visual_reviewed=false; this is a teaching comparison, not a taxonomic sign-off."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Gamochaeta spp.",
+      "difference": "Often taller with conspicuous elongated woolly spike-like arrays of multiple heads; dissect a single head and compare involucral structure rather than trusting woolliness."
+    },
+    {
+      "taxon": "Pseudognaphalium spp.",
+      "difference": "Usually larger and taller with broader, more obvious clusters of heads; check stature, inflorescence architecture and phyllaries."
+    },
+    {
+      "taxon": "Filago / Logfia historical concepts",
+      "difference": "Older floras may use Evax or Filago names for Diaperia; check accepted genus and individual-head characters before creating an alias or extra species card."
+    }
+  ],
+  "anatomy_lessons": [
+    {
+      "title": "Head versus glomerule",
+      "look": "Place a mm ruler next to one woolly cluster and gently expose ONE capitulum.",
+      "why": "A cluster is several heads; FNA head dimensions refer to each head.",
+      "photo_role": "macro of isolated capitulum next to intact glomerule with 1-mm ticks",
+      "status": "needs_photo; annotation_pending"
+    },
+    {
+      "title": "Capitular leaves and head profile",
+      "look": "Side-view head group; identify little leaflike bracts between heads and compare head height with width.",
+      "why": "Leaves overtop the heads in prolifera but are hidden/shorter in verna; heads also differ in shape.",
+      "photo_role": "matched lateral head macros of verna/prolifera at identical scale",
+      "status": "needs_photo; annotation_pending"
+    },
+    {
+      "title": "Forking and head arrangement",
+      "look": "Trace every stem from base to terminal cluster; separate raceme/spike-like from repeatedly forked arrays.",
+      "why": "Candida often differs in inflorescence architecture, but stressed plants overlap.",
+      "photo_role": "whole plant plus zoomed annotated branch forks, matched between all three",
+      "status": "needs_photo; annotation_pending"
+    },
+    {
+      "title": "Dissected paleae and florets",
+      "look": "Under 20–40×, lift phyllaries/paleae and separate peripheral pistillate from central florets; measure ripe cypselae.",
+      "why": "Candida has bisexual central florets whereas the verna/prolifera pair has functionally staminate central florets.",
+      "photo_role": "dissected head, floret types, paleae overlap, mature cypsela with 0.5-mm scale",
+      "status": "needs_photo; annotation_pending"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "pair": "D. candida vs D. verna",
+      "first": "Isolate one head: candida 1.5–2 mm and spike/raceme-like arrays; verna 2–3.3 mm and more forked arrays.",
+      "confirm": "Dissect central florets; bisexual in candida vs functionally staminate in verna.",
+      "warning": "Whole woolly cluster dimensions and silver color mislead."
+    },
+    {
+      "pair": "D. verna vs D. prolifera",
+      "first": "Side-on individual head: verna ~as tall as wide, 2–3.3 mm; prolifera 2–3× as tall as wide, 3.5–4.5 mm.",
+      "confirm": "Look for capitular leaves extending above the heads in prolifera, hidden in verna.",
+      "warning": "Branching and fruit lengths overlap."
+    },
+    {
+      "pair": "Diaperia vs woolly Gamochaeta/Pseudognaphalium",
+      "first": "Isolate the tiny capitulum and inspect bracts, floret arrangement and plant architecture.",
+      "confirm": "Use current flora keys and actual dissections; do not identify from white hairs alone.",
+      "warning": "Non-genus look-alikes may share cottony gray leaves."
+    }
+  ],
+  "photo_evidence_and_rights": [
+    {
+      "species_id": "diaperia-candida",
+      "file": "content/taxa/Asteraceae/Diaperia/diaperia-candida/images/commons-diaperia-candida-laura-clark.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silver_rabbit_tobacco_imported_from_iNaturalist_photo_265055282_on_22_October_2024.jpg",
+      "creator": "Laura Clark",
+      "license": "CC BY 4.0",
+      "public_reuse": "public web eligible with original creator attribution, license link and change notice; image-level license recorded in species.json",
+      "evidence_status": "species.json lists one photo file; image pixels/diagnostic organ and arrow targets not independently certified in this genus lesson",
+      "intended_role": "existing provisional recognition view; tiny head anatomy not certified"
+    },
+    {
+      "species_id": "diaperia-prolifera",
+      "file": "content/taxa/Asteraceae/Diaperia/diaperia-prolifera/images/inat-369879187.jpeg",
+      "source_page": "https://www.inaturalist.org/photos/369879187",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC (version not recorded)",
+      "public_reuse": "conditional/not public-release-cleared until website NC eligibility or image-specific permission verified",
+      "evidence_status": "species.json lists one photo file; image pixels/diagnostic organ and arrow targets not independently certified in this genus lesson",
+      "intended_role": "existing provisional recognition view; anatomy not certified"
+    },
+    {
+      "species_id": "diaperia-verna",
+      "file": "content/taxa/Asteraceae/Diaperia/diaperia-verna/images/inat-186054071.jpeg",
+      "source_page": "https://www.inaturalist.org/photos/186054071",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC (version not recorded)",
+      "public_reuse": "conditional/not public-release-cleared until website NC eligibility or image-specific permission verified",
+      "evidence_status": "species.json lists one photo file; image pixels/diagnostic organ and arrow targets not independently certified in this genus lesson",
+      "intended_role": "existing provisional recognition view; anatomy not certified"
+    }
+  ],
+  "targeted_handoffs": [
+    {
+      "lane": "diagnostic-photo",
+      "target": "diaperia-candida",
+      "request": "Obtain public-cleared calibrated single-head macro (1.5–2 mm), full branching view and central-floret dissection; preserve Laura Clark CC BY 4.0 credit."
+    },
+    {
+      "lane": "diagnostic-photo",
+      "target": "diaperia-verna",
+      "request": "Obtain publicly reusable same-scale side-on head, capitular leaves and cypsela close-up; existing Joey CC BY-NC is conditional."
+    },
+    {
+      "lane": "diagnostic-photo",
+      "target": "diaperia-prolifera",
+      "request": "Obtain publicly reusable elongated-head side view, protruding capitular leaves and pistillate paleae; existing Joey CC BY-NC is conditional."
+    },
+    {
+      "lane": "taxonomy",
+      "target": "diaperia-candida; diaperia-verna; diaperia-prolifera",
+      "request": "Verify FNA species key versus individual specimen variation and infraspecific name concepts; do not alter native-range decisions in this lane."
+    },
+    {
+      "lane": "approved-taxa-installer",
+      "target": "none",
+      "request": "All three species already canonical. Do not create duplicates or reinstall."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Flora of North America: Diaperia genus key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=109799",
+      "role": "primary head size/shape, paleae, branching and floral comparisons"
+    },
+    {
+      "title": "Texas Wildbuds: D. prolifera",
+      "url": "https://www.texaswildbuds.com/diaperia-prolifera.html",
+      "role": "regional plant/cluster context; not a replacement for FNA measurements"
+    },
+    {
+      "title": "Texas Wildbuds: D. verna",
+      "url": "https://www.texaswildbuds.com/diaperia-verna.html",
+      "role": "regional photographs and habit context; photo reuse not assumed"
+    }
+  ],
+  "curation_status": {
+    "stage": "genus_lesson_published_pending_diagnostic_macros",
+    "date": "2026-10-20",
+    "canonical_species": 3,
+    "installed_photo_records_from_species": 3,
+    "public_web_cleared_recorded": 1,
+    "conditional_noncommercial_records": 2,
+    "annotation_verified": 0,
+    "scope": "genus lesson only; species and photo files unchanged"
+  }
+}

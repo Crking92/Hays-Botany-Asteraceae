@@ -1,0 +1,124 @@
+{
+  "id": "helenium-amarum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "scientific_name": "Helenium amarum",
+  "authority": "(Raf.) H.Rock",
+  "common_name": "Bitter Sneezeweed",
+  "field_group": "Small yellow roadside composite",
+  "project_tracker_diagnostic": "Branching annual with many small heads; wedge-shaped drooping yellow rays and a globose to hemispheric disk; leaves narrow and mostly entire.",
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve lists Helenium amarum among naturally occurring plants. Travis County — UT Plant Resources Center's Travis County Asteraceae index includes both H. amarum var. amarum and var. badium specimens. Williamson County — UT Plant Resources Center provides a detailed local treatment of H. amarum var. amarum.",
+    "range_guardrail": "Variety-level geography is useful training context, but native PASS is species-level. Do not create separate native species counts for the two varieties."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Much-branched herb.",
+    "leaves": "Alternate, narrow to oblanceolate, mostly entire, often clasping or sessile.",
+    "heads": "Numerous small heads; rays short, often 3-lobed at the tip and drooping; disk yellow becoming more convex.",
+    "phyllaries": "Appressed to slightly spreading, in several series.",
+    "fruit": "Cypselae with small scales and often minute awns.",
+    "best_field_traits": [
+      "annual, taprooted, often bushy-branched",
+      "stems ridged/striated but not winged by decurrent leaf tissue",
+      "leaves numerous, alternate and very narrow linear to threadlike; lower early leaves may be dissected",
+      "heads numerous and relatively small",
+      "rays usually 8–10, yellow and often reflexed/drooping",
+      "disc subglobose to globose",
+      "var. amarum: disc flowers/lobes yellow; more eastern/central Texas pattern",
+      "var. badium: distal disc lobes brown to purplish; more western/central Texas pattern",
+      "foliage aromatic/bitter when crushed"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/taxa/77348",
+      "study_use": "",
+      "public_reuse": ""
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Jerry Oldenettel, some rights reserved (CC BY-NC-SA)",
+      "license": "cc-by-nc-sa",
+      "source_page": "https://www.inaturalist.org/taxa/77348",
+      "study_use": "",
+      "public_reuse": ""
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Dawson White, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403562495",
+      "study_use": "",
+      "public_reuse": ""
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Dawson White, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403562495",
+      "study_use": "",
+      "public_reuse": ""
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Dawson White, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/403562495",
+      "study_use": "",
+      "public_reuse": ""
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-b028-taxonomy-range-refresh",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "range_reviewed": true,
+    "lookalikes_reviewed": true
+  },
+  "taxonomic_note": "Current Kew/POWO accepts Helenium amarum as one species with two accepted varieties. The learner keeps one canonical species entry and teaches var. amarum versus var. badium inside that record rather than double-counting them as species. Source-pool nominate-variety name routes to the species-level card; do not infer infraspecific identification for other source observations.",
+  "look_here_first": "Check the stem before the flower head. Bitter sneezeweed is the B028 species with stems that are ridged but NOT winged. Then confirm the very narrow linear leaves and numerous small yellow heads. Variety-level support: var. amarum usually has yellow disc lobes, while var. badium has dark brown to purplish disc lobes.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "comparisons": {
+    "confused_with": [
+      "Helenium elegans",
+      "Helenium autumnale",
+      "Helenium quadridentatum"
+    ],
+    "key_distinctions": "H. elegans is also annual but has clearly winged stems from decurrent leaves and narrow entire leaves; H. amarum lacks stem wings. H. autumnale is perennial, strongly winged, and has much broader often toothed leaves. H. quadridentatum is a winged annual with ovoid/obconic heads, 10–15 rays, and 4-lobed disc corollas; H. amarum is unwinged."
+  },
+  "infraspecific_training": {
+    "var. amarum": "Yellow disc flowers/lobes; eastern and central Texas expression in many field treatments. Travis and Williamson are well documented.",
+    "var. badium": "Dark brown to purplish disc lobes; more western/plains Texas expression. Travis specimens and Burnet/Llano field references show overlap into Central Texas.",
+    "guardrail": "Use disc color plus geography as supportive variety characters, not as a reason to split the species-level learner entry."
+  },
+  "synonyms": [
+    "Helenium amarum var. amarum"
+  ]
+}

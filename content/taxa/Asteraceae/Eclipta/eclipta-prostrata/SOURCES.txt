@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Eclipta%20prostrata
+Source research-grade observation: https://www.inaturalist.org/observations/94950536
+Photo: https://www.inaturalist.org/photos/157567655
+Attribution: (c) Laura P., some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Eclipta prostrata
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6234172505
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eclipta-prostrata/gbif-ba884f97176f4e.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Eclipta prostrata
+Creator: Jackie T; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6252031432
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eclipta-prostrata/gbif-537dc8acea0e13.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

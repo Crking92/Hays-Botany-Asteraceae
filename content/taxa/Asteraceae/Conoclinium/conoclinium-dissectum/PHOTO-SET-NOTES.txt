@@ -1,0 +1,6 @@
+﻿Conoclinium dissectum PHOTO SET
+
+Resolved iNaturalist taxon: Conoclinium dissectum [ID 288658]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

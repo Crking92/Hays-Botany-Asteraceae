@@ -1,0 +1,37 @@
+{
+  "id": "thymophylla-tenuiloba",
+  "family": "Asteraceae",
+  "genus": "Thymophylla",
+  "species": "tenuiloba",
+  "scientific_name": "Thymophylla tenuiloba",
+  "common_name": "Dahlberg daisy",
+  "look_here_first": "Recognize very finely divided foliage below small bright yellow daisy-like composite heads; inspect narrow leaf segments and phyllaries to distinguish other Thymophylla.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Thymophylla%20tenuiloba",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Source cultivated/photographic context may not represent wild-type Hays plants; no cultivar or county nativity assumption.",
+  "images": [
+    {
+      "file": "images/commons-thymophylla-tenuiloba.jpg",
+      "role": "Provisional yellow flowering form for visual recognition, not a verified local provenance or phyllary macro.",
+      "creator": "Prenn",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thymophylla_tenuiloba_(2).JPG",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "Keep author/source/license attribution and ShareAlike for any derivative"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

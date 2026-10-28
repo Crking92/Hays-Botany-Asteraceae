@@ -1,0 +1,205 @@
+{
+  "id": "solidago-juliae",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "species": "juliae",
+  "scientific_name": "Solidago juliae",
+  "authority": "G.L.Nesom",
+  "common_name": "Julia's Goldenrod",
+  "look_here_first": "LOOK FIRST at stem HAI​RS and panicle shape, not dry habitat: Julia's goldenrod has an evenly white-soft-hairy (densely villoso-tomentose) stem, narrow 3-nerved middle leaves often 5–10 mm wide with moderately dense fine hairs, and a LONG NARROW pyramid-like branching panicle about 3–4 times longer than wide. It occurs in Edwards Plateau/Trans-Pecos grassy or open woodland sites AND along WET stream/lake edges. Site moisture alone cannot distinguish it.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — project Hays-local source pool. Travis — UT Plant Resources Center herbarium index includes Solidago juliae. Williamson — dedicated county flora documents S. juliae.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "stem continuously soft white tomentose",
+      "narrow 3-nerved pubescent leaves 5–10 mm wide",
+      "long narrow panicle 3–4 times long as broad",
+      "Edwards Plateau and Trans-Pecos population; habitats wet streams, grasslands and woodland"
+    ],
+    "comparison_training": "Compared with smoother, wetter-site S. gigantea, S. juliae is a drier-site Central/west Texas species with more visibly hairy/canescent foliage.",
+    "stem": "FNA: evenly densely villoso-tomentose (fine thin crisped white hairs) along stems 50–250 cm, generally 1–5 stems.",
+    "leaves": "FNA: narrow lanceolate 3-nerved 50–80(–120) × 5–10(–12) mm, margins shallowly toothed/near entire, both sides moderately to densely hairy.",
+    "flowering_axis": "FNA: narrowly pyramidal panicle approximately 3–4 times as long as wide, 80–950 heads; involucres ~3–4 mm. Compare broad arching panicle giant and tall goldenrods.",
+    "habitat_corrected": "Can occur on wet stream/lake margins AND grasslands or oak/pine woodland, 300–1000+ m; not a dry-site-only species."
+  },
+  "curation_status": {
+    "version": "1.1-corrected-juliae-fna-hair-and-narrow-panicle-20261013",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "last_visual_reviewed": "2026-10-13",
+    "photo_source_note": "One external iNaturalist flower photo and separately linked copyrighted expert voucher reference; no physical new images claimed.",
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "manual_library_install_010": "2026-10-16",
+    "manual_library_install_029": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/2507533/large.jpg",
+      "role": "Flowering panicle / Julia's goldenrod field reference",
+      "creator": "Anne Adams",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1187475",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2507533/large.jpg",
+      "source_type": "iNaturalist guide",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "note": "Exact-species photo used by the Mo Ranch Wild Flowers iNaturalist guide; creator/license explicitly shown on the guide page."
+    },
+    {
+      "file": "images/library-review010-cf80062778de7de.jpg",
+      "role": "Recognize · dense yellow goldenrod panicles with narrow leaves in mixed plants; flowerhead arrangement visible but source ID provisional",
+      "requested_diagnostic_view": "Yellow plume/panicle and narrow foliage; stem pubescence not resolved",
+      "creator": "Nick Loveland",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6431713662",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689904092/original.jpg",
+      "source_determination": "Solidago juliae",
+      "source_observation_id": "6431713662",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/solidago-juliae/gbif-17b66093dc1c96.jpg",
+      "archive_image_sha256": "fc02c92694338f6a7fdcacf6b157d94ced3b0139e86aadd55842923ebc8b4f00",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review029-d097f76a0c00c1b.jpg",
+      "role": "Look closer · several long narrow leaves attached around a short shoot; visible surface texture but individual hairs not confidently resolved",
+      "requested_diagnostic_view": "Show lanceolate foliage and compact plant architecture",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6252307537",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633424534/original.jpg",
+      "source_determination": "Solidago juliae",
+      "source_observation_id": "6252307537",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/solidago-juliae/gbif-3ac106c708d8fa.jpg",
+      "archive_image_sha256": "ec25537d3130074e2f07297e2c676dd05d7b8c3a7adec84f790199b1cb512c2b",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review029-d9a6c39f78a1f16.jpg",
+      "role": "Recognize · compact low mound of numerous narrow leaves before flowering; photograph alone cannot confirm Julia's goldenrod identification",
+      "requested_diagnostic_view": "Show lanceolate foliage and compact plant architecture",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6252307537",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633424538/original.jpg",
+      "source_determination": "Solidago juliae",
+      "source_observation_id": "6252307537",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/solidago-juliae/gbif-f5de5a4a482b5c.jpg",
+      "archive_image_sha256": "0f7050861d484cc173f0204f369550c7b9de0e0cf5b35ef73432bb8d8326e6ed",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "One exact-species CC BY-NC field image installed. Scientific taxonomy/range status unchanged; add habit/leaf detail later when clean reusable provenance is easy."
+  },
+  "photo_diagnostic_lesson": {
+    "look_here_first": "Stem feels soft fuzzy/white wool rather than giant goldenrod smooth/waxy. Panicle long and narrow, not a broad plume. Leaf underside has dense fine hairs.",
+    "compare": [
+      {
+        "part": "Lower stem",
+        "juliae": "evenly woolly, fine crisped pale hairs",
+        "gigantea": "lower stem mostly smooth/glaucous",
+        "altissima": "short rough short hairs, usually not evenly soft woolly"
+      },
+      {
+        "part": "Middle leaf",
+        "juliae": "~5–10 mm wide narrow 3-nerved, white fine hairs",
+        "gigantea": "3-nerved often longer/wider and smoother",
+        "altissima": "firmer rough blade, also 3-nerved"
+      },
+      {
+        "part": "Head display",
+        "juliae": "narrowly pyramid, 3–4× longer than wide",
+        "gigantea": "broad arching panicle",
+        "altissima": "broader irregular arching plume"
+      },
+      {
+        "part": "Habitat",
+        "juliae": "both stream edge moist soils and grassland or woodland",
+        "gigantea": "moist lower areas",
+        "altissima": "open sites varied"
+      }
+    ],
+    "photo_requirements": [
+      "FNA/local voucher-confirmed living specimen full leaf, soft hairy stem and narrow panicle",
+      "Stem macro that actually resolves fine white hairs",
+      "Compare 3–4× narrow panicle silhouette to broad giant and tall goldenrod"
+    ],
+    "warnings": [
+      "Do not teach 'Julia's = dry-site only'; official FNA specifically says wet stream/lake margins.",
+      "Current species gallery image external, not physically installed or pixel-validated.",
+      "Waterloo Herbarium expert-vouchered close leaf/stem/head images © 2025 J.C. Semple, external learning links only; no automatic reuse."
+    ]
+  },
+  "expert_external_diagnostic_photos": [
+    {
+      "title": "University of Waterloo expert-vouchered Julia's goldenrod, leaf stem flower heads",
+      "url": "https://uwaterloo.ca/astereae-lab/research/goldenrods/classification-and-illustrations/solidago-juliae",
+      "credit": "© 2025 J.C. Semple (unless otherwise indicated)",
+      "rights": "Copyrighted; LINK ONLY. Do not install without permission.",
+      "value": "Gillespie County dried shoot and Kerr County type material — provides measured FNA-matching diagnostics."
+    },
+    {
+      "title": "Jim Conrad wild Julia's goldenrod, Dry Frio area Uvalde (hairy rachis, underside, panicle)",
+      "url": "https://www.backyardnature.net/n/h/juligold.htm",
+      "rights": "Not verified for reuse; link only",
+      "value": "Real west Central Texas close underside and flower stalk hairs. Note wet riparian microhabitat."
+    }
+  ],
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

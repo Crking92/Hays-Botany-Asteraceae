@@ -1,0 +1,9 @@
+{
+  "family":"Asteraceae",
+  "updated":"2026-10-07",
+  "look_first":"Turn the apparent flower sideways and underneath: find the receptacle and phyllary involucre, isolate a floret, then trace it to an inferior ovary and cypsela. Use the anther tube as a strong confirmation.",
+  "confusable":[{"family":"Apiaceae","tie_breaker":"Eryngium has individual 5-merous flowers and two-part dry fruit; Asteraceae has florets sharing a receptacle inside phyllaries, typically an anther tube, and one cypsela per floret."}],
+  "exceptions":["Baccharis and Ambrosia can lack showy rays.","Cirsium has tubular florets only.","A ray is a whole floret, not a petal.","Pappus may be bristles, scales, awns, a crown, or reduced or absent."],
+  "genus_routing":"Route first by head type, then phyllaries, receptacle or paleae, pappus, cypsela, leaves and head array.",
+  "visuals":["dissected capitulum macro","Asteraceae vs Eryngium head","anther tube and style macro","cypsela and pappus variation strip","Ambrosia, Baccharis, Cirsium and Solidago exception strip"]
+}

@@ -1,0 +1,419 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Grindelia",
+  "common_group": "Gumweeds",
+  "project_scope": {
+    "selection_mode": "B062 baseline + 2026-10-12 Genus Comparison Builder four-canonical-species expansion",
+    "species_ids": [
+      "grindelia-adenodonta",
+      "grindelia-ciliata",
+      "grindelia-lanceolata",
+      "grindelia-nuda"
+    ],
+    "species_count": 4,
+    "holds": [
+      "grindelia-adenodonta",
+      "grindelia-squarrosa",
+      "grindelia-ciliata"
+    ],
+    "source_pool_names": [
+      "Grindelia adenodonta",
+      "Grindelia lanceolata",
+      "Grindelia nuda",
+      "Grindelia nuda var. nuda",
+      "Grindelia papposa",
+      "Grindelia squarrosa"
+    ],
+    "source_pool_concept_notes": [
+      "Grindelia papposa is treated as an alias of canonical G. ciliata; not an additional card.",
+      "Grindelia nuda var. nuda belongs with the canonical G. nuda concept; do not double-count.",
+      "Grindelia squarrosa remains source-pool comparison-only in this module; do not silently install it or map it to G. nuda without name-level evidence."
+    ],
+    "canonical_installation": "All four focal accepted concepts are already in data/manifest.json; this change does not install species.",
+    "hold_interpretation": "Legacy B062 holds refer to scientific/range review at the time, not missing canonical installation. Canonical manifest now includes adenodonta and ciliata; squarrosa is not installed. Preserve range metadata in each species card."
+  },
+  "study_strategy": {
+    "priority": [
+      "rays present vs absent",
+      "phyllary posture",
+      "gland/resin pattern",
+      "stem/leaf pubescence",
+      "pappus structure",
+      "current synonym concept"
+    ],
+    "warning": "Historical Grindelia names in Central Texas overlap heavily. Always reconcile old var./synonym names before counting counties."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "G. nuda — rayless curlytop gumweed; gland-dotted aromatic foliage; PASS.",
+      "G. adenodonta — radiate, hairy/glandular-stemmed, hooked/recurved phyllaries; range HOLD.",
+      "G. squarrosa — radiate, squarrose/recurved phyllaries; current-concept range HOLD.",
+      "G. ciliata — accepted name for old G. papposa; annual, radiate, many-bristled pappus; range HOLD."
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-four-canonical-morphology-comparison",
+    "last_reviewed": "2026-10-12",
+    "lesson_status": "genus_comparison_text_complete_diagnostic_photo_polish_pending",
+    "canonical_species_count": 4,
+    "comparisons": 11,
+    "photo_roles": 10
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Look at the sticky flower-head involucre from the SIDE, then examine one mature cypsela and its pappus. The combination of many resin-tipped phyllaries around a composite head, alternate usually toothed leaves, and distinctive pappus is much stronger than yellow color.",
+    "shared_traits": [
+      "Asteraceae composite heads with numerous tubular disk florets; rays may be present or absent, so raylessness alone does not exclude Grindelia.",
+      "Multiple rows of persistent narrow involucral phyllaries; tips often resinous, spreading, hooked, recurved, or nearly straight depending on species and phyllary position.",
+      "Alternate mostly simple leaves, upper leaves commonly sessile to clasping; teeth may be pointed or resin-tipped; resin glands occur on heads and often foliage.",
+      "Cypselae (one-seeded dry fruits) carry a pappus; its count, shape, persistence and length are key reproductive characters."
+    ],
+    "terminology": [
+      {
+        "term": "phyllary",
+        "point_to": "Individual narrow bract below the entire head, not a petal or a sepal."
+      },
+      {
+        "term": "ray floret",
+        "point_to": "Peripheral strap-shaped floret, present in three focal species and absent in typical G. nuda."
+      },
+      {
+        "term": "disk floret",
+        "point_to": "Small tubular floret in the center of the head."
+      },
+      {
+        "term": "cypsela",
+        "point_to": "Mature one-seeded fruit; examine detached naturally mature fruit, not an immature ovary."
+      },
+      {
+        "term": "pappus",
+        "point_to": "Awns, bristles or scales arising at the top of the cypsela; count with magnification."
+      },
+      {
+        "term": "gland-dotted vs hairy",
+        "point_to": "Tiny resin dots versus projecting multicellular hairs on stem and leaf surfaces; use a hand lens."
+      }
+    ]
+  },
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "look": "Mature head FACE and SIDE, same individual",
+      "action": "Check for rays; rayless + dense gland dots suggests canonical G. nuda, but confirm with head and leaves."
+    },
+    {
+      "step": 2,
+      "look": "Mature cypsela with pappus under 10–20× magnification",
+      "action": "Many barbellate bristles (25–40) plus longer awns/scales strongly support G. ciliata; only about two awns points toward other species and requires follow-up."
+    },
+    {
+      "step": 3,
+      "look": "Upper flowering stem and both faces of mid-stem leaves",
+      "action": "Dense short hairs and pitted glands on broad ovate/triangular leaves favor G. adenodonta; nearly glabrous leaves and stems suggest G. ciliata or G. lanceolata."
+    },
+    {
+      "step": 4,
+      "look": "One mature mid-stem leaf against a ruler",
+      "action": "For G. lanceolata, leaf length commonly 3–12 times width, with pointed teeth; G. ciliata commonly 2–4 times width, with oblong/obovate blades. Overlap means use fruit and head too."
+    },
+    {
+      "step": 5,
+      "look": "Phyllaries from side at equal magnification",
+      "action": "G. adenodonta often has hooked/recurved tips; FNA G. lanceolata usually has slightly recurved to straight/incurved tips, not strongly reflexed. Phyllary posture alone is not decisive."
+    },
+    {
+      "step": 6,
+      "look": "Specimen without mature fruit or contradictory characters",
+      "action": "Leave at Grindelia sp. or a tentative pair; preserve a targeted review handoff rather than force an ID."
+    }
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Head ray florets",
+      "Grindelia adenodonta": "20–27 yellow rays in FNA",
+      "Grindelia ciliata": "25–45 yellow rays in FNA",
+      "Grindelia lanceolata": "12–36 yellow rays in FNA",
+      "Grindelia nuda": "Typically rayless/discoid in existing canonical concept",
+      "interpretation": "Strong first split for nuda; count rays on intact open heads; not enough to separate radiate taxa."
+    },
+    {
+      "character": "Mature pappus",
+      "Grindelia adenodonta": "Usually 2 straight to weakly contorted smooth bristles/awns, 5–6 mm, tips often dilated",
+      "Grindelia ciliata": "25–40 barbellate bristles 3–7+ mm subtending 8–15+ longer awns/scales 7–10 mm",
+      "Grindelia lanceolata": "2 straight smooth awns, 4–8 mm, often dilated apically",
+      "Grindelia nuda": "Exact count/length not yet independently reconciled against current canonical nuda concept",
+      "interpretation": "Most powerful separator for ciliata; maturity and loss of readily falling awns are cautions."
+    },
+    {
+      "character": "Stem surface",
+      "Grindelia adenodonta": "Distally short-hairy to somewhat villous, sometimes less hairy at base",
+      "Grindelia ciliata": "Glabrous, branched distally",
+      "Grindelia lanceolata": "Usually glabrous, rarely sparsely pilose near base",
+      "Grindelia nuda": "Glabrous or nearly so, conspicuously gland-dotted in canonical lesson",
+      "interpretation": "Photograph hairs and glands separately; sticky resin is not equivalent to hairs."
+    },
+    {
+      "character": "Leaf blade proportions",
+      "Grindelia adenodonta": "Ovate/triangular to oblong or obovate, length ~1.5–3(–4+) × width",
+      "Grindelia ciliata": "Oblong to obovate, length usually 2–4 × width",
+      "Grindelia lanceolata": "Triangular/ovate/oblong to lanceolate/linear, length 3–12 × width",
+      "Grindelia nuda": "Variable oval to narrower serrate sessile/clasping leaves; not reliable alone",
+      "interpretation": "Measure mature mid-stem blades; overlap especially adenodonta/ciliata."
+    },
+    {
+      "character": "Leaf blade length",
+      "Grindelia adenodonta": "15–60(–90) mm",
+      "Grindelia ciliata": "30–50(–80) mm",
+      "Grindelia lanceolata": "25–60(–110) mm",
+      "Grindelia nuda": "No project-verified numeric range for this accepted concept",
+      "interpretation": "These overlap substantially; do not build a length-only key."
+    },
+    {
+      "character": "Leaf teeth",
+      "Grindelia adenodonta": "Blunt/crenate, resin-tipped, often 8–14 teeth/cm",
+      "Grindelia ciliata": "Sharp apiculate/setose teeth; margin dentate",
+      "Grindelia lanceolata": "Sharp apiculate/setose teeth, sometimes entire",
+      "Grindelia nuda": "Serrate and gland-dotted in current project concept",
+      "interpretation": "Use close-up with 10-mm scale; count along comparable mature mid-stem margin."
+    },
+    {
+      "character": "Phyllary tip posture",
+      "Grindelia adenodonta": "Hooked to recurved or nearly straight; moderately resinous",
+      "Grindelia ciliata": "Recurved to straight; slightly to moderately resinous",
+      "Grindelia lanceolata": "Usually slightly recurved, straight or incurved; weakly spreading to appressed",
+      "Grindelia nuda": "Narrow spreading/ascending resin-tipped phyllaries in canonical description",
+      "interpretation": "Outer and inner series differ; record position; strongly recurved is NOT a secure lanceolata diagnostic."
+    },
+    {
+      "character": "Life history",
+      "Grindelia adenodonta": "Annual (FNA)",
+      "Grindelia ciliata": "Annual or biennial (FNA)",
+      "Grindelia lanceolata": "Biennial or perennial (FNA)",
+      "Grindelia nuda": "Biennial/short-lived subshrub in existing canonical lesson",
+      "interpretation": "Support only; requires base/season context and overlaps among taxa."
+    },
+    {
+      "character": "Head arrangement",
+      "Grindelia adenodonta": "Open corymbiform/paniculiform arrays or solitary",
+      "Grindelia ciliata": "Single or open to crowded corymbiform arrays",
+      "Grindelia lanceolata": "Usually corymbiform, rarely solitary",
+      "Grindelia nuda": "Usually solitary terminal heads in existing canonical description",
+      "interpretation": "Weak tie-breaker; not sufficient by itself."
+    },
+    {
+      "character": "Involucre size",
+      "Grindelia adenodonta": "8–12 × 10–20 mm",
+      "Grindelia ciliata": "10–15 × 15–25 mm",
+      "Grindelia lanceolata": "8–15 × 10–20+ mm",
+      "Grindelia nuda": "No project-verified current-concept measurement",
+      "interpretation": "Dimensions overlap; show exactly where measured excluding phyllary tips."
+    },
+    {
+      "character": "Cypsela texture",
+      "Grindelia adenodonta": "3–4.5 mm; outer often rugose, inner striate",
+      "Grindelia ciliata": "2–4 mm, smooth/striate",
+      "Grindelia lanceolata": "2–6 mm, smooth/striate, coronate/knobby tip",
+      "Grindelia nuda": "Existing canonical describes rayless head but lacks measured fruit key",
+      "interpretation": "Compare fully ripe cypselae from same head, especially outer vs inner fruit."
+    }
+  ],
+  "overlap_cautions": [
+    "Do not identify radiate Grindelia from yellow rays or sticky heads alone; three canonical focal species are radiate and share resinous phyllaries.",
+    "G. ciliata has a very distinctive many-bristled pappus; check a fully mature fruit and distinguish a readily lost pappus from one genuinely absent.",
+    "FNA describes G. lanceolata phyllary apices as slightly recurved, straight or incurved. The existing species card says strongly recurved or spreading; flag this conflict for species-level correction, not a genus-level assertion.",
+    "G. adenodonta and G. ciliata may have overlapping leaf lengths and ray counts; use stem hairs, mature pappus and leaf teeth together.",
+    "Historical G. papposa maps to current canonical G. ciliata. G. nuda var. nuda is represented by current canonical G. nuda. G. squarrosa must remain a separate source-pool comparison concept unless explicitly reconciled.",
+    "Flora of North America's older broad treatment/key does not independently key the project's accepted G. nuda concept as a separate terminal in the same way; keep the settled canonical mapping and request targeted concept-level character verification rather than reopening range.",
+    "Leaf tooth form and phyllary posture can vary within a head and plant; photograph outer and inner phyllary series and multiple mature leaves.",
+    "Photo checklist is a plan only; existing species photographs are not automatically proof that every diagnostic macro is covered."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "name": "Grindelia squarrosa",
+      "role": "same-genus source-pool comparison, not canonical species in current manifest",
+      "distinguish": "Often looped/hooked squarrose phyllary tips; can mimic adenodonta. Check stem hairs, leaf-tooth type and mature pappus; do not conflate with old G. squarrosa var. nuda names."
+    },
+    {
+      "name": "Heterotheca subaxillaris / H. villosa",
+      "role": "source-pool Asteraceae",
+      "distinguish": "Heads may have yellow rays but lack the same strongly gummy, multiseriate Grindelia involucre; inspect phyllaries and fruit pappus rather than color."
+    },
+    {
+      "name": "Chrysopsis texana",
+      "role": "source-pool Asteraceae",
+      "distinguish": "Yellow-rayed composite; examine pubescence and head bracts/pappus, not ray color, before applying a gumweed name."
+    },
+    {
+      "name": "Helianthus annuus / H. maximiliani",
+      "role": "source-pool Asteraceae",
+      "distinguish": "Typically broader, flatter phyllaries and distinct sunflower heads; compare receptacle, leaves and fruit rather than yellow rays."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "id": "P1",
+      "priority": "critical",
+      "character": "Head face: rays present/absent",
+      "taxa": "All four",
+      "shot": "Matched full-open head face; count peripheral strap-shaped ray florets, label disk vs rays; include mm scale.",
+      "why": "Rayless nuda versus radiate others; photo of bud alone does not prove absence of rays.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P2",
+      "priority": "critical",
+      "character": "Head side: phyllary series and tip curvature",
+      "taxa": "All four",
+      "shot": "Macro side view of entire involucre, one outer and one inner phyllary in focus; arrows for resin tip, angle and series position.",
+      "why": "Show adenodonta hooked tips vs lanceolata usually slightly recurved/straight, but note variability.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P3",
+      "priority": "critical",
+      "character": "Mature cypsela plus intact pappus",
+      "taxa": "adenodonta, ciliata, lanceolata",
+      "shot": "10–20× macro/dissecting scope with 1-mm grid; count bristles and awns and measure lengths; include fruit from intact ripe head.",
+      "why": "Ciliata many bristles versus usually 2 awns in adenodonta/lanceolata.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P4",
+      "priority": "high",
+      "character": "Stem hair versus resin glands",
+      "taxa": "adenodonta, ciliata, lanceolata, nuda",
+      "shot": "Same-magnification upper flowering stem and leaf surface; side lighting for projecting hairs, separate arrow for resin dots.",
+      "why": "Adenodonta distal hairiness vs glabrous ciliata/lanceolata; nuda gland-dotted.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P5",
+      "priority": "high",
+      "character": "Mid-stem leaf proportion and base",
+      "taxa": "All four",
+      "shot": "Fully expanded mid-stem leaf in situ with ruler, attachment node and both faces; trace blade length/width and clasping base.",
+      "why": "Separate narrow lanceolata from broader forms as supporting character; demonstrate overlap.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P6",
+      "priority": "high",
+      "character": "Leaf margin teeth and glands",
+      "taxa": "adenodonta, ciliata, lanceolata",
+      "shot": "Matched 10-mm margin macros, count teeth per cm and show rounded resin-tipped vs sharply pointed teeth.",
+      "why": "Support adenodonta versus ciliata/lanceolata; annotate margin section.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P7",
+      "priority": "medium",
+      "character": "Whole flowering plant and head arrangement",
+      "taxa": "All four",
+      "shot": "Matched habit shot showing base, stem branches and complete terminal array; plant height scale where possible.",
+      "why": "Support annual/biennial/perennial and solitary vs array without overstating.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P8",
+      "priority": "medium",
+      "character": "Mature fruit surface and tip",
+      "taxa": "adenodonta, ciliata, lanceolata",
+      "shot": "Side-by-side outer and inner mature cypselae with scale; focus on rugose/striate faces and coronate/knobby apex.",
+      "why": "Especially adenodonta fruit variation; do not use immature ovaries.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P9",
+      "priority": "high",
+      "character": "Accepted-concept nuda fruit review",
+      "taxa": "nuda",
+      "shot": "Licensed exact-concept mature cypsela and pappus macro plus voucher identity, for comparison with FNA-style Grindelia key.",
+      "why": "Targeted scientific verification before numeric nuda fruit/pappus assertions.",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P10",
+      "priority": "medium",
+      "character": "Local look-alike side-by-side",
+      "taxa": "Grindelia squarrosa and Heterotheca spp. if verified",
+      "shot": "Same-scale involucre sides, leaf margin and fruit macros; source pool IDs and licensing required.",
+      "why": "Avoid mislabeling a squarrosa/nuda synonym concept or generic yellow daisy.",
+      "status": "diagnostic_photo_polish_pending"
+    }
+  ],
+  "existing_media_reuse": {
+    "canonical_species_photo_inventory": [
+      {
+        "id": "grindelia-adenodonta",
+        "images_count": 1
+      },
+      {
+        "id": "grindelia-ciliata",
+        "images_count": 1
+      },
+      {
+        "id": "grindelia-lanceolata",
+        "images_count": 5
+      },
+      {
+        "id": "grindelia-nuda",
+        "images_count": 1
+      }
+    ],
+    "note": "Counts read from existing species.json images[] on 2026-10-12. Not newly acquired or diagnostic-photo verified. Reuse exact licensed assets and project/Joey frames only after confirming character visibility and provenance."
+  },
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Grindelia lanceolata species.json",
+      "issue": "Canonical card currently says phyllaries strongly recurved/spreading, but FNA describes apices slightly recurved/straight/incurved. Review specimen concept and correct species card if supported; do not alter settled range."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Grindelia nuda",
+      "issue": "Verify mature cypsela/pappus characters against current accepted concept and reconcile FNA older key naming without changing canonical synonym/range decisions by assumption."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "Grindelia four-species comparison",
+      "issue": "Prioritize P3 many-bristled ciliata pappus, P4 adenodonta stem hairs, P2 lanceolata phyllary tip, and P1 rayless nuda. Use existing licensed exact-species media first; arrows on true diagnostic structures."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "target": "none",
+      "issue": "All four focal species already canonical in data/manifest.json; no installation requested. G. squarrosa source-pool entry is comparison-only here pending separate identity/review workflow."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "Flora of North America — Grindelia genus and key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114086",
+      "supports": "generic traits, phyllary/fruit terminology, key splits, pappus structure"
+    },
+    {
+      "name": "Flora of North America — Grindelia adenodonta",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066805",
+      "supports": "annual, leaf shape/teeth, stem hairs, 20–27 rays, fruit and pappus"
+    },
+    {
+      "name": "Flora of North America — Grindelia ciliata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066807",
+      "supports": "annual/biennial, glabrous stems, 25–45 rays, multi-bristled pappus, G. papposa synonym"
+    },
+    {
+      "name": "Flora of North America — Grindelia lanceolata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416607",
+      "supports": "leaf ratios, 12–36 rays, 2 straight awns, phyllary posture"
+    },
+    {
+      "name": "Canonical project species cards",
+      "paths": [
+        "content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/species.json",
+        "content/taxa/Asteraceae/Grindelia/grindelia-ciliata/species.json",
+        "content/taxa/Asteraceae/Grindelia/grindelia-lanceolata/species.json",
+        "content/taxa/Asteraceae/Grindelia/grindelia-nuda/species.json"
+      ],
+      "supports": "settled learner identities, project inclusion/range labels and current image references"
+    }
+  ]
+}

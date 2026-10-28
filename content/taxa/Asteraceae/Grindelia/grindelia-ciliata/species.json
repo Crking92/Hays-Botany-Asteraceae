@@ -1,0 +1,123 @@
+{
+  "id": "grindelia-ciliata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "species": "ciliata",
+  "scientific_name": "Grindelia ciliata",
+  "authority": "(Nutt.) Spreng.",
+  "common_name": "Spanish gold / waxed goldenweed",
+  "look_here_first": "Inspect the resinous head, stem surface, and mature cypsela: yellow rays around a disk, serrate leaves clasping the stem, glabrous-to-nearly-glabrous gland-dotted stems, and a pappus with numerous bristles. Do not identify from yellow color alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved source pool / Master Plant Pool",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [
+      "Hays"
+    ],
+    "range_basis": "B062 deep review verifies Hays County under the current accepted concept; fewer than three exact target-zone native counties confirmed. Historical Grindelia papposa maps as a synonym; do not count unreconciled old concepts as independent county evidence.",
+    "range_guardrail": "Not counted as a confirmed target-zone native unless a separate three-county PASS review is completed."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Annual herb with branching flowering stems; inspect base and mature shoots.",
+      "Alternate, toothed, sessile-to-clasping leaves; resin dots often visible.",
+      "Radiate yellow heads with sticky involucral phyllaries.",
+      "Stems largely glabrous apart from resin glands; compare hairiness directly.",
+      "Mature fruit with multiple pappus bristles; magnification useful."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Grindelia adenodonta",
+      "Grindelia nuda",
+      "Grindelia lanceolata",
+      "Grindelia squarrosa"
+    ],
+    "key_distinctions": "Versus G. adenodonta, examine stem hairs (adenodonta noticeably hairy/glandular-hairy; ciliata generally glabrous and gland-dotted) and mature pappus. G. nuda is typically rayless, so check head for rays. G. lanceolata has narrower leaves and perennial habit; use stem and head together. G. squarrosa often has strongly reflexed squarrose phyllaries; its historical var. nuda belongs to G. nuda, not this card."
+  },
+  "images": [
+    {
+      "file": "images/grindelia-ciliata-provisional-face.jpg",
+      "role": "Yellow heads and pointed resinous phyllaries; altered image crop/lightness disclosed",
+      "creator": "JerryFriedman",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_ciliata_flora.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/joey-inat-426257385.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/426257385",
+      "observation_url": "https://www.inaturalist.org/observations/239342166",
+      "observation_id": "239342166",
+      "photo_id": "426257385",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/426257385/large.jpeg",
+      "image_dimensions": [
+        1024,
+        768
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-97627013.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/97627013",
+      "observation_url": "https://www.inaturalist.org/observations/61034507",
+      "observation_id": "61034507",
+      "photo_id": "97627013",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/97627013/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "Whole annual plant and branching habit",
+    "Radiate head face",
+    "Involucre side and resinous phyllary tips",
+    "Stem surface macro showing glands versus hairs",
+    "Clasping serrate leaf base",
+    "Mature cypsela and multi-bristled pappus"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/grindelia-ciliata/draft.json; research-queue.json B062",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

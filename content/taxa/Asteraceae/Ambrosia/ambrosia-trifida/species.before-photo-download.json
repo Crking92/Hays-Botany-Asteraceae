@@ -1,0 +1,41 @@
+{
+  "id": "ambrosia-trifida",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia trifida",
+  "authority": "L.",
+  "common_name": "Giant Ragweed",
+  "project_tracker_diagnostic": "Very tall annual; leaves mostly opposite and commonly palmately 3-lobed; male heads in terminal spikes above clustered female heads.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Tall, coarse herb, sometimes several meters tall.",
+    "leaves": "Mostly opposite; large blades commonly palmately 3-lobed, sometimes 5-lobed, with toothed margins.",
+    "flowers": "Male heads in terminal spikes; female heads clustered below.",
+    "fruit": "Pyramidal burs with 4\u20135 apical spines.",
+    "best_field_traits": [
+      "very tall ragweed",
+      "large 3-lobed opposite leaves",
+      "terminal male spikes",
+      "larger pyramidal burs"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,7 @@
+Approved Master Plant Pool Batch 023 first-card preflight. Accepted-name reference: https://powo.science.kew.org/results?q=Heterotheca%20villosa
+Source image: https://commons.wikimedia.org/wiki/File:Heterotheca_villosa_involucral_bracts_(3488027010).jpg
+Direct original JPEG: https://upload.wikimedia.org/wikipedia/commons/2/22/Heterotheca_villosa_involucral_bracts_%283488027010%29.jpg
+Photo author: Matt Lavin
+Photo license: CC BY-SA 2.0
+Image visually inspected from Commons original-file preview; species ID supported by Commons exact-taxon metadata; remains provisional pending fuller expert examination.
+No county-level nativity assertion; no cultivar substituted.

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Bradburia%20hirtella
+Source research-grade observation: https://www.inaturalist.org/observations/5515286
+Photo: https://www.inaturalist.org/photos/6802041
+Attribution: (c) Eric Keith, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

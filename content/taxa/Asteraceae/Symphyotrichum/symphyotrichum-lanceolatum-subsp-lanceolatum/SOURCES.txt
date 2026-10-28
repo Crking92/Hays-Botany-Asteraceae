@@ -1,0 +1,25 @@
+# Curation sources — Symphyotrichum lanceolatum subsp. lanceolatum
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED RANGE HOLD
+Learner admission: APPROVED
+
+World Flora Online:
+https://www.worldfloraonline.org/taxon/wfo-0000108320
+
+Decision
+Hays + Travis are locked under the nominate concept. Williamson var. hesperium is not transferred. Preserve HOLD pending a third exact target-zone county.
+
+PROVISIONAL GBIF EXACT-SPECIMEN FIRST PHOTO 2026-10-15T13:06:24.687176+00:00
+Symphyotrichum lanceolatum subsp. lanceolatum
+Photolith
+CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+https://www.gbif.org/occurrence/5292597146
+https://inaturalist-open-data.s3.amazonaws.com/photos/550161490/original.jpg
+Anatomy visual verification pending; no scientific taxon/range status changed.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Symphyotrichum lanceolatum subsp. lanceolatum
+Creator: Laura Clark; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5889548597
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/symphyotrichum-lanceolatum-subsp-lanceolatum/gbif-47aefe99b76891.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

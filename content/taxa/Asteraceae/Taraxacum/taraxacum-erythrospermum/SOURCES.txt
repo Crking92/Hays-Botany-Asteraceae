@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Taraxacum erythrospermum; Master Pool rows 1150.
+POWO search https://powo.science.kew.org/results?q=Taraxacum%20erythrospermum
+Exact photo source page https://commons.wikimedia.org/wiki/File:Taraxacumerythrospermum.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Taraxacumerythrospermum.jpg
+Photographer jkirkhart35 (Jerry Kirkhart)
+License CC BY 2.0
+Provisional photo role Provisional fruit/pappus photograph supporting seed-color inspection; rosette and flower not fully represented.
+Caution Taraxacum microspecies taxonomy can be difficult. Treat the photo's stated species as provisional; this is introduced weed/comparison only.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

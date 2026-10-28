@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:211686-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:211686-1
+Photographed under scientific synonym: Hedypnois rhagadioloides
+Source research-grade observation: https://www.inaturalist.org/observations/156723828
+Photo: https://www.inaturalist.org/photos/271033739
+Attribution: (c) Дмитрий Епихин, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

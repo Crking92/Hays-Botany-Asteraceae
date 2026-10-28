@@ -1,0 +1,155 @@
+{
+  "rank": "genus",
+  "name": "Brickellia",
+  "family": "Asteraceae",
+  "project_scope": {
+    "species_ids": [
+      "brickellia-cylindracea",
+      "brickellia-dentata",
+      "brickellia-eupatorioides"
+    ],
+    "learner_admission": "Approved Master Plant Pool; both UNRESOLVED; B. eupatorioides var. gracillima represented by species concept.",
+    "species_count": 3
+  },
+  "look_here_first": "Inspect leaf nodes, then the lower leaf surface, layered phyllaries of a mature head, and finally mature cypsela and pappus under magnification.",
+  "comparison": [
+    {
+      "character": "Leaf position",
+      "cylindracea": "Often opposite/subopposite.",
+      "eupatorioides": "Usually opposite, but alternate in some varieties."
+    },
+    {
+      "character": "Leaf underside",
+      "cylindracea": "Often densely tomentose and gland-dotted.",
+      "eupatorioides": "Variable across varieties; not diagnosed by dense lower-face tomentum alone."
+    },
+    {
+      "character": "Phyllaries",
+      "cylindracea": "18–22 in 5–7 series; outer <= half inner.",
+      "eupatorioides": "Often 22–26, gland-dotted; species complex."
+    },
+    {
+      "character": "Pappus",
+      "cylindracea": "Check mature bristles and cypsela hairs against FNA.",
+      "eupatorioides": "Often plumose/subplumose; high-value diagnostic."
+    },
+    {
+      "character": "B. dentata",
+      "cylindracea": "Often opposite/subopposite leaves and pale-tomentose lower surface.",
+      "dentata": "Alternate leaves; 18–22 phyllaries in 5–6 series; 13–20 disk florets; mature cypsela mostly glabrous, 3.5–4 mm.",
+      "eupatorioides": "Phyllotaxy variable across varieties; mature pappus plumose/subplumose."
+    }
+  ],
+  "cautions": [
+    "B. eupatorioides var. gracillima is nested; do not create an unreviewed duplicate card.",
+    "Both installed species remain UNRESOLVED for target-zone range; no confirmed-native credit.",
+    "B. dentata is already canonical; B. eupatorioides var. gracillima remains represented under the species concept. All three have unresolved range labels."
+  ],
+  "visual_status": "Provisional comparison; macro photos of nodes, heads, and mature fruits needed.",
+  "shared_genus_traits": [
+    "Heads consist of disc florets, with overlapping involucral phyllaries and cypselae bearing pappus bristles.",
+    "Examine mature heads, pappus and leaf surfaces together; no single leaf character separates every species.",
+    "Three canonical species; heads discoid with layered phyllaries and pappus-bearing cypselae."
+  ],
+  "diagnostic_photo_checklist": [
+    "Matched mature head profiles with millimeter scale and labeled phyllary series",
+    "Matched mature cypsela and pappus macros",
+    "Leaf-node phyllotaxy and underside hair/gland-dot closeups",
+    "B. dentata: exact-species photo still needed (species images[] empty).",
+    "All three: matched leaf nodes, phyllary profiles, and mature pappus/cypsela macros."
+  ],
+  "genus_diagnostics": {
+    "look_here_first": "Inspect leaf nodes, then the lower leaf surface, layered phyllaries of a mature head, and finally mature cypsela and pappus under magnification.",
+    "shared_structures": [
+      {
+        "term": "discoid capitulum",
+        "plain": "A flower head made of tiny tubular florets, not a single flower.",
+        "photo_role": "mature head face and side macro",
+        "why": "Count disk florets and recognize the genus."
+      },
+      {
+        "term": "involucral phyllaries",
+        "plain": "Overlapping bracts below the head.",
+        "photo_role": "side profile with ruler showing outer and inner bracts",
+        "why": "Series count and relative bract lengths distinguish species."
+      },
+      {
+        "term": "abaxial tomentum and gland dots",
+        "plain": "Feltlike hairs and tiny glands under the leaf.",
+        "photo_role": "matched leaf undersides and intact nodes",
+        "why": "Hairiness and leaf attachment help separate B. cylindracea and B. dentata."
+      },
+      {
+        "term": "cypsela and pappus",
+        "plain": "A dry seedlike fruit with bristles.",
+        "photo_role": "ripe cypsela and bristle macro",
+        "why": "Fruit hairs and pappus texture help settle look-alikes."
+      }
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Cylindracea versus dentata",
+      "look_first": "Check several intact leaf nodes and undersides.",
+      "difference": "B. cylindracea often has opposite/subopposite leaves with dense pale hairs beneath; B. dentata has alternate leaves and mostly glabrous ripe cypselae.",
+      "caution": "Involucre sizes and phyllary numbers overlap; fruit macro is valuable.",
+      "photo_roles": [
+        "leaf node",
+        "leaf underside",
+        "ripe cypsela"
+      ]
+    },
+    {
+      "title": "Dentata versus eupatorioides",
+      "look_first": "Examine mature head and fruit, not just leaf arrangement.",
+      "difference": "B. dentata commonly has 13–20 disk florets and mostly glabrous 3.5–4 mm cypselae; B. eupatorioides has variable head counts and plumose/subplumose pappus.",
+      "caution": "Some B. eupatorioides varieties have alternate leaves. Do not infer variety from one source-pool name.",
+      "photo_roles": [
+        "head profile",
+        "disk floret count",
+        "pappus macro"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "photo_roles_defined; physical files and visible anatomy not independently verified",
+    "media_references": [
+      {
+        "species_id": "brickellia-cylindracea",
+        "status": "installed_path_metadata_unverified",
+        "path": "images/brickellia-cylindracea-overview.jpg",
+        "creator": "Reid Hardin",
+        "license": "CC BY 4.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Brickellia_cylindracea_444535771.jpg",
+        "caption": "Flowering branch overview; underside hairs and fruit not verified in this image.",
+        "annotation": "annotation_pending; no arrow target verified"
+      },
+      {
+        "species_id": "brickellia-eupatorioides",
+        "status": "installed_path_metadata_unverified",
+        "path": "images/brickellia-eupatorioides-overview.jpg",
+        "creator": "USFWS Mountain-Prairie",
+        "license": "CC BY 2.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:False_Boneset_(Kuhnia_eupatorioides)_on_Mixed_Grass_Prairie_of_Lacreek_NWR_(13918392166).jpg",
+        "caption": "Flowering prairie habit; pappus detail not verified in this image.",
+        "annotation": "annotation_pending; no arrow target verified"
+      },
+      {
+        "species_id": "brickellia-dentata",
+        "status": "needs_photo",
+        "caption": "No species image metadata. Need exact-species leaf-node, mature head and fruit photos.",
+        "annotation": "annotation_pending"
+      }
+    ],
+    "photo_gaps": [
+      "Same-scale leaf nodes for all three species",
+      "Matched underside hairs and gland dots",
+      "Scaled head profiles showing phyllary series",
+      "Mature cypsela and pappus macros",
+      "Exact-species B. dentata photo with rights-cleared provenance"
+    ],
+    "handoff": "Diagnostic Photo Polish: acquire and physically verify missing exact-species views and license data. Taxonomy + Diagnostic Review: validate overlapping fruit/pappus distinctions where uncertain. No arrow coordinates are verified."
+  }
+}

@@ -1,0 +1,6 @@
+﻿Rudbeckia hirta PHOTO SET
+
+Resolved iNaturalist taxon: Rudbeckia hirta [ID 62741]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

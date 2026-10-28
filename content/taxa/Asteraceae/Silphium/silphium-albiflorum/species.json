@@ -1,0 +1,135 @@
+{
+  "id": "silphium-albiflorum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Silphium",
+  "species": "albiflorum",
+  "scientific_name": "Silphium albiflorum",
+  "authority": "A.Gray",
+  "common_name": "White Rosinweed / White-flowered Rosinweed",
+  "look_here_first": "Start with flower color. White rosinweed is the standout Silphium in this project because its ray florets are white, while the nearby Silphium comparisons have yellow heads. Then confirm the tough rough/scabrous foliage, often deeply divided, on dry limestone or calcareous prairie.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Burnet",
+    "Mason"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "B129: Travis — UT Plant Resources Center county specimen/index evidence; Burnet — documented Silphium albiflorum occurrence at Doeskin Ranch, Balcones Canyonlands NWR; Mason — TPWD Mason Mountain WMA vascular flora. BONAP/NAPA county mapping used as project distribution cross-check.",
+    "range_guardrail": "Do not mark Hays-local native from the Purola record; that Hays occurrence is explicitly introduced and is excluded from the threshold."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "herbaceous perennial",
+      "white-rayed composite heads",
+      "tough rough/hispid foliage",
+      "leaves often deeply pinnately lobed or divided",
+      "dry limestone/calcareous prairie and open slopes"
+    ],
+    "comparison_training": "White rays are the fastest split from nearby Silphium. S. laciniatum can also have deeply divided leaves but has yellow heads; S. radula has broad rough sessile leaves and yellow heads; S. integrifolium has broad entire leaves and yellow heads."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Silphium laciniatum",
+      "Silphium radula",
+      "Silphium integrifolium"
+    ],
+    "key_distinctions": "Use white rays first, then leaf dissection and texture. Do not treat introduced Hays plantings as native-range evidence."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — licensed exact-species Wikimedia first",
+    "target_count": "about 3 when practical",
+    "visual_priority": "whole/field flowering view + flower/foliage reference + later leaf/phyllary or fruit macro",
+    "current_gap": "Two licensed exact-species flower/habit images installed now; add a dedicated diagnostic leaf/phyllary or fruit view later."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.0-b129-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/01-white-flowers.jpg",
+      "role": "white flower heads + flowering habit",
+      "creator": "TDogg310",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum_Flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-roadside-habit.jpg",
+      "role": "whole plant / roadside flowering habit",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-205850584.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/205850584",
+      "observation_url": "https://www.inaturalist.org/observations/121635076",
+      "observation_id": "121635076",
+      "photo_id": "205850584",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/205850584/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-05",
+    "note": "Two exact-species rights-clear learner images are installed. Saved Joey Santore frames N4yq5Z1_0Eo-08 (dormant habit, 03:25) and N4yq5Z1_0Eo-09 (old head/spiny phyllaries, 03:55) remain preferred diagnostic reuse candidates for a later binary-install pass; scientific status unchanged."
+  },
+  "pending_visual_assets": [
+    {
+      "source_record_id": "N4yq5Z1_0Eo-08",
+      "asset_name": "silphium-albiflorum_dormant-habit-source-label_03-25.jpg",
+      "role": "dormant habit / source-labeled field structure",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "timestamp": "03:25",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "study_use": true,
+      "public_reuse": false
+    },
+    {
+      "source_record_id": "N4yq5Z1_0Eo-09",
+      "asset_name": "silphium-albiflorum_old-head-spiny-phyllaries_03-55.jpg",
+      "role": "old head / spiny phyllaries",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "timestamp": "03:55",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "study_use": true,
+      "public_reuse": false
+    }
+  ],
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

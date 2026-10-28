@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Packera obovata; Master Pool rows 806.
+POWO search https://powo.science.kew.org/results?q=Packera%20obovata
+Exact photo source page https://commons.wikimedia.org/wiki/File:Packera_obovata.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Packera%20obovata.jpg
+Photographer James Steakley
+License CC BY-SA 3.0
+Provisional photo role Provisional flowering and round-leaved habit at botanical garden; head bract anatomy awaits close-up.
+Caution Photographed at Missouri Botanical Garden, not a Texas local specimen.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

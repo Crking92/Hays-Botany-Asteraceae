@@ -1,0 +1,6 @@
+﻿Thelesperma filifolium PHOTO SET
+
+Resolved iNaturalist taxon: Thelesperma filifolium [ID 169675]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

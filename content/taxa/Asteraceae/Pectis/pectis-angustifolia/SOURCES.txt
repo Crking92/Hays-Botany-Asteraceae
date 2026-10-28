@@ -1,0 +1,9 @@
+Phase3 source-pool concept, source rows 839
+Exact named photo and rights on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Pectis_angustifolia_C01.jpg
+Physical photo source: https://commons.wikimedia.org/wiki/Special:Redirect/file/Pectis%20angustifolia%20C01.jpg
+Creator: Craig Martin
+Photo license: CC0 1.0
+Working taxonomy: https://powo.science.kew.org/results?q=Pectis%20angustifolia
+Provisional view: Provisional flowering/herb habit; dark glands and tiny achenes need diagnostic macro photographs.
+Caution: The source photograph is from New Mexico. Do not infer target-county nativity from the image.
+No county-level native-range inference and no diagnostic-photo completeness assertion.

@@ -1,0 +1,114 @@
+{
+  "id": "achillea-millefolium",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Achillea",
+  "species": "millefolium",
+  "scientific_name": "Achillea millefolium",
+  "authority": "L.",
+  "common_name": "Common yarrow",
+  "synonyms": [],
+  "taxonomic_note": "POWO accepts Achillea millefolium L. Historical North American A. occidentalis and A. millefolium var. occidentalis usages are concept-dependent; do not create synonym-based duplicate cards. FNA's broad A. millefolium complex and POWO's Texas introduced designation conflict for nativity interpretation.",
+  "look_here_first": "Look at a fully developed stem leaf first: narrow outline but very finely divided into many tiny fernlike segments (usually 1–2-pinnately dissected). Then inspect the flat-topped cluster of numerous tiny composite heads. Check a single head from the side for several rows of overlapping phyllaries; do not infer native status or identity from white/pink color.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool row 14 (My iNaturalist Flora, Hays Local, Personal List); existing taxonomy review 2026-10-09",
+    "target_zone_status": "CONFLICT",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "POWO explicitly treats Texas as introduced; FNA includes Texas within its broad A. millefolium treatment. Occurrence is not proof of native provenance. Do not count as target-zone native pending concept/provenance resolution."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Aromatic rhizomatous perennial herb; erect flowering stems, usually forming patches.",
+    "leaves": "Alternate, deeply finely dissected, usually 1–2-pinnate, fernlike foliage; examine segments at magnification.",
+    "heads": "Many small capitula crowded in a relatively flat-topped corymb; usually 5–8 small ray florets around disk florets; involucral phyllaries commonly about 20–30 in several series.",
+    "fruits": "Small compressed cypselae roughly 1–2 mm, margins may be winged; inspect mature material rather than inferring from flowering heads.",
+    "best_field_traits": [
+      "finely dissected alternate leaves",
+      "numerous small heads forming a flat-topped cluster",
+      "individual head with short rays and layered phyllaries",
+      "mature cypselae for confirmation"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Anthemis cotula",
+      "Tanacetum parthenium",
+      "Artemisia ludoviciana"
+    ],
+    "key_distinctions": "Anthemis cotula has larger solitary daisy-like heads with a more conspicuous ray circle, not many tiny heads packed in a flat-topped corymb. Tanacetum parthenium has broader lobed leaves and larger individual daisy heads. Artemisia ludoviciana has simple to shallowly lobed leaves and inconspicuous rayless heads. Check leaf architecture and individual head anatomy, not just white flower clusters."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "leaf macro",
+      "target": "show successive orders of fine leaf dissection and attachment"
+    },
+    {
+      "priority": 1,
+      "role": "single capitulum side and face",
+      "target": "count small rays and show several rows of phyllaries"
+    },
+    {
+      "priority": 2,
+      "role": "whole flowering shoot",
+      "target": "show flat-topped compound cluster and alternate leaves"
+    },
+    {
+      "priority": 2,
+      "role": "mature cypselae",
+      "target": "show size, shape and margins with scale"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/achillea-millefolium-leaves.jpg",
+      "role": "Whole flowering plant with finely dissected leaves",
+      "creator": "Jane S. Richardson",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yarrow_Achillea_millefolium_plant.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/achillea-millefolium-flowering.jpg",
+      "role": "Flowering shoot and capitula",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_-_Common_Yarrow.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "version": "1.0-approved-source-pool-2026-10-12",
+    "taxonomy_identity_checked": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "tags": [
+    "Asteraceae",
+    "Achillea",
+    "morphology-first",
+    "range conflict",
+    "comparison"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

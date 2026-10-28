@@ -1,0 +1,57 @@
+TETRANEURIS LINEARIFOLIA (HOOK.) GREENE — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Workflow: Joey-video downstream batch
+
+## Taxonomy
+Kew Plants of the World Online — accepted Tetraneuris linearifolia; two accepted varieties:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A251775-2
+
+Flora of North America — Tetraneuris key; T. linearifolia is the annual species in the genus:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132599
+
+## Strict target-zone range
+Travis — UT Plant Resources Center Travis County Asteraceae specimen index:
+https://w3.biosci.utexas.edu/prc/specimens/Asteraceae5.html
+
+San Saba — Bierner & Turner 2003 taxonomy cites a San Saba County specimen:
+https://w3.biosci.utexas.edu/prc/pdfs/Bierner_Lundellia06.pdf
+
+Kerr — Texas Parks and Wildlife Kerr Wildlife Management Area vascular flora:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Travis, San Saba, Kerr.
+
+## Morphology
+UT Plant Resources Center, Vascular Plants of Williamson County — Tetraneuris linearifolia var. linearifolia:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tetraneuris%20linearifolia%20linearifolia
+
+Key learner cues:
+- annual / taprooted
+- narrow linear foliage
+- hairy/gland-dotted foliage
+- solitary yellow radiate heads
+- distinct multi-series phyllaries
+- scale-like pappus
+
+## Joey study media
+Video: Y7A530PjEbU
+- Y7A530PjEbU-14 — whole flowering habit / source label
+- Y7A530PjEbU-15 — linear woolly foliage
+Study rights only; public reuse not assumed.
+
+## Guardrail
+Do not infer var. linearifolia from the Joey frames alone. The canonical learner remains species-level unless diagnostic varietal evidence is present.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 004
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Y7A530PjEbU
+tetraneuris-linearifolia_habit-source-label_08-16.jpg @ 08:16
+Source-labeled Tetraneuris linearifolia in flower. Use the low habit together with the leaf and phyllary close-ups rather than yellow rays alone.
+tetraneuris-linearifolia_linear-woolly-leaves_08-20.jpg @ 08:20
+Narrow linear leaves with a woolly surface. The source explicitly links this character to the name linearifolia, making it a useful vegetative cue.
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=m1rrQfljKAo
+tetraneuris-linearifolia_phyllaries-id-cue_07-30.jpg @ 07:30
+Underside of a Tetraneuris linearifolia head. Joey explicitly calls out the phyllaries as the identification cue; pair this with the linear woolly foliage.
+Rights: private study only; public reuse not cleared. User confirms private learner. Existing scientific/range status preserved.

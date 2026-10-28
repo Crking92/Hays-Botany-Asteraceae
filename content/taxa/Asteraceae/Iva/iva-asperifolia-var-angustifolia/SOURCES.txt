@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60451320-2
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60451320-2
+Photographed under scientific synonym: Iva angustifolia
+Source research-grade observation: https://www.inaturalist.org/observations/3900718
+Photo: https://www.inaturalist.org/photos/4583677
+Attribution: (c) blake hendon, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

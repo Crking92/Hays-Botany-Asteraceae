@@ -1,0 +1,117 @@
+{
+  "id": "chaetopappa-bellidifolia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "species": "bellidifolia",
+  "scientific_name": "Chaetopappa bellidifolia",
+  "authority": "(A.Gray & Engelm.) Shinners",
+  "common_name": "Whiteray leastdaisy",
+  "look_here_first": "Start at the base: this is a taprooted ANNUAL, not a rhizomatous perennial. Check flat, herbaceous, non-overlapping leaves; then inspect a mature cypsela with a loupe. The pappus is a minute thickened ring rather than the ~25 obvious bristles of C. ericoides. Compare whole plants with C. effusa and confirm root type before naming.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 237,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Master Pool Hays source, accepted identity reviewed 2026-10-10; county native threshold unresolved."
+  },
+  "morphology_keys": {
+    "habit": "Small taprooted annual with slender, often branched, hairy stems; do not infer identity from overall height.",
+    "leaves": "Basal and stem leaves alternate, flat and herbaceous rather than densely overlapping and leathery; basal leaves often wither by flowering.",
+    "heads": "Small solitary terminal radiate heads; pale rays around yellow disk florets; head color alone cannot distinguish the genus.",
+    "fruits": "Mature cypsela pappus reduced to a minute thickened ring (Flora of North America key); use magnification to avoid mistaking it for an absent pappus.",
+    "best_field_traits": [
+      "Examine rootstock and annual/perennial habit",
+      "Examine basal and stem leaves including overlap and blade bases",
+      "Examine mature cypsela pappus with magnification"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Chaetopappa effusa",
+      "Chaetopappa ericoides",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "key_distinctions": "C. effusa is a rhizomatous perennial with broad proximal cauline leaves 6–12 mm and a tiny ring-like pappus; C. ericoides is perennial with densely overlapping narrow leathery leaves and ~24–26 pappus bristles. Other annual Chaetopappa may have cups or bristle+scale pappi; check ripe fruits.",
+    "cautions": "C. bellidifolia and C. effusa both have ring-like pappi; root architecture and leaf form are essential. Sterile material or detached heads may be unidentifiable."
+  },
+  "diagnostic_image_needs": [
+    "Whole plant including intact taproot",
+    "Basal and cauline flat leaves at scale",
+    "Mature cypsela pappus ring under microscope",
+    "Terminal head side view and phyllaries"
+  ],
+  "images": [
+    {
+      "file": "images/inat-first-259597819.jpg",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "creator": "Cody Stricker",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/259597819",
+      "observation_url": "https://www.inaturalist.org/observations/150537744",
+      "photo_id": "259597819",
+      "observation_id": "150537744",
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Cody Stricker, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/259597819/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, attribution required",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": "none; targets unverified"
+    },
+    {
+      "file": "images/gbif-manual-1837060765-a835f4d67.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Taprooted annual habit and mature cypsela with pappus; phyllaries",
+      "creator": "Laura Clark",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/1837060765",
+      "gbif_occurrence_id": "1837060765",
+      "source_determination": "Chaetopappa bellidifolia (A.Gray & Engelm. ex A.Gray) Shinners",
+      "accepted_target": "Chaetopappa bellidifolia",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14407970/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "external_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "missing_diagnostic_views": [
+      "Species-diagnostic macros and visually checked morphology"
+    ],
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "One exact-taxon Research Grade photo provisionally installed; morphological teaching views need visual review."
+  },
+  "photo_note": "No verified licensed exact-species source photo found in this small installation pass; retain zero-photo provisional status for Diagnostic Photo Polish. First-pass CC-licensed observation photo installed; precise anatomy and image quality require visual review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

@@ -1,0 +1,24 @@
+Helianthus maximiliani — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://w3.biosci.utexas.edu/prc/wildflowers/flower/helianthus-maximiliani
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:119899-2
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066889
+
+PROJECT TRACKER DIAGNOSTIC
+Perennial; tall and usually unbranched or sparsely branched; numerous narrow linear-lanceolate leaves that often fold lengthwise and curve downward; many yellow heads.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH1-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.
+
+2026-10-08 GENUS POLISH SOURCES
+Flora of North America, Helianthus genus key: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114871
+Oklahoma State University identification reference: https://extension.okstate.edu/programs/plant-id/plant-profiles/maximilian-sunflower
+Note: comparison photo source/rights and additional original-site photo links are in content/taxa/Asteraceae/Helianthus/genus.json. This update does not alter county-range status.

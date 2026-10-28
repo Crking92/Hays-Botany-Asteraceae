@@ -1,0 +1,111 @@
+{
+  "id": "brickellia-eupatorioides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "species": "eupatorioides",
+  "scientific_name": "Brickellia eupatorioides",
+  "authority": "(L.) Shinners",
+  "common_name": "False boneset",
+  "synonyms": [
+    "Kuhnia eupatorioides"
+  ],
+  "taxonomic_note": "Accepted species; FNA recognizes varieties, including var. gracillima. Source pool variety is represented within this species concept; do not duplicate.",
+  "look_here_first": "Start at a mature head and fruit: pappus bristles are plumose to subplumose, with gland-dotted phyllaries. Inspect woody perennial base and leaf nodes, but remember some varieties have alternate rather than opposite leaves. Do not assign a variety from a species-level source row.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 159; taxonomy and diagnostics reviewed 2026-10-09",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas-native at state scale in POWO; no completed BONAP/NAPA-first three-target-county certification for this batch. Native-only metrics excluded."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Perennial herb to subshrub with woody perennial base; habit varies across recognized varieties.",
+    "leaves": "Leaves usually opposite, but alternate in some varieties including gracillima and texana; phyllotaxy alone cannot reject the species.",
+    "flowers": "Heads discoid; phyllaries gland-dotted, often 22–26 across the complex; involucres roughly 7–15 mm, with about 6–35 florets.",
+    "fruits": "Mature cypsela pappus bristles plumose to subplumose; photograph with macro to distinguish from related brickellbushes.",
+    "best_field_traits": [
+      "plumose or subplumose mature pappus",
+      "gland-dotted phyllaries",
+      "woody perennial base",
+      "variable phyllotaxy across varieties"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Brickellia cylindracea",
+      "Brickellia dentata"
+    ],
+    "key_distinctions": "Brickellia cylindracea (tomentose leaf undersides and strongly unequal outer phyllaries); Brickellia dentata (often alternate coarsely toothed leaves and usually glabrous mature cypselae). The source-pool B. eupatorioides var. gracillima is a nested infraspecific concept, not a second species card."
+  },
+  "images": [
+    {
+      "file": "images/brickellia-eupatorioides-overview.jpg",
+      "role": "Flowering plant in prairie habitat; provisional habit photo, not a pappus macro",
+      "creator": "USFWS Mountain-Prairie",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:False_Boneset_(Kuhnia_eupatorioides)_on_Mixed_Grass_Prairie_of_Lacreek_NWR_(13918392166).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6234700290-a9adf8c3e.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Head and pappus macro; gland-dotted phyllaries",
+      "creator": "Piotr",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234700290",
+      "gbif_occurrence_id": "6234700290",
+      "source_determination": "Brickellia eupatorioides (L.) Shinners",
+      "accepted_target": "Brickellia eupatorioides",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641213883/original.jpg",
+      "image_dimensions": [
+        1016,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "Leaf node and lower leaf face",
+      "target": "show phyllotaxy, gland dots, hair density with scale"
+    },
+    {
+      "priority": 1,
+      "role": "Mature head and fruit macro",
+      "target": "show phyllary proportions and pappus/cypsela hairs with mm scale"
+    }
+  ],
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_reviewed": false,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

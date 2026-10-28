@@ -1,0 +1,428 @@
+{
+  "id": "vernonia-baldwinii",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "species": "baldwinii",
+  "scientific_name": "Vernonia baldwinii",
+  "authority": "Torr.",
+  "common_name": "Western ironweed",
+  "synonyms": [],
+  "taxonomic_note": "POWO accepts Vernonia baldwinii and recognizes infraspecific variation; Texas plants align with the broad-leaved western ironweed concept.",
+  "look_here_first": "Tall robust ironweed with broader rough leaves and broad terminal arrays of purple discoid heads. Leaves are much broader than in V. lindheimeri.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis and Kerr are exact target-zone records. Williamson is documented but outside the project target-county list and is not counted.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Correct stale PASS while preserving learner admission."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "tall robust ironweed",
+      "broad ovate to lance-ovate rough leaves",
+      "hairy/tomentose lower leaf surfaces",
+      "broad flattened to irregular terminal arrays",
+      "purple discoid heads with no rays"
+    ],
+    "comparison_training": "V. lindheimeri is much narrower-leaved with strongly revolute margins and densely woolly lower surfaces."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vernonia lindheimeri",
+      "Vernonia × guadalupensis"
+    ],
+    "key_distinctions": "Broad leaves favor V. baldwinii; intermediate plants may be hybrid and should not be forced to a parent."
+  },
+  "tags": [
+    "Asteraceae",
+    "Vernonia",
+    "Western ironweed",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-visual-learning-polish-2026-10-07",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-07",
+    "visual_learning_polished": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "broad leaf",
+    "lower leaf surface",
+    "terminal head array",
+    "head close-up",
+    "comparison with V. lindheimeri"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "visual_learning": {
+    "version": "1.0-parent-hybrid-comparison",
+    "learner_goal": "Separate broad-leaved V. baldwinii from narrow revolute-leaved V. lindheimeri while recognizing that V. × guadalupensis can bridge the parents.",
+    "look_sequence": [
+      {
+        "step": 1,
+        "look_at": "one mature mid-stem leaf in full view",
+        "question": "Is the blade broadly ovate/lance-ovate or very narrow and linear?",
+        "teaching_note": "Start with leaf proportion, not flower color. Photograph the whole blade with a consistent scale."
+      },
+      {
+        "step": 2,
+        "look_at": "leaf margin in cross/oblique view",
+        "question": "Are the margins relatively flatter or strongly rolled under (revolute)?",
+        "teaching_note": "A side-lit edge view teaches this better than a flat overhead photo."
+      },
+      {
+        "step": 3,
+        "look_at": "upper and lower leaf surfaces",
+        "question": "Where is the hairiness concentrated and how woolly is the underside?",
+        "teaching_note": "Use matched macros of the same leaf area on both surfaces; V. lindheimeri should provide the strong densely woolly-underneath contrast."
+      },
+      {
+        "step": 4,
+        "look_at": "whole terminal head array",
+        "question": "Does the overall plant fit the robust broad-leaved ironweed architecture?",
+        "teaching_note": "Use this as supporting context after the leaf characters, not as the sole separator."
+      },
+      {
+        "step": 5,
+        "look_at": "intermediate character combinations",
+        "question": "Does the plant cleanly fit one parent, or does it bridge them?",
+        "teaching_note": "If leaf width, margin roll and indumentum are intermediate, keep V. × guadalupensis open rather than forcing a parent."
+      }
+    ],
+    "comparison_board": [
+      {
+        "compare_with": "Vernonia lindheimeri",
+        "same_frame_features": [
+          "whole mature leaf at same scale",
+          "margin edge profile",
+          "upper-surface macro",
+          "lower-surface macro"
+        ],
+        "baldwinii_side": "much broader ovate to lance-ovate leaf; lower surface hairy/tomentose",
+        "other_side": "very narrow linear leaf; strongly revolute margins; lower surface densely woolly/sericeo-tomentose",
+        "best_visual_lock": "same-scale leaf + edge profile + underside macro"
+      },
+      {
+        "compare_with": "Vernonia × guadalupensis",
+        "same_frame_features": [
+          "leaf width/proportion",
+          "margin roll",
+          "upper/lower indumentum",
+          "whole flowering plant"
+        ],
+        "baldwinii_side": "broad-leaved parent endpoint",
+        "other_side": "accepted natural hybrid may be intermediate between the two parents",
+        "best_visual_lock": "three-column parent–hybrid–parent comparison rather than a binary key"
+      }
+    ],
+    "photo_diagram_needs": [
+      {
+        "priority": 1,
+        "role": "same-scale mature leaf",
+        "annotation": "mark blade width and length axes; label broad-leaved parent endpoint",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "leaf-margin oblique macro",
+        "annotation": "arrow to relatively flatter margin and contrast with strongly revolute V. lindheimeri",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "paired upper/lower leaf-surface macro",
+        "annotation": "label surface and visible hairiness",
+        "status": "missing"
+      },
+      {
+        "priority": 1,
+        "role": "three-column V. baldwinii × V. guadalupensis V. lindheimeri comparison",
+        "annotation": "align same-scale leaves and the same diagnostic regions across all three",
+        "status": "missing"
+      },
+      {
+        "priority": 2,
+        "role": "whole flowering habit + terminal head array",
+        "annotation": "show where comparison leaves were sampled from the plant",
+        "status": "missing"
+      },
+      {
+        "priority": 2,
+        "role": "discoid head close-up",
+        "annotation": "label disc florets and absence of ray florets as genus/family context, not the parent separator",
+        "status": "missing"
+      }
+    ],
+    "avoid_overtrusting": [
+      "purple flower color",
+      "head color or general ironweed gestalt",
+      "plant height by itself",
+      "one intermediate leaf on a possible hybrid",
+      "range status as an identification character"
+    ],
+    "verified_diagnostic_anchors": {
+      "leaf_blade": "elliptic to lance-ovate/lanceolate, typically 8–15(–18+) cm × 20–45(–75+) mm; broad relative to V. lindheimeri",
+      "lower_leaf_surface": "usually puberulent to tomentose or pannose, with erect to curled hairs",
+      "upper_leaf_surface": "scabrellous to glabrescent",
+      "involucre": "broadly campanulate to hemispheric; phyllaries in 5–6 series, tips sometimes recurved",
+      "source_basis": "World Flora Online / Flora of North America treatment"
+    }
+  },
+  "photo_candidates": [
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "flowering stem / broad-leaf habit reference",
+      "creator": "Clarence A. Rechenthin / USDA-NRCS PLANTS Database",
+      "license": "Public domain — U.S. federal government work",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Vernonia_baldwinii.jpg",
+      "diagnostic_value": "Shows flowering stem, broad cauline leaves, and terminal discoid heads together; useful first visual anchor while leaf-surface and margin macros are still needed.",
+      "public_reuse": "yes"
+    },
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "high-resolution leaf/head detail",
+      "creator": "Clifflandis",
+      "license": "CC0 1.0 public domain dedication",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii_001.jpg",
+      "diagnostic_value": "4032×3024 exact-species image; suitable for close inspection/cropping of leaf and flowering structures.",
+      "public_reuse": "yes",
+      "verification": {
+        "checked": "2026-10-07",
+        "identity": "Commons file explicitly depicts Vernonia baldwinii",
+        "license": "VERIFIED CC0 1.0",
+        "dimensions": "4032×3024",
+        "decision": "approved_reusable"
+      }
+    },
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "high-resolution whole/structural reference",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii_2.jpg",
+      "diagnostic_value": "6000×4000 exact-species image; high resolution gives useful structural context and crop potential.",
+      "public_reuse": "yes_with_attribution_sharealike",
+      "verification": {
+        "checked": "2026-10-07",
+        "identity": "Commons file explicitly Vernonia baldwinii; photographed Arkansas",
+        "license": "VERIFIED CC BY-SA 4.0",
+        "dimensions": "6000×4000",
+        "decision": "approved_reusable_with_attribution_sharealike",
+        "metadata_note": "Embedded EXIF says All Rights Reserved, but the Commons file page explicitly licenses the work CC BY-SA 4.0; preserve Commons license attribution."
+      }
+    },
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "additional habit/flowering reference",
+      "creator": "U.S. National Park Service",
+      "license": "Public domain — U.S. federal government work",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Badlands_Flowers_-_Vernonia_baldwinii_-_Badlands_National_Park.jpg",
+      "diagnostic_value": "2031×3079 exact-species federal image; complementary habit/flowering reference.",
+      "public_reuse": "yes",
+      "verification": {
+        "checked": "2026-10-07",
+        "identity": "Commons file categorized/identified Vernonia baldwinii",
+        "license": "VERIFIED public domain, U.S. federal government work",
+        "dimensions": "2031×3079",
+        "decision": "approved_reusable"
+      }
+    },
+    {
+      "status": "licensed_source_ready_for_image_level_selection",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "leaf surfaces / involucre / diagnostic structure candidates",
+      "creator": "World Flora Online image provider as shown per image",
+      "license": "CC BY 4.0 unless individual image states otherwise",
+      "source_page": "https://www.worldfloraonline.org/taxon/wfo-0000071341",
+      "diagnostic_value": "Exact-species page with multiple images plus morphology explicitly describing abaxial puberulent-tomentose/pannose surface and phyllary form; inspect individual frames for underside and involucre roles.",
+      "public_reuse": "yes_with_attribution_and_image_level_verification"
+    },
+    {
+      "status": "teaching_reference_rights_check_required_before_image_extraction",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "botanical plate: habit + tomentose leaf underside + head + single flower + achene",
+      "creator": "Guide to the Tallgrass Prairies of Eastern Nebraska and Adjacent States (2007)",
+      "license": "verify plate-level rights before extracting/reusing artwork",
+      "source_page": "https://govdocs.nebraska.gov/epubs/U2605/B007-2007.pdf",
+      "diagnostic_value": "Exceptionally useful teaching composition: labeled habit, enlarged tomentose underside, head ×3, flower ×6 and achene ×6. Use as a model even if extraction rights are not cleared.",
+      "public_reuse": "pending"
+    },
+    {
+      "status": "rights_cleared_ready_for_physical_import",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "close-up flowering/head structural reference",
+      "creator": "Patricia DuBose Duncan / U.S. Environmental Protection Agency DOCUMERICA",
+      "license": "Public domain — U.S. federal government work",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CLOSEUP_OF_BALDWIN%27S_IRONWEED,_A_COMMON_TALLGRASS_PRAIRIE_PLANT_SEEN_ON_THE_KONZA_PRAIRIE,_1,000_ACRES_OF_VIRGIN..._-_NARA_-_557190.jpg",
+      "diagnostic_value": "3000×2004 exact-species close-up; useful additional flowering/head reference from a documented federal archive.",
+      "public_reuse": "yes",
+      "verification": {
+        "checked": "2026-10-07",
+        "identity": "NARA/EPA title explicitly identifies Baldwin's ironweed; Commons category Vernonia baldwinii",
+        "license": "VERIFIED public domain, EPA employee official-duty work",
+        "dimensions": "3000×2004",
+        "decision": "approved_reusable"
+      }
+    },
+    {
+      "status": "licensed_multi_view_candidate_needs_view_level_diagnostic_check",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "multi-view pubescent-leaf candidate",
+      "creator": "Josh Melton",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://orc.library.atu.edu/vernonia/1/",
+      "diagnostic_value": "Exact-species record with multiple downloadable views; record explicitly notes pubescent leaves. Inspect individual views for lower-surface hairiness before assigning that diagnostic role.",
+      "public_reuse": "yes_noncommercial_with_attribution",
+      "occurrence_id": "iNaturalist 44421655"
+    },
+    {
+      "status": "licensed_candidate_needs_visual_role_confirmation",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "inflorescence/head reference",
+      "creator": "Ron Thomas",
+      "license": "CC BY-NC-SA 4.0",
+      "source_page": "https://bioimages.vanderbilt.edu/thomas/0210-01-01.htm",
+      "diagnostic_value": "Exact-species, identified occurrence with stable image identifier and DOI. Use only for the structural role actually visible; do not label as leaf-underside or phyllary macro without inspection.",
+      "public_reuse": "yes_noncommercial_with_attribution_sharealike",
+      "stable_id": "http://bioimages.vanderbilt.edu/thomas/0210-01-01",
+      "doi": "10.5281/zenodo.11013641"
+    },
+    {
+      "status": "licensed_candidate_needs_visual_role_confirmation",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "additional high-resolution flowering reference",
+      "creator": "Antony-22",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Flowers_of_Boone_County_Arboretum_2022j.jpg",
+      "diagnostic_value": "6240×4160 Commons image categorized as Vernonia baldwinii; inspect full-resolution crop before assigning any diagnostic macro role.",
+      "public_reuse": "yes_with_attribution_sharealike"
+    },
+    {
+      "status": "licensed_same_individual_multi_view_source",
+      "scientific_name": "Vernonia baldwinii",
+      "role": "matched leaf + two inflorescence views from one identified individual",
+      "creator": "Ron Thomas",
+      "license": "CC BY-NC-SA 4.0",
+      "source_page": "https://bioimages.vanderbilt.edu/thomas/0210-01.htm",
+      "stable_organism_id": "http://bioimages.vanderbilt.edu/thomas/0210-01",
+      "diagnostic_value": "Four matched photographs of one identified plant: whole plant, upper-stem leaf, and two inflorescence views. This is a high-value licensed source for selecting a leaf-detail and the tightest available involucre crop without mixing individuals.",
+      "public_reuse": "yes_noncommercial_with_attribution_sharealike",
+      "verification": {
+        "checked": "2026-10-07",
+        "identity": "identified Vernonia baldwinii by Ron Thomas",
+        "views": [
+          "whole plant - in flower",
+          "leaf - on upper stem",
+          "inflorescence view 1",
+          "inflorescence view 2"
+        ],
+        "rights": "Bioimages image record documents CC BY-NC-SA 4.0 and stable image identifiers/DOIs"
+      }
+    }
+  ],
+  "photo_verification_summary": {
+    "checked": "2026-10-07",
+    "verified_reusable_count": 4,
+    "verified_reusable_roles": [
+      "high-resolution leaf/head detail",
+      "high-resolution whole/structural reference",
+      "habit/flowering reference",
+      "close-up flowering/head structural reference"
+    ],
+    "reference_only_unlicensed_roles": [
+      "dedicated leaf upper/lower surfaces",
+      "out-curved involucre bract tips"
+    ],
+    "remaining_priority_gap": "Still open after frame audit: rights-cleared, pixel-confirmed abaxial leaf-hair macro and tight involucre/phyllary macro. Missouri Plants remains the visual target/reference; FNA confirms these characters are diagnostic.",
+    "latest_search": "2026-10-07",
+    "licensed_additional_sources": [
+      "Arkansas Tech CC BY-NC 4.0 multi-view record",
+      "Bioimages Ron Thomas CC BY-NC-SA 4.0 stable occurrence",
+      "Wikimedia Commons Antony-22 CC BY-SA 4.0 high-resolution image"
+    ],
+    "best_current_licensed_route": "Ron Thomas Bioimages same-individual 4-view set under CC BY-NC-SA 4.0; use leaf frame and inspect/crop the two inflorescence frames for phyllary visibility.",
+    "reference_target_confirmation": "Missouri Plants visually demonstrates the desired abaxial-hair and involucre views, but remains reference-only absent explicit reuse permission.",
+    "morphology_confirmation": "WFO/FNA: abaxial surface usually puberulent to tomentose/pannose; phyllary tips sometimes recurved.",
+    "bioimages_frame_audit": {
+      "checked": "2026-10-07",
+      "organism_page": "http://bioimages.vanderbilt.edu/thomas/0210-01.htm",
+      "result": "The organism record confirms four matched views: whole plant, upper-stem leaf, and two whole-inflorescence views. The individually indexed inflorescence image 0210-01-01 is verified CC BY-NC-SA 4.0 with stable ID and DOI. Search/open access did not expose the sibling frame pages reliably enough to honestly certify an abaxial-leaf macro or tight phyllary macro from those sibling files.",
+      "verified_image": {
+        "stable_page": "http://bioimages.vanderbilt.edu/thomas/0210-01-01.htm",
+        "stable_id": "http://bioimages.vanderbilt.edu/thomas/0210-01-01",
+        "doi": "10.5281/zenodo.11013641",
+        "creator": "Ron Thomas",
+        "license": "CC BY-NC-SA 4.0",
+        "view": "whole inflorescence"
+      },
+      "decision": "Keep the verified inflorescence frame as reusable. Do not falsely relabel the upper-stem leaf view as an underside macro, and do not claim a tight phyllary view from the two whole-inflorescence records without pixel-level confirmation."
+    }
+  },
+  "images": [
+    {
+      "file": "images/vernonia-baldwinii-provisional-face.jpg",
+      "role": "Baldwin's ironweed recognizable flowering head from cultivated garden; diagnostic leaf margins and phyllary macros remain unfilled.",
+      "creator": "Clifflandis",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii_001.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc0"
+    },
+    {
+      "file": "images/gbif-manual-6147639530-e3646edce.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Broad serrate rough leaves, underside of purple heads showing phyllaries",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6147639530",
+      "gbif_occurrence_id": "6147639530",
+      "source_determination": "Vernonia baldwinii Torr.",
+      "accepted_target": "Vernonia baldwinii",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613247010/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

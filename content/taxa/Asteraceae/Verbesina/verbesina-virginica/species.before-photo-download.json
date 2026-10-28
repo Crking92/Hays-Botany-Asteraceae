@@ -1,0 +1,43 @@
+{
+  "id": "verbesina-virginica",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
+  "scientific_name": "Verbesina virginica",
+  "authority": "L.",
+  "common_name": "Frostweed",
+  "field_group": "Tall white composite",
+  "project_tracker_diagnostic": "Tall perennial with conspicuously winged/decurrent stems and many white heads; famous for extruding ice ribbons in winter.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Tall erect herb, often in colonies.",
+    "leaves": "Alternate; lower leaves often opposite or subopposite; blades toothed and decurrent, creating winged stems.",
+    "heads": "Many white ray florets around pale disk florets in branched inflorescences.",
+    "phyllaries": "Several narrow series beneath heads.",
+    "fruit": "Cypselae somewhat flattened, pappus reduced or absent.",
+    "best_field_traits": [
+      "winged stems",
+      "white heads",
+      "tall colony-forming habit",
+      "ice ribbons in freezing weather"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,21 @@
+AGERATINA ALTISSIMA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; settled PASS taxonomy/range unchanged.
+
+Existing project/Joey material was checked first; no installed exact-species gallery was available.
+
+1) Ageratina_altissima_001.JPG
+Source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_001.JPG
+Creator: H. Zell
+License: CC BY-SA 3.0
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Ageratina_altissima_001.JPG
+Role: blooming whole-plant habit with opposite broad leaves and terminal white clusters.
+
+2) Ageratina_altissima_002.JPG
+Source: https://commons.wikimedia.org/wiki/File:Ageratina_altissima_002.JPG
+Creator: H. Zell
+License: CC BY-SA 3.0
+Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Ageratina_altissima_002.JPG
+Role: close view of white discoid inflorescences.
+
+Practical gallery fix 2026-10-12: existing linked exact-species R.A. Nonenmacher CC BY-SA 4.0 photo physically downloaded into images/03-field-foliage-petioles.jpg; not a verified basal stem or mature fruit macro.

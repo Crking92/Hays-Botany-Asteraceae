@@ -1,0 +1,43 @@
+{
+  "id": "baccharis-neglecta",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Baccharis",
+  "scientific_name": "Baccharis neglecta",
+  "authority": "Britton",
+  "common_name": "False Willow",
+  "field_group": "Shrubby green roadside composite",
+  "project_tracker_diagnostic": "Much-branched green shrublet with narrow willowlike leaves and masses of small discoid heads; common in disturbed sites and roadsides.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial shrub/subshrub.",
+    "habit": "Green, much-branched, broomy shrublet.",
+    "leaves": "Alternate, narrow oblanceolate to linear-oblanceolate, often entire to shallowly toothed near the tip.",
+    "heads": "Small discoid heads; female plants especially showy in fruit from the white pappus.",
+    "phyllaries": "Several series, appressed.",
+    "fruit": "Cypselae with conspicuous white pappus in fruit.",
+    "best_field_traits": [
+      "green shrubby habit",
+      "narrow willowlike leaves",
+      "masses of tiny heads",
+      "white pappus on female plants"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

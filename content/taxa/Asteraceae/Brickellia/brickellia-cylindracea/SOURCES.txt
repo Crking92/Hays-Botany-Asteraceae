@@ -1,0 +1,20 @@
+Brickellia cylindracea — approved Master Plant Pool row 157; taxonomy and morphological diagnostic review 2026-10-09.
+POWO accepted name: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:36404-2
+Flora of North America morphological treatment: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066253
+Target-zone nativity: UNRESOLVED; state-level Texas nativity is not a three-target-county PASS.
+Exact-species photo: https://commons.wikimedia.org/wiki/File:Brickellia_cylindracea_444535771.jpg
+Original source: https://www.inaturalist.org/observations/248755413
+Photographer: Reid Hardin; license: CC BY 4.0; photo role: Habit/flowering branch, provisional overview; does not replace scaled head and leaf underside macros.
+Missing diagnostic photos: node/leaf underside, measured head/phyllaries, mature pappus/cypsela.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:58:39.157612+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/332721017
+https://www.inaturalist.org/observations/189872433
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:11:33.136842+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/729747293
+https://www.inaturalist.org/observations/397851299
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

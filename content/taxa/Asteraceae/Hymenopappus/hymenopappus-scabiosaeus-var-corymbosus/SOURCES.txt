@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2
+Photographed under scientific synonym: Hymenopappus scabiosaeus corymbosus
+Source research-grade observation: https://www.inaturalist.org/observations/159788922
+Photo: https://www.inaturalist.org/photos/276095449
+Attribution: (c) Reid Hardin, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

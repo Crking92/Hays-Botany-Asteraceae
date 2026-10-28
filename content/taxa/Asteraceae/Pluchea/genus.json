@@ -1,0 +1,221 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Pluchea",
+  "common_group": "Marsh fleabanes / camphorweeds",
+  "project_scope": {
+    "selection_mode": "small-genus structural learner batch",
+    "species_ids": [
+      "pluchea-camphorata",
+      "pluchea-odorata"
+    ],
+    "species_count": 2,
+    "source_taxa": [
+      "Pluchea odorata"
+    ],
+    "note": "Both species canonical in 2026-10-17 manifest. P. camphorata keeps user-approved UNRESOLVED range exception and exclusion from native metrics; P. odorata is provisional. No new installation or range decision."
+  },
+  "recognition": {
+    "where_to_look_first": "LOOK HERE FIRST: inspect alternate leaf nodes, side-light the stem for cobwebby arachnose hairs, then photograph the entire flowering-branch arrangement. Finally measure three mature involucres in profile. Pink heads and petioles alone cannot distinguish these species.",
+    "priority": [
+      "alternate leaf attachment",
+      "petiolate versus sessile/subsessile leaves",
+      "glandular leaf and stem surfaces",
+      "flat/rounded corymbiform versus more paniculiform head arrays",
+      "involucre shape and size for close confirmation"
+    ],
+    "shared_morphology": [
+      "Alternate leaves with glandular surfaces; petiolate or sessile depending on species.",
+      "Heads are disciform composites in corymbiform or paniculiform arrays, each with a cup of phyllaries (involucre).",
+      "Use mature involucre width, stem hairs and branch architecture together; odor and flower color are secondary."
+    ],
+    "overlap_cautions": [
+      "Both species can have petioles: petiole presence alone is not diagnostic.",
+      "Mature involucre heights overlap at 5–6 mm; compare widths on multiple heads.",
+      "A cropped branch can hide paniculiform versus layered corymbiform architecture.",
+      "Stem hairs require adequate light/magnification; unclear hairs should be unscored.",
+      "FNA notes occasional hybrids; discordant intermediates need taxonomy review."
+    ]
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "P. camphorata — leaves clearly petiolate; stems usually closely arachnose; many small heads arranged in a paniculiform system of rounded-convex corymbiform clusters on ascending bracteate branches.",
+      "P. odorata — leaves sessile or petiolate; stems not arachnose; head arrays more directly corymbiform, flat-topped to rounded and often layered."
+    ],
+    "local_confusers": [
+      "Heterotheca subaxillaris may share the camphorweed common-name problem but has conspicuous yellow ray florets.",
+      "Conoclinium has opposite leaves rather than the alternate Pluchea pattern."
+    ]
+  },
+  "visual_anchors": [
+    {
+      "species_id": "pluchea-camphorata",
+      "installed_files": [
+        "images/inat-750090506-camphorweed.jpg",
+        "images/library-review027-2e508c7b1a52f8c.jpg",
+        "images/library-review027-37f220b0e68d657.jpg"
+      ],
+      "status": "installed_file_exists_anatomy_unverified"
+    },
+    {
+      "species_id": "pluchea-odorata",
+      "installed_files": [
+        "images/joey-332759686.jpg",
+        "images/joey-332759726.jpg",
+        "images/joey-332759766.jpg"
+      ],
+      "status": "installed_file_exists_anatomy_unverified"
+    }
+  ],
+  "visual_needs": [
+    "whole flowering P. camphorata showing the overall paniculiform/corymbiform cluster architecture",
+    "P. camphorata leaf attachment showing the petiole and glandular surface",
+    "closeup of a Pluchea head showing the rayless-looking pink-purple florets and involucre",
+    "side-by-side P. camphorata versus P. odorata head-array architecture",
+    "side-by-side leaf attachment: clearly petiolate P. camphorata versus the variable sessile/petiolate P. odorata source concept"
+  ],
+  "visual_status": "two_canonical_species_six_local_files_part_macros_pending",
+  "source_notes": [
+    "Flora of North America key separates P. camphorata from P. odorata chiefly with stem arachnosity, petiole/leaf attachment, involucre dimensions, and head-array architecture."
+  ],
+  "curation_status": {
+    "version": "1.0-small-genus-asteraceae-003",
+    "genus_audit": "adequate",
+    "species_work_independent": true,
+    "last_reviewed": "2026-10-17",
+    "genus_lesson_enrichment": "two_species_photo_led_comparison"
+  },
+  "fast_fill_note": "2026-10-17: 2 canonical Pluchea species, 3 physically present local images each. External references excluded from count. P. camphorata range exception and native-metrics exclusion retained; P. odorata provisional. No verified anatomy arrows.",
+  "comparison_matrix": {
+    "source": "Flora of North America genus key: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=126103",
+    "columns": [
+      "character",
+      "P. camphorata",
+      "P. odorata",
+      "caution"
+    ],
+    "rows": [
+      {
+        "character": "Stem hairs",
+        "camphorata": "Usually closely arachnose, hairs appressed",
+        "odorata": "Not arachnose",
+        "caution": "Verify at 10–20× with side light; glandular hairs also occur."
+      },
+      {
+        "character": "Mature involucre height × width",
+        "camphorata": "4–6 × 3–4 mm",
+        "odorata": "5–6 × 4–8(–10) mm",
+        "caution": "Height overlaps; 4 mm width is boundary."
+      },
+      {
+        "character": "Head-array branching",
+        "camphorata": "Paniculiform; rounded corymbiform clusters on ascending bracteate branches",
+        "odorata": "Corymbiform, flat to rounded, often layered",
+        "caution": "Photograph whole flowering axis."
+      },
+      {
+        "character": "Leaf attachment",
+        "camphorata": "Petiolate, FNA petiole 10–20 mm",
+        "odorata": "Sessile or petiolate",
+        "caution": "Petiolate P. odorata overlaps."
+      }
+    ]
+  },
+  "anatomy_lessons": [
+    {
+      "title": "1 · Find the leaf node",
+      "term": "alternate / petiole / sessile",
+      "plain": "Follow the leaf to where it joins the stem. The stalk is the petiole.",
+      "look_here": "Matched attached mid-stem nodes with a ruler.",
+      "why_it_matters": "Both are alternate; P. odorata can also be petiolate.",
+      "photo_role": "paired leaf attachment macros",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "title": "2 · Examine stem hairs",
+      "term": "arachnose / glandular",
+      "plain": "Arachnose means fine cobweb-like hairs; gland dots are different.",
+      "look_here": "Same stem zone side-lit at 10–20× on both species.",
+      "why_it_matters": "P. camphorata usually closely arachnose; P. odorata not arachnose.",
+      "photo_role": "paired stem indumentum macros",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "title": "3 · Follow the flowering branches",
+      "term": "paniculiform / corymbiform",
+      "plain": "Look at the central flowering axis and where the side branches start.",
+      "look_here": "Whole distal flowering branch, uncropped, matched scale.",
+      "why_it_matters": "Ascending paniculiform branches versus often layered corymbiform clusters.",
+      "photo_role": "paired whole flowering axes",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "title": "4 · Measure the phyllary cup",
+      "term": "involucre / phyllary",
+      "plain": "The small overlapping bracts beneath a flower head form the involucre.",
+      "look_here": "Three mature heads in side view with a millimeter ruler; inner and outer bracts.",
+      "why_it_matters": "P. camphorata 3–4 mm wide; P. odorata 4–8(–10) mm; lengths overlap.",
+      "photo_role": "paired scaled mature involucres",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Stem hairs and leaf nodes",
+      "taxon_ids": [
+        "pluchea-camphorata",
+        "pluchea-odorata"
+      ],
+      "look_here_first": "Appressed arachnose hairs on the stem",
+      "separator": "Usually arachnose P. camphorata versus non-arachnose P. odorata; both may have petioles.",
+      "photo_roles": [
+        "side-lit stem macros",
+        "attached leaf nodes"
+      ]
+    },
+    {
+      "title": "Flowering-array architecture",
+      "taxon_ids": [
+        "pluchea-camphorata",
+        "pluchea-odorata"
+      ],
+      "look_here_first": "Origins of ascending lateral branches",
+      "separator": "P. camphorata paniculiform versus P. odorata often layered corymbiform; cropped clusters overlap.",
+      "photo_roles": [
+        "whole flowering branches",
+        "branch origin closeups"
+      ]
+    },
+    {
+      "title": "Mature involucre dimensions",
+      "taxon_ids": [
+        "pluchea-camphorata",
+        "pluchea-odorata"
+      ],
+      "look_here_first": "Measure mature phyllary-cup width",
+      "separator": "P. camphorata 4–6 × 3–4 mm versus P. odorata 5–6 × 4–8(–10) mm; width 4 mm and height overlap.",
+      "photo_roles": [
+        "three scaled heads per species",
+        "phyllary macros"
+      ]
+    }
+  ],
+  "photo_evidence_and_rights": {
+    "physical_files_per_species": 3,
+    "total_physical_files": 6,
+    "verification": "GitHub directory listings checked 2026-10-17; individual diagnostic anatomy and arrows unverified",
+    "camphorata": "Three installed files; one staged CC0 iNaturalist account gillydilly photographer unconfirmed; two GBIF archived CC0 records Mimi Posey and Piotr; live rights recheck/public reuse review required.",
+    "odorata": "Three installed Joey Santore CC BY-NC files; noncommercial use with attribution, no assumed commercial clearance.",
+    "external_only": "P. camphorata Catherine iNaturalist CC BY-NC and Larry Allain USGS public-domain reference URLs in species.json are NOT installed.",
+    "annotations": "pending image-by-image inspection"
+  },
+  "targeted_handoffs": {
+    "photo": "Check permanent library first; verify matched leaf nodes, side-lit stem hairs, entire flowering branches and scaled mature involucres; preserve photo ID, creator, license and public-reuse status.",
+    "taxonomy": "Review ambiguous intermediates and possible hybridization; do not resolve county range here.",
+    "installer": "Both species already installed; preserve IDs, provisional and range-exception status; no new cards."
+  }
+}

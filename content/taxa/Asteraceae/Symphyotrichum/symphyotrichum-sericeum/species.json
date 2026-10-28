@@ -1,0 +1,239 @@
+{
+  "id": "symphyotrichum-sericeum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "sericeum",
+  "scientific_name": "Symphyotrichum sericeum",
+  "authority": "(Vent.) G.L.Nesom",
+  "common_name": "Western silver aster / silky aster",
+  "synonyms": [
+    "Aster sericeus Vent.",
+    "Lasallea sericea (Vent.) Greene",
+    "Virgulus sericeus (Vent.) Reveal & Keener"
+  ],
+  "look_here_first": "LOOK AT A REAL LEAF CLOSE-UP FIRST: both leaf faces and outer phyllaries are densely coated in separate, long, SILVERY, SOFT HAIRS lying near-parallel to the surface (sericeous hairs). At hand-lens scale, follow individual white hairs across the green blade; a silvery glare alone is not evidence. Then inspect the SILKY outer phyllaries on a closed flower bud, the often wiry/low perennial shoots and a thickened woody/cormoid rootstock. Purple rays and yellow-purple center are secondary; true S. oblongifolium has rough shorter hairs, narrow phyllaries and upper-stem glandular hairs rather than this even silky leaf coat. Beware Texas S. pratense, a look-alike with much LESS dense silky hair and wider ovate phyllaries, not yet a canonical learner species.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "County-level Texas distribution sources document Hays, Travis, and Comal; UT also documents the species in Williamson County.",
+    "range_guardrail": "Only counties explicitly listed in specimen/flora-derived sources are counted."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Look for individual long soft appressed white/silver hairs along BOTH sides of the leaf blade; a close-up is now licensed and included in images[].",
+      "Silky-haired outer involucral bracts (phyllaries) around mature closed flower buds and beneath open heads; photo of bud and flower now included.",
+      "Low-wiry clumping perennial with short thickened rootstock/cormoid crown; old basal leaves may wither by flowering; do not expect only one specific height.",
+      "Leaves mainly alternate and sessile to nearly so; often narrow oblong/elliptic, entire, increasingly shorter toward the branch tips.",
+      "Several purple-to-lavender rays with disk heads aging toward dull reddish-purple; COLOR is NOT decisive.",
+      "Against S. oblongifolium: deeply silver-sericeous foliage versus rougher green leaves with short hairs/glands; flower color overlaps.",
+      "Against S. pratense: similar Texan silver-ish aster, but with LESS dense hair on leaves and distinctly broader ovate phyllaries; check photo-vouchered plant."
+    ],
+    "comparison_training": "Use the individual long appressed silky hairs on both leaf surfaces plus densely sericeous involucral bracts, and confirm a thickened wiry perennial base. Against aromatic S. oblongifolium look for rough or glandular upper structures rather than even long silky hairs; S. pratense can still look slightly silky but has sparser leaf hairs and broader ovate phyllaries (taxonomic specialist Semple 2025)."
+  },
+  "curation_status": {
+    "version": "1.0-b090",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "aster-genus-2.2",
+    "scientific_status_unchanged": true,
+    "visual_polish": "exact-feature closeup added for silky leaf + bracts; final rootstock and TX pratense matched macro pending",
+    "photo_metadata_count": 5,
+    "photo_files_present": 2,
+    "manual_library_install_018": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%20%2815354337036%29.jpg",
+      "role": "Whole plant / silky foliage and flowering habit",
+      "creator": "peganum from Henfield, England",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_(15354337036).jpg",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%2010135056.jpg",
+      "role": "TRUE diagnostic: high-resolution leaf close-up showing numerous individual long whitish appressed silky hairs running along the leaf blade",
+      "creator": "davecz2 (iNaturalist photographer)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg",
+      "observation_source": "https://www.inaturalist.org/observations/7725172",
+      "inaturalist_photo_id": 10135056,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution and share-alike obligations",
+      "photo_status": "EXTERNAL_LICENSED_IMAGE; no local image file yet",
+      "annotation_notes": "Confirmed visually: discrete silver hairs visible against green leaf across the upper-right half and basal/middle blade; 2048x1639 original. Good candidate for a specific arrow."
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%2010135023.jpg",
+      "role": "TRUE exact-species flower and BUD view; fine silky hairs cover the outer head bracts; color and flower are context, not sole ID",
+      "creator": "davecz2 (iNaturalist photographer)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135023.jpg",
+      "observation_source": "https://www.inaturalist.org/observations/7725172",
+      "inaturalist_photo_id": 10135023,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution and share-alike obligations",
+      "photo_status": "EXTERNAL_LICENSED_IMAGE; no local image file yet",
+      "annotation_notes": "Confirmed visually: upper left closed bud has green phyllaries coated with short silver-white hairs; fully open purple-rayed head on right. At 1639x1639; not a stem base photo."
+    },
+    {
+      "file": "images/library-review018-a997b6fbf69030f.jpg",
+      "role": "Look closer · violet-purple ray florets around central disk with nearby green overlapping head bracts; fine bract hairs unresolved",
+      "requested_diagnostic_view": "Purple narrow rays and gray silky foliage; leaf pubescence needs larger expert-confirmed macro",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4852044975",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368316229/original.jpeg",
+      "source_determination": "Symphyotrichum sericeum",
+      "source_observation_id": "4852044975",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/symphyotrichum-sericeum/gbif-d8a74619582ba9.jpg",
+      "archive_image_sha256": "22abe790009705e7e6e1c75f925ee80c73f35cb577f2332d713d3a07ff26dec2",
+      "image_dimensions": [
+        1400,
+        931
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review018-4b067cc91b6cadf.jpg",
+      "role": "Confirm clue · narrow pale gray-green leaf surfaces with visibly silky appressed whitish hairs, plus hairs along reddish stems; source ID remains provisional",
+      "requested_diagnostic_view": "Purple narrow rays and gray silky foliage; leaf pubescence needs larger expert-confirmed macro",
+      "creator": "Mário Rui Carranca",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110407081",
+      "media_source_url": "https://bs.plantnet.org/image/o/37d66403453739fa25982e5de4a8f61d70a454b7",
+      "source_determination": "Symphyotrichum sericeum",
+      "source_observation_id": "5110407081",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/symphyotrichum-sericeum/plantnet-via-gbif-ea8dda51447fbd.jpg",
+      "archive_image_sha256": "cdd8e0b2a32a2b5d449e31d7644fbc89706690ed8593ae5357e7354a4dac112a",
+      "image_dimensions": [
+        800,
+        1063
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready_three_source_images",
+    "mode": "learner_photo_backfill_remote_refs",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Two new clearly role-verified CC BY-SA 4.0 photos add exact silky leaf and silky bract close-ups, in addition to previous flowering habit ref. All are external Commons URLs in images[], not yet downloaded as physical GitHub images; final cormoid-rootstock licensed macro pending.",
+    "physical_files_confirmed": 0,
+    "remote_images_confirmed": 3
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Sharp 10× silky leaf hair macro showing hair direction and density",
+      "priority": "must-have",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Woody base/short crown with attached leaves",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Whole plant and head showing leaf and stem hair context",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    }
+  ],
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum oblongifolium",
+      "Symphyotrichum patens",
+      "Symphyotrichum ericoides",
+      "Symphyotrichum pratense (comparison only, not installed)"
+    ],
+    "key_distinctions": "S. sericeum has a dense, even SILVER coat of long appressed individual hairs, plus silky outer phyllaries. S. oblongifolium has rougher shorter hairs and often stalked glands, lacks the uniformly silver silky layer. S. patens often deeply clasps upper stems, unlike most sericeum leaves; S. ericoides has much smaller stiff pointed foliage and lots of tiny white heads. S. pratense has much less dense leaf hairs and broader ovate phyllaries, an important Texas look-alike."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "role": "Individual appressed white/silver leaf hairs",
+      "priority": "completed FIRST-PASS",
+      "status": "VERIFIED_HIGH_RES_LICENSED_IMAGE_LINKED",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg",
+      "check": "Leaves visibly show real individual long white hairs, not glare; 2048x1639 exact species Commons CC BY-SA 4.0, observation 7725172."
+    },
+    {
+      "role": "Silky phyllaries around closed flowering bud",
+      "priority": "completed FIRST-PASS",
+      "status": "VERIFIED_LICENSED_IMAGE_LINKED",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135023.jpg",
+      "check": "Close up bud top left has silvery hairy green bracts; includes face flower. 1639x1639, CC BY-SA 4.0."
+    },
+    {
+      "role": "Woody/cormoid rootstock and spreading rhizomes",
+      "priority": "final polish / licensed image needed",
+      "status": "COPYRIGHTED_SOURCE_LINK_ONLY",
+      "source_page": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-sericeum",
+      "check": "J.C. Semple image 4 of 6 shows cormoid rootstock of Wisconsin specimen. Site copyright; link only."
+    },
+    {
+      "role": "Paired sericeum vs pratense hairs and outer phyllaries same scale",
+      "priority": "final polish",
+      "status": "PAIRED_MACRO_MISSING",
+      "check": "Do not imply all silvery Texas aster material is S. sericeum; specialist notes S. pratense has sparser hairs and wider bracts."
+    }
+  ],
+  "scientific_source_photo_review_2026_10_12": {
+    "photo_observation_id": 7725172,
+    "photo_ids": [
+      10135056,
+      10135023
+    ],
+    "photographer": "davecz2",
+    "source_region": "Central Wisconsin (not Central Texas range evidence)",
+    "license": "CC BY-SA 4.0",
+    "image_files": "Remote Commons only, pending physical installation",
+    "specialist_synthesis": [
+      {
+        "name": "J.C. Semple: S. sericeum",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-sericeum"
+      },
+      {
+        "name": "J.C. Semple: S. pratense",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-pratense"
+      },
+      {
+        "name": "Native Plant Trust/Minnesota Wildflowers",
+        "url": "https://www.minnesotawildflowers.info/flower/silky-aster"
+      }
+    ]
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

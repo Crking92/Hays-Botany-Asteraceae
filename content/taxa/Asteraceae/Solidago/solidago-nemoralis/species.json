@@ -1,0 +1,124 @@
+{
+  "id": "solidago-nemoralis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "species": "nemoralis",
+  "scientific_name": "Solidago nemoralis",
+  "authority": "Aiton",
+  "common_name": "Gray goldenrod",
+  "synonyms": [],
+  "taxonomic_note": "Current Kew/POWO accepts Solidago nemoralis and lists Texas in its native range. Keep currently accepted western segregates such as Solidago decemflora distinct rather than inheriting old broad concepts automatically.",
+  "look_here_first": "Start low on the plant. Gray goldenrod is comparatively short and gray-hairy, with a densely pubescent stem and narrow spatulate-to-oblanceolate lower leaves that become smaller and narrower upward. Then check the usually one-sided, wandlike/recurving flowering branches.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "2026-10-14 corrected two-county status: Hays, Travis inside 24-county zone; Williamson outside. Third accepted native county not yet established. Original evidence retained in range_audit.",
+    "range_guardrail": "Do not transfer records assigned to currently accepted Solidago decemflora or Solidago mollis into S. nemoralis without checking the taxon concept.",
+    "range_audit": {
+      "date": "2026-10-14",
+      "prior_classification": "PASS",
+      "decision": "UNRESOLVED",
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "confidence": "high for target-zone membership; historic county-locality citations retained, not independently re-vouchered",
+      "reason": "Third project county not actually verified. Does not mean native absence from other target counties.",
+      "original_range_basis": "Hays — UT Plant Resources Center Natural Purola Plants list. Travis — UT PRC herbarium specimen index. Williamson — UT PRC Vascular Plants of Williamson County field treatment. These three exact counties meet the project threshold.",
+      "source_document": "content/taxa/Asteraceae/Solidago/solidago-nemoralis/SOURCES.txt"
+    },
+    "native_range_last_reviewed": "2026-10-14"
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "usually shorter and less colony-forming than tall goldenrods",
+      "stem densely short-hairy to gray-pubescent",
+      "lower leaves oblanceolate to spatulate and narrowed into a winged petiole",
+      "upper leaves progressively smaller and narrower",
+      "flowering array often one-sided and wandlike or recurving",
+      "common in dry open prairie, caliche, glade, old-field, and roadside settings"
+    ],
+    "comparison_training": "Compared with Solidago radula, S. nemoralis is more gray/strigose overall and usually has a more wandlike one-sided inflorescence; S. radula is conspicuously scabrous with broader lower leaves and a more compact terminal panicle."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Solidago altissima",
+      "Solidago canadensis",
+      "Solidago gigantea",
+      "Solidago radula",
+      "Solidago decemflora"
+    ],
+    "key_distinctions": "Gray goldenrod combines persistent gray pubescence, narrower lower foliage, and a one-sided wandlike flowering array. Rough goldenrod is more stiffly scabrous and has a more compact terminal panicle."
+  },
+  "tags": [
+    "Asteraceae",
+    "Solidago",
+    "Gray goldenrod",
+    "Central Texas",
+    "goldenrod"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-closeout-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/solidago-nemoralis-provisional-face.jpg",
+      "role": "Whole voucher / architecture reference",
+      "creator": "UT Plant Resources Center (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Asteraceae4.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/gbif-manual-6251878248-a16494237.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Basal gray-hairy oblanceolate leaves, pubescent stems and narrow one-sided flowering branches",
+      "creator": "Alan Weakley",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6251878248",
+      "gbif_occurrence_id": "6251878248",
+      "source_determination": "Solidago nemoralis Aiton",
+      "accepted_target": "Solidago nemoralis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648495764/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "native_metrics_excluded": true
+}

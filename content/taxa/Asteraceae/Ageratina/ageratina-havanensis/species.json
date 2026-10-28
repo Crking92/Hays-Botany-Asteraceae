@@ -1,0 +1,186 @@
+{
+  "id": "ageratina-havanensis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
+  "scientific_name": "Ageratina havanensis",
+  "authority": "(Kunth) R.M.King & H.Rob.",
+  "common_name": "Shrubby Boneset",
+  "field_group": "White shrubby composite",
+  "project_tracker_diagnostic": "Woody-based or shrubby white composite with opposite leaves and clusters of discoid white heads; much more shrubby than herbaceous bonesets.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial subshrub/shrub.",
+    "habit": "Rounded shrubby plant, often woody at the base.",
+    "leaves": "Opposite, ovate to triangular-ovate, serrate, often aromatic when crushed.",
+    "heads": "Small white discoid heads in terminal corymbs or panicles.",
+    "phyllaries": "Several imbricate series.",
+    "fruit": "Cypselae with bristly pappus.",
+    "best_field_traits": [
+      "shrubby habit",
+      "opposite leaves",
+      "white fluffy clusters",
+      "woody base"
+    ],
+    "fna_confirmation": "FNA: shrub 69–150 cm (rarely 30–200 cm), petioles 3–10(–15) mm, deltate to broadly ovate (sometimes hastate) leaves generally 3–5 × 2–5 cm; leaves essentially gland-free; involucres 4–6 mm; foliage persistent in the US flora.",
+    "mature_cypsela": "Hispid (hairy), contrasted with glabrous A. altissima (FNA).",
+    "leaf_persistence": "Persistently leaved / evergreen shrub, rare within Flora of North America Ageratina."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/158108",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) gorthiv, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/367483211",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) gorthiv, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/367483211",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) gorthiv, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/367483211",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-austin-cc0-flowering-woody-shrub-context.jpg",
+      "role": "Austin-grown white mistflower: foliage, branching stems and flowering context (woody base not proven)",
+      "creator": "Daderot",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina%20havanensis%20-%20Zilker%20Botanical%20Garden%20-%20Austin%2C%20Texas%20-%20DSC09017.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "photo_policy_review": "2026-10-12: excluded one all-rights-reserved metadata record; selected CC BY 3.0 Texas candidate awaiting image installation.",
+    "diagnostic_polish_status": "morphology improved; matched images pending",
+    "photo_binary_cleanup": "2026-10-12: all-rights-reserved 01-curated-reference.jpg physically deleted after exclusion from images[]; four licensed local images remain. CC BY 3.0 Travis County replacement selected, not installed.",
+    "diagnostic_polish_date": "2026-10-12"
+  },
+  "other_common_names": [
+    "White mistflower",
+    "Shrubby boneset",
+    "Havana snakeroot"
+  ],
+  "look_here_first": "Look for a many-branched, persistent-leaved (evergreen) woody shrub with opposite, serrate, typically 3–5 cm leaves on short 3–10 mm petioles and white to faintly pinkish rayless heads. A. altissima has herbaceous stems and smoother/glabrous cypselae. Mature A. havanensis cypselae are HISPID (hairy).",
+  "comparisons": {
+    "confused_with": [
+      "Ageratina altissima",
+      "Conoclinium coelestinum",
+      "Eupatorium serotinum",
+      "Chromolaena odorata"
+    ],
+    "key_distinctions": "Versus A. altissima: evergreen/brittle woody shrub framework (not herbaceous), shorter typical petioles, and HISPID mature cypselae (A. altissima glabrous). Versus C. odorata: A. havanensis heads have much shorter 4–6 mm involucres, compared with cylindrical 8–10 mm and 4–6+ phyllary series. Versus E. serotinum: shrub vs tall herbaceous, narrower leaves on late boneset."
+  },
+  "photo_exclusions": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) anica_htx, all rights reserved, uploaded by anica_htx",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/158108",
+      "direct_image_url": "https://static.inaturalist.org/photos/6805492/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "6805492",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "reason": "EXCLUDED from canonical learner image list: all-rights-reserved/permission not established. Pre-existing physical file may require mechanical cleanup; DO NOT reuse without permission.",
+      "physical_file_removed": true
+    }
+  ],
+  "replacement_photo_candidate": {
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_Havanensis,_Shrubby_Boneset_-_panoramio_(1).jpg",
+    "creator": "En el nido (Nest)",
+    "license": "CC BY 3.0",
+    "platform": "Wikimedia Commons / Panoramio licensed archival photograph",
+    "photo_role": "Texas field view; shrubby flowering habit near Hudson Bend, Travis County",
+    "region": "Travis County, Texas (photo location)",
+    "status": "licensed candidate identified, binary not yet installed or visually matched to a structural role"
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "fruit_surface_macro",
+      "priority": "P1",
+      "shot": "several ripe cypselae with scale at magnification",
+      "must_show": "hispid/hairy surface vs glabrous A. altissima",
+      "status": "PENDING"
+    },
+    {
+      "role": "evergreen_woody_base",
+      "priority": "P1",
+      "shot": "woody base, mature brittle stems, winter foliage",
+      "must_show": "persistent shrub framework and leaves",
+      "status": "PENDING"
+    },
+    {
+      "role": "leaf_petioles",
+      "priority": "P1",
+      "shot": "opposite mature foliage front/back plus mm ruler",
+      "must_show": "short 3–10 mm typical petioles, serrate margins",
+      "status": "PENDING"
+    },
+    {
+      "role": "head_side_macro",
+      "priority": "P2",
+      "shot": "involucres side-on with ruler",
+      "must_show": "4–6 mm involucre length",
+      "status": "PENDING"
+    }
+  ],
+  "source_references": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066014"
+    },
+    {
+      "authority": "Wikimedia Commons CC BY 3.0 photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Ageratina_Havanensis,_Shrubby_Boneset_-_panoramio_(1).jpg"
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066014"
+    }
+  ]
+}

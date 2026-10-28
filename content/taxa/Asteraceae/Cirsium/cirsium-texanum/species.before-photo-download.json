@@ -1,0 +1,41 @@
+{
+  "id": "cirsium-texanum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium texanum",
+  "authority": "Buckley",
+  "common_name": "Texas Thistle",
+  "project_tracker_diagnostic": "Biennial/perennial native thistle with pink-purple discoid heads; leaves armed with relatively narrow marginal spines; common in pastures and roadsides across much of Texas.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Biennial or short-lived perennial.",
+    "habit": "Erect thistle, usually under about 1 m.",
+    "leaves": "Alternate, variably lobed, margins armed with narrow spines.",
+    "heads": "Purple to pink discoid heads, solitary or in small groups; no ray florets.",
+    "phyllaries": "Imbricate, spine-tipped.",
+    "best_field_traits": [
+      "native Texas roadside thistle",
+      "pink-purple discoid heads",
+      "spiny but not extremely woolly foliage",
+      "relatively compact stature"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

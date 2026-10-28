@@ -1,0 +1,219 @@
+{
+  "rank": "genus",
+  "name": "Calyptocarpus",
+  "family": "Asteraceae",
+  "common_group": "Straggler daisies / horseherbs",
+  "project_scope": {
+    "current_canonical_species_count": 1,
+    "species_ids": [
+      "calyptocarpus-vialis"
+    ],
+    "region": "Hays County and Central Texas",
+    "note": "Genus recognition focused on documented local C. vialis. Do not assume every trait below is invariant across all Calyptocarpus taxa worldwide."
+  },
+  "look_here_first": "Small opposite, shallow-toothed leaves on prostrate branches; tiny yellow composite heads nearly sessile in leaf axils. Confirm actual ray + disc florets and green overlapping phyllaries; mature fruits bear conspicuous awns.",
+  "shared_genus_recognition": {
+    "shared_traits": [
+      "Asteraceae: inflorescence is a compact HEAD of many tiny florets, not one ordinary flower.",
+      "Plants typically small and spreading/procumbent; leaves opposite, petiolate, shallowly toothed.",
+      "Tiny axillary yellow-rayed heads, often on very short stalks.",
+      "Dry one-seeded cypselae bear prominent awns of the pappus; close-up is more dependable than flower color alone."
+    ],
+    "caution": "Specific head dimensions, leaf length and pappus counts here are documented primarily for C. vialis in Central Texas; check other Calyptocarpus species with a flora before assigning exact measurements."
+  },
+  "study_strategy": {
+    "look_here_first": "Follow the shoot to a node: leaf pair → axillary capitulum → phyllaries beneath head → mature awned cypsela.",
+    "shared_traits": [
+      "Small opposite petiolate leaves with toothed margins and low, often creeping branch architecture.",
+      "Axillary composite flower heads with short yellow ray florets and yellow disc florets.",
+      "Green involucral phyllaries surrounding head and mature cypsela with barbed pappus awns."
+    ],
+    "priority": [
+      "01 Habit: prostrate or low ascending, with creeping branches through turf.",
+      "02 Node: opposite paired leaves, short petioles, shallow teeth and small leaf veins.",
+      "03 Head: find a yellow ray-and-disc capitulum nestled in the leaf axil (not an elongate frogfruit button).",
+      "04 Confirm: magnify phyllaries beneath the head and barbed awns of a mature cypsela.",
+      "05 Look-alike check: distinguish low unrelated mats and coarser yellow Asteraceae."
+    ],
+    "warning": "A tiny yellow flower is not enough. Many plants creep or have opposite leaves; check the actual composite head and its axillary placement. Three-angled cypselae are variable, so never make three angles a mandatory character."
+  },
+  "genus_diagnostics": {
+    "habit": "C. vialis is a low perennial branching/procumbent or prostrate herb with short strigose hairs.",
+    "leaf_arrangement": "Opposite, often decussate, simple, petiolate and shallowly toothed.",
+    "inflorescence": "Capitulum, typically solitary, axillary, short-peduncled to subsessile; yellow outer ray florets and yellow inner disc florets.",
+    "phyllaries": "Small overlapping involucral bracts (approximately four to six reported in local detailed treatment).",
+    "fruit": "Dry flattened cypselae typically with two conspicuous barbed pappus awns, with smaller supplemental awns possible."
+  },
+  "quick_key": [
+    {
+      "if": "Tiny flowers packed into a button or short cylinder, conspicuously raised on a naked stalk",
+      "then": "Phyla nodiflora (frogfruit), Verbenaceae"
+    },
+    {
+      "if": "Kidney/coin-shaped entire leaf blades; no yellow ray-and-disc composite head",
+      "then": "Dichondra carolinensis (Carolina ponyfoot), Convolvulaceae"
+    },
+    {
+      "if": "Small white-rayed composite head with slender opposite leaves, especially damp sites",
+      "then": "Eclipta prostrata (false daisy), Asteraceae"
+    },
+    {
+      "if": "Larger yellow/orange heads on long stalks, coarser rough foliage and taller perennial stems",
+      "then": "Wedelia acapulcensis (hairy wedelia), Asteraceae"
+    },
+    {
+      "if": "Tiny yellow heads crowded in leaf axils, low mat; opposite small toothed leaves and barbed cypsela awns",
+      "then": "Calyptocarpus vialis (straggler daisy)"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Straggler daisy vs frogfruit",
+      "look_here_first": "Compare the FLOWER HEAD first: tiny yellow ray-and-disc capitulum vs dense pale button of individual verbena-type flowers.",
+      "field_matrix": [
+        {
+          "character": "Leaf arrangement",
+          "straggler_daisy": "Opposite, toothed",
+          "frogfruit": "Opposite, toothed",
+          "strength": "shared; not sufficient"
+        },
+        {
+          "character": "Inflorescence",
+          "straggler_daisy": "Yellow ray + tubular disc florets in tiny daisy-like head",
+          "frogfruit": "Numerous small whitish/lavender flowers densely packed into a button/cylinder",
+          "strength": "high"
+        },
+        {
+          "character": "Head stalk",
+          "straggler_daisy": "Almost stalkless in leaf axil",
+          "frogfruit": "Longer, naked peduncle from axil",
+          "strength": "high when flowering"
+        }
+      ],
+      "caution": "Without flowers, examine a full mature shoot and several leaves; do not force species ID from a single damaged leaf."
+    },
+    {
+      "title": "Straggler daisy vs Carolina ponyfoot",
+      "look_here_first": "Read the leaves: two opposite toothed leaves vs alternate, round/kidney-shaped entire leaves on conspicuous petioles.",
+      "field_matrix": [
+        {
+          "character": "Leaves",
+          "straggler_daisy": "Ovate-to-triangular, shallow teeth, opposite",
+          "ponyfoot": "Reniform (kidney) or round, smooth margin, alternate",
+          "strength": "high even before flowering"
+        },
+        {
+          "character": "Flowers",
+          "straggler_daisy": "Tiny yellow composite heads",
+          "ponyfoot": "Tiny whitish/greenish, non-composite flowers",
+          "strength": "high"
+        }
+      ]
+    },
+    {
+      "title": "Straggler daisy vs false daisy (Eclipta)",
+      "look_here_first": "Both have opposite foliage and small composite heads; check WHITE vs YELLOW rays, leaf blade shape and wet-ground association.",
+      "field_matrix": [
+        {
+          "character": "Leaf blade",
+          "straggler_daisy": "Small ovate/deltate",
+          "eclipta": "Usually longer, narrower, lanceolate",
+          "strength": "moderate; size variable"
+        },
+        {
+          "character": "Ray flowers",
+          "straggler_daisy": "Short yellow rays",
+          "eclipta": "Many short white rays",
+          "strength": "high when flowering"
+        },
+        {
+          "character": "Habitat",
+          "straggler_daisy": "Often drier lawn edges and general disturbed ground",
+          "eclipta": "Often wet beds and ditches",
+          "strength": "supporting"
+        }
+      ]
+    },
+    {
+      "title": "Straggler daisy vs hairy wedelia",
+      "look_here_first": "Do not rely on yellow. Compare actual HEAD SIZE, length of flower stalk and mature growth habit.",
+      "field_matrix": [
+        {
+          "character": "Flowers",
+          "straggler_daisy": "Tiny ~4–8 mm heads, nearly sessile",
+          "wedelia": "Conspicuous larger golden-yellow/orange daisy heads on long peduncles",
+          "strength": "high"
+        },
+        {
+          "character": "Stems",
+          "straggler_daisy": "Fine-textured spreading herb",
+          "wedelia": "Coarser perennial/subshrub often woody at base",
+          "strength": "high except repeatedly mowed juvenile material"
+        }
+      ]
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "Shoot with opposite leaf pairs and short-toothed blades",
+      "status": "PENDING actual pixel-certified anatomy"
+    },
+    {
+      "priority": "critical",
+      "role": "Axillary yellow capitulum face and side view with neighboring leaf node",
+      "status": "PENDING actual pixel-certified anatomy"
+    },
+    {
+      "priority": "critical",
+      "role": "Green phyllaries beneath head (side/underside) with scale",
+      "status": "MISSING verified macro"
+    },
+    {
+      "priority": "critical",
+      "role": "Mature cypsela with pappus awns and mm scale",
+      "status": "MISSING verified macro"
+    },
+    {
+      "priority": "high",
+      "role": "Matched side-by-side photo of Calyptocarpus vs Phyla vs Eclipta",
+      "status": "MISSING approved public-web matched photos"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Kew Plants of the World Online",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:188166-1",
+      "for": "accepted species name and synonyms"
+    },
+    {
+      "title": "University of Texas Plant Resources Center — Calyptocarpus vialis",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Calyptocarpus%20vialis.html",
+      "for": "Central Texas stem/leaf/head/fruit morphology"
+    },
+    {
+      "title": "Flora of North America — Calyptocarpus vialis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220002216",
+      "for": "taxonomic treatment, distribution and anatomy"
+    },
+    {
+      "title": "University of Texas Plant Resources Center — Dichondra carolinensis",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Dichondra%20carolinensis.html",
+      "for": "ponyfoot comparison"
+    },
+    {
+      "title": "University of Texas Plant Resources Center — Eclipta prostrata",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Eclipta%20prostrata.html",
+      "for": "false daisy comparison"
+    }
+  ],
+  "curation_status": {
+    "created": "2026-10-19",
+    "source_reviewed": true,
+    "comparison_text_reviewed": true,
+    "macro_photos_complete": false,
+    "visual_reviewed": false,
+    "status": "PASS_IN_PROGRESS",
+    "note": "Text/photo plan vetted, but no arrow positions or anatomical source images have been independently certified."
+  }
+}

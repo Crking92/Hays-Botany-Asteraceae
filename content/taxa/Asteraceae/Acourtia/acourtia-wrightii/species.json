@@ -1,0 +1,77 @@
+{
+  "id": "acourtia-wrightii",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Acourtia",
+  "species": "wrightii",
+  "scientific_name": "Acourtia wrightii",
+  "authority": "(A.Gray) Reveal & R.M.King",
+  "common_name": "Brownfoot",
+  "synonyms": [
+    "Perezia wrightii"
+  ],
+  "look_here_first": "Inspect alternate cauline toothed leaves on tall branched stems, then a rayless head with 8–12 florets and blunt to shortly acute phyllaries. Unlike A. runcinata, the leaves are not a deeply lobed basal rosette.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas state-native; no verified three-county project PASS."
+  },
+  "morphology_keys": {
+    "leaves": "Alternate cauline elliptic/lanceolate leaves, dentate margins, sometimes clasping.",
+    "heads": "Clustered rayless heads, generally 8–12 disk florets; phyllaries blunt to shortly acute.",
+    "habit": "Branched leafy perennial, usually 30–150 cm; brown woolly basal hairs possible."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Acourtia runcinata",
+      "Acourtia microcephala"
+    ],
+    "key_distinctions": "A. runcinata has basal deeply pinnately lobed leaves and leafless scapes with 25–53 florets/head. A. microcephala has sharper spinulose leaf teeth and more pointed/mucronate phyllaries; head counts overlap."
+  },
+  "images": [
+    {
+      "file": "images/acourtia-wrightii-inflorescence.jpg",
+      "role": "Clustered rayless heads",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acourtia_wrightii_inflorescence.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/acourtia-wrightii-phyllaries.jpg",
+      "role": "Involucral bract tip macro",
+      "creator": "Matt Berger",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acourtia_wrightii_involucral_bracts.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/acourtia-wrightii-leaf.jpg",
+      "role": "Cauline leaf macro",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acourtia_wrightii_leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

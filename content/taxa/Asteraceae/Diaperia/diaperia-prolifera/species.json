@@ -1,0 +1,36 @@
+{
+  "id": "diaperia-prolifera",
+  "family": "Asteraceae",
+  "genus": "Diaperia",
+  "species": "prolifera",
+  "scientific_name": "Diaperia prolifera",
+  "common_name": "flathead rabbit tobacco",
+  "look_here_first": "Look at the small woolly plant with tightly clustered composite heads; compare the branching head clusters and phyllaries with other Diaperia.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Diaperia%20prolifera",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/inat-369879187.jpeg",
+      "role": "Provisional species recognition view; do not certify diagnostic anatomy",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/369879187",
+      "study_use": "Private noncommercial botanical learner",
+      "public_reuse": "CC BY-NC license restricts commercial reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,14 @@
+Fleischmannia incarnata — pink thoroughwort — visual install 2026-10-13
+SOURCE POOL: Master Plant Pool row 477, personal iNaturalist and Personal List, five wild observations, source count 2; approved under source pool rule.
+RANGE: UNRESOLVED for 3-county native PASS; species occurs in Texas under FNA/NPSOT but BONAP/NAPA 3 target counties not independently verified.
+TAXONOMY: FNA accepted species https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066778
+GENUS: FNA https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=112863
+NPSOT: https://www.npsot.org/posts/native-plant/fleischmannia-incarnata/
+PHOTO 01: Cornus33, CC BY-SA 3.0, Arkansas 2011, https://commons.wikimedia.org/wiki/File:Fleischmannia_incarnata_Arkansas_2011.jpg ; source photo illustrates toothed opposite leaves and weakly spreading herbaceous habit.
+PHOTO 02: Melissa McMasters, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354155044).jpg ; airy tall flower structure and habit.
+PHOTO 03: Melissa McMasters, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354616404).jpg ; leafy lateral flowering shoot.
+PHOTO 04: Melissa McMasters, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24891460281).jpg ; loose lilac-pink terminal cluster.
+Licensing: retain creator, exact source, license/version, attribution. Cropping/arrow overlays are derivatives; maintain CC BY-SA conditions for 01 and indicate modifications.
+Visual review: browser-rendered Commons previews inspected 2026-10-13; photos are exact named taxon and useful, but NO selected photo has a ruler-scale isolated flower-head side macro showing bract-series count. Do not claim this difference is visually resolved by current 4-photo set.
+COMPARISONS: fragrant mistflower (Chromolaena odorata) longer layered involucres; blue mistflower (Conoclinium coelestinum) numerous florets and conic receptacle. Detailed draft research-drafts/fleischmannia-incarnata.json.
+PENDING FINAL POLISH: true involucre side macros with mm scale + exact arrows; stripped receptacle comparison; mature cypsela/carpopodium.

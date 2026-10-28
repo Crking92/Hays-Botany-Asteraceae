@@ -1,0 +1,122 @@
+{
+  "id": "silphium-radula",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Silphium",
+  "species": "radula",
+  "scientific_name": "Silphium radula",
+  "authority": "Nutt.",
+  "common_name": "Roughstem Rosinweed / Tall Rosinweed",
+  "look_here_first": "Start with texture and leaf arrangement. Roughstem rosinweed is a perennial with very rough, sandpapery leaves and stems, broad sessile leaves, and yellow sunflower-like heads. Use the coarse scabrous surface plus stem-leaf arrangement and peduncle length to separate it from nearby Silphium concepts.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — project Master Plant Pool has a wild observation and Hays-local flag for S. radula. Williamson — dedicated county treatment documents S. radula. Kerr — Kerr WMA vascular-flora publication explicitly lists S. radula in Edwards Plateau vegetation.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb",
+      "several stems from base",
+      "stems and leaves conspicuously rough/scabrous",
+      "broad sessile leaves",
+      "leaves may be opposite below and alternate above",
+      "yellow radiate heads",
+      "heads relatively close to leafy upper stems compared with longer-peduncled relatives",
+      "foliage aromatic/resinous when crushed"
+    ],
+    "comparison_training": "Compared with S. laciniatum, leaves are broad rather than deeply pinnatifid. Compared with S. integrifolium sensu stricto, S. radula is typically rougher/hairier and may show mixed opposite/alternate leaf arrangement."
+  },
+  "curation_status": {
+    "version": "1.0-b064+b129-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_visual_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — licensed exact-species Wikimedia first",
+    "target_count": "about 3 when practical",
+    "visual_priority": "flowering habit + broad rough sessile leaves + close texture/leaf attachment",
+    "current_gap": "One licensed exact-species field image installed now to close the zero-photo hole. Add Texas habit/leaf closeups later without reopening B064 science."
+  },
+  "images": [
+    {
+      "file": "images/01-flowering-habit.jpg",
+      "role": "flowering habit / leaves / yellow heads",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_radula_Arkansas.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-99939844.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99939844",
+      "observation_url": "https://www.inaturalist.org/observations/62380517",
+      "observation_id": "62380517",
+      "photo_id": "99939844",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99939844/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-99939856.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99939856",
+      "observation_url": "https://www.inaturalist.org/observations/62380517",
+      "observation_id": "62380517",
+      "photo_id": "99939856",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99939856/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "One exact-species CC BY-SA 4.0 field image is installed. Additional exact-species Texas Commons files are known, but their individual creator/license records were not cleanly locked during this fast-fill pass; do not add them without complete provenance."
+  },
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

@@ -1,0 +1,158 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Berlandiera",
+  "project_scope": {
+    "source_pool_species": [
+      "Berlandiera betonicifolia",
+      "Berlandiera lyrata"
+    ],
+    "canonical_species_ids": [],
+    "taxonomy_hold": "B. betonicifolia may be treated as a hybrid or under B. texana; verify before species installation."
+  },
+  "look_here_first": "Compare mature leaves and stem leafiness, then turn a composite head sideways to see the broad overlapping phyllaries.",
+  "shared_genus_traits": [
+    "Composite heads with yellow ray florets, dark disk florets and conspicuous phyllaries.",
+    "Perennial herbs with alternate leaves; shapes vary by species."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Leaves",
+      "betonicifolia": "Broad toothed triangular-ovate leaves on erect leafy stems.",
+      "lyrata": "Often lyrate basal leaves with smaller lateral lobes.",
+      "how_to_check": "Photograph mature leaves and whole stem with scale."
+    },
+    {
+      "character": "Heads",
+      "betonicifolia": "Yellow rays, dark disk, broad phyllaries.",
+      "lyrata": "Yellow rays, dark disk, broad phyllaries.",
+      "how_to_check": "Same-scale head front and underside; genus clue not species separator."
+    }
+  ],
+  "genus_diagnostics": {
+    "shared_structure_examples": [
+      {
+        "term": "phyllaries",
+        "plain": "Green bracts under a flower head.",
+        "photo_role": "head underside macro",
+        "status": "needs_photo"
+      },
+      {
+        "term": "ray and disk florets",
+        "plain": "Many small flowers compose one head.",
+        "photo_role": "flower head front macro",
+        "status": "needs_photo"
+      },
+      {
+        "term": "lyrate leaf",
+        "plain": "One large end lobe and smaller side lobes.",
+        "photo_role": "mature leaf and node with ruler",
+        "status": "needs_photo"
+      },
+      {
+        "term": "cypsela",
+        "plain": "A small dry fruit produced by one floret of the composite head.",
+        "photo_role": "mature disk-head fruit macro with scale",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "study_strategy": {
+    "teaching_order": [
+      "Whole plant",
+      "Mature leaf shape",
+      "Flower head underside",
+      "Mature fruit"
+    ],
+    "warning": "B. betonicifolia concept unresolved; do not certify native status.",
+    "look_here_first": [
+      "Find a whole flowering shoot and distinguish basal from stem leaves.",
+      "Compare mature leaf lobes, teeth and petiole at matched scale.",
+      "Turn a flower head sideways to inspect overlapping phyllaries; separate ray from disk florets.",
+      "Inspect mature cypselae before finalizing a difficult specimen."
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "B. betonicifolia versus B. lyrata",
+      "taxon_ids": [
+        "berlandiera-betonicifolia",
+        "berlandiera-lyrata"
+      ],
+      "look_here_first": "Compare broad toothed stem leaves versus often lyrate basal leaves.",
+      "photo_requirements": [
+        "matched whole shoots",
+        "matched leaves",
+        "matched head undersides"
+      ],
+      "caution": "Taxonomy of B. betonicifolia requires review."
+    },
+    {
+      "title": "Berlandiera versus similar yellow-headed asters",
+      "look_here_first": "Look below the head at phyllaries, compare leaf arrangement and division, then inspect mature fruits; yellow rays alone do not establish genus.",
+      "caution": "Do not use chocolate scent or disk color as a decisive character; exact local look-alike keys need botanical review."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched leaf morphology",
+      "status": "needs_photo"
+    },
+    {
+      "role": "head underside phyllaries",
+      "status": "needs_photo"
+    },
+    {
+      "role": "mature fruit",
+      "status": "needs_photo"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Resolve betonicifolia ×betonicifolia/texana concept."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire rights-cleared exact-taxon diagnostic views."
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-photo-role-anatomy-handoff",
+    "last_reviewed": "2026-10-14",
+    "visual_status": "four specific structural lessons, no verified installed species photos; taxonomy hold retained"
+  },
+  "visual_comparison": {
+    "part_examples": [
+      {
+        "title": "1 · Basal and stem leaves",
+        "role": "matched complete leaf plus attachment",
+        "look_for": "B. lyrata may show a larger end lobe with smaller lateral lobes (lyrate); compare with toothed broad leaves in the unresolved B. betonicifolia concept.",
+        "why_it_matters": "Leaf division is more useful than shared yellow rays.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "2 · Ray and disk florets",
+        "role": "flower head front macro",
+        "look_for": "Outer ray florets and central disk florets are separate flowers in one composite head.",
+        "why_it_matters": "Teaches the Asteraceae architecture shared by both source concepts.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "3 · Phyllaries beneath the head",
+        "role": "head underside macro",
+        "look_for": "Turn the flower head sideways and locate the overlapping green bracts (phyllaries).",
+        "why_it_matters": "A structural genus clue and a safeguard against flower-color identification.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "4 · Mature cypselae",
+        "role": "dry fruit macro with millimeter scale",
+        "look_for": "Photograph mature dry fruits from the head; verify shape and pappus before labeling.",
+        "why_it_matters": "Adds a reproductive character for future diagnostic confirmation.",
+        "status": "needs_photo"
+      }
+    ],
+    "status_note": "Neither source-pool species has a canonical installed gallery. No image was claimed installed or anatomically verified. Rights-cleared exact-taxon images and arrow placement belong to Diagnostic Photo Polish."
+  }
+}

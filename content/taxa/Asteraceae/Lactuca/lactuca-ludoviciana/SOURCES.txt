@@ -1,0 +1,9 @@
+Master Pool Phase3 preflight; source rows 612.
+Accepted-name reference https://powo.science.kew.org/results?q=Lactuca%20ludoviciana
+Species-specific photograph: https://commons.wikimedia.org/wiki/File:Lactuca_ludoviciana_04.jpg
+Download exact original (Commons redirect, width-constrained by existing curation installer): https://commons.wikimedia.org/wiki/Special:Redirect/file/Lactuca%20ludoviciana%2004.jpg
+Creator David Peden (wafflemaster135)
+Photo license CC0 1.0
+Visible photo role Provisional photo of western wild lettuce leaf detail; flowers and mature pappus fruits not shown.
+Photo/review caveat Photo on Galveston Island, Texas, licensed CC0 by iNaturalist observer; original photo ID 189614410.
+No BONAP county nativity label assigned by this batch; image locality does not prove native distribution. Preserve any independent nativity HOLDs.

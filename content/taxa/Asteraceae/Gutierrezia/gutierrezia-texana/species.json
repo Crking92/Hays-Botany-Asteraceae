@@ -1,0 +1,251 @@
+{
+  "id": "gutierrezia-texana",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Gutierrezia",
+  "species": "texana",
+  "scientific_name": "Gutierrezia texana",
+  "authority": "(DC.) Torr. & A.Gray",
+  "common_name": "Texas snakeweed / Texas broomweed",
+  "synonyms": [
+    "Hemiachyris texana DC.",
+    "Xanthocephalum texanum (DC.) Shinners"
+  ],
+  "look_here_first": "Start with an open, wispy annual, heads at several heights, and yellow RAY + DISC florets. For the dangerous Amphiachyris amoena lookalike, inspect SIDE/BACK of phyllaries for possible green nerve borders and especially the tiny DISC-pappus scales. Habit and flower color alone cannot confirm.",
+  "morphology_keys": {
+    "life_cycle": "Annual, herbaceous single taprooted base; not a woody perennial.",
+    "habit": "10–80(–100) cm, open paniculiform heads at varying heights and wiry photosynthetic branches.",
+    "stems": "Green resinous slender glabrous, often angled; lower leaves reduced by flowering.",
+    "leaves": "Alternate very narrow, simple, often sessile, resin-gland dotted, reduced distally.",
+    "flowers": "Small radiate yellow heads, ray florets around disc florets. FNA species 5–23 rays and 7–48 discs; local variety often about 6–8 rays and 8–13 discs.",
+    "phyllaries": "Small overlapping bracts under head; a narrow green nerve border may be visible, but this is VARIABLE and not definitive.",
+    "pappus": "Very short scales or effectively absent in local var. texana; Amphiachyris typically has longer conspicuous disc-floret scales. Macro needed.",
+    "fruit": "Minute hairy cypsela; retain adult ray-vs-disc assignment before comparing pappus.",
+    "best_field_traits": [
+      "Open, wispy annual rather than woody-based subshrub",
+      "Heads at different branching levels",
+      "Yellow rays and discs; small green resinous branches",
+      "Possible green phyllary nerve borders",
+      "Extremely short disc pappus"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Amphiachyris amoena",
+      "Amphiachyris dracunculoides",
+      "Gutierrezia sarothrae",
+      "Gutierrezia microcephala"
+    ],
+    "key_distinctions": "A. amoena can also show open arrays. G. texana var. texana has very short/absent disc pappus scales and sometimes a green nerve border on phyllaries; Amphiachyris disc pappus is conspicuous and phyllaries lack the green nerve border. A. dracunculoides is usually more corymbiform. Perennial snakeweed species have woody bases."
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_SOURCE_POOL",
+    "master_pool_row": 525,
+    "approved_sources": [
+      "My iNaturalist Flora",
+      "Hays County Natives"
+    ],
+    "inaturalist_personal_wild_observations": 8,
+    "inaturalist_taxon_id": "163445",
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Accepted Texas native at Kew; Hays local source. No BONAP/NAPA evidence of 3 project counties fully checked.",
+    "native_metrics_excluded": true
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "taxonomic_scope_note": "Kew accepts G. texana and two varieties, var. texana and var. glutinosa; do not assume all species-level observations are variety-confirmed. Do not substitute var. glutinosa Commons photos for local texana variety.",
+  "diagnostic_image_needs": [
+    "An entire plant with rooted base",
+    "Flower HEAD back with actual phyllary nerve color, mm ruler",
+    "G. texana vs Amphiachyris DISC pappus with mm scale",
+    "One mature cypsela close-up",
+    "Matched whole plant flowering arrangement",
+    "License-verified G. texana phyllary BACK macro with visibly green/borderless variation",
+    "License-verified G. texana mature DISC cypsela very short pappus macro with 1-mm scale; existing McDaniel photos external study only"
+  ],
+  "sources": [
+    {
+      "label": "Kew POWO accepted species",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:210880-1"
+    },
+    {
+      "label": "Flora of North America genus key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114211"
+    },
+    {
+      "label": "Flora of North America G. texana",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416610"
+    },
+    {
+      "label": "UT Austin var. texana regional morphology",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Gutierrezia%20texana%20texana.html"
+    },
+    {
+      "label": "Central Texas lookalike study",
+      "url": "https://www.inaturalist.org/journal/rymcdaniel/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas"
+    },
+    {
+      "label": "Uvalde County original photos",
+      "url": "https://backyardnature.net/n/h/gut-tex.htm"
+    },
+    {
+      "label": "Jim Conrad copyright dedication",
+      "url": "https://www.backyardnature.net/j/copyrite.htm"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-uvalde-flowering-canopy.jpg",
+      "role": "Uvalde County Texas snakeweed flowering branches and radiate heads at many levels; open annual architecture",
+      "creator": "Jim Conrad",
+      "license": "Public domain — original photographer Jim Conrad",
+      "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+      "study_use": "yes",
+      "public_reuse": "public-domain"
+    },
+    {
+      "file": "images/02-uvalde-composite-head.jpg",
+      "role": "Texas snakeweed close radiate composite head: strap-shaped yellow ray florets and central disc florets, exact Uvalde specimen",
+      "creator": "Jim Conrad",
+      "license": "Public domain — original photographer Jim Conrad",
+      "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+      "study_use": "yes",
+      "public_reuse": "public-domain"
+    },
+    {
+      "file": "images/joey-inat-332571417.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332571417",
+      "observation_url": "https://www.inaturalist.org/observations/189791015",
+      "observation_id": "189791015",
+      "photo_id": "332571417",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332571417/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Real Texas snakeweed flowering architecture and tiny composite heads",
+    "subtitle": "Public-domain Uvalde plant; microscopic phyllary and disc pappus comparison still outstanding.",
+    "items": [
+      {
+        "label": "TEXAS SNAKEWEED · OPEN FLOWERING CANOPY",
+        "scientific_name": "Gutierrezia texana",
+        "image_url": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/01-uvalde-flowering-canopy.jpg",
+        "image_fit": "contain",
+        "image_role": "Uvalde County Texas snakeweed flowering branches and radiate heads at many levels; open annual architecture",
+        "caption": "Original 2012 Uvalde County plant. Look at flowering heads on different levels of fine stems; this alone does not distinguish it from Amphiachyris amoena.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — original photographer Jim Conrad",
+        "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+        "markers": [
+          {
+            "label": "yellow radiate head",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 30,
+            "target_y": 24
+          },
+          {
+            "label": "thin green stem",
+            "label_x": 70,
+            "label_y": 79,
+            "target_x": 53,
+            "target_y": 57
+          }
+        ],
+        "annotation_status": "Large visible target arrows only; final mobile QA pending"
+      },
+      {
+        "label": "RAY VERSUS DISC FLORETS",
+        "scientific_name": "Gutierrezia texana",
+        "image_url": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/02-uvalde-composite-head.jpg",
+        "image_fit": "contain",
+        "image_role": "Texas snakeweed close radiate composite head: strap-shaped yellow ray florets and central disc florets, exact Uvalde specimen",
+        "caption": "One composite head: long-looking yellow rays surround the much smaller central disc florets. Do not use this photo to claim pappus or phyllary nerve anatomy.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — original photographer Jim Conrad",
+        "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+        "markers": [
+          {
+            "label": "yellow ray floret",
+            "label_x": 92,
+            "label_y": 40,
+            "target_x": 80,
+            "target_y": 52
+          },
+          {
+            "label": "central disc florets",
+            "label_x": 6,
+            "label_y": 12,
+            "target_x": 50,
+            "target_y": 55
+          }
+        ],
+        "annotation_status": "Large visible florets only; tiny pappus not labeled"
+      }
+    ]
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "version": "1.0-snakeweed-intro",
+    "last_reviewed": "2026-10-12",
+    "range_status": "UNRESOLVED",
+    "visual_status": "Two original Uvalde real photos; final visual-comparison macros missing",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "arrow_annotations": 4,
+    "last_macro_reference_check": "2026-10-12 — exact macro source photos linked, not installed pending reuse permission",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "exact_macro_study_references": {
+    "status": "link-only; photographer's exact reuse license unverified, no binaries installed from this set",
+    "phyllary": {
+      "photo_id": "55859654",
+      "direct_reference": "https://static.inaturalist.org/photos/55859654/large.jpeg",
+      "how_to_read": "Narrow green stripe near phyllary nerve may be visible. Also inspect tip; stripe absent on some true G. texana. Do not use alone."
+    },
+    "pappus_cypselae": [
+      {
+        "photo_id": "53439762",
+        "direct_reference": "https://static.inaturalist.org/photos/53439762/large.jpeg",
+        "how_to_read": "Side view white very short crowns on darkening cypselae"
+      },
+      {
+        "photo_id": "53439779",
+        "direct_reference": "https://static.inaturalist.org/photos/53439779/large.jpeg",
+        "how_to_read": "Overhead view of short white pappus crowns; no mm scale, not measured"
+      }
+    ],
+    "disc_style": {
+      "photo_id": "56437268",
+      "direct_reference": "https://static.inaturalist.org/photos/56437268/large.jpeg",
+      "how_to_read": "Looped/long exposed disc style branches; stage-dependent supporting character"
+    },
+    "guide": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+    "photographer": "Ryan McDaniel",
+    "license": "unverified — permission or individual CC terms required for local copying"
+  }
+}

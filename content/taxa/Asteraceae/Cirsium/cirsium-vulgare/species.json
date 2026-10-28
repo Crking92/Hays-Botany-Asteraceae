@@ -1,0 +1,135 @@
+{
+  "id": "cirsium-vulgare",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "species": "vulgare",
+  "scientific_name": "Cirsium vulgare",
+  "authority": "(Savi) Ten.",
+  "common_name": "Bull thistle",
+  "taxonomic_note": "Accepted species. Native to Europe, western/central Asia, and northwestern Africa; introduced in North America including Texas.",
+  "look_here_first": "Inspect the UPPER (adaxial) surface of a mature leaf with a hand lens. Bull thistle has numerous short appressed BRISTLELIKE SPINES projecting from the BLADE, not only spines at the margins. Also check the strongly decurrent leaf bases forming long spiny stem wings. This combination is more secure than purple heads, overall spines or winged stems alone. Introduced, never count as native.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew POWO lists the native range outside North America. Central Texas records are introduced/naturalized, not native.",
+    "range_guardrail": "Naturalized wild occurrence does not count as native county evidence.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Short appressed bristlelike SPINES on the upper leaf BLADE itself.",
+      "Decurrent middle/upper leaf bases running down stem into prominent spiny wings.",
+      "Biennial: rosette in first year, elongated flower stalk usually second year.",
+      "Involucre often 30–40 mm with spreading phyllary tips; purple head not diagnostic.",
+      "Compare native C. horridulum's EXTRA spiny ring below every head; other natives may have some winged stems."
+    ],
+    "comparison_training": "Use the winged spiny stem as the fastest split from most native Central Texas Cirsium. Do not confuse wild naturalization with native status."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cirsium horridulum",
+      "Cirsium texanum",
+      "Cirsium ochrocentrum"
+    ],
+    "key_distinctions": "Adaxial leaf-face bristle-spines plus long continuous spiny stem wings support introduced C. vulgare. C. horridulum has a head-specific under-head spiny bract collar. Some native C. ochrocentrum may have spiny decurrent stem wings; wings alone insufficient."
+  },
+  "curation_status": {
+    "version": "2.0-adaxial-spines-review",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 4,
+    "photo_files_present": 1,
+    "scientific_FAIL_preserved": true,
+    "photo_verified_spiny_stem": true,
+    "latest_visual_polish": "ada xial leaf photo 5mm scale, license verified"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/cirsium-vulgare-provisional-face.jpg",
+      "role": "Flowering head recognizable face",
+      "creator": "Grunpfnul",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:SO_-_Cirsium_vulgare.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cirsium%20vulgare%20sl25.jpg",
+      "role": "EXACT photo: spiny leaf-base wing running down the stem; 20 mm reference scale shown in source photograph",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_sl25.jpg",
+      "photo_status": "LICENSED_EXACT_SPECIES_REMOTE_REFERENCE_NOT_PHYSICAL",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA 4.0 with attribution/share-alike",
+      "source_region": "Austria; no Central Texas occurrence claim",
+      "feature_verification": "Actual leaf-base spiny tissue descends down central stem; 20mm scale at bottom. Does not show separate short adaxial leaf BLADE spines clearly."
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cirsium%20vulgare%2C%20Speerdistel%20bladrozet%20closeup.jpg",
+      "role": "First-year rosette photographed in September, with deeply divided spine-edged blades; introductory FALL field stage, not verified upper-blade bristle-spine macro",
+      "creator": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare,_Speerdistel_bladrozet_closeup.jpg",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA 3.0, attribution and share alike",
+      "photo_status": "LICENSED_REMOTE_NOT_PHYSICAL",
+      "source_region": "Netherlands, 2008; no Hays County proof"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cirsium%20vulgare%20sl27.jpg",
+      "role": "DIAGNOSTIC MACRO: upper (adaxial) leaf side with short stiff spinelets emerging from the leaf surface, photographed with an original 5 mm scale bar",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_sl27.jpg",
+      "source_provenance": "Lower Austria, 23 Aug 2024; source itself explicitly identifies upper leaf surface",
+      "image_dimensions": "2436 x 2074 original",
+      "photo_status": "VERIFIED_LICENSE_AND_FEATURE; external Commons-linked, no local binary",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA attribution, derivative share-alike and change notice",
+      "diagnostic_note": "Actual rigid yellow-tan short spines visible on upper blade in source image, 5 mm scale at bottom; distinguish from marginal prickles."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Actual spiny WING running below leaf base along stem",
+      "status": "LICENSED PHOTO WITH SCALE FOUND, arrow ready",
+      "source": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_sl25.jpg"
+    },
+    {
+      "role": "Short stiff bristle-spines on UPPER LEAF BLADE",
+      "status": "FOUND: verified licensed CC BY-SA 4.0 upper-leaf surface macro with 5 mm scale; linked in learner",
+      "source": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_sl27.jpg"
+    }
+  ],
+  "autumn_field_photo_2026_10_12": "New real photo of early-season rosette shows prickly lobes. Leaf FACE bristle-spines must be checked in separate close-up; rosette photo alone cannot justify species ID.",
+  "photo_polish_2026_10_12": {
+    "high_confidence_feature": "Short appressed bristlelike spines ARISING ON adaxial leaf blade, not only spine-tipped lobes or leaf edges",
+    "image": "https://commons.wikimedia.org/wiki/File:Cirsium_vulgare_sl27.jpg",
+    "photo_license": "CC BY-SA 4.0",
+    "photographer": "Stefan.lefnaer",
+    "feature_visible": true,
+    "source_has_scale_bar": "5 mm",
+    "other_photos": "Spiny wing previously source-linked in species gallery; morphological overlap with native winged C. ochrocentrum means wing alone is not enough.",
+    "remaining": "Matched native thistle adaxial blade macro at same scale; first-year rosette series."
+  }
+}

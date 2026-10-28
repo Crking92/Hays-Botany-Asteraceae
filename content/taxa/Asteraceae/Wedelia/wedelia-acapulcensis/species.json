@@ -1,0 +1,36 @@
+{
+  "id": "wedelia-acapulcensis",
+  "family": "Asteraceae",
+  "genus": "Wedelia",
+  "species": "acapulcensis",
+  "scientific_name": "Wedelia acapulcensis",
+  "common_name": "Wedelia acapulcensis",
+  "look_here_first": "Examine toothed leaves, composite heads, involucral phyllaries, and achenes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Wedelia%20acapulcensis",
+  "images": [
+    {
+      "file": "images/inat-573480720.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Andrea Villarreal Rodríguez, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/573480720",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

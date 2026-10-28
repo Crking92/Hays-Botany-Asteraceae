@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Pyrrhopappus pauciflorus; Master Pool rows 945.
+POWO search https://powo.science.kew.org/results?q=Pyrrhopappus%20pauciflorus
+Exact photo source page https://commons.wikimedia.org/wiki/File:Pyrrhopappus_pauciflorus_seeds.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Pyrrhopappus%20pauciflorus%20seeds.jpg
+Photographer Amyls33
+License CC0 1.0
+Provisional photo role Provisional seed-bearing stage with conspicuous pappus, College Station TX; spring flower needed.
+Caution Seed-stage photograph only; not a proof of county nativity or entire diagnostic identification.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

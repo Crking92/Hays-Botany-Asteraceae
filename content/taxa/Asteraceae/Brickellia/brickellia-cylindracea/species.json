@@ -1,0 +1,135 @@
+{
+  "id": "brickellia-cylindracea",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "species": "cylindracea",
+  "scientific_name": "Brickellia cylindracea",
+  "authority": "A.Gray & Engelm.",
+  "common_name": "Gravelbar brickellbush",
+  "synonyms": [
+    "Coleosanthus cylindraceus",
+    "Brickellia cylindracea var. laxa"
+  ],
+  "taxonomic_note": "Accepted POWO/FNA species; Coleosanthus cylindraceus is a synonym. Do not infer varieties from species-only material.",
+  "look_here_first": "Examine paired nodes and the underside of a mature leaf: leaves often opposite or nearly opposite, densely pale-tomentose beneath and gland-dotted. Confirm on a head by checking layered phyllaries; the outer bracts are at most about half the inner length. Do not identify by stream-gravel habitat alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 157; taxonomy and diagnostics reviewed 2026-10-09",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas-native at state scale in POWO; no completed BONAP/NAPA-first three-target-county certification for this batch. Native-only metrics excluded."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Perennial woody-based shrub, often on gravel bars or rocky sites; habitat is supportive, not diagnostic.",
+    "leaves": "Leaves often opposite or subopposite, abaxial surface densely tomentose and gland-dotted; inspect intact nodes and both leaf faces.",
+    "flowers": "Discoid heads, typically 18–22 phyllaries in 5–7 series; involucres about 8–13 mm; outer phyllaries no more than half the inner length.",
+    "fruits": "Check mature cypsela pubescence; often hairy relative to usually glabrous B. dentata.",
+    "best_field_traits": [
+      "paired or nearly paired leaf nodes",
+      "densely tomentose, gland-dotted leaf undersides",
+      "outer phyllaries <= half inner length",
+      "mature cypsela hairs"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Brickellia dentata",
+      "Brickellia eupatorioides"
+    ],
+    "key_distinctions": "Brickellia dentata (alternate leaves, often coarsely toothed, mature cypselae usually glabrous); Brickellia eupatorioides (plumose or subplumose pappus; species complex with variable phyllotaxy); Brickellia lemmonii and B. conduplicata overlap in vegetative characters. Use head and fruit together."
+  },
+  "images": [
+    {
+      "file": "images/brickellia-cylindracea-overview.jpg",
+      "role": "Habit/flowering branch, provisional overview; does not replace scaled head and leaf underside macros",
+      "creator": "Reid Hardin",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Brickellia_cylindracea_444535771.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-332721017.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332721017",
+      "observation_url": "https://www.inaturalist.org/observations/189872433",
+      "observation_id": "189872433",
+      "photo_id": "332721017",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332721017/large.jpeg",
+      "image_dimensions": [
+        577,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-729747293.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/729747293",
+      "observation_url": "https://www.inaturalist.org/observations/397851299",
+      "observation_id": "397851299",
+      "photo_id": "729747293",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/729747293/large.jpg",
+      "image_dimensions": [
+        473,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "Leaf node and lower leaf face",
+      "target": "show phyllotaxy, gland dots, hair density with scale"
+    },
+    {
+      "priority": 1,
+      "role": "Mature head and fruit macro",
+      "target": "show phyllary proportions and pappus/cypsela hairs with mm scale"
+    }
+  ],
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_reviewed": false,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

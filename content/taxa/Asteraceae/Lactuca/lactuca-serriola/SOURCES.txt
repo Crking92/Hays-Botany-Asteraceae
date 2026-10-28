@@ -1,0 +1,5 @@
+Master Plant Pool row 613; approved installer preflight mass-05.
+Accepted taxon: Lactuca serriola L.; POWO https://powo.science.kew.org/ (accepted species; check synonyms in staged species.json). This is a learner-eligible introduced comparison species; native metrics excluded, existing FAIL_TARGET_ZONE preserved; no invasive designation inferred.
+Diagnostic image 1: Harry Rose, Lactuca serriola leaf2 (14446007100).jpg, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lactuca_serriola_leaf2_(14446007100).jpg — visually checked: underside leaf midrib bears a row of spines.
+Diagnostic image 2: Matt Lavin, Lactuca serriola (4971023995).jpg, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lactuca_serriola_(4971023995).jpg — visually checked: narrowly cylindrical heads and yellow ligulate florets.
+Both source files must be downloaded and checked by curation Action; source-page links and direct image URLs are separately recorded in image-sources.csv. Need additional close-up of clasping auricles and beaked cypsela; no annotation arrows approved.

@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Packera glabella; Master Pool rows 805.
+POWO search https://powo.science.kew.org/results?q=Packera%20glabella
+Exact photo source page https://commons.wikimedia.org/wiki/File:Packera_glabella_64282873.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Packera%20glabella%2064282873.jpg
+Photographer Austin Pursley
+License CC0 1.0
+Provisional photo role Provisional yellow-flowering plant recognition; phyllaries and basal leaves need macro photos.
+Caution Exact photo by Austin Pursley on iNaturalist, North Carolina; not a Texas county voucher.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

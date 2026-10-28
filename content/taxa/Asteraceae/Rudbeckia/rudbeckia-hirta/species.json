@@ -1,0 +1,102 @@
+{
+  "id": "rudbeckia-hirta",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
+  "scientific_name": "Rudbeckia hirta",
+  "authority": "L.",
+  "common_name": "Black-eyed Susan",
+  "project_tracker_diagnostic": "Hispid biennial/short-lived perennial with yellow rays surrounding a dark brown-purple hemispheric to ovoid disk; leaves and stems conspicuously rough-hairy.",
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — natural Purola flora lists R. hirta; Travis — UT herbarium index documents R. hirta; Williamson — dedicated county treatment documents R. hirta and notes var. pulcherrima if accepted.",
+    "range_guardrail": "Species-level canonical entry; accepted variety pulcherrima taught internally."
+  },
+  "morphology_keys": {
+    "life_cycle": "Biennial or short-lived perennial, sometimes flowering first year.",
+    "habit": "Coarse hispid herb.",
+    "leaves": "Variable; basal lanceolate to elliptic, stem leaves linear to ovate-lanceolate; rough-hairy.",
+    "heads": "Yellow rays around a dark purplish-brown hemispheric/ovoid disk.",
+    "phyllaries": "Herbaceous, hairy, spreading to reflexed.",
+    "best_field_traits": [
+      "dark central disk",
+      "yellow rays",
+      "very rough-hairy stems and leaves",
+      "long-peduncled heads"
+    ]
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — exact-species licensed iNaturalist/Commons set",
+    "target_count": 3,
+    "selection_logic": "Keep only exact Rudbeckia hirta / accepted local var. pulcherrima material with licenses that permit private/noncommercial study. Remove prior all-rights-reserved gallery rows.",
+    "visual_priority": "flower-head architecture + flowering habit + rough/hairy vegetative texture",
+    "remaining_polish": "Replace/add a tighter labeled trichome/leaf macro later if a clearly diagnostic licensed image is found."
+  },
+  "images": [
+    {
+      "file": "images/01-flower-head.jpg",
+      "role": "Look closer · bright yellow ray florets surrounding a dark raised dome of disk florets; hairs visible on flower stalk, basal leaves not shown",
+      "creator": "ankakay",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1318431",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-pulcherrima-flowering.jpg",
+      "role": "Recognize · yellow-rayed, dark-coned flowerheads on upright green stems with narrow foliage in background; not proof of leaf-base attachment",
+      "creator": "Brady Reed",
+      "license": "CC0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_hirta_pulcherrima_7861779.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-field-reference.jpg",
+      "role": "Look closer · two yellow-rayed heads with dark raised purple-brown disks and fine hairs on flower stalks; lower leaf hair and clasping state not shown",
+      "creator": "germangirl",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/taxa/62741",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-b060+b128-fast-fill",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "range_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_visual_reviewed": "2026-10-05"
+  },
+  "taxonomic_note": "Current Kew accepts Rudbeckia hirta with four varieties, including var. pulcherrima. Williamson County treats local plants as R. hirta (var. pulcherrima if accepted); the project keeps the stable species-level canonical entry and teaches var. pulcherrima as the likely/local infraspecific concept rather than creating a duplicate species.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "look_here_first": "Start with texture: black-eyed Susan is conspicuously rough-hairy on stems and leaves. Then confirm yellow rays around a dark brown-purple raised disk. Unlike R. amplexicaulis, its leaves do not clasp the stem.",
+  "infraspecific_lesson": {
+    "Rudbeckia hirta var. pulcherrima": "Accepted by current Kew and explicitly noted as the likely/local variety in the Williamson County treatment; taught within the species-level learner."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rudbeckia amplexicaulis",
+      "Rudbeckia maxima"
+    ],
+    "key_distinctions": "R. hirta = rough/hispid non-clasping leaves; R. amplexicaulis = smoother clasping leaves; R. maxima = giant East Texas perennial with enormous glaucous basal leaves."
+  },
+  "synonyms": [
+    "Rudbeckia hirta var. pulcherrima"
+  ]
+}

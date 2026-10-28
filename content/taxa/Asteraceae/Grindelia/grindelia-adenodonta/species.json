@@ -1,0 +1,102 @@
+{
+  "id": "grindelia-adenodonta",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "species": "adenodonta",
+  "scientific_name": "Grindelia adenodonta",
+  "authority": "(Steyerm.) G.L.Nesom",
+  "common_name": "Lonestar gumweed",
+  "look_here_first": "Inspect the yellow flower head and sticky involucral bracts (phyllaries), then the stems: yellow ray florets surround a disk; many phyllary tips hook or curve back; stems are noticeably hairy/glandular. Check serrate leaves clasping the stem.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Master Plant Pool/source-pool membership",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [
+      "Uvalde"
+    ],
+    "range_basis": "Latest deep-review queue confirms Uvalde; additional target-zone counties remain unverified. Williamson records do not count toward the project's target zone.",
+    "range_guardrail": "Do not treat a single target-zone county as a 3-county PASS; historical gumweed synonyms need concept-level review."
+  },
+  "morphology_keys": {
+    "life_cycle": "Herbaceous gumweed; confirm longevity on mature plants rather than relying on habit alone.",
+    "best_field_traits": [
+      "Yellow ray florets present around yellow disk florets (radiate head).",
+      "Numerous phyllaries with hooked/recurved resinous tips.",
+      "Stems visibly hairy or glandular-hairy, especially toward the heads.",
+      "Alternate serrate leaves with sessile/clasping bases.",
+      "Sticky/resinous head, characteristic of Grindelia."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Grindelia ciliata",
+      "Grindelia squarrosa",
+      "Grindelia nuda",
+      "Grindelia lanceolata"
+    ],
+    "key_distinctions": "Versus G. ciliata, compare stem pubescence (adenodonta hairier; ciliata usually otherwise glabrous/gland-dotted), annual habit, and mature pappus. G. nuda is typically rayless; do not infer a radiate specimen is nuda. G. squarrosa has strongly squarrose recurved phyllaries, but historical var. nuda records belong to a different current taxon. G. lanceolata has narrower leaves; use a mature head and stem together.",
+    "warning": "A phyllary photo alone may not reliably split all radiate gumweeds; confirm multiple structures."
+  },
+  "images": [
+    {
+      "file": "images/grindelia-adenodonta-provisional-face.jpg",
+      "role": "Lonestar gumweed flowering habit; iNaturalist photo 44230170, visible ray disk and phyllaries.",
+      "creator": "lanechaffin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_adenodonta.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc0"
+    },
+    {
+      "file": "images/gbif-manual-6334383487-20fdbbec7.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Flower-head side view: sticky phyllaries and leaf clasping; keep taxon/range hold",
+      "creator": "Justin Williams",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6334383487",
+      "gbif_occurrence_id": "6334383487",
+      "source_determination": "Grindelia adenodonta (Steyerm.) G.L.Nesom",
+      "accepted_target": "Grindelia adenodonta",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666058996/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "Whole plant and branch/habit",
+    "Radiate head front",
+    "Involucre side showing hooked resinous phyllaries",
+    "Stem hair/gland macro",
+    "Clasping serrate leaf base",
+    "Mature cypsela and pappus"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/grindelia-adenodonta/draft.json; research-queue.json B062",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

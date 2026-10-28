@@ -1,0 +1,142 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Fleischmannia",
+  "common_group": "Pink thoroughworts / slender thoroughworts",
+  "project_scope": {
+    "species_ids": [
+      "fleischmannia-incarnata"
+    ],
+    "species_count": 1,
+    "range_status": "UNRESOLVED pending BONAP target county documentation"
+  },
+  "look_here_first": "Look at one mature opposite triangular TOOTHED leaf, then the SIDE OF ONE flower head. Fleischmannia incarnata is a loose weak/sprawling herb with small pink-lilac heads; the ~4–5 mm involucre with relatively few ranks of phyllaries is the strongest visible separator from much more cylindrical bract-layered fragrant mistflower (Chromolaena odorata, ~8–10 mm).",
+  "shared_genus_traits": [
+    "Opposite long-stalked toothed leaves and much-branched herbaceous flowering growth.",
+    "Discoid Asteraceae heads without ray flowers in terminal flat-topped/open arrays.",
+    "Individual florets pink-purple or whitish; color not definitive.",
+    "Flat or somewhat convex head receptacle; sharply demarcated stopper-shaped carpopodium is expert microscopic trait."
+  ],
+  "quick_key": [
+    {
+      "if": "Longer ~8–10 mm cylindrical individual heads with MANY rows of bracts below flower tops",
+      "then": "Chromolaena odorata (fragrant mistflower), not this genus"
+    },
+    {
+      "if": "Fewer florets/head (often 13–25), ~4–5 mm short involucre, lax herbaceous stems, opposite toothed triangular leaves",
+      "then": "Fleischmannia incarnata"
+    },
+    {
+      "if": "Dense heads with MANY florets (~35–70+) and a noticeably CONIC receptacle on dissection",
+      "then": "Conoclinium coelestinum (blue mistflower)"
+    },
+    {
+      "if": "Deeply cut or dissected leaf blades",
+      "then": "Consider Conoclinium dissectum / Gregg's mistflower"
+    },
+    {
+      "if": "Persistent woody or shrub-like framework with whitish blooms",
+      "then": "Consider Ageratina havanensis (white mistflower); verify bracts"
+    }
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Overall plant",
+      "fleischmannia_incarnata": "herbaceous, usually lax or leaning",
+      "chromolaena_odorata": "larger branching shrubby subshrub",
+      "conoclinium_coelestinum": "more erect/colonial herb",
+      "caution": "supporting: overlap"
+    },
+    {
+      "character": "Single head involucre length",
+      "fleischmannia_incarnata": "~4–5 mm",
+      "chromolaena_odorata": "~8–10 mm cylinder",
+      "conoclinium_coelestinum": "relatively short heads; inspect florets and receptacle",
+      "caution": "requires side macro and scale"
+    },
+    {
+      "character": "Phyllaries",
+      "fleischmannia_incarnata": "comparatively few series",
+      "chromolaena_odorata": "many imbricate ranks",
+      "conoclinium_coelestinum": "fewer than Chromolaena",
+      "caution": "need side/underhead photo"
+    },
+    {
+      "character": "Florets per capitulum",
+      "fleischmannia_incarnata": "often ~13–25",
+      "chromolaena_odorata": "check species account; do not rely on guessed count",
+      "conoclinium_coelestinum": "often ~35–70 or more",
+      "caution": "count ONE capitulum, not entire cluster"
+    },
+    {
+      "character": "Leaf",
+      "fleischmannia_incarnata": "opposite triangular, coarse teeth, petiolate",
+      "chromolaena_odorata": "opposite broadly ovate/triangular, toothed, 3 prominent basal veins",
+      "conoclinium_coelestinum": "opposite toothed, often triangular",
+      "caution": "not sufficient alone"
+    },
+    {
+      "character": "Receptacle",
+      "fleischmannia_incarnata": "flat/slightly convex",
+      "chromolaena_odorata": "not central field comparison",
+      "conoclinium_coelestinum": "conical",
+      "caution": "destructive dissection; photo still needed"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "fleischmannia-vs-fragrant-mistflower",
+      "title": "Pink thoroughwort or fragrant mistflower?",
+      "taxon_ids": [
+        "fleischmannia-incarnata",
+        "chromolaena-odorata"
+      ],
+      "look_here_first": "Single flower HEAD FROM SIDE: 4–5 mm shorter/inconspicuous phyllary tiers versus 8–10 mm long cylinder with many visible overlapping bract ranks.",
+      "photo_requirements": [
+        "same-scale lateral heads with ruler",
+        "sharp bract-layer macro on both taxa",
+        "paired opposite leaves in field context"
+      ],
+      "caution": "Pink petals and opposite leaves overlap; no final ID by color alone."
+    },
+    {
+      "id": "fleischmannia-vs-blue-mistflower",
+      "title": "Pink thoroughwort or blue mistflower?",
+      "taxon_ids": [
+        "fleischmannia-incarnata",
+        "conoclinium-coelestinum"
+      ],
+      "look_here_first": "Count disk florets per SINGLE head and look at stripped receptacle: Fleischmannia fewer florets and flat/convex base, Conoclinium numerous florets and conic base.",
+      "photo_requirements": [
+        "single heads at comparable scale",
+        "receptacles after dissection with arrows"
+      ],
+      "caution": "Purple-pink/blue color ranges overlap; habit and leaves are supporting."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "overall habit + opposite leaves",
+      "status": "covered with provisional species shots"
+    },
+    {
+      "role": "measured involucre side and phyllary ranks against Chromolaena",
+      "status": "MISSING final polish"
+    },
+    {
+      "role": "conic versus flat head receptacles against Conoclinium",
+      "status": "MISSING final polish"
+    }
+  ],
+  "scientific_sources": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066778",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=112863",
+    "https://www.npsot.org/posts/native-plant/fleischmannia-incarnata/"
+  ],
+  "curation_status": {
+    "version": "1.0-fleischmannia-visual-first",
+    "date": "2026-10-13",
+    "visual_photos": "four exact-species photos installed and verified 2026-10-13; specialist phyllary and receptacle macros still needed",
+    "native_status": "UNRESOLVED"
+  }
+}

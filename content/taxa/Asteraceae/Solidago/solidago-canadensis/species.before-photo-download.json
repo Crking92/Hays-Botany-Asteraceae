@@ -1,0 +1,42 @@
+{
+  "id": "solidago-canadensis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago canadensis",
+  "authority": "L.",
+  "common_name": "Canada Goldenrod",
+  "field_group": "Goldenrod",
+  "project_tracker_diagnostic": "Goldenrod with many small yellow heads in broad panicles; usually less coarsely rough and often with narrower leaves than S. altissima.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect herb, often colonial.",
+    "leaves": "Alternate, lanceolate, serrate, 3-nerved, generally thinner/less harsh than S. altissima.",
+    "heads": "Many small yellow heads in plume-like terminal inflorescences.",
+    "phyllaries": "Small, overlapping series.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "golden plume inflorescences",
+      "narrower leaves",
+      "compare with S. altissima for roughness/robustness"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

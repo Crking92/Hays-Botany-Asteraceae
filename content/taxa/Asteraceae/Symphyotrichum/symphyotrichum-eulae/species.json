@@ -1,0 +1,119 @@
+{
+  "id": "symphyotrichum-eulae",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "eulae",
+  "scientific_name": "Symphyotrichum eulae",
+  "authority": "(Shinners) G.L.Nesom",
+  "common_name": "Eula's Aster / Whitehouse's Aster",
+  "look_here_first": "Start at the flowering stalk: S. eulae typically has GLABROUS peduncles, nearly horizontal to spreading branches and conspicuously serrate roughish leaves. Count rays on an intact head, commonly 27–36, and check the hemispheric involucre usually 5–6.5 mm. S. drummondii var. texanum has very hairy distal stems and winged lower leaf petioles.",
+  "county_occurrences_target_zone": [
+    "Bexar",
+    "Travis",
+    "San Saba"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Current Kew accepts S. eulae as Texas-endemic. County occurrence data derived from TORCH herbarium aggregation includes Bexar, Travis, and San Saba.",
+    "range_guardrail": "Exact county evidence; accepted local infraspecific concepts reconciled internally."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial",
+      "Texas endemic",
+      "mid-stem leaves elliptic to lanceolate",
+      "leaf margins crenate-serrate",
+      "leaves scabrous",
+      "open paniculate array",
+      "rays white to pale blue-lavender",
+      "disk florets yellow aging reddish-brown"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-b071",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_comparison_upgrade": "aster-genus-2.2",
+    "scientific_status_unchanged": true,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "images": [
+    {
+      "file": "images/symphyotrichum-eulae-provisional-face.jpg",
+      "role": "Flowering stem / recognizable face",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae,_Bastrop_County,_TX,_USA_imported_from_iNaturalist_photo_455429342.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_4_0"
+    },
+    {
+      "file": "images/gbif-manual-5282484200-32362db80.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Glabrous peduncles and branching angle; phyllaries and leaf teeth close-up",
+      "creator": "ashleyrsteel",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5282484200",
+      "gbif_occurrence_id": "5282484200",
+      "source_determination": "Symphyotrichum eulae (Shinners) G.L.Nesom",
+      "accepted_target": "Symphyotrichum eulae",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491845085/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "diagnostic_image_needs": [
+    {
+      "role": "Peduncle macro showing absence of hairs with clear focus",
+      "priority": "must-have",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Full flower face with countable 27–36 ray florets",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Hemispheric involucre in side view with mm ruler",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Matched drummondii winged-petiolate lower leaf and hairy distal stem",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    }
+  ],
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum drummondii var. texanum"
+    ],
+    "key_distinctions": "Glabrous peduncles, 27–36 rays, 5–6.5 mm hemispheric head; versus Texas drummondii with hairy distal shoots and winged-petiolate lower leaves."
+  }
+}

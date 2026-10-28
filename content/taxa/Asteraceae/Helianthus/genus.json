@@ -1,0 +1,446 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Helianthus",
+  "authority": "L.",
+  "common_group": "Sunflowers",
+  "project_scope": {
+    "selection_mode": "common local-learning batch 1",
+    "species_ids": [
+      "helianthus-annuus",
+      "helianthus-maximiliani"
+    ],
+    "species_count": 2
+  },
+  "study_strategy": {
+    "priority": [
+      "mid-stem leaf width, outline and petiole",
+      "mid-stem venation: three conspicuous basal veins versus one strong midvein",
+      "leaf margin and longitudinal fold",
+      "plant architecture and perennial rhizomes",
+      "head arrangement plus phyllary shape for flowering confirmation"
+    ],
+    "warning": "Do not use a dark disk, total height, number of heads, or opposite-vs-alternate leaves by itself. Both taxa are variable and may be cut or regrow. Start with a representative mid-stem leaf and attachment; confirm with the underside of a mature head."
+  },
+  "curation_status": {
+    "version": "2.2-licensed-diagnostic-photo-pairs",
+    "last_reviewed": "2026-10-08",
+    "genus_lesson": "comparison_complete_current_two_species_set",
+    "visual_lock": "leaf_node_and_phyllary_paired_sources_live__matched-scale-local-upgrade_optional",
+    "anatomy_lesson_upgrade": "2026-10-17",
+    "photo_anatomy_state": "four_photo_roles_defined; diagnostic arrows pending"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Confirm a true sunflower head: many disk florets on one receptacle, yellow ray florets around the margin, and an involucre of green phyllaries beneath. Then use whole-plant architecture and leaves before tightening to phyllaries.",
+    "shared_traits": [
+      "coarse herbs with radiate capitula",
+      "yellow ray florets surrounding many disk florets",
+      "involucre of phyllaries beneath each head",
+      "rough leaves",
+      "flattened cypselae that may carry short awns"
+    ],
+    "caution": "A yellow radiate Asteraceae head is not enough for Helianthus. Confirm the capitulum/involucre, then use leaves, branching pattern and phyllaries."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "mid-stem leaf outline / folding",
+      "Helianthus annuus": "Broad ovate to triangular/heart-based, often almost as wide as long; usually flat, stiff-hairy.",
+      "Helianthus maximiliani": "Long narrow lanceolate; often folded upward along the single midvein (conduplicate) and arched downward.",
+      "weight": "LOOK HERE FIRST"
+    },
+    {
+      "character": "leaf venation",
+      "Helianthus annuus": "Usually 3 conspicuous veins rising from or near leaf base (triplinerved).",
+      "Helianthus maximiliani": "Predominantly 1 conspicuous central vein (1-nerved); leaf often V-shaped in cross-section.",
+      "weight": "VERY HIGH when representative mid-stem leaves are available"
+    },
+    {
+      "character": "leaf attachment / margins",
+      "Helianthus annuus": "Petiole obvious, often several cm; margin normally coarsely serrate.",
+      "Helianthus maximiliani": "Sessile or short-petioled (typically 0–2 cm); margin usually entire, sometimes minutely serrulate.",
+      "weight": "HIGH supporting; examine more than one leaf"
+    },
+    {
+      "character": "life cycle / rooting",
+      "Helianthus annuus": "Annual from a taproot; does not persist as an established rhizomatous clone.",
+      "Helianthus maximiliani": "Rhizomatous perennial; often returns in a multi-stem colony from one established patch.",
+      "weight": "HIGH if root/crown or repeated-season evidence available"
+    },
+    {
+      "character": "stem and branching",
+      "Helianthus annuus": "Coarse, usually rough-hispid; often freely branching, but may have just one main terminal head.",
+      "Helianthus maximiliani": "Rough to hairy, often erect and comparatively less freely branched; numerous leaves up the stem.",
+      "weight": "SUPPORTING only"
+    },
+    {
+      "character": "head arrangement",
+      "Helianthus annuus": "Usually 1–9 heads, often at ends of branches; large-headed cultivated forms especially variable.",
+      "Helianthus maximiliani": "Usually 3–15 heads, commonly spaced along upper stem in raceme- or spike-like display.",
+      "weight": "SUPPORTING, not a count-only key"
+    },
+    {
+      "character": "phyllaries (green bracts below head)",
+      "Helianthus annuus": "Broader ovate to lance-ovate, commonly 5–8 mm wide, tips narrowing rather abruptly; hairy margins.",
+      "Helianthus maximiliani": "Narrow lanceolate, about 2–3 mm wide, gradually narrowing to long slender pointed tips; hairy margins.",
+      "weight": "STRONG flowering-stage confirmation"
+    }
+  ],
+  "species_key": [
+    {
+      "step": 1,
+      "look": "whole stem + representative mid-stem leaf",
+      "if": "broad ovate/deltoid rough leaves on a usually branching annual",
+      "then": "Helianthus annuus"
+    },
+    {
+      "step": 1,
+      "look": "whole stem + representative mid-stem leaf",
+      "if": "many narrow linear-lanceolate leaves, commonly conduplicate/folded and curving downward on an upright perennial",
+      "then": "Helianthus maximiliani"
+    },
+    {
+      "step": 2,
+      "look": "underside/side of mature head",
+      "if": "broad ciliate-hispid phyllaries",
+      "then": "supports H. annuus"
+    },
+    {
+      "step": 2,
+      "look": "underside/side of mature head",
+      "if": "long narrow phyllaries",
+      "then": "supports H. maximiliani"
+    }
+  ],
+  "overlap_and_cautions": [
+    "Both can be tall and carry yellow-rayed heads with dark centers; disk color is not diagnostic.",
+    "Both can have alternate leaves, and both may show opposite leaves near the base: leaf arrangement alone will mislead.",
+    "Growth form varies with mowing, disturbance, horticulture and age; annual sunflowers can be little-branched, Maximilian may branch.",
+    "Maximilian margins can be minutely toothed, and annual leaf shape varies; diagnose from a suite of representative mid-stem leaves.",
+    "The learning photos are not matched to the same scale or angle; use veins, folding and attachment, not their apparent relative size.",
+    "Helianthus identification may be confounded by hybridization and other perennial sunflowers; uncertain specimens stay Helianthus sp."
+  ],
+  "local_lookalike_routing": [
+    {
+      "group": "other yellow radiate Asteraceae",
+      "separate": "First prove Helianthus-like head structure and involucre; then compare leaf arrangement, receptacle/phyllaries and fruit rather than flower color."
+    },
+    {
+      "group": "Silphium / Verbesina-type tall yellow composites",
+      "separate": "Do not route from height or yellow heads. Use leaf architecture/attachment and head underside; if those structures are missing, stop at the broader composite comparison."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "matched same-scale mid-stem leaves with node/petiole and venation",
+      "purpose": "annual broad/three-basal-veined petioled serrate vs Maximilian narrow/single-midrib short-petioled conduplicate",
+      "status": "licensed_exact_species_leaf_and_attachment_views_live__same_scale_pending"
+    },
+    {
+      "priority": 1,
+      "role": "matched mature involucre underside/side macros",
+      "purpose": "broad abruptly acuminate annual phyllaries vs slender gradually attenuate Maximilian phyllaries",
+      "status": "two_licensed_involucre_macros_live__same_angle_and_scale_pending"
+    },
+    {
+      "priority": 2,
+      "role": "full stem and rooting/colony architecture",
+      "purpose": "annual branching taprooted stand vs rhizomatous returning Maximilian patch",
+      "status": "existing_general_gallery__exact_role_verification_pending"
+    },
+    {
+      "priority": 2,
+      "role": "node sequence / leaf arrangement",
+      "purpose": "show why lower leaves may be opposite yet upper leaves commonly alternate in both; not a stand-alone separator",
+      "status": "one_or_more_stem_nodes_visible__full_opposite_to_alternate_sequence_pending"
+    },
+    {
+      "priority": 3,
+      "role": "mature cypsela/pappus",
+      "purpose": "teach shared sunflower fruits and avoid calling awns diagnostic for this pair",
+      "status": "pending"
+    }
+  ],
+  "project_media_refs": [
+    {
+      "species": "Helianthus maximiliani",
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "29:30",
+      "role": "sessile/conduplicate leaf teaching view",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/helianthus-maximiliani_sessile-folded-leaf-source-label_29-30.jpg",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "species": "Helianthus maximiliani",
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "29:40",
+      "role": "capitulum / narrow multiseriate phyllaries teaching view",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/helianthus-maximiliani_head-phyllaries_29-40.jpg",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "targeted_handoff": {
+    "diagnostic_photo_polish": "Both licensed exact-species involucre macros and mid-stem attachment photo anchors are now installed as external display references. Optional higher-quality Central Texas / same-scale leaf and mature head pair remains. Do not misreport external URLs as local photo files.",
+    "taxonomy_diagnostic_review": "Scientific differences checked against FNA on 2026-10-08; no county-range decision changed and no forced scientific PASS."
+  },
+  "quick_key": [
+    {
+      "if": "Mid-stem leaf broad, flat, toothed, with a conspicuous stalk and 3 strong veins near the base",
+      "then": "Helianthus annuus"
+    },
+    {
+      "if": "Mid-stem leaf long and narrow, nearly stalkless, often V-folded, with one strong central vein and nearly smooth edge",
+      "then": "Helianthus maximiliani"
+    },
+    {
+      "if": "No flowers? Check several mid-stem leaves; if mature leaf morphology is mixed or atypical, hold identification at Helianthus",
+      "then": "Helianthus sp. — recheck"
+    },
+    {
+      "if": "Flowering? Confirm broader abruptly tapered phyllaries vs. slender gradually tapered phyllaries; combine with leaf traits",
+      "then": "confirm annual vs Maximilian"
+    }
+  ],
+  "visual_comparison": {
+    "version": "2.0-licensed-node-and-phyllary-pairs",
+    "title": "Annual vs Maximilian: leaves, nodes, and phyllaries",
+    "subtitle": "Six exact-species image anchors: first separate mature leaf form, then the leaf-to-stem attachment, then turn a mature head sideways. Images vary in camera scale; compare structure, not apparent pixel size.",
+    "memory_rule": "Annual = broad, petioled, usually toothed, three strong basal veins. Maximilian = narrow, nearly stalkless, usually V-folded, one dominant midvein.",
+    "items": [
+      {
+        "label": "Broad leaf and basal veins",
+        "scientific_name": "Helianthus annuus",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Helianthus_annuus_leaf-9-16-04.jpg",
+        "image_role": "broad ovate leaf / venation",
+        "caption": "Broad, heart-based blade with a conspicuous network of veins. Find the strong veins leaving near the leaf base; compare several mid-stem leaves on an unknown plant.",
+        "creator": "Thayne Tuason · Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_leaf-9-16-04.jpg",
+        "rights_note": "source-verified CC BY-SA; image linked from Commons, not copied to project assets",
+        "markers": []
+      },
+      {
+        "label": "Narrow folded leaves",
+        "scientific_name": "Helianthus maximiliani",
+        "image_url": "content/taxa/Asteraceae/Helianthus/helianthus-maximiliani/images/02-curated-reference.jpg",
+        "image_role": "narrow conduplicate (V-folded) leaves",
+        "caption": "Many long narrow leaves visibly folded upward along a dominant midvein and arching outward/downward. The source image matches an already installed canonical gallery photo.",
+        "creator": "Mike Fenoglio · iNaturalist",
+        "license": "CC BY-NC (learner study; public-use restrictions retained)",
+        "source_page": "https://www.inaturalist.org/taxa/130192",
+        "rights_note": "existing licensed learner file, not new image import",
+        "markers": []
+      },
+      {
+        "label": "Annual leaf — stalk and basal veins",
+        "scientific_name": "Helianthus annuus",
+        "image_role": "broad serrate lamina, strong basal venation and visible petiole",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg/1280px-Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg",
+        "caption": "Follow the blade upward to its petiole and visible stem junction. The broad toothed leaf bears several strong veins from near the base. This is not a matched-scale node macro.",
+        "creator": "Harry Rose (Macleay Grass Man) · Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_leaf2_-_Flickr_-_Macleay_Grass_Man.jpg",
+        "geography": "Dungog, Australia; species image, not Central Texas local provenance",
+        "photo_id": "25167425755",
+        "phase": "2-leaf-attachment",
+        "markers": []
+      },
+      {
+        "label": "Maximilian — almost stalkless nodes",
+        "scientific_name": "Helianthus maximiliani",
+        "image_role": "narrow leaf attached nearly at node; central vein and slight leaf folding",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-leaf-arrangement---Matt-Lavin--CC-BY-SA.jpg",
+        "caption": "Narrow blades and short or virtually absent petioles attach along an upright stem. Follow leaf insertion and V-shaped midrib. Not photographed at the same scale as the annual.",
+        "creator": "Matt Lavin · NC State Extension Plant Toolbox",
+        "license": "CC BY-SA 4.0 as credited by NCSU",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://plants.ces.ncsu.edu/plants/helianthus-maximiliani/",
+        "geography": "photographer-provided study reference; location not established from NCSU caption",
+        "phase": "2-leaf-attachment",
+        "markers": []
+      },
+      {
+        "label": "Annual — broad phyllaries",
+        "scientific_name": "Helianthus annuus",
+        "image_role": "side/below-head involucre close-up; broad hairy phyllaries",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Helianthus_annuus_%285021132604%29.jpg/960px-Helianthus_annuus_%285021132604%29.jpg",
+        "caption": "Broad, coarse-hairy phyllaries wrapping the underside of the head, tapering rather abruptly near their tips. Compare the whole bract width, not just the pointed tip.",
+        "creator": "Matt Lavin · Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_(5021132604).jpg",
+        "geography": "Bozeman, Montana; exact-species reference",
+        "photo_id": "5021132604",
+        "phase": "3-phyllary-macro",
+        "markers": []
+      },
+      {
+        "label": "Maximilian — narrow phyllaries",
+        "scientific_name": "Helianthus maximiliani",
+        "image_role": "head side/underside macro; long slender pointed phyllaries",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Helianthus-maximiliani-calyx---Matt-Lavin--CC-BY-SA.jpg",
+        "caption": "Numerous narrow green phyllaries, long and gradually tapering into threadlike points, beneath the yellow rays. Compare with the annual's wide triangular bracts.",
+        "creator": "Matt Lavin · NC State Extension Plant Toolbox",
+        "license": "CC BY-SA 4.0 as credited by NCSU",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://plants.ces.ncsu.edu/plants/helianthus-maximiliani/",
+        "geography": "photographer-provided study reference; location not established from NCSU caption",
+        "phase": "3-phyllary-macro",
+        "markers": []
+      }
+    ],
+    "overlay_note": "These additional photos are externally hosted and source-linked; their CC licenses and author credits are retained. The mature involucre comparison is now visually represented for both species; matched-scale, same-angle Central Texas close-ups are a later refinement.",
+    "study_only_intro": "Additional exact-species diagnostic photographs at their owners' websites. These are references only; no additional photo-license rights have been assumed.",
+    "study_only_photo_links": [
+      {
+        "label": "OSU annual sunflower: branch/node and large stalked leaf",
+        "url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/annual-sunflower",
+        "look_for": "broad triangular petiolate leaf, stem branching",
+        "reuse": "original-site link only"
+      },
+      {
+        "label": "OSU Maximilian sunflower: leaf attachment close-up",
+        "url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/maximilian-sunflower",
+        "look_for": "mostly alternate leaves attached directly; sharply folded blade",
+        "reuse": "original-site link only"
+      },
+      {
+        "label": "MissouriPlants Maximilian: involucre and leaf undersides",
+        "url": "https://www.missouriplants.com/Helianthus_maximiliani_page.html",
+        "look_for": "narrow pointed phyllaries, conduplicate leaf, hairy abaxial side",
+        "reuse": "original-site link only"
+      },
+      {
+        "label": "Wildflowers of National Capital Region annual: involucral bracts",
+        "url": "https://www.wotncr.org/wildflowers/helianthus_annuus.html",
+        "look_for": "compare broader bracts beneath the sunflower head",
+        "reuse": "original-site link only"
+      }
+    ]
+  },
+  "scientific_sources": [
+    {
+      "taxon": "Helianthus annuus",
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200024005",
+      "role": "annual habit, blade, phyllary, head limits"
+    },
+    {
+      "taxon": "Helianthus maximiliani",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066889",
+      "role": "rhizomes, conduplicate 1-nerved blade, spikelike heads and phyllaries"
+    },
+    {
+      "taxon": "Helianthus",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114871",
+      "role": "generic context and caveat about difficult species delimitation"
+    }
+  ],
+  "anatomy_lessons": [
+    {
+      "title": "1 · Trace a mid-stem leaf to its node",
+      "term": "petiole, blade, node",
+      "plain": "A petiole is the stalk between the stem and leaf blade. Inspect several mature leaves halfway up the plant, not only basal or juvenile leaves.",
+      "look_for": "H. annuus usually has a broad toothed blade and obvious petiole; H. maximiliani often has a narrow blade attached nearly directly to the stem.",
+      "why_it_matters": "Attachment and blade outline remain usable before the plant flowers.",
+      "photo_role": "paired mid-stem nodes, matched ruler and side view",
+      "status": "needs_matched_photo",
+      "reference_status": "existing source-linked node references available, not same-scale verified",
+      "annotation_status": "pending"
+    },
+    {
+      "title": "2 · Count the strong veins and find the fold",
+      "term": "triplinerved, midrib, conduplicate",
+      "plain": "Triplinerved means three prominent veins start near the blade base; conduplicate means folded lengthwise into a V.",
+      "look_for": "Trace the basal veins of H. annuus and compare the dominant single midrib and often V-folded narrow H. maximiliani leaf.",
+      "why_it_matters": "Venation and longitudinal folding are stronger than color or head count.",
+      "photo_role": "paired leaf front and cross-section macro, veins marked only after pixel review",
+      "status": "needs_matched_photo",
+      "reference_status": "existing linked leaf images are study references; vein-arrow placement unverified",
+      "annotation_status": "pending"
+    },
+    {
+      "title": "3 · Turn a mature head sideways",
+      "term": "involucre, phyllary",
+      "plain": "The involucre is the set of green bracts beneath a sunflower head; each bract is a phyllary.",
+      "look_for": "H. annuus phyllaries often broad, about 5–8 mm wide; H. maximiliani often narrow, about 2–3 mm wide with long slender tips.",
+      "why_it_matters": "Measured bract width is a useful flowering confirmation when stems have been cut or regrown.",
+      "photo_role": "same-angle underside of mature heads with mm scale",
+      "status": "source_linked_reference_available; matched_scale_missing",
+      "reference_status": "two external licensed phyllary views already in visual_comparison, not locally installed",
+      "annotation_status": "pending"
+    },
+    {
+      "title": "4 · Check the base and head sequence",
+      "term": "taproot, rhizome, capitulum arrangement",
+      "plain": "An annual sunflower grows from a single-season root system; a perennial rhizome can send up shoots from connected underground stems.",
+      "look_for": "Compare annual taproot with rhizomatous H. maximiliani colony and document whether heads are terminal on branches or arranged along the upper stem.",
+      "why_it_matters": "The root system supports identification when foliage is atypical; head counts alone overlap.",
+      "photo_role": "root/crown excavation and whole upper flowering stem, same-scale",
+      "status": "needs_photo",
+      "reference_status": "no verified exact root-system photo assigned",
+      "annotation_status": "pending"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Annual versus Maximilian — leaf and node",
+      "taxon_ids": [
+        "helianthus-annuus",
+        "helianthus-maximiliani"
+      ],
+      "look_here_first": "Choose three mature mid-stem leaves: broad petiolate 3-veined blades versus narrow short-stalked 1-nerved, often folded blades.",
+      "measurable_tie_breaker": "Petiole often several cm in annuus versus typically 0–2 cm in maximiliani; compare on the same plant stage.",
+      "photo_requirements": [
+        "matched node view",
+        "leaf base venation closeup",
+        "V-fold cross-section"
+      ],
+      "caution": "Young shoots, drought, regrowth and unusual leaves can obscure any one character."
+    },
+    {
+      "title": "Annual versus Maximilian — phyllaries",
+      "taxon_ids": [
+        "helianthus-annuus",
+        "helianthus-maximiliani"
+      ],
+      "look_here_first": "Flip mature heads and measure a representative middle phyllary, not a tip alone.",
+      "measurable_tie_breaker": "Annuus often 5–8 mm wide with relatively abrupt taper; maximiliani often 2–3 mm wide with slender gradually tapering tips.",
+      "photo_requirements": [
+        "underside of both mature heads at common scale",
+        "macro of a measured individual phyllary"
+      ],
+      "caution": "Phyllaries vary within a head; compare several on intact, mature involucres."
+    }
+  ],
+  "photo_rights_and_status": {
+    "installed_exact_species_local_files": {
+      "helianthus-annuus": 5,
+      "helianthus-maximiliani": 5
+    },
+    "local_file_status": "ten nonempty JPGs checked in canonical species directories, but the genus anatomy roles are not independently pixel-certified",
+    "local_rights": "All ten existing local species photos carry individual CC BY-NC credits and public reuse review; preserve attribution and noncommercial restrictions",
+    "external_references": "Six study comparisons in existing visual_comparison.items include linked Commons and NCSU images with their individual CC BY/CC BY-SA rights; links do not count as locally installed files",
+    "saved_video_frames": "Existing Joey Santore video frames are private-study references only, not public CC and not new local installs",
+    "annotations": "No arrows or coordinates verified or installed"
+  },
+  "handoffs": [
+    {
+      "lane": "diagnostic-photo",
+      "action": "Select and verify matched-scale mid-stem leaf/node, venation and leaf-fold, mature phyllary underside, and annual-root versus perennial-rhizome photographs; check permanent library first and confirm pixels before arrows."
+    },
+    {
+      "lane": "taxonomy-diagnostic",
+      "action": "Retain source-specific leaf and phyllary variability; investigate unusual mixed or regrowth material before asserting an exact species, without changing native-range decisions."
+    },
+    {
+      "lane": "installer",
+      "action": "Both canonical Helianthus species are already installed. Do not reinstall or alter species concepts from this genus lesson."
+    }
+  ]
+}

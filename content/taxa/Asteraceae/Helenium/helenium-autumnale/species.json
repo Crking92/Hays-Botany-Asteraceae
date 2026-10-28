@@ -1,0 +1,102 @@
+{
+  "id": "helenium-autumnale",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "species": "autumnale",
+  "scientific_name": "Helenium autumnale",
+  "authority": "L.",
+  "common_name": "Common Sneezeweed",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Many historical varieties are now treated as synonyms of the species; learner remains species-level.",
+  "look_here_first": "First decide annual or perennial, then inspect the stem wings. Common/fall sneezeweed is the perennial in this batch, with stout strongly winged stems and much broader obovate-to-lanceolate leaves that are often toothed. Its flower heads are also substantially larger than bitterweed's tiny heads.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — USDA-derived county distribution data record native Helenium autumnale in Hays County. Travis County — UT Plant Resources Center's Travis County Asteraceae index includes Helenium autumnale; an additional wild Bull Creek record supports local occurrence. Williamson County — UT Plant Resources Center provides a detailed field-based county treatment. USDA-derived county data additionally include Bell, Blanco, Gillespie and Kerr.",
+    "range_guardrail": "Cultivated garden sneezeweeds are common; PASS uses native county distribution/herbarium evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb, often 50–130 cm in FNA though local plants may be shorter",
+      "stems strongly winged by broad decurrent leaf bases",
+      "mid-stem leaves obovate to oblanceolate/lanceolate, much broader than H. amarum or H. elegans",
+      "leaf margins often dentate or remotely toothed, sometimes entire distally",
+      "upper plant strongly branched with many heads",
+      "heads relatively large, involucres globoid about 8–20 mm in FNA",
+      "yellow rays commonly 8–21 and 10–23 mm long",
+      "disc corollas 5-lobed",
+      "typically late-summer to fall flowering and associated with moist roadsides, streams, ditches, seepage areas and pond margins"
+    ],
+    "comparison_training": "Helenium amarum: H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. Helenium elegans: H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. Helenium quadridentatum: H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Helenium amarum",
+      "Helenium elegans",
+      "Helenium quadridentatum"
+    ],
+    "key_distinctions": "H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
+  },
+  "tags": [
+    "Asteraceae",
+    "Helenium",
+    "Common Sneezeweed",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b028",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Physical exact-species photographs provide field habit and flower-head views; a dedicated decurrent leaf-base/stem-wing macro remains follow-up.",
+  "images": [
+    {
+      "file": "images/01-flowering-reference.jpg",
+      "role": "Flowering upper plant and flower heads",
+      "creator": "C T Johansson",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_autumnale-IMG_6120.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-field-habit.jpg",
+      "role": "Close flower head showing raised disk and toothed rays",
+      "creator": "Judy Gallagher",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_Sneezeweed_-_Helenium_autumnale,_Leesylvania_State_Park,_Woodbridge,_Virginia_(37226894072).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flower-head.jpg",
+      "role": "Wild flowering plant with broad toothed leaves and leafy stems",
+      "creator": "Aaron Carlson",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_autumnale_(6157516008).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Three exact-species physical photographs; provenance and reuse terms recorded. Media-only update preserves settled scientific status. Stronger local diagnostic macros remain follow-up.",
+    "verified_at": "2026-10-05"
+  }
+}

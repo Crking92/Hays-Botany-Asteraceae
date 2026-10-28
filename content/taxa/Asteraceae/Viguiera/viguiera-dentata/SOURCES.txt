@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/332649422
+Photo: https://www.inaturalist.org/photos/603744880
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Viguiera dentata (Cavanilles) Spreng.
+https://www.gbif.org/occurrence/5938351524
+jrcagle | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Toothed opposite/alternate leaves as documented for taxon and head phyllaries
+No anatomy arrows; no scientific or native-range changes.

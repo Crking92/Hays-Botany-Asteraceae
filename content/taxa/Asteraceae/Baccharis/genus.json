@@ -1,0 +1,354 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Baccharis",
+  "authority": "L.",
+  "common_group": "Baccharis",
+  "project_scope": {
+    "selection_mode": "Asteraceae batch 2",
+    "species_ids": [
+      "baccharis-neglecta",
+      "baccharis-salicifolia"
+    ],
+    "species_count": 2
+  },
+  "study_strategy": {
+    "priority": [
+      "mature mid-stem leaf blade width and outline (mm)",
+      "distribution and number of marginal leaf teeth",
+      "female cypsela rib count (10 vs 5)",
+      "pappus length on mature pistillate fruits (mm)",
+      "head-array shape: pyramidal panicle vs compound corymb",
+      "phyllary/involucre shape and dimensions (supporting)",
+      "season and habitat only as supporting context"
+    ],
+    "warning": "A white fluffy fruiting shrub is not enough for species ID: both species are dioecious and produce white pappus on female plants. Leaf widths overlap at 3–5 mm; confirm with mature cypsela ribs where possible.",
+    "shared_traits": [
+      "Woody or shrubby composites with alternate simple leaves",
+      "Numerous small capitula with involucral phyllaries",
+      "Male and female flowers usually on separate plants (dioecious)",
+      "Discoid heads have no showy ray florets; staminate and pistillate heads usually occur on different plants.",
+      "Fruiting pistillate heads develop cypselae carrying a conspicuous bristly pappus; count cypsela ribs only on mature fruits."
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-measured-fruit-leaf-comparison",
+    "last_reviewed": "2026-10-13",
+    "photo_status": "matched annotated reproductive and leaf views pending",
+    "canonical_taxa_unchanged": true
+  },
+  "look_here_first": "Find a woody shrub with alternate resin-dotted leaves and many tiny rayless, unisexual flower heads. For the two local learner species, compare mature leaf WIDTH and the tooth pattern first; confirm with mature female fruits: B. neglecta has 10-ribbed cypselae, B. salicifolia has 5-ribbed cypselae (Flora of North America).",
+  "shared_traits": [
+    "Woody or shrubby composites with alternate simple leaves",
+    "Numerous small capitula with involucral phyllaries",
+    "Male and female flowers usually on separate plants (dioecious)"
+  ],
+  "comparison_matrix": [
+    {
+      "species": "Baccharis neglecta",
+      "leaf": "Usually narrow, small leaves; inspect margins and upper/lower stem positions",
+      "heads": "Compare terminal cluster architecture and phyllary series",
+      "caution": "Avoid using leaf size alone"
+    },
+    {
+      "species": "Baccharis salicifolia",
+      "leaf": "Willow-like lanceolate leaves, often serrate; compare mid-stem leaves",
+      "heads": "Check reproductive heads and involucral structure",
+      "caution": "Leaf variation and wet-site habit are supporting, not decisive"
+    }
+  ],
+  "overlap_cautions": [
+    "Leaf width and serration vary by shoot age; compare leaves at matching positions.",
+    "Sex of heads differs between individuals; do not treat male-versus-female head differences as species differences.",
+    "Habitat alone is not a safe separator."
+  ],
+  "lookalikes": [
+    "Pluchea: glandular aromatic herb/subshrub with different head structure",
+    "Solidago: typically showier golden composite inflorescences and different head construction"
+  ],
+  "diagnostic_photo_checklist": [
+    "Matched mid-stem leaf blades and margins with scale",
+    "Same-sex flower-head macro for both species with phyllaries labeled",
+    "Whole inflorescence architecture at same growth stage",
+    "Male and female head comparison within each species to prevent sex confusion"
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "question": "Verify reliable phyllary counts, leaf gland and margin thresholds for B. neglecta versus B. salicifolia before adding a hard dichotomous key."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "need": "Acquire or reuse licensed paired leaf-with-scale, whole inflorescence and mature female cypsela rib macros (10 vs 5); no image substitutions or species install in genus builder."
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Mature mid-stem leaves mostly 1–2(–5) mm wide, linear to narrowly elliptic, usually entire or with only 2–3 shallow teeth; pyramidal branched head arrays",
+      "then": "Baccharis neglecta — confirm 10-ribbed mature cypselae (pappus 7–12 mm)."
+    },
+    {
+      "if": "Mature mid-stem leaves often broader, 3–20 mm wide, lanceolate-elliptic and frequently finely serrate along much of the margin; terminal compound corymb-like head arrays",
+      "then": "Baccharis salicifolia — confirm 5-ribbed mature cypselae (pappus 3–6 mm)."
+    },
+    {
+      "if": "Leaves fall in the 3–5 mm overlap or only male heads are available",
+      "then": "Provisional Baccharis sp.; photograph several matched leaves, full inflorescence, and revisit for mature female fruits before assigning species."
+    }
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Mature mid-stem leaf blade",
+      "Baccharis neglecta": "30–80 × 1–2(–5) mm; linear to narrowly elliptic, usually 1-veined",
+      "Baccharis salicifolia": "30–150 × 3–20 mm; lanceolate-elliptic, sometimes slightly sickle-shaped",
+      "strength": "strong tendency, 3–5 mm width overlap",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Leaf teeth",
+      "Baccharis neglecta": "Margin entire or only 2–3 small, shallow teeth; distal leaves reduced",
+      "Baccharis salicifolia": "Usually finely serrate from near base to apex, sometimes entire",
+      "strength": "supporting; entire leaves occur in both",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Inflorescence arrangement",
+      "Baccharis neglecta": "Pyramidal, branched paniculiform arrays, axillary and terminal on lateral branches",
+      "Baccharis salicifolia": "Terminal compound corymbiform arrays, often involving distal branches",
+      "strength": "strong when whole cluster visible",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Mature pistillate cypsela ribs",
+      "Baccharis neglecta": "10 longitudinal ribs",
+      "Baccharis salicifolia": "5 longitudinal ribs",
+      "strength": "HIGH diagnostic confirmation; macro or dissecting lens required",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Pappus length on mature female fruit",
+      "Baccharis neglecta": "7–12 mm",
+      "Baccharis salicifolia": "3–6 mm",
+      "strength": "strong supporting character; compare same fruiting stage",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Involucre and phyllaries",
+      "Baccharis neglecta": "Cylindro-campanulate involucre; female 4–5 mm; phyllaries 1–3 mm",
+      "Baccharis salicifolia": "Hemispheric involucre; female 3–6 mm; phyllaries 2–4 mm",
+      "strength": "shape helpful; lengths overlap",
+      "source": "FNA species treatments"
+    },
+    {
+      "character": "Habitat and timing",
+      "Baccharis neglecta": "Disturbed fields, roadsides, streambeds; flowers mainly Aug–Nov",
+      "Baccharis salicifolia": "Stream banks, washes, flood plains; flowers often Mar–Oct",
+      "strength": "supporting only; both can occur near water",
+      "source": "FNA species treatments"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Baccharis neglecta vs B. salicifolia — leaf, head, and fruit",
+      "look_here_first": "Start with a ruler beside several mature leaves, then zoom out to the entire head cluster. The definitive fruit check is 10 ribs versus 5 ribs on mature female cypselae.",
+      "field_matrix": [
+        {
+          "character": "Mature mid-stem leaf blade",
+          "B. neglecta": "30–80 × 1–2(–5) mm; linear to narrowly elliptic, usually 1-veined",
+          "B. salicifolia": "30–150 × 3–20 mm; lanceolate-elliptic, sometimes slightly sickle-shaped",
+          "strength": "strong tendency, 3–5 mm width overlap"
+        },
+        {
+          "character": "Leaf teeth",
+          "B. neglecta": "Margin entire or only 2–3 small, shallow teeth; distal leaves reduced",
+          "B. salicifolia": "Usually finely serrate from near base to apex, sometimes entire",
+          "strength": "supporting; entire leaves occur in both"
+        },
+        {
+          "character": "Inflorescence arrangement",
+          "B. neglecta": "Pyramidal, branched paniculiform arrays, axillary and terminal on lateral branches",
+          "B. salicifolia": "Terminal compound corymbiform arrays, often involving distal branches",
+          "strength": "strong when whole cluster visible"
+        },
+        {
+          "character": "Mature pistillate cypsela ribs",
+          "B. neglecta": "10 longitudinal ribs",
+          "B. salicifolia": "5 longitudinal ribs",
+          "strength": "HIGH diagnostic confirmation; macro or dissecting lens required"
+        },
+        {
+          "character": "Pappus length on mature female fruit",
+          "B. neglecta": "7–12 mm",
+          "B. salicifolia": "3–6 mm",
+          "strength": "strong supporting character; compare same fruiting stage"
+        },
+        {
+          "character": "Involucre and phyllaries",
+          "B. neglecta": "Cylindro-campanulate involucre; female 4–5 mm; phyllaries 1–3 mm",
+          "B. salicifolia": "Hemispheric involucre; female 3–6 mm; phyllaries 2–4 mm",
+          "strength": "shape helpful; lengths overlap"
+        },
+        {
+          "character": "Habitat and timing",
+          "B. neglecta": "Disturbed fields, roadsides, streambeds; flowers mainly Aug–Nov",
+          "B. salicifolia": "Stream banks, washes, flood plains; flowers often Mar–Oct",
+          "strength": "supporting only; both can occur near water"
+        }
+      ],
+      "caution": "Do not confuse male/female head differences with species characters. White pappus is shared; fruit ribs are tiny and must be visible before claiming confirmation. Both may grow along streams."
+    }
+  ],
+  "overlap_and_cautions": [
+    "Leaf width and serration vary by shoot age; compare leaves at matching positions.",
+    "Sex of heads differs between individuals; do not treat male-versus-female head differences as species differences.",
+    "Habitat alone is not a safe separator.",
+    "Leaf blade widths overlap around 3–5 mm; measure multiple mature mid-stem leaves, not one vigorous shoot or a reduced terminal bract.",
+    "B. salicifolia can have entire margins, so lack of serration does not automatically indicate B. neglecta.",
+    "Cypsela rib counts (10 vs 5) are the strongest documented fruit separator, but require fully mature female fruit and sharp macro images.",
+    "Pappus lengths apply to mature female fruit, not the shorter male-head pappus; compare equivalent stages.",
+    "FNA recognizes seasonal forms of B. salicifolia; avoid hard identification from season, habitat or general shrub outline alone."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Baccharis salicina",
+      "status": "external look-alike, not installed in this pair",
+      "separate": "Broader, often three-nerved leaves with a few coarse teeth distally; cypselae 8–10-ribbed and longer pappus. Name is not a synonym of B. salicifolia."
+    },
+    {
+      "taxon": "Baccharis halimifolia",
+      "status": "regional comparison, not installed in this pair",
+      "separate": "Main stem leaves commonly broader, rhombic/obovate, coarsely toothed toward tips; possible introgression with B. neglecta noted by FNA."
+    },
+    {
+      "taxon": "Pluchea spp.",
+      "status": "genus-level field confusion",
+      "separate": "Inspect reproductive head, foliage texture and branching; don't assume every shrubby, fluffy-headed Asteraceae is Baccharis."
+    },
+    {
+      "taxon": "Salix spp.",
+      "status": "vegetative look-alike",
+      "separate": "Willows bear catkins and different fruit; Baccharis has small composite heads with phyllaries and cypselae."
+    }
+  ],
+  "diagnostic_photo_checklist_detailed": [
+    {
+      "role": "matched mature mid-stem leaf ruler photographs",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "blade width (mm)",
+        "blade length (mm)",
+        "midrib",
+        "marginal teeth"
+      ],
+      "separates": "1–2(–5) vs 3–20 mm leaf width and tooth distribution",
+      "priority": "critical"
+    },
+    {
+      "role": "leaf-edge macro, both surfaces",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "entire/shallow teeth",
+        "fine teeth from base to apex",
+        "gland dots"
+      ],
+      "separates": "few shallow teeth versus usually continuous fine serration",
+      "priority": "high"
+    },
+    {
+      "role": "whole terminal inflorescence at same stage",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "pyramidal panicle",
+        "compound corymb",
+        "lateral branches"
+      ],
+      "separates": "pyramidal paniculiform versus corymbiform architecture",
+      "priority": "critical"
+    },
+    {
+      "role": "mature pistillate cypsela microscope or extreme macro",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "10 ribs",
+        "5 ribs",
+        "cypsela body"
+      ],
+      "separates": "highest-value reproductive separator",
+      "priority": "critical"
+    },
+    {
+      "role": "mature female fruit with mm scale",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "pappus bristles",
+        "pappus length (mm)",
+        "cypsela"
+      ],
+      "separates": "7–12 mm versus 3–6 mm pappus",
+      "priority": "high"
+    },
+    {
+      "role": "male and female head, same species",
+      "taxa": [
+        "baccharis-neglecta",
+        "baccharis-salicifolia"
+      ],
+      "labels": [
+        "staminate head",
+        "pistillate head",
+        "phyllaries"
+      ],
+      "separates": "sex differences from species differences",
+      "priority": "high"
+    }
+  ],
+  "field_identification_sequence": [
+    "Confirm Baccharis: woody, alternate leaves, tiny discoid heads, often male and female shrubs separate.",
+    "Measure several mature mid-stem leaves with a millimeter scale; compare leaf margin teeth.",
+    "Photograph entire inflorescence from enough distance to see panicle versus corymb branching.",
+    "If mature female fruit is present, count cypsela ribs (10 in B. neglecta, 5 in B. salicifolia); measure pappus as secondary confirmation.",
+    "If only male flowers or overlapping leaf dimensions are available, leave species tentative and revisit at fruiting."
+  ],
+  "sources": [
+    {
+      "source": "Flora of North America — Baccharis neglecta",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066184",
+      "supports": "leaf 30–80 × 1–2(–5) mm; pyramidal arrays; 10-ribbed cypsela; 7–12 mm pappus"
+    },
+    {
+      "source": "Flora of North America — Baccharis salicifolia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242428285",
+      "supports": "leaf 30–150 × 3–20 mm; compound corymbs; 5-ribbed cypsela; 3–6 mm pappus"
+    },
+    {
+      "source": "Flora of North America — Baccharis genus key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=103317",
+      "supports": "diagnostic fruit ribs, leaf margin and neighboring look-alikes"
+    },
+    {
+      "source": "UT Austin Plant Resources Center — Baccharis neglecta",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Baccharis%20neglecta.html",
+      "supports": "regional floral, fruit and leaf morphology"
+    }
+  ],
+  "science_handoff_resolution": {
+    "previous_question": "phyllary counts, leaf gland and margin thresholds",
+    "resolution": "FNA gives reliable species-level leaf dimensions, cypsela ribs and pappus ranges; phyllary lengths overlap and should not be taught as a strict key. The original review question remains as historical context.",
+    "status": "FNA morphological comparison documented; local photo verification still pending"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "coreopsis-tinctoria",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis tinctoria",
+  "authority": "Nutt.",
+  "common_name": "Plains Coreopsis",
+  "field_group": "Small yellow composite / tickseed complex",
+  "project_tracker_diagnostic": "Annual; more robust than C. basalis; leaves opposite and usually bipinnately divided into threadlike segments; rays yellow with broad dark reddish-brown basal zones.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect branching herb, often somewhat taller/coarser than C. basalis.",
+    "leaves": "Opposite below, dissected into many narrow threadlike segments.",
+    "heads": "Showy yellow rays with broad maroon to reddish-brown bases; disks dark.",
+    "phyllaries": "Outer bracts often spreading beneath a broader inner involucre.",
+    "fruit": "Cypselae flat with short awns.",
+    "best_field_traits": [
+      "Annual, usually branched with opposite lower leaves divided into very narrow linear/threadlike segments.",
+      "Yellow rays frequently have dark reddish-brown basal patches, but patch extent varies and cannot alone distinguish the species.",
+      "Inspect mature head underside: outer involucral bracts and inner bracts, plus flat cypselae, to distinguish from similar annual Coreopsis.",
+      "Compare Coreopsis basalis: often broader leaf segments and differing head/fruit characters; use paired measured leaves and phyllary/fruit photos rather than petal coloration alone."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation.",
+    "remaining_need": "NEEDS_DIAGNOSTIC_PHOTO: same-scale C. tinctoria versus C. basalis leaf segments, involucre underside and mature cypselae; annotation_pending until visible anatomy confirmed."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Recognize · branching display of yellow flowerheads with dark maroon-red centers",
+      "creator": "(c) jcmattson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/76445",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384754031/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "384754031",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · single yellow flowerhead with maroon-red disk and inner ray bases; phyllaries not visible",
+      "creator": "(c) Jenn Drummond, some rights reserved (CC BY-NC), uploaded by Jenn Drummond",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/76445",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7330449/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "7330449",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Recognize · delicate plant scattered among grasses, with small yellow-and-maroon flowerheads",
+      "creator": "(c) ErnieLG, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/373970198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683495107/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "373970198",
+      "photo_id": "683495107",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · yellow-and-maroon flowerhead on slender stalk with nearby buds and spent heads; phyllaries unresolved",
+      "creator": "(c) ErnieLG, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/373970198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683495118/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "373970198",
+      "photo_id": "683495118",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · another view of same flowering plant among grasses; not independent evidence of species identity",
+      "creator": "(c) ErnieLG, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/373970198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683495104/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "373970198",
+      "photo_id": "683495104",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  }
+}

@@ -1,0 +1,6 @@
+Acmella repens (Walter) Rich. — learner-approved Master Plant Pool row 17 (My iNaturalist Flora; Personal List). Taxonomy review dated 2026-10-09 preserved.
+POWO accepted name and native Texas at state level: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:174552-1
+NC Vascular Flora accepted name and historical combinations: https://auth1.dpr.ncparks.gov/flora/species_account.php?id=698
+Regional morphology and historic name: https://fwbg.org/wp-content/uploads/2021/08/Asteraceae_East_Texas_download.pdf
+Photographs: Juan Carlos Fonseca Mata, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Acmella_repens_04261.jpg and https://commons.wikimedia.org/wiki/File:Acmella_repens_04262.jpg
+No project target-county native PASS; state-level Texas native only. Provisional gallery; add rooted-node, receptacle and cypsela macro.

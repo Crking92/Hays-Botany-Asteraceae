@@ -1,0 +1,113 @@
+{
+  "id": "gaillardia-amblyodon",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "species": "amblyodon",
+  "scientific_name": "Gaillardia amblyodon",
+  "authority": "J.Gay",
+  "common_name": "Maroon Blanketflower / Narrow Blanketflower",
+  "look_here_first": "Start with ray color. Maroon blanketflower is an annual with leafy branching stems and heads carrying dark maroon-red to purple rays, usually without the bright yellow tips common in G. pulchella.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Llano",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — documented at Pace Bend Park. Llano — multiple documented native records west of Llano / south of San Saba. Williamson — dedicated county treatment documents G. amblyodon.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual",
+      "taprooted",
+      "leafy branching stems",
+      "alternate oblanceolate to spatulate leaves",
+      "dark red to maroon or purple rays",
+      "ray tips 3-lobed",
+      "disk florets yellow to dark red with purple tips",
+      "open sandy or rocky sites"
+    ],
+    "comparison_training": "G. pulchella usually has conspicuous yellow-tipped red rays; G. amblyodon is much more uniformly maroon/red. G. suavis is perennial and scapose with rays often reduced or absent."
+  },
+  "curation_status": {
+    "version": "1.0-b075",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "images": [
+    {
+      "file": "images/gaillardia-amblyodon-provisional-face.jpg",
+      "role": "Flowering head / recognizable face",
+      "creator": "Megan Kossa",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gaillardia_amblyodon,_Texas,_US_imported_from_iNaturalist_photo_72187260.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-357612736.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357612736",
+      "observation_url": "https://www.inaturalist.org/observations/202481874",
+      "observation_id": "202481874",
+      "photo_id": "357612736",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357612736/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-357612751.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357612751",
+      "observation_url": "https://www.inaturalist.org/observations/202481874",
+      "observation_id": "202481874",
+      "photo_id": "357612751",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357612751/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

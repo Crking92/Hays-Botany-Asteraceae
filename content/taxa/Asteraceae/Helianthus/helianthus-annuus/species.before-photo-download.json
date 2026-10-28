@@ -1,0 +1,43 @@
+{
+  "id": "helianthus-annuus",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
+  "scientific_name": "Helianthus annuus",
+  "authority": "L.",
+  "common_name": "Annual Sunflower",
+  "field_group": "Tall yellow composite / sunflower complex",
+  "project_tracker_diagnostic": "Annual; usually branching; broad rough leaves, often opposite below and alternate above; heads with dark disk and yellow rays; achenes 2-awned.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect, usually branching herb, often coarse and rough-hispid.",
+    "leaves": "Lower leaves opposite, upper alternate; blades broadly ovate to deltoid-ovate, rough, often long-petiolate below.",
+    "heads": "Usually several to many heads on branching stems; rays yellow; disk florets yellow to darkening with age.",
+    "phyllaries": "Broadly lanceolate to ovate, ciliate-hispid, spreading to somewhat reflexed.",
+    "fruit": "Achenes typically dark, flattened, often with 2 caducous awns.",
+    "best_field_traits": [
+      "annual branching habit",
+      "broad rough leaves",
+      "opposite lower leaves",
+      "multiple sunflower heads"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

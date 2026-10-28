@@ -1,0 +1,370 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Verbesina",
+  "authority": "L.",
+  "common_group": "Crownbeards / wingstems / frostweeds",
+  "project_scope": {
+    "selection_mode": "Current canonical manifest: three learner species in Verbesina; preserve original inclusion/range states",
+    "species_ids": [
+      "verbesina-virginica",
+      "verbesina-encelioides",
+      "verbesina-lindheimeri"
+    ],
+    "species_count": 3,
+    "canonical_species_count": 3,
+    "notes": "This is a field teaching subset of Verbesina in Central Texas, not a worldwide genus key. Additional lookalikes Verbesina alternifolia occur elsewhere but are not canonical here."
+  },
+  "study_strategy": {
+    "priority": [
+      "COLOR/scale of individual head",
+      "STEM WINGS yes/no",
+      "midstem leaf arrangement and shape",
+      "whole-plant habit and lifespan",
+      "actual winter ice ribbons separately from flowers",
+      "pappus awns as final microscopic verification"
+    ],
+    "warning": "Frostweed is Verbesina virginica; it is not a genus that blooms with ice. Winged stems also occur in V. alternifolia, whose flowers are yellow."
+  },
+  "curation_status": {
+    "version": "1.1-frostweed-visual-stemwing-head-comparisons",
+    "last_reviewed": "2026-10-13",
+    "canonical_species_count": 3,
+    "genus_comparisons": 3,
+    "diagnostic_photos": 4,
+    "photo_arrows_current": 0,
+    "remaining_high_priority": "matched licensed frostweed wing macro and Lindheimer flower; fruit pappus awns",
+    "wing_macro_rights_lead": "Baskauf (2002), CC BY 4.0, Zenodo record 11020772, direct media not installed"
+  },
+  "look_here_first": "FIRST find the flower color and STEM WINGS. White heads in a tall MANY-HEAD fall canopy + obvious long decurrent green stem wings → frostweed, V. virginica. YELLOW heads: if ONE HUGE yellow head on a short PERENNIAL with mostly OPPOSITE leaves and NO wings → Lindheimer's crownbeard. If a branching gray-hairy ANNUAL with TRIANGULAR leaves and yellow daisy heads, without obvious winged internodes → cowpen daisy, V. encelioides. For any uncertain plant, check head number/size and mid-stem phyllotaxy before using habitat.",
+  "shared_genus_traits": [
+    "Sunflower-family (Asteraceae) taxa with capitula (flower heads) made of ray florets around disc florets; a 'flower head' is a cluster of true florets.",
+    "Leaves usually opposite or alternate depending on species and position; juvenile/lower leaves may have different arrangement from upper leaves.",
+    "Fruits are flattened cypselae, sometimes with papery wings; pappus awns vary by species and are NOT the same as winged stems.",
+    "Stem wings are species-dependent. Winged green stems support frostweed but do not define all Verbesina; V. alternifolia is another wingstem lookalike.",
+    "Autumn composites often need plant habit, stem features, leaf arrangement and individual capitulum size together—not flower color alone."
+  ],
+  "shared_traits": [
+    "Sunflower-family (Asteraceae) taxa with capitula (flower heads) made of ray florets around disc florets; a 'flower head' is a cluster of true florets.",
+    "Leaves usually opposite or alternate depending on species and position; juvenile/lower leaves may have different arrangement from upper leaves.",
+    "Fruits are flattened cypselae, sometimes with papery wings; pappus awns vary by species and are NOT the same as winged stems.",
+    "Stem wings are species-dependent. Winged green stems support frostweed but do not define all Verbesina; V. alternifolia is another wingstem lookalike.",
+    "Autumn composites often need plant habit, stem features, leaf arrangement and individual capitulum size together—not flower color alone."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Flowers / per-head scale",
+      "virginica": "WHITE or cream: very many tiny composite heads, each typically 1–3(–5) short white rays and 8–13 disc florets",
+      "lindheimeri": "YELLOW: large often solitary capitulum with about 13 LONG yellow rays and 80–120 disc florets",
+      "encelioides": "YELLOW: several larger showy daisy heads with ~12–15 yellow rays, 80–150 disc florets",
+      "weight": "primary"
+    },
+    {
+      "character": "Stem / wings",
+      "virginica": "Broad, wavily decurrent green stem wings from leaf bases; inspect healthy green internodes",
+      "lindheimeri": "NO stem wings",
+      "encelioides": "NO stem wings",
+      "weight": "primary; caution other Verbesina wingstems"
+    },
+    {
+      "character": "Leaf arrangement and outline",
+      "virginica": "Mainly ALTERNATE; large rough elongate leaves, bases taper and descend as wings, edges toothed to nearly entire",
+      "lindheimeri": "Mostly OPPOSITE; smaller ovate to deltate leaves, bases rounded/cuneate, teeth variable",
+      "encelioides": "Upper ALTERNATE but lower may be opposite; triangular/ovate gray-green coarse-toothed leaves",
+      "weight": "strong vegetative"
+    },
+    {
+      "character": "Growth habit",
+      "virginica": "Robust herbaceous perennial, often 1–2+ m; domed/panicled white canopy",
+      "lindheimeri": "Shorter perennial ~0.3–0.7 m, single prominent yellow head",
+      "encelioides": "Annual, branching weed, often 0.1–1.2 m; swales, disturbed sites",
+      "weight": "supporting"
+    },
+    {
+      "character": "Fruiting pappus",
+      "virginica": "Flattened WINGED cypsela with TWO persistent AWNS 1.5–3 mm",
+      "lindheimeri": "Dark ~7 mm fruit, tiny/absent awns ~0–0.5 mm",
+      "encelioides": "Flattened narrow obovate 3.5–5+ mm fruit with shorter awns 0.5–1+ mm (ray fruits may lack awns)",
+      "weight": "fine-macro supporting"
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Many little white flower heads on tall perennial with green, wavy, vertically WINGED internodes",
+      "then": "Verbesina virginica · frostweed"
+    },
+    {
+      "if": "Big yellow solitary (sometimes few) flower head, mostly opposite leaves, no winged stem, low limestone perennial",
+      "then": "Verbesina lindheimeri · Lindheimer's crownbeard"
+    },
+    {
+      "if": "Several larger yellow composite heads on branching annual, triangular grayish hairy leaves, upper alternate leaves, no winged stem",
+      "then": "Verbesina encelioides · cowpen daisy"
+    },
+    {
+      "if": "Tall winged stems like frostweed but YELLOW flower heads",
+      "then": "Check Verbesina alternifolia (wingstem) and other taxa — outside the current canonical three"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "verbesina-frostweed-vs-lindheimeri",
+      "title": "Frostweed vs Lindheimer's crownbeard — color PLUS stem anatomy",
+      "taxon_ids": [
+        "verbesina-virginica",
+        "verbesina-lindheimeri"
+      ],
+      "look_here_first": "Look at the STEM: broad decurrent leafy wings = frostweed; Lindheimer's is unwinged. Then check a WHOLE head cluster: many white tiny heads in frostweed versus one or a few large yellow heads in Lindheimer's. Leaves are usually alternate vs mostly opposite.",
+      "field_matrix": [
+        {
+          "character": "Stem cross-sectional silhouette",
+          "virginica": "Obvious thin wing flanges descending from leaves",
+          "lindheimeri": "Round-ish stem without leaflike flanges"
+        },
+        {
+          "character": "Head number + color",
+          "virginica": "Dozens of tiny white heads",
+          "lindheimeri": "Usually single/few BIG yellow head"
+        },
+        {
+          "character": "Leaves",
+          "virginica": "Usually alternate, large rough, tapering decurrent base",
+          "lindheimeri": "Mostly opposite, smaller ovate-deltate leaves"
+        },
+        {
+          "character": "Habit",
+          "virginica": "Tall canopy-forming perennial",
+          "lindheimeri": "Shorter limestone slope perennial"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "stem macro",
+          "look_for": "wavy green vertical wings vs plain non-winged green stem",
+          "status": "UT Austin exact frostweed wing photo link-only; Lindheimer matched unwinged stem macro pending"
+        },
+        {
+          "role": "white tiny head vs yellow big solitary head",
+          "look_for": "show individual heads at SAME scale",
+          "status": "licensed frostweed white-floret reference secured; Lindheimer exact licensed flower needed"
+        }
+      ],
+      "caution": "No single feature is equally obvious throughout the year. Old basal frostweed stems may lose green wing tissue; check leafy mid-stem internodes."
+    },
+    {
+      "id": "verbesina-frostweed-vs-cowpen",
+      "title": "Frostweed vs cowpen daisy — don't confuse composites",
+      "taxon_ids": [
+        "verbesina-virginica",
+        "verbesina-encelioides"
+      ],
+      "look_here_first": "The color/head scale is immediate: frostweed is many tiny WHITE heads, cowpen is fewer much BIGGER YELLOW daisy heads. Mid-stem frostweed wings vs non-winged cowpen, then coarse triangular cowpen leaves help before flowering.",
+      "field_matrix": [
+        {
+          "character": "Heads",
+          "virginica": "Many tiny whitish heads each with 1–3 short white ray florets",
+          "encelioides": "Larger showy yellow heads each with 12–15+ long yellow rays"
+        },
+        {
+          "character": "Stems",
+          "virginica": "Leaf bases extend down as conspicuous vertical wings",
+          "encelioides": "No vertical wings"
+        },
+        {
+          "character": "Leaves",
+          "virginica": "Elongate rough leaves, mostly alternate and decurrent",
+          "encelioides": "Triangle/ovate often gray-hairy blades, coarse marginal teeth; lower can be opposite"
+        },
+        {
+          "character": "Life cycle",
+          "virginica": "Perennial often taller and colonial",
+          "encelioides": "Annual often on disturbed exposed ground"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "matched flowering heads",
+          "look_for": "tiny white vs big yellow rays and disks",
+          "status": "Mason Brock frostweed public domain and Forest & Kim Starr cowpen CC BY 3 available"
+        },
+        {
+          "role": "stem and leaf arrangement",
+          "look_for": "wings vs unwinged, tapering leaf base vs triangular",
+          "status": "true matched rights-cleared closeup pending"
+        }
+      ],
+      "caution": "Leaf placement alone can mislead: both may have opposite LOWER leaves but upper leaves often alternate."
+    },
+    {
+      "id": "verbesina-frost-flowers",
+      "title": "What exactly is a frost flower?",
+      "taxon_ids": [
+        "verbesina-virginica"
+      ],
+      "look_here_first": "Inspect the BASE OF THE STEM just after suitable subfreezing temperatures: sheets of ice curl and push out of fissures when water emerges and freezes. It is not a corolla, not a seed, and not guaranteed every freezing night.",
+      "field_matrix": [
+        {
+          "character": "Biological structure",
+          "plant": "Freeze-stressed lower stem tissue and water flow",
+          "ice": "External ribbons of crystallized WATER"
+        },
+        {
+          "character": "Timing",
+          "plant": "Frostweed green leaves and flowering head appear fall",
+          "ice": "Ice ribbons occur on some freezing winter mornings and melt quickly"
+        },
+        {
+          "character": "Identification caution",
+          "plant": "Confirm winged stem and white flowering head during growing season",
+          "ice": "Other species can make similar frost flowers; no ice is a non-test"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "green winged internode + winter split stem",
+          "look_for": "same species seasonal stages, arrows to wing and ice slit",
+          "status": "licensed Reportingsjr ice photo secured; UT photo wing macro source-only"
+        }
+      ],
+      "caution": "Never suggest all frost flower examples are flowers. This is a water-ice physical process."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Frostweed in four views · leaf wings, white flower heads, and winter frost flowers",
+    "subtitle": "Real exact-species CC photos for frostweed and cowpen daisy. The crispest exact stem-wing macro remains an educational link to UT Austin because reuse rights are unknown. Lindheimer's licensed matched photo remains a final polish goal.",
+    "memory_rule": "Frostweed = WINGED green stem + 60–100 TINY WHITE heads + seasonal ice ribbons. Yellow big solitary = Lindheimer's. Yellow big several = cowpen daisy.",
+    "items": [
+      {
+        "label": "Frostweed · tall flowering plant in Austin",
+        "scientific_name": "Verbesina virginica",
+        "image_role": "whole habit with fall canopy",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg",
+        "creator": "Daderot",
+        "license": "CC0 1.0",
+        "caption": "Tall whole plant in Zilker Botanical Garden, Austin. Repeated tiny white flower heads form a broad flowering canopy. This cultivated specimen is not independent native-range proof.",
+        "markers": [],
+        "visual_status": "exact taxon with CC0 source rights, whole plant composition"
+      },
+      {
+        "label": "Frostweed · tiny white composite heads",
+        "scientific_name": "Verbesina virginica",
+        "image_role": "white ray and disk floret pattern",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Verbesina_virginica.jpg",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica.jpg",
+        "creator": "Mason Brock",
+        "license": "Public Domain",
+        "caption": "Small heads with a few white ray florets and pale disk florets; contrast big yellow daisy heads in the other two Verbesina species. Floret-level arrows to follow actual macro inspection.",
+        "markers": [],
+        "visual_status": "public-domain species photo; no guessed precise floret target"
+      },
+      {
+        "label": "Frostweed · actual winter ice ribbons (not flowers)",
+        "scientific_name": "Verbesina virginica",
+        "image_role": "frozen water sheets extruding through stem",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Verbesina_virginica_frost_flower.jpg",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_frost_flower.jpg",
+        "creator": "Reportingsjr",
+        "license": "CC BY-SA 4.0",
+        "caption": "Thin curled ice sheets form after water emerges through split stem tissue and freezes. This is a physical freeze event, not part of the actual flower.",
+        "markers": [],
+        "visual_status": "exact frostweed ice photo; licensed CC BY-SA 4.0"
+      },
+      {
+        "label": "Cowpen daisy · large yellow flower-head comparison",
+        "scientific_name": "Verbesina encelioides",
+        "image_role": "yellow-rayed composite flower and large yellow disk",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_010520-0006_Verbesina_encelioides.jpg",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr_010520-0006_Verbesina_encelioides.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "caption": "Yellow big head with numerous long showy yellow rays, a strong contrast to tiny pale heads of frostweed. Example is from Hawaii and is NOT evidence of project native range.",
+        "markers": [],
+        "visual_status": "exact species CC BY 3.0 flower source; no artificially inferred arrow locations"
+      }
+    ],
+    "overlay_note": "No arrows have been added to these newly curated photo panels because precise targets need inspection on the final rendered image. Do NOT use the UT Austin wing detail or any all-rights-reserved image in published cards absent permission.",
+    "study_only_photo_links": [
+      {
+        "label": "CC BY 4.0 frostweed stem-wing macro — Steven J. Baskauf, Bioimages/Vanderbilt",
+        "url": "https://zenodo.org/records/11020772",
+        "look_for": "Photo vevi3-stwinged13005.jpg shows green stem and exactly where decurrent leaf bases form thin wing ridges. Attribution Steven J. Baskauf, 2002; DOI 10.5281/zenodo.11020772.",
+        "reuse": "EOL classifies exact Bioimages photo CC BY 4.0; original photo binary download URL/metadata still needs validation before installation."
+      },
+      {
+        "label": "UT PlantPics · Verbesina virginica STEM WING close-up",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Verbesina%20virginica%20wings.jpg",
+        "look_for": "Thin vertical green winglike folds below leaf base; best structural teaching reference",
+        "reuse": "study-only original-site link; permission for embedding not established"
+      },
+      {
+        "label": "UT Williamson County · detailed frostweed floristics",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Verbesina%20virginica",
+        "look_for": "Stem wing widths, alternate leaf form, head florets, fruit wings and TWO pappus awns",
+        "reuse": "cited botanical reference"
+      },
+      {
+        "label": "UT Austin · frostweed ice crystallofolia study",
+        "url": "https://w3.biosci.utexas.edu/prc/VEVI3/crystallofolia.html",
+        "look_for": "Different cold mornings, formation on split stems, other frost-flower taxa",
+        "reuse": "source links only"
+      },
+      {
+        "label": "Lindheimer's crownbeard · FNA description",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067794",
+        "look_for": "Large solitary yellow heads and short unwinged stem, mainly opposite leaves",
+        "reuse": "text citation source"
+      }
+    ],
+    "study_only_intro": "Photo author Steven J. Baskauf has a recorded CC BY 4.0 exact-species green stem wing photo (Zenodo/Bioimages) ideal for diagnostic arrows. The stable source is linked while its original download has not been verified. UT Austin has another excellent wing view but reuse rights are not established."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "winged internode macro",
+      "targets": [
+        "Verbesina virginica"
+      ],
+      "show": "real mid-stem vertical wavy wings originating at tapering leaf bases; add arrow only with verified target",
+      "status": "Rights lead found: Steven J. Baskauf Bioimages photo vevi3-stwinged13005.jpg, CC BY 4.0 according to EOL; direct original file URL unverified so do not yet mark installed."
+    },
+    {
+      "priority": "critical",
+      "role": "matching flowering capitulum pairs",
+      "targets": [
+        "Verbesina virginica",
+        "Verbesina encelioides",
+        "Verbesina lindheimeri"
+      ],
+      "show": "many tiny white heads vs big yellow heads of both species, exact scale and credited original"
+    },
+    {
+      "priority": "high",
+      "role": "upper/lower leaf phyllotaxy",
+      "targets": [
+        "all three"
+      ],
+      "show": "mainly alternate frostweed, mostly opposite Lindheimer, lower opposite sometimes in cowpen"
+    },
+    {
+      "priority": "high",
+      "role": "ice ribbons versus true flowers",
+      "targets": [
+        "Verbesina virginica"
+      ],
+      "show": "physical cracked lower stem + ice, paired with true white fall heads"
+    },
+    {
+      "priority": "final",
+      "role": "winged flattened cypsela and two pappus awns",
+      "targets": [
+        "Verbesina virginica"
+      ],
+      "show": "two straight persistent awns and papery lateral fruit wings with scale"
+    }
+  ]
+}

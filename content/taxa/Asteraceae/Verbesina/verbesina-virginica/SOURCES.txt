@@ -1,0 +1,55 @@
+Verbesina virginica — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:260867-2
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067968
+
+PROJECT TRACKER DIAGNOSTIC
+Tall perennial with conspicuously winged/decurrent stems and many white heads; famous for extruding ice ribbons in winter.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH2-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.
+
+## Frostweed scientific/visual polish — 2026-10-13
+Current FNA and UT Williamson plant descriptions; previous content preserved where not contradicted.
+
+Critical diagnostic:
+- Verbesina virginica perennial 1–2m or more; large green stems with WAVY thin decurrent wings from tapering leaf bases (UT Williamson 3–5.5mm wing width); short pubescent stems, sometimes lower woody base.
+- Leaves typically ALTERNATE (occasionally opposite in lowest nodes), scabrous, large variably toothed simple blade with base tapering down stem. Wings are STEM wings, distinct from papery FRUIT wings.
+- Terminal canopy can hold 60–100+ small white composite heads; each head typically 1–3 small white ray florets and 8–13 whitish disc florets in regional plants.
+- Mature flattened cypselae conspicuously WINGED and have TWO erect persistent short (1.5–3mm) pappus AWNS. The old species.json claim "pappus reduced or absent" was wrong and is corrected.
+- "Frost flowers" are transient ice ribbons formed by water exiting fissures in the lower stem and freezing during suitable first freezes. Not a botanical flower, and absence of ice does not exclude frostweed.
+
+Primary sources:
+Flora of North America — Verbesina virginica (FNA 21): https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417427
+UT Austin Vascular Plants Williamson County (Gibson): https://w3.biosci.utexas.edu/prc/K12/pdf/Verbesina%20virginica
+UT Austin BIO406D original photos: https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/verbesina_virginica.htm
+UT Austin winged-stem close-up (original photo rights not established): https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Verbesina%20virginica%20wings.jpg
+UT Austin Central Texas ice ribbon photographs (original rights not established): https://w3.biosci.utexas.edu/prc/VEVI3/crystallofolia.html
+FNA Verbesina lindheimeri (non-winged, mostly opposite leaves and single large yellow heads): https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067794
+FNA Verbesina encelioides (annual, non-winged, yellow heads): https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417424
+
+APPROVED FILES — preserved old:
+Mark Fishbein, iNaturalist cc-by-nc, photo 13760231.
+Dawn D. Lopez Garanzuay, iNaturalist cc-by-nc, observation 401713414 photos 737345526, 737345580, 737345614.
+All 4 local JPGs already stored from historical taxa ZIP. Photographer/date/license credited at source; exact Creative Commons license version unconfirmed. Original locally stored photos must remain untouched.
+
+Approved new:
+- Zilker Botanical Garden Austin TX full flowering plant: photographer Daderot, CC0 1.0, https://commons.wikimedia.org/wiki/File:Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg
+- White small radiate composite heads: photographer Mason Brock (Masebrock), released into PUBLIC DOMAIN, https://commons.wikimedia.org/wiki/File:Verbesina_virginica.jpg
+- Frost flower ice ribbon: photographer Reportingsjr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Verbesina_virginica_frost_flower.jpg
+
+EXCLUDED COPYRIGHT-RESTRICTED IMAGE:
+photo ID 156162698 / cleointhesmokies, in the old card as images/02-curated-reference.jpg. iNaturalist marks ALL RIGHTS RESERVED (not a CC license). Its gallery entry MUST be dropped. After installer confirms new gallery, remove restricted physical file too. It is NOT cleared for public or private rehosting.
+
+Final pass priorities:
+- Exact-species properly licensed GREEN STEM-WING macro showing wavy thin wings decurrent from nodes. UT BIO406D demonstrates this trait exceptionally, but their original photograph is LINK-ONLY absent permission.
+- Same scale close-up of winged cypsela with its two rigid pappus awns.
+- Photo-matched comparisons to Verbesina encelioides and V. lindheimeri showing no wings, head size/color and opposite/alternate leaf position.

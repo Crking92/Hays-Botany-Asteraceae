@@ -1,0 +1,43 @@
+{
+  "id": "grindelia-lanceolata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "scientific_name": "Grindelia lanceolata",
+  "authority": "Nutt.",
+  "common_name": "Narrowleaf Gumweed",
+  "field_group": "Sticky resinous composite",
+  "project_tracker_diagnostic": "Perennial with sticky/resinous heads and often sticky upper parts; yellow heads with strongly recurved or spreading phyllaries and gummy involucres.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect herb, often branching above.",
+    "leaves": "Alternate, narrow to lanceolate, sessile or clasping, toothed to nearly entire.",
+    "heads": "Yellow rays and yellow disk florets; heads often very resinous/sticky especially in bud and involucre.",
+    "phyllaries": "Many, strongly recurved or spreading, often sticky.",
+    "fruit": "Cypselae with a pappus of short awns/scales.",
+    "best_field_traits": [
+      "sticky gummy heads",
+      "recurved phyllaries",
+      "narrow leaves",
+      "resinous involucre"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pseudognaphalium-obtusifolium",
+  "family": "Asteraceae",
+  "genus": "Pseudognaphalium",
+  "species": "obtusifolium",
+  "scientific_name": "Pseudognaphalium obtusifolium",
+  "common_name": "Sweet everlasting / rabbit tobacco",
+  "look_here_first": "Look for grayish woolly stems and leaves with small papery clustered heads; inspect lower leaf wool, phyllary color and head arrangement; do not decide species based on scent alone.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pseudognaphalium%20obtusifolium",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Maryland original image; compare with Pseudognaphalium canescens and other cudweeds in Central Texas.",
+  "images": [
+    {
+      "file": "images/commons-pseudognaphalium-obtusifolium.jpg",
+      "role": "Provisional overall flowering herb and clustered heads; individual phyllaries and hairs await macro.",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pseudognaphalium_obtusifolium_-_Sweet_everlasting.jpg",
+      "study_use": "Noncommercial plant visual field learner",
+      "public_reuse": "Attribution to creator and source and ShareAlike requirements for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

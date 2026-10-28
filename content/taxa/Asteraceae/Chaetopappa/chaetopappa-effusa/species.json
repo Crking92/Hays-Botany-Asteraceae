@@ -1,0 +1,117 @@
+{
+  "id": "chaetopappa-effusa",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "species": "effusa",
+  "scientific_name": "Chaetopappa effusa",
+  "authority": "(A.Gray) Shinners",
+  "common_name": "Spreading lazy daisy",
+  "look_here_first": "Find the rhizomatous PERENNIAL base, then inspect the lower stem leaves: oblong to lanceolate-oblong, 6–12 mm wide, with truncate to slightly heart-shaped bases. At fruiting check the pappus, a tiny thickened ring or erose crown <0.1 mm, NOT the conspicuous ~25 bristles of C. ericoides.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 238,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Master Pool Hays source, accepted identity reviewed 2026-10-10; Texas state-native per POWO but county native threshold unresolved."
+  },
+  "morphology_keys": {
+    "habit": "Low, spreading or ascending perennial with rhizomes, not a distinct annual taproot; inspect the crown/rootstock.",
+    "leaves": "Alternate, flat herbaceous leaves, proximal cauline blades oblong to lanceolate-oblong, typically 6–12 mm wide; bases truncate to subcordate; leaves diminish distally.",
+    "heads": "Small solitary terminal radiate heads with pale rays and yellow disk florets; flowering color overlaps congeners.",
+    "fruits": "Pappus a minute thickened ring or erose crown under 0.1 mm (Flora of North America key).",
+    "best_field_traits": [
+      "Examine rootstock and annual/perennial habit",
+      "Examine basal and stem leaves including overlap and blade bases",
+      "Examine mature cypsela pappus with magnification"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Chaetopappa bellidifolia",
+      "Chaetopappa ericoides",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "key_distinctions": "C. bellidifolia is a taprooted annual with non-overlapping flat leaves and a minute pappus ring; C. ericoides has very narrow densely overlapping leathery leaves and obvious pappus bristles in one series. C. parryi also rhizomatous but has narrower spatulate lower leaves 2–5 mm and a much larger hyaline crown 0.3–0.8 mm.",
+    "cautions": "Do not identify on pale ray florets, sprawling habit, or a single detached leaf; inspect mature pappus and perennial base."
+  },
+  "diagnostic_image_needs": [
+    "Rhizome and crown showing perennial base",
+    "Lower stem leaf with 6–12 mm width and base shape",
+    "Mature pappus ring at high magnification",
+    "Head profile showing phyllaries"
+  ],
+  "images": [
+    {
+      "file": "images/inat-first-741209514.jpg",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "creator": "iNaturalist photo contributor (CC0)",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/741209514",
+      "observation_url": "https://www.inaturalist.org/observations/403678065",
+      "photo_id": "741209514",
+      "observation_id": "403678065",
+      "source_recorded_photo_license_at_download": "cc0",
+      "source_recorded_photo_attribution_at_download": "no rights reserved",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/741209514/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, no attribution legally required (CC0)",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": "none; targets unverified"
+    },
+    {
+      "file": "images/gbif-manual-6566703372-bf7f9824a.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Lower clasping-ish stem leaves, rhizomatous crown and pappus close-up",
+      "creator": "Nick Loveland",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6566703372",
+      "gbif_occurrence_id": "6566703372",
+      "source_determination": "Chaetopappa effusa (A.Gray) Shinners",
+      "accepted_target": "Chaetopappa effusa",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/741209861/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "external_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "missing_diagnostic_views": [
+      "Species-diagnostic macros and visually checked morphology"
+    ],
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "One exact-taxon Research Grade photo provisionally installed; morphological teaching views need visual review."
+  },
+  "photo_note": "No verified licensed exact-species source photo found in this small installation pass; retain zero-photo provisional status for Diagnostic Photo Polish. First-pass CC-licensed observation photo installed; precise anatomy and image quality require visual review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

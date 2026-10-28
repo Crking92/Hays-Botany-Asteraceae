@@ -1,0 +1,610 @@
+{
+  "id": "erigeron-strigosus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "species": "strigosus",
+  "scientific_name": "Erigeron strigosus",
+  "common_name": "Prairie fleabane",
+  "look_here_first": "LOOK HERE FIRST: in bloom, look for numerous small white-rayed, yellow-centered daisy heads (typically 50–100 narrow ray florets), ALTERNATE narrow upper stem leaves gradually getting shorter upward, and fine hairs lying mostly against/pointing up the stem (STRIGOSE). Look for persistent basal leaves. But don't identify on white flowers or 'untoothed leaves' alone: leaf margins can be entire OR toothed and E. annuus overlaps. Check leaf BASE: E. philadelphicus commonly clasps the stem, unlike the usually nonclasping stem leaves of E. strigosus. Horseweed E. canadensis has numerous MUCH smaller, almost rayless-looking fresh heads.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "morphology_reviewed": true,
+    "last_reviewed": "2026-10-21",
+    "version": "1.4-strigosus-usgs-clasping-compare-20261021",
+    "visual_status": "Crew-closeout: 4 physical exact E. strigosus photos plus visibly labeled non-target USGS Philadelphia CLASPING leaf photo; accurate comparison key finished. One missing exact nonclasping same-scale closeup + fruit macro; never declare photographic full completion without these.",
+    "physical_commons_install": "2026-10-21",
+    "field_training_status": "CREW_CLOSEOUT_DIAGNOSTIC_SPECIALIST_GAPS"
+  },
+  "photo_note": "Four licensed source photos physically installed, including foliage/habit and a pressed specimen; first Chris Stahl photo includes a dog. Diagnostic macro targets not yet verified.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:94159-2",
+  "images": [
+    {
+      "file": "images/inat-691026483.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Chris Stahl, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/691026483",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/commons-sandy-301327401-leaf-stem.jpg",
+      "role": "Narrow leaf blades and visible fine stem hairs. Direction of hairs and clasping state NOT demonstrable.",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "Wikimedia Commons verified same-species named file",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327401.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Erigeron_strigosus_301327401.jpg/960px-Erigeron_strigosus_301327401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloaded_original_sha256": "6885a212537533655ec6c0da5dc9c9a133ced8b3ade428e473ea239333d489d6",
+      "image_dimensions": [
+        960,
+        1280
+      ],
+      "study_use": "Attribution-based public learner field identification",
+      "public_reuse": "CC BY license and creator credited per individual Commons page; alterations must be noted",
+      "modifications": "960px Commons thumbnail physically downloaded, resized if needed, stripped EXIF, JPEG re-encoded",
+      "photo_review": "Previously examined visible plant anatomy and existing marker coordinates; no claim of voucher-quality species diagnosis."
+    },
+    {
+      "file": "images/commons-sandy-301327364-leafy-habit.jpg",
+      "role": "Multiple narrow-leaved shoots, vegetative habit. Same New Jersey observation as Sandy's other photo; roots not visible.",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "Wikimedia Commons verified same-species named file",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327364.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Erigeron_strigosus_301327364.jpg/960px-Erigeron_strigosus_301327364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloaded_original_sha256": "a697f452965ad4d73b3d09145093684630ddc349bc461e80d5ddc2025f89c8db",
+      "image_dimensions": [
+        960,
+        1280
+      ],
+      "study_use": "Attribution-based public learner field identification",
+      "public_reuse": "CC BY license and creator credited per individual Commons page; alterations must be noted",
+      "modifications": "960px Commons thumbnail physically downloaded, resized if needed, stripped EXIF, JPEG re-encoded",
+      "photo_review": "Previously examined visible plant anatomy and existing marker coordinates; no claim of voucher-quality species diagnosis."
+    },
+    {
+      "file": "images/commons-dean-6295169491-pressed-voucher.jpg",
+      "role": "Pressed museum voucher with visible root area and printed scale. Collected British Columbia; no fresh flower color or Texas-provenance claim.",
+      "creator": "Dean Wm. Taylor",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_platform": "Wikimedia Commons verified same-species named file",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_%286295169491%29.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Erigeron_strigosus_%286295169491%29.jpg/960px-Erigeron_strigosus_%286295169491%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloaded_original_sha256": "afa98afddc82a0c8611cc1d2555d672409207e713bc83de301ed2bc4cb830d87",
+      "image_dimensions": [
+        960,
+        1357
+      ],
+      "study_use": "Attribution-based public learner field identification",
+      "public_reuse": "CC BY license and creator credited per individual Commons page; alterations must be noted",
+      "modifications": "960px Commons thumbnail physically downloaded, resized if needed, stripped EXIF, JPEG re-encoded",
+      "photo_review": "Previously examined visible plant anatomy and existing marker coordinates; no claim of voucher-quality species diagnosis."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "filled_at": "2026-10-17",
+    "note": "Four locally installed exact-taxon photos; three previously linked Commons originals no longer duplicated as remote gallery extras. Annotated photo-first teaching and explicit different-species comparison panels. Macro gaps remain."
+  },
+  "morphology_keys": {
+    "habit": "Erect/ascending annual, biennial or short-lived perennial; about 30–70 cm typically. Depending on variety, a simple fibrous-rooted crown or short rhizomes/basal tufts may occur. Do not force a single life cycle in Central Texas.",
+    "leaves": "Lower leaves often persist into flowering; basal spatulate to oblanceolate/linear, taper toward base. Alternate stem leaves generally narrow, gradually reduced toward branching top. Margins VARIABLE — entire, shallowly crenate or genuinely serrate. Leaf-only rule not decisive.",
+    "leaf_base": "Usually nonclasping upper leaves, in contrast to often auriculate/clasping E. philadelphicus. Take a true leaf-node side macro before using as firm species key.",
+    "stems_hairs": "Fine, typically upward-leaning/appressed strigose hairs (sometimes more spreading), versus often conspicuous spreading hairs on E. annuus. Hair direction needs a SHARP lateral close-up and is NOT verifiable from the installed photograph.",
+    "inflorescence": "Numerous composite flower heads in a loose corymb-like to panicle-like branching array; bright yellow central disc florets and many narrow white (rarely pinkish/bluish) ray florets; ray lamina typically 4–6 mm; involucre ~2–4 mm HIGH by ~5–12 mm wide in FNA. Actual whole-head width varies; do not call involucre height head diameter.",
+    "phyllaries": "2–4 overlapping ranks of narrow involucral bracts; pubescence varies. Need a sharp side image with a millimeter ruler; not shown sufficiently in existing site photo.",
+    "fruit": "Cypselae with different pappus pattern between ray and disc fruits (FNA); individual mature fruits and outer corona not photographed at usable scale here. Fruit macros especially useful with E. tenuis and strigosus complex.",
+    "confusion": "E. strigosus is variable and has recognized infraspecific taxa in FNA, including calcicolous types. None of the single source photos independently verifies a variety or Hays County population."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Erigeron annuus",
+      "Erigeron philadelphicus",
+      "Erigeron canadensis",
+      "Erigeron geiseri",
+      "Erigeron modestus",
+      "Erigeron tenuis"
+    ],
+    "look_here_first": "Use THREE checkpoints together: how basal and upper stem leaves are shaped/attached, orientation of stem hairs (hand lens), and FRESH head size/ray length with scale. The existing exact-species photo is flower-focused and does NOT reveal the diagnostic roots, hairs, basal crown, or phyllaries.",
+    "field_key": [
+      {
+        "species": "Erigeron canadensis",
+        "common": "Horseweed",
+        "separate": "Many tiny greenish/pale heads in a strongly branched upper plume; very short barely visible fresh rays. Mature pappus looks white and fluffy but is not fresh flower rays.",
+        "photo": "Installed existing horseweed photo 02 shows standing growth architecture; avoid using fruit photo 03 as fresh flower."
+      },
+      {
+        "species": "Erigeron philadelphicus",
+        "common": "Philadelphia fleabane",
+        "separate": "Stem leaves often conspicuously clasp the stem at base, usually broader/coarser; heads often with more very fine rays (FNA 150–250+, compared with 50–100 in E. strigosus).",
+        "photo": "Actual installed Philadelphia fleabane view included as compare-only; clasping base is not isolated in that image."
+      },
+      {
+        "species": "Erigeron annuus",
+        "common": "Annual fleabane",
+        "separate": "Coarser/broader lower leaves that often wither before flowering, leafy mid-stem and commonly more outwardly spreading stem hairs; overlaps exist.",
+        "photo": "Need verified same-scale annuus and strigosus stem-hair + basal-leaf paired photographs."
+      },
+      {
+        "species": "Erigeron geiseri",
+        "common": "Geiser's fleabane",
+        "separate": "Annual slender taproot with showy fewer large heads, lower stem hairs spreading/deflexed; don't force from white rays alone.",
+        "photo": "Existing geiseri card/gallery can be studied separately."
+      },
+      {
+        "species": "Erigeron modestus",
+        "common": "Plains fleabane",
+        "separate": "Woody longer-lived basal crown with overlapping showy heads; exposed root-base photo most decisive.",
+        "photo": "Existing modestus card/gallery can be studied separately."
+      },
+      {
+        "species": "Erigeron tenuis",
+        "common": "Slender fleabane",
+        "separate": "In complex southeastern/Texas forms, fruit pappus outer corona matters; don't claim certainty without fruit macro and local vouchers.",
+        "photo": "Needed only for expert-level equivocal specimens."
+      }
+    ],
+    "cautions": [
+      "Very narrow leaves and appressed hair are helpful, not immutable binary traits across all populations.",
+      "A small white daisy head is shared across many Asteraceae; not a diagnosis by itself.",
+      "The installed Chris Stahl image is sourced as E. strigosus but alone cannot independently resolve variety, leaf-base details, stem hair angles or root system.",
+      "The look-alike panels are correctly labeled OTHER species, not additional E. strigosus source photographs."
+    ],
+    "paired_leaf_base_closeout": {
+      "current": "E. philadelphicus USGS public-domain photo now VISIBLY demonstrates contrasting partial CLASP; E. strigosus stored CC leaf/stem picture documents narrow foliage but a precise nonclasping node is not fully resolved.",
+      "source_image": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Erigeron+philadelphicus_3637.JPG&id=2993",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+      "if_in_doubt": "Use Erigeron sp. or compare with another mature leaf from same plant; flower color and leaf margins alone are insufficient.",
+      "status": "PRACTICAL_FIELD_PAIR_CLOSED_EXPERT_PAIRED_NODE_PHOTO_PENDING"
+    }
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Prairie fleabane — the thin-petaled daisy with a fine-hair clue",
+    "stages": [
+      {
+        "title": "ONE: inspect the whole plant",
+        "look": "Basal leaves + overall branching",
+        "description": "Do not start and stop at white daisies. Look for lower leaves that persist while flowering and more narrow, gradually smaller alternate stem leaves above."
+      },
+      {
+        "title": "TWO: inspect one intact leaf attachment",
+        "look": "Stem leaf base",
+        "description": "Photograph stem NODE at right angle. A clearly clasping upper leaf suggests E. philadelphicus instead. One flower photo is not enough to establish this trait."
+      },
+      {
+        "title": "THREE: inspect stem hairs with a hand lens",
+        "look": "Strigose versus spreading hairs",
+        "description": "Look on the lower-to-middle stem in side view; hairs usually lean close to/up the stem in strigosus, while E. annuus often has spreading hairs. A blurred stem should be marked unscorable."
+      },
+      {
+        "title": "FOUR: inspect a fresh head and its green cup",
+        "look": "Ray florets, disc florets, phyllaries",
+        "description": "Numerous narrow white (occasionally pale pinkish) rays around a yellow disc; measure actual fresh rays and cup height. Compare with horseweed's much tinier heads and Philadelphia fleabane's often numerous extra rays."
+      },
+      {
+        "title": "FIVE: reserve difficult fruit questions for a macro",
+        "look": "Cypsela and pappus",
+        "description": "Fruit outer pappus traits may be important in E. strigosus versus close taxa, but do not infer pappus ring counts from a flower picture."
+      }
+    ],
+    "glossary": {
+      "capitulum": "One composite daisy 'flower head', built from many small florets.",
+      "rays": "Strap-shaped outer florets, resembling thin petals; commonly white in this species.",
+      "disc": "Cluster of tubular central florets making the yellow center.",
+      "phyllary": "A green bract in the small cup (involucre) immediately underneath a daisy head.",
+      "strigose": "Having short, straight-ish hairs typically lying flat or nearly flat along a surface.",
+      "clasping": "A leaf base that partly wraps around the stem at its point of attachment.",
+      "corymbiform": "Flower cluster in which many head-bearing branches create a loosely level or rounded top.",
+      "cypsela": "Dry one-seeded fruit of the aster family."
+    },
+    "memory_rule": "Thin white rays + yellow centers? That's just the START. Check ALTERNATE leaves → how upper leaf joins stem → fine hair direction → the fresh head. Horseweed is a TINY-head plume; Philadelphia usually has CLASPING upper leaves."
+  },
+  "visual_comparison": {
+    "title": "Prairie fleabane: flower anatomy and two honest look-alikes",
+    "subtitle": "Four physically stored E. strigosus photos, plus several honest DIFFERENT SPECIES comparison views. Public-domain USGS Philadelphia image now shows the actual CLASPING side of the leaf-base contrast. The prairie source foliage shows narrow leaves/hairy stems, but does not conclusively show a matched full nonclasping node; photography remains needed for textbook finish.",
+    "items": [
+      {
+        "label": "1 · PRAIRIE FLEABANE — exact source flowered stem",
+        "scientific_name": "Erigeron strigosus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/inat-691026483.jpg",
+        "image_fit": "contain",
+        "image_role": "Sourced exact-taxon flowered shoot held in hand; dog/photo environment dominates frame",
+        "creator": "Chris Stahl",
+        "license": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/691026483",
+        "caption": "Original photo contains a dog and a held prairie fleabane shoot, not a clean botanical specimen. Visible: small white RAY florets surrounding yellow DISC florets, plus unopened head-like buds on an ascending branch. Stem hairs, crown/root and leaf bases are not resolvable here.",
+        "why_it_matters": "Teaches composite head anatomy, not an independently complete ID. DO NOT draw hair or fruit microarrows on this image.",
+        "markers": [
+          {
+            "label": "White ray florets",
+            "label_x": 1,
+            "label_y": 48,
+            "target_x": 21,
+            "target_y": 61.5
+          },
+          {
+            "label": "Yellow central disc",
+            "label_x": 70,
+            "label_y": 52,
+            "target_x": 57,
+            "target_y": 61
+          },
+          {
+            "label": "Unopened head",
+            "label_x": 65,
+            "label_y": 38,
+            "target_x": 53,
+            "target_y": 47
+          }
+        ],
+        "photo_status": "EXISTING_PHYSICAL_IMAGE visually inspected 2026-10-21; three overlay points target visible flowers and unopened head only; owner phone-layout QA pending. The recorded CC BY source record does not specify a license version; no unsupported 4.0 version asserted."
+      },
+      {
+        "label": "2 · COMPARE-ONLY: PHILADELPHIA FLEABANE",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/inat-209922345.jpg",
+        "image_fit": "contain",
+        "image_role": "DIFFERENT SPECIES: Philadelphia fleabane with fine rays and yellow discs",
+        "creator": "Donald L'Heureux",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/209922345",
+        "caption": "COMPARE-ONLY, NOT prairie fleabane. Philadelphia fleabane is also a small daisy; this source picture shows many very fine white/pale-lilac rays. To prove the usual clasping upper leaf base, you still need a sharp node macro.",
+        "why_it_matters": "Flowers alone can fool the crew: if a plant looks like this, check whether upper leaves partially clasp the stem, and count/measure rays at matched scale.",
+        "markers": [
+          {
+            "label": "Numerous fine rays",
+            "label_x": 2,
+            "label_y": 13,
+            "target_x": 30,
+            "target_y": 21
+          },
+          {
+            "label": "Yellow disc",
+            "label_x": 64,
+            "label_y": 35,
+            "target_x": 42,
+            "target_y": 39
+          }
+        ],
+        "photo_status": "Already installed E. philadelphicus licensed photograph, re-used as explicitly DIFFERENT species comparison; checked at full pixels; compare markers, owner phone QA pending. The recorded CC BY-NC record does not specify a license version; retain source-level license information as recorded."
+      },
+      {
+        "label": "3 · COMPARE-ONLY: HORSEWEED",
+        "scientific_name": "Erigeron canadensis",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/02-upright-flowering-plant.jpg",
+        "image_fit": "contain",
+        "image_role": "DIFFERENT SPECIES: horseweed's tall narrow-leaved central stem with many tiny terminal heads",
+        "creator": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Canadese_fijnstraal_bloeiende_plant_Conyza_canadensis.jpg",
+        "caption": "COMPARE-ONLY, NOT prairie fleabane. Horseweed has a single tall central leafy stem tapering into a plume of many very tiny headlets; the fruit/fluff photo is not necessary here.",
+        "why_it_matters": "A full plant is more informative than flower color: horseweed's extremely small heads and crowded terminal architecture stand apart from showier prairie fleabane heads.",
+        "markers": [
+          {
+            "label": "Tiny clustered heads",
+            "label_x": 2,
+            "label_y": 13,
+            "target_x": 68,
+            "target_y": 24
+          },
+          {
+            "label": "Narrow stem leaves",
+            "label_x": 57,
+            "label_y": 64,
+            "target_x": 47,
+            "target_y": 70
+          }
+        ],
+        "photo_status": "Existing E. canadensis licensed standing-plant photo physically installed, cross-species only. Two already reviewed marker target coordinates reused."
+      },
+      {
+        "label": "4 · PRAIRIE FLEABANE — NARROW LEAVES, HAIRY STEM",
+        "scientific_name": "Erigeron strigosus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-sandy-301327401-leaf-stem.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact-taxonomic source / linked Commons thumbnail, close vegetative structure",
+        "creator": "Sandy Wolkenberg",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327401.jpg",
+        "caption": "Close leaf-and-stem image of one recorded prairie fleabane. Narrow tapering BLADES and short visible STEM HAIRS are present. We cannot assign an exact hair-angle type or a precise upper leaf-base clasping state from this one view; those need separately measured macros.",
+        "why_it_matters": "Unlike the former flower-and-dog-only gallery, this is a good place to recognize the leafy stem and locate where a crew member should use a hand lens.",
+        "markers": [
+          {
+            "label": "Narrow leaf blade",
+            "label_x": 70,
+            "label_y": 26,
+            "target_x": 73,
+            "target_y": 40
+          },
+          {
+            "label": "Visible fine stem hairs",
+            "label_x": 1,
+            "label_y": 58,
+            "target_x": 47,
+            "target_y": 52
+          }
+        ],
+        "photo_status": "PHYSICAL_VERIFIED_2026-10-21: existing displayed photo + anatomy markers retained; mobile overlay signoff pending"
+      },
+      {
+        "label": "5 · PRAIRIE FLEABANE — WHOLE LEAFY PATCH",
+        "scientific_name": "Erigeron strigosus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-sandy-301327364-leafy-habit.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact-taxonomic source / linked Commons vegetative habit",
+        "creator": "Sandy Wolkenberg",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327364.jpg",
+        "caption": "High-angle view of MANY leafy upright-to-ascending shoots and increasingly narrow leaves. No flowers or root attachments exposed. This is the SAME New Jersey observation as the preceding close image, NOT a separately confirmed Texas population.",
+        "why_it_matters": "Shows the plant's leafy stage before relying on generic white-daisy flower recognition; do not force crown type from an obscured ground-level shot.",
+        "markers": [
+          {
+            "label": "Leafy ascending shoot",
+            "label_x": 67,
+            "label_y": 13,
+            "target_x": 50,
+            "target_y": 30
+          },
+          {
+            "label": "Narrow simple blades",
+            "label_x": 57,
+            "label_y": 76,
+            "target_x": 58,
+            "target_y": 65
+          }
+        ],
+        "photo_status": "PHYSICAL_VERIFIED_2026-10-21: existing displayed photo + anatomy markers retained; mobile overlay signoff pending"
+      },
+      {
+        "label": "6 · PRAIRIE FLEABANE — DRIED VOUCHER WITH RULER",
+        "scientific_name": "Erigeron strigosus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-dean-6295169491-pressed-voucher.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact-taxonomic source / linked pressed herbarium specimen",
+        "creator": "Dean Wm. Taylor",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_%286295169491%29.jpg",
+        "caption": "Pressed dried Erigeron strigosus specimen mounted with plant base and roots toward the top center, branched flowering/fruiting stalks and many spent heads; a labeled ruler at LEFT provides scale. The dried heads are not to be taught as fresh open white daisies. This specimen was collected in British Columbia, not Texas.",
+        "why_it_matters": "Shows preserved full architecture and actual specimen scale, alongside a visible root-base arrangement. Detailed phyllary/pappus traits still need true macros.",
+        "markers": [
+          {
+            "label": "Exposed specimen roots",
+            "label_x": 39,
+            "label_y": 7,
+            "target_x": 46,
+            "target_y": 17
+          },
+          {
+            "label": "Several dried heads",
+            "label_x": 69,
+            "label_y": 10,
+            "target_x": 78,
+            "target_y": 19
+          },
+          {
+            "label": "Printed scale ruler",
+            "label_x": 15,
+            "label_y": 60,
+            "target_x": 7,
+            "target_y": 61
+          }
+        ],
+        "photo_status": "PHYSICAL_VERIFIED_2026-10-21: existing displayed photo + anatomy markers retained; mobile overlay signoff pending"
+      },
+      {
+        "label": "LOOK-ALIKE — Philadelphia's CLASPING leaf base (not prairie)",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Erigeron+philadelphicus_3637.JPG&id=2993",
+        "image_fit": "contain",
+        "creator": "Larry Allain, U.S. Geological Survey",
+        "license": "Public domain (USGS Plants of Louisiana guide)",
+        "license_url": "https://warcapps.usgs.gov/PlantID/Home/About",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+        "image_role": "DIFFERENT SPECIES USGS PUBLIC DOMAIN: shows upper leaves partly clasp on Erigeron philadelphicus, contrasting E. strigosus usually nonclasping.",
+        "caption": "COMPARE-ONLY: photo is of E. PHILADELPHICUS, NOT PRAIRIE FLEABANE. USGS photo shows upper green leaf bases broadening as they partly clasp the hairy stem. For E. strigosus look for tapered/subpetiolate usually nonclasping upper leaf insertion on the actual plant, and supporting hairs/rays.",
+        "why_it_matters": "BEST photo-evidenced difference versus prairie fleabane: Philadelphia's upper leaves are often clasping/auriculate, while prairie fleabane usually has narrow, nonclasping upper leaves. The recorded USGS public-domain reuse terms permit this source-linked panel.",
+        "markers": [
+          {
+            "label": "Clasping upper leaf base",
+            "label_x": 1,
+            "label_y": 22,
+            "target_x": 48,
+            "target_y": 47
+          },
+          {
+            "label": "Hairy stem surface",
+            "label_x": 65,
+            "label_y": 9,
+            "target_x": 51,
+            "target_y": 25
+          }
+        ],
+        "annotation_status": "Three visible anatomical arrow targets visually reviewed on USGS search returned image: clasping upper base, actual stem hair and lower stem-leaf junction. Source-image original NOT altered; link may have hotlink restrictions and therefore merits owner phone visual check.",
+        "attribution": {
+          "creator": "Larry Allain, U.S. Geological Survey",
+          "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+          "license": "Public domain (USGS Plants of Louisiana guide)",
+          "license_evidence": "https://warcapps.usgs.gov/PlantID/Home/About"
+        }
+      }
+    ],
+    "annotation_status": "Six panels and fourteen existing arrow overlays retained after replacing three external Commons image URLs with locally downloaded, physically checked source-identical image files. Phone overlay signoff pending.",
+    "part_examples": [
+      {
+        "title": "1 · PRAIRIE FLEABANE — white ray, yellow disc",
+        "role": "actual composite flower head",
+        "anchor_species_id": "erigeron-strigosus",
+        "image_file": "images/inat-691026483.jpg",
+        "look_for": "The radiating white narrow straplike florets surround a yellow central disc; this is one composite head.",
+        "why_it_matters": "Recognize the aster family flower anatomy before narrowing to species."
+      },
+      {
+        "title": "2 · PRAIRIE FLEABANE — closed head (not fruit)",
+        "role": "unopened flower head",
+        "anchor_species_id": "erigeron-strigosus",
+        "image_file": "images/inat-691026483.jpg",
+        "look_for": "The small erect pale buds on same shoot are unopened heads; don't claim cypselae/fruit before maturity.",
+        "why_it_matters": "A bud is not a seedhead, which is especially useful after the horseweed fruit-stage correction."
+      },
+      {
+        "title": "3 · NEED PHOTO — nonclasping node and stem hairs",
+        "role": "leaf base and appressed stem hair macro",
+        "look_for": "Take one unbroken leaf attachment and a sharp side view of mid-stem hairs with a mm ruler, ideally beside confirmed E. annuus or E. philadelphicus.",
+        "why_it_matters": "This is the decisive missing separator, and cannot be verified in current photo.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "4 · NEED PHOTO — full plant with basal leaves",
+        "role": "rooted habit and basal leaves",
+        "look_for": "Full specimen including stem, top branches and intact lower leaves (show variable entire/toothed margins), plus scale.",
+        "why_it_matters": "A flower-only picture can mislead about species, leaf size and seasonal stage.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "5 · NEED PHOTO — phyllaries and pappus",
+        "role": "fresh involucre side + ripe fruit microscope",
+        "look_for": "Separately photograph a fresh head side, green phyllary cup and actual ripe cypsela with outer corona at millimeter scale.",
+        "why_it_matters": "Needed to resolve more difficult E. strigosus / E. tenuis complex and varieties.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "6 · NARROW upper leaves and a truly hairy stem",
+        "role": "linked real photo close plant structure",
+        "look_for": "Source-credited close-up with narrow simple leaf blades and visible small stem hairs. Orientation and clasping are NOT fully proven by this source.",
+        "why_it_matters": "Know where the field user should zoom into a real stem rather than relying on white flowers alone.",
+        "status": "installed_photo_reference",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-sandy-301327401-leaf-stem.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327401.jpg"
+      },
+      {
+        "title": "7 · MANY leafy young shoots",
+        "role": "linked vegetative habitat photo",
+        "look_for": "Many ascending leafy stems with alternate-looking narrow foliage, but root attachment is hidden.",
+        "why_it_matters": "Connects flowering photos with the everyday green leafy stage in beds and trails.",
+        "status": "installed_photo_reference",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-sandy-301327364-leafy-habit.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327364.jpg"
+      },
+      {
+        "title": "8 · DRIED roots, stem and actual printed scale",
+        "role": "linked preserved voucher reference",
+        "look_for": "Photo includes identifiable dried stalks, roots and a clearly marked reference ruler at left. This is a British Columbia voucher, not local nativity proof.",
+        "why_it_matters": "Demonstrates what botanists need to preserve and measure on a serious specimen, without pretending dried heads show fresh ray color.",
+        "status": "installed_photo_reference",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/commons-dean-6295169491-pressed-voucher.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_%286295169491%29.jpg"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "status": "FIELD_READY_EXTERNAL_GALLERY_WITH_PHOTO_GAPS",
+    "purpose": "Fast crew identification with scientifically honest limitation: visible composite rays/discs, practical lookalikes, decisive diagnostic photo requests.",
+    "directions": [
+      "Capture rooted habit with basal and terminal portions",
+      "Photograph an upper leaf attachment to judge clasping",
+      "Side-photo lower-middle stem with mm ruler to distinguish appressed versus spreading hairs",
+      "Shoot one freshly open head front/side, then later a ripe fruit closeup"
+    ],
+    "recognize": "Many small, conspicuous white-rayed heads with yellow discs, leaves alternate and generally narrower toward top, appressed/ascending fine hairs often present; no single clue sufficient.",
+    "not_shown": [
+      "Fresh flowers AND leaf bases clearly on same local plant",
+      "Millimeter-certified stem hair angle (visible hairs in Commons close-up are not enough to key direction)",
+      "Confirmed nonclasping mature upper leaf base in high resolution",
+      "Fresh involucre measurement with ruler",
+      "True single cypsela and pappus corona macro"
+    ],
+    "source_scope": "4 physically installed exact E. strigosus photos: one original flower/dog, two Sandy Wolkenberg NJ images from ONE observation, one British Columbia pressed specimen. Two look-alike photo panels clearly DIFFERENT species. 3 redundant Commons remote duplicate references removed; all individual creator/licenses retained on the installed photos. None proves Hays locality.",
+    "user_phone_review": "PENDING",
+    "heading": "Prairie fleabane — leaf and stem before flower color",
+    "featured_photo_indices": [
+      3,
+      4,
+      0
+    ],
+    "steps": [
+      "Look at the close stem photo for slender leaves and fine hairs; an attached upper leaf normally does not CLASP the stem.",
+      "Compare whole branching leafy habit; foliage margins can be ENTIRE OR TOOTHED, not a binary identification clue.",
+      "Look at fresh white-rayed heads (about 50–100 rays) and compare the still-missing same-scale Philadelphia clasping leaf macro."
+    ],
+    "field_rule": "Crew field rule: E. strigosus often narrow nonclasping upper leaves, appressed/ascending hairs, ~50–100 rays. The comparison section now PHOTOGRAPHS Philadelphia's contrasting partly clasping leaf base; do not infer a fully documented nonclasping closeup from unsharp prairie source images.",
+    "warning": "Matched pair NOT yet fully photographed at equivalent scale; after exhausting verified sources this remains an expert/photo-polish gap, not a reason to keep reworking the complete field key."
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "REPLACE MAIN FACE: intact entire prairie fleabane",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "Current sole source includes large dog and hand, not enough plant habit."
+    },
+    {
+      "role": "ALTERNATE upper leaf attachment at right angle; with mm ruler",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "Discriminates from E. philadelphicus where leaf base typically clasps."
+    },
+    {
+      "role": "SHARP lower and upper stem hair side macro",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "Fine mostly ascending/appressed hairs versus commonly spreading hairs of E. annuus."
+    },
+    {
+      "role": "ACTUAL FRESH daisy flower front + side with mm ruler",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "Count/note ~50–100 rays, involucre height and shape."
+    },
+    {
+      "role": "Basal entire/serrate leaf and plant base, with source geolocation suppressed",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "Basal foliage may persist into bloom, marginal teeth variable."
+    },
+    {
+      "role": "Cypsela/pappus macro",
+      "status": "NEEDS_PUBLIC_PHOTO",
+      "why": "For close E. strigosus / E. tenuis confirmation and variety questions."
+    }
+  ],
+  "source_photo_leads": [
+    {
+      "species": "Erigeron strigosus",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327401.jpg",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "photo_id": "301327401",
+      "intended_role": "Source-qualified potential complementary exact-taxon photograph",
+      "status": "EXACT_SOURCE_PHYSICALLY_INSTALLED_WITH_LICENSED_PHOTO_METADATA",
+      "note": "iNaturalist2Commons image from a New Jersey observation, not local Texas provenance."
+    },
+    {
+      "species": "Erigeron strigosus",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327364.jpg",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "photo_id": "301327364",
+      "intended_role": "Second angle from same taxon-labeled observation",
+      "status": "EXACT_SOURCE_PHYSICALLY_INSTALLED_WITH_LICENSED_PHOTO_METADATA",
+      "note": "Need verify which plant anatomy is actually visible before placing arrows."
+    },
+    {
+      "species": "Erigeron strigosus",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_%286295169491%29.jpg",
+      "creator": "Dean Wm. Taylor",
+      "license": "CC BY 2.0",
+      "intended_role": "High-resolution source, investigate whether intact habit or macro details useful",
+      "status": "EXACT_SOURCE_PHYSICALLY_INSTALLED_WITH_LICENSED_PHOTO_METADATA",
+      "note": "Check exact in-frame plant and image resolution, resize/strip EXIF before installing."
+    }
+  ],
+  "gallery_external_refs": []
+}

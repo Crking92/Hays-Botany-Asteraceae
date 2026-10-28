@@ -1,0 +1,12 @@
+﻿Helianthus annuus PHOTO SET
+
+Resolved iNaturalist taxon: Helianthus annuus [ID 57983]
+Downloaded images: 5
+
+Learning priority:
+- whole plant architecture
+- leaf arrangement/dissection
+- head details / phyllaries
+- same-observation multi-view set when possible
+
+This script patched only the images array in species.json and preserved the rest of the species data.

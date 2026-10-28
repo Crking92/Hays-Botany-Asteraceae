@@ -1,0 +1,12 @@
+PHOTO FAST-FILL 025 — Helenium quadridentatum
+Date: 2026-10-05
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept compatible media.
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Helenium quadridentatum Labill.
+https://www.gbif.org/occurrence/4413829393
+Erick Vélez Sánchez | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Ovoid to conical flower disk and winged stem from decurrent leaf bases
+No anatomy arrows; no scientific or native-range changes.

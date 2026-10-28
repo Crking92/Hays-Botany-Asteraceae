@@ -1,0 +1,112 @@
+{
+  "id": "artemisia-ludoviciana",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Artemisia",
+  "species": "ludoviciana",
+  "scientific_name": "Artemisia ludoviciana",
+  "authority": "Nutt.",
+  "common_name": "Silver wormwood",
+  "look_here_first": "LOOK HERE FIRST: Is this a rhizomatous upright herb, rather than a large woody sagebrush shrub? Check the soft silvery or two-toned stem leaves (entire, toothed or lobed), then the many small, inconspicuous flower heads in a narrow to branched cluster. Leaf color alone cannot confirm the species.",
+  "taxonomy_notes": "POWO accepts Artemisia ludoviciana at species rank and recognizes multiple subspecies. Approved Master Plant Pool source is species-level; do not force a subspecies from the selected Idaho photograph. Distinct from woody Artemisia tridentata.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 99; approved source-pool",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Preserve internal UNRESOLVED; no county PASS claimed. Do not show range badge on ordinary learner card."
+  },
+  "morphology_keys": {
+    "habit": "Aromatic, spreading rhizomatous perennial herb, typically 20–80 cm tall; stems erect, simple or branched, often hairy.",
+    "leaves_attachment": "Leaves along stems, linear to broadly elliptic, about 1.5–11 cm long; margins entire, toothed or variably lobed; gray-green, white-silvery or two-toned with hairs. Variation includes subspecies.",
+    "flower_reproductive": "Small disciform heads grouped in compact or open branched arrays, erect to nodding; involucres approximately 2–4 mm with densely woolly gray-green phyllaries; ray florets absent.",
+    "fruit_seed": "Tiny dry one-seeded cypselae, around 0.5 mm; no conspicuous pappus.",
+    "stem_bud": "Look for herbaceous upright stems and spreading rhizomes; do not identify solely from gray foliage."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Artemisia tridentata (persistent three-tipped wedge-shaped leaves on a woody shrub, not a rhizomatous herb)",
+      "Artemisia vulgaris (often strongly two-toned leaves, more deeply cut and often taller; examine several leaves and heads)",
+      "Artemisia douglasiana (broader often entire leaves, generally taller; western comparison)"
+    ],
+    "key_distinctions": "Combine perennial rhizomatous herb habit, variable silver or bicolored cauline leaves, and small woolly-involucred heads. Big sagebrush is a much woodier shrub with persistent small wedge-shaped leaves usually shallowly three-tipped."
+  },
+  "diagnostic_image_needs": [
+    "staged_source: exact-species flowering upper stem and small heads, Thayne Tuason CC BY-SA 4.0; verify installer image bytes and gallery after Action",
+    "needs_photo: whole rooted habit with stems and rhizomatous spread in Central Texas",
+    "needs_photo: matched upper/lower leaf surfaces and variation in lobing",
+    "needs_photo: macro of small involucre/phyllaries and mature heads with scale",
+    "annotation_pending: add arrows only after inspecting actual installed image"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/artemisia-ludoviciana-flowering-commons.jpg",
+      "role": "Look closer · upright narrow flowering spike with numerous small clustered pale heads and silvery leaves; underground rhizomes not shown",
+      "creator": "Thayne Tuason",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Artemisia_ludoviciana-7-22-04.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 4.0"
+    },
+    {
+      "file": "images/library-review011-a025847c23011cb.jpg",
+      "role": "Recognize · small low shoot with silvery lobed leaves arising from ground vegetation; growth habit and belowground rhizomes not established",
+      "requested_diagnostic_view": "Silvery basal/young foliage and mature leafy branch; complements existing inflorescence",
+      "creator": "sonoresmore",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6131199080",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607530532/original.jpg",
+      "source_determination": "Artemisia ludoviciana",
+      "source_observation_id": "6131199080",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/artemisia-ludoviciana/gbif-b7685de35d5d12.jpg",
+      "archive_image_sha256": "38059db18f0c086cea0041be80c97161df07d13a4f1489510da4334189f273ba",
+      "image_dimensions": [
+        1155,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review011-a962f74751666ca.jpg",
+      "role": "Look closer · densely silvery dissected foliage beside a dry branching seedhead in mixed vegetation; the dry stalk may be a different plant",
+      "requested_diagnostic_view": "Silvery basal/young foliage and mature leafy branch; complements existing inflorescence",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6171063589",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620255525/original.jpg",
+      "source_determination": "Artemisia ludoviciana",
+      "source_observation_id": "6171063589",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/artemisia-ludoviciana/gbif-260d4ee691de9d.jpg",
+      "archive_image_sha256": "1a60eac206c62349f0938193a593a4dfbd34329fbe4f21a9da1e6ba860953438",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_011": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

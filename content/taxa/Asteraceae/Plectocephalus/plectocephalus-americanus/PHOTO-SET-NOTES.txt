@@ -1,0 +1,6 @@
+﻿Plectocephalus americanus PHOTO SET
+
+Resolved iNaturalist taxon: Plectocephalus americanus [ID 699778]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

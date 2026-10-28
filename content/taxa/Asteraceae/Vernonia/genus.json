@@ -1,0 +1,83 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Vernonia",
+  "authority": "Schreb.",
+  "common_group": "Ironweeds",
+  "project_scope": {
+    "selection_mode": "B089 hybrid anchor + B161 strict parent review",
+    "canonical_ids": [
+      "vernonia-baldwinii",
+      "vernonia-lindheimeri",
+      "vernonia-x-guadalupensis"
+    ],
+    "pending_strict_review": [],
+    "represented_source_concepts": [
+      "vernonia-guadalupensis"
+    ],
+    "source_concept_count": 4,
+    "note": "Current learner comparison set contains both canonical parents, Vernonia baldwinii and V. lindheimeri, plus canonical natural hybrid V. × guadalupensis. Plain V. guadalupensis remains a represented source alias of the hybrid concept.",
+    "reviewed_pass_pending_approval": []
+  },
+  "source_concept_status": [
+    {
+      "id": "vernonia-x-guadalupensis",
+      "scientific_name": "Vernonia × guadalupensis",
+      "status": "CANONICAL_PASS_NATURAL_HYBRID"
+    },
+    {
+      "id": "vernonia-guadalupensis",
+      "scientific_name": "Vernonia guadalupensis",
+      "status": "SOURCE_FORMAT_ALIAS_REPRESENTED_BY_VERNONIA_X_GUADALUPENSIS"
+    },
+    {
+      "id": "vernonia-baldwinii",
+      "scientific_name": "Vernonia baldwinii",
+      "status": "CANONICAL_LEARNER_APPROVED_RANGE_UNRESOLVED"
+    },
+    {
+      "id": "vernonia-lindheimeri",
+      "scientific_name": "Vernonia lindheimeri",
+      "status": "CANONICAL_LEARNER_APPROVED_RANGE_UNRESOLVED"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "leaf width",
+      "upper- and lower-surface hairiness",
+      "revolute versus flatter leaf margins",
+      "whole-plant stature and branching",
+      "discoid purple head clusters",
+      "intermediate characters in the natural hybrid"
+    ],
+    "warning": "Do not force intermediate plants into either parent. Vernonia × guadalupensis is an accepted natural hybrid between V. baldwinii and V. lindheimeri. V. baldwinii is the much broader-leaved parent; V. lindheimeri has very narrow linear, strongly revolute leaves densely woolly beneath. Mature flowering material and nearby parent populations are important."
+  },
+  "quick_comparison": [
+    "V. baldwinii — broad-leaved parent endpoint: robust ironweed with much broader ovate to lance-ovate leaves; lower surfaces hairy/tomentose.",
+    "V. lindheimeri — narrow-leaved parent endpoint: linear cauline leaves about 5–8 cm × 2–4 mm, strongly revolute margins, densely sericeo-tomentose beneath and usually glabrate above.",
+    "V. × guadalupensis — accepted natural hybrid; intermediate leaf width, margin roll and indumentum can bridge the parents, so do not force an intermediate plant into either parent."
+  ],
+  "curation_status": {
+    "version": "1.2-canonical-parent-visual-comparison-2026-10-07",
+    "genus_audit": "current_source_pool_canonical_parent_hybrid_comparison_ready_visual_assets_pending",
+    "last_reviewed": "2026-10-07"
+  },
+  "visual_comparison_plan": {
+    "primary_teaching_plate": "Three-column V. baldwinii | V. × guadalupensis | V. lindheimeri comparison using matched views and the same scale.",
+    "matched_views": [
+      "whole mature mid-stem leaf at same scale",
+      "leaf-margin oblique/profile view",
+      "upper leaf-surface macro",
+      "lower leaf-surface macro",
+      "whole flowering habit / terminal head array"
+    ],
+    "annotation_rules": [
+      "mark blade width and length axes on all three leaves",
+      "arrow to revolute margins where present",
+      "label upper versus lower leaf surfaces",
+      "keep flower color secondary; the lesson is leaf proportion + margin roll + indumentum",
+      "visually bracket the hybrid as an intermediate zone rather than drawing a false hard boundary"
+    ],
+    "priority": "high"
+  }
+}

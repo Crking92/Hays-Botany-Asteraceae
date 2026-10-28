@@ -1,0 +1,134 @@
+{
+  "id": "symphyotrichum-patens",
+  "entry_type": "provisional_species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "patens",
+  "scientific_name": "Symphyotrichum patens",
+  "authority": "(Aiton) G.L.Nesom",
+  "common_name": "Late purple aster",
+  "look_here_first": "FIRST photograph a MATURE UPPER-STEM NODE: the sessile leaf has two rounded, conspicuously HEART-SHAPED CLASPING auricles which wrap the stem. Check stiff, relatively broad upper leaves and spreading branch angles. Unlike S. oblongifolium, the leaf base is deeply cordate, not merely rounded or slightly clasping. IMPORTANT: S. patens var. patens ALSO has stalked glands, so gland presence cannot independently separate it from aromatic aster.",
+  "county_occurrences_target_zone": [
+    "Williamson"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Williamson.",
+    "range_guardrail": "Accepted taxon; exact target-zone range incomplete."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial",
+      "upright hairy stems",
+      "rough oval-oblong leaves",
+      "upper leaves often clasping",
+      "blue-violet rays",
+      "yellow disc florets"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_comparison_upgrade": "genus-2.1",
+    "scientific_range_status_preserved": true,
+    "pair_photo_review": "actual photo references found; macro final polish deferred",
+    "range_status_unchanged": true,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/symphyotrichum-patens-provisional-face.jpg",
+      "role": "Flowering habit recognizable face",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_patens_-_Late_Purple_Aster.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6234593344-05acbf2f0.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Upper stem node showing rounded heart-shaped clasping leaf auricles",
+      "creator": "Matt Tomlinson",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234593344",
+      "gbif_occurrence_id": "6234593344",
+      "source_determination": "Symphyotrichum patens (Aiton) G.L.Nesom",
+      "accepted_target": "Symphyotrichum patens",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641316829/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "comparisons": {
+    "key_distinctions": "Against S. oblongifolium: look at how strongly upper leaves clasp the stem—S. patens upper leaves are truly cordate-amplexicaul/auriculate, whereas S. oblongifolium has relatively short oblong leaves that are often only rounded or mildly clasping. Glandular phyllaries occur in S. patens too, with substantial varietal variation; gland presence is NOT an exclusive oblongifolium character.",
+    "confused_with": [
+      "Symphyotrichum oblongifolium"
+    ]
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "True upper-stem leaf base with entire stem circumference visible",
+      "priority": "must-have",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Comparison at the same node height against S. oblongifolium",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Mature inflorescence branch angle habit",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Phyllary gland/hair shot labeled variety when known",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    }
+  ],
+  "diagnostic_photo_polish_2026_10_12": {
+    "opponent": "Symphyotrichum oblongifolium",
+    "first_trait": "Upper leaf bases deeply cordate-clasping, rounded auricles encircle stem",
+    "exact_photo_source": "https://gobotany.nativeplanttrust.org/species/symphyotrichum/patens/",
+    "photography_roles": [
+      "upper stem node, leaf base attached, exact source and scale",
+      "upper flowering peduncle 10–20× gland hair head in focus",
+      "side view phyllary hair/gland",
+      "whole crown/branch architecture"
+    ],
+    "copyright": "Go Botany and MissouriPlants actual diagnostics are COPYRIGHTED linked study references; not embedded as learner files. Current licensed existing face photo remains in images[] unchanged.",
+    "caveat": "Stalked glands occur on S. patens var. patens AND S. oblongifolium; neither purple rays nor scent nor gland presence alone is sufficient.",
+    "final_polish": "Need matching licensed high-resolution upper-leaf node photos to place reliable arrows; provisional photo+lesson useful before then."
+  }
+}

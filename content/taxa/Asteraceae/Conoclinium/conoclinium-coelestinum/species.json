@@ -1,0 +1,176 @@
+{
+  "id": "conoclinium-coelestinum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
+  "species": "coelestinum",
+  "scientific_name": "Conoclinium coelestinum",
+  "authority": "(L.) DC.",
+  "common_name": "Blue mistflower",
+  "synonyms": [
+    "Eupatorium coelestinum"
+  ],
+  "look_here_first": "Check a mature middle leaf: triangular/deltate to ovate with a continuous margin bearing teeth but NOT deep lobes or dissections; opposite leaves and blue-violet rayless heads support Conoclinium. Compare C. dissectum's palmately cut foliage.",
+  "county_occurrences_target_zone": [
+    "Bexar",
+    "Burnet",
+    "Comal",
+    "Hays",
+    "San Saba",
+    "Travis"
+  ],
+  "target_zone_count": 6,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Corrected 2026-10-12: original three-county field incorrectly counted Williamson County, which is outside project target zone. USDA PLANTS-derived native county list documents Bexar, Burnet, Comal, Hays, San Saba, Travis (all six in project zone); cross-checked with BONAP native county distribution map. Prior Hays/Travis/WilIiamson note is kept as audit history only.",
+    "range_sources": [
+      {
+        "authority": "BONAP/NAPA native-county map",
+        "url": "https://bonap.net/MapGallery/County/Conoclinium%20coelestinum.png"
+      },
+      {
+        "authority": "USDA PLANTS county list (rootfast display)",
+        "url": "https://rootfast.org/plants/COCO13"
+      },
+      {
+        "authority": "NPSOT species profile",
+        "url": "https://www.npsot.org/posts/native-plant/conoclinium-coelestinum/"
+      }
+    ],
+    "range_audit": {
+      "date": "2026-10-12",
+      "previous_project_count": 3,
+      "previous_list": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "correction": "Williamson excluded (not part of project target-zone); Bexar/Burnet/Comal/San Saba added based on native-county records",
+      "result": "PASS preserved, corrected six-county evidence."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "opposite triangular/deltate leaves with 3 strong basal veins",
+      "rhizomatous colony-forming perennial",
+      "flat-topped to domed array of many small blue-violet heads",
+      "heads are discoid: disk florets only, no rays",
+      "cypsela topped by capillary pappus"
+    ],
+    "leaf_arrangement": "Opposite and decussate.",
+    "leaf_morphology": "Triangular to deltate, serrate/dentate, strongly 3-veined from base.",
+    "heads": "Small blue-violet discoid heads with no ray florets.",
+    "inflorescence": "Terminal/axillary flat-topped to domed array.",
+    "fruit": "Ribbed cypsela with capillary pappus.",
+    "reproductive_confirmation": "FNA: corollas usually 2–2.5 mm; cypselae 1–1.5 mm glabrous."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Conoclinium dissectum",
+      "Chromolaena odorata",
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Fleischmannia incarnata"
+    ],
+    "key_distinctions": "Versus C. dissectum: intact triangular/deltate toothed blades rather than deeply lobed; shorter glabrous 1–1.5 mm cypselae vs longer hispidulous 1.8–2.5 mm. Versus Chromolaena odorata: Conoclinium has short hemispheric involucres, not long cylindrical 8–10 mm ones.",
+    "additional_separators": [
+      {
+        "taxon": "Fleischmannia incarnata",
+        "structure": "Floret count and receptacle",
+        "differences": "Fleischmannia often ~13–25 pink-purple disk florets/head, lax/scandent stems, receptacle flat to slightly convex. Conoclinium genus has ~35–70+ disk florets/head and a CONIC receptacle.",
+        "note": "Count florets in a SINGLE capitulum, not the entire flat-topped cluster; flower color not diagnostic."
+      }
+    ]
+  },
+  "tags": [
+    "Asteraceae",
+    "Conoclinium",
+    "Blue mistflower",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b016",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "diagnostic_polish_date": "2026-10-12",
+    "diagnostic_photo_lock": "pending_matched_leaf_and_cypsela_views",
+    "diagnostic_reference_date": "2026-10-12"
+  },
+  "photo_note": "Photo roles defined; final exact set can improve later.",
+  "images": [
+    {
+      "file": "images/01-flowering-plant-context.jpg",
+      "role": "Flowering plant and inflorescence context",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum_729315062.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-blue-violet-heads-foliage.jpg",
+      "role": "Blue-violet discoid heads with upper foliage",
+      "creator": "Emily Summerbell",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum_154837846.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flower-head-closeup.jpg",
+      "role": "Close flowering-head confirmation; disk florets without rays",
+      "creator": "Kingdon",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-usgs-opposite-toothed-leaves.jpg",
+      "role": "Opposite intact toothed leaves and heads",
+      "creator": "USGS (guide producers Larry Allain and Chris Reid)",
+      "license": "Public Domain",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/870",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "role": "leaf_comparison",
+      "priority": "P1",
+      "shot": "one flattened mature middle stem leaf, upper and underside, with ruler",
+      "must_show": "continuous toothed margin and 3 basal veins",
+      "status": "diagnostic_match_pending"
+    },
+    {
+      "role": "fruit_macro",
+      "priority": "P1",
+      "shot": "ripe cypsela with millimeter scale at 10x or macro",
+      "must_show": "1–1.5 mm length and glabrous surface",
+      "status": "diagnostic_match_pending"
+    },
+    {
+      "role": "head_side_macro",
+      "priority": "P2",
+      "shot": "one individual involucre sideways, scale and clear phyllaries",
+      "must_show": "phyllary series and rounded/hemispheric head base",
+      "status": "diagnostic_match_pending"
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220003245"
+    }
+  ],
+  "diagnostic_reference_index": "content/taxa/Asteraceae/mistflower-diagnostic-reference-index.json",
+  "research_caveat": "FNA reports C. coelestinum cypselae 1–1.5 mm and glabrous; Missouri Plants reports 1.6–2.4 mm and glabrous. Preserve both as a research discrepancy; do not teach fruit length as a sole hard discriminator."
+}

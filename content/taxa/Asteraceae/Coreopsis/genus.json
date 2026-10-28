@@ -1,0 +1,448 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Coreopsis",
+  "authority": "L.",
+  "common_group": "Tickseeds",
+  "project_scope": {
+    "selection_mode": "four-canonical-species morphology/visual learner: native-range independent",
+    "canonical_species_ids": [
+      "coreopsis-basalis",
+      "coreopsis-tinctoria",
+      "coreopsis-wrightii",
+      "coreopsis-lanceolata"
+    ],
+    "canonical_species_count": 4,
+    "reviewed_holds": [
+      "coreopsis-lanceolata"
+    ],
+    "source_concept_count": 4,
+    "note": "All FOUR Coreopsis taxa exist in the canonical manifest. C. lanceolata is a legitimately installed learner card but native-target-zone status is UNRESOLVED and excluded from confirmed-native metrics. C. wrightii is a distinct accepted Kew/USDA-GRIN concept while FNA folds it within C. basalis. Preserve scientific ambiguity, no taxonomy/range changed.",
+    "learner_installed_species_ids": [
+      "coreopsis-basalis",
+      "coreopsis-tinctoria",
+      "coreopsis-wrightii",
+      "coreopsis-lanceolata"
+    ],
+    "reviewed_range_unresolved": [
+      "coreopsis-lanceolata"
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "whole-plant architecture",
+      "leaf arrangement and dissection",
+      "phyllaries",
+      "ray vs disc makeup",
+      "pappus/fruit when available"
+    ],
+    "warning": "Many Asteraceae look similar from a distance. Use head structure and involucre details, not just a yellow flower photo."
+  },
+  "curation_status": {
+    "version": "1.4-four-canonical-coreopsis-photo-first",
+    "last_reviewed": "2026-10-14",
+    "genus_audit": "morphology_and_visual_lesson_updated; final_macro_polish_pending",
+    "species_work_independent": true,
+    "source_concepts_reconciled": true,
+    "installed_photo_panels": 7,
+    "installed_species_photo_covered": 3,
+    "external_species_photo_only": [
+      "coreopsis-wrightii"
+    ],
+    "rights_note": "Six source photos noncommercial or rights-review; no all-rights-reserved basalis image reused; the single lanceolata photo is CC BY. Existing species source status/range labels preserved."
+  },
+  "b067_comparison": {
+    "selection_mode": "B067 same-genus comparison",
+    "species_ids": [
+      "coreopsis-wrightii"
+    ],
+    "species_count": 1,
+    "holds": [
+      "coreopsis-lanceolata"
+    ],
+    "anchors": [
+      "coreopsis-basalis",
+      "coreopsis-tinctoria"
+    ]
+  },
+  "b067_study_strategy": {
+    "priority": [
+      "annual vs perennial",
+      "leaf width and division",
+      "ray basal markings",
+      "peduncle length",
+      "phyllaries",
+      "taxonomy conflict awareness"
+    ],
+    "warning": "Coreopsis wrightii has been synonymized with C. basalis in older ITIS/FNA treatments, but current Kew accepts it as a distinct species. Preserve that conflict explicitly."
+  },
+  "b067_comparison_lesson": {
+    "quick_split": [
+      "C. basalis — slender annual with finely divided leaves and yellow rays commonly showing a dark basal blotch.",
+      "C. tinctoria — branching annual with threadlike divided foliage and strongly bicolored yellow/red-brown rays.",
+      "C. wrightii — slender annual with narrow linear leaves; yellow rays usually have rusty-red to maroon basal markings and 3-toothed tips. Older treatments may merge it with C. basalis, so use the full character package.",
+      "C. lanceolata — comparison-only HOLD; perennial, with basal/proximal leaves that are simple or only lightly lobed and broadly lanceolate to oblanceolate relative to the finely divided annual project species."
+    ],
+    "hold_rule": "Do not use cultivated C. lanceolata or plant-sale records to satisfy the project's target-zone native-range threshold."
+  },
+  "recognition": {
+    "where_to_look_first": "For the project set, start with life cycle and leaf architecture before judging ray color. Then compare the distribution and intensity of red-brown basal ray markings, plant branching, and head size.",
+    "priority": [
+      "annual versus perennial habit",
+      "finely divided/threadlike versus narrow-linear versus broader simple/lobed leaves",
+      "where leaves are concentrated on the stem",
+      "ray color pattern, especially basal red-brown markings",
+      "ray-tip lobing and head proportions",
+      "cypsela characters only when vegetative and floral traits remain ambiguous"
+    ],
+    "warning": "Coreopsis is morphologically broad as a genus, and early versus later leaves can differ on the same plant. Use the complete character set rather than ray color alone."
+  },
+  "visual_anchors": [
+    {
+      "species_id": "coreopsis-basalis",
+      "roles": [
+        "curated taxon reference 1",
+        "curated taxon reference 2",
+        "same-observation field views"
+      ]
+    },
+    {
+      "species_id": "coreopsis-tinctoria",
+      "roles": [
+        "curated taxon reference 1",
+        "curated taxon reference 2",
+        "same-observation field views"
+      ]
+    }
+  ],
+  "visual_needs": [
+    "side-by-side whole plants of C. basalis, C. tinctoria, and C. wrightii at similar scale",
+    "leaf architecture comparison: finely divided basalis, threadlike-divided tinctoria, narrow-linear wrightii",
+    "ray-base comparison showing the dark/bicolored markings across the three annual anchors",
+    "exact displayable C. wrightii habit, leaf, and head closeups",
+    "C. lanceolata comparison image only as an explicitly labeled HOLD, emphasizing broader simple/lightly lobed leaves and perennial habit",
+    "annotated basalis-versus-wrightii comparison because historical treatments can blur that pair"
+  ],
+  "visual_status": "fast_fill_coverage_live",
+  "source_notes": [
+    "Flora of North America notes broad variation in Coreopsis leaf arrangement and dissection and warns that early leaves can differ strongly from later leaves.",
+    "FNA treats C. lanceolata as a perennial with simple or lightly lobed lanceolate-to-oblanceolate leaves, useful as a visual contrast but not a range-approved project species."
+  ],
+  "fast_fill_note": "C. basalis and C. tinctoria retain existing image galleries; C. wrightii now has a 3-view private-study UT Austin BIO406D PlantPics diagnostic set (habit, flower head, leaf/stem arrangement). C. lanceolata remains comparison-only HOLD and is not promoted by visual work.",
+  "source_concept_status": [
+    {
+      "id": "coreopsis-basalis",
+      "scientific_name": "Coreopsis basalis",
+      "status": "CANONICAL_LEARNER; county native range not yet finalized",
+      "media": "5 local physical image files; 4 CC BY-NC, 1 all-rights-reserved (NOT reused in new genus lesson)"
+    },
+    {
+      "id": "coreopsis-tinctoria",
+      "scientific_name": "Coreopsis tinctoria",
+      "status": "CANONICAL_LEARNER; county native range not yet finalized",
+      "media": "5 physical local files, all CC BY-NC/private study"
+    },
+    {
+      "id": "coreopsis-wrightii",
+      "scientific_name": "Coreopsis wrightii",
+      "status": "CANONICAL_PASS",
+      "taxonomic_caution": "Distinct in Kew/USDA GRIN; FNA included under C. basalis",
+      "media": "3 offsite UT BIO406D images only; not installed; rights not public-cleared"
+    },
+    {
+      "id": "coreopsis-lanceolata",
+      "scientific_name": "Coreopsis lanceolata",
+      "status": "CANONICAL_LEARNER_RANGE_UNRESOLVED; do not count as native",
+      "native_metrics_excluded": true,
+      "media": "1 local physical image, CC BY"
+    }
+  ],
+  "look_here_first": "START by deciding PERENNIAL versus ANNUAL and checking WHERE LEAVES ARE FOUND ON THE STEM. C. lanceolata = perennial with a basal/lower cluster of broad simple or weakly lobed lance-shaped leaves, long mostly leafless flowering stalks, and usually plain yellow rays. C. basalis, C. tinctoria and C. wrightii = usually slender annuals with divided leaves and rays often marked red/brown near their bases. NEXT compare complete mid-stem leaf lobes (their WIDTH and pinnate division), flowering branch lengths, and the SIDE and BACK of a head: outer CALYCULAR BRACELETS (calyculus) versus INNER PHYLLARIES. The KEY C. basalis versus C. wrightii is taxonomically disputed: FNA combines them whereas Kew/USDA treat wrightii separately, so label ambiguous intermediates and DO NOT force IDs from one reddish ray mark.",
+  "shared_traits": [
+    "Tickseeds have composite ASTERACEAE 'FLOWER HEADS' (CAPITULA), not single flowers: showy outer RAY FLORETS surround many central DISK FLORETS; ray petals are actually the straps (ligules) of individual florets.",
+    "Beneath the flower head are two diagnostic layers to inspect in this group: an outer CALYCULUS of small green bractlets, and inner INVOLUCRAL PHYLLARIES (the bracts immediately supporting the entire head). Separate outer from inner when counting or comparing.",
+    "Leaves may be basal and stem-borne (cauline), often opposite but variable; annual species typically have more divided foliage, while C. lanceolata often keeps broader lower leaves.",
+    "Fruit is an individual dry CYPSELA (achene-like one-seeded fruit) per fertile floret; wing and pappus detail is a high-value technical character and normally requires a millimeter macro.",
+    "Yellow rays with dark red or brown bases occur in basalis, tinctoria, and wrightii; pattern variation makes flower color UNRELIABLE as a strict species key."
+  ],
+  "genus_diagnostics": {
+    "head": "Look at ONE flower HEAD from front and from below. The outer petal-like yellow straps belong to separate RAY FLORETS; the darker or yellow central area is MANY small DISK FLORETS. A head is a cluster/inflorescence, not one huge flower.",
+    "calyculus": "Outside/under the capitulum, find the OUTER ring of narrow CALYCULAR BRACTLETS—the small green leaflike pieces pointing or spreading below the head. A macro at the correct side angle and a millimeter scale is required before using size differences.",
+    "phyllary": "Inside the calyculus and nearer the disk are the broader INNER PHYLLARIES (true involucre bracts); do not confuse them with individual ray petals, outer calycular bractlets, or sepals of individual flowers.",
+    "rays": "RAY FLORETS frequently have yellow ligules with a red-brown basal patch in the three annual taxa. In C. tinctoria the maroon portion can occupy much of a ray; in C. basalis/wrightii it often remains a shorter proximal spot/band. Flower color changes and overlaps—supporting evidence only.",
+    "disc": "Central DISK florets are small separate flowers with their own corolla and reproductive parts. Disc coloration differs in some FNA treatments (C. basalis distal reddish disc lobes; C. lanceolata yellow) but a macro and source taxonomy are needed before a firm ID arrow.",
+    "leaves": "Compare an entire mature MID-STEM LEAF with SCALE: C. tinctoria leaves commonly 1–3 times pinnate with narrow/threadlike divisions; basalis leaves can be 1–2-pinnately lobed, often somewhat wider; wrightii generally narrower linear lobes in the segregate concept (yet broad overlap); lanceolata basal/lower leaves simple or only lightly lobed and markedly wider.",
+    "habit": "ANNUAL basalis/tinctoria/wrightii generally have several flowering branch points and leaves up the stem; PERENNIAL lanceolata has a clump of lower leaves and long often leafless peduncles. This is a field cue, not a county-native status.",
+    "cypsela": "A CYPSELA is the individual seedlike fruit of one composite floret. Compare shape, edge wings, and pappus awns/scales using a ruler: FNA basalis wingless, tinctoria sometimes winged, lanceolata more spreading papery wings. Wrightii taxonomy concept makes historical basalis fruit interpretation important."
+  },
+  "quick_key": [
+    {
+      "if": "Rhizomatous/clump-forming PERENNIAL; wide mostly basal/lower simple or lightly lobed leaves; long near-leafless flower stalks; rays generally plain yellow",
+      "then": "C. lanceolata — canonical learner; target-zone native range UNRESOLVED, comparison not confirmed native"
+    },
+    {
+      "if": "Slender ANNUAL; leaves dissected into many very narrow/threadlike divisions; larger or variable maroon/red-brown portion at ray bases",
+      "then": "C. tinctoria — check shorter outer bractlets and disc/ray proportions, not maroon alone"
+    },
+    {
+      "if": "Slender ANNUAL; leaves simple to deeply divided, generally wider terminal leaf lobes and red-brown basal flecks/spots on yellow rays",
+      "then": "C. basalis under FNA broadly; segregate C. wrightii can look similar"
+    },
+    {
+      "if": "Slender ANNUAL in Central Texas; particularly narrow linear middle/upper leaf divisions and usually slender stems; reddish ray-base spots",
+      "then": "C. wrightii under Kew/GRIN accepted segregation — compare a voucher, leaf/lobe widths and head characters; FNA merges within C. basalis"
+    },
+    {
+      "if": "No leaves shown, only a two-colored head; bracts/fruit out of focus",
+      "then": "Coreopsis cf. basalis / wrightii / tinctoria as appropriate; photograph foliage, head underside and cypselae before forcing a species"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Goldenmane vs plains tickseed",
+      "taxon_ids": [
+        "coreopsis-basalis",
+        "coreopsis-tinctoria"
+      ],
+      "look_here_first": "Start at the COMPLETE mid-stem leaf: basalis variable lobed leaves often broader; tinctoria frequently further subdivided into almost threadlike ultimate lobes. Inspect the calyculus bractlets (size) and mature cypsela margins. Both may carry yellow rays with a red-brown base, so the paint-like ring is not decisive.",
+      "photo_requirements": [
+        "matched mature whole leaves from similar stem level",
+        "same-scale underside of capitula showing outer calyculus vs inner phyllaries",
+        "mature cypsela macro with mm scale"
+      ],
+      "caution": "Existing gallery photos are not yet audited macro proof of precise leaf-lobe widths or fruit-edge wings."
+    },
+    {
+      "title": "Goldenmane versus Wright's tickseed: a taxonomic split",
+      "taxon_ids": [
+        "coreopsis-basalis",
+        "coreopsis-wrightii"
+      ],
+      "look_here_first": "The wrightii segregate tends to have narrower middle/upper leaf divisions and slender habits, while typical basalis often has broader divisions; however FNA subsumes the narrow western populations into basalis. Use voucher-based concept, complete leaf, head underside and local range; record uncertainty.",
+      "photo_requirements": [
+        "species-vouchered local full mid-stem leaves, matching scale",
+        "head/fruit and outer calyculus bracts",
+        "physical rights-cleared wrightii images; UT PlantPics links are EXTERNAL only"
+      ],
+      "caution": "Never claim the narrow-leaf character is an absolutely accepted species boundary across all authorities."
+    },
+    {
+      "title": "Annual tickseeds vs lance-leaved perennial",
+      "taxon_ids": [
+        "coreopsis-lanceolata",
+        "coreopsis-tinctoria",
+        "coreopsis-basalis",
+        "coreopsis-wrightii"
+      ],
+      "look_here_first": "Look to the plant BASE: lanceolata typically a perennial with broader mostly lower simple/lobed leaves and long often leafless flower stems; the other three are generally annual, much more finely divided foliage. Compare full habit and lower leaves, not a single golden ray.",
+      "photo_requirements": [
+        "whole plants including ground-level leaves and basal crowns",
+        "lanceolata actual foliage macro and noncultivated habitat voucher"
+      ],
+      "caution": "C. lanceolata is installed learner-only with range UNRESOLVED; inclusion is not proof of native target-zone status."
+    },
+    {
+      "title": "Which is ray, disk, calyculus or phyllary?",
+      "taxon_ids": [
+        "coreopsis-basalis",
+        "coreopsis-tinctoria",
+        "coreopsis-lanceolata"
+      ],
+      "look_here_first": "The outer yellow 'petal' is a RAY FLORET ligule; the center is dozens of tiny DISK FLORETS. Under the head is the OUTER CALYCULUS of bractlets and the INNER INVOLUCRAL PHYLLARIES. To identify a specimen, take front, side and underside photos and a mature fruit macro.",
+      "photo_requirements": [
+        "aligned ray/disk macro",
+        "same head's underside outer calyculus vs inner phyllaries with arrows after actual coordinates checked"
+      ],
+      "caution": "Present images are head/plant references; do not invent arrow positions for tiny separate parts."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Coreopsis: look below the flowers before naming a tickseed",
+    "subtitle": "Seven already installed exact-species learner photos: three C. basalis, three C. tinctoria and one C. lanceolata. C. wrightii is linked as a noninstalled educational reference and NOT counted as local photo coverage. No fabricated anatomical arrows.",
+    "memory_rule": "PERENNIAL broad lower leaves = LANCEOLATA (range unresolved). ANNUAL threadlike/feathery leaves = often TINCTORIA. ANNUAL variable broader divided leaf = BASALIS; very narrow western segregate = WRIGHTII (taxonomic disagreement). Count OUTER calycular bractlets vs INNER phyllaries; do not ID by the red eye.",
+    "items": [
+      {
+        "label": "Goldenmane: yellow rays with a reddish center",
+        "scientific_name": "Coreopsis basalis",
+        "image_role": "species flowering-head reference",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/images/01-curated-reference.jpg",
+        "caption": "Find the golden RAY FLORETS and dark central DISK of this basalis photo. The pictured appearance alone cannot separate basalis from wrightii or tinctoria; inspect the leaf and calyculus next. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) Sarah Towne, some rights reserved (CC BY-NC), uploaded by Sarah Towne",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/160885",
+        "observation_id": "",
+        "photo_id": "39221649",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Goldenmane: same-observation field reference 1",
+        "scientific_name": "Coreopsis basalis",
+        "image_role": "field context, whole shoot",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/images/03-same-plant-field-view-1.jpg",
+        "caption": "Use a full-plant view to search for positions of pinnately lobed leaves and branching peduncles. This is a physical exact-taxon photo, but fine leaf lobe widths and lower-stem hairs have not been independently measured on this image. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) Jason Ellis, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/361127680",
+        "observation_id": "361127680",
+        "photo_id": "659036863",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Goldenmane: same-observation field reference 2",
+        "scientific_name": "Coreopsis basalis",
+        "image_role": "additional field view / structure to inspect",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/images/04-same-plant-field-view-2.jpg",
+        "caption": "This second angle is a separate physically installed photo from the same plant observation. Look for leaf divisions versus individual stems, but do not infer a close calyculus or cypsela count unless focus permits. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) Jason Ellis, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/361127680",
+        "observation_id": "361127680",
+        "photo_id": "659036913",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Plains tickseed: head pattern and branch context",
+        "scientific_name": "Coreopsis tinctoria",
+        "image_role": "species flowering-head reference",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/images/01-curated-reference.jpg",
+        "caption": "The golden petal-like RAYS may contain broad reddish-brown blotches. The darkness of the ray base alone is NOT a definitive diagnosis; seek threadlike leaves and the head underside. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) jcmattson, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/76445",
+        "observation_id": "",
+        "photo_id": "384754031",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Plains tickseed: first same-plant view",
+        "scientific_name": "Coreopsis tinctoria",
+        "image_role": "flowering shoot / foliage context",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/images/03-same-plant-field-view-1.jpg",
+        "caption": "Look for repeatedly divided leaves with thin final segments (ultimate lobes), and a branching annual habit. Actual leaflet widths or calycular bractlet lengths require a focused side view. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) ErnieLG, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/373970198",
+        "observation_id": "373970198",
+        "photo_id": "683495107",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Plains tickseed: second same-plant view",
+        "scientific_name": "Coreopsis tinctoria",
+        "image_role": "another observation angle / floral head context",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/images/04-same-plant-field-view-2.jpg",
+        "caption": "Compare the spacing of flowering branches and leaf arrangement across the stem. Labels and future arrows must be placed only after opening the actual image to verify exact flower/leaf position. Source is noncommercial / private-study; rights not public-cleared.",
+        "creator": "(c) ErnieLG, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/373970198",
+        "observation_id": "373970198",
+        "photo_id": "683495118",
+        "markers": [],
+        "visual_status": "installed_exact_species; study_or_rights_review_only; fine_parts_unverified; annotations_pending"
+      },
+      {
+        "label": "Lance-leaved coreopsis: larger golden head",
+        "scientific_name": "Coreopsis lanceolata",
+        "image_role": "single yellow flower-head comparison",
+        "image_url": "content/taxa/Asteraceae/Coreopsis/coreopsis-lanceolata/images/coreopsis-lanceolata-provisional-face.jpg",
+        "caption": "This installed CC BY photo illustrates an unblotched golden head of C. lanceolata. It does NOT show the required basal broad-leaved perennial clump; contrast foliage and rhizome/habit separately rather than calling any yellow flower a perennial.",
+        "creator": "jimduggan24",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Coreopsis_lanceolata_1.jpg",
+        "observation_id": "",
+        "photo_id": "",
+        "markers": [],
+        "visual_status": "installed_exact_species; attributed; fine_parts_unverified; annotations_pending"
+      }
+    ],
+    "external_photo_references": [
+      {
+        "id": "coreopsis-wrightii",
+        "structure": "entire habit",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20hbt1.JPG",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+        "creator": "UT Austin BIO406D PlantPics",
+        "license": "private-study external reference; NOT installed",
+        "status": "external_only"
+      },
+      {
+        "id": "coreopsis-wrightii",
+        "structure": "ray-base marking / inflorescence",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20infl1.JPG",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+        "creator": "UT Austin BIO406D PlantPics",
+        "license": "private-study external reference; NOT installed",
+        "status": "external_only"
+      },
+      {
+        "id": "coreopsis-wrightii",
+        "structure": "middle/upper narrow leaf divisions",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/Coreopsis%20wrightii%20lf%20arrg.JPG",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ast/coreopsis_wrightii.htm",
+        "creator": "UT Austin BIO406D PlantPics",
+        "license": "private-study external reference; NOT installed",
+        "status": "external_only"
+      }
+    ],
+    "specialty_photo_needs": [
+      {
+        "priority": 1,
+        "role": "same-scale C. basalis vs wrightii whole mid-stem leaves with leaf-lobe width and hairy lower stem",
+        "status": "wrightii physical image missing; verified macro and taxon concept needed"
+      },
+      {
+        "priority": 1,
+        "role": "head underside calyculus versus phyllary same-angle across basalis/tinctoria/wrightii",
+        "status": "true matched side macro missing, no arrows"
+      },
+      {
+        "priority": 2,
+        "role": "C. lanceolata basal leafy crown versus three annuals full rooted habit",
+        "status": "lanceolata sole installed photo only flower face"
+      },
+      {
+        "priority": 2,
+        "role": "ripe cypselae with papery wing margins versus wingless, millimeter scale",
+        "status": "exact taxon fruit macro missing"
+      },
+      {
+        "priority": 2,
+        "role": "single ray floret, disk floret and palea identified against whole head",
+        "status": "species-specific floral dissection macro missing"
+      }
+    ],
+    "annotations_note": "No markers or learner arrows installed in this pass; actual tiny structures not confirmed on physical pictures. Photo metadata/licenses carried from existing species cards, including private study restrictions."
+  },
+  "scientific_sources": [
+    {
+      "source": "FNA Coreopsis basalis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242412738",
+      "supports": "FNA includes narrow western wrightii forms in basalis; leaf/involucre/cypsela descriptions"
+    },
+    {
+      "source": "FNA Coreopsis tinctoria",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023718",
+      "supports": "annual pinnate leaf lobes, ray color variation, calycular bractlet sizes, fruit variation"
+    },
+    {
+      "source": "FNA Coreopsis lanceolata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023717",
+      "supports": "perennial broader lower leaves and long peduncles, fruit wings"
+    },
+    {
+      "source": "Kew POWO Coreopsis genus accepted species",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60437222-2",
+      "supports": "currently accepts basalis, wrightii, tinctoria and lanceolata as distinct species"
+    },
+    {
+      "source": "USDA GRIN Coreopsis wrightii",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=453831",
+      "supports": "separate wrightii taxon concept and explicit FNA synonymy note"
+    }
+  ]
+}

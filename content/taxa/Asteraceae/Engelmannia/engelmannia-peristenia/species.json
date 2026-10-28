@@ -1,0 +1,112 @@
+{
+  "id": "engelmannia-peristenia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Engelmannia",
+  "scientific_name": "Engelmannia peristenia",
+  "authority": "(Raf.) DC.",
+  "common_name": "Engelmann’s Daisy",
+  "field_group": "Yellow daisy-like prairie composite",
+  "project_tracker_diagnostic": "Perennial with a basal clump and long flowering stalks; leaves often deeply lobed; yellow rays commonly 8–15 around a yellow disk; heads on long naked peduncles.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Basal rosette or low crown sending up long flowering stalks.",
+    "leaves": "Mostly basal to lower cauline, deeply pinnatifid to pinnate-lobed; rough or hairy.",
+    "heads": "Yellow rays surrounding yellow disks; heads solitary or few on long peduncles.",
+    "phyllaries": "In several series, green, often appressed.",
+    "fruit": "Cypselae flattened with reduced pappus.",
+    "best_field_traits": [
+      "basal-lobed leaves",
+      "long naked peduncles",
+      "classic yellow daisy heads",
+      "perennial clump"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) harrymansw, all rights reserved",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/127943",
+      "direct_image_url": "https://static.inaturalist.org/photos/35579085/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "35579085",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Danny Barron, some rights reserved (CC BY-NC-ND)",
+      "license": "cc-by-nc-nd",
+      "source_page": "https://www.inaturalist.org/taxa/127943",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112495/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "112495",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716556495/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "391080887",
+      "photo_id": "716556495",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716556590/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "391080887",
+      "photo_id": "716556590",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716557230/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "391080887",
+      "photo_id": "716557230",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  }
+}

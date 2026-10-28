@@ -1,0 +1,60 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Liatris",
+  "common_group": "Blazing stars / gayfeathers",
+  "project_scope": {
+    "selection_mode": "B034 science + B151 source-concept reconciliation",
+    "canonical_species_ids": [
+      "liatris-punctata"
+    ],
+    "canonical_species_count": 1,
+    "represented_source_concepts": [
+      "liatris-mucronata",
+      "liatris-punctata-var-mucronata"
+    ],
+    "source_concept_count": 3,
+    "note": "Canonical Liatris punctata teaches both accepted var. punctata and var. mucronata. Historical Liatris mucronata maps to var. mucronata and is not a separate learner."
+  },
+  "study_strategy": {
+    "priority": [
+      "whole spike architecture",
+      "phyllaries",
+      "stem surface",
+      "corm",
+      "achene size and pubescence"
+    ],
+    "warning": "Do not count Liatris mucronata as a separate species. It is the historical concept now treated as L. punctata var. mucronata. Local stem-color/pubescence cues are helpful but corm and mature fruit remain stronger variety-level characters."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "var. mucronata — often glossy/reddish-stemmed locally; smaller more spheroid corm",
+      "var. punctata — often grayer/more pubescent locally; larger corm and larger hairier achenes"
+    ],
+    "caveat": "North Hays stem-color/pubescence cues are useful locally but should not replace corm and fruit characters elsewhere."
+  },
+  "curation_status": {
+    "version": "1.1-b151-reconciliation",
+    "genus_audit": "complete",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-05"
+  },
+  "source_concept_status": [
+    {
+      "id": "liatris-mucronata",
+      "scientific_name": "Liatris mucronata",
+      "status": "HISTORICAL_SYNONYM_REPRESENTED_IN_LIATRIS_PUNCTATA_VAR_MUCRONATA"
+    },
+    {
+      "id": "liatris-punctata",
+      "scientific_name": "Liatris punctata",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "liatris-punctata-var-mucronata",
+      "scientific_name": "Liatris punctata var. mucronata",
+      "status": "REPRESENTED_IN_PARENT",
+      "learner_action": "teach inside canonical L. punctata; no duplicate page"
+    }
+  ]
+}

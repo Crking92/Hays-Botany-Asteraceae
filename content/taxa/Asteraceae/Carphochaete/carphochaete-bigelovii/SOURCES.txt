@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Carphochaete%20bigelovii
+Source research-grade observation: https://www.inaturalist.org/observations/39778399
+Photo: https://www.inaturalist.org/photos/63143704
+Attribution: (c) Danielle Carlock (Cowan), some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

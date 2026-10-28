@@ -1,0 +1,251 @@
+{
+  "id": "verbesina-virginica",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
+  "scientific_name": "Verbesina virginica",
+  "authority": "L.",
+  "common_name": "Frostweed",
+  "field_group": "Tall white composite",
+  "project_tracker_diagnostic": "Tall perennial with conspicuously winged/decurrent stems and many white heads; famous for extruding ice ribbons in winter.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Tall herbaceous perennial, often 1–2.2 m in regional Williamson County specimens, robust 1–several unbranched lower stems beneath a much-branched terminal flowering canopy.",
+    "leaves": "Usually alternate (lower-most sometimes opposite), simple, rough-hairy / scabrous, often elliptic to ovate or lance-elliptic, with long tapering sessile/petiolar bases extending down the stem as wings; edges often coarsely toothed but can be almost entire. Larger mid-stem leaves and variable sizes—do not key entirely on individual leaf outline.",
+    "heads": "Terminal branched flat to domed clusters with dozens of very small white radiate composite heads, often 60–100+ heads. Each head usually only (0–)1–3(–5) short white ray florets around about 8–13 off-white to cream disc florets in regional populations. NOT a big daisy-like head.",
+    "phyllaries": "Outer narrow green bracts in 1–2 series beneath each tiny head; UT Williamson describes ca. 5 main outer phyllaries, ~2–2.5 mm long. Receptacular paleae wrap the disc florets, so examine with a hand lens if separating close relatives.",
+    "fruit": "Winged flattened cypselae (achenes), ca. 4–6 mm in Williamson populations, with TWO straight persistent bristlelike pappus AWNS ~1.5–3 mm; not 'pappus reduced or absent'. Papery lateral fruit wings are distinct from stem wings.",
+    "best_field_traits": [
+      "vertical winged/decurrent green stems",
+      "alternately attached rough leaves with tapering/decurrent bases",
+      "tall perennial with many white very-small heads in flat/panicled canopy",
+      "each white head typically just 1–3 little ray florets (not a large daisy)",
+      "ice ribbons around split old lower stems after first hard freezes (seasonal bonus)"
+    ],
+    "stems": "Thick pale-to-deep green lower stem frequently with conspicuous vertical WINGS decurrent from leaf bases. UT Williamson: wavy thin wings ca. 3–5.5 mm wide; stems short-hirsute with a white solid pith. Wings can become reduced/lost on aging woody basal portions; inspect intact green internodes.",
+    "rays_vs_disc": "Ray FLORETS: few, each white and strap-shaped, pistillate. DISC FLORETS: several small tubular florets, bisexual, cream/white. A 'flower head' is a capitulum containing multiple individual florets.",
+    "frost_flower": "During some early freezes, water supplied from still-active roots emerges through cracks in dying lower stem and freezes into delicate ice ribbons; duration is short and occurrence is weather-dependent. Not all plants or freezing mornings show this.",
+    "field_id_sequence": [
+      "1. Find a sturdy undamaged GREEN internode and follow a leaf base downward into a thin undulating stem wing.",
+      "2. Check alternate rough-haired leaves, coarse tooth/entire variability, tapering blade bases.",
+      "3. Confirm terminal branched clusters made of numerous TINY whitish flower heads, not a few large heads.",
+      "4. Magnify one capitulum: few small white ray FLORETS plus cream tubular disc FLORETS and green phyllaries.",
+      "5. In winter, inspect lower living/dead stems after suitable freezes for ice ribbons, but do NOT make their absence a negative ID.",
+      "6. On fruiting plants, look for flattened winged cypsela with two pappus awns; true macro required for teaching photo."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Exact-species flowering/field reference (Mark Fishbein)",
+      "creator": "(c) Mark Fishbein, some rights reserved (CC BY-NC), uploaded by Mark Fishbein",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/119982",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_attributed",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13760231/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "13760231",
+      "remote_only": false
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401713414",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_attributed",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737345526/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401713414",
+      "photo_id": "737345526",
+      "remote_only": false
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401713414",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_attributed",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737345580/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401713414",
+      "photo_id": "737345580",
+      "remote_only": false
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Dawn D. Lopez Garanzuay, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/401713414",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_attributed",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737345614/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "401713414",
+      "photo_id": "737345614",
+      "remote_only": false
+    },
+    {
+      "file": "images/06-austin-plant-habit.jpg",
+      "role": "Whole fall-flowering frostweed at Zilker Botanical Garden, Austin Texas; natural height, branching canopy and green foliage",
+      "creator": "Daderot",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Exact Verbesina virginica specimen photographed in Austin. Read tall upright perennial and the terminal sprays of small white heads; this cultivated garden plant is an ID photo, not a county-range record.",
+      "diagnostic_roles": [
+        "whole plant habit",
+        "branched flowering canopy",
+        "leaf and stem structure"
+      ]
+    },
+    {
+      "file": "images/07-white-composite-heads.jpg",
+      "role": "White flower head close-up showing small white ray florets and central pale disc florets",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Small white heads in a flower cluster. Unlike large yellow Verbesina encelioides or V. lindheimeri heads, frostweed often has only 1–3 short, white ray florets per head and a small pale disk.",
+      "diagnostic_roles": [
+        "white ray florets",
+        "small disc florets",
+        "multiple clustered heads"
+      ]
+    },
+    {
+      "file": "images/08-winter-ice-ribbons.jpg",
+      "role": "Ice ribbons or frost flowers extruding from a split lower frostweed stem after a freeze",
+      "creator": "Reportingsjr",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_frost_flower.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Frost flower (ribbons of ice) formed as water emerges from a split stem and freezes during suitable subfreezing weather; striking bonus confirmation, but not always present. Source photo CC BY-SA 4.0.",
+      "diagnostic_roles": [
+        "split lower stem",
+        "ice ribbons",
+        "frost flower"
+      ]
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "science_polished_at": "2026-10-13",
+    "photo_stage_pending": false,
+    "photo_policy_excluded": [
+      "photo id 156162698 all rights reserved"
+    ],
+    "photo_polish_completed": "2026-10-13",
+    "removed_restricted_photo_id": "156162698",
+    "rights_cleared_for_private_learner": true,
+    "source_view_updated": "2026-10-13"
+  },
+  "look_here_first": "LOOK AT THE STEM FIRST: broad, wavy leaflike WINGS run vertically DOWN from the leaf base along the green stem. Follow a leaf to its decurrent ridges with your finger. Then check ALTERNATE rough toothed leaves and a broad autumn canopy of MANY TINY white composite heads (usually only 1–3 white rays per head). Winter ICE RIBBONS at split bases are memorable but seasonal—not required for ID.",
+  "comparisons": {
+    "confused_with": [
+      "Verbesina lindheimeri",
+      "Verbesina encelioides",
+      "Verbesina alternifolia (external field look-alike, not installed in local 3-species group)",
+      "Ageratina havanensis (white mistflower, a different composite genus)"
+    ],
+    "key_distinctions": "V. virginica: white heads with only a few short ray florets, many-head flowering canopy, and WINGED leafy stems. V. lindheimeri: opposite/mostly opposite leaves, short non-winged stems, usually a SINGLE BIG YELLOW head with ~13 long rays. V. encelioides: annual, often coarse gray-green triangular leaves and large YELLOW heads, stems generally NOT winged. V. alternifolia can also have winged stems but yellow (not white) heads; ice ribbons alone do not establish V. virginica identification. Ageratina has white discoid fluffy heads without showy white ray florets and no winged stems.",
+    "field_cautions": [
+      "Do not call all wingstem species frostweed: V. alternifolia has winged stems but yellow flower heads.",
+      "Do not use frost-flower ice display as a guaranteed or unique species test; weather and other genera matter.",
+      "Do not label capillary or cold-weather ice as a 'flower' of the plant; it is water ice.",
+      "White-looking tiny rays may be missing on some frostweed heads, so inspect several capitula."
+    ]
+  },
+  "photo_note": "7 physically installed exact-species photographs: 4 retained iNat CC BY-NC (noncommercial learner), 3 new Wikimedia Commons (Zilker Austin flowering habit CC0, Mason Brock white heads public domain, Reportingsjr frost flower CC BY-SA 4.0). Prior all-rights-reserved cleointhesmokies image 156162698 was excluded and physically deleted. Most important remaining diagnostic photo: winged green stem closeup with rights-cleared source and correctly placed arrow. Final fruit macro should show two awns on winged cypsela.",
+  "diagnostic_image_needs": [
+    {
+      "priority": "critical",
+      "role": "winged stem macro",
+      "status": "Rights-cleared lead found: Steven J. Baskauf exact-species Bioimages photo CC BY 4.0 (Zenodo record 11020772); direct download still pending; UT Austin photo remains source-only",
+      "look": "thin broad undulating green tissue running down one or two internodes from leaf bases, edge vs central axis"
+    },
+    {
+      "priority": "high",
+      "role": "white head ray vs disk macro",
+      "status": "Mason Brock exact-species public-domain flower photo staged",
+      "look": "1–3 short white ray florets and 8–13 pale tubular disc florets, teach capitulum"
+    },
+    {
+      "priority": "high",
+      "role": "whole habit",
+      "status": "Daderot Zilker Austin CC0 photo staged",
+      "look": "tall robust stems, dome-shaped dozens of tiny white heads"
+    },
+    {
+      "priority": "high",
+      "role": "frost flower",
+      "status": "Reportingsjr CC BY-SA 4.0 licensed frost flower photo staged",
+      "look": "base split and curling ribbons of clear ice"
+    },
+    {
+      "priority": "final polish",
+      "role": "winged cypselae and two pappus awns",
+      "status": "clear rights-cleared macro missing",
+      "look": "two rigid pappus awns ca. 1.5–3 mm on flattened winged cypsela"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 7,
+    "photo_files_present": 7,
+    "verified_at": "2026-10-13",
+    "licensed_count": 7,
+    "license_policy": "4 historical iNaturalist CC BY-NC private study + 3 new licensed Commons (CC0, PD, CC BY-SA 4.0). Removed old all-rights-reserved file.",
+    "diagnostic_roles_installed": [
+      "flowering habit Austin botanical garden",
+      "small white flower heads and floret structures",
+      "winter frost flower ice ribbons",
+      "four historical field reference images"
+    ],
+    "photo_polish_pending": [
+      "Install and annotate Baskauf licensed wing-stem macro after verifying direct binary URL",
+      "Install and annotate Baskauf licensed wing-stem macro after verifying direct binary URL",
+      "Install and annotate Baskauf licensed wing-stem macro after verifying direct binary URL"
+    ],
+    "note": "Seven exact-species approved physical photographs verified. Ice ribbons are a seasonal water-ice process, not botanical flowers; wing-stem macro is identified at Zenodo/Bioimages, pending direct-media verification."
+  },
+  "licensed_diagnostic_photo_leads": [
+    {
+      "role": "green stem-wing macro from a genuine Verbesina virginica (critical missing view)",
+      "creator": "Steven J. Baskauf",
+      "license": "CC BY 4.0 (EOL Bioimages index)",
+      "source_page": "https://zenodo.org/records/11020772",
+      "image_filename": "vevi3-stwinged13005.jpg",
+      "doi": "10.5281/zenodo.11020772",
+      "photo_context": "Mount View Cedar Glade State Natural Area, Tennessee, photographed 2002-06-18",
+      "next_action": "Confirm exact Zenodo binary download URL, compare visible leaf-base wing anatomy, install binary, then add arrow at actual ridge"
+    }
+  ]
+}

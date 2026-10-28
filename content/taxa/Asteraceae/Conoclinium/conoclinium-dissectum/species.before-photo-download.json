@@ -1,0 +1,57 @@
+{
+  "id": "conoclinium-dissectum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
+  "scientific_name": "Conoclinium dissectum",
+  "authority": "A.Gray",
+  "common_name": "Gregg's Mistflower",
+  "other_common_names": [
+    "Palmleaf Mistflower",
+    "Palmleaf Thoroughwort",
+    "Texas Ageratum"
+  ],
+  "taxonomy": {
+    "accepted_name": "Conoclinium dissectum A.Gray",
+    "accepted": true,
+    "important_synonyms": [
+      "Conoclinium greggii Small",
+      "Eupatorium greggii A.Gray"
+    ],
+    "note": "Older nursery, horticultural, and Texas references frequently use Conoclinium greggii."
+  },
+  "field_group": "Blue-purple mistflower composite",
+  "project_tracker_diagnostic": "Rhizomatous perennial with ovate-deltate leaves that are deeply lobed/dissected, and fuzzy lavender-blue to purple discoid flower heads.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Very useful Central Texas mistflower and an important current-name/synonym lesson."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Erect to spreading perennial, often arising from knotty crowns and capable of forming colonies.",
+    "leaves": "Opposite; blades ovate-deltate to ovate, roughly 1.5\u20134 cm, with margins distinctly lobed or dissected.",
+    "heads": "Small discoid heads; florets lavender-blue to purple, without ray florets.",
+    "phyllaries": "About 3.5\u20135 mm in Flora of North America.",
+    "fruit": "Cypselae about 1.8\u20132.5 mm with a bristly pappus.",
+    "best_field_traits": [
+      "deeply lobed/dissected palmleaf-like leaves",
+      "lavender-blue fuzzy discoid heads",
+      "opposite leaves",
+      "perennial clumping/spreading habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Use accepted iNaturalist taxon Conoclinium dissectum; prefer curated references plus several views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.1-batch2-taxonomy-fix",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

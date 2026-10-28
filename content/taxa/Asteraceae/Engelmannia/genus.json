@@ -1,0 +1,28 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Engelmannia",
+  "authority": "A.Gray ex Nutt.",
+  "common_group": "Engelmann daisies",
+  "project_scope": {
+    "selection_mode": "common local-learning batch 1",
+    "species_ids": [
+      "engelmannia-peristenia"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "whole-plant architecture",
+      "leaf arrangement and dissection",
+      "phyllaries",
+      "ray vs disc makeup",
+      "pappus/fruit when available"
+    ],
+    "warning": "Many Asteraceae look similar from a distance. Use head structure and involucre details, not just a yellow flower photo."
+  },
+  "curation_status": {
+    "version": "1.0-batch1",
+    "last_reviewed": "2026-09-30"
+  }
+}

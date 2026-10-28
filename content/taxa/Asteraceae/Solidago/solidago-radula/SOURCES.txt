@@ -1,0 +1,20 @@
+PHOTO FAST-FILL 043 — Solidago radula
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact-species UT Plant Resources Center herbarium specimen image already retained in project review.
+Source: https://w3.biosci.utexas.edu/prc/specimens/Asteraceae4.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/txu-herb-00408485.JPG
+Source attribution: UT Plant Resources Center
+Individual photographer: not stated
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / architecture reference
+Keep until a stronger field-photo gallery replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Solidago radula Nutt.
+https://www.gbif.org/occurrence/6234615536
+Sam Kieschnick | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Short stiff rough stem/leaf hairs and scabrous lower foliage; mature head side view
+No anatomy arrows; no scientific or native-range changes.

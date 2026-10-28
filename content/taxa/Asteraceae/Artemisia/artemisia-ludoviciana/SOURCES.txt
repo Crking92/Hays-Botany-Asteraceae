@@ -1,0 +1,21 @@
+Source-pool admission: approved Master Plant Pool row 99, Artemisia ludoviciana, per curation batch.json and prior installer recovery handoff.
+Taxonomy: POWO accepts Artemisia ludoviciana Nutt. at species rank; multiple accepted subspecies; do not infer subspecies from source image. https://powo.science.kew.org/taxon/303755-2
+Morphology: Flora of North America, Artemisia ludoviciana, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416100 ; rhizomatous perennial, variable leaves, densely tomentose phyllaries.
+Photo page: https://commons.wikimedia.org/wiki/File:Artemisia_ludoviciana-7-22-04.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/6/67/Artemisia_ludoviciana-7-22-04.jpg
+Photographer: Thayne Tuason (ThayneT). License: Creative Commons Attribution-ShareAlike 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/ ; preserve credit and ShareAlike for derived media. Photo depicts an Idaho flowering upper shoot with small heads and some leaves, NOT rhizomes or diagnostic basal architecture. Not Central Texas provenance.
+Native-range internal status UNRESOLVED; do not include in confirmed-native metrics. Installer must verify downloaded physical image and images[] metadata before reporting installed; missing diagnostic photos listed in species.json.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Artemisia ludoviciana
+Creator: sonoresmore; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6131199080
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/artemisia-ludoviciana/gbif-b7685de35d5d12.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Artemisia ludoviciana
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6171063589
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/artemisia-ludoviciana/gbif-260d4ee691de9d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

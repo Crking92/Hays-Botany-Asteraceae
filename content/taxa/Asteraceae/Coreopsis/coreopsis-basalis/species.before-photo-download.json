@@ -1,0 +1,43 @@
+{
+  "id": "coreopsis-basalis",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis basalis",
+  "authority": "(A.Dietr.) S.F.Blake",
+  "common_name": "Goldenmane Tickseed",
+  "field_group": "Small yellow composite / tickseed complex",
+  "project_tracker_diagnostic": "Annual; finely divided lower leaves and narrower upper leaves; yellow rays often with dark maroon basal blotches; pappus reduced to short scales/awns.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Slender branching herb.",
+    "leaves": "Lower leaves deeply divided into narrow segments; upper leaves opposite to alternate and less dissected.",
+    "heads": "Rays yellow, commonly with dark reddish-brown blotches near the base; disks dark yellow to brownish.",
+    "phyllaries": "Outer involucre of narrow bracts beneath broader inner phyllaries.",
+    "fruit": "Cypselae flattened, typically with 2 short awns and small marginal teeth/scales.",
+    "best_field_traits": [
+      "finely divided leaves",
+      "small yellow heads",
+      "dark basal blotch on rays",
+      "slender annual habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

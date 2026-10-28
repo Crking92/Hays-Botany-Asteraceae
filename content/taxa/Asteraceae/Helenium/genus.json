@@ -1,0 +1,534 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Helenium",
+  "authority": "L.",
+  "common_group": "Sneezeweeds",
+  "project_scope": {
+    "selection_mode": "B028/B112 science + B138 source-concept reconciliation",
+    "canonical_species_count": 4,
+    "canonical_species_ids": [
+      "helenium-amarum",
+      "helenium-autumnale",
+      "helenium-elegans",
+      "helenium-quadridentatum"
+    ],
+    "represented_infraspecific": [
+      "helenium-amarum-var-amarum",
+      "helenium-amarum-var-badium"
+    ],
+    "source_concept_count": 6,
+    "note": "The two accepted Helenium amarum varieties are taught inside the species-level learner and are not duplicate species pages. H. quadridentatum remains a provisional installed learner with its range HOLD preserved."
+  },
+  "study_strategy": {
+    "priority": [
+      "winged versus unwinged stem",
+      "annual versus perennial habit",
+      "leaf width and marginal teeth",
+      "disc/head shape",
+      "ray count and posture",
+      "disc-lobe color for H. amarum variety-level training"
+    ],
+    "warning": "Start with the stem and leaf architecture before the yellow flower head. H. amarum is unwinged; H. elegans, H. autumnale, and H. quadridentatum are winged.",
+    "look_here_first": "LOOK HERE FIRST: follow a leaf base down the stem. Is the stem smooth/ridged or does leaf tissue run down it as a distinct wing? Next compare annual versus perennial crown, leaf width/teeth, and the flower head in SIDE view; use a hand lens for disc-floret lobes.",
+    "field_sequence": [
+      "1. Stem/leaf junction: leaf base decurrent as a wing, or stem merely ridged?",
+      "2. Plant base: single-season taproot or surviving perennial crown?",
+      "3. Mature leaf: approximate width, edge teeth, and how far the blade runs down the stem.",
+      "4. Side view of mature capitulum: disk shape, head profile, ray count and posture.",
+      "5. Hand lens: individual disc-floret corolla lobes; compare varieties only with properly documented specimens."
+    ]
+  },
+  "curation_status": {
+    "version": "1.1-b138-reconciliation",
+    "last_reviewed": "2026-10-05",
+    "genus_audit": "complete_with_represented_varieties_and_provisional_hold",
+    "source_concepts_reconciled": true,
+    "genus_visual_comparison": "four_species_structural_comparison_published; diagnostic_macros_pending",
+    "genus_lesson_enrichment": "top_level_photo_led_anatomy_and_FNA_comparison_20261015",
+    "anatomy_macro_status": "four_targeted_roles_pending"
+  },
+  "source_concept_status": [
+    {
+      "id": "helenium-amarum",
+      "scientific_name": "Helenium amarum",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "helenium-amarum-var-amarum",
+      "scientific_name": "Helenium amarum var. amarum",
+      "status": "REPRESENTED_IN_PARENT",
+      "learner_action": "teach yellow-disc variety cue inside H. amarum"
+    },
+    {
+      "id": "helenium-amarum-var-badium",
+      "scientific_name": "Helenium amarum var. badium",
+      "status": "REPRESENTED_IN_PARENT",
+      "learner_action": "teach brown/purplish-disc variety cue inside H. amarum"
+    },
+    {
+      "id": "helenium-autumnale",
+      "scientific_name": "Helenium autumnale",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "helenium-elegans",
+      "scientific_name": "Helenium elegans",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "helenium-quadridentatum",
+      "scientific_name": "Helenium quadridentatum",
+      "status": "CANONICAL_PROVISIONAL_RANGE_HOLD",
+      "note": "Installed for learner use; exclude from native PASS metrics until exact target-zone evidence is sufficient."
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "annual; stems ridged but not winged; very narrow leaves; many small heads",
+      "then": "Helenium amarum"
+    },
+    {
+      "if": "H. amarum with yellow disc lobes",
+      "then": "Helenium amarum var. amarum — represented inside H. amarum"
+    },
+    {
+      "if": "H. amarum with dark brown to purplish disc lobes",
+      "then": "Helenium amarum var. badium — represented inside H. amarum"
+    },
+    {
+      "if": "annual with clearly winged stems, narrow mostly entire leaves, and globose involucre",
+      "then": "Helenium elegans"
+    },
+    {
+      "if": "perennial with strongly winged stems, broader often toothed leaves, and larger heads",
+      "then": "Helenium autumnale"
+    },
+    {
+      "if": "winged annual with elongated ovoid/obconic disk, roughly 10–15 rays, and 4-lobed disc corollas",
+      "then": "Helenium quadridentatum — provisional range HOLD"
+    }
+  ],
+  "visual_status": "four_species_local_reference_images_present; diagnostic_closeups_pending",
+  "fast_fill_note": "FAST-FILL status: H. autumnale 3 images; H. elegans remains scientifically PASS but quick image sourcing is provenance-limited; H. quadridentatum remains scientifically PROVISIONAL and is not promoted by photo work. 2026-10-14: all 4 represented Helenium species have at least one physically present referenced image in GitHub (12 total photo files listed); anatomical macro roles and actual UI rendering still require checking, no arrow claims.",
+  "visual_comparison": {
+    "status": "repository_local_assets_confirmed; image anatomy unannotated",
+    "image_verification": "Confirmed exact referenced filenames exist in each species images/ directory via GitHub contents listing 2026-10-14. This does not certify which anatomical characters are visible within each image. All arrows pending visual inspection.",
+    "examples": [
+      {
+        "species_id": "helenium-amarum",
+        "local_file": "content/taxa/Asteraceae/Helenium/helenium-amarum/images/01-curated-reference.jpg",
+        "role": "species overview for unwinged annual comparison",
+        "license": "cc-by",
+        "verification": "file_exists; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-autumnale",
+        "local_file": "content/taxa/Asteraceae/Helenium/helenium-autumnale/images/02-field-habit.jpg",
+        "role": "overview of flowering perennial and ray/disk architecture",
+        "license": "CC BY 2.0",
+        "verification": "file_exists; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-elegans",
+        "local_file": "content/taxa/Asteraceae/Helenium/helenium-elegans/images/helenium-elegans-provisional-face.jpg",
+        "role": "provisional overall flowering face for winged annual",
+        "license": "Public domain",
+        "verification": "file_exists; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-quadridentatum",
+        "local_file": "content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/helenium-quadridentatum-provisional-face.jpg",
+        "role": "provisional botanical illustration; winged annual comparison",
+        "license": "Public domain",
+        "verification": "file_exists; anatomy_unverified; range_HOLD_retained"
+      }
+    ],
+    "priority_photo_gaps": [
+      {
+        "shared_comparison": "winged vs unwinged stems",
+        "needed": "matching macro of each species stem node and decurrent leaf wings, especially H. amarum against H. elegans"
+      },
+      {
+        "shared_comparison": "head profile",
+        "needed": "same-scale side views of mature H. elegans globose involucre and H. quadridentatum ovoid/obconic disk; count rays and disc-lobe shape only on inspected images"
+      },
+      {
+        "shared_comparison": "annual vs perennial",
+        "needed": "basal crown/root and leaf-width photos contrasting H. autumnale with H. elegans"
+      },
+      {
+        "shared_comparison": "H. amarum varieties",
+        "needed": "verified same-stage disc-floret lobe macro for var. amarum versus var. badium; do not use generic dark disc as variety proof"
+      }
+    ],
+    "lesson_photo_roles": [
+      {
+        "role": "paired H. amarum / H. elegans stem-node macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "paired H. autumnale crown and H. elegans annual base",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "same-scale H. elegans / H. quadridentatum side-head macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "H. quadridentatum disc-floret dissection; paired H. amarum variety lobe macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "rights_policy": "Existing local photo paths and recorded licenses are preserved; file_exists/anatomy_unverified is not installed_verified anatomy. Public reuse requires checking each source's actual terms, attribution, and license scope; no rights or arrow coordinates inferred.",
+    "installed_photo_status": "Existing four example files are repository-local subject references, not verified anatomical macros; no additional photos installed.",
+    "photo_handoff": "Photo lane: obtain rights-clear matched stem nodes, crowns, mature head profiles, and individual disc florets; report source, photographer, license, source page, precise anatomical visibility and any reuse restriction.",
+    "taxonomy_handoff": "Taxonomy lane: verify H. elegans versus H. quadridentatum head/disc character reliability on specimens; do not resolve native range here.",
+    "installer_handoff": "Installer lane: no new canonical taxa needed; H. amarum varieties remain represented inside parent; preserve H. quadridentatum provisional status."
+  },
+  "recognition": {
+    "where_to_look_first": "LOOK HERE FIRST: follow a leaf base down the stem. Is the stem smooth/ridged or does leaf tissue run down it as a distinct wing? Next compare annual versus perennial crown, leaf width/teeth, and the flower head in SIDE view; use a hand lens for disc-floret lobes.",
+    "shared_morphology": [
+      "Composite heads (capitula) with marginal ray florets and a raised central disk of numerous tubular disc florets; inspect florets individually rather than treating the head as one flower.",
+      "Alternate stem leaves, with species-dependent decurrent bases forming wings along the stem.",
+      "Yellow-rayed heads are common but ray color is not a reliable species separator; examine the involucre and mature disk profile."
+    ],
+    "ordered_field_check": [
+      "1. Stem/leaf junction: leaf base decurrent as a wing, or stem merely ridged?",
+      "2. Plant base: single-season taproot or surviving perennial crown?",
+      "3. Mature leaf: approximate width, edge teeth, and how far the blade runs down the stem.",
+      "4. Side view of mature capitulum: disk shape, head profile, ray count and posture.",
+      "5. Hand lens: individual disc-floret corolla lobes; compare varieties only with properly documented specimens."
+    ],
+    "overlap_cautions": [
+      "H. elegans and H. quadridentatum are both winged annuals; do not separate them using stem wings alone.",
+      "H. autumnale and annual winged taxa overlap in yellow rays and winged stems; verify perennial crown and broader toothed leaves.",
+      "Disk color varies with flower age and light; do not assign H. amarum varieties from a dark-looking whole-head photograph.",
+      "A dried or mowed perennial may appear annual; when basal organs are not visible, leave life-history character unscored."
+    ]
+  },
+  "comparison_matrix": {
+    "columns": [
+      "taxon",
+      "stem wing",
+      "life cycle",
+      "leaf clue",
+      "mature head / disk",
+      "strongest next check"
+    ],
+    "rows": [
+      {
+        "taxon": "Helenium amarum",
+        "stem_wing": "absent (ridged stem)",
+        "life_cycle": "annual",
+        "leaf_clue": "very narrow, mostly entire",
+        "mature_head_disk": "numerous relatively small heads; yellow to darker disc lobes in represented varieties",
+        "strongest_next_check": "verify unwinged leaf base; variety requires disc-floret macro"
+      },
+      {
+        "taxon": "Helenium autumnale",
+        "stem_wing": "present, often conspicuous",
+        "life_cycle": "perennial",
+        "leaf_clue": "broader leaves, commonly toothed",
+        "mature_head_disk": "larger heads than most annual project taxa; dome-like disk",
+        "strongest_next_check": "perennial basal crown plus toothed leaf and mature head"
+      },
+      {
+        "taxon": "Helenium elegans",
+        "stem_wing": "present",
+        "life_cycle": "annual",
+        "leaf_clue": "narrow leaves, often nearly entire",
+        "mature_head_disk": "globose head/involucre profile in project key",
+        "strongest_next_check": "side-view mature head, annual base; compare with H. quadridentatum"
+      },
+      {
+        "taxon": "Helenium quadridentatum",
+        "stem_wing": "present",
+        "life_cycle": "annual",
+        "leaf_clue": "check decurrent leaf bases and mature foliage",
+        "mature_head_disk": "elongated ovoid/obconic disk; about 10–15 rays and four-lobed disc corollas in project key",
+        "strongest_next_check": "mature head side view and dissected disc floret; provisional range HOLD preserved"
+      }
+    ],
+    "note": "Comparisons are structural field cues, not new quantitative measurements. Count ranges and disc-lobe traits require inspected mature material; variation and hybrids/aberrant individuals warrant expert review."
+  },
+  "genus_diagnostics": {
+    "anatomy_lessons": [
+      {
+        "title": "1 · Stem wing versus ridge",
+        "term": "decurrent leaf base / cauline wing",
+        "plain": "A leaf base may continue down the stem as a thin leafy strip; a ridge alone is not a wing.",
+        "look_here": "Photograph the node and 3–5 cm of stem immediately below it, side-lit and with a scale.",
+        "why_it_matters": "First split H. amarum (unwinged) from the three winged species.",
+        "photo_role": "paired H. amarum / H. elegans stem-node macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "2 · Annual root versus perennial crown",
+        "term": "basal crown / root system",
+        "plain": "A perennial regrows from a persistent base, while annuals finish their life cycle in one season.",
+        "look_here": "Show entire basal stem with crown and root attachment; do not infer from plant height.",
+        "why_it_matters": "Helps separate H. autumnale from winged annuals.",
+        "photo_role": "paired H. autumnale crown and H. elegans annual base",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "3 · Turn the head sideways",
+        "term": "capitulum / involucre / receptacle",
+        "plain": "One apparent daisy is a head of tiny florets; the central disk and outer green bracts have diagnostic shapes.",
+        "look_here": "Photograph mature heads in profile at matching magnification with rays and green involucre visible.",
+        "why_it_matters": "Distinguishes globose-profile H. elegans from more elongated-disk H. quadridentatum.",
+        "photo_role": "same-scale H. elegans / H. quadridentatum side-head macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "4 · Count lobes on one tiny central flower",
+        "term": "disc floret / corolla lobes",
+        "plain": "Each tiny tubular flower in the central disk has its own corolla tip; its lobes are not the big outer yellow rays.",
+        "look_here": "Dissect and photograph one mature disc floret with a millimeter scale and clearly resolved lobe tips.",
+        "why_it_matters": "Tests the four-lobed disc-floret character recorded for H. quadridentatum and supports cautious H. amarum variety training.",
+        "photo_role": "H. quadridentatum disc-floret dissection; paired H. amarum variety lobe macros",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Bitterweed versus winged sneezeweeds",
+      "taxon_ids": [
+        "helenium-amarum",
+        "helenium-elegans"
+      ],
+      "look_here_first": "leaf base running down stem",
+      "separator": "H. amarum has ridged but unwinged stems; H. elegans has genuine leafy wings. Check the same node height in both.",
+      "photo_roles": [
+        "paired stem-node closeups",
+        "whole-plant annual habit"
+      ]
+    },
+    {
+      "title": "Pretty sneezeweed versus longdisk sneezeweed",
+      "taxon_ids": [
+        "helenium-elegans",
+        "helenium-quadridentatum"
+      ],
+      "look_here_first": "mature disk shape in profile",
+      "separator": "Both can be winged annuals. Compare globose versus elongated ovoid/obconic mature heads; inspect disc florets and count rays on actual specimen.",
+      "photo_roles": [
+        "matched side-head profiles",
+        "hand-lens disc-floret dissection"
+      ]
+    },
+    {
+      "title": "Autumn sneezeweed versus winged annuals",
+      "taxon_ids": [
+        "helenium-autumnale",
+        "helenium-elegans",
+        "helenium-quadridentatum"
+      ],
+      "look_here_first": "basal crown and mature leaf margins",
+      "separator": "Perennial crown and broader often toothed leaves support H. autumnale; yellow rays and wings alone are shared.",
+      "photo_roles": [
+        "basal crown comparison",
+        "scaled mature leaves"
+      ]
+    }
+  ],
+  "look_here_first": "LOOK HERE FIRST — photograph the leaf-to-stem junction and 3–5 cm below it: is there a true leafy wing or only a ridge? Next inspect the whole basal crown (annual versus perennial), measure a mature mid-stem leaf, then photograph a fully mature head from the SIDE with a millimeter scale. For winged annuals, compare globoid versus ovoid/obconic involucre and count lobes on a dissected disc floret. Yellow rays alone cannot identify the species.",
+  "shared_traits": [
+    "Helenium is an aster-family genus: each apparent daisy is a capitulum containing many individual ray and disc florets, with green phyllaries beneath the head.",
+    "Leaves are mostly alternate on the stem (some proximal leaves may be opposite), commonly gland-dotted; some species have decurrent leaf bases that create true stem wings.",
+    "Mature heads can be globoid, hemispheric, ovoid or obconic; the disk shape, phyllaries and individual floret characters matter more than yellow color.",
+    "Dry fruits are cypselae with pappus scales (sometimes reduced or absent across the genus); use reproductive structures alongside vegetative characters."
+  ],
+  "anatomy_lessons": [
+    {
+      "title": "1 · Stem wing versus ridge",
+      "term": "decurrent leaf base / cauline wing",
+      "plain": "A leaf base may continue down the stem as a thin leafy strip; a ridge alone is not a wing.",
+      "look_here": "Photograph the node and 3–5 cm of stem immediately below it, side-lit and with a scale.",
+      "why_it_matters": "First split H. amarum (unwinged) from the three winged species.",
+      "photo_role": "paired H. amarum / H. elegans stem-node macros",
+      "status": "needs_photo",
+      "annotation_status": "pending_pixel_verified_arrows",
+      "role_number": 1,
+      "photo_evidence": "existing local species overview is NOT verified as a macro of this structure; matched exact-species anatomy photos needed",
+      "source_reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856"
+    },
+    {
+      "title": "2 · Annual root versus perennial crown",
+      "term": "basal crown / root system",
+      "plain": "A perennial regrows from a persistent base, while annuals finish their life cycle in one season.",
+      "look_here": "Show entire basal stem with crown and root attachment; do not infer from plant height.",
+      "why_it_matters": "Helps separate H. autumnale from winged annuals.",
+      "photo_role": "paired H. autumnale crown and H. elegans annual base",
+      "status": "needs_photo",
+      "annotation_status": "pending_pixel_verified_arrows",
+      "role_number": 2,
+      "photo_evidence": "existing local species overview is NOT verified as a macro of this structure; matched exact-species anatomy photos needed",
+      "source_reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856"
+    },
+    {
+      "title": "3 · Turn the head sideways",
+      "term": "capitulum / involucre / receptacle",
+      "plain": "One apparent daisy is a head of tiny florets; the central disk and outer green bracts have diagnostic shapes.",
+      "look_here": "Photograph mature heads in profile at matching magnification with rays and green involucre visible.",
+      "why_it_matters": "Distinguishes globose-profile H. elegans from more elongated-disk H. quadridentatum.",
+      "photo_role": "same-scale H. elegans / H. quadridentatum side-head macros",
+      "status": "needs_photo",
+      "annotation_status": "pending_pixel_verified_arrows",
+      "role_number": 3,
+      "photo_evidence": "existing local species overview is NOT verified as a macro of this structure; matched exact-species anatomy photos needed",
+      "source_reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856"
+    },
+    {
+      "title": "4 · Count lobes on one tiny central flower",
+      "term": "disc floret / corolla lobes",
+      "plain": "Each tiny tubular flower in the central disk has its own corolla tip; its lobes are not the big outer yellow rays.",
+      "look_here": "Dissect and photograph one mature disc floret with a millimeter scale and clearly resolved lobe tips.",
+      "why_it_matters": "Tests the four-lobed disc-floret character recorded for H. quadridentatum and supports cautious H. amarum variety training.",
+      "photo_role": "H. quadridentatum disc-floret dissection; paired H. amarum variety lobe macros",
+      "status": "needs_photo",
+      "annotation_status": "pending_pixel_verified_arrows",
+      "role_number": 4,
+      "photo_evidence": "existing local species overview is NOT verified as a macro of this structure; matched exact-species anatomy photos needed",
+      "source_reference": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856"
+    }
+  ],
+  "measurable_comparison": {
+    "columns": [
+      "species",
+      "stem wing",
+      "life cycle",
+      "involucre / disk measurement or shape",
+      "rays and disc florets",
+      "photo tie-breaker"
+    ],
+    "rows": [
+      [
+        "Helenium amarum",
+        "absent (stem can be ridged)",
+        "annual",
+        "relatively small rounded heads; measure specimen",
+        "small heads; variety-level disc-lobe color requires dissected mature florets",
+        "leaf junction with 3–5 cm of stem; separate annual base"
+      ],
+      [
+        "Helenium autumnale",
+        "strongly winged",
+        "perennial",
+        "FNA involucre 8–20 × 8–23 mm",
+        "FNA 8–21 rays; disc corolla 5 lobes",
+        "perennial crown + mature leaves, head with mm scale"
+      ],
+      [
+        "Helenium elegans",
+        "winged",
+        "annual",
+        "FNA globoid involucre; distal leaves entire",
+        "ray number alone insufficient; inspect mature head",
+        "globoid side view and entire distal leaf edge"
+      ],
+      [
+        "Helenium quadridentatum",
+        "winged",
+        "annual",
+        "FNA usually ovoid to obconic involucre; distal leaves entire",
+        "FNA 10–15 rays; disc corolla 4 lobes",
+        "side-view head and single dissected disc floret"
+      ]
+    ],
+    "cautions": [
+      "FNA ranges are descriptive, not a hard identification cutoff; size varies with stage and plant condition.",
+      "H. elegans and H. quadridentatum share winged annual stems and often entire distal leaves; combine involucre shape with ray count and disc-floret lobes.",
+      "The 8–21-ray range of H. autumnale overlaps 10–15 rays in H. quadridentatum; confirm life cycle and disk anatomy.",
+      "A whole-head image cannot validate microscopic lobe count or variety identity."
+    ],
+    "source": "Flora of North America Helenium genus key and H. autumnale treatment, https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856 and https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220006159"
+  },
+  "local_lookalike_warnings": [
+    {
+      "group": "Gaillardia and Coreopsis",
+      "caution": "Yellow/orange ray florets can resemble sneezeweeds in a distant view; verify Helenium leaf-base wings, gland-dotted foliage and the head's involucre before choosing a genus. No single yellow-head photograph proves Helenium."
+    },
+    {
+      "group": "Rudbeckia and Ratibida",
+      "caution": "Domed or elongated central disks may look similar; compare leaf attachment, bract architecture and reproductive anatomy, not disk silhouette alone."
+    },
+    {
+      "group": "Other Helenium",
+      "caution": "Flora of North America includes additional Helenium beyond this four-species installed project set; don't treat this matrix as a complete regional flora key."
+    }
+  ],
+  "photo_evidence_and_rights": {
+    "status": "no_new_images; no_new_arrows; existing references preserved; anatomical visibility not visually verified",
+    "installed_exact_species_context": [
+      {
+        "species_id": "helenium-amarum",
+        "path": "content/taxa/Asteraceae/Helenium/helenium-amarum/images/01-curated-reference.jpg",
+        "creator": "Dan Vickers",
+        "license": "CC BY",
+        "role": "whole-species reference; not confirmed stem-node macro",
+        "verification": "existing_repository_local; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-autumnale",
+        "path": "content/taxa/Asteraceae/Helenium/helenium-autumnale/images/02-field-habit.jpg",
+        "creator": "Judy Gallagher",
+        "license": "CC BY 2.0",
+        "role": "habit reference; not confirmed crown macro",
+        "verification": "existing_repository_local; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-elegans",
+        "path": "content/taxa/Asteraceae/Helenium/helenium-elegans/images/helenium-elegans-provisional-face.jpg",
+        "creator": "Clarence A. Rechenthin / USDA-NRCS PLANTS Database",
+        "license": "Public domain",
+        "role": "provisional illustration; not verified involucre macro",
+        "verification": "existing_repository_local; anatomy_unverified"
+      },
+      {
+        "species_id": "helenium-quadridentatum",
+        "path": "content/taxa/Asteraceae/Helenium/helenium-quadridentatum/images/helenium-quadridentatum-provisional-face.jpg",
+        "creator": "Actes de la société d'histoire naturelle de Paris (1792)",
+        "license": "Public domain",
+        "role": "historical botanical illustration; not verified disc-floret macro",
+        "verification": "existing_repository_local; anatomy_unverified"
+      }
+    ],
+    "other_installed_rights_note": "Additional H. amarum species photos include CC BY-NC and CC BY-NC-SA, requiring noncommercial use and, for adaptations of BY-NC-SA media, ShareAlike. Do not silently convert to CC BY or assume all project images can be reused publicly.",
+    "external_references_not_installed": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220006159"
+    ],
+    "provisional_photo_library": "candidate metadata only; no candidate automatically becomes an installed image"
+  },
+  "targeted_handoffs": [
+    {
+      "lane": "diagnostic-photo",
+      "roles": [
+        "H. amarum versus H. elegans same-scale node wings with 3–5 cm stem",
+        "H. autumnale perennial crown versus H. elegans annual root base",
+        "H. elegans globoid versus H. quadridentatum ovoid/obconic mature involucres in matched side view",
+        "H. quadridentatum isolated 4-lobed disc floret and H. amarum variety lobe-color pair"
+      ],
+      "gate": "verify actual source photo, exact species, author, image-level rights and anatomy pixels before any arrow or learner diagnostic claim"
+    },
+    {
+      "lane": "taxonomy-diagnostic",
+      "question": "Recheck H. elegans versus H. quadridentatum key on mature specimens and confirm infraspecific H. amarum color-cue limits; do not change range classifications."
+    },
+    {
+      "lane": "installer",
+      "question": "No new taxa: four species already canonical; H. amarum varieties represented inside parent and H. quadridentatum remains provisional range HOLD."
+    }
+  ]
+}

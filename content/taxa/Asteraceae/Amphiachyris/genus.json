@@ -1,0 +1,205 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Amphiachyris",
+  "authority": "Nutt.",
+  "common_group": "Broomweeds",
+  "project_scope": {
+    "selection_mode": "two canonical species, matched morphology comparison",
+    "species_ids": [
+      "amphiachyris-amoena",
+      "amphiachyris-dracunculoides"
+    ],
+    "species_count": 2
+  },
+  "study_strategy": {
+    "priority": [
+      "whole-plant architecture",
+      "leaf arrangement and dissection",
+      "phyllaries",
+      "ray vs disc makeup",
+      "pappus/fruit when available"
+    ],
+    "warning": "Many Asteraceae look similar from a distance. Use head structure and involucre details, not just a yellow flower photo."
+  },
+  "curation_status": {
+    "version": "2.0-genus-comparison-builder",
+    "last_reviewed": "2026-10-08",
+    "visual_status": "morphology_comparison_complete; matched diagnostic macros pending",
+    "canonical_species_unchanged": true,
+    "range_decisions_unchanged": true,
+    "external_reference_photo_count": 4,
+    "external_reference_photos_installed": 0
+  },
+  "shared_genus_recognition": {
+    "what_they_share": [
+      "Annual broom-shaped composites with alternate sessile narrow leaves, gland dots and a strong resinous odor when crushed.",
+      "Numerous small radiate heads (ray florets and disc florets), with resinous whitish-faced phyllaries.",
+      "Functionally staminate disc florets; fertile ray florets form ribbed cypselae with a crown-like pappus."
+    ],
+    "look_here_first": "At a flowering branch, photograph the overall head arrangement (open loose panicle or crowded flat-topped cluster). Then measure a mid-stem leaf width, and inspect a ripe ray cypsela under magnification: rib count and hair length are the strongest confirmation. For difficult specimens inspect the receptacle after removing florets."
+  },
+  "species_comparison_matrix": {
+    "columns": [
+      "character",
+      "Amphiachyris amoena",
+      "Amphiachyris dracunculoides",
+      "how_to_use"
+    ],
+    "rows": [
+      [
+        "Head arrangement",
+        "Open paniculiform branching",
+        "Crowded corymbiform clusters",
+        "Best first visual split; image whole flowering canopy"
+      ],
+      [
+        "Leaf blade width",
+        "0.2–1(–2) mm",
+        "0.5–6 mm",
+        "Overlap at 0.5–2 mm; measure multiple mid-stem leaves"
+      ],
+      [
+        "Leaf blade length",
+        "5–25(–35) mm",
+        "5–60 mm",
+        "Supporting, not decisive; overlap broad"
+      ],
+      [
+        "Plant height",
+        "20–40(–60) cm",
+        "30–100(–200) cm",
+        "Supporting only, overlap 30–60 cm"
+      ],
+      [
+        "Phyllary dimensions",
+        "3–4 × 1–2 mm",
+        "2–3 × 1–2 mm",
+        "Overlap at 3 mm; photograph with scale"
+      ],
+      [
+        "Receptacle surface",
+        "Hooked hairs with swollen bases",
+        "Deeply pitted, glabrous",
+        "Strong structural separator on dissected mature head"
+      ],
+      [
+        "Ray cypsela ribs",
+        "4–6 ribs",
+        "7–9 ribs",
+        "Strong reproductive split on ripe fruit"
+      ],
+      [
+        "Ray cypsela indument",
+        "Long setulose hairs",
+        "Short setulose hairs",
+        "Pair with rib count, macro scale"
+      ],
+      [
+        "Ray cypsela length",
+        "2–3 mm",
+        "1.2–2.2 mm",
+        "Narrow overlap 2–2.2 mm; not standalone"
+      ]
+    ],
+    "source": "Flora of North America, Amphiachyris genus and both species treatments"
+  },
+  "look_here_first": "First separate loose, open flowering panicles (A. amoena) from crowded corymb-like head clusters (A. dracunculoides). Confirm by receptacle texture or ribbed ripe ray cypselae, not flower color.",
+  "species_key": [
+    "Open paniculiform arrays + very narrow leaves usually under 1 mm + receptacle with hooked swollen-based hairs + ray cypselae 4–6-ribbed and long-setulose → A. amoena.",
+    "Crowded corymbiform arrays + leaves commonly wider + receptacle deeply pitted and glabrous + ray cypselae 7–9-ribbed and short-setulose → A. dracunculoides.",
+    "If only sterile foliage or immature heads are present, retain Amphiachyris sp. until reproductive confirmation."
+  ],
+  "overlap_cautions": [
+    "Leaf width overlaps at 0.5–2 mm, plant heights overlap, and phyllary lengths meet at 3 mm; do not force a call from one measure.",
+    "Both species have small yellow radiate heads; color does not separate them.",
+    "A. dracunculoides canonical species morphology currently calls heads 'discoid or nearly discoid', but Flora of North America describes Amphiachyris heads as radiate. Treat this as a targeted species-card correction handoff, not a genus character.",
+    "Fruit characters refer specifically to ray cypselae; sample mature ray fruits rather than mixed disc florets.",
+    "Do not infer target-zone nativity from this morphological lesson; preserve each species' existing range metadata."
+  ],
+  "realistic_lookalikes": [
+    {
+      "taxon": "Gutierrezia spp. (snakeweeds)",
+      "distinction": "Compare phyllary nervation and pappus/receptacle structure; Amphiachyris has whitish resinous phyllary faces and fertile ray florets with ribbed cypselae. Use mature heads."
+    },
+    {
+      "taxon": "Heterotheca / small yellow-flowered asters",
+      "distinction": "Inspect the small composite head, involucre, ray cypsela and pappus rather than broomy habit alone."
+    },
+    {
+      "taxon": "Amphiachyris amoena vs A. dracunculoides",
+      "distinction": "Open versus crowded head arrays; hooked receptacle hairs versus glabrous pitted receptacle; 4–6 versus 7–9 cypsela ribs."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "matched whole flowering canopies",
+      "instruction": "Side-by-side open paniculiform A. amoena versus crowded corymbiform A. dracunculoides; label branching arrangement."
+    },
+    {
+      "priority": 1,
+      "role": "matched receptacle dissection macros",
+      "instruction": "Remove florets and show hooked swollen-based hairs in A. amoena versus deep pits/glabrous surface in A. dracunculoides; same magnification."
+    },
+    {
+      "priority": 1,
+      "role": "matched mature ray cypsela macro",
+      "instruction": "Count 4–6 vs 7–9 ribs and show long vs short setulae with a 1-mm scale."
+    },
+    {
+      "priority": 2,
+      "role": "matched mid-stem leaf widths",
+      "instruction": "Photograph multiple leaves against millimeter ruler and label overlap 0.5–2 mm."
+    },
+    {
+      "priority": 2,
+      "role": "involucre and phyllary macro",
+      "instruction": "Show phyllary lengths 3–4 vs 2–3 mm, resinous whitish faces, and green border absence."
+    },
+    {
+      "priority": 3,
+      "role": "head ray-and-disc diagram overlay",
+      "instruction": "Label yellow ray and disc florets on real photograph to correct misleading 'discoid' learner text; keep overlay provenance separate."
+    }
+  ],
+  "existing_media_anchors": [
+    {
+      "species_id": "amphiachyris-amoena",
+      "source": "species.json images[0]",
+      "role": "Flower, fine leaves, branching",
+      "license": "CC BY-NC; reuse constraints apply"
+    },
+    {
+      "species_id": "amphiachyris-dracunculoides",
+      "source": "species.json images[0..4]",
+      "role": "Five existing project gallery views; verify specific diagnostic content before annotation",
+      "license": "Per-image metadata in species.json; mixed restrictions"
+    }
+  ],
+  "targeted_handoff": {
+    "lane": "Taxonomy + Diagnostic Review",
+    "target": "amphiachyris-dracunculoides",
+    "request": "Reconcile canonical morphology_keys.heads ('discoid or nearly discoid') with Flora of North America Amphiachyris description of radiate heads and A. dracunculoides treatment. Check ray vs disc florets on exact-species material, then update species card without touching range status.",
+    "reference": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=101427"
+  },
+  "scientific_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=101427",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220000600",
+    "https://www.midwestherbaria.org/portal/taxa/index.php?clid=0&taxauthid=1&tid=71888"
+  ],
+  "exact_phyllary_pappus_comparison_external_study": {
+    "status": "study links only; original photographer's media reuse permission and individual licenses not fully verified",
+    "guide": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+    "phyllary_amoena_photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11319346/large.jpeg",
+    "phyllary_gutierrezia_texana_photo": "https://static.inaturalist.org/photos/55859654/large.jpeg",
+    "disc_pappus_amphiachyris_genus_photo": "https://static.inaturalist.org/photos/11543113/large.jpeg",
+    "gutierrezia_short_pappus_photo": "https://static.inaturalist.org/photos/53439779/large.jpeg",
+    "warning": "Do not label the genus-level Amphiachyris pappus source as A. amoena without exact photo species verification. Copyright watermark is not reuse clearance.",
+    "pending": [
+      "License checks",
+      "true paired same-magnification phyllary photos",
+      "DISC-floret pappus with mm scale"
+    ]
+  }
+}

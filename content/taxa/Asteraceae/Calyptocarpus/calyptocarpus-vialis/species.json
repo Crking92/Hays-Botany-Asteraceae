@@ -1,0 +1,371 @@
+{
+  "id": "calyptocarpus-vialis",
+  "family": "Asteraceae",
+  "genus": "Calyptocarpus",
+  "species": "vialis",
+  "scientific_name": "Calyptocarpus vialis",
+  "common_name": "Straggler daisy",
+  "look_here_first": "LOW, sprawling or mat-forming plant; leaves OPPOSITE, oval-to-triangular and shallowly toothed. Tiny YELLOW composite heads sit almost directly in the LEAF AXILS (where leaf meets stem). Confirm the Asteraceae head: short ray florets around yellow disc florets; inspect the green phyllaries beneath the head and, when mature, small awned cypselae. Do not identify by yellow flower color alone.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "manual_library_install_036": "2026-10-16",
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_id_text_reviewed": "2026-10-19",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "actual_visual_diagnostic_review": "5 images physically present: existing recognition images and two manually opened arrowed macro images. Macro arrows checked on committed bytes; complete underside phyllary arrangement and individual pappus barbs unproven.",
+    "required_to_finish": [
+      "Inspect installed annotated originals on published site and verify rendered arrow positions",
+      "Source true underside phyllary view if teaching entire bract arrangement/count",
+      "Source finer pappus barb macro if teaching barb orientation"
+    ],
+    "gallery_gross_features_examined": "2026-10-19 all three original physical JPEG bytes opened and actual leaf, stem, head views examined",
+    "precise_anatomy_visual_review": "PARTIAL: true flower-head side phyllary and cypsela with major paired awns shown by annotated macro images; underside bract count / fine awn barbs not visually confirmed",
+    "macro_photo_install": "2026-10-19",
+    "archived_library_license_version_verified": "2026-10-19 (Dan Johnson GBIF 5938419383 and Linda Jo Conn GBIF 5938617170 photo-specific CC BY 4.0)"
+  },
+  "photo_note": "2026-10-19: All three existing GitHub JPEG photo bytes were independently opened visually. Images depict compatible horseherb/straggler daisy habit, paired small hairy toothed leaves, small yellow ray-and-disc heads. Source determination is consistent but independently taxonomically confirming the whole specimen and microscopic phyllaries/cypselae needs additional imagery. No arrows asserted. Archived Dan Johnson and Linda Jo Conn photo-specific GBIF license records verified as CC BY 4.0 on 2026-10-19; credits preserved. Two clearly licensed Wikimedia Commons macro reference photos added with anatomically selected arrows (Forest & Kim Starr, CC BY 3.0). Fine pappus barbs and full underside phyllary count still lack demonstration. Two older archived photos are suitable for habit/leaf/head teaching, not microscopic phyllary underside or barb diagnosis; licensed extra fruiting-head candidates do not yet demonstrate individual barbs more clearly than the installed macro.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/188166-1",
+  "images": [
+    {
+      "file": "images/inat-344357584.jpg",
+      "role": "Recognize it · real small yellow ray-and-disc flower head with hairy ovate leaves and creeping reddish stem; leaf margins visible",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/344357584",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only",
+      "manual_anatomy_photo_inspection": "2026-10-19 independent visual inspection of physical GitHub JPEG: one small yellow daisy-like head, several broad toothed ovate leaves, visible stem pubescence and petioles. Phyllary underside/awned fruits NOT visible; independent exact-species botanical verification remains separate.",
+      "anatomy_arrows": "none; no pixel-verified phyllary/fruit arrow positions"
+    },
+    {
+      "file": "images/library-review036-3a2a1561bd8bb49.jpg",
+      "role": "Look closer · opposite toothed hairy leaves, small yellow ray-floret and disc-floret head, fingertip for rough scale",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Dan Johnson",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "Original photo-specific GBIF media record verified 2026-10-19: CC BY 4.0 (license http://creativecommons.org/licenses/by/4.0/); rightsHolder Dan Johnson. iNaturalist photo-detail API returned 404; GBIF live individual media is source for version.",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938419383",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605224453/original.jpg",
+      "source_determination": "Calyptocarpus vialis",
+      "source_observation_id": "5938419383",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/calyptocarpus-vialis/gbif-e5e71a942c80e1.jpg",
+      "archive_image_sha256": "81cd0a2745e8a858e4485ea338be6020abcbbf02f8032ef238868e824ef10caa",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified. Individual archived JPEG's original species determination remains provisional; photo-specific license confirmed via GBIF 2026-10-19.",
+      "anatomy_arrows": "none; no pixel-verified phyllary/fruit arrow positions",
+      "study_use": "Public or private attributed botanical educational use under CC BY 4.0",
+      "public_reuse": "Yes under CC BY 4.0: attribution, license link and changes notice required; photographer remains rights holder",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "manual_anatomy_photo_inspection": "2026-10-19 independent visual inspection of actual 1050 × 1400 JPEG: visible five or so short yellow peripheral rays, yellow disc centre, several opposite leaf pairs, appressed hairs and shallow marginal teeth; fingertip at lower left for loose scale. Cannot use image to certify phyllary count, fine fruit morphology or exact mm size. Species identity remains corroborated by source determination.",
+      "license_verified_via": "https://api.gbif.org/v1/occurrence/5938419383",
+      "source_observation_page": "https://www.inaturalist.org/observations/333373521"
+    },
+    {
+      "file": "images/library-review036-0adb88dde040419.jpg",
+      "role": "Recognize it · dense low branching patch with opposite simple toothed leaves, scattered flowering/old head remnants",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "Original photo-specific GBIF media record verified 2026-10-19: CC BY 4.0 (license http://creativecommons.org/licenses/by/4.0/); rightsHolder Linda Jo Conn. iNaturalist photo-detail API returned 404; GBIF live individual media is source for version.",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938617170",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604953893/original.jpg",
+      "source_determination": "Calyptocarpus vialis",
+      "source_observation_id": "5938617170",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/calyptocarpus-vialis/gbif-e144fbeacc55ed.jpg",
+      "archive_image_sha256": "84fc23233ec77c922e841ea1ed50386f54903621b5ca634ccb7340f34b024faf",
+      "image_dimensions": [
+        1400,
+        1231
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified. Individual archived JPEG's original species determination remains provisional; photo-specific license confirmed via GBIF 2026-10-19.",
+      "anatomy_arrows": "none; no pixel-verified phyllary/fruit arrow positions",
+      "study_use": "Public or private attributed botanical educational use under CC BY 4.0",
+      "public_reuse": "Yes under CC BY 4.0: attribution, license link and changes notice required; photographer remains rights holder",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "manual_anatomy_photo_inspection": "2026-10-19 independent visual inspection of actual 1400 × 1231 JPEG: dense overlapping small hairy opposite leaves, branching/low habit and several brown old heads, but the heads are not resolved sufficiently to identify cypselae or pappus awns. Do not label those structures yet.",
+      "license_verified_via": "https://api.gbif.org/v1/occurrence/5938617170",
+      "source_observation_page": "https://www.inaturalist.org/observations/333241257"
+    },
+    {
+      "file": "images/starr-3968-flower-phyllary-arrows.jpg",
+      "role": "Confirm it · enlarged flower-head side view: green involucral bract (phyllary) and yellow ray floret labeled with arrows; complete underside and bract count not shown.",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_platform": "Wikimedia Commons / Plants of Hawaii",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_050210-3968_Calyptocarpus_vialis.jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Starr_050210-3968_Calyptocarpus_vialis.jpg",
+      "image_dimensions": [
+        1200,
+        898
+      ],
+      "study_use": "Attributed botanical education",
+      "public_reuse": "CC BY 3.0; attribution and notice of modifications required",
+      "modifications": "Original cropped/resized to max 1200 px and annotation arrows/labels added; original untouched at Wikimedia",
+      "original_image_sha256": "8f66dda44ec73690974585ff04948945b50ba33a00455fced50e7e34423612b2",
+      "anatomy_arrows": "Baked yellow arrows point at structures checked in original Wikimedia 1000x750 previews; after-install enlarged review still recommended.",
+      "photo_review": "Source exact taxon and CC BY 3.0 license visually verified on Wikimedia; arrows selected at actual visible anatomy in source preview. Fine pappus barbs and underside complete phyllary count NOT shown."
+    },
+    {
+      "file": "images/starr-3974-cypsela-awns-arrows.jpg",
+      "role": "Confirm it · isolated mature cypsela with two visible pappus awns, individually indicated; fine backward/forward-pointing barbs not resolved in this photograph.",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_platform": "Wikimedia Commons / Plants of Hawaii",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_050210-3974_Calyptocarpus_vialis.jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Starr_050210-3974_Calyptocarpus_vialis.jpg",
+      "image_dimensions": [
+        1200,
+        898
+      ],
+      "study_use": "Attributed botanical education",
+      "public_reuse": "CC BY 3.0; attribution and notice of modifications required",
+      "modifications": "Original cropped/resized to max 1200 px and annotation arrows/labels added; original untouched at Wikimedia",
+      "original_image_sha256": "f9fb3c0e2480c5b3493a095fde78a1bdb26ebbb3e65e100868225fc199e39df1",
+      "anatomy_arrows": "Baked yellow arrows point at structures checked in original Wikimedia 1000x750 previews; after-install enlarged review still recommended.",
+      "photo_review": "Source exact taxon and CC BY 3.0 license visually verified on Wikimedia; arrows selected at actual visible anatomy in source preview. Fine pappus barbs and underside complete phyllary count NOT shown."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "species_finished_text_plus_wikimedia_macro_arrows_pending_final_qc",
+    "image_count": 5,
+    "filled_at": "2026-10-16",
+    "note": "Five individually credited physical images. Three show gross habit/leaves/heads; two arrowed macro images correctly indicate a side phyllary, ray floret and two prominent awns on a cypsela. GBIF confirms two archived photo licenses are CC BY 4.0. Still no verified full underside-phyllary count or individual awn barb orientation.",
+    "last_text_reviewed": "2026-10-19",
+    "photo_pixel_inspection": "gross_visible_features_reviewed_2026-10-19",
+    "license_review": "CC BY-NC (Chuck Sexton); CC BY 4.0 (Dan Johnson and Linda Jo Conn, verified GBIF); CC BY 3.0 (Forest & Kim Starr)",
+    "field_training_readiness": "READY_FOR_FIELD_USE_WITH_DOCUMENTED_MICRO_ANATOMY_GAPS"
+  },
+  "entry_type": "species",
+  "authority": "Less.",
+  "common_names": [
+    "Straggler daisy",
+    "Horseherb",
+    "Prostrate lawnflower"
+  ],
+  "synonyms": [
+    "Synedrella vialis (Less.) A.Gray",
+    "Calyptocarpus tampicanus (DC.) Small"
+  ],
+  "taxonomic_note": "Calyptocarpus vialis Less. is the accepted name per Kew POWO. Synedrella vialis is an older homotypic name; do not confuse it with Synedrella nodiflora, a different species. Species is reported native to Texas by POWO; defer strict target-county nativity labels under project policy.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Creeping/procumbent perennial; delicate branched shoots spread through thin turf or along path edges and can root at nodes.",
+      "Leaves in opposite pairs, often rotated 90 degrees at successive nodes (decussate); one simple blade per petiole.",
+      "Leaf blades usually ovate, broadly lanceolate or somewhat triangular (deltate), about 1–3 cm commonly, sometimes larger; shallow rounded teeth on margins; three prominent veins arise near the base.",
+      "Single small yellow COMPOSITE head about 4–8 mm across, nearly stalkless (subsessile), nestled where a leaf meets the stem.",
+      "Small ray florets are present but have short yellow limbs; inner yellow disc florets are separate tiny flowers, not a single disc.",
+      "Beneath a head inspect a few green overlapping phyllaries (typically about 4–6), not ordinary flower sepals.",
+      "In fruit, look for flattened dry one-seeded cypselae with two conspicuous barbed awns (small additional awns may occur)."
+    ],
+    "life_cycle": "Perennial herb; can regrow from its established plant base and spreading branches. Flowering reported nearly year-round across its geographic range, but Central Texas flowering varies with rain, mowing and frost.",
+    "growth_habit": "Prostrate to decumbent (trailing or partly lifted), branched herb, roughly 4–27 cm high and stems to about 40 cm long in the UT Williamson County treatment; sometimes forms loose mats among turf. Look for roots at contacting nodes, not tall vertical stalks.",
+    "stem": "Slender cylindrical green or sometimes red-striped/purplish stems, hairy with short, mostly upward-pointing stiff hairs (strigose), branching at nodes. Shoot tips can rise despite generally creeping habit.",
+    "leaf_arrangement": "Opposite and decussate: leaves emerge in pairs from each node; successive pairs typically cross in orientation. Not alternate and not three leaflets.",
+    "leaves": "Simple, small, petiolate blades; ovate to deltate (triangular-ovate), sometimes broadly lanceolate; low crenate-serrate teeth, not smooth coin-shaped margins; short appressed hairs on both surfaces. Williamson County measured 6.5–54 mm long × less than 5–28 mm wide, with variation.",
+    "leaf_venation": "Often three principal veins arising near the leaf base plus pinnate secondary venation. Veins assist confirmation but overlap with other small herbs; do not identify from three basal veins alone.",
+    "inflorescence": "Usually a solitary radiate CAPITULUM (flower head) at a leaf axil; heads very short-stalked or nearly stalkless (subsessile). A leafy branch may continue immediately beside the head, making the head seem part of a cluster.",
+    "heads": "Typically ~4–8 mm across. What looks like one tiny flower is a composite head of multiple separate yellow florets: short outer ray florets and central disc florets.",
+    "phyllaries": "Small overlapping green involucral bracts beneath the head, often 4–6; Williamson County describes a bell-shaped involucre ~5–6 mm long. These are crucial Asteraceae organs; not yet verified in existing gallery photos.",
+    "flower": "Yellow ray florets bear a short straplike corolla with lobes at the tip; central yellow disc florets are tubular and bisexual. Number and visibility vary; check with a hand lens rather than expecting a large showy daisy.",
+    "fruit": "Cypsela (dry one-seeded fruit, often called an achene), typically ~2–4 mm long; often flattened and sometimes somewhat angled, with usually two conspicuous spreading-to-ascending barbed awns of the pappus (smaller additional awns possible). Fruit angle is NOT invariably three-sided.",
+    "habitat": "Warm Central Texas lawns and lightly shaded turf margins, path edges, garden beds, roadsides and other disturbed ground; tolerates several soil types including clays and calcareous soils. Habitat is supporting, not an ID character.",
+    "field_season": "In Central Texas, look for leaves and spreading runners across much of the growing season, tiny heads during warm or moist spells; flowering may pause in dry or freezing weather. FNA reports flowering approximately year-round geographically; do not promise year-round local blooms.",
+    "measurement_tip": "Flower head ~4–8 mm across, far smaller than most conspicuous daisies. Carry a 1 mm-rule/hand lens for phyllaries and small awned fruit.",
+    "key_cautions": "Low stature plus yellow color is insufficient. Opposite leaves and short yellow rays are shared with other herbs; the almost stalkless axillary capitulum and reproductive microstructure are strongest checks. A 3-angled cypsela is possible but not universal."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Phyla nodiflora (frogfruit)",
+      "Dichondra carolinensis (Carolina ponyfoot)",
+      "Eclipta prostrata (false daisy)",
+      "Wedelia acapulcensis (hairy wedelia/zexmenia)",
+      "Synedrella nodiflora (introduced tropical comparison; not assumed locally frequent)"
+    ],
+    "key_distinctions": "Frogfruit: tiny white/pink flowers crowded into a button/cylinder on a noticeable naked axillary stalk, rather than a yellow ray-and-disc composite head. Carolina ponyfoot: round or kidney-shaped, entire-margined ALTERNATE leaves on long petioles, and minute non-daisy flowers. False daisy (Eclipta): opposite but much narrower/larger leaves; many short WHITE ray florets in a larger head, often wetter habitats. Hairy wedelia: much larger yellow/orange flower heads on longer peduncles and taller, coarse, often woody-based stems. Synedrella nodiflora: a useful botanical comparison in introduced floras, more erect with clustered heads; local occurrence should be checked before making it a core Hays field target.",
+    "field_comparison_matrix": [
+      {
+        "species": "Calyptocarpus vialis",
+        "habit": "Low creeping perennial",
+        "leaves": "Opposite; ovate-to-deltate, shallowly toothed",
+        "flowers": "Tiny yellow ray-and-disc head ~4–8 mm, almost stalkless and axillary",
+        "first_check": "Head structure and leaf pairs",
+        "confidence": "Multiple characters required"
+      },
+      {
+        "species": "Phyla nodiflora",
+        "habit": "Rooting creeping groundcover",
+        "leaves": "Opposite, often widest distally, teeth concentrated above midpoint",
+        "flowers": "Button/cylindrical head of tiny white-to-lavender flowers on longer peduncle",
+        "first_check": "Button inflorescence, not composite ray/disc",
+        "confidence": "Strong when flowering"
+      },
+      {
+        "species": "Dichondra carolinensis",
+        "habit": "Low stoloniferous mat",
+        "leaves": "Alternate, round/kidney-shaped, entire margins; long petioles",
+        "flowers": "Tiny inconspicuous bell-shaped flowers, no yellow composite head",
+        "first_check": "Leaf outline/arrangement",
+        "confidence": "Strong without flowers"
+      },
+      {
+        "species": "Eclipta prostrata",
+        "habit": "Prostrate-to-ascending herb, often wetter soil",
+        "leaves": "Opposite; narrow elliptic-to-lanceolate",
+        "flowers": "Small heads with many short WHITE rays (not yellow rays)",
+        "first_check": "Flower color/head plus slender leaves",
+        "confidence": "Supporting habitat only"
+      },
+      {
+        "species": "Wedelia acapulcensis",
+        "habit": "Coarser perennial/subshrub with raised stems",
+        "leaves": "Opposite; rough, usually sessile and coarsely toothed",
+        "flowers": "Conspicuous much larger yellow/orange heads on longer stalks",
+        "first_check": "Head scale, peduncle and plant stature",
+        "confidence": "Size may vary on mowed plants"
+      }
+    ],
+    "caution": "Do not treat all low mat-forming plants as close botanical relatives: Phyla is in Verbenaceae and Dichondra in Convolvulaceae; they are practical same-site comparisons. Eclipta and Wedelia share Asteraceae but differ in floral scale/structure."
+  },
+  "ecological_notes": {
+    "crew_encounters": "Frequently encountered as a volunteer/groundcover in turf transitions, footpath edges, beds and partly shaded park ground. The crew should learn it as a recognizable existing plant before deciding whether any site-specific management is needed.",
+    "mowing_and_weather": "Low growth permits persistence in some mowed lawns, but repeated low mowing, drought and frost affect how many flowers are visible. Do not decide identity or remove it based only on sparse flowering.",
+    "ecological_claims": "Small composite flowers can offer floral resources, but no numerical local specialist-bee or Lepidoptera host totals have been verified for this card. Do not present speculative species-specific counts.",
+    "native_range_note": "Kew POWO recognizes a native range including Texas. Detailed target-county nativity verification remains outside this manual morphology pass."
+  },
+  "family_genus_teaching": {
+    "family": "Asteraceae: a capitulum is a head of many tiny florets; green phyllaries form the involucre underneath; the dry one-seeded fruit is a cypsela.",
+    "genus": "Calyptocarpus: low opposite-leaved herbs with small yellow radiate heads; use the short-stalked axillary heads plus awned fruits to separate this taxon from unrelated creeping groundcovers.",
+    "species": "C. vialis: conspicuously low branching habit, mostly ovate-to-triangular short-toothed opposite leaves, ~4–8 mm heads at axils, overlapping green phyllaries and awned cypselae."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "existing-review",
+      "role": "Recognize it — sprawling patch",
+      "status": "EXISTING 3 photos physically read and visually reviewed 2026-10-19 for gross habit/leaves/yellow heads. True phyllary/fruit macros still missing.",
+      "needed": "Whole mat with stem junction/scale and leaf pair orientation",
+      "source_status": "existing photos metadata preserved"
+    },
+    {
+      "priority": "critical",
+      "role": "Look closer — leaf nodes",
+      "status": "PARTIALLY VISIBLE: paired hairy toothed leaves seen in library-review036 photos; no precise verified node label/arrow yet.",
+      "needed": "Both leaves attached at one node, short petioles, shallow teeth, three basal veins; use hand scale and inspect source photograph",
+      "annotation_rule": "Do not place arrows until organ pixel positions checked"
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm ID — flower head underside",
+      "status": "MISSING VERIFIED MACRO",
+      "needed": "Side and underside of ~4–8 mm head with actual phyllaries counted and adjacent leaf axil visible",
+      "annotation_rule": "Green phyllaries below head are NOT sepals"
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm ID — ray and disc florets",
+      "status": "PARTIALLY VISIBLE: short yellow ray florets and disc center in library-review036-3a2a...; magnification insufficient for per-floret reproductive anatomy.",
+      "needed": "Face macro clearly showing short yellow peripheral ray florets and central tubular disc florets"
+    },
+    {
+      "priority": "high",
+      "role": "Confirm ID — fruit",
+      "status": "MISSING VERIFIED MACRO",
+      "needed": "Mature flattened cypsela with two long, barbed pappus awns and scale (1 mm ticks); don't assume fruit is always three-angled"
+    },
+    {
+      "priority": "high",
+      "role": "Look-alike comparison",
+      "status": "PENDING MATCHED PUBLIC-LICENSE PHOTOS",
+      "needed": "Leaf and head side-by-side at comparable scale with frogfruit, ponyfoot and Eclipta; verify photo-level rights and exact taxa"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Plants of the World Online — Kew",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:188166-1",
+      "supports": "accepted name, rank, synonyms, native range including Texas"
+    },
+    {
+      "source": "Vascular Plants of Williamson County, A. C. Gibson, University of Texas Plant Resources Center",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Calyptocarpus%20vialis.html",
+      "supports": "Central Texas morphology, leaf pairs, head, phyllaries, ray/disc florets, fruit/awn dimensions"
+    },
+    {
+      "source": "Flora of North America treatment via eFloras",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220002216",
+      "supports": "leaf/flower/fruit ranges, geographic habitat, flowering variability"
+    },
+    {
+      "source": "Native Plant Society of Texas",
+      "url": "https://www.npsot.org/posts/native-plant/calyptocarpus-vialis/",
+      "supports": "Texas ecoregion relevance and common names"
+    },
+    {
+      "source": "UT PRC Dichondra carolinensis",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Dichondra%20carolinensis.html",
+      "supports": "kidney-shaped entire alternate leaves and mat habit of look-alike"
+    },
+    {
+      "source": "UT PRC Eclipta prostrata",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Eclipta%20prostrata.html",
+      "supports": "opposite narrow leaves, short white-rayed flower heads of look-alike"
+    }
+  ],
+  "diagnostic_photo_research_20261019": {
+    "two_archived_photos_reviewed": [
+      {
+        "creator": "Dan Johnson",
+        "file": "images/library-review036-3a2a1561bd8bb49.jpg",
+        "outcome": "Opposite leaves, short rays/disc and hairs visible. No resolved lower involucral architecture or fruit barbs."
+      },
+      {
+        "creator": "Linda Jo Conn",
+        "file": "images/library-review036-0adb88dde040419.jpg",
+        "outcome": "Habit and spent heads visible. Dry head structures too small to count phyllaries or trace barbs."
+      }
+    ],
+    "right_versions_verified": [
+      "Dan Johnson, media photo 605224453, GBIF 5938419383, CC BY 4.0",
+      "Linda Jo Conn, media photo 604953893, GBIF 5938617170, CC BY 4.0"
+    ],
+    "new_external_photo_leads": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Calyptocarpus_vialis_(fruit)",
+        "note": "Seven taxon-specific fruit images, including existing macro. No independently confirmed improvement in individual microscopic barb visibility."
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:CalyptocarpusVialis4.jpg",
+        "license": "CC BY-SA 4.0, Douglas Goldman",
+        "note": "Licensed photo of fruiting heads. Would teach fruiting head context, not necessarily individual barb orientation."
+      },
+      {
+        "url": "https://keys.lucidcentral.org/keys/v3/daisy_fruit/key/daisy_fruit/Media/Html/Calyptocarpus_vialis.htm",
+        "license": "Source page does not provide a suitable per-image reuse grant",
+        "note": "Useful measured fruit reference; link only, do not rehost without permission."
+      },
+      {
+        "url": "https://web.biosci.utexas.edu/bio406d/images/pics/ast/calyptocarpus_vialis.htm",
+        "license": "Teaching reference; per-image reuse not independently granted",
+        "note": "Useful organ-level teaching views; link rather than copying."
+      }
+    ],
+    "conclusion": "Five-photo species card is field-training ready with the major fruit and flower structures illustrated. Do not spend further cycles hunting finer microanatomy unless a better licensed macro is volunteered or clearly located.",
+    "revisit_if": "New genuinely diagnostic underside bract arrangement and higher-magnification barbed awn photo with photo-specific public reuse permission available"
+  }
+}

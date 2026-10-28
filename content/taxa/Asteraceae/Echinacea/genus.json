@@ -1,0 +1,146 @@
+{
+  "rank": "genus",
+  "name": "Echinacea",
+  "family": "Asteraceae",
+  "common_group": "purple coneflowers",
+  "project_scope": {
+    "installed_canonical_species": [
+      "echinacea-angustifolia"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_species": [
+      "Echinacea angustifolia"
+    ],
+    "native_target_zone_calculated": false,
+    "source_of_native_status": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/species.json",
+    "note": "Single-species genus study lesson uses identified neighboring taxa as references, not learner-approved new species. No new canonical species or nativity changes."
+  },
+  "genus_recognition": {
+    "look_here_first": "Look for a compact, often single-headed coneflower with *narrow rough leaves*, stiff cone and papery/prickly receptacular chaff between disk florets. The purple rays are WHOLE RAY FLORETS, not petals.",
+    "source_order": "habit → leaf/stem architecture → flower structure → fruit/seed → specialist comparison"
+  },
+  "morphological_comparison_matrix": [
+    {
+      "character": "plant architecture",
+      "Echinacea angustifolia": "shortish often single-headed stout stem",
+      "comparison_reference": "purpurea generally larger/branched; pallida taller/slender; Ratibida often slender branching"
+    },
+    {
+      "character": "leaf width",
+      "Echinacea angustifolia": "narrow linear to lanceolate, hairy/rough and mostly entire",
+      "comparison_reference": "purpurea often broad toothed ovate leaves; pallida also narrow so other traits required"
+    },
+    {
+      "character": "disk and chaff",
+      "Echinacea angustifolia": "shorter broad stiff prickly cone built of disk florets plus paleae/chaff",
+      "comparison_reference": "Ratibida columnifera has dramatically elongated column-shaped disk"
+    },
+    {
+      "character": "ray shape",
+      "Echinacea angustifolia": "pink-purple drooping rays, often relatively short compared with E. pallida",
+      "comparison_reference": "pallida often has very narrow long strongly drooping rays; color not diagnostic"
+    },
+    {
+      "character": "lower foliage",
+      "Echinacea angustifolia": "usually narrow basal/cauline leaves, not deeply divided",
+      "comparison_reference": "Ratibida has conspicuously deeply divided/lobed leaves"
+    },
+    {
+      "character": "fruit/pappus",
+      "Echinacea angustifolia": "achenes (cypselae) with reduced pappus; image should show scale and phyllaries",
+      "comparison_reference": "compare with Ratibida and other Asteraceae; dry fruit alone not sufficient"
+    }
+  ],
+  "local_lookalike_reference_names": [
+    "Echinacea purpurea",
+    "Echinacea pallida",
+    "Ratibida columnifera"
+  ],
+  "visual_id_sequence": [
+    "1. Inspect entire plant habit and growth form.",
+    "2. Zoom to stem node and complete mature leaf with ruler.",
+    "3. Inspect close flower and reproductive parts, labeling all structures rather than flower color alone.",
+    "4. Confirm mature fruit architecture with macro and seed view.",
+    "5. Compare the nearest confuser against matched structural photos; keep ambiguous IDs at genus."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "panel": 1,
+      "show": "entire leaf with mm/cm ruler and hairs, upper/lower surfaces"
+    },
+    {
+      "priority": "critical",
+      "panel": 2,
+      "show": "full habit with branched stem or single head, basal leaves"
+    },
+    {
+      "priority": "critical",
+      "panel": 3,
+      "show": "head side view showing shape/height of disk and rays"
+    },
+    {
+      "priority": "high",
+      "panel": 4,
+      "show": "disk/floret/paleae dissection with labels"
+    },
+    {
+      "priority": "high",
+      "panel": 5,
+      "show": "cypsela/achenes and pappus macro"
+    },
+    {
+      "priority": "high",
+      "panel": 6,
+      "show": "E. angustifolia vs pallida narrow rays and leaves and purpurea broad leaves same scale"
+    }
+  ],
+  "existing_canonical_photo_inventory": [
+    {
+      "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/01-field-reference.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/02-flower-detail.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/images/03-achene-detail.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    }
+  ],
+  "scientific_cautions": [
+    "Pallida overlap requires flower-ray dimensions and involucral phyllaries matched image; maintain source-pool E. angustifolia's canonical native_target_zone_calculated=false.",
+    "A canonical species's current target-zone nativity and learner approval are scientific metadata; comparing other related taxa must not install them or change their statuses.",
+    "Flower color, single leaf and ecology alone never resolve difficult look-alikes; photo comparisons should show same scale and source provenance."
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Pallida overlap requires flower-ray dimensions and involucral phyllaries matched image; maintain source-pool E. angustifolia's canonical native_target_zone_calculated=false."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm exact congener/look-alike traits before adding hard numeric boundaries; reconcile accepted synonyms."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Existing canonical species anatomy, photo provenance and scientific status",
+      "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/species.json"
+    },
+    {
+      "title": "Canonical family recognition and visual comparisons",
+      "path": "content/taxa/Asteraceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "genus-github-backfill-2026-10-11",
+    "reviewed_at": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_panels": 6,
+    "visual_status": "shot requests + existing metadata only, no new image assets downloaded",
+    "species_installs": 0,
+    "range_changes": 0
+  }
+}

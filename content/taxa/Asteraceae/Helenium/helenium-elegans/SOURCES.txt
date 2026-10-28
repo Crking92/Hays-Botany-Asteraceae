@@ -1,0 +1,12 @@
+PHOTO FAST-FILL 025 — Helenium elegans
+Date: 2026-10-05
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept compatible media.
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:45:55.819646+00:00
+Helenium elegans DC.
+https://www.gbif.org/occurrence/6234568933
+Theo Summer | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Winged stem from decurrent leaf base, globose involucre
+No anatomy arrows; no scientific or native-range changes.

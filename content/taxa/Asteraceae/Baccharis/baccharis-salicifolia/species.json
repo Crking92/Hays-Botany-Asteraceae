@@ -1,0 +1,112 @@
+{
+  "id": "baccharis-salicifolia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Baccharis",
+  "scientific_name": "Baccharis salicifolia",
+  "authority": "(Ruiz & Pav.) Pers.",
+  "common_name": "Seep Willow",
+  "field_group": "Riparian shrubby composite",
+  "project_tracker_diagnostic": "Larger riparian Baccharis with longer willowlike leaves and clustered small discoid heads; usually associated with wetter places than B. neglecta.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial shrub.",
+    "habit": "Upright shrub, often in wetter riparian or seep habitats.",
+    "leaves": "Alternate, linear-lanceolate to narrowly elliptic, usually longer than in B. neglecta.",
+    "heads": "Small discoid heads in clusters; female plants conspicuous in fruit.",
+    "phyllaries": "Several series, greenish.",
+    "fruit": "Cypselae with abundant white pappus.",
+    "best_field_traits": [
+      "willowlike riparian shrub",
+      "longer leaves",
+      "white pappus on female plants",
+      "wet habitat"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Lauren Glevanik, some rights reserved (CC BY-NC), uploaded by Lauren Glevanik",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/57913",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63805693/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "63805693",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "no rights reserved, uploaded by Anne Parsons",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/taxa/57913",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260709369/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "260709369",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Daniela Arrocena, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "http://conabio.inaturalist.org/observations/891048",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1132295/large.JPG",
+      "platform": "iNaturalist",
+      "observation_id": "891048",
+      "photo_id": "1132295",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Daniela Arrocena, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "http://conabio.inaturalist.org/observations/891048",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1132296/large.JPG",
+      "platform": "iNaturalist",
+      "observation_id": "891048",
+      "photo_id": "1132296",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Daniela Arrocena, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "http://conabio.inaturalist.org/observations/891048",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1132297/large.JPG",
+      "platform": "iNaturalist",
+      "observation_id": "891048",
+      "photo_id": "1132297",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  }
+}

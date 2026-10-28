@@ -1,0 +1,143 @@
+{
+  "id": "symphyotrichum-praealtum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "praealtum",
+  "scientific_name": "Symphyotrichum praealtum",
+  "authority": "(Poir.) G.L.Nesom",
+  "common_name": "Willowleaf aster",
+  "look_here_first": "FIRST flip a mid-stem leaf and magnify its fine netted veins: S. praealtum usually has a conspicuous pattern of small approximately equidimensional AREOLES below; above the blade is often WAXY, relatively firm, with margins sometimes rolled under (revolute). Check progressive reduction of leaves toward the flowering panicle and phyllary profile. Do NOT force ID from peduncle leafy-bract counts: FNA genus key and two species accounts disagree on opposite numbers.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_SOURCE_POOL",
+    "learner_admission_basis": "Existing reviewed B120 source-pool learner draft; range hold is not an admission veto",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [
+      "Travis"
+    ],
+    "range_basis": "B120 review verified Travis PRC specimen; a historical Berlandier route between Bexar and upper Guadalupe is not assignable to a modern county. No three-county target-zone proof.",
+    "range_guardrail": "Never count as confirmed target-zone native until independent county-range evidence resolves the hold; selected images are Ontario comparison material."
+  },
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Tall rhizomatous perennial often in colonies.",
+      "Narrow lance-shaped, willow-like leaves on ascending stems; compare basal versus upper leaves.",
+      "Broadly pyramidal, many-headed flowering inflorescence.",
+      "Stems may show longitudinal hair lines and reddish coloration; confirm with hand lens.",
+      "Check peduncle, phyllary series, and cypsela/pappus to exclude other tall asters."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "Symphyotrichum oblongifolium"
+    ],
+    "key_distinctions": "Versus S. lanceolatum, praealtum has firmer, often waxy/revolute leaves and more clearly bounded approximately equal-dimension lower-surface areoles. Lanceolatum leaves usually more pliable, nonwaxy, with less distinct/elongated areoles. BRACT-COUNT conflict: FNA genus key differs from FNA species accounts. Record but do not treat as definitive without voucher."
+  },
+  "images": [
+    {
+      "file": "images/symphyotrichum-praealtum-flowering-provisional.jpg",
+      "role": "Flowering plant; Ontario provenance (not Texas range evidence)",
+      "creator": "Reuven Martin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/symphyotrichum-praealtum-leaf-provisional.jpg",
+      "role": "Narrow willow-like leaf macro; Ontario provenance",
+      "creator": "Reuven Martin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_photo_install_pending",
+    "reason": "Two CC0 exact-species photos selected for habit and leaf; local voucher and phyllary/stem hair macros remain outstanding."
+  },
+  "diagnostic_image_plan": [
+    "Tall colony and branching panicle",
+    "Leaf close-up and attachment",
+    "Longitudinal stem hair lines macro",
+    "Scaled involucre and phyllaries",
+    "Flower head and mature fruit/pappus",
+    "Matched S. lanceolatum and S. oblongifolium comparisons",
+    "Matched same scale underside leaf AREOLES and upper leaf waxiness against opposing species",
+    "Measured phyllary outer/inner length ratio on an authenticated specimen"
+  ],
+  "curation_status": {
+    "version": "1.0-approved-fastfill-2026-10-09",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/symphyotrichum-praealtum/draft.json",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "genus-2.1",
+    "scientific_range_status_preserved": true,
+    "scientific_bract_key_disagreement_noted": true,
+    "range_status_unchanged": true
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Peduncle 5–12+ leafy bract count with scale and arrow to actual bracts",
+      "priority": "supporting / scientific hold",
+      "status": "FNA references conflict: keep as documented observational character, not stand-alone diagnostic; await specimen-scoped revision"
+    },
+    {
+      "role": "Upper leaf shiny-waxy surface with good angled light",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Leaf UNDERSIDE vein areoles under 10× (near isodiametric small areoles)",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Matched S. lanceolatum branch/peduncle/leaf photo",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    }
+  ],
+  "diagnostic_photo_polish_2026_10_12": {
+    "status": "RESEARCH-SOURCE LINKED; PHOTOGRAPHIC MACRO FINAL PASS PENDING",
+    "lookalike": "S. lanceolatum subsp. lanceolatum",
+    "highest_value": "Paired underside AREOLE pattern and upper waxiness with side-by-side botanical-voucher-verified exact taxa, hand lens and scale.",
+    "ranked_image_roles": [
+      "underside leaf 10–20× showing named areoles (small isodiametric vs indistinct/elongate)",
+      "waxy upper face and rolled/flat margin under same lighting",
+      "outer vs inner phyllary length measured with scale",
+      "same-plant floral peduncle bract count, for OBSERVATION only (not definitive)"
+    ],
+    "source_links": [
+      "https://www.missouriplants.com/images/Symphyotrichum_praealtum_leaf.jpg",
+      "https://www.missouriplants.com/images/Symphyotrichum_praealtum_leaf2.jpg",
+      "https://uwaterloo.ca/astereae-lab/symphyotrichum-praealtum",
+      "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg"
+    ],
+    "photo_reuse": "MissouriPlants © SRTurner, Waterloo © J.C. Semple, Friends of Eloise Butler © G.D. Bebeau: study LINKS ONLY. Reuven Martin praealtum Commons image CC0 already physically installed; exact variety lanceolatum lab photographs copyright / only links.",
+    "taxon_guardrail": "Do not upgrade project range status or infraspecific approval from non-Texas photographs.",
+    "FNA_conflict_sources": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132022",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067656",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067674"
+    ]
+  }
+}

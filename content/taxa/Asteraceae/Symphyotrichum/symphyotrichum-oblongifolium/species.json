@@ -1,0 +1,149 @@
+{
+  "id": "symphyotrichum-oblongifolium",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "oblongifolium",
+  "scientific_name": "Symphyotrichum oblongifolium",
+  "authority": "(Nutt.) G.L.Nesom",
+  "common_name": "Aromatic aster",
+  "look_here_first": "FIRST photograph a MATURE UPPER-STEM NODE: leaves are usually short OBLONG to lanceolate, sessile, narrowed/rounded or only weakly clasping, NOT deeply heart-clasping with auricles. Often many small leaves and a low bushy rhizomatous crown. THEN inspect upper peduncles and phyllaries for stalked glands, but note that S. patens var. patens can also be glandular. Use multiple traits and inspect the actual gland heads under magnification.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Hays-local approved source pool; reviewed draft B120",
+    "target_zone_status": "PASS",
+    "learner_role": "TARGET_NATIVE_CONFIRMED",
+    "verified_target_counties": [
+      "Hays",
+      "Travis",
+      "Bexar"
+    ],
+    "range_basis": "Preserve B120 reviewed county evidence: Hays local source-pool record, Travis UT PRC specimen index, Bexar SARA native plant listing. Additional BONAP/specimen cross-check can refine later.",
+    "range_guardrail": "Do not infer county occurrence from the selected out-of-state photograph."
+  },
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Perennial, often low and densely branched, spreading by rhizomes.",
+      "Short oblong to linear-oblong leaves, often rough and aromatic when handled; compare lower and upper leaves.",
+      "Stalked glandular hairs on upper stems, peduncles and phyllary faces are high-value ID features.",
+      "Heads with ray and disc florets; involucres roughly (5-)7-9 mm in FNA treatment; verify with scale and glands."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum patens",
+      "Symphyotrichum praealtum"
+    ],
+    "key_distinctions": "S. patens var. patens can be densely stipitate-glandular, and var. gracile sparsely glandular; do not teach 'patens usually nonglandular' as absolute. Compare patens's strongly cordate/auriculate clasping upper leaf bases with oblongifolium's relatively oblong shorter leaves and usually mild clasping, then use rootstock, outer leafy phyllaries, and measured involucre."
+  },
+  "images": [
+    {
+      "file": "images/symphyotrichum-oblongifolium-flowers-provisional.jpg",
+      "role": "Flowers and oblong leaves (out-of-state exact-species study photo)",
+      "creator": "stlmark",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_oblongifolium_99857187.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/gbif-manual-6273701092-805e4ae4b.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Upper stem node with sessile oblong weakly clasping leaves, side-head phyllaries",
+      "creator": "Gary Rogers",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6273701092",
+      "gbif_occurrence_id": "6273701092",
+      "source_determination": "Symphyotrichum oblongifolium (Nutt.) G.L.Nesom",
+      "accepted_target": "Symphyotrichum oblongifolium",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648564111/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_photo_install_pending",
+    "reason": "One verified CC0 exact-species flower-and-leaf photo selected; glandular stem/phyllary macros still needed."
+  },
+  "diagnostic_image_plan": [
+    "Low bushy habit with leaf series",
+    "Macro of stalked glands on upper stem and peduncle",
+    "Phyllary-face gland macro and scaled involucre",
+    "Leaf surface and attachment",
+    "Mature cypsela and pappus",
+    "Matched comparison with tall S. praealtum and clasping S. patens"
+  ],
+  "curation_status": {
+    "version": "1.0-approved-fastfill-2026-10-09",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/symphyotrichum-oblongifolium/draft.json; content/taxa/Asteraceae/Symphyotrichum/genus.json",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "genus-2.1",
+    "scientific_range_status_preserved": true,
+    "pair_photo_review": "actual photo references found; macro final polish deferred",
+    "range_status_unchanged": true,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Upper leaf bases with stem retained, matched same position as S. patens",
+      "priority": "must-have",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Single in-focus gland-bearing hair with a terminal gland visible on upper peduncle",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Phyllary faces and outer foliaceous phyllaries",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Rhizomatous woody basal crown and whole bushy flowering habit",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    }
+  ],
+  "diagnostic_photo_polish_2026_10_12": {
+    "opponent": "Symphyotrichum patens",
+    "first_trait": "Upper leaf bases rounded/narrowed or weakly clasping, no deeply heart-shaped auricles",
+    "exact_photo_source": "https://www.missouriplants.com/Symphyotrichum_oblongifolium_page.html",
+    "photography_roles": [
+      "upper stem node, leaf base attached, exact source and scale",
+      "upper flowering peduncle 10–20× gland hair head in focus",
+      "side view phyllary hair/gland",
+      "whole crown/branch architecture"
+    ],
+    "copyright": "Go Botany and MissouriPlants actual diagnostics are COPYRIGHTED linked study references; not embedded as learner files. Current licensed existing face photo remains in images[] unchanged.",
+    "caveat": "Stalked glands occur on S. patens var. patens AND S. oblongifolium; neither purple rays nor scent nor gland presence alone is sufficient.",
+    "final_polish": "Need matching licensed high-resolution upper-leaf node photos to place reliable arrows; provisional photo+lesson useful before then."
+  },
+  "photo_note": "Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

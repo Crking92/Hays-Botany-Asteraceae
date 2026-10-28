@@ -1,0 +1,99 @@
+{
+  "id": "echinacea-angustifolia",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Echinacea",
+  "species": "angustifolia",
+  "scientific_name": "Echinacea angustifolia",
+  "authority": "DC.",
+  "common_name": "Narrow-leaf coneflower",
+  "look_here_first": "Ignore ray color first. Look for very narrow rough leaves and a usually single head on a stout little-branched stem, with drooping rays around a hard prickly cone.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Texas nativity is clear, but only Hays was locked as an exact target-zone county independent of transplant/landscaping/seed-mix records in B016.",
+    "user_approved_range_exception": true,
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_EXCEPTION",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "deep-rooted perennial from stout taproot/crown",
+      "narrow linear-lanceolate to oblong-lanceolate rough/hairy leaves",
+      "stems stout and usually simple or weakly branched, often one head",
+      "ray florets often droop around a broad hard prickly conical disk",
+      "pappus much reduced compared with fluffy Asteraceae"
+    ],
+    "habit": "Deep-rooted perennial, usually not a spreading rhizomatous colony.",
+    "leaf_morphology": "Narrow, rough/hairy, mostly entire.",
+    "heads": "Radiate head with pink-purple rays around strongly conical prickly disk.",
+    "reproductive_detail": "Stiff chaff/bracts among disk florets create the prickly cone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ratibida columnifera",
+      "Echinacea purpurea",
+      "Echinacea pallida"
+    ],
+    "key_distinctions": "Ratibida has an elongated columnar disk and deeply divided leaves. E. purpurea generally has much broader leaves; E. pallida overlap requires finer floral/leaf characters and range context."
+  },
+  "tags": [
+    "Asteraceae",
+    "Echinacea",
+    "Narrow-leaf coneflower",
+    "Range exception"
+  ],
+  "curation_status": {
+    "version": "1.0-b016-exception",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Installed by explicit user range exception; exact photos can be strengthened later.",
+  "images": [
+    {
+      "file": "images/01-field-reference.jpg",
+      "role": "Field foliage / narrow leaves, venation and hairy stems",
+      "creator": "Jasper Shide",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_(7-15-24)_03.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flower-detail.jpg",
+      "role": "Flower head / ray florets and raised disk",
+      "creator": "Ernie (Wilder Kaiser)",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_01Aug2009_-_01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-achene-detail.jpg",
+      "role": "Achenes / dry one-seeded fruits with scale",
+      "creator": "Steve Hurst / USDA-NRCS PLANTS Database",
+      "license": "Public Domain (U.S. federal work)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea.angustifolia02.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Three physical exact-species photos: narrow leaves and hairy stems in field, flower head, USDA achenes. Existing UNRESOLVED range exception and native_metrics_excluded preserved. Whole-plant field habit remains follow-up."
+  }
+}

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Hymenopappus%20artemisiifolius
+Source research-grade observation: https://www.inaturalist.org/observations/120907394
+Photo: https://www.inaturalist.org/photos/204546167
+Attribution: (c) J. Richard Abbott, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

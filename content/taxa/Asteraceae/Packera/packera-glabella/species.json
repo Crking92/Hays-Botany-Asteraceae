@@ -1,0 +1,37 @@
+{
+  "id": "packera-glabella",
+  "family": "Asteraceae",
+  "genus": "Packera",
+  "species": "glabella",
+  "scientific_name": "Packera glabella",
+  "common_name": "Butterweed",
+  "look_here_first": "Look for brilliant yellow composite flower heads on tall smooth or lightly hairy spring stems; compare foliage, stem hairs, and outer involucral bracts against other spring Packera species.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Packera%20glabella",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Exact photo by Austin Pursley on iNaturalist, North Carolina; not a Texas county voucher.",
+  "images": [
+    {
+      "file": "images/commons-packera-glabella.jpg",
+      "role": "Provisional yellow-flowering plant recognition; phyllaries and basal leaves need macro photos.",
+      "creator": "Austin Pursley",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Packera_glabella_64282873.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "CC0 public-domain dedication, photographer credit voluntarily preserved"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

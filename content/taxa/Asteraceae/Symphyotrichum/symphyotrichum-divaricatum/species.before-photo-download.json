@@ -1,0 +1,43 @@
+{
+  "id": "symphyotrichum-divaricatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum divaricatum",
+  "authority": "(Nutt.) G.L.Nesom",
+  "common_name": "White Woodland Aster",
+  "field_group": "White fall composite / woodland-edge aster",
+  "project_tracker_diagnostic": "Open, branching white aster with many small heads, often dark wiry stems, and thin serrate leaves that narrow to short petioles.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Branching herb, often airy and open in woodland edges and shade.",
+    "leaves": "Alternate; lower/mid leaves ovate to deltoid or elliptic with serrate margins; upper leaves smaller.",
+    "heads": "Many small heads with white rays and yellow disks aging pinkish to purplish.",
+    "phyllaries": "Several series, narrow, green, appressed to somewhat spreading.",
+    "fruit": "Cypselae with a pappus of bristles.",
+    "best_field_traits": [
+      "airy branching habit",
+      "many small white heads",
+      "serrate leaves",
+      "white rays with yellow-aging-pinkish disks"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

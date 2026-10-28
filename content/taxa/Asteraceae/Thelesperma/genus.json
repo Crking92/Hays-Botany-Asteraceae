@@ -1,0 +1,217 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Thelesperma",
+  "authority": "Less.",
+  "common_group": "Greenthreads",
+  "project_scope": {
+    "selection_mode": "B076 science + B140 source-concept reconciliation",
+    "canonical_species_ids": [
+      "thelesperma-filifolium",
+      "thelesperma-megapotamicum-var-ambiguum",
+      "thelesperma-simplicifolium"
+    ],
+    "canonical_species_count": 3,
+    "represented_source_concepts": [
+      "thelesperma-filifolium-var-filifolium",
+      "thelesperma-ambiguum"
+    ],
+    "source_concept_count": 5,
+    "note": "T. filifolium var. filifolium is represented by canonical T. filifolium. Source-name T. ambiguum maps to the provisional installed T. megapotamicum var. ambiguum concept; its taxonomy/range HOLD remains explicit and native metrics stay excluded."
+  },
+  "study_strategy": {
+    "priority": [
+      "leaf dissection and segment width",
+      "head size and ray presence",
+      "disk color and head proportions",
+      "phyllary/involucre structure",
+      "growth habit and branching",
+      "taxonomic name handling for ambiguum"
+    ],
+    "warning": "Do not use the old T. ambiguum source name as proof of a separate species in the learner. The project currently teaches that source concept through provisional T. megapotamicum var. ambiguum while preserving the Kew/ITIS treatment split.",
+    "look_here_first": [
+      "Whole plant and crown",
+      "Attached lower-to-upper leaf series",
+      "Head face and underside",
+      "Ripe cypsela and pappus",
+      "Keep ambiguum provisional until taxonomic review"
+    ]
+  },
+  "curation_status": {
+    "version": "1.1-b140-reconciliation",
+    "genus_audit": "complete_with_provisional_taxonomy_range_hold",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-14",
+    "visual_status": "first_pass_anatomy_matrix; diagnostic_macros_pending"
+  },
+  "source_concept_status": [
+    {
+      "id": "thelesperma-ambiguum",
+      "scientific_name": "Thelesperma ambiguum",
+      "status": "TAXONOMY_RANGE_HOLD_REPRESENTED_BY_PROVISIONAL_T_MEGAPOTAMICUM_VAR_AMBIGUUM"
+    },
+    {
+      "id": "thelesperma-filifolium",
+      "scientific_name": "Thelesperma filifolium",
+      "status": "CANONICAL"
+    },
+    {
+      "id": "thelesperma-filifolium-var-filifolium",
+      "scientific_name": "Thelesperma filifolium var. filifolium",
+      "status": "REPRESENTED_IN_PARENT"
+    },
+    {
+      "id": "thelesperma-megapotamicum-var-ambiguum",
+      "scientific_name": "Thelesperma megapotamicum var. ambiguum",
+      "status": "PROVISIONAL_CANONICAL_TAXONOMY_RANGE_HOLD",
+      "native_metrics_excluded": true
+    },
+    {
+      "id": "thelesperma-simplicifolium",
+      "scientific_name": "Thelesperma simplicifolium",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "threadlike finely divided leaves and typical yellow greenthread heads",
+      "then": "Thelesperma filifolium"
+    },
+    {
+      "if": "source literature says T. filifolium var. filifolium",
+      "then": "map to canonical Thelesperma filifolium; no duplicate page"
+    },
+    {
+      "if": "ambiguum concept; taxonomy sources disagree species vs variety and range threshold is unresolved",
+      "then": "Thelesperma megapotamicum var. ambiguum provisional learner / source alias T. ambiguum"
+    },
+    {
+      "if": "slender greenthread with the B076 PASS morphology and county set",
+      "then": "Thelesperma simplicifolium"
+    }
+  ],
+  "look_here_first": "Photograph the whole greenthread and follow attached lower-to-upper leaves. Repeatedly thread-divided foliage and usually annual habit suggest T. filifolium; sparse foliage, lower leaves with 3–5 narrow segments, simpler upper leaves and perennial crown suggest T. simplicifolium. Examine head underside and ripe fruit. The provisional ambiguum concept cannot be diagnosed from yellow rays or dark disk alone.",
+  "species_comparison_matrix": [
+    {
+      "character": "Life cycle",
+      "filifolium": "Usually annual",
+      "simplicifolium": "Perennial",
+      "ambiguum": "Not verified in current project record",
+      "check": "Show plant base and persistent crown, not just flowering shoot."
+    },
+    {
+      "character": "Lower leaves",
+      "filifolium": "Repeatedly divided into threadlike segments",
+      "simplicifolium": "Often 3–5 narrow segments",
+      "ambiguum": "Finely divided; no validated species separator",
+      "check": "Attached complete lower leaf with ruler."
+    },
+    {
+      "character": "Upper leaves",
+      "filifolium": "Often dissected",
+      "simplicifolium": "Sparse and simpler/linear",
+      "ambiguum": "Unresolved",
+      "check": "Match several middle and upper stem nodes."
+    },
+    {
+      "character": "Head",
+      "filifolium": "Usually about 8 yellow rays; disk variable",
+      "simplicifolium": "Yellow rays, yellow/brown disk",
+      "ambiguum": "Yellow rays and dark disk overlap",
+      "check": "Face and underside; color not decisive."
+    },
+    {
+      "character": "Taxon concept",
+      "filifolium": "Canonical; var. filifolium represented",
+      "simplicifolium": "Canonical",
+      "ambiguum": "Provisional, source name T. ambiguum",
+      "check": "Taxonomic review before species-level image annotation."
+    }
+  ],
+  "genus_diagnostics": {
+    "shared_structure_examples": [
+      {
+        "term": "capitulum and ray/disk florets",
+        "plain": "One daisy-like head holds many small flowers.",
+        "photo_role": "same-scale open head fronts",
+        "status": "needs_photo"
+      },
+      {
+        "term": "filiform leaf segments",
+        "plain": "Leaf divided into thin threads, versus fewer narrow fingers.",
+        "photo_role": "attached lower and upper leaf pairs with ruler",
+        "status": "needs_photo"
+      },
+      {
+        "term": "calyculus and phyllaries",
+        "plain": "Outer narrow bractlets and inner green bracts under head.",
+        "photo_role": "head underside macro for each settled species",
+        "status": "needs_photo"
+      },
+      {
+        "term": "cypsela and pappus",
+        "plain": "Tiny one-seeded dry fruit and its tip structures.",
+        "photo_role": "matched ripe fruit microscope views",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "T. filifolium vs T. simplicifolium",
+      "taxon_ids": [
+        "thelesperma-filifolium",
+        "thelesperma-simplicifolium"
+      ],
+      "look_here_first": "Annual, repeatedly divided foliage versus perennial, sparse upper leaves and fewer lower leaf segments.",
+      "caution": "One flower or one leaf cannot prove identity; compare crown and multiple nodes.",
+      "photo_requirements": [
+        "matched whole plants",
+        "lower/upper leaves with scale",
+        "head underside",
+        "mature cypsela macros"
+      ]
+    },
+    {
+      "title": "Ambiguum concept hold",
+      "taxon_ids": [
+        "thelesperma-megapotamicum-var-ambiguum"
+      ],
+      "look_here_first": "Source name T. ambiguum has unresolved rank/concept; do not force a field key.",
+      "photo_requirements": [
+        "voucher-backed foliage and head",
+        "mature fruit with scale"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "diagnostic_macros_pending",
+    "existing_media": [
+      {
+        "taxon_id": "thelesperma-simplicifolium",
+        "path": "content/taxa/Asteraceae/Thelesperma/thelesperma-simplicifolium/images/thelesperma-simplicifolium-provisional-face.jpg",
+        "creator": "Annika Lindqvist",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Thelesperma_simplicifolium_1.jpg",
+        "status": "species_record_reference_unverified",
+        "role": "whole flowering habit; no verified diagnostic arrow"
+      },
+      {
+        "taxon_id": "thelesperma-filifolium",
+        "path": "content/taxa/Asteraceae/Thelesperma/thelesperma-filifolium/images/03-same-plant-field-view-1.jpg",
+        "creator": "Gary Bowers",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/observations/388493716",
+        "status": "species_record_reference_unverified; public_reuse_review",
+        "role": "study-only field view; anatomy not verified"
+      }
+    ],
+    "photo_gaps": [
+      "matched lower/upper leaves",
+      "head underside calyculus",
+      "ripe cypsela macro",
+      "taxonomically verified ambiguum reference"
+    ],
+    "annotation": "annotation_pending"
+  }
+}

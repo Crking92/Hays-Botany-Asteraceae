@@ -1,0 +1,165 @@
+{
+  "id": "pluchea-camphorata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Pluchea",
+  "species": "camphorata",
+  "scientific_name": "Pluchea camphorata",
+  "authority": "(L.) DC.",
+  "common_name": "Camphorweed",
+  "look_here_first": "Start with leaf arrangement and head type: alternate, resinous/gland-dotted, usually petiolate leaves below a rounded cluster of many tiny pink-purple heads with no ray florets.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Hays natural Purola flora and Travis herbarium are firm; a third exact target county was not locked without inference.",
+    "user_approved_range_exception": true,
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_EXCEPTION",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "alternate simple elliptic to oblong/lanceolate leaves",
+      "leaves usually visibly petiolate and resinous/gland-dotted",
+      "rounded/corymbiform mass of many tiny pink-purple heads",
+      "heads are discoid with no ray florets",
+      "crushed foliage may smell camphor-like but odor is only secondary"
+    ],
+    "leaf_arrangement": "Alternate.",
+    "leaf_morphology": "Elliptic to oblong/lanceolate, serrate, generally petiolate, resinous/gland-dotted.",
+    "heads": "Small pink-purple discoid heads, no rays.",
+    "inflorescence": "Rounded corymbiform/paniculiform mass.",
+    "fruit": "Cypsela with capillary pappus."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Pluchea odorata",
+      "Heterotheca subaxillaris",
+      "Conoclinium coelestinum"
+    ],
+    "key_distinctions": "Heterotheca subaxillaris is also called camphorweed but has conspicuous yellow ray florets. Conoclinium has opposite triangular 3-veined leaves."
+  },
+  "tags": [
+    "Asteraceae",
+    "Pluchea",
+    "Camphorweed",
+    "Range exception"
+  ],
+  "curation_status": {
+    "version": "1.0-b016-exception",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 5,
+    "photo_files_present": 3,
+    "manual_library_install_027": "2026-10-16"
+  },
+  "photo_note": "Installed by explicit user range exception; photo locking can improve later. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/24519676/original.jpeg",
+      "role": "Flower clusters and alternate foliage",
+      "creator": "Catherine",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/24519676",
+      "inaturalist_photo_id": 24519676,
+      "source_type": "iNaturalist open data",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "note": "Exact-species photo; observation ID was not exposed by the fast-fill retrieval path, so the iNaturalist photo ID/source page is retained for later provenance enrichment."
+    },
+    {
+      "file": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Pluchea+camphorata_1699.JPG&id=480",
+      "role": "Whole flowering plant / panicle-like cluster architecture",
+      "creator": "Larry Allain, U.S. Geological Survey",
+      "license": "Public Domain (U.S. federal work)",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/480",
+      "source_type": "USGS Plants of Louisiana",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/inat-750090506-camphorweed.jpg",
+      "role": "Flowering branch with small pink-white discoid heads and lanceolate leaves; phyllaries and exact nodes not resolved",
+      "creator": "iNaturalist source account gillydilly; individual photographer unconfirmed",
+      "license": "CC0 (staged source record; live recheck pending)",
+      "platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/750090506",
+      "observation_id": 408100022,
+      "photo_id": 750090506,
+      "study_use": true,
+      "public_reuse": "review",
+      "local_file_present": true,
+      "remote_only": false,
+      "caption": "Visually checked real flowering stem, without anatomy arrows. Additional macro and live license recheck needed."
+    },
+    {
+      "file": "images/library-review027-2e508c7b1a52f8c.jpg",
+      "role": "Flowering branch with narrow leaves and tight clustered pinkish capitula; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show heads, phyllaries and flower cluster",
+      "creator": "Mimi Posey",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6413007838",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648468277/original.jpg",
+      "source_determination": "Pluchea camphorata",
+      "source_observation_id": "6413007838",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/pluchea-camphorata/gbif-76d41affa57e54.jpg",
+      "archive_image_sha256": "36a6e3461a2119a108b314f231d04021e0b1e1919de782887c0c055900abe6dc",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review027-37f220b0e68d657.jpg",
+      "role": "Close capitula showing many small florets and involucral profiles; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show heads, phyllaries and flower cluster",
+      "creator": "Piotr",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6551918780",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737218183/original.jpg",
+      "source_determination": "Pluchea camphorata",
+      "source_observation_id": "6551918780",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/pluchea-camphorata/gbif-abed2dc25887a2.jpg",
+      "archive_image_sha256": "c3934d4f3c6f5ebd094d959ca037ea7875b7952a712b2930e09e9eee7726a0b8",
+      "image_dimensions": [
+        1400,
+        1382
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Three gallery entries, one physically installed local image and two preexisting external links; visual/rights review pending."
+  }
+}

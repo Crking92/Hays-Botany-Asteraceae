@@ -1,0 +1,265 @@
+{
+  "id": "erigeron-geiseri",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron geiseri",
+  "authority": "Shinners",
+  "common_name": "Geiser's fleabane",
+  "look_here_first": "LOOK HERE FIRST: Geiser's fleabane is a SMALL annual (5–40 cm) with a SLENDER TAPROOT and generally simple herbaceous base. Basal foliage may have 2–4 pairs of teeth or lobes. Lower stem hairs often spread or bend DOWNWARD while upper hairs are straighter/appressed; fresh white-rayed heads have usually 44–70 rays, 3–6 mm long. It is NOT a perennial woody-crown plant like mature E. modestus. Taproot/hair characters are field-key requirements, not fully proved in existing photos.",
+  "morphology_keys": {
+    "root": "Annual slender taproot",
+    "stem_hairs": "Lower spreading or deflexed; upper strigose",
+    "head": "About 44 to 70 rays, 3 to 6 mm long; involucre 2.5 to 3.5 mm high"
+  },
+  "comparisons": {
+    "confused_with": [
+      "Erigeron modestus",
+      "Erigeron tenellus",
+      "Erigeron versicolor"
+    ],
+    "key_distinctions": "E. modestus often has woody persistent root crown; E. tenellus has strongly clasping leaves. Former geiseri var. calcicola belongs to E. versicolor.",
+    "field_recognition": [
+      {
+        "other": "Erigeron modestus",
+        "field_split": "Woody perennial crown and old stem bases, often early single head; ray numbers overlap. Root/crown most important."
+      },
+      {
+        "other": "Erigeron tenellus",
+        "field_split": "Clasping cauline leaves and more rays, usually 95–160+; compare actual leaf bases with scale."
+      },
+      {
+        "other": "Erigeron philadelphicus",
+        "field_split": "Often clasping auriculate stem leaves and many fine rays; examine full plant, not color."
+      }
+    ],
+    "caution": "Ray and hair characters overlap between fleabanes, and a tiny root feature in photographs cannot certify species identity; no county-native status changes.",
+    "verified_research_reference": {
+      "title": "Noyes, Caraway & Groff 2015, Phylogenetic affinities of Erigeron geiseri",
+      "url": "https://www.researchgate.net/publication/281444350_PHYLOGENETIC_AFFINITIES_OF_ERIGERON_GEISERI_ASTERACEAE_Richard_D_Noyes_William_Caraway_and_Dulcinea_V_Groff",
+      "confirms": "Herbarium specimen Carr 11782 (TEX), fig.1, small annual herbaceous taproot; scientific source corroborates slender-root key.",
+      "source_photo_rights": "Not established for public image reuse. Research figure NOT copied, installed, or used as an annotation image.",
+      "field_use": "If root crown cannot be seen and lower/upper stem hair micros are unavailable, label Erigeron sp. until additional evidence."
+    }
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 432,
+    "target_zone_status": "UNRESOLVED",
+    "include_in_native_only_metrics": false
+  },
+  "images": [
+    {
+      "file": "images/gbif-first-1455970091-2c65627b99.jpg",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "creator": "Conveyor Belt",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF mediated record; credit original dataset, specimen and creator",
+      "source_page": "https://www.gbif.org/occurrence/1455970091",
+      "gbif_occurrence_id": "1455970091",
+      "source_determination": "Erigeron geiseri Shinners",
+      "accepted_target": "Erigeron geiseri",
+      "media_source_url": "https://collections.nmnh.si.edu/media/?i=11518731&h=2000",
+      "source_dataset_key": "821cc27a-e3bb-4bc5-ac34-89ada245069d",
+      "image_dimensions": [
+        1031,
+        1350
+      ],
+      "study_use": "Yes; rights-specific conditions on original image",
+      "public_reuse": "Respect photo license; CC BY-NC images are noncommercial only",
+      "photo_review": "2026-10-21 pixel pass: mounted herbarium sheet shows four flowering shoots, narrow foliage, open daisy-like heads, and exposed lower root zones. Fine stem hairs, involucre characters, and a confirmed intact diagnostic slender taproot are NOT resolved at this scale.",
+      "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "file": "images/gbif-manual-1837096832-4decc28e1.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Stem hair direction (lower deflexed vs upper appressed), phyllaries and basal root",
+      "creator": "Andy Newman",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/1837096832",
+      "gbif_occurrence_id": "1837096832",
+      "source_determination": "Erigeron geiseri Shinners",
+      "accepted_target": "Erigeron geiseri",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6696899/original.jpeg",
+      "image_dimensions": [
+        1350,
+        900
+      ],
+      "photo_review": "2026-10-21 pixel pass: white-to-pale-lavender ray florets and yellow discs are visible on multiple flowering shoots amid grasses. Flowering heads are usable for first recognition; individual hair direction and basal root characters are not resolvable.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Root crown",
+    "Lower and upper stem hairs",
+    "Leaf attachment",
+    "Ray and involucre with ruler"
+  ],
+  "curation_status": {
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15",
+    "last_reviewed": "2026-10-21",
+    "field_training_status": "CREW_CLOSEOUT_DIAGNOSTIC_SPECIALIST_GAPS",
+    "visual_reviewed": true
+  },
+  "media_photo_handoff": {
+    "status": "two_existing_images_verified_diagnostic_macros_pending",
+    "photo_roles": [
+      "whole flowering plant with leaves",
+      "rooted habit showing slender annual taproot",
+      "lower and upper stem hair closeups",
+      "leaf attachment",
+      "flower-head side view with phyllaries"
+    ],
+    "look_here_first": "Seek a rooted, flowering whole-plant photograph first; root and stem-hair details require separate verified views.",
+    "caption_pending": "Two source-identified and physically confirmed files exist. Only arrows targeting plainly visible flower, leaf, or root-zone structures have been added. Root type, hairs, and phyllaries need independent sharp diagnostic views.",
+    "annotation_pending": false,
+    "source_review": "Exact-source specimen and field images physically present (GitHub verified 2026-10-21); field-image license CC BY-NC, herbarium media recorded CC0. Independently confirm use of any new source before adding; unrelated drawing reuse remains blocked.",
+    "rights_status": "individual_image_licenses_in_images_array_cc0_and_cc_by_nc",
+    "installation_status": "two_physical_files_present",
+    "note": "Media-only diagnostic handoff; preserve images[] and scientific fields."
+  },
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Two reviewed real photos with five actual-structure arrow markers; featured mobile photo-first steps added. Diagnostic root/crown, hairs, fresh phyllaries and cypsela remain PHOTO GAPS.",
+    "missing_diagnostic_views": [
+      "Confirm diagnostic vegetative and reproductive characters"
+    ]
+  },
+  "photo_note": "Exact source determination GBIF-linked image provisionally installed with image-level license; visual ID requires review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "visual_comparison": {
+    "title": "Geiser's fleabane — pressed plant and flower habit",
+    "subtitle": "Two existing credited, source-identified photos inspected. Arrow markers point only to structures visibly present; photographs are not proof of the diagnostic lower/upper hair pattern.",
+    "items": [
+      {
+        "label": "1 · Herbarium: multiple flowering stems and roots",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-geiseri/images/gbif-first-1455970091-2c65627b99.jpg",
+        "caption": "Four pressed flowering stems from a labeled Texas specimen. Open heads, leaves, and lower root zones visible; this view does NOT resolve fine hair direction or give a definitive slender-taproot close-up.",
+        "creator": "Conveyor Belt",
+        "license": "CC0 1.0",
+        "source_page": "https://www.gbif.org/occurrence/1455970091",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Open composite head",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 24,
+            "target_y": 18
+          },
+          {
+            "label": "Narrow stem leaf",
+            "label_x": 2,
+            "label_y": 41,
+            "target_x": 19,
+            "target_y": 45
+          },
+          {
+            "label": "Exposed root zone — NEED MACRO",
+            "label_x": 2,
+            "label_y": 80,
+            "target_x": 18,
+            "target_y": 73
+          }
+        ],
+        "annotation_status": "visible_structure_qa_pass; diagnostic hair and taproot confirmation pending",
+        "why_it_matters": "Teaches stem-leaf/flowering habit but does not pretend pressed foliage resolves key micromorphology.",
+        "scientific_name": "Erigeron geiseri"
+      },
+      {
+        "label": "2 · Living flower heads",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-geiseri/images/gbif-manual-1837096832-4decc28e1.jpg",
+        "caption": "Several pale-rayed daisy-like heads with yellow disc centers. Mixed grass leaves and shoots should not be assigned to this species without tracing each stem.",
+        "creator": "Andy Newman",
+        "license": "CC BY-NC",
+        "source_page": "https://www.gbif.org/occurrence/1837096832",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Pale ray florets",
+            "label_x": 3,
+            "label_y": 25,
+            "target_x": 22,
+            "target_y": 39
+          },
+          {
+            "label": "Yellow central disc",
+            "label_x": 57,
+            "label_y": 5,
+            "target_x": 54,
+            "target_y": 19
+          }
+        ],
+        "annotation_status": "visible flower structure qa pass; mixed-vegetation caution",
+        "why_it_matters": "Recognize the obvious rays that separate showier fleabanes from tiny-headed horseweed; cannot separate E. geiseri from E. modestus by petals alone.",
+        "scientific_name": "Erigeron geiseri"
+      }
+    ],
+    "annotation_policy": "No arrow to unresolvable stem hairs, phyllary details, or presumed isolated roots. Owner mobile arrow-tip signoff pending."
+  },
+  "crew_field_sequence": [
+    "Find an intact annual plant with slender taproot; do not infer annual root structure from a flower-only photo.",
+    "Check low stem for spreading/deflexed hairs, then upper stem for short straight/appressed hairs using a hand lens.",
+    "Check white-rayed heads (typically 44–70 rays, 3–6 mm) and the side of the green involucre with scale.",
+    "Compare with E. modestus, which usually has a woody perennial crown; both may have white daisy-like heads.",
+    "If the crown or hair transitions are missing, teach 'Erigeron sp.' rather than force a species ID."
+  ],
+  "diagnostic_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066601",
+  "field_photo_quickcheck": {
+    "heading": "Geiser's fleabane — see heads, then check roots",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "First see a real flowering shoot, narrow leaves and open white-rayed composite heads in the photographs.",
+      "Then inspect your own rooted specimen for a slender ANNUAL TAPROOT, not a woody persistent crown.",
+      "Use a hand lens for spreading/deflexed hairs low on stem and straighter/appressed hairs above; flower rays overlap other Erigeron."
+    ],
+    "field_rule": "Annual slender taproot + lower-to-upper hair transition + fresh heads together support Geiser's fleabane. If crown/hairs hidden, use Erigeron sp.",
+    "warning": "Pressed-photo root area and living daisy heads do NOT show the diagnostic taproot/hairs clearly enough for arrows."
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "One intact slender annual taproot with 1-mm reference",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066601"
+    },
+    {
+      "role": "Lower and upper stem hairs shown separately with hand lens and scale",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066601"
+    },
+    {
+      "role": "Fresh lateral head with phyllaries, ray count, ruler",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066601"
+    },
+    {
+      "role": "Detached cypsela and pappus outer scales/inner bristles, with mm reference",
+      "status": "NEEDS_MACRO",
+      "citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066601"
+    }
+  ],
+  "crew_closeout": {
+    "status": "PRACTICAL_FIELD_KEY_DONE_MACRO_EVIDENCE_PENDING",
+    "comparison": "Geiseri annual slender herbaceous taproot versus modestus woody perennial root/crown and persistent stems",
+    "observed_reference": "Existing CC0 pressed herbarium specimen with exposed root AREA and flowering stems",
+    "unverified_critical_trait": "No decisive slender taproot closeup photo; herbarium has exposed root AREA only.",
+    "next_photo_spec": "Exact-taxon rooted specimen with ALL of slender taproot, whole basal stem and scale visible in a single licensed photo",
+    "source_guards": "Copyrighted 2015 research figure by Noyes et al. is research-only and not copied as photo. No local native status or taxon acceptance flags updated.",
+    "crew_decision": "If base hidden, leave at Erigeron sp. instead of claiming geiseri or modestus on flower color alone.",
+    "photo_status": "NEEDS_SPECIES_EXACT_CLOSEUP, NOT A BLOCKER TO CREW LESSON"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "eupatorium-serotinum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Eupatorium",
+  "scientific_name": "Eupatorium serotinum",
+  "authority": "Michx.",
+  "common_name": "Late Boneset",
+  "field_group": "White herbaceous composite",
+  "project_tracker_diagnostic": "Tall herbaceous white composite with opposite serrate leaves and flat-topped clusters of fuzzy white heads; more herbaceous and rank than shrubby boneset.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial.",
+    "habit": "Tall branching herb.",
+    "leaves": "Opposite, coarsely serrate, petiolate, often with scattered glands.",
+    "heads": "Small white discoid heads in broad corymbs/panicles.",
+    "phyllaries": "Several series, narrow, green.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "tall herbaceous habit",
+      "opposite serrate leaves",
+      "white fuzzy clusters",
+      "non-shrubby boneset look"
+    ],
+    "reproductive_confirmation": "FNA: 9–15 disk florets per capitulum; 8–12 phyllaries in 1–2 series, usually 1–3 mm, compared with genus-specific Ageratina and Chromolaena architecture."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/taxa/52934",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/taxa/52934",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398100402",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398100402",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/398100402",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-flowering-field-branch.jpg",
+      "role": "Wild flowering branches and inflorescence context; single-head phyllary macro still pending",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eupatorium_serotinum_-_Late_Boneset.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "diagnostic_polish_status": "cross-genus lookalikes and photo roles added; diagnostic photos pending",
+    "diagnostic_polish_date": "2026-10-12"
+  },
+  "look_here_first": "Differentiate late boneset from white mistflower/white snakeroot by its tall branched HERBACEOUS form, narrower opposite lanceolate gland-dotted leaves (usually 20–90+ × 5–40 mm), and 9–15 florets per capitulum. FNA describes 8–12 phyllaries in 1–2 series, each usually 1–3 mm long.",
+  "comparisons": {
+    "confused_with": [
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Chromolaena odorata"
+    ],
+    "key_distinctions": "Versus A. havanensis: herbaceous and tall vs woody evergreen shrub. Versus A. altissima: leaves narrower and more lanceolate, with gland-dots, and often stronger distal branching; inspect individual heads and phyllaries. Versus C. odorata: short 1–3 mm Eupatorium phyllaries in 1–2 series and generally much shorter involucres, instead of cylindrical 8–10 mm involucres with 4–6+ phyllary series."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "individual_head_side_macro",
+      "priority": "P1",
+      "shot": "single rayless head with scale",
+      "must_show": "8–12 phyllaries in 1–2 series; head with 9–15 florets",
+      "status": "PENDING"
+    },
+    {
+      "role": "mature_leaf",
+      "priority": "P1",
+      "shot": "opposite mature leaves front/back with scale",
+      "must_show": "narrow lanceolate blade and fine gland dots",
+      "status": "PENDING"
+    },
+    {
+      "role": "whole_plant",
+      "priority": "P2",
+      "shot": "ground to top showing branch architecture",
+      "must_show": "tall herbaceous distal branching",
+      "status": "PENDING"
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416536"
+    }
+  ],
+  "practical_photo_field_cues": {
+    "date": "2026-10-12",
+    "current_installed_usable_photos": [
+      "images/01-curated-reference.jpg",
+      "images/02-curated-reference.jpg",
+      "images/03-same-plant-field-view-1.jpg",
+      "images/04-same-plant-field-view-2.jpg",
+      "images/05-same-plant-field-view-3.jpg",
+      "images/06-flowering-field-branch.jpg"
+    ],
+    "how_to_teach": "Start with tall branching herbaceous form and opposite relatively narrow coarsely serrate leaves; for a harder distinction inspect one head in profile, not the whole white fluffy cluster.",
+    "photo_gap": "Licensed individual involucre from the SIDE with green phyllaries/count visibly resolvable; gland-dotted underside macro also pending. Existing 06 photo is flowering habit/branch only.",
+    "external_diagnostic_teaching_reference": {
+      "source": "Missouri Plants — Eupatorium serotinum",
+      "page": "https://www.missouriplants.com/Eupatorium_serotinum_page.html",
+      "exact_photo": "https://www.missouriplants.com/images/Eupatorium_serotinum_involucres.jpg",
+      "structure": "Excellent close side view of multiple individual heads, green overlapping phyllaries and florets.",
+      "use": "Link-only until photographer explicitly grants reuse; NOT installed; do not label rights-clear."
+    },
+    "other_field_reference": {
+      "source": "UT Austin Plant Resources Center Hays flora",
+      "page": "https://w3.biosci.utexas.edu/prc/HaysFlora/pages/EUSE2.html",
+      "structure": "Local habitat/flowering photo for recognition, not an isolated head macro.",
+      "use": "Link-only; license not established."
+    },
+    "completion_policy": "Core species photo coverage suitable for provisional crew practice. Exact phyllary macro remains a documented final-detail gap, not falsely complete."
+  }
+}

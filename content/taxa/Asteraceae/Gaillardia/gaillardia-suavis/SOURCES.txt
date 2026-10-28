@@ -1,0 +1,32 @@
+
+LIBRARY-FIRST IMAGE SELECTION 010 2026-10-16T15:37:23.277744+00:00
+Gaillardia suavis
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6185630066
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/gaillardia-suavis/gbif-eaf0a917f2d51d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+JOEY LIBRARY PHOTO REVIEW 031 2026-10-16T18:39:25.160462+00:00
+Gaillardia suavis
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/190991341
+Independent botanical determination not completed; no anatomy arrows.
+
+JOEY LIBRARY PHOTO REVIEW 031 2026-10-16T18:39:25.160462+00:00
+Gaillardia suavis
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/190991388
+Independent botanical determination not completed; no anatomy arrows.
+
+JOEY LIBRARY PHOTO REVIEW 031 2026-10-16T18:39:25.160462+00:00
+Gaillardia suavis
+Joey Santore / iNaturalist; CC BY-NC (exact version consult photo source)
+https://www.inaturalist.org/photos/261550570
+Independent botanical determination not completed; no anatomy arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 033 2026-10-16T18:42:49.000169+00:00
+Gaillardia suavis
+Creator: Casey Cowan; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6187929252
+Stored archive: hays-photo-library-mass-38948403369 :: staged_images/gaillardia-suavis/gbif-6bd094d7f61e42.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,1363 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Symphyotrichum",
+  "authority": "(Nees) G.L.Nesom",
+  "common_group": "Asters",
+  "project_scope": {
+    "selection_mode": "live 2026-10-12 manifest audit; historical B071 comparisons preserved",
+    "species_ids": [
+      "symphyotrichum-divaricatum",
+      "symphyotrichum-drummondii",
+      "symphyotrichum-ericoides",
+      "symphyotrichum-eulae",
+      "symphyotrichum-lanceolatum-subsp-lanceolatum",
+      "symphyotrichum-oblongifolium",
+      "symphyotrichum-patens",
+      "symphyotrichum-praealtum",
+      "symphyotrichum-sericeum",
+      "symphyotrichum-subulatum"
+    ],
+    "species_count": 10,
+    "native_range_note": "Installed learner membership does not override scientific native-range HOLD/FAIL."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Asteraceae heads consist of disk and often ray florets with enclosing phyllaries.",
+      "Compare leaf bases, hairs/glands, phyllaries, flowering arrangement and growth habit on the SAME plant.",
+      "Small white heads or lavender rays alone do not prove species."
+    ],
+    "priority": [
+      "Start annual vs perennial and inspect whole flowering array; inland narrow-leaved annual DIVARICATUM is not Eurybia white wood aster.",
+      "Inspect leaf TEXTURE: stiff spinulose heath leaves (ericoides) or silvery appressed hairs (sericeum).",
+      "Compare upper leaf BASES: deeply heart-clasping patens vs oblong to weakly clasping oblongifolium. Glands may occur in BOTH.",
+      "Compare lower leaf petiole wings and peduncle hairs: hairy drummondii vs glabrous-peduncled eulae (often 27–36 rays).",
+      "For tall wet-site praealtum/lanceolatum, inspect BOTH leaf faces: praealtum usually firm waxy/revolute with well-defined small isodiametric areoles underneath; lanceolatum typically more pliable/nonwaxy with fainter elongated areoles. The FNA genus key and species accounts CONFLICT on bract counts; do not use counts as primary distinction.",
+      "For S. lanceolatum nominate, compare outer/inner phyllaries: usually outer 1/3–2/3 length of inner; do not confuse subsp. hesperium; keep range UNRESOLVED.",
+      "Reserve arrows for photo-verified anatomical details; keep scientific range FAIL/UNRESOLVED where recorded."
+    ],
+    "warning": "Historical genus summary said eight installed, but live manifest has ten. Most important prior ERROR was calling S. divaricatum 'white woodland aster' (Eurybia divaricata); the Symphyotrichum divaricatum species card has now been corrected. Also do not teach glands as exclusive to S. oblongifolium: S. patens varieties can have stalked glands."
+  },
+  "curation_status": {
+    "version": "3.0-genus-learner-first-pass-wrapped",
+    "last_reviewed": "2026-10-12",
+    "canonical_species_unchanged": true,
+    "comparison_state": "ALL TEN INSTALLED TAXA HAVE MORPHOLOGY-FIRST GENUS ROUTING; 6 lookalike lessons first-pass complete; targeted diagnostic photo and taxonomic holds remain",
+    "final_polish_deferred": true,
+    "scientific_range_status_preserved": true
+  },
+  "b071_comparison": {
+    "selection_mode": "B071 same-genus comparison",
+    "species_ids": [
+      "symphyotrichum-eulae",
+      "symphyotrichum-drummondii",
+      "symphyotrichum-ericoides"
+    ],
+    "species_count": 3,
+    "holds": [
+      "symphyotrichum-lanceolatum-subsp-lanceolatum"
+    ],
+    "anchors": [
+      "symphyotrichum-divaricatum",
+      "symphyotrichum-oblongifolium"
+    ]
+  },
+  "b071_study_strategy": {
+    "priority": [
+      "rhizome/habit",
+      "stem pubescence",
+      "leaf width and texture",
+      "lower-vs-upper leaf change",
+      "head size",
+      "ray color",
+      "wet-vs-dry habitat",
+      "accepted infraspecific concept"
+    ],
+    "warning": "Symphyotrichum IDs are easy to over-simplify from flower color. Use vegetative characters, stem hair, leaf architecture, habitat, and current variety/subspecies names together."
+  },
+  "b071_comparison_lesson": {
+    "quick_split": [
+      "S. eulae — Texas endemic; scabrous serrate leaves, open panicle, white to pale lavender rays.",
+      "S. drummondii var. texanum — larger serrate lower leaves with winged petiole-like bases, much smaller upper leaves, short-hairy stems.",
+      "S. ericoides var. ericoides — many tiny stiff narrow leaves, short-strigose stems, masses of small white heads.",
+      "S. lanceolatum subsp. lanceolatum — tall moist-site white-panicle aster with narrow lanceolate leaves; range HOLD pending third exact target county."
+    ]
+  },
+  "visual_status": "10 canonical taxa compared; 9 with existing photo orientation cards; nominate lanceolatum photo missing; anatomical arrows/macro polish pending",
+  "fast_fill_note": "Oct 12 LIVE physical file audit: divaricatum 5, drummondii 0 (3 remote), ericoides 1 (2 remote), eulae 1, lanceolatum nominate 0, oblongifolium 1, patens 1, praealtum 2, sericeum 0 (1 remote), subulatum 1. Genus displays existing photos by exact path or licensed external source, but remote gallery metadata must not be counted as physical installation.",
+  "scientific_diagnostic_review_20261008": {
+    "review_type": "morphology-first comparative lesson; preserves existing B071, scientific status and canonical membership",
+    "source_handoff": "research-drafts/scientific-review-symphyotrichum-2026-10-08.md",
+    "look_here_first": [
+      "Collect lower and upper leaves from the SAME plant; note winged-petiolate versus sessile blades and degree of reduction upward.",
+      "Magnify stem and flower-stalk hairs: glabrous versus short-hairy versus stalked glandular; compare peduncle bracts.",
+      "Photograph whole flowering branch and one scaled side-view of the involucre; count ray florets where intact.",
+      "Compare phyllary shape, orientation, margins, tips and glandular hairs. Habitat and ray color are supporting evidence only."
+    ],
+    "comparison_groups": [
+      {
+        "taxa": [
+          "Symphyotrichum drummondii var. texanum",
+          "Symphyotrichum eulae"
+        ],
+        "strongest_separators": [
+          "S. drummondii var. texanum: stems densely hirsute distally, winged-petiolate larger lower leaves, open panicle with long spreading branches; FNA variety treatment involucre 3.8–5.2 mm.",
+          "S. eulae: glabrous peduncles, heads with (20–)27–36 rays, hemispheric involucre (4–)5–6.5 mm; compare with S. drummondii species-level (8–)10–15(–20) rays and usually hairy peduncles."
+        ],
+        "overlap_warning": "Involucre size overlaps broadly, and ray number meets at about 20; flower color is variable. FNA species-level drummondii measurements and variety-specific treatments are not interchangeable. Verify specimen-level varietal determination before mapping aliases.",
+        "photo_roles": [
+          "Matched whole-branch architecture",
+          "lower-leaf base and winged petiole",
+          "peduncle hair macro",
+          "scaled involucre profile",
+          "ray-floret count from intact face-on head"
+        ]
+      },
+      {
+        "taxa": [
+          "Symphyotrichum ericoides",
+          "other small white-rayed asters"
+        ],
+        "strongest_separators": [
+          "Usually narrow, stiff, spinulose-tipped leaves, small heads with 2.5–4.5(–5) mm involucres, usually (8–)10–18(–20) rays, and spinulose-tipped phyllaries per Semple's Astereae Lab treatment.",
+          "Look for white or translucent spinules with close magnification, not simply 'sharp-looking' phyllary tips."
+        ],
+        "overlap_warning": "Tiny white heads, narrow leaves and pale ray color recur across asters. Some similar species have rolled phyllary edges that mimic spinules; inspect the actual tip.",
+        "photo_roles": [
+          "Joey/user flowering branch if taxon identity established",
+          "scaled head side view",
+          "phyllary tip macro",
+          "leaf tip macro",
+          "stem hair macro"
+        ]
+      },
+      {
+        "taxa": [
+          "Symphyotrichum oblongifolium",
+          "other purple-rayed asters"
+        ],
+        "role": "comparison reference only; absent from the eight-species installed manifest at this check",
+        "strongest_separators": [
+          "Stalked glandular hairs on upper stems, peduncles and phyllary faces; rhizomatous habit, often leaflike outer phyllaries.",
+          "FNA involucres (5–)7–9 mm; stalked glandular peduncles 0.5–5 cm; inspect actual glands rather than relying on aromatic odor."
+        ],
+        "overlap_warning": "Purple rays, aromatic foliage, compact habit and a single involucre measurement are not diagnostic alone.",
+        "photo_roles": [
+          "stalked-gland macro upper stem",
+          "peduncle and phyllary gland macro",
+          "scaled involucre",
+          "lower/mid leaf series"
+        ]
+      }
+    ],
+    "sheet_vs_manifest_reconciliation": {
+      "sheet_genus_index": "12 source-pool rows marked curated; includes infraspecific and non-installed comparison names",
+      "manifest_installed_species_count": 8,
+      "rule": "Never infer 12 installed cards; reconcile exact accepted concept, varieties, synonyms and source rows individually before changing statuses."
+    },
+    "sources": [
+      {
+        "authority": "Flora of North America via eFloras",
+        "taxon": "Symphyotrichum drummondii",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067638"
+      },
+      {
+        "authority": "Flora of North America via eFloras",
+        "taxon": "Symphyotrichum eulae",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067643"
+      },
+      {
+        "authority": "Flora of North America via eFloras",
+        "taxon": "Symphyotrichum oblongifolium",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067664"
+      },
+      {
+        "authority": "University of Waterloo Astereae Lab, Semple",
+        "taxon": "Symphyotrichum ericoides",
+        "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides"
+      },
+      {
+        "authority": "University of Waterloo Astereae Lab, Semple",
+        "taxon": "Symphyotrichum drummondii varieties",
+        "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-drummondii"
+      }
+    ],
+    "safety": "No species installation, READY marker, range PASS, approval rewrite or gallery backfill."
+  },
+  "genus_diagnostics": {
+    "leaf_base": "Compare lower, middle and upper leaves on the SAME stem: strongly clasping, winged petiole, nearly sessile, narrow-stiff, or silvery.",
+    "pubescence": "Check hairs and stalked glands on upper stems, peduncles and phyllaries using 10–20× lens.",
+    "flowering_head": "Observe head/flower rays, side-view phyllary ranks, involucre millimeter measurement, flowering-branch architecture; ray COLOR alone is not diagnostic.",
+    "developmental": "Separate short-lived annual narrow-leaved saltmarsh asters from rhizomatous perennials; observe basal crown before inferring species.",
+    "silky_aster": "S. sericeum: first check the dense, soft, long APPRESSED WHITE HAIRS coating leaf surfaces and phyllaries, visible in two new licensed close-ups; then inspect wiry short rootstock. Compare Texas look-alike S. pratense: sparser sericeous hairs and broader ovate bracts; exclude aromatic/late purple asters by hair type and leaf base."
+  },
+  "species_comparison_matrix": [
+    {
+      "taxon": "Symphyotrichum divaricatum",
+      "common": "Southern annual saltmarsh aster",
+      "look_here_first": "Annual/short-lived; wiry nearly glabrous; narrow mostly sessile leaves 1–3.5 mm; small heads in VERY OPEN diffuse inflorescence",
+      "separate_from": "vs S. subulatum: denser pyramid, mostly SE saline/coastal Texas; do not confuse with Eurybia divaricata, white wood aster",
+      "photo_need": "open panicle; narrow leaf with scale; involucre",
+      "scientific_status": "source-pool taxon; range deferred"
+    },
+    {
+      "taxon": "Symphyotrichum drummondii",
+      "common": "Texas/Drummond's aster",
+      "look_here_first": "Perennial; larger serrate lower leaves taper into winged petiole; reduced narrow upper leaves; hairy stems",
+      "separate_from": "vs S. eulae: hairy flower stalks vs often glabrous; fewer rays in published treatments; local var. texanum distinctions need checked",
+      "photo_need": "matched lower/upper leaves; hairy peduncle; full head ray count",
+      "scientific_status": "PASS"
+    },
+    {
+      "taxon": "Symphyotrichum ericoides",
+      "common": "White heath aster",
+      "look_here_first": "Dense fine-leaved upper flowering branchlets plus a TRUE white/clear stiff PHYLLARY tip spine visible at 10–20× (not a folded green tip). Typical involucre 2.5–4.5(–5) mm.",
+      "separate_from": "S. divaricatum is an open, very diffuse, nearly hairless annual with widely spaced heads. S. pilosum (outside project) often has larger heads and curled GREEN phyllary tips that mimic actual S. ericoides spines. S. eulae broader serrate leaves, generally glabrous peduncles and more rays.",
+      "photo_need": "True phyllary apical clear bristle macro vs curled green pilosum tip; tight leaf-branchlet photo; existing Peter M. Dziuk 2003 arrowed source photo copyright study-link only",
+      "scientific_status": "PASS"
+    },
+    {
+      "taxon": "Symphyotrichum eulae",
+      "common": "Eula's/Whitehouse's aster",
+      "look_here_first": "Texas endemic; serrate scabrous leaves; spreading flower branches; glabrous peduncles; typically 27–36 rays",
+      "separate_from": "vs drummondii: leaf petiole wings, stem hairs, peduncle hairs, ray count and involucre size together",
+      "photo_need": "peduncle hairs; ray count; leaf series",
+      "scientific_status": "PASS"
+    },
+    {
+      "taxon": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "common": "White panicle aster",
+      "look_here_first": "Thin flexible flat-edged nonwaxy upper leaf surfaces, indistinct/elongate vein areoles below; confirm outer:inner phyllary ratio 1/3–2/3 for nominate infraspecific concept.",
+      "separate_from": "S. praealtum = stiff upper waxy leaf and regular well-marked underside areoles. Published peduncle-bract counts contradict between FNA genus key and species accounts; do not use as standalone split.",
+      "photo_need": "Paired adaxial/abaxial macros, scaled outer/inner phyllaries, verified nominate subspecies photographic provenance",
+      "scientific_status": "UNRESOLVED; approved learner"
+    },
+    {
+      "taxon": "Symphyotrichum oblongifolium",
+      "common": "Aromatic/fall aster",
+      "look_here_first": "Short oblong leaves, often low bushy rhizomatous; stalked glandular hairs on upper stems/peduncles/phyllaries",
+      "separate_from": "vs patens: patens has strongly heart-clasping upper leaves, BUT patens can ALSO have glandular phyllaries",
+      "photo_need": "leaf bases on stems; glands macro; phyllary face",
+      "scientific_status": "PASS"
+    },
+    {
+      "taxon": "Symphyotrichum patens",
+      "common": "Late purple/clasping aster",
+      "look_here_first": "Strongly cordate-clasping to auriculate UPPER stem leaves; branches spreading then rising",
+      "separate_from": "vs oblongifolium: upper leaf attachment strongest; patens varies by variety and CAN have stalked glands",
+      "photo_need": "upper leaf stem junction; phyllary hair/gland",
+      "scientific_status": "PROVISIONAL"
+    },
+    {
+      "taxon": "Symphyotrichum praealtum",
+      "common": "Willowleaf aster",
+      "look_here_first": "Leaves stiff/firm, often revolute edges, WAXY upper face, well-marked small near-equal-dimension underside vein AREOLES.",
+      "separate_from": "S. lanceolatum more pliable nonwaxy foliage with less regular areoles; peduncle-bract counts contradictory in FNA key vs accounts and NOT reliable as hard split.",
+      "photo_need": "Leaf underside vein-areole macro, angled adaxial waxy surface, margin curl, scaled phyllary side",
+      "scientific_status": "UNRESOLVED"
+    },
+    {
+      "taxon": "Symphyotrichum sericeum",
+      "common": "Western silver/silky aster",
+      "look_here_first": "Actual long, fine, WHITE/SILVER hairs lying flat on both leaf surfaces, plus similarly silky phyllaries; see two new arrowed feature closeups by davecz2.",
+      "separate_from": "S. oblongifolium has rougher/narrower leaves and often glandular upper shoots; S. pratense of Texas has much less dense hairy leaves and broadly ovate phyllaries — comparison only.",
+      "photo_need": "Two licensed close-ups now VERIFIED; woody cormoid rootstock and matched Texas pratense hair/bract photos to finish.",
+      "scientific_status": "PASS"
+    },
+    {
+      "taxon": "Symphyotrichum subulatum",
+      "common": "True annual saltmarsh aster",
+      "look_here_first": "Narrow-leaved annual of SE saline Texas; relatively dense PYRAMIDAL flowering array",
+      "separate_from": "vs divaricatum: more open diffuse heads in inland Central Texas; historical subulatum var. ligulatum = divaricatum concept",
+      "photo_need": "entire flower array; phyllary macro; local provenance",
+      "scientific_status": "FAIL target zone"
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Annual/short-lived; wiry nearly glabrous; narrow mostly sessile leaves 1–3.5 mm; small heads in VERY OPEN diffuse inflorescence",
+      "then": "Symphyotrichum divaricatum"
+    },
+    {
+      "if": "Perennial; larger serrate lower leaves taper into winged petiole; reduced narrow upper leaves; hairy stems",
+      "then": "Symphyotrichum drummondii"
+    },
+    {
+      "if": "Perennial; many tiny stiff pointed leaves and white small heads; spinulose phyllary tips",
+      "then": "Symphyotrichum ericoides"
+    },
+    {
+      "if": "Small mostly white asters with bracts that SEEM spiny but show a GREEN rolled or incurved phyllary tip (no separate clear/white stiff bristle), often larger heads than heath aster",
+      "then": "Check Symphyotrichum pilosum — COMPARISON ONLY, not currently canonical; true S. ericoides has a pale/clear apical spine."
+    },
+    {
+      "if": "Texas endemic; serrate scabrous leaves; spreading flower branches; glabrous peduncles; typically 27–36 rays",
+      "then": "Symphyotrichum eulae"
+    },
+    {
+      "if": "Tall wet-site perennial, thin/pliable flat-edged nonwaxy leaves; underside veins faint/irregular/elongate; nominate-subspecies outer phyllaries ~1/3–2/3 inner",
+      "then": "Symphyotrichum lanceolatum subsp. lanceolatum — RANGE HOLD. Confirm infraspecific concept with voucher; flowering bract counts DISPUTED between FNA key and species accounts."
+    },
+    {
+      "if": "Short oblong leaves, often low bushy rhizomatous; stalked glandular hairs on upper stems/peduncles/phyllaries",
+      "then": "Symphyotrichum oblongifolium"
+    },
+    {
+      "if": "Strongly cordate-clasping to auriculate UPPER stem leaves; branches spreading then rising",
+      "then": "Symphyotrichum patens"
+    },
+    {
+      "if": "Tall wet-site perennial with stiff, sometimes revolute-edged leaves, waxy upper faces, sharply defined small approximately equidimensional underside leaf areoles",
+      "then": "Symphyotrichum praealtum — RANGE UNRESOLVED. Do NOT base ID on a fixed peduncle-bract count."
+    },
+    {
+      "if": "Narrow leaves distinctly SILVER from dense appressed silky hairs; low wiry perennial with woody crown",
+      "then": "Symphyotrichum sericeum"
+    },
+    {
+      "if": "Narrow-leaved annual of SE saline Texas; relatively dense PYRAMIDAL flowering array",
+      "then": "Symphyotrichum subulatum — target-zone comparison only"
+    }
+  ],
+  "central_texas_look_here_first": [
+    "1. Southern annual saltmarsh aster — Annual/short-lived; wiry nearly glabrous; narrow mostly sessile leaves 1–3.5 mm; small heads in VERY OPEN diffuse inflorescence",
+    "2. Texas/Drummond's aster — Perennial; larger serrate lower leaves taper into winged petiole; reduced narrow upper leaves; hairy stems",
+    "3. White heath aster — Perennial; many tiny stiff pointed leaves and white small heads; spinulose phyllary tips",
+    "4. Eula's/Whitehouse's aster — Texas endemic; serrate scabrous leaves; spreading flower branches; glabrous peduncles; typically 27–36 rays",
+    "5. White panicle aster — Tall moist-site rhizomatous plant with narrow leaves not strongly reduced upward; few stalk bracts",
+    "6. Aromatic/fall aster — Short oblong leaves, often low bushy rhizomatous; stalked glandular hairs on upper stems/peduncles/phyllaries",
+    "7. Late purple/clasping aster — Strongly cordate-clasping to auriculate UPPER stem leaves; branches spreading then rising",
+    "8. Willowleaf aster — Tall clonal rhizomatous plant with long willowlike leaves; broad panicle; possible longitudinal stem hair lines",
+    "9. Western silver/silky aster — Narrow leaves distinctly SILVER from dense appressed silky hairs; low wiry perennial with woody crown",
+    "10. True annual saltmarsh aster — Narrow-leaved annual of SE saline Texas; relatively dense PYRAMIDAL flowering array"
+  ],
+  "authoritative_references": [
+    {
+      "name": "Flora of North America genus key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132022"
+    },
+    {
+      "name": "University of Waterloo Astereae Lab",
+      "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum"
+    },
+    {
+      "name": "UT Austin Williamson County S. divaricatum morphology",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html"
+    },
+    {
+      "name": "Texas annual saltmarsh aster taxonomy comparison",
+      "url": "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas"
+    },
+    {
+      "name": "S. patens variety glands and leaves",
+      "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-patens"
+    },
+    {
+      "name": "FNA S. lanceolatum nominate variety and peduncle bracts",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067656"
+    },
+    {
+      "name": "FNA S. praealtum peduncle bracts",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067674"
+    },
+    {
+      "name": "Waterloo Astereae Lab praealtum waxy adaxial leaves / areoles",
+      "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-praealtum"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Central Texas fall asters — ten-species visual learner",
+    "subtitle": "17 photographic reference cards across nine photographed asters; silky aster now has real feature-resolved silver leaf hair AND phyllary macros. S. lanceolatum subsp. lanceolatum exact subspecies photo remains absent.",
+    "memory_rule": "Silver leaves sericeum; stiff fine heath leaves ericoides; strongly clasping upper leaves patens; oblong glandular leaves oblongifolium (patens also may have glands); winged-petiolate lower leaves drummondii; glabrous peduncle & many rays eulae; tall willowleaf praealtum/lanceolatum needs fine characters; annual open heads divaricatum, dense coastal saltmarsh heads subulatum.",
+    "items": [
+      {
+        "label": "Aromatic aster: recognition photograph",
+        "scientific_name": "Symphyotrichum oblongifolium",
+        "image_role": "Flowers and oblong leaves (out-of-state exact-species study photo)",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/images/symphyotrichum-oblongifolium-flowers-provisional.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "stlmark",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_oblongifolium_99857187.jpg",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Late purple aster: recognition photograph",
+        "scientific_name": "Symphyotrichum patens",
+        "image_role": "Flowering habit recognizable face",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-patens/images/symphyotrichum-patens-provisional-face.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "Fritzflohrreynolds",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_patens_-_Late_Purple_Aster.jpg",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "White Heath Aster: recognition photograph",
+        "scientific_name": "Symphyotrichum ericoides",
+        "image_role": "Flowering branch with many small white-rayed heads.",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-ericoides/images/symphyotrichum-ericoides_flower-head-source-label_01-08.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Drummond's Aster / Texas Aster: recognition photograph",
+        "scientific_name": "Symphyotrichum drummondii",
+        "image_role": "Texas field reference / flowering plant",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20drummondii%202491636.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "Michael D Fox",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_drummondii_2491636.jpg",
+        "photo_status": "external image (not physically installed)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Drummond's Aster / Texas Aster: Flowering cluster / head display",
+        "scientific_name": "Symphyotrichum drummondii",
+        "image_role": "Flowering cluster / head display",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20drummondii%2052073298.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "Mary Crickmore",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_drummondii_52073298.jpg",
+        "photo_status": "external image (not physically installed)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Eula's Aster / Whitehouse's Aster: recognition photograph",
+        "scientific_name": "Symphyotrichum eulae",
+        "image_role": "Flowering stem / recognizable face",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-eulae/images/symphyotrichum-eulae-provisional-face.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "Michelle W. （鍾偉瑋）",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae,_Bastrop_County,_TX,_USA_imported_from_iNaturalist_photo_455429342.jpg",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed): recognition photograph",
+        "scientific_name": "Symphyotrichum divaricatum",
+        "image_role": "curated taxon reference 1",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/images/01-curated-reference.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. Correct name is southern annual saltmarsh aster, not white wood aster.",
+        "creator": "(c) Eric Duran, some rights reserved (CC BY-NC), uploaded by Eric Duran",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/169457",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed): curated taxon reference 2",
+        "scientific_name": "Symphyotrichum divaricatum",
+        "image_role": "curated taxon reference 2",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/images/02-curated-reference.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. Correct name is southern annual saltmarsh aster, not white wood aster.",
+        "creator": "(c) westonchambers, some rights reserved (CC BY-NC), uploaded by westonchambers",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/taxa/169457",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed): same-observation field view 1",
+        "scientific_name": "Symphyotrichum divaricatum",
+        "image_role": "same-observation field view 1",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/images/03-same-plant-field-view-1.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. Correct name is southern annual saltmarsh aster, not white wood aster.",
+        "creator": "(c) ILoveGroundFowl, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "source_page": "https://www.inaturalist.org/observations/400469052",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Eastern annual saltmarsh aster — provisional labeled flower reference (NOT diagnostic panicle)",
+        "scientific_name": "Symphyotrichum subulatum",
+        "image_role": "Source-labeled true S. subulatum flower from Pemiscot County, Missouri; not a verified flowering-architecture comparison",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eastern%20annual%20saltmarsh%20aster%20flower%20closeup.jpg",
+        "caption": "One flower from a Missouri plant labeled S. subulatum, useful for recognizing the small flower. This does NOT prove the compact upper pyramid that separates true S. subulatum from S. divaricatum. The previous Uvalde County photo is held due to a likely historical broad taxonomic label.",
+        "creator": "Agathman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_annual_saltmarsh_aster_flower_closeup.jpg",
+        "photo_status": "EXTERNAL_LICENSED_PHOTO_PROVISIONAL_TAXON_LABEL; NOT_VERIFIED_FEATURE",
+        "annotation_caution": "Do not add arrows or claim floral head architecture from a single flower; the original Uvalde image is quarantined.",
+        "image_fit": "contain",
+        "markers": []
+      },
+      {
+        "label": "Western silver aster / silky aster: recognition photograph",
+        "scientific_name": "Symphyotrichum sericeum",
+        "image_role": "Whole plant / silky foliage and flowering habit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%20%2815354337036%29.jpg",
+        "caption": "Existing verified source-name photo; useful for visual familiarity. Inspect leaves, nodes and phyllaries separately to confirm. ",
+        "creator": "peganum from Henfield, England",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_(15354337036).jpg",
+        "photo_status": "external image (not physically installed)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Silky aster — actual silver hairs, CLOSE-UP",
+        "scientific_name": "Symphyotrichum sericeum",
+        "image_role": "Close, high-resolution leaf blade: individual long appressed sericeous hairs clearly visible (verified photograph).",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%2010135056.jpg",
+        "caption": "Look at the true whitish HAIRS lying lengthwise across the LEAF BLADE (arrow on photo) — not simple gray lighting. The silver hairs are dense on both leaf faces. This is a photographed diagnostic structure; color of the purple rays is secondary.",
+        "creator": "davecz2 (iNaturalist, 2017)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg",
+        "observation_source": "https://www.inaturalist.org/observations/7725172",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Silky hairs — actual strands",
+            "label_x": 8,
+            "label_y": 12,
+            "target_x": 68,
+            "target_y": 22
+          }
+        ],
+        "annotation_note": "Percent coordinates checked against original 2048×1639: target region in upper half of main right leaf with obvious separated parallel white hairs. This is not a fake microscopic magnification.",
+        "photo_status": "EXTERNAL_REUSABLE_CC_BY_SA_4.0"
+      },
+      {
+        "label": "Silky aster — silvery phyllaries and open flower",
+        "scientific_name": "Symphyotrichum sericeum",
+        "image_role": "Photo of mature flower head and upper-left closed bud, exact same observation as leaf macro. Silky hairs on closed-bud involucral bracts.",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20sericeum%2010135023.jpg",
+        "caption": "In the upper-left bud, note the soft white SILKY HAIRS coating the green outer phyllaries; this is a reproductive-part confirmation, not simply the purple rays. These flower-bracts are NOT the leaf beneath the bud.",
+        "creator": "davecz2 (iNaturalist, 2017)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135023.jpg",
+        "observation_source": "https://www.inaturalist.org/observations/7725172",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Silky phyllaries on bud",
+            "label_x": 53,
+            "label_y": 8,
+            "target_x": 14,
+            "target_y": 20
+          }
+        ],
+        "annotation_note": "Image 1639×1639, target is visible hairy green bract at UPPER LEFT (closed bud); no claim to diagram each minute individual hair.",
+        "photo_status": "EXTERNAL_REUSABLE_CC_BY_SA_4.0"
+      },
+      {
+        "label": "Willowleaf aster: recognition photograph",
+        "scientific_name": "Symphyotrichum praealtum",
+        "image_role": "Flowering plant; Ontario provenance (not Texas range evidence)",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-flowering-provisional.jpg",
+        "caption": "Existing licensed Reuven Martin praealtum leaf photograph is a face/leaf silhouette. For true S. praealtum, look for firm sometimes rolled-margin leaves, waxy upper face and sharply reticulate near-isodiametric little AREOLES on leaf underside; this particular photo does NOT prove that microscopic trait.",
+        "creator": "Reuven Martin",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum.jpg",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "Willowleaf aster: Narrow willow-like leaf macro; Ontario provenance",
+        "scientific_name": "Symphyotrichum praealtum",
+        "image_role": "Narrow willow-like leaf macro; Ontario provenance",
+        "image_url": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/images/symphyotrichum-praealtum-leaf-provisional.jpg",
+        "caption": "Existing licensed Reuven Martin praealtum leaf photograph is a face/leaf silhouette. For true S. praealtum, look for firm sometimes rolled-margin leaves, waxy upper face and sharply reticulate near-isodiametric little AREOLES on leaf underside; this particular photo does NOT prove that microscopic trait.",
+        "creator": "Reuven Martin",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg",
+        "photo_status": "physical image folder (main)",
+        "annotation_caution": "Do not place arrows to traits that are not unambiguously visible",
+        "image_fit": "contain"
+      },
+      {
+        "label": "White heath aster — LICENSED North Texas flowering habit",
+        "scientific_name": "Symphyotrichum ericoides",
+        "image_role": "North Texas field habitat and branching (not a phyllary spine-tip macro)",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20ericoides%2097520834.jpg",
+        "caption": "North Texas S. ericoides (photographed Sept 2020): notice fine-leaved branchlets. Use a hand lens on phyllary tips for whitish terminal bristles; those microscopic tips are NOT verified visible here.",
+        "creator": "Annika Lindqvist",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+        "observation_source": "https://www.inaturalist.org/observations/60921458",
+        "annotation_caution": "no marker placed without actual feature verification",
+        "image_fit": "contain"
+      },
+      {
+        "label": "White heath aster — USDA reference plant",
+        "scientific_name": "Symphyotrichum ericoides",
+        "image_role": "Whole plant / vegetative and flowering character",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20ericoides%20NRCS-1.jpg",
+        "caption": "Look for many short, narrow leaves on crowded upper flowering branches. This USDA image introduces the plant and does not resolve the 2.5–4.5 mm involucre or clear terminal spines.",
+        "creator": "Jennifer Anderson @ USDA-NRCS PLANTS",
+        "license": "Public Domain, United States federal work",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_NRCS-1.jpg",
+        "annotation_caution": "photo used for face only",
+        "image_fit": "contain"
+      }
+    ],
+    "overlay_note": "The silky-aster leaf close-up and closed-bud photo use actual CC BY-SA 4.0 photographs by davecz2 from iNaturalist observation 7725172; NEW arrows target visually checked hairs and hairy outer phyllaries only. Cropping/annotation constitutes an adaptation, so preserve original credit/source, license and share-alike conditions. Other genus images remain unannotated when fine characters are not resolved. Images are linked through Commons, not local binary installs. IMPORTANT FINAL PAIR UPDATE: The S. subulatum card displays only a species-labeled remote Missouri flowering-head photo, NOT a verified whole pyramidal flowering array. A former Uvalde 2014 'subulatum' photograph has been quarantined due to a likely historical broad taxon label; the file remains preserved for review.",
+    "study_only_intro": "These high-value anatomical galleries are links for study, not license to republish protected photos.",
+    "study_only_photo_links": [
+      {
+        "label": "Direct Texas botanical comparison of S. divaricatum vs S. subulatum, full panicle and phyllary examples",
+        "url": "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas",
+        "look_for": "Field ID key showing open vs relatively denser flowering structure, coastal vs inland range, and cautions about mower-altered plants; exact photo licenses vary.",
+        "reuse": "research-source link only; do not copy embedded observation images without photographer/license review"
+      },
+      {
+        "label": "Texas UT Austin Williamson County S. divaricatum measured botanical morphology",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html",
+        "look_for": "Open inflorescence, linear almost sessile leaves, 20–25 phyllaries and head dimensions; historical subulatum var. ligulatum concept.",
+        "reuse": "university botanical source; link only"
+      },
+      {
+        "label": "TRUE S. subulatum flower, MISSOURI CC BY-SA 4.0, provisional study face (Agathman)",
+        "url": "https://commons.wikimedia.org/wiki/File:Eastern_annual_saltmarsh_aster_flower_closeup.jpg",
+        "look_for": "Shows a labeled flower but NOT an entire flowering array or coastal Texas voucher; source license CC BY-SA 4.0.",
+        "reuse": "Agathman CC BY-SA 4.0, attribution/share-alike required"
+      },
+      {
+        "label": "Legacy Uvalde photo formerly labeled subulatum — HOLD (not definitive)",
+        "url": "https://commons.wikimedia.org/wiki/File:SYMPHYOTRICHUM_SUBULATUM.jpg",
+        "look_for": "2014 Uvalde County source conflicts with Texas modern split; has been removed from active species/gallery references, original physical file retained for review.",
+        "reuse": "Gaiacoyote CC0; taxonomic identity HOLD"
+      },
+      {
+        "label": "Silky aster cormoid ROOTSTOCK, real specimen photo 4/6 — John Semple",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-sericeum",
+        "look_for": "6-photo species series, photo 4 shows an actual thickened cormoid rootstock; exact species but Wisconsin, not Texas.",
+        "reuse": "© John C. Semple (2025). Protected photo study link only; not copied into learner."
+      },
+      {
+        "label": "Texas LOOKALIKE S. pratense — sparser silver hairs, broader ovate bracts",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-pratense",
+        "look_for": "Semple's specialist comparative material including Texas S. pratense, distinguished by much less dense leaf hairs and wider outer phyllaries. Comparison only; not source-pool/card.",
+        "reuse": "© John C. Semple (2025). Protected photo study link only."
+      },
+      {
+        "label": "Silky aster — truly HAIRY silver leaves, easy whole upper-stem reference",
+        "url": "https://www.minnesotawildflowers.info/flower/silky-aster",
+        "look_for": "Close photos of individual silver leaf hairs, phyllaries and whole clump; useful additional diagnostic detail.",
+        "reuse": "© K. Chayka / P. Dziuk; link only, not licensed for rehosting."
+      },
+      {
+        "label": "Silky aster photographed LEAF HAIRS — licensed exact taxon",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg",
+        "look_for": "Already shown above in the genus gallery, 2048×1639 photo where individual silky strands are clearly visible.",
+        "reuse": "davecz2 CC BY-SA 4.0; source-linked in learner."
+      },
+      {
+        "label": "UT Austin Texas aster variety texanum photos",
+        "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/symphyotrichum_drummondii.htm",
+        "look_for": "Texas Drummond aster branches, leaf series and flowers",
+        "reuse": "source-site link; reuse rights unverified"
+      },
+      {
+        "label": "Waterloo S. oblongifolium Texas leaves and flower/caudex series",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-oblongifolium",
+        "look_for": "Milam County TX plant/leaf-series, head and rhizomes; check stalked glands",
+        "reuse": "copyright John C. Semple; link only"
+      },
+      {
+        "label": "Waterloo S. patens photographed Texas var. patens",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-patens",
+        "look_for": "strong upper leaf clasping and varietal phyllaries; Texas Milam County",
+        "reuse": "copyright John C. Semple; link only"
+      },
+      {
+        "label": "Waterloo white heath aster variation",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-ericoides",
+        "look_for": "short stiff leaves and spinulose phyllary tips",
+        "reuse": "copyright/rights require checking; link only"
+      },
+      {
+        "label": "Exact subspecies S. lanceolatum subsp. lanceolatum identification pool",
+        "url": "https://www.inaturalist.org/taxa/238759-Symphyotrichum-lanceolatum-lanceolatum",
+        "look_for": "identify photograph at nominate SUBSPECIES rank, verify photographer/license and provenance before linking exact photo",
+        "reuse": "not yet resolved"
+      },
+      {
+        "label": "PATENS — actual clasping leaf stem nodes (Native Plant Trust photograph)",
+        "url": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Asteraceae/symphyotrichum-patens-le-atal.jpg",
+        "look_for": "Several intact true stem nodes with strongly clasping rounded basal lobes. Strong teaching reference for clasping leaf attachment, even without arrows.",
+        "reuse": "Native Plant Trust/Go Botany; photographer-specific copyright, NOT for embedding; link for study only",
+        "source_page": "https://gobotany.nativeplanttrust.org/species/symphyotrichum/patens/",
+        "verification": "real exact-species leaf-node photo at Go Botany; rounded lobes visually apparent"
+      },
+      {
+        "label": "PATENS — stem and nodes (MissouriPlants, SRTurner)",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_patens_stem.jpg",
+        "look_for": "Actual stem-and-node photograph labeled as S. patens with sessile auriculate upper leaves; use to compare with oblongifolium stem view.",
+        "reuse": "SRTurner © MissouriPlants; link only",
+        "source_page": "https://www.missouriplants.com/Symphyotrichum_patens_page.html"
+      },
+      {
+        "label": "OBLONGIFOLIUM — stem with attached leaves (MissouriPlants, SRTurner)",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_oblongifolium_leaves2.jpg",
+        "look_for": "Exact-species foliage/stem comparison showing upper and middle leaves that are not strongly cordate-clasping as in patens.",
+        "reuse": "SRTurner © MissouriPlants; link only",
+        "source_page": "https://www.missouriplants.com/Symphyotrichum_oblongifolium_page.html"
+      },
+      {
+        "label": "OBLONGIFOLIUM — upper stem and gland region (MissouriPlants, SRTurner)",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_oblongifolium_stem.jpg",
+        "look_for": "Actual upper stem showing pubescence/gland-bearing region; stalked gland HEADS may require closer macro before arrowing.",
+        "reuse": "SRTurner © MissouriPlants; link only",
+        "source_page": "https://www.missouriplants.com/Symphyotrichum_oblongifolium_page.html"
+      },
+      {
+        "label": "PATENS — documented Texas clasping upper leaves and glandular stems (UT Austin K12)",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Symphyotrichum%20patens%20patens",
+        "look_for": "Williamson County exact var. patens describes rounded basal lobes partially wrapping stem and stalked glands; reference measurements, not photo asset.",
+        "reuse": "UT Austin specimen description, source reference"
+      },
+      {
+        "label": "PATENS — photo-licensed additional subject candidates (Wikimedia CC0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_patens_101273126.jpg",
+        "look_for": "Exact taxon identified as S. patens, North Carolina photo by Becky Dill, CC0. Need inspect individual image to confirm leaf base visible before using as diagnostic plate.",
+        "reuse": "Becky Dill, CC0 1.0, Commons/iNaturalist photo 101273126"
+      },
+      {
+        "label": "Texas Drummond's aster var. texanum — actual reproductive close-up (UT Austin BIO406D)",
+        "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/Symphyotrichum%20drummond%20hds.jpg",
+        "look_for": "Several flower heads from S. drummondii var. texanum, with whole short branch and some hairy structures. It DOES NOT clearly show winged lower leaf petioles; never arrow a winged lower leaf here.",
+        "reuse": "University of Texas herbarium/BIOL 406D source; reuse permission not identified; link only"
+      },
+      {
+        "label": "Drummond's aster var. texanum — exact local specimen morphology (UT Williamson County flora)",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20drummondii%20texanum.html",
+        "look_for": "Lower leaves with long winged petiole portion, distal hairs, head rays; measured source is NOT photograph.",
+        "reuse": "authoritative specimen description"
+      },
+      {
+        "label": "Eula's aster — additional specimen photograph (NYBG herbarium)",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae_specimen_NY_01847673.jpg",
+        "look_for": "Exact-name herbarium voucher for whole flowering branch, leaves and arrangement; confirm file title/license at Commons before installing anything.",
+        "reuse": "specimen scan reference; photo license unconfirmed"
+      },
+      {
+        "label": "HEATH ASTER — ACTUAL PHYLLARY SPINE PHOTO WITH REAL SOURCE ARROWS",
+        "url": "https://www.minnesotawildflowers.info/udata/r9ndp23q/pd/symphyotrichum-ericoides-2931-3.jpg",
+        "source_page": "https://www.minnesotawildflowers.info/flower/heath-aster",
+        "look_for": "Peter M. Dziuk (2003) photo: yellow arrows label two authentic spine tips on the small involucral bracts of developing heath aster flower heads. REAL IN-IMAGE arrows already present; original creator image, do NOT copy/re-annotate into GitHub without rights.",
+        "reuse": "© Peter M. Dziuk / Minnesota Wildflowers, copyrighted. LINK ONLY; DO NOT INSTALL.",
+        "verification": "actual image manually opened and arrows target distinct tiny whitish spines on upper-right flower buds"
+      },
+      {
+        "label": "HEATH ASTER — ACTUAL TINY LEAF BRANCH PHOTO (Oklahoma State)",
+        "url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/images/heath-aster-small-narrow-leaves-attached-directly-to-branches-with-no-leaves-on-main-stem.jpg",
+        "source_page": "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/",
+        "look_for": "Dense branchlets of tiny linear–oblong sessile leaves, with main stem largely leafless at flowering; excellent field learning for upper branch foliage.",
+        "reuse": "Oklahoma State University Extension; LINK ONLY, no image-specific open license",
+        "verification": "actual plant-part photo from Extension source and displayed in image search"
+      },
+      {
+        "label": "HEATH ASTER — WHITE/CLEAR PHYLLARY TIP IN TAXONOMY LAB PHOTO SET",
+        "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides",
+        "source_page": "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides",
+        "look_for": "J.C. Semple taxon images with labeled photos, species-vs-S. pilosum head comparison (photo 7 of 8), and authentic small spine-tipped bracts.",
+        "reuse": "© J.C. Semple (2025), site image rights protected; LINK ONLY",
+        "verification": "2025 revised taxonomic specialist page; source captions identify each photo"
+      },
+      {
+        "label": "HEATH ASTER — mature HEAD BRACTS and buds at fruit stage",
+        "url": "https://castle.eiu.edu/prairie/images.fullscale/asteeric.fruits1..jpg",
+        "source_page": "https://castle.eiu.edu/prairie/asteeric.htm",
+        "look_for": "K. R. Robertson / Illinois Natural History Survey photo shows hairy mature heads, bract geometry and a scale; use for anatomy context not unverified terminal spine-pointing.",
+        "reuse": "© K. R. Robertson / Illinois Natural History Survey; study link only"
+      },
+      {
+        "label": "HEATH ASTER — TEXAS photo with approved CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+        "source_page": "https://www.inaturalist.org/observations/60921458",
+        "look_for": "Annika Lindqvist Sept 2020 North Texas exact-species field habit, natural flowering context; 2048×1536; not close-up proof of phyllary spine",
+        "reuse": "Annika Lindqvist CC BY 4.0, photographer source Commons/iNaturalist; suitable reference"
+      },
+      {
+        "label": "HEATH ASTER — USDA licensed broad plant reference",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_NRCS-1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_NRCS-1.jpg",
+        "look_for": "Jennifer Anderson @ USDA-NRCS photo, recognizable whole flowering plant; only 532×872, not a diagnostic phyllary-tip macro",
+        "reuse": "US federal work Public Domain; source citation requested"
+      },
+      {
+        "label": "Willowleaf aster TRUE UNDERSIDE venation photo, SRTurner",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_praealtum_leaf.jpg",
+        "look_for": "Actual S. praealtum leaf abaxial network/vein AREOLES, strong picture to examine before final macro arrows.",
+        "reuse": "© SRTurner/MissouriPlants; copyrighted study link only",
+        "source_page": "https://www.missouriplants.com/Symphyotrichum_praealtum_page.html"
+      },
+      {
+        "label": "Willowleaf aster leaf underside second view, SRTurner",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_praealtum_leaf2.jpg",
+        "look_for": "Second real photo of abaxial venation in S. praealtum; helps teach prominent little polygons, not yet confirmed isodiametric count at pixel scale.",
+        "reuse": "© SRTurner/MissouriPlants; copyrighted study link only"
+      },
+      {
+        "label": "Willowleaf aster UPPER leaf face",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_praealtum_leaf3.jpg",
+        "look_for": "Upper waxy leaf face; source-state S. praealtum morphology reference. Waxy quality hard to establish from still image alone.",
+        "reuse": "© SRTurner/MissouriPlants; copyrighted study link only"
+      },
+      {
+        "label": "White panicled aster exact nominate variety, photographed 4 times by John Semple (2025)",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-dumosi/symphyotrichum-lanceolatum/var-lanceolatum",
+        "look_for": "FOUR real true S. lanceolatum VAR. LANCEOLATUM photographs: PEI specimen, Waterloo inflorescence, Ontario shoot, Ontario heads. Variety inside nominal subsp. lanceolatum; NO Texas voucher; copyright. Useful exact-infraspecific study photos, not installable.",
+        "reuse": "© J.C. Semple University of Waterloo; copyrighted study link ONLY; do not claim installed."
+      },
+      {
+        "label": "White panicle aster var. lanceolatum documented flowering plant / stalk / small bract photos",
+        "url": "https://friendsofeloisebutler.org/pages/plants/whitepanicleaster.html",
+        "look_for": "Confirmed identified at exact VARIETY rank in Minnesota, separate images of upper stem leaves, intact flowering branches and upper peduncle bracts (bract photos are count observations, not diagnostic).",
+        "reuse": "© G.D. Bebeau / Friends of Eloise Butler, copyrighted; source link only"
+      },
+      {
+        "label": "White panicled aster leaf underside image, SRTurner — VARIETY LATIFOLIUM not nominate",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_lanceolatum_leaf2.jpg",
+        "look_for": "Real lanceolatum leaf underside but source says photos are of VAR. LATIFOLIUM (not nominate var. lanceolatum); valid SPECIES comparison for fainter areoles but NOT exact-subspecies/variety photograph.",
+        "reuse": "© SRTurner/MissouriPlants, link only; explicitly flag var. latifolium"
+      },
+      {
+        "label": "PRAEALTUM licensed Ontario LEAF image already physically installed",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg",
+        "look_for": "Reuven Martin leaf, Ontario 2019; CC0 exact species. Study leaf silhouette; photo does not yet confirm measured underside areoles.",
+        "reuse": "CC0 1.0, photo by Reuven Martin, in existing learner physical image folder"
+      }
+    ]
+  },
+  "photo_audit_2026_10_12": {
+    "physical_files": {
+      "divaricatum": 5,
+      "drummondii": 0,
+      "ericoides": 1,
+      "eulae": 1,
+      "lanceolatum-subsp-lanceolatum": 0,
+      "oblongifolium": 1,
+      "patens": 1,
+      "praealtum": 2,
+      "sericeum": 0,
+      "subulatum": 0
+    },
+    "photo_cards": 13,
+    "source_metadata_per_species": [
+      {
+        "id": "oblongifolium",
+        "count": 1
+      },
+      {
+        "id": "patens",
+        "count": 1
+      },
+      {
+        "id": "ericoides",
+        "count": 3
+      },
+      {
+        "id": "drummondii",
+        "count": 3
+      },
+      {
+        "id": "eulae",
+        "count": 1
+      },
+      {
+        "id": "divaricatum",
+        "count": 5
+      },
+      {
+        "id": "subulatum",
+        "count": 1
+      },
+      {
+        "id": "sericeum",
+        "count": 1
+      },
+      {
+        "id": "praealtum",
+        "count": 2
+      },
+      {
+        "id": "lanceolatum-subsp-lanceolatum",
+        "count": 0
+      }
+    ],
+    "missing_exact_subspecies_photo": "symphyotrichum-lanceolatum-subsp-lanceolatum",
+    "role": "Photo orientation first pass; true diagnostic comparisons require targeted photographs.",
+    "physically_preserved_but_excluded_from_active_gallery": {
+      "subulatum": 1
+    },
+    "subulatum_active_photo": "licensed remote Missouri reference, provisional, not diagnostic",
+    "last_updated": "2026-10-12"
+  },
+  "head_to_head": [
+    {
+      "pair": "S. oblongifolium vs S. patens",
+      "first": "Compare exact upper LEAF BASES: patens deeply heart-clasps/auriculate; oblongifolium generally shorter oblong leaves that mildly clasp, then look at overall bushy habit and leaflet/phyllary details.",
+      "trap": "STALKED GLANDS are NOT patens-excluding: var. patens can have them densely.",
+      "photo": "Matched upper leaf nodes, top and side; gland and phyllary views of both."
+    },
+    {
+      "pair": "S. drummondii vs S. eulae",
+      "first": "drummondii: winged-petiolate large lower leaves, strongly smaller upper leaves, hairy distal shoots/peduncles. eulae: glabrous peduncles, open horizontal flowering branches, usually 27–36 rays.",
+      "trap": "Head size/ray number overlap by variety or incomplete flowers; keep drummondii var. texanum distinct from generic species ranges.",
+      "photo": "Lower leaf base; stem/peduncle hairs, flower face full ray count, scaled involucre."
+    },
+    {
+      "pair": "S. ericoides vs other tiny white asters",
+      "first": "Short stiff pointed foliage and spinulose phyllary TIPS; small head (often involucre 2.5–4.5 mm).",
+      "trap": "White ray color and small flower size occur in many asters; rolled phyllary edges may mimic spines.",
+      "photo": "True leaf spinule and phyllary tip through 10–20×."
+    },
+    {
+      "pair": "S. praealtum vs S. lanceolatum (including nominate subspecies)",
+      "first": "FIRST compare 2–3 mature leaves from middle/upper stems, BOTH faces: S. praealtum has relatively FIRM leaves, often rolled-back (revolute) edges, WAXY upper faces, and lower faces with conspicuous almost equally wide/long (isodiametric) small areoles. S. lanceolatum usually has PLIABLE, flatter leaves, nonwaxy upper faces and less distinct/elongate irregular areoles. Flowering-branch bract counts overlap or conflict among FNA key vs species descriptions; NEVER a hard split.",
+      "trap": "SOURCE DISAGREEMENT: FNA 2006 genus key couplet 84 says lanceolatum 5–12+ and praealtum 1–3(–5), but FNA species treatments report the reverse (lanceolatum 1–3[–5], praealtum 5–12+). Do not teach either count as independently diagnostic until local voucher-level confirmation. Nominate S. lanceolatum subsp. lanceolatum requires outer phyllaries usually 1/3–2/3 inner and no conspicuous big foliaceous head-subtending bract; separate var. hesperium.",
+      "photo": "MATCHED exact identity verified leaf abaxial areole micros + adaxial wax/edge-rolling, head-side outer/inner phyllary scale; record bract counts as observations, NOT a validated binary key."
+    },
+    {
+      "pair": "S. divaricatum vs S. subulatum",
+      "first": "S. divaricatum: an often wiry annual with VERY OPEN diffuse flowering branches and widely separated heads, common inland. TRUE S. subulatum: relatively DENSER PYRAMIDAL upper flowering array with heads closer together nearer top, primarily southeastern Texas saline/coastal marshes. Both have narrow mostly sessile foliage; confirm on unmowed mature whole plant.",
+      "trap": "Density is RELATIVE, not compact vs perfectly airy in every specimen: mowing, juvenile plants and disturbance can defeat the silhouette. The phyllary green-zone feature is described but hard to resolve reliably in photos. Old S. subulatum var. ligulatum goes to S. divaricatum; old Uvalde 2014 'subulatum' image is quarantined, not a verified true-subulatum photo.",
+      "photo": "5 physical divaricatum field/flower views, but no whole panicle positively identifying true subulatum. Historic Uvalde picture quarantined. Seek SAME-SCALE mature flowering arrays from known current taxa, then side-view phyllaries with metric scale."
+    },
+    {
+      "pair": "S. sericeum vs purple asters",
+      "first": "S. sericeum: actual long, soft, APPRESSED SILVERY hairs covering both leaf surfaces AND phyllaries; photo macro confirmed. S. oblongifolium: more often rough short leaf hairs, glandular upper peduncles; S. patens deeply clasping leaf bases. Compare S. pratense (Texas look-alike, NOT installed): less dense silver pubescence and broader ovate phyllaries.",
+      "trap": "Not all Texas silver-looking asters are sericeum. S. pratense can be somewhat silky but is less densely hairy and has larger, wider outer bracts. Purple rays, sunlight glare and common-name silver color are NOT species diagnoses.",
+      "photo": "NEW real CC BY-SA 4.0 leaf hair closeup + silky bud/phyllary close-up, both from iNaturalist observation 7725172 by davecz2 (Wisconsin). Missing licensed cormoid rootstock and matched S. pratense same-scale comparator."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "group": "patens vs oblongifolium",
+      "role": "Upper leaf nodes matched",
+      "status": "pending genuine diagnostic macros",
+      "arrow_target": "heart-clasping auricles in patens versus weakly clasping short oblong leaf in oblongifolium"
+    },
+    {
+      "priority": 1,
+      "group": "praealtum vs lanceolatum nominate",
+      "role": "Leaf waxy sheen, edge rolling and underside vein AREOLES; measured outer/inner phyllary ratio",
+      "status": "High-value photos being sourced. FNA genus key reverses species-account bract counts; do not use count until voucher verified.",
+      "arrow_target": "True areole NETWORK on same leaf lower face and actual curled margin; measured outer/inner phyllaries on verified infraspecific plant; bract COUNT = documented but not binary."
+    },
+    {
+      "priority": 1,
+      "group": "drummondii vs eulae",
+      "role": "Upper peduncle hair and winged lower leaf-base",
+      "status": "pending matched macros",
+      "arrow_target": "actual peduncle hair plus lower winged petiole and glabrous eulae peduncle"
+    },
+    {
+      "priority": 2,
+      "group": "ericoides",
+      "role": "Leaf + phyllary spinule",
+      "status": "pending true 10–20× macro",
+      "arrow_target": "real transparent terminal spinules on phyllary or leaf tips"
+    },
+    {
+      "priority": 2,
+      "group": "divaricatum vs subulatum",
+      "role": "Whole-plant loose versus denser upper PYRAMID architecture; unreliable after mowing",
+      "status": "PRELIMINARY_LESSON_COMPLETE; true subulatum full-plant photo NOT authenticated; final paired photographic polish pending",
+      "arrow_target": "Negative space between divaricatum heads vs more closely grouped heads in upper part of true subulatum; label whole branching panicle, not a single floret."
+    },
+    {
+      "priority": 2,
+      "group": "sericeum",
+      "role": "Dense SILKY leaf hairs and phyllary pubescence — both licensed feature-resolved photos now in gallery",
+      "status": "FIRST-PASS COMPLETE, real verified photo arrows; local Texas paired pratense and cormoid rootstock pending",
+      "arrow_target": "Leaf individual silver strands (68%,22%) and hairy green phyllaries on closed bud (14%,20%)"
+    }
+  ],
+  "pair_photo_polish_2026_10_12": {
+    "pair": [
+      "Symphyotrichum patens",
+      "Symphyotrichum oblongifolium"
+    ],
+    "status": "ACTUAL_SOURCE-PHOTOS_FOUND; READY_FOR_PRELIMINARY_FIELD_ID; licensed matched leaf-base macros not yet installed",
+    "strongest_field_rule": "On the SAME height upper stem, S. patens has deeply cordate-CLASPING auriculate leaf bases that wrap around stem; S. oblongifolium has oblong to lanceolate leaves usually rounded, narrowed or just WEAKLY clasping, with many smaller upper leaves. The obvious heart-shaped clasping base is the better first-look character than gland presence.",
+    "gland_correction": "DO NOT use glands alone: S. patens var. patens in the Williamson County flora bears colorless stalked glands on stems and peduncles; S. oblongifolium also commonly bears stalked glands on upper stems/peduncles/phyllaries.",
+    "source_photo_results": [
+      {
+        "species": "S. patens",
+        "role": "actual upper leaf nodes with rounded clasping auricles",
+        "url": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Asteraceae/symphyotrichum-patens-le-atal.jpg",
+        "photographer": "Native Plant Trust photographer; individual credit must be checked at Go Botany",
+        "status": "STRONG_DIAGNOSTIC_SOURCE_PHOTO, protected study link"
+      },
+      {
+        "species": "S. patens",
+        "role": "stem and nodes",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_patens_stem.jpg",
+        "photographer": "SRTurner",
+        "status": "SOURCE_SITE_COPYRIGHT_STUDY_LINK_ONLY"
+      },
+      {
+        "species": "S. oblongifolium",
+        "role": "leaf-bearing stem",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_oblongifolium_leaves2.jpg",
+        "photographer": "SRTurner",
+        "status": "SOURCE_SITE_COPYRIGHT_STUDY_LINK_ONLY"
+      },
+      {
+        "species": "S. oblongifolium",
+        "role": "upper stem hairs",
+        "url": "https://www.missouriplants.com/images/Symphyotrichum_oblongifolium_stem.jpg",
+        "photographer": "SRTurner",
+        "status": "COPYRIGHT; gland heads not individually vetted"
+      }
+    ],
+    "to_finish": [
+      "Physical local licensed matched S. patens upper-leaf auricle and S. oblongifolium upper-leaf base macros at same scale.",
+      "Matched 10–20× stalked gland close-ups with head visible, clear that BOTH can have glands.",
+      "Optional exact-source Texas specimen for S. patens with accepted variety and county status; existing PROVISIONAL scientific status must remain.",
+      "Real verified arrows after checking photo pixels; no arrows should be inferred from descriptions."
+    ],
+    "authorities": [
+      "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-patens",
+      "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-oblongifolium",
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Symphyotrichum%20patens%20patens"
+    ]
+  },
+  "pair_photo_polish_drummondii_eulae_2026_10_12": {
+    "status": "partial source-photo pass; licensed visible matched hairs/leaf bases not yet locked",
+    "matched_key": {
+      "Symphyotrichum drummondii var. texanum": "Lower leaf tapering to winged petiole (up to ~45 mm in UT local description), middle/upper leaves strongly reduced; young distal stems and peduncles hairy; inflorescence diffuse.",
+      "Symphyotrichum eulae": "Peduncles typically GLABROUS, 5–10 slender bractlets on peduncle, ~27–36 rays on intact heads, middle stem leaves serrate/scabrous."
+    },
+    "priority_images": [
+      "Local drummondii LOWER winged leaf stalk attached to stem AND leaves higher on SAME stem.",
+      "Side-by-side drummondii hairy versus eulae glabrous peduncle at 10–20×, arrows only on clearly visible hairs.",
+      "Head face-on with intact countable rays for each; no ray number arrow when flower damaged.",
+      "Scaled phyllary/involucre side views; FNA lists 3.8–5.2 mm involucre for var. texanum while UT Williamson treatment records 6–7 mm on its local specimen: DO NOT force a hard universal size split."
+    ],
+    "actual_image_candidates": [
+      {
+        "species": "S. drummondii var. texanum",
+        "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ast/Symphyotrichum%20drummond%20hds.jpg",
+        "role": "flower heads/upper flowering branch",
+        "status": "actual exact-local-variety source photo, copyrighted study link only"
+      },
+      {
+        "species": "S. eulae",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae,_Bastrop_County,_TX,_USA_imported_from_iNaturalist_photo_455429342.jpg",
+        "role": "existing physically installed single flowering stem photo",
+        "status": "existing CC BY 4.0 face, not proven peduncle-macro"
+      }
+    ],
+    "scientific_notes": [
+      "Do not infer FNA variety-specific measurements from generic drummondii species description.",
+      "Presence/absence of peduncle hairs matters but sample a full mature flowering head.",
+      "Eulae Texas-only PASS and Drummondii var. texanum current PASS remain unchanged."
+    ],
+    "references": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068828",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067643",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20drummondii%20texanum.html"
+    ]
+  },
+  "heath_aster_small_white_lookalike_2026_10_12": {
+    "status": "FIRST-PASS PHOTO-BASED FIELD IDENTIFICATION COMPLETE; verified arrowed phyllary photo FOUND AS SOURCE_LINK_ONLY",
+    "primary_species": "Symphyotrichum ericoides var. ericoides (local project concept)",
+    "look_here_first": "Inspect a mature small head from side using 10–20× loupe. Real narrow, pale/transparent stiff BRISTLE at apex of outer phyllary, and short stiff pointed narrow upper leaves, are better than white flower color. Check the branching pattern: dense branchlets with tiny leaves, relatively crowded small flower heads and rhizomatous perennial base.",
+    "target_head": "Typically involucre 2.5–4.5(–5) mm high; usually 10–18(–20) rays; individual measurements overlap with other species, so combine with phyllary terminal spines and hairs.",
+    "source_photo_verified": "Peter M. Dziuk Minnesota Wildflowers photograph already ARROW-ANNOTATED correctly on true involucral spine tips: https://www.minnesotawildflowers.info/udata/r9ndp23q/pd/symphyotrichum-ericoides-2931-3.jpg ; COPYRIGHTED, do not install.",
+    "lookalike_matrix": [
+      {
+        "taxon": "Symphyotrichum ericoides",
+        "role": "installed canonical",
+        "life_cycle": "RHIZOMATOUS PERENNIAL",
+        "stem_and_leaves": "Very many small narrow stiff pointed branchlet leaves; stems/foliage usually short hairy",
+        "heads": "Numerous compact small white heads; involucre 2.5–4.5(–5) mm",
+        "phyllaries": "ACTUAL whitish/clear stiff terminal spine; outer tips sometimes spreading/reflexed",
+        "field_tip": "Flip a head: find the whitish terminal bristle (not a rolled edge); measure and check leaf tips."
+      },
+      {
+        "taxon": "Symphyotrichum divaricatum",
+        "role": "installed canonical",
+        "life_cycle": "ANNUAL to short-lived, taprooted",
+        "stem_and_leaves": "Thin almost hairless wiry stems and narrow linear mostly sessile leaves",
+        "heads": "Usually much more DIFFUSE and widely spaced small heads in very open inflorescence",
+        "phyllaries": "Thin awl-shaped bracts, not expected to show robust stiff transparent phyllary terminal spines of ericoides",
+        "field_tip": "Large gaps between heads + annual taproot, versus crowded heath-like branches with spine-tipped bracts."
+      },
+      {
+        "taxon": "Symphyotrichum eulae",
+        "role": "installed canonical",
+        "life_cycle": "RHIZOMATOUS PERENNIAL",
+        "stem_and_leaves": "Broader scabrous leaves with toothed margins, open spreading panicle; usually glabrous peduncle",
+        "heads": "Usually larger face with more rays (often ~27–36) and involucre 5–6.5 mm",
+        "phyllaries": "Observe scaled profile and peduncle; should not use flower color as one-point determination",
+        "field_tip": "Broader toothed foliage + usually hairless peduncle + many rays contrast with fine-leaved hairy ericoides."
+      },
+      {
+        "taxon": "Symphyotrichum lanceolatum subsp. lanceolatum",
+        "role": "installed but range unresolved",
+        "life_cycle": "RHIZOMATOUS PERENNIAL",
+        "stem_and_leaves": "Tall moist-site with LONGER narrow lanceolate leaves, broad panicle",
+        "heads": "Many small white heads, but compare size and leaf series; uncertain infraspecific concept",
+        "phyllaries": "No claimed simple tip-only distinction from ericoides; voucher for nominate concept required",
+        "field_tip": "Tall willowleaf-like moist-site aster with leaf size differences; do not call subsp. lanceolatum on photo alone."
+      },
+      {
+        "taxon": "Symphyotrichum pilosum",
+        "role": "external look-alike COMPARISON ONLY",
+        "life_cycle": "PERENNIAL",
+        "stem_and_leaves": "Typically hairy and more variably broader leaves",
+        "heads": "Usually larger and more widely separated heads than ericoides; many exceptions",
+        "phyllaries": "NO true colorless apical spine: rolled/involute GREEN margins often look spiny; lower bract margins softly rather than stiffly ciliate",
+        "field_tip": "Separate true non-green/white bristle from curled green phyllary edge under magnification; NOT an approved 11th learner species."
+      }
+    ],
+    "top_photo_roles": [
+      {
+        "role": "S. ericoides phyllary spine ARROW reference",
+        "source": "Peter M. Dziuk / Minnesota Wildflowers",
+        "url": "https://www.minnesotawildflowers.info/udata/r9ndp23q/pd/symphyotrichum-ericoides-2931-3.jpg",
+        "rights": "copyrighted; source-link only",
+        "status": "actual arrowed diagnostic found"
+      },
+      {
+        "role": "S. ericoides dense small leaf branching",
+        "source": "Oklahoma State Extension",
+        "url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/images/heath-aster-small-narrow-leaves-attached-directly-to-branches-with-no-leaves-on-main-stem.jpg",
+        "rights": "source-link only",
+        "status": "clear leaf architecture"
+      },
+      {
+        "role": "S. ericoides relative to S. pilosum same-view botanical head comparison",
+        "source": "John C. Semple University of Waterloo",
+        "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides",
+        "rights": "copyrighted; source link only",
+        "status": "photo no. 7 explicitly labeled comparison"
+      },
+      {
+        "role": "S. ericoides Texas flowering face / foliage",
+        "source": "Annika Lindqvist / Wikimedia",
+        "url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+        "rights": "CC BY 4.0",
+        "status": "exact-species licensed context gallery"
+      }
+    ],
+    "remaining_targeted_photos": [
+      "Permissioned/CC-licensed macro at 10–20× of true clear apical spine tips from LOCAL variety S. ericoides var. ericoides for actual learner arrow overlays.",
+      "Matched locally appropriate S. pilosum phyllary folded green tip as comparison (taxonomic concept first).",
+      "Matched native-scope S. ericoides versus S. divaricatum upper branch leaf/habit photos with millimeter scale; existing habit photos are usable preliminary references.",
+      "Basal/rhizome photo of the accepted local S. ericoides variety; don't infer source roots from flowering-only images."
+    ],
+    "taxonomy_caveats": [
+      "Semple 2025 recognizes ericoides and pansum as two subspecies; project keeps accepted local var. ericoides concept and PASS without relabeling other population photos to local variety.",
+      "Some plants sold as 'Aster ericoides' in nurseries are European S. dumosum, S. pilosum, S. racemosum or hybrids, not S. ericoides; study field material by anatomy.",
+      "S. pilosum comparison is scientific context only; no source-pool accession, range certification or species card created.",
+      "White flower rays alone cannot distinguish any two in this group."
+    ],
+    "primary_sources": [
+      "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides",
+      "https://gobotany.nativeplanttrust.org/species/symphyotrichum/ericoides/",
+      "https://www.minnesotawildflowers.info/flower/heath-aster",
+      "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html"
+    ]
+  },
+  "scientific_correction_praealtum_lanceolatum_2026_10_12": {
+    "change": "Peduncle bract-count split disabled as a definitive diagnostic after reading FNA 2006 internal contradiction.",
+    "evidence": [
+      {
+        "authority": "Flora of North America GENUS key, couplet 84",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132022",
+        "record": "S. lanceolatum (in part) 5–12+; S. praealtum (in part) 1–3(–5)."
+      },
+      {
+        "authority": "Flora of North America S. lanceolatum species account",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067656",
+        "record": "S. lanceolatum peduncles 1–3(–5)."
+      },
+      {
+        "authority": "Flora of North America S. praealtum species account",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067674",
+        "record": "S. praealtum peduncles 5–12+."
+      },
+      {
+        "authority": "University of Waterloo / John Semple 2025",
+        "url": "https://uwaterloo.ca/astereae-lab/symphyotrichum-praealtum",
+        "record": "S. praealtum distinctive stiff progressively reduced waxy leaves and conspicuous regular isodiametric vein areoles."
+      },
+      {
+        "authority": "University of Waterloo / John Semple 2025 nominate variety",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-dumosi/symphyotrichum-lanceolatum/var-lanceolatum",
+        "record": "Photographs are truly S. lanceolatum var. lanceolatum (within subsp. lanceolatum); copyrighted J.C. Semple, source study only."
+      }
+    ],
+    "new_key": "Leaf upper wax and underside areoles first; margin tendency secondary; outer/inner phyllary ratio determines nominate subspecies after confirming species; bract count documented but not diagnostic."
+  },
+  "willowleaf_lanceolatum_photo_pass_2026_10_12": {
+    "status": "ACTUAL PHOTO SOURCES FOUND INCLUDING EXACT NOMINATE VARIETY; PRIVATE STUDY LINKS; LICENSED MATCHED MICROGRAPH STILL MISSING",
+    "confirmed_reference_sets": [
+      {
+        "species": "Symphyotrichum praealtum",
+        "source": "SRTurner / MissouriPlants",
+        "url": "https://www.missouriplants.com/Symphyotrichum_praealtum_page.html",
+        "photos": [
+          "leaf adaxial",
+          "leaf abaxial x2",
+          "flowering panicle",
+          "side-view involucre"
+        ],
+        "image_rights": "source-site copyrighted; do not install"
+      },
+      {
+        "species": "Symphyotrichum lanceolatum var. lanceolatum",
+        "source": "J.C. Semple University of Waterloo 2025",
+        "url": "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-dumosi/symphyotrichum-lanceolatum/var-lanceolatum",
+        "photos": [
+          "PEI plant",
+          "Waterloo inflorescence",
+          "Ontario shoot",
+          "Ontario heads"
+        ],
+        "image_rights": "copyrighted; study links only",
+        "taxonomic_note": "var. lanceolatum is within subsp. lanceolatum; confirmed at variety name per Semple, but not Texas/Hays voucher"
+      },
+      {
+        "species": "Symphyotrichum lanceolatum var. lanceolatum",
+        "source": "Friends of Eloise Butler",
+        "url": "https://friendsofeloisebutler.org/pages/plants/whitepanicleaster.html",
+        "photos": [
+          "upper stem",
+          "flower",
+          "leaf",
+          "bracts"
+        ],
+        "image_rights": "copyrighted; links only; verified MN variety"
+      },
+      {
+        "species": "Symphyotrichum lanceolatum var. latifolium",
+        "source": "SRTurner / MissouriPlants",
+        "url": "https://www.missouriplants.com/Symphyotrichum_lanceolatum_page.html",
+        "photos": [
+          "leaf adaxial",
+          "leaf abaxial",
+          "involucre"
+        ],
+        "image_rights": "copyrighted; comparison within species ONLY; NOT nominate variety"
+      }
+    ],
+    "key": "Check leaf areole geometry and upper-surface waxiness first; compare both faces and leaf margin at same scale, then outer-to-inner phyllary ratio to establish nominate infraspecific concept.",
+    "missing": [
+      "Licensed true matched leaf UNDERSIDE vein areoles at 10–20× for both taxa, exact subspecies verified where needed.",
+      "Licensed real same-scale waxy upper leaf and edge-curl comparison of both taxa.",
+      "Certified Texas/Hays voucher and truly matching licensed flowering photo for S. lanceolatum subsp. lanceolatum; full species-level photo may be misleading.",
+      "Stable bract count proof from specimen-based treatment resolving contradictory FNA genus key/species descriptions. Keep numeric count out of hard key."
+    ],
+    "scientific_risk": "Do NOT teach bract counts as hard diagnostic; FNA 2006 internal contradiction documented in scientific_correction_praealtum_lanceolatum_2026_10_12. Do NOT infer native range from Ontario, Missouri, Minnesota or PEI images."
+  },
+  "silky_aster_photo_polish_2026_10_12": {
+    "status": "ACTUAL_SILKY_LEAF_AND_PHYLLARY_CLOSEUPS_LICENSED_LINKED_AND_ARROWED_IN_GENUS; WOODY_ROOTSTOCK_FINAL_PASS",
+    "exact_licensed_study_photos": [
+      {
+        "photo_id": 10135056,
+        "role": "long appressed silvery hairs on leaf",
+        "source": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg",
+        "license": "CC BY-SA 4.0",
+        "photo_creator": "davecz2",
+        "observation_id": 7725172
+      },
+      {
+        "photo_id": 10135023,
+        "role": "silky hairs on closed bud phyllaries",
+        "source": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135023.jpg",
+        "license": "CC BY-SA 4.0",
+        "photo_creator": "davecz2",
+        "observation_id": 7725172
+      }
+    ],
+    "actual_annotation_roles": [
+      "Leaf hair strands at 68%,22% target in first new macro",
+      "Hairy green closed-bud outer phyllaries at 14%,20% target in second photo"
+    ],
+    "other_lookalike": "S. pratense = Texas look-alike comparison-only; less dense hairs and broader ovate phyllaries; do not create another installed species card without source-pool admission.",
+    "not_yet": [
+      "Actual local Texas sericeum and Texas pratense paired micrographs of hairs and phyllaries",
+      "Licensed photograph of cormoid rootstock (specialist copyrighted figure linked for study only)",
+      "Download of existing three Commons-referenced images into physical Github image folder; currently remote licensed gallery assets"
+    ],
+    "sources": [
+      "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-sericeum",
+      "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-pratense",
+      "https://www.minnesotawildflowers.info/flower/silky-aster"
+    ]
+  },
+  "annual_saltmarsh_aster_final_pass_2026_10_12": {
+    "state": "FIRST-PASS COMPARISON COMPLETE; FINAL_MATCHED_DIAGNOSTIC_PHOTOS_OUTSTANDING",
+    "named_taxa": [
+      "Symphyotrichum divaricatum",
+      "Symphyotrichum subulatum"
+    ],
+    "field_identification": {
+      "divaricatum": "Annual/short-lived inland saltmarsh-aster-complex weed, extremely open diffuse branching with conspicuous head spacing; nearly hairless slender stems and narrow sessile leaves.",
+      "subulatum": "Under modern Texas concept, mostly SE-coastal/saline annual, heads gathered more closely together especially toward top of pyramidal array; the pattern is comparative, not exclusive."
+    },
+    "phyllary_hold": "Texan botanist's comparison reports a longitudinal green area across much of S. divaricatum phyllary vs concentrated distally in S. subulatum; not reliably visualized across many photos, and hardened phyllary base terminology remains unclear. Never mark an arrow without microscopic evidence.",
+    "taxonomic_aliases": {
+      "Symphyotrichum subulatum var. ligulatum": "Symphyotrichum divaricatum",
+      "Symphyotrichum subulatum var. parviflorum": "Symphyotrichum expansum, comparison only",
+      "Symphyotrichum subulatum var. subulatum": "Symphyotrichum subulatum in current project concept"
+    },
+    "major_photo_correction": "Current canonical S. subulatum in a narrow Texas sense must not be illustrated with older Gaiacoyote 2014 Uvalde photograph solely because labeled subulatum. Photo physically retained but species gallery quarantined; remote Agathman Missouri head reference is provisional and shows no panicle.",
+    "scientific_range": "S. subulatum remains FAIL target-zone comparison; S. divaricatum native-range evidence remains separately deferred; no taxon/range status was upgraded.",
+    "proof_needed": [
+      "An authenticated true-subulatum Gulf Coast Texas mature UNMOWED inflorescence with closer-spaced upper heads, source/license checked.",
+      "A same-angle, same-scale verified S. divaricatum whole flowering panicle with large gaps, ideally Hays/Travis.",
+      "Side-view mature involucres of both showing phyllary green zone and base under 10–20×, with scale; no unsupported hardened-base rule.",
+      "Resolve exact identity of the old Uvalde photograph or leave it excluded; no duplicate species creation."
+    ],
+    "sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html",
+      "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas"
+    ]
+  },
+  "genus_wrap_up_2026_10_12": {
+    "stage": "READY_FOR_PRELIMINARY_FIELD_LEARNING_NOT_FINAL_PHOTO_CERTIFICATION",
+    "canonical_installed_species": 10,
+    "genus_comparison_groups_completed": [
+      "oblongifolium-vs-patens",
+      "drummondii-vs-eulae",
+      "ericoides-vs-tiny-white-asters",
+      "praealtum-vs-lanceolatum-subsp-lanceolatum",
+      "sericeum-vs-pratense-compare-only",
+      "divaricatum-vs-subulatum"
+    ],
+    "photos_are_provisional": "Existing species-level faces/galleries vary; licensed remote links are NOT downloaded physical binaries; fine structures require later matched photos/verified arrows.",
+    "risk_holds": [
+      "S. subulatum original Uvalde photograph excluded due to species-concept conflict; true current-species habit macro still needed.",
+      "S. lanceolatum subsp. lanceolatum exact nominate-subspecies photo not installed; range UNRESOLVED.",
+      "FNA bract-count disagreement praealtum vs lanceolatum cannot be used as a hard key.",
+      "Eulae/drummondii peduncle hairs and leaf-base pair not matched in licensed macros.",
+      "Patens vs oblongifolium matched upper leaf clasping macro pending; gland presence occurs on BOTH.",
+      "Heath spinulose phyllary arrow source copyrighted/link only.",
+      "Sericeum silver hair and bud macros linked and arrowed, but rootstock and Texas pratense pair pending."
+    ],
+    "next_genus_recommendation": "Bidens — separately confirmed as existing in canonical manifest; new work may begin without treating Symphyotrichum final polish as a block."
+  }
+}

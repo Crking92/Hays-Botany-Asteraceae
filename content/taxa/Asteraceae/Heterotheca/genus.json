@@ -1,0 +1,49 @@
+{
+  "rank": "genus",
+  "name": "Heterotheca",
+  "family": "Asteraceae",
+  "common_group": "goldenasters / camphorweeds",
+  "project_scope": {
+    "canonical_species_count": 1,
+    "focus": "Heterotheca subaxillaris",
+    "learner_admission": "Heterotheca subaxillaris approved in Master Plant Pool row 552 and canonical",
+    "range": "Texas-native state-level, target-zone three-county certification unresolved"
+  },
+  "look_here_first": "Alternate leaves; often clasping upper leaves; spreading hairs and stalked glands on the stems and phyllaries; yellow ray and disk florets. Camphor odor is supportive, not diagnostic alone.",
+  "naming_caution": "Heterotheca latifolia is treated by FNA as H. subaxillaris subsp. latifolia, not an independent canonical species. Pluchea camphorata is a separate camphorweed with non-yellow heads.",
+  "diagnostic_photo_plan": [
+    "Branching plant with leaves",
+    "Close-up of upper leaf base and margins",
+    "Macro of stem hairs and glands",
+    "Side view of involucral phyllaries",
+    "Ray and disk fruit comparison for final polish",
+    "Study photo references: UT Austin BIO406D underside phyllaries, stem hairs and fruit; Texas Wildbuds Travis/Bastrop/Williamson examples. Verify photo reuse rights before installing."
+  ],
+  "photographic_sources": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris_01.jpg",
+      "creator": "RickP",
+      "license": "CC BY 2.5",
+      "region": "Israel, nonlocal",
+      "role": "flower recognition"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris002.jpg",
+      "creator": "MathKnight",
+      "license": "CC BY-SA 4.0",
+      "region": "Israel, nonlocal",
+      "role": "habit recognition"
+    }
+  ],
+  "scientific_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416651",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:121478-2",
+    "https://uwaterloo.ca/astereae-lab/research/goldenasters/heterotheca/heterotheca-sect-heterotheca/heterotheca-subaxillaris"
+  ],
+  "curation_status": {
+    "stage": "species installed; photo enrichment in progress",
+    "species_installed": 1,
+    "images_installed": 2,
+    "updated": "2026-10-13"
+  }
+}

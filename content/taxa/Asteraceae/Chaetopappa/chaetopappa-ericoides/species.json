@@ -1,0 +1,100 @@
+{
+  "id": "chaetopappa-ericoides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "species": "ericoides",
+  "scientific_name": "Chaetopappa ericoides",
+  "authority": "(Torr.) G.L.Nesom",
+  "common_name": "Rose heath / heath leastdaisy",
+  "look_here_first": "Look along the stem first: tiny narrow, densely overlapping, leathery leaves, with a raised midrib and paired longitudinal grooves on the upper face. Confirm the woody/perennial base and, at fruiting, a single series of roughly 24–26 white barbellate pappus bristles; unlike the tiny pappus rings of C. effusa and C. bellidifolia.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 239,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Master Pool personal source, accepted identity reviewed 2026-10-10; Texas state-native per POWO but county native threshold unresolved."
+  },
+  "morphology_keys": {
+    "habit": "Low woody-based or rhizomatous perennial with branched hairy, sometimes glandular stems; usually a small clump.",
+    "leaves": "Alternate, densely overlapping, narrow and firm, commonly 2–10 mm long; upper surface with strongly raised midnerve and paired longitudinal grooves (FNA key).",
+    "heads": "Small solitary terminal radiate heads with white to pinkish rays, yellow disk florets and often reddish-tipped phyllaries; ray color changes and is not diagnostic.",
+    "fruits": "Cypselae carry one series of usually 24–26 (occasionally 20–30) white barbellate pappus bristles (FNA key).",
+    "best_field_traits": [
+      "Examine rootstock and annual/perennial habit",
+      "Examine basal and stem leaves including overlap and blade bases",
+      "Examine mature cypsela pappus with magnification"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Chaetopappa bellidifolia",
+      "Chaetopappa effusa",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "key_distinctions": "C. effusa has broad flat non-overlapping lower leaves and a minute pappus ring; C. bellidifolia is a taprooted annual with flat leaves and a tiny ring. C. hersheyi also has overlapping leathery leaves but much shorter stems and a two-series pappus with only about five long inner bristles plus outer scales.",
+    "cautions": "Leaf crowding is most useful with pappus confirmation; a flowering photograph cannot prove pappus number. Color and size alone are insufficient."
+  },
+  "diagnostic_image_needs": [
+    "Entire flowering clump and stem with overlapping leaves",
+    "Macro of leathery leaf with raised midrib and adaxial grooves",
+    "Mature fruit with counted ~24–26 bristles",
+    "Terminal head and phyllaries in side view"
+  ],
+  "images": [
+    {
+      "file": "images/chaetopappa-ericoides-stan-shebs-heads.jpg",
+      "role": "Flowering heads and overlapping foliage",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chaetopappa_ericoides_4.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6178402923-60711c10e.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Overlapping tiny narrow leaves with longitudinal grooves, flower-head phyllaries",
+      "creator": "Daniel McNair",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6178402923",
+      "gbif_occurrence_id": "6178402923",
+      "source_determination": "Chaetopappa ericoides (Torr.) G.L.Nesom",
+      "accepted_target": "Chaetopappa ericoides",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621915137/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

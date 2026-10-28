@@ -1,0 +1,37 @@
+{
+  "id": "lactuca-ludoviciana",
+  "family": "Asteraceae",
+  "genus": "Lactuca",
+  "species": "ludoviciana",
+  "scientific_name": "Lactuca ludoviciana",
+  "common_name": "Western wild lettuce",
+  "look_here_first": "Look for leafy, erect wild lettuce with milky latex and branching heads of strap-shaped florets; check leaf shape, basal clasping lobes and fruits.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Lactuca%20ludoviciana",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photo on Galveston Island, Texas, licensed CC0 by iNaturalist observer; original photo ID 189614410.",
+  "images": [
+    {
+      "file": "images/commons-lactuca-ludoviciana-david-peden.jpg",
+      "role": "Provisional photo of western wild lettuce leaf detail; flowers and mature pappus fruits not shown.",
+      "creator": "David Peden (wafflemaster135)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_ludoviciana_04.jpg",
+      "study_use": "Noncommercial botanical visual learner",
+      "public_reuse": "Public domain/CC0; creator acknowledged"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

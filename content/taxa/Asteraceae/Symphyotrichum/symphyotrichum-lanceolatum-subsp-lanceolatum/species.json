@@ -1,0 +1,183 @@
+{
+  "id": "symphyotrichum-lanceolatum-subsp-lanceolatum",
+  "entry_type": "subspecies",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "lanceolatum",
+  "subspecies": "lanceolatum",
+  "scientific_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
+  "common_name": "White panicle aster",
+  "synonyms": [],
+  "taxonomic_note": "World Flora Online accepts the nominate subspecies and includes Texas in its native range. Species-level and other-infraspecific records are not transferred automatically.",
+  "look_here_first": "FIRST inspect a mid-stem leaf's two surfaces and edge: S. lanceolatum generally has pliable, nonwaxy, comparatively flat leaves with diffuse or elongated lower-surface vein AREOLES, unlike S. praealtum with firmer waxy upper faces and conspicuous small isodiametric lower areoles. For subsp. lanceolatum verify outer phyllaries ~1/3–2/3 inner (not the mostly 2/3+ of subsp. hesperium) and no big leafy bract directly subtending the head. Do NOT use peduncle bract counts for a hard split; the FNA genus key conflicts with its species treatments.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Hays and Travis are locked under the nominate concept. Williamson evidence in the review is var. hesperium and is not counted toward subsp. lanceolatum.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "tall rhizomatous perennial",
+      "moist-ground habitat",
+      "narrow lanceolate leaves",
+      "many small white-rayed heads",
+      "broad paniculate inflorescence"
+    ],
+    "comparison_training": "Use growth form, leaf shape, panicle architecture, and infraspecific characters together; species-level white aster appearance is not enough for subspecies assignment."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum praealtum",
+      "Symphyotrichum lanceolatum subsp. hesperium"
+    ],
+    "key_distinctions": "S. praealtum shows firm, waxy often rolled-margin leaves and clear small regular vein areoles below; S. lanceolatum generally pliable nonwaxy flat leaves and faint/elongate areoles. FNA GENUS key says praealtum 1–3 vs lanceolatum 5–12+ bracts, but FNA SPECIES descriptions say reverse; don't teach bract count as exclusive. Nominate subspecies needs outer/inner phyllary ratio confirmation and provenance (hesperium has long outer phyllaries and leafy head bracts)."
+  },
+  "tags": [
+    "Asteraceae",
+    "Symphyotrichum",
+    "White panicle aster",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "genus-2.1",
+    "scientific_range_status_preserved": true,
+    "scientific_bract_key_disagreement_noted": true,
+    "range_status_unchanged": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_first_photo_install": "2026-10-15",
+    "manual_library_install_013": "2026-10-16"
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Exact nominated subspecies flowering/head image verified by infraspecific photo or voucher",
+      "priority": "must-have",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Side-view involucre outer:inner phyllary length ratio with mm ruler",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Count peduncle leafy bracts (usually 1–3) on exact plant",
+      "priority": "supporting / scientific hold",
+      "status": "FNA references conflict: keep as documented observational character, not stand-alone diagnostic; await specimen-scoped revision"
+    },
+    {
+      "role": "Upper and lower leaf surfaces showing non-waxy and less prominent vein areoles",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    },
+    {
+      "role": "Herbarium voucher for infraspecific identity",
+      "priority": "supporting",
+      "status": "needed unless current image clearly and independently resolves trait"
+    }
+  ],
+  "photo_note": "Exact diagnostic imagery and infraspecific comparison remain later enrichment. Exact source determination GBIF-linked image provisionally installed with image-level license; visual ID requires review. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "diagnostic_photo_polish_2026_10_12": {
+    "status": "RESEARCH-SOURCE LINKED; PHOTOGRAPHIC MACRO FINAL PASS PENDING",
+    "lookalike": "S. praealtum",
+    "highest_value": "Paired underside AREOLE pattern and upper waxiness with side-by-side botanical-voucher-verified exact taxa, hand lens and scale.",
+    "ranked_image_roles": [
+      "underside leaf 10–20× showing named areoles (small isodiametric vs indistinct/elongate)",
+      "waxy upper face and rolled/flat margin under same lighting",
+      "outer vs inner phyllary length measured with scale",
+      "same-plant floral peduncle bract count, for OBSERVATION only (not definitive)"
+    ],
+    "source_links": [
+      "https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-dumosi/symphyotrichum-lanceolatum/var-lanceolatum",
+      "https://friendsofeloisebutler.org/pages/plants/whitepanicleaster.html",
+      "https://www.missouriplants.com/images/Symphyotrichum_lanceolatum_leaf2.jpg"
+    ],
+    "photo_reuse": "MissouriPlants © SRTurner, Waterloo © J.C. Semple, Friends of Eloise Butler © G.D. Bebeau: study LINKS ONLY. Reuven Martin praealtum Commons image CC0 already physically installed; exact variety lanceolatum lab photographs copyright / only links.",
+    "taxon_guardrail": "Do not upgrade project range status or infraspecific approval from non-Texas photographs.",
+    "FNA_conflict_sources": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132022",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067656",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067674"
+    ]
+  },
+  "images": [
+    {
+      "file": "images/gbif-first-5292597146-17ffbf1f72.jpg",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "creator": "Photolith",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF mediated record; credit original dataset, specimen and creator",
+      "source_page": "https://www.gbif.org/occurrence/5292597146",
+      "gbif_occurrence_id": "5292597146",
+      "source_determination": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "accepted_target": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550161490/original.jpg",
+      "source_dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "study_use": "Yes; rights-specific conditions on original image",
+      "public_reuse": "Respect photo license; CC BY-NC images are noncommercial only",
+      "photo_review": "Source-reported taxon and image license verified; morphological identification and teaching view need independent visual review",
+      "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "file": "images/library-review013-a4c57abb1db4590.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Flowering branch and foliage/habit context; phyllaries still not clear",
+      "creator": "Laura Clark",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5889548597",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585852540/original.jpg",
+      "source_determination": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "source_observation_id": "5889548597",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/symphyotrichum-lanceolatum-subsp-lanceolatum/gbif-47aefe99b76891.jpg",
+      "archive_image_sha256": "becb6144a806fc7dba5ed634a2ad16c30f5a5887346ec3cacea15cd62f60aa07",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Specimen/observation source first photo installed provisionally with an individually verified license. Botanical diagnostic morphology pending.",
+    "missing_diagnostic_views": [
+      "Confirm diagnostic vegetative and reproductive characters"
+    ]
+  }
+}

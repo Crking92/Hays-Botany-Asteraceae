@@ -1,0 +1,20 @@
+PHOTO FAST-FILL 045 — Symphyotrichum eulae
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact-species field photo on Wikimedia Commons.
+Source page: https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae,_Bastrop_County,_TX,_USA_imported_from_iNaturalist_photo_455429342.jpg
+Original iNaturalist photo: https://www.inaturalist.org/photos/455429342
+Creator: Michelle W. （鍾偉瑋） / pufferchung
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0/
+Direct image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Symphyotrichum_eulae%2C_Bastrop_County%2C_TX%2C_USA_imported_from_iNaturalist_photo_455429342.jpg/960px-Symphyotrichum_eulae%2C_Bastrop_County%2C_TX%2C_USA_imported_from_iNaturalist_photo_455429342.jpg
+Study use: yes
+Public reuse: CC BY 4.0 attribution required
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Symphyotrichum eulae (Shinners) G.L.Nesom
+https://www.gbif.org/occurrence/5282484200
+ashleyrsteel | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Glabrous peduncles and branching angle; phyllaries and leaf teeth close-up
+No anatomy arrows; no scientific or native-range changes.

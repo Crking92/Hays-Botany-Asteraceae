@@ -1,0 +1,19 @@
+Thelesperma filifolium — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:255463-1
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417350
+https://w3.biosci.utexas.edu/prc/HaysFlora/pages/THFI.html
+
+PROJECT TRACKER DIAGNOSTIC
+Annual with leaves dissected into very narrow threadlike segments; heads usually have 8 yellow rays and red-brown to yellow discs; common in disturbed limestone and roadside settings.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH3-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

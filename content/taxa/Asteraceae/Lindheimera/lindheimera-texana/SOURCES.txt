@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/267065858
+Photo: https://www.inaturalist.org/photos/479895057
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Lindheimera texana A.Gray
+https://www.gbif.org/occurrence/6130583526
+Vince Hale | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Bracts/phyllaries and dissectible head from side, leaves and fruits
+No anatomy arrows; no scientific or native-range changes.

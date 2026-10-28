@@ -1,0 +1,46 @@
+MARSHALLIA CAESPITOSA NUTT. EX DC. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Workflow: Joey-video downstream batch
+
+## Taxonomy
+Kew Plants of the World Online — accepted Marshallia caespitosa; two accepted varieties:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A231761-1
+Kew — var. signata accepted:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A153639-2
+
+## Strict target-zone range
+Hays — Purola Preserve natural flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Williamson — UT PRC Marshallia caespitosa var. signata treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Marshallia%20caespitosa%20signata
+Kerr — Kerr WMA flora, var. signata:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Hays, Williamson, Kerr.
+
+## Joey study media
+Y7A530PjEbU-04 — developing capitula / source label.
+Study rights only; public reuse not assumed.
+
+## Guardrail
+Do not infer var. signata from the Joey frame alone.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 005
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Y7A530PjEbU
+marshallia-caespitosa_inflor-buds-source-label_00-50.jpg @ 00:50
+Source-labeled Marshallia caespitosa showing developing button-like composite heads on slender stems. Useful pre-bloom context; add open-head and leaf views for a full ID.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:56:07.889464+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/369358333
+https://www.inaturalist.org/observations/208743731
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:04:14.261994+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/503398202
+https://www.inaturalist.org/observations/280293288
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

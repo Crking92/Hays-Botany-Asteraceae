@@ -1,0 +1,36 @@
+{
+  "id": "ericameria-nauseosa",
+  "family": "Asteraceae",
+  "genus": "Ericameria",
+  "species": "nauseosa",
+  "scientific_name": "Ericameria nauseosa",
+  "common_name": "Rubber rabbitbrush",
+  "look_here_first": "Look for woody shrub with narrow grayish foliage and clustered golden composite heads; inspect branching sprays of flower heads and phyllaries.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Ericameria%20nauseosa",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/commons-ericameria-nauseosa.jpg",
+      "role": "Provisional flowering habit showing shrub branches and yellow composite flower heads; phyllaries not resolved.",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ericameria_nauseosa_1.jpg",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "Attribution and ShareAlike required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

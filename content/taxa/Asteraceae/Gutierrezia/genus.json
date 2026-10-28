@@ -1,0 +1,352 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Gutierrezia",
+  "authority": "Lag.",
+  "common_group": "Snakeweeds",
+  "project_scope": {
+    "species_ids": [
+      "gutierrezia-texana"
+    ],
+    "species_count": 1,
+    "approved_source_pool_taxa": [
+      "Gutierrezia texana"
+    ],
+    "reference_only_taxa": [
+      "Gutierrezia sarothrae",
+      "Gutierrezia microcephala",
+      "Gutierrezia texana var. glutinosa"
+    ],
+    "existing_canonical_lookalikes": [
+      "amphiachyris-amoena",
+      "amphiachyris-dracunculoides"
+    ],
+    "native_range_status": "Gutierrezia texana target county certification unresolved"
+  },
+  "look_here_first": "An annual open branching snakeweed might be G. texana, but A. amoena is almost identical at a glance. Turn the flower head sideways: look at individual phyllary NERVE borders, then compare the DISC floret's tiny pappus scales.",
+  "shared_genus_recognition": {
+    "shared_traits": [
+      "Small composite flower heads with ray and disc florets",
+      "Narrow alternate leaves, resinous stems",
+      "Annual species and woody perennial subshrubs exist: avoid one silhouette for the whole genus"
+    ]
+  },
+  "quick_key": [
+    {
+      "if": "Annual, open panicle; phyllary backs may show green nerve margins; tiny or absent disc pappus",
+      "then": "Gutierrezia texana; confirm with microstructures"
+    },
+    {
+      "if": "Annual, open panicle with whiter uniform phyllary faces and visibly longer disc pappus",
+      "then": "Amphiachyris amoena; key local lookalike"
+    },
+    {
+      "if": "Annual, rounded flat-topped densely crowded flowering heads and longer disc pappus",
+      "then": "Amphiachyris dracunculoides; confirm"
+    },
+    {
+      "if": "Woody subshrub with dense terminal clusters each having about 3–8 rays",
+      "then": "Gutierrezia sarothrae, reference only"
+    },
+    {
+      "if": "Woody subshrub, extremely tiny clusters of heads with only 1(–2) ray and disc floret",
+      "then": "Gutierrezia microcephala, reference only"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Life history",
+      "texana": "Annual",
+      "amphiachyris_amoena": "Annual",
+      "amphiachyris_dracunculoides": "Annual",
+      "sarothrae": "Woody perennial",
+      "microcephala": "Woody perennial"
+    },
+    {
+      "character": "Head arrangement",
+      "texana": "Open paniculiform, varying heights",
+      "amphiachyris_amoena": "Open paniculiform",
+      "amphiachyris_dracunculoides": "Crowded corymbiform",
+      "sarothrae": "Dense flat-topped arrays",
+      "microcephala": "Dense tiny clustered heads"
+    },
+    {
+      "character": "Phyllary back",
+      "texana": "Thin green nerve margin sometimes visible",
+      "amphiachyris_amoena": "Without green nerve border",
+      "amphiachyris_dracunculoides": "Without green nerve border",
+      "sarothrae": "Needs FNA species treatment",
+      "microcephala": "Needs FNA species treatment"
+    },
+    {
+      "character": "DISC pappus scales",
+      "texana": "Minute/near-absent, var. texana often <0.1 mm",
+      "amphiachyris_amoena": "Conspicuously longer",
+      "amphiachyris_dracunculoides": "Conspicuously longer",
+      "sarothrae": "Short evident scales",
+      "microcephala": "Small scales"
+    },
+    {
+      "character": "Rays per head",
+      "texana": "FNA species 5–23; central Texas var. texana often 6–8",
+      "amphiachyris_amoena": "Yellow radiate heads",
+      "amphiachyris_dracunculoides": "Yellow radiate heads",
+      "sarothrae": "Mostly 3–8",
+      "microcephala": "Usually 1, sometimes 2"
+    }
+  ],
+  "lookalike_cautions": [
+    "Most important Central Texas double is G. texana versus Amphiachyris amoena. Neither branching nor yellow color alone works.",
+    "Amphiachyris dracunculoides has RADIATE heads. The stale discoid species wording was already corrected in its canonical card.",
+    "Do not treat unverified external snakeweed references as approved learner species.",
+    "Green phyllary nerve is frequently inconspicuous even in G. texana; use pappus/other traits too."
+  ],
+  "visual_comparison": {
+    "title": "Snakeweed look-alikes: flower clusters, phyllaries, and DISC pappus",
+    "subtitle": "Side-by-side 2 exact Texas snakeweed photos and two existing Amphiachyris species photos. Remember: flowering silhouette may overlap; phyllary nerves and DISC pappus need separate macro.",
+    "items": [
+      {
+        "label": "TEXAS SNAKEWEED · OPEN FLOWERING CANOPY",
+        "scientific_name": "Gutierrezia texana",
+        "image_url": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/01-uvalde-flowering-canopy.jpg",
+        "image_fit": "contain",
+        "image_role": "Uvalde County Texas snakeweed flowering branches and radiate heads at many levels; open annual architecture",
+        "caption": "Original 2012 Uvalde County plant. Look at flowering heads on different levels of fine stems; this alone does not distinguish it from Amphiachyris amoena.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — original photographer Jim Conrad",
+        "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+        "markers": [
+          {
+            "label": "yellow radiate head",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 30,
+            "target_y": 24
+          },
+          {
+            "label": "thin green stem",
+            "label_x": 70,
+            "label_y": 79,
+            "target_x": 53,
+            "target_y": 57
+          }
+        ],
+        "annotation_status": "Large visible target arrows only; final mobile QA pending"
+      },
+      {
+        "label": "RAY VERSUS DISC FLORETS",
+        "scientific_name": "Gutierrezia texana",
+        "image_url": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/images/02-uvalde-composite-head.jpg",
+        "image_fit": "contain",
+        "image_role": "Texas snakeweed close radiate composite head: strap-shaped yellow ray florets and central disc florets, exact Uvalde specimen",
+        "caption": "One composite head: long-looking yellow rays surround the much smaller central disc florets. Do not use this photo to claim pappus or phyllary nerve anatomy.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — original photographer Jim Conrad",
+        "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+        "markers": [
+          {
+            "label": "yellow ray floret",
+            "label_x": 92,
+            "label_y": 40,
+            "target_x": 80,
+            "target_y": 52
+          },
+          {
+            "label": "central disc florets",
+            "label_x": 6,
+            "label_y": 12,
+            "target_x": 50,
+            "target_y": 55
+          }
+        ],
+        "annotation_status": "Large visible florets only; tiny pappus not labeled"
+      },
+      {
+        "label": "LOOK-ALIKE · TEXAS BROOMWEED",
+        "scientific_name": "Amphiachyris amoena",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165635431/original.jpeg",
+        "image_fit": "contain",
+        "image_role": "Existing exact-species Ellen Hildebrandt iNaturalist close flowering leafy twig, open branching and long narrow leaves",
+        "caption": "This is Amphiachyris amoena, not Texas snakeweed. Compare the small ray+disc flower heads and fine linear leaves; visually very similar. The phyllary backs and DISC-floret pappus need a tighter macro for confident separation.",
+        "creator": "Ellen Hildebrandt",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/158299-Amphiachyris-amoena",
+        "markers": [
+          {
+            "label": "yellow radiate head",
+            "label_x": 7,
+            "label_y": 16,
+            "target_x": 28,
+            "target_y": 51
+          },
+          {
+            "label": "linear leaf",
+            "label_x": 78,
+            "label_y": 65,
+            "target_x": 59,
+            "target_y": 67
+          }
+        ],
+        "annotation_status": "Manual macro visible coarse targets only; no microscopic structure inferred; rights CC BY-NC, private-study display with credit"
+      },
+      {
+        "label": "LOOK-ALIKE · PRAIRIE BROOMWEED",
+        "scientific_name": "Amphiachyris dracunculoides",
+        "image_url": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-dracunculoides/images/01-curated-reference.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact-species existing prairie broomweed flowering cluster and buds, unmodified image",
+        "caption": "Amphiachyris dracunculoides often builds a rounded terminal crown with crowded yellow heads. Don't confuse the tight flower arrangement with the more open G. texana / A. amoena patterns. This image is unmodified, not annotated, because its license prohibits derivatives.",
+        "creator": "(c) Debra Halter, some rights reserved (CC BY-NC-ND), uploaded by Debra Halter",
+        "license": "cc-by-nc-nd",
+        "source_page": "https://www.inaturalist.org/taxa/135204",
+        "markers": [],
+        "annotation_status": "Existing unmodified image reused as source reference; CC BY-NC-ND prohibits new annotation overlays; final fine comparison needs permissively licensed macro"
+      }
+    ]
+  },
+  "diagnostic_photo_checklist": [
+    "Match G. texana and A. amoena phyllary backs in equal magnification",
+    "Match both genera DISC pappus scales with real mm ruler (avoid RAY pappus)",
+    "Show A. dracunculoides crowded heads vs A. amoena open arrays",
+    "Show woody perennial base of G. sarothrae versus annual G. texana",
+    "Photograph 1–2-ray head of G. microcephala"
+  ],
+  "existing_media_anchors": [
+    {
+      "species_id": "amphiachyris-amoena",
+      "source": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-amoena/species.json"
+    },
+    {
+      "species_id": "amphiachyris-dracunculoides",
+      "source": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-dracunculoides/species.json"
+    }
+  ],
+  "scientific_sources": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114211",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416610",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066825",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066828",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Gutierrezia%20texana%20texana.html",
+    "https://www.inaturalist.org/journal/rymcdaniel/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+    "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas"
+  ],
+  "curation_status": {
+    "version": "1.2-phyllary-pappus-photo-source-recovery",
+    "last_reviewed": "2026-10-12",
+    "status": "one_approved_Gutierrezia_species_plus_two_installed_Amphiachyris_lookalikes",
+    "visual_status": "Four photos: two Gutierrezia texana Uvalde public-domain + existing Amphiachyris amoena / A. dracunculoides; fine microstructure comparisons incomplete",
+    "photo_panels": 4,
+    "photo_arrows": 6,
+    "cross_genus_existing_media_reused": true,
+    "external_reference_photo_count": 7,
+    "external_reference_photos_installed": 0,
+    "remaining_lesson_gap": "photo license checks and correctly overlaid same-magnification phyllary / disc-pappus photographs"
+  },
+  "exact_external_diagnostic_study_photos": {
+    "status": "7 exact matched structural reference URLs found; original files NOT downloaded/installed; rights verification required before learner gallery use",
+    "reference_page": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+    "photographer": "Ryan McDaniel",
+    "photos": [
+      {
+        "photo_id": "55859654",
+        "taxon": "Gutierrezia texana",
+        "structure": "phyllary_underside",
+        "role": "Side view showing green line along phyllary nerve; study for variable borders",
+        "image_url": "https://static.inaturalist.org/photos/55859654/large.jpeg",
+        "license_status": "UNVERIFIED; ©2019 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "11319346",
+        "taxon": "Amphiachyris amoena",
+        "structure": "phyllary_underside",
+        "role": "Matching side view of broad whitish phyllary faces lacking green-lined midnerves",
+        "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11319346/large.jpeg",
+        "license_status": "EXACT CC LICENSE NOT VERIFIED; S3 location does not alone establish terms; do not ingest until checked",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "57432987",
+        "taxon": "Amphiachyris dracunculoides",
+        "structure": "phyllary_underside",
+        "role": "Side view flowering head, white broadly exposed involucral faces",
+        "image_url": "https://static.inaturalist.org/photos/57432987/large.jpeg",
+        "license_status": "UNVERIFIED; ©2019 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "11543113",
+        "taxon": "Amphiachyris sp. (species attribution not separately verified)",
+        "structure": "disc_floret_pappus",
+        "role": "A separated disc flower visibly surrounded by several long, narrow pale pappus scales; genus-level only until source photo taxon checked",
+        "image_url": "https://static.inaturalist.org/photos/11543113/large.jpeg",
+        "license_status": "UNVERIFIED; ©2017 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "53439762",
+        "taxon": "Gutierrezia texana",
+        "structure": "fruit_pappus",
+        "role": "Maturing cypselae with short whitish pappus crowns, side view",
+        "image_url": "https://static.inaturalist.org/photos/53439762/large.jpeg",
+        "license_status": "UNVERIFIED; ©2019 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "53439779",
+        "taxon": "Gutierrezia texana",
+        "structure": "fruit_pappus",
+        "role": "Overhead fruit macro shows short white pappus crowns in dried blackish cypselae; strongly useful comparison",
+        "image_url": "https://static.inaturalist.org/photos/53439779/large.jpeg",
+        "license_status": "UNVERIFIED; ©2019 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      },
+      {
+        "photo_id": "56437268",
+        "taxon": "Gutierrezia texana",
+        "structure": "disc_floret_style_branches",
+        "role": "Exposed long-looping yellow DISC style branches; secondary support depending on flowering stage",
+        "image_url": "https://static.inaturalist.org/photos/56437268/large.jpeg",
+        "license_status": "UNVERIFIED; ©2019 Ryan McDaniel watermark; do not ingest",
+        "creator": "Ryan McDaniel",
+        "guide_source": "https://www.inaturalist.org/posts/28366-differentiation-of-gutierrezia-texana-and-amphiachyris-species-in-north-central-texas",
+        "usage": "external-study-link-only; image is NOT imported, redistributable, or licensed for overlays until verified"
+      }
+    ],
+    "critical_photos": [
+      "55859654 vs 11319346 phyllary side views",
+      "11543113 long Amphiachyris disc-floret pappus vs 53439762 and 53439779 short G. texana cypsela pappus"
+    ],
+    "photo_reuse_rule": "Links are for externally viewing originals. Each individual photo must have exact license confirmed on iNaturalist (or photographer permission) before copying, resizing or adding annotation overlays. Watermarked/static-hosted images should not be copied on assumption of permission."
+  },
+  "comparison_microlesson": {
+    "title": "Snakeweed or broomweed? Flip the tiny flower head.",
+    "steps": [
+      "1. Use whole plant habit just to shortlist: G. texana and A. amoena both have loose flowering arrays; A. dracunculoides often crowded.",
+      "2. Examine the underside of one flowering head: phyllaries are individual overlapping bracts below the yellow rays. Photograph the BACK not only front.",
+      "3. Look for thin green midnerve borders. G. texana MAY have a stripe or just dark green tips; A. amoena generally has uniformly pale whitish phyllary surfaces. Absence of stripe cannot conclusively rule out Gutierrezia.",
+      "4. For a stronger test, isolate one DISC floret from the center, NOT a marginal ray. Amphiachyris disc has a few long whitish narrowly spatulate pappus scales, often near the corolla length; Gutierrezia texana has a very short or nearly absent pappus.",
+      "5. If mature fruits remain, photograph G. texana short whitish crowns and contrast them against a separated Amphiachyris disc flower. Fruit photos cannot substitute for matched disc-floret photo in a measured dataset."
+    ],
+    "term_pronunciation": {
+      "phyllary": "FIL-uh-ree — one green bract under an Asteraceae flower head",
+      "pappus": "PAP-us — hairs/scales/crown at the top of the cypsela or surrounding floret base",
+      "disc_floret": "DISK FLOR-et — tiny central flower, not a yellow ray",
+      "cypsela": "SIP-suh-luh — one-seeded dry fruit of a composite"
+    },
+    "field_photo_instructions": "Use macro or 10× lens, support stem, take front, side, back, mature fruit and whole branching shoot; include a real 1-mm ruler if possible. Avoid arrows that land in blank background or on ray florets when the term is a disc pappus.",
+    "status": "source-photo-find-completed; exact permission and visual overlay QA outstanding"
+  }
+}

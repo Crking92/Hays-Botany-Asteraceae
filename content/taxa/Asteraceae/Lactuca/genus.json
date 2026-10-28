@@ -1,0 +1,376 @@
+{
+  "rank": "genus",
+  "name": "Lactuca",
+  "family": "Asteraceae",
+  "common_group": "Wild lettuces / prickly lettuce",
+  "project_scope": {
+    "lane": "genus-lesson-comparison-builder",
+    "source": "Live Master Plant Pool rows 612–613 and existing Asteraceae family lesson",
+    "included_source_pool_taxa": [
+      "Lactuca ludoviciana",
+      "Lactuca serriola"
+    ],
+    "canonical_species_count_at_build": 2,
+    "admission_note": "Both Master Plant Pool taxa are now canonical in the current manifest: L. ludoviciana has one provisional CC0 leaf-detail photo and L. serriola has two installed photos. Preserve the documented introduced encounter role of L. serriola; county-range research remains deferred.",
+    "canonical_species_ids": [
+      "lactuca-ludoviciana",
+      "lactuca-serriola"
+    ],
+    "noncanonical_source_pool_taxa": []
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Find milky latex on a broken leaf/stem and a head composed ONLY of strap-shaped ligulate florets (not ray florets surrounding a disk). Then inspect the mature beaked cypsela and count longitudinal nerves on EACH face; this is the decisive species separator.",
+    "vegetative": "Taprooted annual/biennial herbs with alternate, often lobed or toothed leaves and milky latex. Stem leaves and their lower midribs may bear stiff prickles.",
+    "reproductive": "Heads of ligulate florets, without disk florets; phyllaries enclose the head. Flattened, ribbed cypsela bodies have a distinct beak bearing a fine-bristled pappus.",
+    "genus_confirmation": "Asteraceae capitulum + all-ligulate florets + milky latex + a beaked, ribbed cypsela with capillary pappus supports Lactuca; verify against Sonchus and Taraxacum rather than using latex alone."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Mature cypsela: longitudinal nerves PER FACE (highest weight)",
+      "ludoviciana": "1(–3) prominent nerves per face",
+      "serriola": "(3–)5–9 nerves per face",
+      "interpretation": "Count nerves on several intact mature cypselae at the same magnification; the 3-nerve edge case can overlap, so combine with body size and head characters."
+    },
+    {
+      "character": "Mature cypsela body length (exclude beak)",
+      "ludoviciana": "4.5–5+ mm",
+      "serriola": "2.5–3.5 mm",
+      "interpretation": "Measure fruit body separately from beak and pappus; this is a strong secondary separator."
+    },
+    {
+      "character": "Cypsela body shape/color",
+      "ludoviciana": "Flattened elliptic; brown to blackish, often mottled",
+      "serriola": "Flattened oblanceolate; pale grayish to tan",
+      "interpretation": "Use mature fruit only; color can change with ripeness and drying."
+    },
+    {
+      "character": "Involucre length",
+      "ludoviciana": "12–15+ mm",
+      "serriola": "9–10(–12) mm",
+      "interpretation": "Measure intact mature heads side-on, including the phyllary envelope but not corolla extensions."
+    },
+    {
+      "character": "Ligulate florets per head",
+      "ludoviciana": "20–50+ florets",
+      "serriola": "12–20 florets",
+      "interpretation": "Counts near 20 overlap; photograph open heads at peak anthesis and pair with fruit characters."
+    },
+    {
+      "character": "Leaf margins and abaxial midrib",
+      "ludoviciana": "Toothed and sometimes prickly; midrib usually piloso-setose",
+      "serriola": "Often denticulate/prickly; midrib usually prickly-setose but rarely smooth",
+      "interpretation": "Both can be prickly. Presence of midrib prickles is NOT diagnostic alone."
+    },
+    {
+      "character": "Habit and flowering",
+      "ludoviciana": "Biennial; heads in paniculiform arrays",
+      "serriola": "Annual or occasionally persisting; heads in paniculiform arrays",
+      "interpretation": "Broad habit and inflorescence form overlap and are not reliable primary separators."
+    }
+  ],
+  "species_first_look": [
+    {
+      "taxon": "Lactuca ludoviciana",
+      "common_name": "prairie / western lettuce",
+      "field_cue": "Look for larger heads and larger cypselae; confirm 1(–3) fruit-face nerves and a 4.5–5+ mm cypsela body.",
+      "caution": "Can resemble other native wild lettuces (especially L. canadensis and L. hirsuta); do not assign species from latex, leaf lobing, or flower color alone."
+    },
+    {
+      "taxon": "Lactuca serriola",
+      "common_name": "prickly lettuce",
+      "field_cue": "Look for smaller heads, smaller pale cypselae, and (3–)5–9 nerves per fruit face; prickly leaf undersides are supporting evidence.",
+      "caution": "Prickleless or nearly entire-leaved forms exist; midrib prickles and leaf lobing are variable."
+    }
+  ],
+  "decision_sequence": [
+    "1. Confirm Lactuca doorway: latex + all-ligulate head + beaked pappose cypsela, rather than a ray-and-disk head.",
+    "2. Photograph a mature fruit face at macro scale and count longitudinal nerves (1–3 versus 5–9; treat 3 as overlap).",
+    "3. Measure mature cypsela body (exclude beak): about 4.5–5+ mm suggests L. ludoviciana; 2.5–3.5 mm suggests L. serriola.",
+    "4. Check an intact involucre and count florets on several fully open heads; use their ranges as corroboration.",
+    "5. Check middle-stem leaves and lower midrib prickles only as secondary evidence; never decide by yellow flower color alone."
+  ],
+  "overlap_cautions": [
+    "Both taxa can have yellow ligulate heads, milky sap, lobed leaves, prickles, branched panicles and white pappus.",
+    "The 3-nerved cypsela boundary can overlap between the published FNA ranges; prioritize the full combination of body length, nervation and head dimensions.",
+    "Counts of florets near 20 and involucre lengths near 12 mm overlap. Sample multiple mature heads.",
+    "Unripe fruits, detached pappi and crushed herbarium specimens can distort the apparent beak/body ratio and nervation.",
+    "L. serriola is introduced in North America; do not infer native-range status from its inclusion in this private learner.",
+    "No canonical species was installed or taxonomy/range state changed in this lesson."
+  ],
+  "source_pool_lookalikes": [
+    {
+      "taxon": "Sonchus asper",
+      "source_pool": true,
+      "look_here": "Milky latex and ligulate heads can match; inspect the fruit for the Lactuca-style distinct slender beak bearing pappus, and compare clasping leaf auricles. Do not rely on leaf prickles alone."
+    },
+    {
+      "taxon": "Taraxacum officinale",
+      "source_pool": true,
+      "look_here": "Dandelion heads arise singly on hollow leafless scapes from a basal rosette, rather than multiple heads on leafy branched Lactuca stems."
+    },
+    {
+      "taxon": "Chondrilla juncea",
+      "source_pool": true,
+      "look_here": "Very slender, rushlike flowering branches and much smaller heads can suggest skeletonweed; verify stem leaves, head size and cypsela structures."
+    },
+    {
+      "taxon": "Lactuca canadensis / L. hirsuta",
+      "source_pool": false,
+      "look_here": "Regional taxonomic confusers, not in the two-species Master Pool pair. FNA distinguishes them with cypsela nervation, head dimensions and fruit size; do not automatically admit or install them."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "character": "cypsela nerves per face",
+      "assignment": "Matched mature cypsela face macros for both taxa, one face flat to camera, nerves labeled and millimeter scale; show 3-nerve overlap explicitly.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "pending"
+    },
+    {
+      "priority": 2,
+      "character": "cypsela body length vs beak",
+      "assignment": "Matched side-view mature cypselae with separate brackets for body, beak and pappus, calibrated scale.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "pending"
+    },
+    {
+      "priority": 3,
+      "character": "involucre length + floret count",
+      "assignment": "Side-on measured mature heads and front-on fully open heads for each taxon; label phyllaries and count ligulate florets.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "pending"
+    },
+    {
+      "priority": 4,
+      "character": "leaf underside midrib + node",
+      "assignment": "Matched middle-stem leaf undersides and clasping bases, macro prickles/hairs; annotate variable/non-diagnostic features.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "pending"
+    },
+    {
+      "priority": 5,
+      "character": "genus vs Sonchus / Taraxacum",
+      "assignment": "Existing project/source-pool exact-taxon photo comparisons of branched leafy flowering stem versus dandelion scape and Sonchus fruit; record rights/provenance before use.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "pending"
+    }
+  ],
+  "media_references": [
+    {
+      "species_id": "lactuca-serriola",
+      "source": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/species.json images[0]",
+      "file": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/images/lactuca-serriola-leaf-midrib-commons.jpg",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_leaf2_(14446007100).jpg",
+      "status": "installed_file_present; exact_photo_part_not_visually_verified; annotation_pending",
+      "public_reuse": "yes_with_attribution"
+    },
+    {
+      "species_id": "lactuca-serriola",
+      "source": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/species.json images[1]",
+      "file": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/images/lactuca-serriola-flower-heads-commons.jpg",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_(4971023995).jpg",
+      "status": "installed_file_present; exact_photo_part_not_visually_verified; annotation_pending",
+      "public_reuse": "yes_with_attribution_and_ShareAlike"
+    },
+    {
+      "species_id": "lactuca-ludoviciana",
+      "source": "content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/species.json images[0]",
+      "file": "content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/images/commons-lactuca-ludoviciana-david-peden.jpg",
+      "creator": "David Peden (wafflemaster135)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_ludoviciana_04.jpg",
+      "status": "installed_file_present; leaf_detail_provisional; mature_fruit_not_shown; annotation_pending",
+      "public_reuse": "CC0"
+    }
+  ],
+  "media_note": "Both species canonical: L. ludoviciana has one provisional installed CC0 leaf-detail image, L. serriola has two installed credited images. Mature cypsela nervation and body/beak macros remain needs_photo; no anatomical arrows verified. External photo-library candidates are not installed.",
+  "handoffs": [
+    {
+      "lane": "Approved Taxa Installer",
+      "request": "Both L. ludoviciana and L. serriola are already canonical; do not reinstall either. L. ludoviciana needs diagnostic photo enrichment through the photo lane, not a new first-card installation."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "request": "If a specimen has 3-nerved fruit faces or mixed fruit/head measurements, verify exact taxon using FNA full key and mature voucher; preserve any unresolved scientific status."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Prioritize matched cypsela nervation/body-length macros; generic habit images are insufficient for a completed visual lesson."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Inspect all three existing physical gallery references (one L. ludoviciana CC0 leaf detail; two L. serriola CC BY/CC BY-SA views) at pixel level before anatomy arrows. For both species obtain matched ripe cypsela nerve and body/beak macros; check library batch mass-38925103720 only as unverified candidate metadata. Preserve David Peden CC0 1.0, Harry Rose CC BY 2.0, and Matt Lavin CC BY-SA 2.0 individual rights."
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "topic": "Lactuca genus and key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=117438"
+    },
+    {
+      "authority": "Flora of North America",
+      "topic": "Lactuca ludoviciana",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416716"
+    },
+    {
+      "authority": "Flora of North America",
+      "topic": "Lactuca serriola",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242328083"
+    },
+    {
+      "authority": "UT Austin Plant Resources Center",
+      "topic": "Lactuca serriola local morphology",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Lactuca%20serriola.html"
+    },
+    {
+      "authority": "Project",
+      "topic": "Asteraceae family lesson",
+      "path": "content/taxa/Asteraceae/family.json"
+    }
+  ],
+  "curation_status": "provisional_genus_visual_anatomy_4_steps_3_comparisons_2026-10-19; two_canonical_species_three_installed_gallery_files; mature_fruit_macros_and_anatomy_annotations_pending",
+  "visual_lesson": {
+    "status": "two_canonical_species_three_physical_gallery_files; mature_fruit_and_comparison_macros_pending",
+    "title": "Wild lettuces: follow the head to the mature cypsela",
+    "intro": "LOOK HERE FIRST: break a leaf for milky latex, confirm that the head has only strap-shaped ligulate florets, then examine several RIPE flattened fruits. Count nerves on one face and measure the fruit BODY separately from its slender beak. Prickles and leaf lobes alone are unreliable.",
+    "teaching_order": "all-ligulate capitulum → underside midrib and clasping leaf base → mature cypsela face nerves → cypsela body versus beak",
+    "steps": [
+      {
+        "title": "1 · Look inside the flower head",
+        "botanical_terms": [
+          "capitulum",
+          "ligulate floret",
+          "involucre",
+          "phyllary"
+        ],
+        "anchor_species_id": "lactuca-serriola",
+        "anchor_image_index": 1,
+        "image_file": "images/lactuca-serriola-flower-heads-commons.jpg",
+        "photo_role": "installed exact-species flower-head reference; separate side-view phyllary macro needed",
+        "look_for": "Each yellow strap belongs to a complete floret; inspect the green overlapping phyllaries enclosing the head. Confirm no separate central disc florets. The existing broad head photo has not been verified as showing individual phyllaries clearly.",
+        "why_it_matters": "An all-ligulate head with milky sap routes you toward Lactuca and other chicory-tribe composites, not ordinary ray-and-disc daisies.",
+        "status": "installed_reference_unannotated_diagnostic_detail_unverified",
+        "annotation_status": "annotation_pending",
+        "image_credit": "Matt Lavin · CC BY-SA 2.0; attribution and ShareAlike apply"
+      },
+      {
+        "title": "2 · Turn over a middle-stem leaf",
+        "botanical_terms": [
+          "abaxial midrib",
+          "auricle",
+          "sessile leaf"
+        ],
+        "anchor_species_id": "lactuca-serriola",
+        "anchor_image_index": 0,
+        "image_file": "images/lactuca-serriola-leaf-midrib-commons.jpg",
+        "photo_role": "installed exact-species leaf-underside reference; measured node macro still needed",
+        "look_for": "Check for stiff prickles on the underside midrib, then look where the leaf clasps the stem with small auricles. Prickles can be absent or occur in both species; verify the actual photo pixels before drawing arrows.",
+        "why_it_matters": "These support prickly-lettuce recognition but cannot by themselves separate L. serriola from L. ludoviciana.",
+        "status": "installed_reference_unannotated_diagnostic_detail_unverified",
+        "annotation_status": "annotation_pending",
+        "image_credit": "Harry Rose · CC BY 2.0; attribution required"
+      },
+      {
+        "title": "3 · Count nerves on a ripe fruit face",
+        "botanical_terms": [
+          "cypsela",
+          "longitudinal nerve",
+          "pappus"
+        ],
+        "photo_role": "matched ripe cypsela face macros for both taxa with millimeter scale",
+        "look_for": "Flatten one mature cypsela with a full face toward the lens. Count raised lengthwise nerves: L. ludoviciana typically 1–3, L. serriola typically 5–9 (rarely 3). Count multiple fruits, not immature pale ones.",
+        "why_it_matters": "Mature fruit-face nervation is a primary species separator; three nerves at the boundary is not decisive alone.",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "4 · Measure body and beak separately",
+        "botanical_terms": [
+          "cypsela body",
+          "beak",
+          "pappus bristle"
+        ],
+        "photo_role": "paired lateral mature cypsela macros with body and beak brackets",
+        "look_for": "Place a 1-mm scale beside an intact ripe cypsela. Measure only the flattened seed-bearing body: L. ludoviciana roughly 4.5–5+ mm, L. serriola roughly 2.5–3.5 mm; do not include the beak or pappus.",
+        "why_it_matters": "Body length resolves many fruit-nerve edge cases; head size and floret counts are supporting checks.",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "photo_priority": [
+      "same-scale ripe fruit face with visible longitudinal nerves for each species",
+      "same-scale mature cypsela side views separating body/beak/pappus",
+      "head side views with phyllaries and open-head floret counts",
+      "leaf underside and clasping auricles on intact middle-stem nodes"
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "L. ludoviciana versus L. serriola: fruit first",
+      "look_here_first": "Count nerves per face on multiple mature cypselae, then measure the body excluding the beak.",
+      "field_matrix": [
+        {
+          "character": "Nerves per cypsela face",
+          "ludoviciana": "1(–3)",
+          "serriola": "(3–)5–9"
+        },
+        {
+          "character": "Cypsela body length",
+          "ludoviciana": "4.5–5+ mm",
+          "serriola": "2.5–3.5 mm"
+        },
+        {
+          "character": "Involucre length",
+          "ludoviciana": "12–15+ mm",
+          "serriola": "9–10(–12) mm"
+        }
+      ],
+      "caution": "A three-nerved fruit and 12-mm involucre sit near published overlap edges; combine several ripe fruits and heads. Both L. ludoviciana and L. serriola have canonical learner cards, but their diagnostic fruit macros remain unverified."
+    },
+    {
+      "title": "Head anatomy: compare without flower color",
+      "look_here_first": "Inspect fully open heads from the front, then measure an intact head side-on.",
+      "field_matrix": [
+        {
+          "character": "Ligulate florets per head",
+          "ludoviciana": "20–50+",
+          "serriola": "12–20"
+        },
+        {
+          "character": "Head envelope (involucre)",
+          "ludoviciana": "typically longer",
+          "serriola": "typically shorter"
+        },
+        {
+          "character": "Flower-head type",
+          "ludoviciana": "all ligulate",
+          "serriola": "all ligulate"
+        }
+      ],
+      "caution": "Floret counts near 20 overlap; a yellow flower alone proves neither species."
+    },
+    {
+      "title": "Prickly lettuce versus similar roadside composites",
+      "look_here_first": "Combine milky latex, leafy branched flowering stem, all-ligulate heads and beaked cypselae.",
+      "field_matrix": [
+        {
+          "character": "Flowering axis",
+          "lactuca": "leafy branched stems with multiple heads",
+          "taraxacum": "leafless hollow scapes with solitary heads"
+        },
+        {
+          "character": "Fruit and leaf check",
+          "lactuca": "beaked, ribbed cypsela and often auriculate stem leaves",
+          "sonchus": "compare mature cypsela beak and clasping auricles; latex alone overlaps"
+        }
+      ],
+      "caution": "Taraxacum and Sonchus also have ligulate heads and latex. Do not assign species from a leaf photo without reproductive evidence."
+    }
+  ]
+}

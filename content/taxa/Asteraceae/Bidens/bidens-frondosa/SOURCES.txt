@@ -1,0 +1,25 @@
+# Bidens frondosa — source-pool learner curation 2026-10-10
+Source: Calvin Master Plant Pool row 134; prior taxonomy/diagnostic review 2026-10-08.
+Learner admission: APPROVED. Target-zone native range: UNRESOLVED; exclude native-only metrics.
+POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315743-2
+FNA Bidens key: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=103917
+FNA/source-pool review distinguishes B. frondosa vs B. laevis by leaf architecture, rays, calyculus and cypselae.
+Exact-species Commons images and licenses:
+- https://commons.wikimedia.org/wiki/File:Bidens%20frondosa.jpg — Frank Mayfield, CC BY-SA 2.0, role: Flowering habit; provisional plant architecture and ray absence
+- https://commons.wikimedia.org/wiki/File:Bidens%20frondosa%2015-p.bot-biden.frondo-12.jpg — Gilles Ayotte / Université Laval, CC BY-SA 4.0, role: Fruit head longitudinal section; involucral bracts, receptacular chaff and cypselae
+Photo gap: matched leaf-node, calyculus and fruit macro comparison needed. Image source geography is not evidence of target-zone nativity.
+
+2026-10-12 VISUAL GENUS POLISH (REMOTE ONLY, NOT LOCAL BINARY)
+- Full compound three-leaflet LEAF (upper surface): Gilles Ayotte / Université Laval, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-18.jpg
+  External image in species.json images[]; local image-sources.csv intentionally still lists physically stored filenames only. This Commons file is NOT yet a physical GitHub file. The genus visual gallery points to the actual trifoliate junction and terminal leaflet on the original inspected image (additional overlay).
+- Existing physical cut-through FRUITING head: Gilles Ayotte, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-12.jpg
+  The source clearly shows outer calyculus and emerging developing awns in the slice. It is not a wholly mature/dry measured seed plate.
+- Original authoritative FNA ID:
+  https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023534
+  Calyculus frondosa usually 5–8(–10); B. vulgata 10–16(–21). Frondosa mature fruits typically have TWO awns, 2–5 mm.
+- Copyrighted diagnostic whole leaf and exposed mature fruits (link for study; NOT installed):
+  https://www.missouriplants.com/Bidens_frondosa_page.html
+  https://harvest.cals.ncsu.edu/plantguidedb/index.cfm?ViewPlantID=10560
+SCIENTIFIC RANGE UNRESOLVED kept unchanged; out-of-area photos do not certify Texas counties.

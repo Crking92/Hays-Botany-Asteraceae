@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/274152432
+Photo: https://www.inaturalist.org/photos/492910307
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:15:08.522094+00:00
+Hymenopappus scabiosaeus L'Hér.
+https://www.gbif.org/occurrence/6170922281
+Chet Burrier | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Deeply lobed leaves, discoid heads and involucral phyllaries
+No anatomy arrows; no scientific or native-range changes.

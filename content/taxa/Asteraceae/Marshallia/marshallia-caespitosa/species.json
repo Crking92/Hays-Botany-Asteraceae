@@ -1,0 +1,152 @@
+{
+  "id": "marshallia-caespitosa",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Marshallia",
+  "species": "caespitosa",
+  "scientific_name": "Marshallia caespitosa",
+  "authority": "Nutt. ex DC.",
+  "common_name": "Barbara's buttons",
+  "other_common_names": [
+    "Puffballs",
+    "Seep marshallia"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO. Two accepted varieties are recognized: var. caespitosa and var. signata. The species-level learner preserves this distinction without assigning the Joey plant to variety.",
+  "look_here_first": "Notice what is missing: there are no ray florets. Barbara's buttons makes a rounded button-like head of many tubular disc flowers. Then check the narrow leaves, hemispheric involucre, numerous paleae on the receptacle, and the persistent scale-like pappus on the cypselae.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora lists Marshallia caespitosa. Williamson — detailed county treatment documents M. caespitosa var. signata. Kerr — Kerr WMA flora documents M. caespitosa var. signata with voucher. Current Kew accepts both varieties under M. caespitosa.",
+    "range_guardrail": "Species-level PASS; the Joey developing-head frame does not establish variety."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb with narrow linear to narrowly oblanceolate leaves",
+      "heads discoid rather than radiate — no petal-like ray florets",
+      "showy rounded/button-like head containing many bisexual tubular florets",
+      "hemispheric involucre with several close series of narrow phyllaries",
+      "receptacle with conspicuous paleae/bractlets among flowers",
+      "five fused stamens per floret forming an anther cylinder",
+      "inferior ovary becoming a strongly ribbed cypsela",
+      "pappus of several persistent scales"
+    ],
+    "family_training": "Useful Asteraceae exception card: a showy composite head can be entirely disc florets and still be Asteraceae.",
+    "video_training": "Joey's frame shows developing button-like capitula in local limestone habitat before full bloom."
+  },
+  "comparisons": {
+    "confused_with": [
+      "other white/pale discoid Asteraceae"
+    ],
+    "key_distinctions": "Use the large rounded button head, absence of ray florets, narrow leaves, involucre/paleae and pappus rather than flower color."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "00:50",
+      "record_id": "Y7A530PjEbU-04",
+      "role": "Developing button-like capitula on slender stems.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Marshallia caespitosa",
+      "source_confidence": "source-explicit-overlay-and/or-verbal",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/marshallia-caespitosa_inflor-buds-source-label_00-50.jpg"
+    }
+  ],
+  "tags": [
+    "Asteraceae",
+    "Marshallia",
+    "Barbara's buttons",
+    "discoid head",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-video-fed",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Saved Joey Santore developing-head frame installed locally for private study. It is useful for recognizing the unusual button-like capitula before full bloom; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/marshallia-caespitosa_inflor-buds-source-label_00-50.jpg",
+      "role": "Developing button-like capitula on slender stems.",
+      "caption": "Source-labeled Marshallia caespitosa showing developing button-like composite heads on slender stems. Useful pre-bloom context; add open-head and leaf views for a full ID.",
+      "diagnostic_roles": [
+        "developing capitula",
+        "button-like heads",
+        "slender peduncles"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-04",
+      "timestamp": "00:50",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-369358333.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369358333",
+      "observation_url": "https://www.inaturalist.org/observations/208743731",
+      "observation_id": "208743731",
+      "photo_id": "369358333",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369358333/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-503398202.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/503398202",
+      "observation_url": "https://www.inaturalist.org/observations/280293288",
+      "observation_id": "280293288",
+      "photo_id": "503398202",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/503398202/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Fully open flower heads, basal/cauline leaf details, involucral bracts, and mature fruit."
+  ]
+}

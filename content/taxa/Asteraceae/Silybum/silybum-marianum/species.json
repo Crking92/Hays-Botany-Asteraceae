@@ -1,0 +1,89 @@
+{
+  "id": "silybum-marianum",
+  "family": "Asteraceae",
+  "genus": "Silybum",
+  "species": "marianum",
+  "scientific_name": "Silybum marianum",
+  "common_name": "Milk thistle",
+  "look_here_first": "Shiny leaves with prominent white marbled veins and stiff marginal spines; purple heads with long spine-tipped phyllaries.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_052": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249211-1",
+  "images": [
+    {
+      "file": "images/inat-136304077.jpg",
+      "role": "Recognize · purple thistle flowerhead atop a tall stalk with long sharply spined bracts around its base; white-marbled leaf trait not resolved",
+      "creator": "(c) goldust, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/136304077",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review052-4c96aac31fc3556.jpg",
+      "role": "Look closer · broad green leaves with conspicuous white-marbled venation and stiff marginal spines",
+      "requested_diagnostic_view": "White-marbled spiny leaf and spiny involucral bracts below flower head",
+      "creator": "Sue Ann Kendall",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6185942865",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630948931/original.jpg",
+      "source_determination": "Silybum marianum",
+      "source_observation_id": "6185942865",
+      "library_release_tag": "hays-photo-library-mass-38994386296",
+      "library_archive_file": "staged_images/silybum-marianum/gbif-702c59f5242ce1.jpg",
+      "archive_image_sha256": "ab7df2fc8c14080b4b056b2b326ba34906809f731dc7990f5551c8b4364ab1ac",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review052-3fa62375d83171d.jpg",
+      "role": "Confirm clue · long narrow spine-tipped involucral bracts surrounding a developing thistle flowerhead, hand for scale",
+      "requested_diagnostic_view": "White-marbled spiny leaf and spiny involucral bracts below flower head",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234275194",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646895204/original.jpg",
+      "source_determination": "Silybum marianum",
+      "source_observation_id": "6234275194",
+      "library_release_tag": "hays-photo-library-mass-38994386296",
+      "library_archive_file": "staged_images/silybum-marianum/gbif-52cdce5aa7593f.jpg",
+      "archive_image_sha256": "7cf45d3d787bf6c817fdf7f1727f87ac03c3bdc53bbb13dbfafd6f165b14ed3b",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

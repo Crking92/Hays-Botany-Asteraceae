@@ -1,0 +1,53 @@
+{
+  "id": "pluchea-odorata",
+  "family": "Asteraceae",
+  "genus": "Pluchea",
+  "species": "odorata",
+  "scientific_name": "Pluchea odorata",
+  "common_name": "Sweetscent",
+  "look_here_first": "Aromatic, leafy composite with clusters of pink-to-purple discoid flower heads; inspect leaves, heads and involucral bracts.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-332759686.jpg",
+      "role": "Confirm clue · dense pink-purple discoid heads, fuzzy involucral surfaces, and slender florets protruding above the heads; exact species ID provisional",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/332759686",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-332759726.jpg",
+      "role": "Look closer · cluster of pink buttonlike heads with protruding tubular flower parts and small buds below; no broad plant habit",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/332759726",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-332759766.jpg",
+      "role": "Recognize · leafy upright green shoot with several pink-purple flowerhead clusters near its tip, held for scale",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/332759766",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

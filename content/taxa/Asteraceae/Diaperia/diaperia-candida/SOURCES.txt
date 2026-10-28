@@ -1,0 +1,7 @@
+Approved Master Plant Pool Batch 023 first-card preflight. Accepted-name reference: https://powo.science.kew.org/results?q=Diaperia%20candida
+Source image: https://commons.wikimedia.org/wiki/File:Silver_rabbit_tobacco_imported_from_iNaturalist_photo_265055282_on_22_October_2024.jpg
+Direct original JPEG: https://upload.wikimedia.org/wikipedia/commons/1/1f/Silver_rabbit_tobacco_imported_from_iNaturalist_photo_265055282_on_22_October_2024.jpg
+Photo author: Laura Clark
+Photo license: CC BY 4.0
+Image visually inspected from Commons original-file preview; species ID supported by Commons exact-taxon metadata; remains provisional pending fuller expert examination.
+No county-level nativity assertion; no cultivar substituted.

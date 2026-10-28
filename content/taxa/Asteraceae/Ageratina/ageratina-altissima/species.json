@@ -1,0 +1,135 @@
+{
+  "id": "ageratina-altissima",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
+  "species": "altissima",
+  "scientific_name": "Ageratina altissima",
+  "authority": "(L.) R.M.King & H.Rob.",
+  "common_name": "White snakeroot",
+  "accepted_infraspecifics": [
+    "Ageratina altissima var. altissima",
+    "Ageratina altissima var. angustata"
+  ],
+  "look_here_first": "Look for opposite long-petioled broad leaves with coarse teeth and three strong basal veins, topped by loose white flat-topped clusters of tiny all-disk heads—no ray florets.",
+  "county_occurrences_target_zone": [
+    "Bandera",
+    "Comal",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "USDA-derived county data explicitly marks Bandera, Comal, Kerr, Medina and Travis native; first three used for threshold."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "erect rhizomatous perennial of shaded/moist sites",
+      "opposite broadly ovate to triangular long-petioled leaves",
+      "leaves coarsely toothed with three strong veins from near base",
+      "terminal corymbiform clusters of many small white heads",
+      "heads discoid: white disk florets only, no rays"
+    ],
+    "leaf_arrangement": "Opposite.",
+    "leaf_morphology": "Broadly ovate/triangular, coarsely toothed, commonly 3-veined from near base.",
+    "heads": "White discoid heads with no ray florets.",
+    "inflorescence": "Terminal corymbiform/flat-topped cluster.",
+    "fruit": "Cypsela with conspicuous white pappus.",
+    "reproductive_confirmation": "Mature cypselae glabrous, not hispid, contrasted with A. havanensis (Flora of North America)."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Conoclinium coelestinum",
+      "Ageratina havanensis",
+      "Eupatorium serotinum",
+      "Chromolaena odorata"
+    ],
+    "key_distinctions": "FNA: A. altissima is herbaceous, with larger usually long-petioled, coarsely double-toothed leaves and GLABROUS cypselae; A. havanensis has a persistent woody shrub framework, shorter-petioled generally smaller leaves, and HISPID cypselae. Chromolaena odorata shows much longer cylindrical involucres (8–10 mm) with 4–6+ phyllary series."
+  },
+  "tags": [
+    "Asteraceae",
+    "Ageratina",
+    "White snakeroot",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b016",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "diagnostic_polish_status": "link to cross-genus comparison established; matched photographs pending",
+    "diagnostic_polish_date": "2026-10-12"
+  },
+  "photo_note": "Diagnostic role set recorded; photo locking can improve later.",
+  "images": [
+    {
+      "file": "images/01-blooming-whole-plant.jpg",
+      "role": "Blooming whole-plant habit with opposite broad leaves and terminal white clusters",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_001.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-white-discoid-heads.jpg",
+      "role": "Close view of white discoid inflorescences",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_002.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-field-foliage-petioles.jpg",
+      "role": "Additional exact-species field reference / foliage and flowering context",
+      "creator": "R. A. Nonenmacher",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_SCA-5481.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Existing whole-plant and discoid-head images retained and supplemented with a rights-clear exact-species field reference."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "fruit_surface_macro",
+      "priority": "P1",
+      "shot": "several ripe cypselae at high magnification with scale",
+      "must_show": "smooth, glabrous surface compared to hairy A. havanensis",
+      "status": "PENDING"
+    },
+    {
+      "role": "stem_base",
+      "priority": "P1",
+      "shot": "shoot base and prior-year remains",
+      "must_show": "herbaceous crown, no persistent brittle woody shrub frame",
+      "status": "PENDING"
+    },
+    {
+      "role": "mature_leaf",
+      "priority": "P1",
+      "shot": "fully expanded leaf both sides and petiole with scale",
+      "must_show": "incised-serrate margin, blade size, petiole length",
+      "status": "PENDING"
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066013"
+    }
+  ]
+}

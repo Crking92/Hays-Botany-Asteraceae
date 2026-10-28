@@ -1,0 +1,216 @@
+{
+  "id": "symphyotrichum-ericoides",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "ericoides",
+  "scientific_name": "Symphyotrichum ericoides",
+  "authority": "(L.) G.L.Nesom",
+  "common_name": "White Heath Aster",
+  "taxonomic_note": "Stable species-level canonical entry; accepted local infraspecific concept S. ericoides var. ericoides is taught internally.",
+  "look_here_first": "START by checking the many short, stiff, narrow branchlet leaves and crowded small pale heads. With a 10–20× hand lens, turn a mature head sideways and seek the tiny actual WHITE/CLEAR terminal spine on the OUTER PHYLLARY (involucral bract). The bract bases may look whitish/papery. S. pilosum can mimic spines by rolling GREEN phyllary tips; distinguish a genuine pale terminal spine. Confirm hairy stems, comparatively small 2.5–4.5(–5) mm involucre, 10–18(–20) rays, and rhizomatous perennial habit. Not a pale-flower-only identification.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays Natural Purola flora records S. ericoides; Travis herbarium and Williamson county treatment document accepted var. ericoides. Current Kew accepts S. ericoides var. ericoides.",
+    "range_guardrail": "Exact county evidence; accepted local infraspecific concepts reconciled internally."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Many tiny, short, fairly stiff, needlelike/linear-oblong upper/branchlet leaves, often borne in clusters on crowded upper branches.",
+      "Outer phyllaries each end in a small true rigid, PALE OR CLEAR spine-like tip; check at 10–20×. Green rolled margins on other asters can imitate spine.",
+      "Mature involucre about 2.5–4.5(–5) mm high; usually about 10–18 rays (ranges overlap; neither alone is decisive).",
+      "Upper stems and foliage usually hairy; phyllaries in 3–4 series and often white/tan at their bases with green distal zones.",
+      "Perennial rhizomatous colony, unlike the annual-to-short-lived very diffuse saltmarsh aster S. divaricatum.",
+      "A large number of small heads may line one side of a branchlet (secund) in mature flowering stems."
+    ],
+    "comparison_training": "S. divaricatum is a nearly glabrous narrow-leaved annual/short-lived inland weed with a wide-open loose array of small widely separated heads, not ericoides's clustered stiff branchlet leaves and genuine pale terminal spines. S. eulae has scabrous broader serrate leaves, glabrous peduncles, often 27–36 rays and 5–6.5 mm involucres. S. pilosum (comparison only) may appear to have a spinulose phyllary: the apparent tip can be ROLLED GREEN margins rather than a true pale terminal spine."
+  },
+  "curation_status": {
+    "version": "1.0-b071",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-12",
+    "visual_comparison_upgrade": "heath genus 2.5",
+    "scientific_status_unchanged": true,
+    "native_range_unchanged": true
+  },
+  "images": [
+    {
+      "file": "images/symphyotrichum-ericoides_flower-head-source-label_01-08.jpg",
+      "role": "Flowering branch with many small white-rayed heads.",
+      "caption": "Source-labeled Symphyotrichum ericoides showing numerous small white-rayed heads along a flowering branch. Add leaf and involucre views to separate similar white asters.",
+      "diagnostic_roles": [
+        "small white-rayed heads",
+        "flowering branch",
+        "head abundance"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-01",
+      "timestamp": "01:08",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-annika-lindqvist-heath-aster.jpg",
+      "role": "Texas field habit / foliage and flowering structure",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+      "original_source_page": "https://www.inaturalist.org/photos/97520834",
+      "observation_source": "https://www.inaturalist.org/observations/60921458",
+      "inaturalist_photo_id": 97520834,
+      "inaturalist_observation_id": 60921458,
+      "source_type": "iNaturalist via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes — individual CC BY 4.0 source verified with attribution",
+      "original_remote_photo_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20ericoides%2097520834.jpg",
+      "source_photo_id": "97520834",
+      "inaturalist_photo_page": "https://www.inaturalist.org/photos/97520834",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/97520834/large.jpeg",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_file_sha256": "8da56b2f1cff72ceb2eefde4d9b0965e1169bd240c9f8a727f2422273a443c86",
+      "published_jpeg_sha256": "8548e624d46feab6be1f74ba56c0251480bef57cec37ce3212d86cbad7ffbcd2",
+      "published_jpeg_dimensions": [
+        1024,
+        768
+      ],
+      "modifications": "Original iNaturalist image resized for learner and reencoded as JPEG with EXIF/GPS removed; no arrows applied.",
+      "photo_review": "Original iNaturalist photo page verified exact photographer, CC BY, observation identity on 2026-10-20; no detailed floral/fruit anatomy arrow approval.",
+      "annotation_pending": true,
+      "local_file_present": true
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphyotrichum%20ericoides%20NRCS-1.jpg",
+      "role": "Whole plant / USDA-NRCS exact-species reference",
+      "creator": "USDA-NRCS",
+      "license": "Public Domain Mark 1.0 / U.S. federal work",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_NRCS-1.jpg",
+      "source_type": "USDA-NRCS via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "01:08",
+      "record_id": "N4yq5Z1_0Eo-01",
+      "role": "Flowering branch with many small white-rayed heads.",
+      "source_taxon": "Symphyotrichum ericoides",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/symphyotrichum-ericoides_flower-head-source-label_01-08.jpg"
+    }
+  ],
+  "photo_note": "Saved Joey Santore flowering frame installed locally for private study. It shows the many small white-rayed heads along the flowering branch; public-reuse restrictions are preserved.",
+  "diagnostic_image_needs": [
+    {
+      "role": "10–20× image of one sharp leaf tip showing the actual whitish spinule",
+      "priority": "must-have",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Side view of a 2.5–4.5 mm involucre and true spinulose phyllary tips",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    },
+    {
+      "role": "Whole flowering plant showing dense fine foliage and numerous tiny heads",
+      "priority": "supporting",
+      "status": "pending feature-verified close-up"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Existing Joey Santore flowering-head frame retained as the preferred private-study diagnostic anchor and supplemented with a Texas CC BY 4.0 iNaturalist field photo plus USDA-NRCS public-domain whole-plant reference. Scientific status unchanged."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum divaricatum",
+      "Symphyotrichum eulae",
+      "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "Symphyotrichum pilosum (comparison-only; not installed)"
+    ],
+    "key_distinctions": "S. ericoides: perennial + many short stiff branch leaves + compact small heads with true pale/clear phyllary apex spines (10–20×) and small involucre. S. divaricatum: annual, airy widely spaced flower heads, slender nearly glabrous stems. S. eulae: broader toothed leaves, usually glabrous peduncles, larger/more numerous rays. S. pilosum: no real colorless spine—rolled green phyllary margins resemble one."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "role": "Phyllary apical spine",
+      "priority": "HIGH",
+      "status": "ACTUAL COPYRIGHTED ANNOTATED SOURCE FOUND; installable licensing not confirmed",
+      "candidate_url": "https://www.minnesotawildflowers.info/udata/r9ndp23q/pd/symphyotrichum-ericoides-2931-3.jpg",
+      "source_credit": "Peter M. Dziuk © Minnesota Wildflowers",
+      "reuse": "link only, no image copy",
+      "target": "One tiny true transparent-white spine on a mature phyllary tip, not generic flower-point"
+    },
+    {
+      "role": "Leaf-branch silhouette",
+      "priority": "HIGH",
+      "status": "ACTUAL UNIVERSITY PHOTOGRAPH SOURCE LINKED; local licensed macro still open",
+      "candidate_url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/",
+      "target": "Several small narrow sessile leaf blades on upper branches, main stem lower region relatively leaf-poor"
+    },
+    {
+      "role": "Exact local variety leaf AND phyllary side macro",
+      "priority": "HIGH",
+      "status": "UNFILLED",
+      "target": "Locally verified S. ericoides var. ericoides; 10–20× clear phyllary spine and leaf-tip spinule with scale"
+    },
+    {
+      "role": "Whole rooted perennial rhizomes versus annual saltmarsh aster",
+      "priority": "MEDIUM",
+      "status": "UNFILLED",
+      "target": "Root crown/rhizomes and annual taproot, and matched whole branching habits"
+    }
+  ],
+  "diagnostic_photo_polish_2026_10_12": {
+    "status": "existing Joey private study photo plus two Commons exact species source references; actual arrow-labeled copyright source link found; photographic diagnostic macro not yet licensed-installed",
+    "photo_sources": [
+      {
+        "source_url": "https://www.minnesotawildflowers.info/flower/heath-aster",
+        "usage": "RIGHTS LIMITED: copyrighted diagnostic photo showing accurately arrow-marked apical phyllary spines; link only",
+        "credit": "Peter M. Dziuk / Minnesota Wildflowers"
+      },
+      {
+        "source_url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/heath-aster/",
+        "usage": "RIGHTS LIMITED: excellent small leaf branch structure photo; link only",
+        "credit": "Oklahoma State University Extension"
+      },
+      {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+        "usage": "EXACT-SPECIES licensed North Texas flowering context, CC BY 4.0; not diagnostic spine macro",
+        "credit": "Annika Lindqvist; iNaturalist observation 60921458"
+      },
+      {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_NRCS-1.jpg",
+        "usage": "PUBLIC DOMAIN species habit; short-resolution not diagnostic tip macro",
+        "credit": "Jennifer Anderson @ USDA-NRCS"
+      }
+    ],
+    "scientific_references": [
+      "https://uwaterloo.ca/astereae-lab/symphyotrichum-ericoides",
+      "https://gobotany.nativeplanttrust.org/species/symphyotrichum/ericoides/"
+    ],
+    "taxon_guardrail": "S. pilosum is a scientific look-alike only, not 11th canonical species. Local PASS and approved existing var. ericoides metadata preserved."
+  },
+  "synonyms": [
+    "Symphyotrichum ericoides var. ericoides"
+  ]
+}

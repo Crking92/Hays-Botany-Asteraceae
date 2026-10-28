@@ -1,0 +1,149 @@
+{
+  "id": "bidens-frondosa",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Bidens",
+  "species": "frondosa",
+  "scientific_name": "Bidens frondosa",
+  "authority": "L.",
+  "common_name": "Devil's beggarticks",
+  "synonyms": [],
+  "taxonomic_note": "POWO accepts Bidens frondosa L. Source pool iNaturalist taxon 51712. Do not confuse with compound-leaved B. vulgata.",
+  "look_here_first": "FIRST photograph an ENTIRE middle stem leaf still attached at its OPPOSITE node: B. frondosa is usually compound, each leaf divided into THREE distinct serrated leaflets (sometimes five), each leaflet with its own little stalk; don't count opposite leaves as 'leaflets.' SECOND look under its small orange-yellow DISK HEAD for an outer ring of ~5–8(–10) green CALYCULUS bractlets and inner involucral phyllaries. B. vulgata can also have 3–5 leaflets but usually ~10–16(–21) outer bractlets: count these on an intact mature head. THIRD verify flattened mature cypselae with typically TWO barbed awns, about 5–7 mm outer / 7–10 mm inner bodies. Flower rays normally absent or tiny (0–3), but not a foolproof color test.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool row 134 (My iNaturalist Flora); taxonomy and diagnostic review dated 2026-10-08",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "POWO supports Texas nativity at state level; three distinct target-zone county proofs not established. Source-pool membership is learner approval, not a native-range PASS."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Annual herb, often branching, frequently in moist or disturbed habitats.",
+    "leaves": "Opposite on stem, petiolate: each compound LEAF typically has 3 (occasionally 5) leaflets, which may have little petiolules of their own; each leaflet serrate. Photo must show leaflet junction and opposite stem node to avoid treating each leaflet as an independent leaf.",
+    "heads": "Mostly small disk-only heads, 0–3+ rays if present, laminae ~2–3.5 mm. Outer calyculus usually 5–8(–10) ciliate green bractlets (5–20 mm, sometimes longer), INNER phyllaries normally 6–12; differentiate from vulgata's usually 10–16(–21) calyculus bractlets.",
+    "fruits": "Mature flattened dark cypselae, outer ~5–7 mm / inner ~7–10 mm, often 2 erect to spreading pappus awns 2–5 mm with small hooklike barbs; the FNA account notes fruit margin barbs can point forward or backward, so don't say 'always backwards.' Do not confuse awns with phyllaries or receptacular chaff.",
+    "best_field_traits": [
+      "Middle stem LEAF usually divided into THREE (sometimes FIVE) separate serrated leaflets, not a single lobed blade.",
+      "Opposite leaves at each STEM NODE; look at a single petiole attached to several leaflets.",
+      "Orange-yellow disk heads with rays typically 0–3 and tiny (~2–3.5 mm).",
+      "Outer calyculus usually 5–8(–10) green bractlets, compare B. vulgata ~10–16(–21).",
+      "Inner phyllaries are a SECOND ring just behind head, not calyculus leaflets.",
+      "Flat mature outer fruit bodies ~5–7 mm, inner ~7–10 mm, generally 2 barbed awns ~2–5 mm.",
+      "FNA states marginal fruit barbs and pappus barbs may be antrorse or retrorse; not uniformly hooked backward.",
+      "Annual in wet or disturbed places, flowering commonly June–October."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Bidens laevis",
+      "Bidens vulgata (comparison only)",
+      "Bidens pilosa (comparison only)"
+    ],
+    "key_distinctions": "B. laevis opposite SIMPLE sessile leaves + normally 7–8 large yellow rays, wet margins. B. vulgata can also have 3–5 leaflets and inconspicuous rays, but typically MORE green outer calyculus bractlets (10–16[–21] vs 5–8[–10]) and often more deeply laciniate leaves; full heads and fruits required. B. pilosa leaves may be compound and rays variable; review fruit, bracts and exact source before making a species call."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "One actual compound three-leaflet leaf with petiole and junction",
+      "target": "Anatomical junction of all three leaflets, ideally also opposite stem node; Gilles Ayotte source is verified for upper-surface exact-species leaf."
+    },
+    {
+      "priority": 1,
+      "role": "Calyculus versus inner involucre side head macro",
+      "target": "Count 5–8(–10) outer elongated green bractlets, separate shorter inner phyllaries and central disk; compare with B. vulgata 10–16(–21)."
+    },
+    {
+      "priority": 1,
+      "role": "Mature cypsela cross section and awns",
+      "target": "Use existing physical Gilles Ayotte longitudinal cut photograph; separately photograph 2 actual barbed awns, fruit body, receptacle CHAFF (paleae)."
+    },
+    {
+      "priority": 2,
+      "role": "B. vulgata exact side-head comparator",
+      "target": "Green outer bract count 10–16(–21), compound leaves; comparison-only until approved."
+    }
+  ],
+  "images": [
+    {
+      "file": "images/bidens-frondosa-habit.jpg",
+      "role": "Flowering habit; provisional plant architecture and ray absence",
+      "creator": "Frank Mayfield",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20frondosa.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/bidens-frondosa-fruiting-head.jpg",
+      "role": "Fruit head longitudinal section; involucral bracts, receptacular chaff and cypselae",
+      "creator": "Gilles Ayotte / Université Laval",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20frondosa%2015-p.bot-biden.frondo-12.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bidens%20frondosa%2015-p.bot-biden.frondo-18.jpg",
+      "role": "REAL photographed complete Bidens frondosa LEAF viewed from upper surface; shows leaf outline and separate leaflets (not attached node)",
+      "creator": "Gilles Ayotte / Université Laval",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens_frondosa_15-p.bot-biden.frondo-18.jpg",
+      "source_provenance": "Laval University botanical collection, Quebec, same exact species treatment as installed fruit cross-section",
+      "photo_status": "LICENSED_EXTERNAL_IMAGE_NOT_DOWNLOADED",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA 4.0 with photographer/institution attribution; derivative share alike"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "version": "2.0-compound-leaf-bract-fruit-polish",
+    "taxonomy_identity_checked": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "last_reviewed": "2026-10-12",
+    "native_range_status_preserved": true
+  },
+  "tags": [
+    "Asteraceae",
+    "Bidens",
+    "morphology-first",
+    "range unresolved"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "visual_photo_polish_2026_10_12": {
+    "current_physical": "Two licensed local GitHub files: Frank Mayfield whole habit and Gilles Ayotte longitudinal fruit section.",
+    "new_remote": "A new licensed upper-side true frondosa leaf photograph by Gilles Ayotte, 1263×1828, shown in images[] via Commons; confirm leaf junction location before placing arrow.",
+    "botanical_focus": "Leaflets per leaf vs leaves per stem node; outer calyculus (5–8[–10]) vs B. vulgata (10–16[–21]), distinguish actual awns on mature fruits.",
+    "other_study_links": [
+      {
+        "label": "MissouriPlants genuine compound leaf diagram photo",
+        "url": "https://www.missouriplants.com/Bidens_frondosa_page.html",
+        "reuse": "copyright S.R. Turner; LINK ONLY"
+      },
+      {
+        "label": "NC State Extension close-up of three barbed fruits on palm",
+        "url": "https://harvest.cals.ncsu.edu/plantguidedb/index.cfm?ViewPlantID=10560",
+        "reuse": "photo reuse rights not confirmed, source study link only"
+      }
+    ],
+    "range_unchanged": true
+  }
+}

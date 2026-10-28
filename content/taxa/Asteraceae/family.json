@@ -1,0 +1,503 @@
+{
+  "rank": "family",
+  "name": "Asteraceae",
+  "common_name": "Aster / daisy / sunflower family",
+  "project_scope": {
+    "selection_mode": "common local-learning batches",
+    "current_batch": "Batch 1 - common roadsides, prairie, and disturbed-site composites",
+    "note": "Common local-learning family module. Joey Edwards Plateau video Y7A530PjEbU now adds canonical Tetragonotheca texana as an explicit phyllary/involucre teaching anchor; private-study frames remain separate from public photo licensing."
+  },
+  "family_diagnostics": {
+    "inflorescence": "A head (capitulum) made of many small florets packed onto one receptacle.",
+    "floret_types": "Heads may contain ray florets, disc florets, or both.",
+    "involucre": "One or more series of phyllaries subtend the head and are often critical for identification.",
+    "fruit": "Cypsela, often with a pappus of scales, awns, or bristles.",
+    "field_tip": "To learn Asteraceae well, do not stop at flower color. Look at phyllaries, receptacle/paleae, leaves, pappus, and overall architecture."
+  },
+  "curation_status": {
+    "version": "2.5-family-silphium-leaf-and-head",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "structural_family_lock_complete_diagnostic_visual_roles_pending",
+    "family_photo_led_upgrade": "2026-10-13: nine numbered plant-part lessons, visible real image references, clearer sources/status, and horseweed/giant goldenrod structural examples. Existing scientific field/range and family confusion data preserved. Ragweed green-rayless flower heads and sexual-head vocabulary added. Coreopsis yellow-head family contrast: two physical CC BY-NC genus anchors, one honest outer/inner bracts photo gap; all prior family modules retained.",
+    "ambrosia_photo_examples_added": 2,
+    "photo_macro_missing": "True staminate/pistillate dissection and cypsela within involucre remain pending; no arrows or rights upgrades.",
+    "coreopsis_family_photo_anchors": 2,
+    "coreopsis_specialist_macro_missing": 1,
+    "silphium_photo_anchors": 4,
+    "gaillardia_photo_inventory_reviewed": "2026-10-14",
+    "gaillardia_restricted_images_excluded_from_family": 3
+  },
+  "visual_lesson": {
+    "status": "asteraceae-photo-first-family-additions-through-coreopsis",
+    "teaching_order": "real tiny composite head → ray & disk florets → underside phyllaries → discoid exception → ovary/fruit/pappus → goldenrod and horseweed comparisons → ragweed unisexual heads without showy rays → female involucre hardened into a one-seeded bur → Coreopsis ray/disk close comparison → calyculus bractlets versus inner phyllaries (macro pending)",
+    "intro": "SEE a 'flower' that is really a crowd of tiny florets. SPOT the involucre and phyllaries underneath, NAME ray/disc florets, and follow the flower to a cypsela with pappus. Use physically installed plant images or explicitly marked external references; do not pretend a whole-plant view proves a microscopic part. Ragweed provides the less obvious ASTERACEAE lesson: instead of conspicuous rays, terminal pollen-producing heads and smaller lower female heads produce a small bur enclosing one dry fruit. Tickseed photos teach the STRUCTURE of a familiar colorful head: rays and disk are separate FLORETS, and the small green structures on the underside comprise an outer CALYCULUS and inner PHYLLARIES.",
+    "steps": [
+      {
+        "title": "1 · Turn the head sideways",
+        "photo_role": "head underside / involucre with broad phyllaries",
+        "anchor_species_id": "helianthus-annuus",
+        "look_for": "Turn one capitulum sideways and study the green bracts underneath. These PHYLLARIES overlap around a common flower-head base (INVOLUCRE). The exact sunflower underside image is an external rights-cleared reference, not a physically installed local file.",
+        "why_it_matters": "Shows that an entire daisy-like head is a cluster of flowers; the phyllaries create the 'basket' under those flowers.",
+        "status": "external_reference_real_photo",
+        "anchor_image_index": 6,
+        "image_label": "Common sunflower underside / phyllaries",
+        "image_credit": "Matt Lavin · CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_(5021132604).jpg"
+      },
+      {
+        "title": "2 · Separate ray from disk",
+        "photo_role": "ray florets and disk florets from flower-head front",
+        "anchor_species_id": "helianthus-annuus",
+        "look_for": "From the FRONT, inspect long yellow RAY FLORETS around the edge and the many short central DISK FLORETS. Each ray is a complete flower, not just one petal.",
+        "why_it_matters": "This is the most helpful Asteraceae vocabulary correction: one apparent 'flower' is many florets together.",
+        "status": "installed_subject_photo_unannotated",
+        "anchor_image_index": 1,
+        "image_label": "Common sunflower face (photo in species gallery)",
+        "image_credit": "Emily Scherer · CC BY-NC; existing study media"
+      },
+      {
+        "title": "3 · Inspect the underside",
+        "photo_role": "phyllaries / involucre external macro",
+        "anchor_species_id": "helianthus-annuus",
+        "look_for": "Look at the underside of the head for overlapping PHYLLARIES, the tiny green leaflike pieces. In sunflower they are broad and hairy; don't generalize this exact shape to every aster.",
+        "why_it_matters": "Phyllary shape, arrangement and hair can be stronger for ID than the front-of-flower color.",
+        "status": "external_reference_real_photo",
+        "anchor_image_index": 6,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Helianthus_annuus_(5021132604).jpg",
+        "image_label": "Common sunflower underside / phyllary reference",
+        "image_credit": "Matt Lavin · CC BY-SA 2.0"
+      },
+      {
+        "title": "4 · See a family exception",
+        "photo_role": "discoid head without showy rays",
+        "anchor_species_id": "baccharis-neglecta",
+        "look_for": "Baccharis heads do not have big daisy-shaped ray florets. Male and female flowers grow on different plants (DIOECIOUS), so a flowering branch photo alone cannot prove its sex.",
+        "why_it_matters": "An aster-family head can lack rays entirely; Asteraceae does NOT mean 'yellow daisy'.",
+        "status": "installed_subject_photo_unannotated",
+        "anchor_image_index": 0,
+        "image_credit": "Paul (Chris) LaMont · CC BY-NC; existing study media"
+      },
+      {
+        "title": "5 · Follow one floret to fruit",
+        "photo_role": "inferior ovary → cypsela + pappus (fine macro still needed)",
+        "anchor_species_id": "cirsium-texanum",
+        "look_for": "Each individual floret has its own inferior ovary, which later becomes one dry, one-seeded CYPSELA (a one-seeded dry fruit). The PAPPUS is a bristle or scale structure on top. The currently available broad thistle image is NOT a verified ovary/fruit dissection.",
+        "why_it_matters": "Connecting a single floret to one dry fruit teaches why the whole head disperses many one-seeded units.",
+        "status": "diagnostic_photo_pending",
+        "anchor_image_index": 0
+      },
+      {
+        "title": "6 · Flip the head over",
+        "photo_role": "four broad outer phyllaries / squared head underside",
+        "anchor_species_id": "tetragonotheca-texana",
+        "look_for": "From UNDER the head, four unusually broad outer phyllaries make a squarish/collar-like base. This is a specialized Texas Tetragonotheca example, not a universal Asteraceae trait.",
+        "why_it_matters": "A known special case shows why turning over a flower head can be essential for species and genus ID.",
+        "status": "canonical_anchor_private_video_study",
+        "anchor_image_index": 1,
+        "image_credit": "Joey Santore · private study only; public reuse not cleared"
+      },
+      {
+        "title": "7 · Examine the tiny heads of horseweed",
+        "photo_role": "capitulum / very short ray florets / involucre",
+        "anchor_species_id": "erigeron-canadensis",
+        "anchor_image_index": 2,
+        "look_for": "The apparent little greenish-white 'buds' are actually Asteraceae HEADS. Each head includes several tiny florets; the marginal rays are so short you may need a hand lens.",
+        "why_it_matters": "Demonstrates that yellow rays aren't required to recognize Asteraceae and helps separate horseweed from showier fleabanes.",
+        "status": "installed_exact_species_photo_unannotated",
+        "image_credit": "Rasbak · CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_flowerhead%2C_Canadese_fijnstraal_bloemhoofdje_%285%29.jpg"
+      },
+      {
+        "title": "8 · Follow a tiny head to silky pappus",
+        "photo_role": "mature dry fruit / pappus bristles",
+        "anchor_species_id": "erigeron-canadensis",
+        "anchor_image_index": 3,
+        "look_for": "In the mature horseweed heads, the light feathery threads are PAPPUS bristles attached to dry one-seeded fruits. Need a stronger 1 mm scale macro to isolate a single cypsela.",
+        "why_it_matters": "Connects the floral head to windblown seeds without implying the silk itself is a seed.",
+        "status": "installed_exact_species_photo_unannotated",
+        "image_credit": "Rasbak · CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Conyza_canadensis_seeds%2C_Canadese_fijnstraal_zaden.jpg"
+      },
+      {
+        "title": "9 · Compare a goldenrod's clusters to horseweed",
+        "photo_role": "goldenrod arching raceme/panicle vs horseweed tiny heads",
+        "anchor_species_id": "solidago-gigantea",
+        "anchor_image_index": 0,
+        "look_for": "The large goldenrod plume is a cluster of numerous small yellow capitula, not one giant flower. Contrast horseweed's pale inconspicuous tiny capitula.",
+        "why_it_matters": "Two extremely different-looking local Asteraceae members show the same family-level head architecture.",
+        "status": "installed_exact_species_habit_reference_only",
+        "image_credit": "Calimo · CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea.jpg"
+      },
+      {
+        "title": "10 · Ragweed: an aster without showy ray flowers",
+        "photo_role": "Ambrosia artemisiifolia field reference / small green inconspicuous heads",
+        "anchor_species_id": "ambrosia-artemisiifolia",
+        "anchor_image_index": 0,
+        "look_for": "Common ragweed is an ASTER FAMILY plant even though it has no big showy sunflower 'petals'. Its flowering shoot forms an upper male spike of many tiny HEADS, and the female heads occur lower down nearer leaves. Look for those positions if the individual heads are resolved; this existing reference is not a verified dissection macro.",
+        "why_it_matters": "Asteraceae does NOT require colorful ray florets; flower HEAD architecture, protective bracts, and fruit anatomy show the family relationship.",
+        "status": "installed_exact_species_reference; detailed_male_female_head_macro_pending"
+      },
+      {
+        "title": "11 · Western ragweed: learn the female and male head vocabulary",
+        "photo_role": "Ambrosia psilostachya reference / flowering shoot",
+        "anchor_species_id": "ambrosia-psilostachya",
+        "anchor_image_index": 1,
+        "look_for": "A terminal STAMINATE head contains several pollen-bearing florets in a cup-shaped involucre. A smaller lower PISTILLATE head generally contains one female floret. That head's persistent INVOLUCRE will become a hardened BUR around the dry CYPSELA. The photo is real western ragweed, but these tiny structures are not confirmed close-up in this image.",
+        "why_it_matters": "An aster-family plant can place male and female florets in SEPARATE heads—different from sunflower disk-and-ray heads. The term INVOLUCRE still applies even when the fruiting cover becomes spiny.",
+        "status": "installed_exact_species_reference; specialist_flower_macro_pending"
+      },
+      {
+        "title": "12 · Ragweed bur: a single-seeded aster family fruit unit",
+        "photo_role": "mature single-floret female involucre / cypsela anatomy",
+        "look_for": "Request an actual close-up of one ripe Ambrosia female bur and a safely dissected specimen: show the hardened female INVOLUCRE around one CYPSELA, compare with a Xanthium bur enclosing two cypselae. A real calibrated macro photo and verified target labels are still needed.",
+        "why_it_matters": "Connects Asteraceae's dry fruit and flower-head biology to a ragweed structure that looks very different from a sunflower seed head.",
+        "status": "specialist_photo_pending"
+      },
+      {
+        "title": "13 · Coreopsis: ray flowers versus disk flowers",
+        "photo_role": "goldenmane coreopsis head / ray and central disk context",
+        "anchor_species_id": "coreopsis-basalis",
+        "anchor_image_index": 0,
+        "look_for": "Find the yellow STRAPS around the head: each is the ligule of one RAY FLORET, not a petal of a single giant flower. The central region has MANY smaller DISK FLORETS. The darker basal spots do NOT alone distinguish this plant from C. tinctoria or the C. wrightii segregate.",
+        "why_it_matters": "Provides another yellow-headed example of a composite head where ray and disk florets are different real flowers. Correctly labels visible flower parts without invented tiny-structure arrows.",
+        "status": "installed_exact_species_head_reference; private_study_rights; fine_anatomy_unverified"
+      },
+      {
+        "title": "14 · Coreopsis: bicolored rays can fool you",
+        "photo_role": "plains coreopsis contrasting color patterns / flower head",
+        "anchor_species_id": "coreopsis-tinctoria",
+        "anchor_image_index": 0,
+        "look_for": "Examine the golden RAY LIGULES and the reddish-brown color near their base. Plains coreopsis may carry much of the ray in dark red or only a small basal spot. A color ring is not a taxonomic key; the leaf divisions and underside calyculus are next.",
+        "why_it_matters": "Shows different floral color patterns in one family and why anatomy/range/habit outweigh color alone.",
+        "status": "installed_exact_species_head_reference; private_study_rights; ray_color_variable"
+      },
+      {
+        "title": "15 · Coreopsis: underside anatomy still needs its own photograph",
+        "photo_role": "underside of head / outer calyculus compared with inner involucre phyllaries",
+        "look_for": "Request a true flower HEAD SIDE-AND-UNDERSIDE macro of Coreopsis: label the OUTER ring of small CALYCULAR BRACTLETS first, then the INNER ring of INVOLUCRAL PHYLLARIES, with an individual ray floret between head and corolla. Existing front-view photographs cannot prove those precise bract positions.",
+        "why_it_matters": "An outer calyculus can be mistaken for a calyx/sepals or a whole plant leaf; the two adjacent series of bracts matter in Coreopsis versus many yellow daisies.",
+        "status": "specialist_exact_species_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Radiate vs discoid",
+        "rule": "Radiate heads have ray + disk florets. Discoid heads lack rays. Both are fully Asteraceae."
+      },
+      {
+        "title": "Ray floret ≠ petal",
+        "rule": "A ray is one whole flower, not one petal of a larger flower."
+      },
+      {
+        "title": "Goldenrod vs horseweed (both Asteraceae)",
+        "rule": "Goldenrod has clearly yellow heads grouped in a branched plume; horseweed has a tall branching array of minute pale heads whose rays are barely conspicuous. Both make dry fruits often bearing pappus."
+      },
+      {
+        "title": "Composites vs superficially daisy-like flowers",
+        "rule": "Verify individual florets in one common head above an involucre. Five separate petals surrounding one central ovary do not by themselves make Asteraceae."
+      },
+      {
+        "title": "Ambrosia versus Helianthus (both Asteraceae)",
+        "rule": "Helianthus sunflower heads usually combine conspicuous sterile or neutral ray florets with many disk florets. Ragweed lacks showy rays and separates pollen-bearing staminate from fruiting pistillate heads on the same plant. Both have multiple florets grouped into capitula, but head arrangements differ."
+      },
+      {
+        "title": "Ambrosia versus Xanthium (both Asteraceae)",
+        "rule": "Ambrosia female heads in these species usually contain one floret, with the fruiting involucre hardening around one cypsela. Xanthium's larger hooked bur typically encloses two female florets/cypselae. Fruit architecture resolves confusion."
+      },
+      {
+        "title": "Coreopsis: outer calyculus vs inner phyllaries",
+        "rule": "A calyculus is the outer circle of separate bractlets outside the true involucre. Inner phyllaries are the bracts immediately surrounding/supporting the whole head. A ray floret is one flower, not one petal; the central disk also consists of flowers. A same-head side macro is still needed."
+      },
+      {
+        "title": "Coreopsis annual vs perennial caution",
+        "rule": "Three annual project tickseeds basalis, tinctoria and the accepted wrightii concept may have divided leaves and reddish ray markings; lanceolata is a broader-leaved perennial. Do not infer target-zone native proof from a valid species card: C. lanceolata is native-range UNRESOLVED."
+      }
+    ],
+    "caveat": "Some reference photos are external-only or private-study media, explicitly marked; do not reuse private Joey screenshots on a public site without permission. The fine cypsela dissection, individual green phyllaries and exact arrows remain pending unless visually proved. No source photograph has been newly installed by this family-lesson update. The ragweed teaching examples use installed exact-species photographs, but male-versus-female floret detail and hardened bur internal anatomy have not been verified on those photos. Avoid claiming rays, a disk, or an already-annotated cypsela on a distant flowering shoot. C. basalis and tinctoria have variable ray markings; FNA includes C. wrightii in basalis while Kew/GRIN treat wrightii separately. No private-study or all-rights-reserved source is granted public reuse by this lesson.",
+    "photo_source_key": [
+      {
+        "id": "ambrosia-artemisiifolia",
+        "index": 0,
+        "role": "ragweed reference, inconspicuous flowers / male head morphology suggested study part",
+        "creator": "Qwert1234",
+        "license": "cc-by-sa",
+        "status": "installed_exact_species_reference; actual_head_detail_needs_macro"
+      },
+      {
+        "id": "ambrosia-psilostachya",
+        "index": 1,
+        "role": "western ragweed flowering reference, male/female head arrangement",
+        "creator": "AnRo0002",
+        "license": "pd",
+        "status": "installed_exact_species_reference; actual_head_detail_needs_macro"
+      },
+      {
+        "id": "coreopsis-basalis",
+        "index": 0,
+        "role": "ray and disk head context, no exact calyculus macro",
+        "creator": "Sarah Towne",
+        "license": "cc-by-nc",
+        "status": "installed_exact_species; private_study/noncommercial"
+      },
+      {
+        "id": "coreopsis-tinctoria",
+        "index": 0,
+        "role": "variable proximal ray marking and central disk context",
+        "creator": "jcmattson",
+        "license": "cc-by-nc",
+        "status": "installed_exact_species; private_study/noncommercial"
+      }
+    ],
+    "photo_coverage_note": " Two physically installed, CC BY-NC study images of Coreopsis basalis/tinctoria added to existing Asteraceae lesson. No Coreopsis wrightii local binary installed, no precise outer calyculus/inner involucre macro or verified arrows."
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-comparison-first",
+    "updated": "2026-10-07",
+    "field_question": "Is this really one flower, or a head made of many florets—and what structure proves Asteraceae rather than a merely daisy-looking family?",
+    "look_here_first": [
+      "Turn the apparent flower sideways/over: find an involucre of phyllaries beneath a common receptacle.",
+      "Zoom into the face: prove that the head contains multiple individual florets; a ray is a whole floret, not a petal.",
+      "Follow one floret downward: the ovary is inferior and matures as a one-seeded cypsela, commonly carrying a pappus."
+    ],
+    "comparison_matrix": [
+      {
+        "confusable": "Dipsacaceae-type / teasel-like heads (encounter comparison)",
+        "separate": "Asteraceae has true florets packed on a receptacle inside a phyllary involucre; inspect individual florets and fruit/pappus rather than head silhouette."
+      },
+      {
+        "confusable": "Apiaceae",
+        "separate": "CAUTION: Eryngium (Apiaceae) also forms dense heads of sessile flowers; pedicellate vs sessile is not a universal split. Dissect one unit: Eryngium has 5 free petals, 5 separate stamens, 2 styles and a two-mericarpped schizocarp; Asteraceae has a fused floret corolla, usually a tube of united anthers, and one cypsela. Match flowers and mature fruits, not silhouettes."
+      },
+      {
+        "confusable": "Caprifoliaceae sensu lato head-like clusters",
+        "separate": "Do not use a round flower cluster alone. Asteraceae confirmation is involucre + multiple florets on one receptacle + inferior one-ovule fruiting units/cypselas."
+      }
+    ],
+    "exception_locks": [
+      "Rays can be absent: Baccharis and many Eupatorieae are still Asteraceae.",
+      "A head can contain only ray-like florets or only disc florets; sunflower shape is not required.",
+      "Pappus may be conspicuous, reduced, scale-like, awned, or absent; absence of fluff does not eject a plant from the family.",
+      "Phyllary shape/series can be genus- or species-diagnostic, but a green bract under a flower cluster by itself is not enough."
+    ],
+    "genus_routing_cues": [
+      "First split head type: radiate vs discoid vs ray-only/ligulate.",
+      "Then inspect phyllary series/tips/hairs and whether the receptacle bears paleae.",
+      "Then use pappus form, cypsela characters, leaf arrangement and whole inflorescence architecture.",
+      "For thistle-like plants inspect phyllaries and pappus; for Eupatorieae-like fluffy heads inspect discoid florets plus opposite/alternate leaves and involucre."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "single capitulum cutaway or side macro",
+        "labels": "phyllaries | common receptacle | ray floret | disc floret | inferior ovary"
+      },
+      {
+        "priority": 1,
+        "shot": "matched Asteraceae and Eryngium heads, isolated flowers, and mature fruits",
+        "labels": "both may be sessile | fused vs separate petals | united vs separate anthers | cypsela vs paired mericarps"
+      },
+      {
+        "priority": 1,
+        "shot": "one floret-to-fruit sequence",
+        "labels": "corolla | inferior ovary | cypsela | pappus"
+      },
+      {
+        "priority": 1,
+        "shot": "radiate / discoid / ray-only triptych",
+        "labels": "head type; explicitly mark each visible unit as a floret"
+      },
+      {
+        "priority": 2,
+        "shot": "phyllary variation strip from local genera",
+        "labels": "number of series | appressed/recurved tips | spines | hairs/resin"
+      }
+    ],
+    "taxonomy_handoff": "None opened by this polish. Keep tribe/genus placement work in Taxonomy + Diagnostic Review if a canonical species exposes a genuine conflict."
+  },
+  "mistflower_boneset_field_key": {
+    "title": "Mistflowers and white bonesets: six-species field identification",
+    "updated": "2026-10-12",
+    "first_check": "Inspect a fully expanded middle stem leaf, lower stems and a SINGLE Asteraceae capitulum from the side; flower color and common names alone are unreliable.",
+    "comparisons": [
+      {
+        "taxon_id": "conoclinium-dissectum",
+        "common_name": "Gregg's / palmleaf mistflower",
+        "look_here_first": "Distinctly deep-lobed or dissected opposite leaf blade; blue-violet rayless heads",
+        "gallery": "6 real images; latest PD labeled-plant field photo shows foliage context",
+        "essential_view_not_yet_locked": "rights-clear isolated leaf macro showing the complete lobed margin",
+        "range_caution": "Do not infer native Hays County occurrence from planting/trade."
+      },
+      {
+        "taxon_id": "conoclinium-coelestinum",
+        "common_name": "Blue mistflower",
+        "look_here_first": "Opposite broadly triangular/deltate serrated but UNLOBED leaves with prominent basal veins; blue-violet rayless heads",
+        "gallery": "4 real images including USGS public-domain opposite-leaf view",
+        "essential_view_not_yet_locked": "same-scale isolated leaf is optional later enhancement"
+      },
+      {
+        "taxon_id": "ageratina-havanensis",
+        "common_name": "White mistflower / shrubby boneset",
+        "look_here_first": "Persistent woody shrub branching and opposite toothed, usually short-petioled leaves; clusters of pale rayless heads",
+        "gallery": "5 real images, including CC0 Austin garden habit/branch reference",
+        "essential_view_not_yet_locked": "old woody basal stem closeup; CC0 flower view does not prove woodiness",
+        "range_caution": "Cultivated specimen does not count as county-native proof."
+      },
+      {
+        "taxon_id": "ageratina-altissima",
+        "common_name": "White snakeroot",
+        "look_here_first": "Herbaceous perennial, opposite broad coarse-toothed long-petioled leaves, clusters of white rayless heads",
+        "gallery": "3 physically installed images incl. new third foliage view",
+        "essential_view_not_yet_locked": "clearly herbaceous old stem base/plant crown photo"
+      },
+      {
+        "taxon_id": "eupatorium-serotinum",
+        "common_name": "Late boneset / late thoroughwort",
+        "look_here_first": "Tall HERBACEOUS form, relatively narrow opposite coarsely toothed gland-dotted leaves, broad white rayless clusters; 9–15 florets per small head",
+        "gallery": "6 real images including Joey Santore study series and CC BY-SA flowering field branch",
+        "essential_view_not_yet_locked": "licensed head-side phyllary macro and leaf gland closeup"
+      },
+      {
+        "taxon_id": "chromolaena-odorata",
+        "common_name": "Fragrant mistflower / crucita",
+        "look_here_first": "Opposite toothed three-veined leaves and SINGLE long cylindrical 8–10 mm involucre with 4–6+ imbricate phyllary series",
+        "gallery": "3 newly installed Commons licensed photos incl. cylindrical-head side view",
+        "learner_role": "LOOKALIKE_COMPARISON",
+        "range_status": "UNRESOLVED",
+        "range_caution": "Native Texas range does not establish 3 project target-county natives; exclude from native-only count."
+      }
+    ],
+    "photo_exercise": "Compare dissected Gregg's leaf to intact serrate blue leaf; woody white mistflower to herbaceous white snakeroot; narrow gland-dotted late boneset leaves to other broad leaves; one cylindrical Chromolaena head to shorter rounded Conoclinium heads. Annotate real source photographs with visible arrows only after verifying the target structure.",
+    "defer_to_final_polish": [
+      "A. havanensis hairy cypsela body versus A. altissima hairless cypsela under magnification, not pappus bristles.",
+      "Conoclinium matched fruit hairiness/size microscopy and phyllary-ruler plates.",
+      "Other tiny reproductive measurements where adequate closeups are unavailable."
+    ],
+    "taxon_and_name_notes": "Some retail sources call A. havanensis fragrant mistflower too. Scientific names are the disambiguation labels. Neither learner inclusion nor this family field comparison changes county nativity.",
+    "sources": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066412",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220003245",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066014",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066013",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416536",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242312602"
+    ],
+    "status": "practical field coverage installed for all six; exact diagnostic close-ups listed separately; not final photographic polish"
+  },
+  "silphium_anatomy_extension": {
+    "title": "Rosinweeds: ray/disk florets, phyllaries, and rough divided leaves",
+    "look_here_first": "Start with white- versus yellow-rayed heads, then compare a low leaf from the entire plant, not just leaves near the flower. To recognize Asteraceae, turn the head sideways to find the involucre of phyllaries and look at disk florets centrally and rays around the rim.",
+    "photo_examples": [
+      {
+        "species": "Silphium albiflorum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/01-white-flowers.jpg",
+        "role": "White rays and flowering heads",
+        "creator": "TDogg310",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum_Flowers.jpg"
+      },
+      {
+        "species": "Silphium albiflorum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/images/02-roadside-habit.jpg",
+        "role": "Whole-plant/roadside habit",
+        "creator": "Mason Brock",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum.jpg"
+      },
+      {
+        "species": "Silphium radula",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-radula/images/01-flowering-habit.jpg",
+        "role": "Broad coarse leaves and yellow heads",
+        "creator": "Eric Hunt",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_radula_Arkansas.jpg"
+      },
+      {
+        "species": "Silphium laciniatum",
+        "path": "content/taxa/Asteraceae/Silphium/silphium-laciniatum/images/silphium-laciniatum-provisional-face.jpg",
+        "role": "Yellow flowering shoot; important basal leaves are NOT shown",
+        "creator": "Frank Mayfield",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_2.jpg",
+        "range_status": "RANGE_UNRESOLVED"
+      }
+    ],
+    "range_caution": "Silphium laciniatum remains range-unresolved in project, although useful as an ID comparison; do not promote based on introduced Hays record.",
+    "specialist_photo_needs": [
+      "Clear outer and inner phyllaries from beneath Silphium head",
+      "Ray versus disk floret dissections",
+      "Mature flattened ray cypsela",
+      "Matched broad versus deeply pinnatifid lower leaves"
+    ],
+    "photo_binary_added": false
+  },
+  "gaillardia_photo_extension": {
+    "title": "Gaillardia: head front, underside phyllaries, and basal rosette",
+    "first_step": "Check whether leaves cluster in a basal rosette and the long flowering stalk is almost leafless (typical G. suavis), or leaves occur along flowering stems.",
+    "second_step": "Compare ray florets and tubular central disk florets from the front; look from below for overlapping green phyllaries forming the involucre.",
+    "third_step": "Finish with a mature cypsela and pappus close-up, especially for tricky red/yellow blanketflowers.",
+    "physical_reusable_examples": [
+      {
+        "species_id": "gaillardia-aestivalis",
+        "image_url": "content/taxa/Asteraceae/Gaillardia/gaillardia-aestivalis/images/gaillardia-aestivalis-provisional-face.jpg",
+        "creator": "Alan Rockefeller",
+        "license": "CC BY-SA 4.0",
+        "public_reuse": "attribution/share-alike",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Gaillardia_aestivalis_Texas.jpg",
+        "observed_anatomy": "Head front with yellow-orange ray florets and dark maroon central disk; no visible basal leaves or underside phyllaries.",
+        "caption": "Ray and disk florets in a lanceleaf blanketflower head; leaf-attachment confirmation needs a separate photo.",
+        "visual_status": "installed_verified; annotation_pending",
+        "future_arrow_target": "yellow-orange outer ray florets and dark central disk; coordinates pending",
+        "markers": []
+      },
+      {
+        "species_id": "gaillardia-amblyodon",
+        "image_url": "content/taxa/Asteraceae/Gaillardia/gaillardia-amblyodon/images/gaillardia-amblyodon-provisional-face.jpg",
+        "creator": "Megan Kossa",
+        "license": "CC BY 4.0",
+        "public_reuse": "attribution",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Gaillardia_amblyodon,_Texas,_US_imported_from_iNaturalist_photo_72187260.jpg",
+        "observed_anatomy": "Close head front with reddish rays and a dark disk with yellow center; no stem architecture or phyllary underside.",
+        "caption": "The head's ray florets and central disk are visible; do not decide this species from red color alone.",
+        "visual_status": "installed_verified; annotation_pending",
+        "future_arrow_target": "outer strap-shaped ray and center disk; coordinates pending",
+        "markers": []
+      },
+      {
+        "species_id": "gaillardia-pulchella",
+        "image_url": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/images/01-curated-reference.jpg",
+        "creator": "TexasEagle",
+        "license": "CC BY-NC",
+        "public_reuse": "review; noncommercial restriction",
+        "source_page": "https://www.inaturalist.org/taxa/51768",
+        "observed_anatomy": "Head front with red ray bases, yellow ray tips and central disk; underside phyllaries and leaves not visible.",
+        "caption": "A firewheel head shows rays and disk; this image does not prove underside phyllary structure.",
+        "visual_status": "installed_verified; annotation_pending",
+        "future_arrow_target": "yellow ray tip, red ray base and disk; coordinates pending",
+        "markers": []
+      },
+      {
+        "species_id": "gaillardia-pulchella",
+        "image_url": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/images/02-curated-reference.jpg",
+        "creator": "Conway Hawn",
+        "license": "CC0",
+        "public_reuse": "yes",
+        "source_page": "https://www.inaturalist.org/taxa/51768",
+        "observed_anatomy": "Physical image file now exists (1,615,805 bytes). Detailed anatomy not newly pixel-reviewed during this pass.",
+        "caption": "Curated additional firewheel photograph; verify exact anatomical targets before drawing arrows.",
+        "visual_status": "physically_installed_nonempty; anatomy_pixel_review_pending",
+        "markers": [],
+        "future_arrow_target": "pending actual image inspection"
+      }
+    ],
+    "restricted_examples_count": 3,
+    "external_reference": "https://commons.wikimedia.org/wiki/File:Gaillardia-suavis01.jpg",
+    "anatomy_gaps": [
+      "true G. suavis photo of basal leaves and flowering stalk",
+      "matched underside phyllaries across four species",
+      "millimeter-scale mature cypsela/pappus"
+    ],
+    "range_guardrail": "G. aestivalis remains HOLD/provisional; use as comparison only.",
+    "photo_verification": "GitHub nonzero file sizes checked; fine anatomical landmarks and arrow positions not freshly pixel-verified."
+  }
+}

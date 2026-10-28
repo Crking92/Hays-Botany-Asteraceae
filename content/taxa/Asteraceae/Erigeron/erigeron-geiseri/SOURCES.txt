@@ -1,0 +1,20 @@
+Erigeron geiseri Shinners, Geiser's fleabane. Approved Master Plant Pool row 432, reviewed 2026-10-11.
+Taxonomy: Kew POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:93795-2 ; Flora of North America through WFO https://www.worldfloraonline.org/taxon/wfo-0000038921 .
+Identification: slender annual taproot; lower spreading or deflexed stem hairs; upper strigose hairs; 44-70 rays (3-6 mm); involucre 2.5-3.5 mm. Check root crown and hairs, not rays alone.
+Compare Erigeron modestus, E. tenellus and E. versicolor. Historical E. geiseri var. calcicola maps to E. versicolor, not a synonym to merge into this card.
+Target-zone county native status UNRESOLVED. Source-pool approval permits learner inclusion, but not confirmed-native counting. Exact-species photo backfill pending.
+
+PROVISIONAL GBIF EXACT-SPECIMEN FIRST PHOTO 2026-10-15T13:06:24.687176+00:00
+Erigeron geiseri Shinners
+Conveyor Belt
+CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+https://www.gbif.org/occurrence/1455970091
+https://collections.nmnh.si.edu/media/?i=11518731&h=2000
+Anatomy visual verification pending; no scientific taxon/range status changed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Erigeron geiseri Shinners
+https://www.gbif.org/occurrence/1837096832
+Andy Newman | CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+Target visual view (NOT YET verified): Stem hair direction (lower deflexed vs upper appressed), phyllaries and basal root
+No anatomy arrows; no scientific or native-range changes.

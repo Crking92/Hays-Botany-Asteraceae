@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Pseudognaphalium%20canescens
+Source research-grade observation: https://www.inaturalist.org/observations/262898422
+Photo: https://www.inaturalist.org/photos/472191127
+Attribution: (c) Dan Beckman, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

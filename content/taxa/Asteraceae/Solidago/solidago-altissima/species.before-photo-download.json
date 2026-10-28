@@ -1,0 +1,42 @@
+{
+  "id": "solidago-altissima",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago altissima",
+  "authority": "L.",
+  "common_name": "Tall Goldenrod",
+  "field_group": "Goldenrod",
+  "project_tracker_diagnostic": "Tall colony-forming goldenrod with plume-like panicles of many small yellow heads and rougher leaves/stems; often more robust than Canada goldenrod.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial, often rhizomatous.",
+    "habit": "Tall erect herb often forming colonies.",
+    "leaves": "Alternate, lanceolate, serrate, rough/scabrous, 3-nerved.",
+    "heads": "Many very small yellow heads in arching or plume-like panicles.",
+    "phyllaries": "Small, several series.",
+    "fruit": "Cypselae with pappus bristles.",
+    "best_field_traits": [
+      "tall golden panicles",
+      "rough leaves/stems",
+      "colony-forming habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch2",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

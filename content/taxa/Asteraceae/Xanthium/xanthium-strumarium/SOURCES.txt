@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 1266.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Xanthium%20strumarium
+Exact source photograph https://commons.wikimedia.org/wiki/File:Xanthium_strumarium_2026_G1.jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Xanthium%20strumarium%202026%20G1.jpg
+Original photo creator George Chernilevsky
+Photo file-level license CC BY 4.0
+Provisional photo role Provisional cocklebur visual recognition in a named species photo; burr morphology and local species complex unresolved.
+Caution Taxonomy/range of Xanthium strumarium complex is unsettled; photograph from Ukraine, not reliable evidence of Texas identity or origin.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

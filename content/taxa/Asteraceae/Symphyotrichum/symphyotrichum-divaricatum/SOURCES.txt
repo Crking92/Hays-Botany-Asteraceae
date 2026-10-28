@@ -1,0 +1,18 @@
+Symphyotrichum divaricatum — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77130636-1
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067784
+
+PROJECT TRACKER DIAGNOSTIC
+Open, branching white aster with many small heads, often dark wiry stems, and thin serrate leaves that narrow to short petioles.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH2-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

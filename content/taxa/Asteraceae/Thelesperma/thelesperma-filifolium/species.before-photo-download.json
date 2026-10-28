@@ -1,0 +1,41 @@
+{
+  "id": "thelesperma-filifolium",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
+  "scientific_name": "Thelesperma filifolium",
+  "authority": "(Hook.) A.Gray",
+  "common_name": "Stiff Greenthread",
+  "project_tracker_diagnostic": "Annual with leaves dissected into very narrow threadlike segments; heads usually have 8 yellow rays and red-brown to yellow discs; common in disturbed limestone and roadside settings.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual, sometimes persisting.",
+    "habit": "Slender, branching herb.",
+    "leaves": "Cauline leaves divided into narrow linear to filiform lobes.",
+    "heads": "Usually 8 yellow to golden-yellow rays; disc corollas red-brown or yellow with red-brown nerves.",
+    "phyllaries": "Involucre subtended by a calyculus of 7\u20138+ narrow bractlets.",
+    "best_field_traits": [
+      "threadlike leaf lobes",
+      "8 yellow rays",
+      "red-brown/yellow disc",
+      "slender greenthread habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch3",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

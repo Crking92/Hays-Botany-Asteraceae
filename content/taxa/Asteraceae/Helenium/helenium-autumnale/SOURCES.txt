@@ -1,0 +1,46 @@
+HELENIUM AUTUMNALE — DEEP REVIEW SOURCES
+Reviewed: 2026-10-03
+Status: PASS / BLANKET APPROVED
+
+Taxonomy
+Kew/POWO:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A211760-1
+
+Range
+USDA-derived county data (includes Hays, Travis, Bell, Blanco, Gillespie, Kerr):
+https://rootfast.org/plants/HEAU
+Travis herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Asteraceae3.html
+Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Helenium%20autumnale
+Decision: PASS — Hays, Travis, Williamson (with several additional project counties supported).
+
+Morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220006159
+
+LOOK HERE FIRST
+Perennial + strongly winged stem + broader often toothed leaves + larger heads.
+
+
+## Physical gallery fast-fill — 2026-10-05 / batch 009
+Media-only; settled taxonomy/range and PASS status preserved.
+Photos are identification references, not evidence for new county occurrences.
+Automated normalization resizes/recompresses the original photographs; no annotations added.
+Credit, original source, observation/photo identifiers, license URL and reuse conditions are in image-sources.csv. CC BY-SA adaptations retain the indicated same license.
+01-flowering-reference.jpg: Flowering upper plant and flower heads
+Creator: C T Johansson; License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+Source: https://commons.wikimedia.org/wiki/File:Helenium_autumnale-IMG_6120.jpg
+Context: Vasteras botanical garden; no cultivar specified, not county evidence
+
+02-field-habit.jpg: Close flower head showing raised disk and toothed rays
+Creator: Judy Gallagher; License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+Source: https://commons.wikimedia.org/wiki/File:Common_Sneezeweed_-_Helenium_autumnale,_Leesylvania_State_Park,_Woodbridge,_Virginia_(37226894072).jpg
+Context: Leesylvania State Park, Virginia; Flickr photo 37226894072
+
+03-flower-head.jpg: Wild flowering plant with broad toothed leaves and leafy stems
+Creator: Aaron Carlson; License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+Source: https://commons.wikimedia.org/wiki/File:Helenium_autumnale_(6157516008).jpg
+Context: Wisconsin; Flickr photo 6157516008
+
+Remaining visual needs: Physical exact-species photographs provide field habit and flower-head views; a dedicated decurrent leaf-base/stem-wing macro remains follow-up.

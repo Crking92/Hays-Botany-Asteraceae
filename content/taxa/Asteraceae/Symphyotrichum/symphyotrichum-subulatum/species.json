@@ -1,0 +1,151 @@
+{
+  "id": "symphyotrichum-subulatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "species": "subulatum",
+  "scientific_name": "Symphyotrichum subulatum",
+  "authority": "(Michx.) G.L.Nesom",
+  "common_name": "Eastern annual saltmarsh aster",
+  "synonyms": [
+    "Aster subulatus Michx."
+  ],
+  "taxonomic_note": "Older Texas records placed multiple entities under Symphyotrichum subulatum. Modern Texas treatment separates former var. ligulatum as Symphyotrichum divaricatum and former var. parviflorum as Symphyotrichum expansum; true S. subulatum is concentrated in far southeast Texas.",
+  "look_here_first": "TRUE eastern annual saltmarsh aster under the narrow modern Texas concept: first photograph the ENTIRE flowering array on an unmowed mature plant. S. subulatum typically concentrates more heads in an upper, denser PYRAMID, whereas inland S. divaricatum is conspicuously DIFFUSE with large gaps between flower heads. The denser pyramid is relative, not a solid cone; mowed or damaged plants and single head macros cannot establish the split. Check narrow sessile leaves, side-view phyllaries (green zone towards distal part of bracts reported for subulatum, overlap/visibility uncertain), and coastal or saline SE Texas provenance; do NOT use habitat alone. The older Uvalde 'S. subulatum' image is quarantined as taxonomically incompatible without independent review.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Current Texas taxonomic treatment places true Symphyotrichum subulatum in the far southeastern part of the state rather than the Central Texas project zone. The Purola Hays record reflects the older broad subulatum concept and is not used as current-species evidence.",
+    "range_guardrail": "Historical var. ligulatum records in Central Texas must not be counted as true S. subulatum; they map to S. divaricatum.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual or short-lived herb",
+      "narrow linear to subulate leaves",
+      "many small heads in relatively dense pyramidal inflorescence",
+      "small pale lavender to whitish rays",
+      "wet disturbed or saline habitats"
+    ],
+    "comparison_training": "Use whole unmowed terminal array and phyllary side view. S. subulatum more top-dense pyramidal, saline/coastal SE Texas; S. divaricatum open diffuse with widely separated heads and common inland. The green portion of phyllaries is reported upper-only in subulatum vs extending farther down in divaricatum, but hard to see reliably; never force from one fuzzy bract photo. Prior Uvalde 2014 label is OLD/BROAD or unresolved concept and does NOT certify current true subulatum."
+  },
+  "curation_status": {
+    "version": "1.0-b090",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 2,
+    "photo_files_present": 1,
+    "visual_comparison_upgrade": "aster-genus-2.2",
+    "scientific_FAIL_preserved": true,
+    "photo_identity_quarantine": true,
+    "old_file_retained_but_quarantined": 1,
+    "final_first_pass": true,
+    "manual_library_install_011": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eastern%20annual%20saltmarsh%20aster%20flower%20closeup.jpg",
+      "role": "PROVISIONAL labeled S. subulatum flower close-up; photograph from Missouri, not Texas, with no flowering panicle or specimen-level independent verification. Orientation only.",
+      "creator": "Agathman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eastern_annual_saltmarsh_aster_flower_closeup.jpg",
+      "source_provenance": "Pemiscot County, Missouri; photographer own work, 2018-09-13",
+      "study_use": "yes, provisional taxon-label only",
+      "public_reuse": "yes, CC BY-SA attribution and derivative obligations",
+      "photo_identity_status": "PROVISIONAL; label alone not voucher confirmation",
+      "installation_status": "remote Commons linked only; historical Uvalde file retained locally but quarantined"
+    },
+    {
+      "file": "images/library-review011-3da293e58a72b8e.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Close small white ray florets and narrow green stems; sparse habit shots omitted",
+      "creator": "Joshua Ebright",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5889579478",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581425490/original.jpg",
+      "source_determination": "Symphyotrichum subulatum",
+      "source_observation_id": "5889579478",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/symphyotrichum-subulatum/gbif-f13f288c240ce7.jpg",
+      "archive_image_sha256": "740aa744d844eb29a6b25ceffc0ad9048d589b7f18e4fe8585047d468a8869dd",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_comparison_photo",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "physical_displayed_image_count": 0,
+    "hold": "Uvalde 2014 legacy photo attribution does not support current species concept",
+    "note": "Remote provisional head photo only; no verified true subulatum full flowering architecture; final polish required."
+  },
+  "photo_note": "One source-labeled CC BY-SA 4.0 Missouri flowering-head photo is remote-linked for provisional face. Prior Uvalde CC0 physical file is kept in the repository for historical auditing but quarantined from the active images gallery due to modern species-boundary conflict. No true Gulf coast full-array photograph installed yet. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum divaricatum",
+      "Symphyotrichum expansum"
+    ],
+    "key_distinctions": "S. divaricatum widely spaced heads/loosely diffuse inflorescence, usually inland non-saline habitat; TRUE S. subulatum more compact upper pyramid, largely coastal saline SE Texas. The morphology overlaps, especially after mowing. Historical subulatum var. ligulatum now goes to S. divaricatum in project; var. parviflorum historically to S. expansum. Quarantined Uvalde Commons photo is NOT species identity proof."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Authenticated whole mature flowering plant, upper pyramid",
+      "priority": "must-have final polish",
+      "status": "UNFILLED",
+      "note": "Actual full plant from modern true subulatum sensu stricto in saline/coastal region, not a mislabeled inland older concept"
+    },
+    {
+      "role": "Matched S. divaricatum vs true S. subulatum inflorescences with same scale",
+      "priority": "must-have final polish",
+      "status": "UNFILLED",
+      "note": "Habitat and morphology in same comparison view; matched views needed"
+    },
+    {
+      "role": "Scaled phyllary macro exposing green zone along both outer and inner bracts",
+      "priority": "diagnostic final polish",
+      "status": "UNFILLED; variation/visibility high",
+      "note": "Any 'hardened base' split needs verified macroscopic or voucher-quality evidence"
+    },
+    {
+      "role": "Existing Uvalde image taxon identity resolution",
+      "priority": "scientific audit",
+      "status": "ON HOLD",
+      "note": "Do not present historical Uvalde S. subulatum photo as proof of current eastern species."
+    }
+  ],
+  "historical_photo_identity_hold_2026_10_12": {
+    "file": "images/symphyotrichum-subulatum-provisional-face.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SYMPHYOTRICHUM_SUBULATUM.jpg",
+    "creator": "Gaiacoyote",
+    "license": "CC0 1.0",
+    "source_location": "Cook's Slough Nature Park, Uvalde County, Texas",
+    "reason": "Original uploader's own page identifies a 2014 Uvalde specimen as S. subulatum, but current Texas split treats typical inland Uvalde plants under S. divaricatum (formerly S. subulatum var. ligulatum). A photographed individual involucre alone cannot conclusively resolve these taxa. Taxon attribution REQUIRES REVIEW; do not show as a verified modern S. subulatum diagnostic face.",
+    "preserved_file_in_repo": true,
+    "file_visibility": "Retained in historical images folder, but excluded from active species images[] and genus gallery pending specimen-level independent review.",
+    "sources": [
+      "https://commons.wikimedia.org/wiki/File:SYMPHYOTRICHUM_SUBULATUM.jpg",
+      "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas"
+    ]
+  }
+}

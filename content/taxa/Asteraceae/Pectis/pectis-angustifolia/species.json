@@ -1,0 +1,37 @@
+{
+  "id": "pectis-angustifolia",
+  "family": "Asteraceae",
+  "genus": "Pectis",
+  "species": "angustifolia",
+  "scientific_name": "Pectis angustifolia",
+  "common_name": "Lemonscent",
+  "look_here_first": "Recognize the low, aromatic herb with narrow opposite leaves and small yellow composite flower heads. Inspect dark leaf glands, phyllaries and achenes to separate other Pectis.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pectis%20angustifolia",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "The source photograph is from New Mexico. Do not infer target-county nativity from the image.",
+  "images": [
+    {
+      "file": "images/commons-pectis-angustifolia.jpg",
+      "role": "Provisional flowering/herb habit; dark glands and tiny achenes need diagnostic macro photographs.",
+      "creator": "Craig Martin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pectis_angustifolia_C01.jpg",
+      "study_use": "Noncommercial botanical identification learner",
+      "public_reuse": "CC0 public domain dedication, photographer credit retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

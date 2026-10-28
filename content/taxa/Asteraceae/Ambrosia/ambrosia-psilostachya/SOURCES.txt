@@ -1,0 +1,18 @@
+Ambrosia psilostachya — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/30153070-2
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416043
+
+PROJECT TRACKER DIAGNOSTIC
+Perennial ragweed; lower leaves opposite and upper leaves alternate; blades toothed to pinnately lobed; often forms colonies from spreading roots/rhizomes.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH3-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

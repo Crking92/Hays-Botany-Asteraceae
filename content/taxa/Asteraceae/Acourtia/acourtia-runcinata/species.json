@@ -1,0 +1,106 @@
+{
+  "id": "acourtia-runcinata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Acourtia",
+  "species": "runcinata",
+  "scientific_name": "Acourtia runcinata",
+  "authority": "(D.Don) B.L.Turner",
+  "common_name": "Featherleaf desertpeony",
+  "synonyms": [
+    "Clarionia runcinata",
+    "Perezia runcinata"
+  ],
+  "look_here_first": "Inspect the basal rosette: deeply pinnately lobed and spinulose-toothed leaves, then the leafless scape bearing 1–3 heads with 25–53 disk florets.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas state-native; no verified three-county project PASS."
+  },
+  "morphology_keys": {
+    "leaves": "Basal, pinnately lobed, sharply toothed.",
+    "heads": "One to three rayless heads with 25–53 disk florets.",
+    "habit": "Low rosette perennial, leafless flowering scape."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Acourtia wrightii"
+    ],
+    "key_distinctions": "A. wrightii has taller leafy stems and unlobed toothed cauline leaves, with 8–12 florets/head."
+  },
+  "images": [
+    {
+      "file": "images/acourtia-runcinata-flowering-heads.jpg",
+      "role": "Recognize · several pale pinkish-white composite heads raised on long thin nearly leafless flowering stalks; basal leaf architecture not shown",
+      "creator": "Clarence A. Rechenthin",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acourtia_runcinata.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/joey-inat-524149140.jpg",
+      "role": "Look closer · basal cluster of deeply lobed toothed leaves on rocky ground with spent flowering heads; leaf margin details visible",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/524149140",
+      "observation_url": "https://www.inaturalist.org/observations/291324072",
+      "observation_id": "291324072",
+      "photo_id": "524149140",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/524149140/large.jpg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-524149171.jpg",
+      "role": "Look closer · slender developing flower buds on tall branching stalks above deeply lobed leaves; mature head phyllaries need closer examination",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/524149171",
+      "observation_url": "https://www.inaturalist.org/observations/291324072",
+      "observation_id": "291324072",
+      "photo_id": "524149171",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/524149171/large.jpg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "PHYSICALLY INSTALLED 2026-10-14: one public-domain USDA-NRCS exact-species image, Clarence A. Rechenthin, original USDA ID acru3_001_ahp.tif; see SOURCES.txt and Wikimedia Commons source_page. LOOK HERE FIRST: flowering stalks and several pale flower heads are visible; use as a provisional face image, not as proof of rosette characters. STILL NEED: sharp basal pinnately lobed spinulose-toothed leaf rosette and close-up of disk florets. annotation_pending: no verified arrows or coordinate targets. Existing gallery preserved (0 before; 1 after). Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

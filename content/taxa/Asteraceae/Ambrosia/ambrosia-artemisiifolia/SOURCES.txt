@@ -1,0 +1,18 @@
+Ambrosia artemisiifolia — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:176058-1
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023072
+
+PROJECT TRACKER DIAGNOSTIC
+Annual; lower leaves opposite and upper leaves alternate; blades 1–2-pinnately lobed; male heads form terminal spikes and female heads sit below in leaf axils.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH3-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

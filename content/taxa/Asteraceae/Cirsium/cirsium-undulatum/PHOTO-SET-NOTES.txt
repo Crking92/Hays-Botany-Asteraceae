@@ -1,0 +1,6 @@
+﻿Cirsium undulatum PHOTO SET
+
+Resolved iNaturalist taxon: Cirsium undulatum [ID 76358]
+Downloaded images: 5
+
+This script patched only the images array in species.json and preserved the rest of the species data.

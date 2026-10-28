@@ -1,0 +1,156 @@
+{
+  "id": "chromolaena-odorata",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Chromolaena",
+  "species": "odorata",
+  "scientific_name": "Chromolaena odorata",
+  "authority": "(L.) R.M.King & H.Rob.",
+  "common_name": "Fragrant mistflower",
+  "common_names": [
+    "Crucita",
+    "Fragrant boneset",
+    "Jack-in-the-bush",
+    "Siam weed"
+  ],
+  "synonyms": [
+    "Eupatorium odoratum L."
+  ],
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "source_admission": {
+    "basis": "User explicitly requested missing fragrant mistflower and look-alike comparison in Hays botany study project",
+    "approved_as": "encounter_value_comparison",
+    "not_a_confirmed_project_native": true,
+    "source_pool_status": "not currently in approved Master Plant Pool"
+  },
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Native in Texas at state level; no 3 target-zone counties independently verified. Comparison-only; EXCLUDE from confirmed project native metrics.",
+    "confirmed_target_counties": [],
+    "learner_eligible": true
+  },
+  "look_here_first": "On a bushy, sometimes sprawling plant with opposite triangular, 3-veined toothed leaves, inspect ONE flowering head from its side: it has a longer cylindrical involucre about 8–10 mm, with multiple (typically 4–6+) imbricate phyllary series. Contrast shorter hemispheric Conoclinium heads and white Ageratina shrubby mistflower; common names overlap.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "opposite petiolate coarsely toothed leaves with 3 strong basal veins",
+      "subshrub or sprawling branching shrub habit",
+      "clusters of rayless lavender/pinkish to nearly white capitula",
+      "individual cylindrical involucre about 8–10 mm long, with 4–6(–8) phyllary series"
+    ],
+    "habit": "Perennial subshrub or shrub, often 0.8–2.5 m, branched and sometimes sprawling/subscandent.",
+    "leaf_arrangement": "Opposite",
+    "leaves": "Petioles approximately 5–20 mm; lanceolate to deltate or ovate-lanceolate 3–10 × 1–4 cm, often serrate, 3 main veins from near base.",
+    "heads": "Cluster of numerous small disk-only capitula, no ray florets. Individual involucre usually cylindrical, approximately 8–10 mm long with imbricate 4–6(–8) series of phyllaries.",
+    "fruit": "Cypsela with pappus bristles; matched seed macro deferred to later microscopy polish.",
+    "sensory_note": "Aroma can support familiarity but should not be used for definitive species identification."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Conoclinium coelestinum",
+      "Conoclinium dissectum",
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Eupatorium serotinum"
+    ],
+    "key_distinctions": "Versus C. coelestinum: much longer cylindrical individual involucres and more phyllary series; blue mistflower has shorter more hemispheric heads. Versus C. dissectum: Gregg's deeply dissected leaves. Versus A. havanensis: white shrubby mistflower usually has shorter 4–6 mm involucres; color and woody habit alone overlap. Versus late boneset: Eupatorium serotinum is a tall herb with fewer phyllary series and different narrower gland-dotted leaves."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "flower_head_side_involucre",
+      "priority": 1,
+      "shot": "one head from side clearly exposing elongated phyllaries",
+      "status": "CANDIDATE_SOURCED_COMMONS_NO_RULER",
+      "note": "J.M.Garg photograph shows cylindrical involucres but not reliable mm scale; exact measurement is FNA description."
+    },
+    {
+      "role": "mature_opposite_leaves",
+      "priority": 1,
+      "shot": "pair of toothed, basally three-veined leaves",
+      "status": "SOURCED_COMMONS"
+    },
+    {
+      "role": "habit",
+      "priority": 2,
+      "shot": "branching woody/subshrub growth",
+      "status": "SOURCED_COMMONS"
+    },
+    {
+      "role": "matched_ruler_phyllaries",
+      "priority": 3,
+      "shot": "one head same scale as local mistflowers with annotations",
+      "status": "DEFER_FINAL_POLISH"
+    }
+  ],
+  "photo_note": "Provisional comparison learner; exact-species rights-clear photos supplied for leaf/habit/long involucre. Matched ruler/fruit microscopic photos deferred. The Austin/Hays target-native label remains UNRESOLVED.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "range_reviewed": false,
+    "lookalikes_reviewed": true,
+    "user_requested": true,
+    "last_reviewed": "2026-10-12",
+    "version": "1.0-visual-encounter-comparison",
+    "photo_status": "verified_installed_3_images",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_verified_at": "2026-10-12"
+  },
+  "sources": [
+    {
+      "authority": "Flora of North America species",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242312602"
+    },
+    {
+      "authority": "Flora of North America Chromolaena genus key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=106935"
+    },
+    {
+      "authority": "Kew Plants of the World Online",
+      "url": "https://powo.science.kew.org/taxon/57443-2"
+    },
+    {
+      "authority": "USDA GRIN distribution",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=403697"
+    },
+    {
+      "authority": "BONAP county occurrence map",
+      "url": "https://bonap.net/TDC/Image/Map?locationType=County&mapType=Normal&taxonId=2524&taxonType=Species"
+    }
+  ],
+  "tags": [
+    "Asteraceae",
+    "Chromolaena",
+    "Mistflower lookalike",
+    "Comparison only",
+    "County status unresolved"
+  ],
+  "images": [
+    {
+      "file": "images/01-leaves-and-habit.jpg",
+      "role": "Foliage habit and serrate 3-veined leaves",
+      "creator": "L. Shyamal",
+      "license": "CC BY 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-mature-leaf-closeup.jpg",
+      "role": "Leaf outline, basal veins and margin teeth",
+      "creator": "M.arunprasad",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata%20leaves%20(2006).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flower-head-side-cylindrical.jpg",
+      "role": "Cylindrical capitula and layered green phyllaries in side view",
+      "creator": "J.M.Garg",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata%20(Common%20floss%20flower)%20W2%20IMG%201450.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Approved Master Plant Pool source preflight; POWO name reference: https://powo.science.kew.org/results?q=Diaperia%20verna
+Joey Santore iNaturalist Research Grade observation: https://www.inaturalist.org/observations/110305384
+Exact photo: https://www.inaturalist.org/photos/186054071
+Direct photo: https://inaturalist-open-data.s3.amazonaws.com/photos/186054071/large.jpeg
+Attribution: (c) Joey Santore, some rights reserved (CC BY-NC)
+Photo license: Creative Commons Attribution-NonCommercial (CC BY-NC)
+Photo role not anatomically verified. No county nativity inferred.

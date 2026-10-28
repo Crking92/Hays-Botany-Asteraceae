@@ -1,0 +1,129 @@
+{
+  "id": "thelesperma-megapotamicum-var-ambiguum",
+  "entry_type": "provisional_species",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
+  "species": "megapotamicum",
+  "scientific_name": "Thelesperma megapotamicum var. ambiguum",
+  "authority": "(A.Gray) Shinners",
+  "common_name": "Ambiguous greenthread",
+  "look_here_first": "Provisional learner for the old Thelesperma ambiguum concept; use alongside other greenthreads until project taxonomy/range is tightened.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: none locked.",
+    "range_guardrail": "Kew folds T. ambiguum here; ITIS still accepts T. ambiguum at species rank."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "greenthread-type composite",
+      "yellow ray florets",
+      "dark central disc typical of group",
+      "finely divided foliage"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_ambiguum_photo_date": "2026-10-15",
+    "manual_library_install_013": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/joey-inat-211357457.jpg",
+      "role": "First-pass photo of Kew-mapped variety concept; floral diagnostic features unverified",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/211357457",
+      "observation_url": "https://www.inaturalist.org/observations/124681747",
+      "observation_id": "124681747",
+      "photo_id": "211357457",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/211357457/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "noncommercial education",
+      "public_reuse": "no commercial reuse; retain Joey attribution",
+      "photo_review": "iNaturalist Research Grade at exact variety rank, mapped to Kew accepted Thelesperma megapotamicum var. ambiguum; visual field diagnostic confirmation pending"
+    },
+    {
+      "file": "images/library-review013-e800a160183a655.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Lateral involucral bract profile plus face-on yellow flowerhead; taxon variety source concept provisional",
+      "creator": "Chet Burrier",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6352515535",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625084635/original.jpg",
+      "source_determination": "Thelesperma megapotamicum var. ambiguum",
+      "source_observation_id": "6352515535",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/thelesperma-megapotamicum-var-ambiguum/gbif-2367228470976d.jpg",
+      "archive_image_sha256": "ae8b1f9addbec8198bd9e941cd74fa6f79149b913387c93d572f849ad2ea2102",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review013-5d8bb54ff7e51c9.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Lateral involucral bract profile plus face-on yellow flowerhead; taxon variety source concept provisional",
+      "creator": "Chet Burrier",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234499760",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644489282/original.jpg",
+      "source_determination": "Thelesperma megapotamicum var. ambiguum",
+      "source_observation_id": "6234499760",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/thelesperma-megapotamicum-var-ambiguum/gbif-bd4e2954f5264e.jpg",
+      "archive_image_sha256": "0b3d9c9e9e8c868c0ba83f4c97f88e2aa93b2b9e3e8d5e4ba0832ff9f88339b1",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Exact infraspecific iNaturalist taxon concept photo installed; flower/morphology differences not yet verified",
+    "missing_diagnostic_views": [
+      "Corroborate flowers, foliage, and species look-alikes"
+    ]
+  },
+  "photo_note": "Joey Santore noncommercial CC BY-NC first photograph provisionally installed from exact variety-level observation; do not use to infer range. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

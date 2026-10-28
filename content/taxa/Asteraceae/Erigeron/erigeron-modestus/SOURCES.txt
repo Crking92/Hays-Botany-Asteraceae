@@ -1,0 +1,18 @@
+Erigeron modestus A.Gray, Plains fleabane. Approved Master Plant Pool row 433, reviewed 2026-10-11.
+Flora of North America: https://floranorthamerica.org/Erigeron_modestus
+Kew Plants of the World Online: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:204164-1
+Identification: thick woody root crown and old basal stems; heads vary from early large to later multiple smaller; ray number 24-65 (occasionally 170), ray length 4-7 (occasionally 11) mm, involucre 3-4.5 mm. Compare annual slender-rooted E. geiseri. FNA describes a variable polyploid complex and some identifications require vouchers.
+Synonyms include E. plateauensis and E. lobatus var. warnockii; do not install those as distinct species.
+Target-zone county native status UNRESOLVED. Source-pool approval permits learner inclusion but not confirmed-native counting. Exact-species photo backfill pending.
+
+FIRST LICENSED PHOTOGRAPH 2026-10-14
+Suanne Pyle; CC BY; https://creativecommons.org/licenses/by/4.0/
+https://www.inaturalist.org/photos/717619901 | https://www.inaturalist.org/observations/391625120
+EXIF removed and JPEG normalized; no anatomy overlays. Preserve attribution and applicable ShareAlike.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:45:55.819646+00:00
+Erigeron modestus A.Gray
+https://www.gbif.org/occurrence/6131542687
+Vicki Schmidt | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Basal leaf crown or side view of phyllaries
+No anatomy arrows; no scientific or native-range changes.

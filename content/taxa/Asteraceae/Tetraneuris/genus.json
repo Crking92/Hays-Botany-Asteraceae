@@ -1,0 +1,154 @@
+{
+  "rank": "genus",
+  "family": "Asteraceae",
+  "name": "Tetraneuris",
+  "authority": "Greene",
+  "common_group": "Four-nerve daisies",
+  "project_scope": {
+    "selection_mode": "B051 science + B145 source-concept reconciliation",
+    "canonical_species_ids": [
+      "tetraneuris-linearifolia",
+      "tetraneuris-scaposa"
+    ],
+    "canonical_species_count": 2,
+    "represented_infraspecific": [
+      "tetraneuris-scaposa-var-scaposa"
+    ],
+    "reviewed_target_zone_fails": [
+      "tetraneuris-acaulis"
+    ],
+    "source_concept_count": 4,
+    "note": "The local Central Texas perennial concept is Tetraneuris scaposa var. scaposa, taught inside the stable canonical path tetraneuris-scaposa. T. acaulis is an accepted Texas-native species but is a reviewed target-zone FAIL and remains comparison-only."
+  },
+  "study_strategy": {
+    "priority": [
+      "annual versus perennial habit",
+      "stem leaves versus basal rosette",
+      "leafless scape/peduncle architecture",
+      "leaf width and texture",
+      "phyllaries",
+      "pappus scales",
+      "range context only after morphology"
+    ],
+    "warning": "Do not treat T. acaulis as an equal Central Texas native just because it occurs in Texas. In this project the local perennial rosette/scape learner is T. scaposa var. scaposa; T. linearifolia is the annual comparison.",
+    "shared_traits": [
+      "Low-growing composites with yellow-rayed heads on prominent stalks.",
+      "Compare basal foliage and phyllaries, not just head color."
+    ]
+  },
+  "curation_status": {
+    "version": "1.2-b145-reconciliation",
+    "last_reviewed": "2026-10-05",
+    "genus_audit": "complete_with_represented_variety_and_target_zone_fail",
+    "source_concepts_reconciled": true,
+    "comparison_enriched_at": "2026-10-12"
+  },
+  "quick_key": [
+    {
+      "if": "annual with slender flowering stems and narrow stem leaves",
+      "then": "Tetraneuris linearifolia — canonical PASS"
+    },
+    {
+      "if": "perennial basal rosette with long mostly leafless peduncles and solitary yellow heads",
+      "then": "Tetraneuris scaposa var. scaposa — represented by canonical T. scaposa"
+    },
+    {
+      "if": "stemless perennial rosette resembling the scaposa architecture but source/location points to Panhandle/Great Plains T. acaulis",
+      "then": "Tetraneuris acaulis — reviewed target-zone FAIL / nonlocal comparison"
+    }
+  ],
+  "source_concept_status": [
+    {
+      "id": "tetraneuris-acaulis",
+      "scientific_name": "Tetraneuris acaulis",
+      "status": "REVIEWED_TARGET_ZONE_FAIL",
+      "learner_action": "nonlocal Texas comparison only; no install"
+    },
+    {
+      "id": "tetraneuris-linearifolia",
+      "scientific_name": "Tetraneuris linearifolia",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "tetraneuris-scaposa",
+      "scientific_name": "Tetraneuris scaposa",
+      "status": "CANONICAL_PASS",
+      "note": "Stable canonical path teaches accepted local var. scaposa."
+    },
+    {
+      "id": "tetraneuris-scaposa-var-scaposa",
+      "scientific_name": "Tetraneuris scaposa var. scaposa",
+      "status": "REPRESENTED_IN_PARENT",
+      "learner_action": "teach inside tetraneuris-scaposa; no duplicate card"
+    }
+  ],
+  "look_here_first": "Start with the basal leaf cluster, the leafless or nearly leafless flowering stalk, and the head's involucral bracts; compare lower leaves before using ray color.",
+  "comparison_cards": [
+    {
+      "title": "Fineleaf four-nerve daisy vs four-nerve daisy",
+      "look_here_first": "Start at the base, not the yellow flower: annual leafy stems versus a perennial basal rosette with nearly leafless flowering stalks.",
+      "field_matrix": [
+        {
+          "character": "Life cycle",
+          "linearifolia": "Annual, taprooted",
+          "scaposa": "Perennial, branching caudex"
+        },
+        {
+          "character": "Leaves",
+          "linearifolia": "Narrow alternate leaves present on slender stems",
+          "scaposa": "Leaves mostly basal, linear to spatulate; flowering stalks nearly leafless"
+        },
+        {
+          "character": "Head",
+          "linearifolia": "Solitary yellow head; hairy phyllaries in multiple series",
+          "scaposa": "Solitary yellow head on long peduncle; outer phyllaries recorded as 8–16"
+        },
+        {
+          "character": "Pappus",
+          "linearifolia": "Several persistent scale-like units",
+          "scaposa": "Typically 5–7 awned scales"
+        }
+      ],
+      "caution": "Pappus counts overlap and are not a reliable stand-alone split. Show the root/caudex and full flowering stem. Color and habitat alone are insufficient."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "whole_plant_base",
+      "species_ids": [
+        "tetraneuris-linearifolia",
+        "tetraneuris-scaposa"
+      ],
+      "need": "Matched images of taprooted annual versus perennial caudex and basal rosette; label stem-leaf attachment."
+    },
+    {
+      "role": "leaf_arrangement",
+      "species_ids": [
+        "tetraneuris-linearifolia",
+        "tetraneuris-scaposa"
+      ],
+      "need": "Lower and upper stem plus basal leaves with scale, hairs and gland dots visible."
+    },
+    {
+      "role": "head_underside",
+      "species_ids": [
+        "tetraneuris-linearifolia",
+        "tetraneuris-scaposa"
+      ],
+      "need": "Side view of outer/inner phyllaries, with arrows at correct bracts."
+    },
+    {
+      "role": "fruit_pappus",
+      "species_ids": [
+        "tetraneuris-linearifolia",
+        "tetraneuris-scaposa"
+      ],
+      "need": "Mature cypsela and awned pappus scales under macro magnification; use only as supporting character."
+    }
+  ],
+  "overlap_cautions": [
+    "T. acaulis is a nonlocal reviewed target-zone FAIL; compare its rosette habit without promoting it to a confirmed local native.",
+    "T. scaposa var. scaposa is represented by canonical T. scaposa; no duplicate species card.",
+    "Yellow ray color and pappus scale counts alone do not separate these species."
+  ]
+}

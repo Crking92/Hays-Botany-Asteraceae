@@ -1,0 +1,184 @@
+{
+  "id": "symphyotrichum-divaricatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum divaricatum",
+  "authority": "(Nutt.) G.L.Nesom",
+  "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)",
+  "field_group": "Annual, narrow-leaved, small-headed open-branching aster of disturbed ground and open habitats",
+  "project_tracker_diagnostic": "Annual or short-lived taprooted, usually nearly glabrous slim/wiry herb; leaves narrow linear to lanceolate-linear (often 1–3.5 mm wide), many small lilac/pinkish-rayed heads in a highly diffuse array with conspicuous space between heads. NOT Eurybia divaricata (white wood aster).",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 2",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common or useful Central Texas fall/white composite for field learning."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual to short-lived perennial, taprooted, not a persistent clump-forming woodland perennial (UT Williamson County flora).",
+    "habit": "Wiry, loosely branched, very airy/open paniculate herb, usually <60 cm in local range; may be dwarfed in lawns and disturbed ground.",
+    "leaves": "Helically alternate, simple, sessile or nearly so, narrow linear to oblanceolate-linear/lanceolate-linear, mostly 10–60 × 1–3.5 mm; margins entire to minutely toothed; not broad triangular, cordate, or long-petiolate woodland leaves.",
+    "heads": "Small radiate heads ~8–20 mm across, roughly 14–21 ray florets, 18–50 disc florets, pale pinkish/lilac to white-lavender; heads widely spaced and apparently floating on fine peduncles.",
+    "phyllaries": "20–25 phyllaries in 3–5 series, unequal, narrow outer ones with conspicuously membranous margins; inspect scaled side view, especially against true S. subulatum.",
+    "stem": "Nearly glabrous stems grooved below leaves; short hairs occasionally on lower internodes.",
+    "fruit": "Narrow cypselae with pale capillary pappus bristles; fruit details secondary to habit/leaf/head architecture.",
+    "best_field_traits": [
+      "NARROW linear to linear-lanceolate mostly sessile leaves, only ~1–3.5 mm wide.",
+      "Very open, widely spaced inflorescence heads; large gaps between heads.",
+      "Taprooted ANNUAL to short-lived herb with slim ±glabrous grooved stems.",
+      "Small (8–20 mm) pink-lilac to pale ray heads.",
+      "S. subulatum = denser pyramidal flowering array, more southeastern coastal/saline; habitat alone cannot prove the split.",
+      "Do not confuse with Eurybia divaricata (white wood aster): perennial shade plant with broad, heart-shaped/petiolate serrate leaves."
+    ],
+    "comparison_training": "S. divaricatum: a very open diffuse panicle and inland Texas disturbed-ground habitat. S. subulatum under narrow true species concept: more top-dense pyramidal array, mainly Gulf/SE saline Texas. Green phyllary pigmentation is described as extending farther down bracts in divaricatum than subulatum but often not reliably photographed; hardened phyllary bases not understood well enough for novice key. Mowed specimens may have ambiguous shape. Historic subulatum var. ligulatum names correspond to current S. divaricatum."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Look closer · single pale lavender-rayed head with yellow disk amid thin branching stems; phyllaries not shown",
+      "creator": "(c) Eric Duran, some rights reserved (CC BY-NC), uploaded by Eric Duran",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/169457",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52616505/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "52616505",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Recognize · many pale lavender flowerheads above narrow-leaved branching stems; source determination provisional",
+      "creator": "(c) westonchambers, some rights reserved (CC BY-NC), uploaded by westonchambers",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/169457",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161421080/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "161421080",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "Look closer · small lavender-rayed head with yellow disk against fingers for size; underside bracts not visible",
+      "creator": "(c) ILoveGroundFowl, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/400469052",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734894036/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "400469052",
+      "photo_id": "734894036",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "Look closer · narrow leaves attached along multiple slender branching stems; fine hairs and head bracts unresolved",
+      "creator": "(c) ILoveGroundFowl, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/400469052",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734894048/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "400469052",
+      "photo_id": "734894048",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "Recognize · sparse leafy basal branching growth in grassy habitat; not an independent flower-detail view",
+      "creator": "(c) ILoveGroundFowl, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/400469052",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734894053/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "400469052",
+      "photo_id": "734894053",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-botanical-misidentification-correction",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "prior_common_name_error_corrected": true,
+    "photo_identity_followup": "five exact-taxon iNaturalist photos already physically present; source observation/taxon concept can be scrutinized in final photo pass; photo licensing unchanged",
+    "genus_wrap_first_pass": "complete",
+    "native_range_status_preserved": true
+  },
+  "look_here_first": "FIRST photograph the entire mature flowering array (when not recently mowed): this inland Texas annual/short-lived saltmarsh aster has VERY OPEN, diffuse, wiry branching with wide negative space between many small heads. Check mostly sessile narrow linear leaves, near-hairless stems and taprooted base. TRUE eastern S. subulatum usually has denser, more upper-pyramidal heads in coastal/saline SE Texas. Mowing and damaged plants can distort architecture; don't use flower color or one head alone. This species is NOT Eurybia divaricata (white wood aster).",
+  "comparisons": {
+    "confused_with": [
+      "Symphyotrichum subulatum",
+      "Symphyotrichum expansum",
+      "Eurybia divaricata"
+    ],
+    "key_distinctions": "Open versus relatively top-dense terminal arrays at maturity; check narrow sessile leaves, phyllary profile and habitat. Most inland Texas specimens likely divaricatum. Photo only of single flower CANNOT separate. Some old 'subulatum' specimen names from inland Texas should be re-examined before modern taxon transfer. Eurybia divaricata is unrelated broad-leaved woodland perennial."
+  },
+  "taxonomic_note": "IMPORTANT historical learner correction 2026-10-12: this record was erroneously labeled 'White Woodland Aster' and described as a broad-serrate-leaved shade perennial (characteristics of Eurybia divaricata, a different genus). Corrected to the accepted southern annual saltmarsh aster/slim aster concept Symphyotrichum divaricatum. FNA/ITIS may place this concept under S. subulatum var. ligulatum; existing project rule retains S. divaricatum separate from true S. subulatum, following the newer Texas treatment. Taxon photographs already pulled from exact S. divaricatum iNaturalist taxon 169457; individual observation identifications are NOT independently reverified here.",
+  "diagnostic_image_needs": [
+    {
+      "role": "open branching inflorescence",
+      "why": "show large gaps between small flowering heads; compare with denser S. subulatum"
+    },
+    {
+      "role": "narrow stem leaves with metric scale",
+      "why": "show linear to linear-lanceolate blades, not broad woodland aster leaves"
+    },
+    {
+      "role": "side-view phyllaries with millimeter scale",
+      "why": "validate 3–5 series and compare S. subulatum; not necessarily resolvable in present face gallery"
+    },
+    {
+      "role": "basal plant / taproot",
+      "why": "confirm annual or short-lived nonrhizomatous habit"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "UT Austin Vascular Plants of Williamson County",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html",
+      "supports": "annual/short-lived habit, narrow leaf measurements, open head arrangement and phyllary morphology"
+    },
+    {
+      "name": "Texas field taxonomy comparison, arnanthescout",
+      "url": "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas",
+      "supports": "true subulatum versus divaricatum in Texas, historic var. ligulatum concept"
+    },
+    {
+      "name": "iNaturalist taxon page",
+      "url": "https://www.inaturalist.org/taxa/169457-Symphyotrichum-divaricatum",
+      "supports": "current species concept/common name and source media taxon identity"
+    },
+    {
+      "name": "ITIS Symphyotrichum divaricatum taxon record",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=522198",
+      "supports": "taxonomic concept differs among authorities; ITIS lists subulatum var. ligulatum under its treatment"
+    }
+  ],
+  "photo_comparison_wrap_2026_10_12": {
+    "status": "FIRST_PASS_COMPLETE_MORPHOLOGY_PREFERRED; MATCHED true subulatum PHOTO NOT YET FOUND",
+    "source_five_images": "Five physically retained CC BY-NC field/reference photographs have existing creator provenance; do not publish unrestricted.",
+    "target_final_pair": [
+      "Mature unmowed diffuse flowering panicle with scale, ideally Travis/Hays documented",
+      "Mature true S. subulatum coastal saline SE Texas more top-dense pyramid at same scale",
+      "Phyllary side macro showing green zone with adequate depth of field and clear magnification"
+    ],
+    "scientific_range_status": "preserved deferred",
+    "source_links": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Symphyotrichum%20divaricatum.html",
+      "https://www.inaturalist.org/posts/88035-saltmarsh-asters-symphyotrichum-divaricatum-and-symphyotrichum-subulatum-in-texas"
+    ]
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "id": "erigeron-philadelphicus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "species": "philadelphicus",
+  "scientific_name": "Erigeron philadelphicus",
+  "common_name": "Philadelphia fleabane",
+  "look_here_first": "LOOK HERE FIRST: check a leafy flowering stem, NOT flower color alone. (1) The UPPER stem leaves are ALTERNATE with broadened bases usually clasping to AURICULATE-CLASPING (small ear-like lobes wrapped around the stem). (2) Lower leaves may be relatively broad, unevenly crenate/serrate or lobed; basal foliage sometimes persists but may wither. (3) Stems often have longer spreading hairs lower down, becoming more appressed upward. (4) Small showy heads with exceptionally MANY thin white or pinkish ray florets (FNA 150–250, occasionally up to 400) around a yellow disc; involucre about 4–6 mm high. For comparison, E. strigosus typically has narrower, NONCLASPING upper leaves and often fewer (~50–100) rays; E. canadensis bears many much smaller inconspicuously-rayed heads. Confirm using leaf insertion and fresh head, not pink versus white alone.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "morphology_reviewed": true,
+    "version": "1.4-philadelphicus-public-domain-verified-clasping-20261021",
+    "last_reviewed": "2026-10-21",
+    "visual_status": "Crew-closeout: one public-domain actual clasping-leaf USGS source image added as annotated visual panel, flower/ray and phyllary panels already present; outstanding true macro roles = exact underside auricle, matched same-scale prairie node, fruit pappus and stem hair measurements. 4 installed physical, 2 CC external gallery plus 1 USGS external visual reference. Mobile signoff pending.",
+    "physical_commons_install": "2026-10-21",
+    "diagnostic_photo_review_pending": true,
+    "field_training_status": "CREW_CLOSEOUT_DIAGNOSTIC_SPECIALIST_GAPS"
+  },
+  "photo_note": "Four exact-source physical photo files, 2 more linked anatomical references and 2 look-alike image panels, 21 anatomically honest arrows. Fully exposed upper clasping leaf node, stem-hair angle, phyllary and fruit macros still needed; individual photographer credits retained.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:204312-1",
+  "images": [
+    {
+      "file": "images/inat-209922345.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Donald L'Heureux, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/209922345",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/commons-cbaile19-beechview-2025-flowers.jpg",
+      "role": "Flowering Philadelphia fleabane photographed at Beechview, Pennsylvania; no Texas provenance implied.",
+      "creator": "Cbaile19",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "Wikimedia Commons identified original source",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg/960px-Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_file_sha256": "14252b2218729c1cc8fcb4bb009bb1085ca4103a80be15115dfba11a46be195c",
+      "image_dimensions": [
+        960,
+        720
+      ],
+      "study_use": "Public educational photo learner under individual Commons license",
+      "public_reuse": "Use exact license, credit creator, indicate JPG resizing and EXIF stripping, comply with ShareAlike where required",
+      "modifications": "Downloaded 960px Commons thumbnail, JPEG normalized, EXIF removed",
+      "photo_review": "Source species name and image license verified; detailed anatomical markers NOT yet pixel reviewed."
+    },
+    {
+      "file": "images/commons-doug-mcgrady-32051004951.jpg",
+      "role": "Source-determined Philadelphia fleabane field view; check fresh heads and leaves before assigning anatomical markers.",
+      "creator": "Doug McGrady",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_platform": "Wikimedia Commons identified original source",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_%28Philadelphia_fleabane%29_%2832051004951%29.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Erigeron_philadelphicus_%28Philadelphia_fleabane%29_%2832051004951%29.jpg/960px-Erigeron_philadelphicus_%28Philadelphia_fleabane%29_%2832051004951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_file_sha256": "b0bab4b6b0a90b1b706231cb5c367a2529a7d7e41ce990176e163a6ec19f9682",
+      "image_dimensions": [
+        960,
+        688
+      ],
+      "study_use": "Public educational photo learner under individual Commons license",
+      "public_reuse": "Use exact license, credit creator, indicate JPG resizing and EXIF stripping, comply with ShareAlike where required",
+      "modifications": "Downloaded 960px Commons thumbnail, JPEG normalized, EXIF removed",
+      "photo_review": "Source species name and image license verified; detailed anatomical markers NOT yet pixel reviewed."
+    },
+    {
+      "file": "images/commons-alpsdake-s2-flower.jpg",
+      "role": "Source-determined flowering view from Mount Ibuki, Japan; no Hays native range inference.",
+      "creator": "Alpsdake",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_platform": "Wikimedia Commons identified original source",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_s2.jpg",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Erigeron_philadelphicus_s2.jpg/960px-Erigeron_philadelphicus_s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_file_sha256": "e7b132bbe07348b158d96625acf43fb72777211167d3fcc573a83f9d10850c4d",
+      "image_dimensions": [
+        960,
+        960
+      ],
+      "study_use": "Public educational photo learner under individual Commons license",
+      "public_reuse": "Use exact license, credit creator, indicate JPG resizing and EXIF stripping, comply with ShareAlike where required",
+      "modifications": "Downloaded 960px Commons thumbnail, JPEG normalized, EXIF removed",
+      "photo_review": "Source species name and image license verified; detailed anatomical markers NOT yet pixel reviewed."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "filled_at": "2026-10-17",
+    "note": "Four physical same-species photos and two licensed external references; correctly labeled two other-species comparison panels and 21 reviewed arrow positions. Featured leaf/head/underside panels guide crew."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual, biennial or short-lived perennial, 4–80 cm typical; fibrous rooted with a simple crown (FNA). Root structure cannot be verified from the existing main gallery.",
+    "stems": "Erect, leafy, often spreading-hairy toward base (hirsute-villous), upper parts more sparsely hairy/appressed. May be minutely glandular; inspect with hand lens rather than inferring hair angles from a flower-only picture.",
+    "leaf_arrangement": "Basal and alternate cauline (stem) leaves; lower leaves often obovate to oblanceolate, 3–11 cm usually, sometimes larger. Lower edges scalloped (crenate), sharply toothed (serrate), or even lobed.",
+    "leaf_attachment": "Stem leaf bases typically CLASPING to AURICULATE-CLASPING, meaning a broadened base and small ear-shaped lobes wrapping partly around the stem; high-value separator from usually nonclasping E. strigosus. In current leafy linked source the meeting point is visible, but whether fully clasped is partially obscured by overlap.",
+    "leaf_hairs": "Basal leaves sparsely to densely hairy, upper leaves variably hairy; stem hairs can spread lower down. Hair directions vary along the stem, so never assert all hair is spreading.",
+    "flowerheads": "(1–)3–35 heads usually arranged in a rather loose flattish-topped cluster near upper stem. Each head has 150–250 (rarely up to 400) very slender white or pale pink rays, each about 5–10 mm long, surrounding yellow central disc florets.",
+    "involucre": "Green cup of overlapping phyllaries under head; FNA dimensions 4–6 mm high by 6–15 mm across. Existing backlit side-source shows outline; no mm reference in photo.",
+    "fruit": "Small one-seeded cypsela ~0.6–1.1 mm, with distinct outer pappus setae and inner 15–20 (occasionally to 30) bristles. No fruit macro measured or arrows installed.",
+    "ecology": "Occurs in moist to moderately disturbed meadows, roadsides, open lawns and riparian margins; local native-zone certification intentionally not assessed in this finished-card pass.",
+    "variation": "White, pale lavender, and pink rays occur; near-white flowering plants can still be this species. Leaf-base and stem/flower characters in combination matter more than rays' tint."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Erigeron strigosus",
+      "Erigeron canadensis",
+      "Erigeron annuus",
+      "Erigeron geiseri",
+      "Erigeron modestus",
+      "Erigeron tenuis"
+    ],
+    "key_distinctions": "With actual flowers: Philadelphia fleabane usually combines abundant fine rays (FNA 150–250[–400]) and CLASPING/AURICULATE upper stem leaf bases. Prairie fleabane E. strigosus often has NONCLASPING narrow upper leaves and fewer rays (commonly 50–100); overlap/variation require multiple features. Horseweed E. canadensis bears scores of much smaller pale greenish heads, with fresh rays inconspicuous. E. annuus is a showy white-rayed look-alike but is often coarser-leaved; inspect FNA key. E. tenuis may have subclasping leaves, so clasping alone isn't a 100% separator.",
+    "field_key": [
+      {
+        "other": "Erigeron strigosus",
+        "common": "Prairie fleabane",
+        "start": "Usually nonclasping upper leaves and fewer, wider-apparent white ray florets; often fine more appressed stem hairs.",
+        "check": "Photograph actual upper leaf base and head at matched scale, do not use color alone."
+      },
+      {
+        "other": "Erigeron canadensis",
+        "common": "Horseweed",
+        "start": "Much smaller inconspicuously rayed heads crowded high on a leafy stalk, then fine white fluffy pappus.",
+        "check": "Horseweed fruit photo must not be confused with a live fresh white-pink ray floret."
+      },
+      {
+        "other": "Erigeron annuus",
+        "common": "Annual fleabane",
+        "start": "Usually a more open coarse-leaved plant with many white narrow-rayed heads; basal leaves may wither earlier.",
+        "check": "Compare lower leaf shape, upper leaf bases, stems with a hand lens. Image alone rarely conclusive."
+      },
+      {
+        "other": "Erigeron geiseri",
+        "common": "Geiser's fleabane",
+        "start": "Annual slender taproot, often fewer heads, rays 44–70 and 3–6 mm (FNA).",
+        "check": "Compare intact rooted whole plant and leaf base, not just one flower photo."
+      },
+      {
+        "other": "Erigeron modestus",
+        "common": "Plains fleabane",
+        "start": "Often woody persistent root crown and showy heads; ray numbers may overlap.",
+        "check": "Look at basal crown/root, not color."
+      },
+      {
+        "other": "Erigeron tenuis",
+        "common": "Slender fleabane",
+        "start": "Sometimes subclasping leaves with shorter rays; flowers can overlap superficially.",
+        "check": "Measured fresh heads, intact lower stem, leaf attachment and suitable key required."
+      }
+    ],
+    "confidence": "High when clasping upper leaves, hair distribution, mature habit, and fresh many-rayed flower heads agree; rosette-only or blossom-only identification is provisional."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Philadelphia fleabane — find the leaf 'ears', then inspect its fine rays",
+    "steps": [
+      {
+        "stage": "1 — HABIT",
+        "look": "Leafy flowering stems and lower leaves",
+        "text": "Photograph whole plant with base and stem branches. Old foliage may persist or wither; don't force a rosette-only ID."
+      },
+      {
+        "stage": "2 — THE BIG SPLIT",
+        "look": "CLASPING upper leaf base",
+        "text": "Follow an upper leaf to where it wraps partly around the stem. This 'ear-lobed' AURICULATE-CLASPING feature is the critical photo role. The linked leaf picture shows an attachment but does not conclusively resolve the entire wrap."
+      },
+      {
+        "stage": "3 — HAIRS",
+        "look": "Spread-out lower stem hairs",
+        "text": "Using a hand lens, check whether lower stem is spreading-hairy, and upper stem more appressed or sparsely hairy. Short plant photos usually can't certify tiny hairs."
+      },
+      {
+        "stage": "4 — OPEN FLOWER",
+        "look": "Hundreds of fine pale rays and a yellow disc",
+        "text": "Unlike horseweed's tiny nearly rayless-looking heads, Philadelphia fleabane shows many fine white to pink rays (150–250 usually). Pink alone is not diagnostic."
+      },
+      {
+        "stage": "5 — SIDE FLOWER",
+        "look": "Phyllary cup and unopened buds",
+        "text": "Turn the flower head sideways to locate green involucre / phyllary cup below rays, and distinguish unopened rounded buds from pappus fruit. Use ruler to measure involucre height."
+      },
+      {
+        "stage": "6 — FRUIT",
+        "look": "Cypsela and bristly pappus",
+        "text": "Ripe one-seeded fruits need a 1 mm macro to distinguish outer setae and inner bristles. No photo installed that resolves this."
+      }
+    ],
+    "glossary": {
+      "auriculate": "With small ear-shaped lobes at the base of a leaf.",
+      "clasping": "Leaf base partly wrapping the stem instead of simply tapering to a narrow connection.",
+      "cauline": "Growing on the upright stem rather than around the ground-level crown.",
+      "crenate": "Leaf edge with rounded scallop-like teeth.",
+      "hirsute": "Covered in coarse or fairly long hairs.",
+      "ray_floret": "Narrow strap-shaped outer floret that looks like a petal.",
+      "disc_floret": "One of the many tiny tubular flowers making the yellow center.",
+      "involucre": "Green cup of bracts supporting a daisy-like flowering head.",
+      "phyllary": "One bract in the green cup under the head.",
+      "pappus": "Fine hairs/bristles helping the mature one-seeded fruit travel by air."
+    },
+    "memory_rule": "CLASPING little leaf-ears + lots of fine pale RAYS + hairy leafy stem = Philadelphia fleabane candidate. Prairie fleabane: usually nonclasping; horseweed: barely obvious tiny heads."
+  },
+  "gallery_external_refs": [
+    {
+      "gallery_species_id": "erigeron-philadelphicus",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/0/04/Common-Fleabane-leaves_%284709089823%29.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common-Fleabane-leaves_(4709089823).png",
+      "creator": "Homer Edward Price",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "public_reuse": "yes",
+      "role": "LICENSED LINKED exact-species vegetative photograph: narrow-to-broader leaves at branching leafy stem and visible narrowed/broadened leaf insertion",
+      "observation_source": "Cahokia Mounds State Park, Illinois; 2010 Flickr photo 4709089823",
+      "photo_status": "EXTERNAL_REFERENCE_RIGHTS_CHECKED_PHOTO_INSPECTED",
+      "note": "800x602 PNG visually inspected. Multiple overlapping green plants and perspective complicate proof of complete clasp; mark visible node and leaves only, not an unresolvable encircling leaf base."
+    },
+    {
+      "gallery_species_id": "erigeron-philadelphicus",
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg/960px-Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_Fleabane_(Erigeron_philadelphicus)_-_Flickr_-_Jay_Sturner_(1).jpg",
+      "creator": "Jay Sturner",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "public_reuse": "yes",
+      "role": "LICENSED LINKED exact-species underside flower head views, green phyllary cups and narrow radiating rays backlit, unopened buds",
+      "observation_source": "United States 2011 Flickr source 5681420616",
+      "photo_status": "EXTERNAL_REFERENCE_RIGHTS_CHECKED_PHOTO_INSPECTED",
+      "note": "Backlit 960x1280 image; green involucre and rays visible, individual narrow phyllaries not measured; do not infer microscopic hairs, pappus, or fruit."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Philadelphia fleabane — leaf attachment first, many fine rays second",
+    "subtitle": "Four physically stored exact-taxonomic photographs and two CC-linked exact-taxon references, PLUS one new USGS PUBLIC-DOMAIN close-up of the partly CLASPING upper leaf bases. Other photo panels show fresh fine rays, underside phyllaries and explicitly different look-alikes. Actual visible-feature arrows are documented; full matched 90-degree pair and fruit microscopy remain optional expert gaps.",
+    "items": [
+      {
+        "label": "1. EXISTING SOURCE — delicate white ray florets",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/inat-209922345.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact E. philadelphicus, multiple flowering heads, buds and narrow stem foliage (not a resolved clasping-node macro)",
+        "creator": "Donald L'Heureux",
+        "license": "CC BY-NC (image-level version not recorded)",
+        "source_page": "https://www.inaturalist.org/photos/209922345",
+        "caption": "Many small daisy-like heads display slender white to very pale lavender ray florets around yellow discs. Closed buds share stems. Some narrow green leaves are visible, but the exact auriculate clasp is not sharp enough to prove here.",
+        "why_it_matters": "See that rays are not individual flowers; recognize the many florets in each composite capitulum without relying on flower tint for species.",
+        "markers": [
+          {
+            "label": "Fine white ray florets",
+            "label_x": 6,
+            "label_y": 15,
+            "target_x": 29,
+            "target_y": 13
+          },
+          {
+            "label": "Yellow disc florets",
+            "label_x": 65,
+            "label_y": 25,
+            "target_x": 34,
+            "target_y": 25
+          },
+          {
+            "label": "Unopened flowering bud",
+            "label_x": 60,
+            "label_y": 6,
+            "target_x": 56,
+            "target_y": 16
+          }
+        ],
+        "photo_status": "Existing exact-source JPEG image bytes confirmed and pixel inspected, 3 visible-feature marker targets; leaf-clasping and lower stem hairs not resolved. Website rights filter retains noncommercial condition; mobile arrow QA pending."
+      },
+      {
+        "label": "CONFIRMED — PHILADELPHIA FLEABANE LEAF BASE CLASPS STEM (USGS)",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Erigeron+philadelphicus_3637.JPG&id=2993",
+        "image_fit": "contain",
+        "creator": "Larry Allain, U.S. Geological Survey",
+        "license": "Public domain (USGS Plants of Louisiana guide)",
+        "license_url": "https://warcapps.usgs.gov/PlantID/Home/About",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+        "image_role": "Actual E. philadelphicus photo showing two cauline leaf insertions and pubescent stem; clear alternate stem leaves with broad partly-clasping leaf bases",
+        "caption": "USGS public-domain photo: follow each green upper stem leaf to its BROAD BASE, which partly wraps against the upright green, hairy stem. The leaves arise at separate stem levels (ALTERNATE), not a pair of opposite leaves. The photo shows partial clasping clearly, but not a full 360-degree view or microscopic hairs. Credited Larry Allain / USGS; this is not a Texas locality record.",
+        "why_it_matters": "BEST photo-evidenced difference versus prairie fleabane: Philadelphia's upper leaves are often clasping/auriculate, while prairie fleabane usually has narrow, nonclasping upper leaves. The recorded USGS public-domain reuse terms permit this source-linked panel.",
+        "markers": [
+          {
+            "label": "Clasping upper leaf base",
+            "label_x": 1,
+            "label_y": 22,
+            "target_x": 48,
+            "target_y": 47
+          },
+          {
+            "label": "Hairy stem surface",
+            "label_x": 65,
+            "label_y": 9,
+            "target_x": 51,
+            "target_y": 25
+          },
+          {
+            "label": "Lower leaf-base attachment",
+            "label_x": 61,
+            "label_y": 86,
+            "target_x": 53,
+            "target_y": 68
+          }
+        ],
+        "annotation_status": "Three visible anatomical arrow targets visually reviewed on USGS search returned image: clasping upper base, actual stem hair and lower stem-leaf junction. Source-image original NOT altered; link may have hotlink restrictions and therefore merits owner phone visual check.",
+        "attribution": {
+          "creator": "Larry Allain, U.S. Geological Survey",
+          "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+          "license": "Public domain (USGS Plants of Louisiana guide)",
+          "license_evidence": "https://warcapps.usgs.gov/PlantID/Home/About"
+        }
+      },
+      {
+        "label": "2. UPPER STEM LEAVES — leaf base study",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Common-Fleabane-leaves_%284709089823%29.png",
+        "image_fit": "contain",
+        "image_role": "EXTERNAL exact-source leaf and node photograph, CC BY 2.0",
+        "creator": "Homer Edward Price",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common-Fleabane-leaves_(4709089823).png",
+        "caption": "Two elongated leaf blades approach a stem node. Zoom in on the central attachment and edge of the broader left leaf. This photo gives the RIGHT PLACE TO EXAMINE leaf 'ears', but overlap/angle prevents an unambiguous proof of complete clasping; the FNA character must be checked on a sharper side view.",
+        "why_it_matters": "The leaf base, not just a pastel daisy bloom, is the best practical split from prairie fleabane. Don't teach 'opposite leaves' based on two crossing green blades in a cluttered image.",
+        "markers": [
+          {
+            "label": "Narrow upper leaf blade",
+            "label_x": 69,
+            "label_y": 7,
+            "target_x": 78,
+            "target_y": 19
+          },
+          {
+            "label": "Stem / leaf junction",
+            "label_x": 6,
+            "label_y": 67,
+            "target_x": 54,
+            "target_y": 39
+          },
+          {
+            "label": "Broadening lower leaf",
+            "label_x": 5,
+            "label_y": 29,
+            "target_x": 22,
+            "target_y": 41
+          }
+        ],
+        "photo_status": "Wikimedia photo inspected at 800x602 on 2026-10-21. Three arrow tips indicate visible leaf and node structures, NOT falsely certified full auriculate wrap. Linked, not physically installed; phone overlay QA pending."
+      },
+      {
+        "label": "3. FLOWERING HEAD — many thin pink-white rays",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/commons-alpsdake-s2-flower.jpg",
+        "image_fit": "contain",
+        "image_role": "EXTERNAL actual blooming capitula and closed pink bud",
+        "creator": "Alpsdake",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_s2.jpg",
+        "caption": "The center of each open daisy is a dense mass of small yellow DISC FLORETS, surrounded by a crowd of very narrow white-pink RAY FLORETS. A closed pale pink head and younger bud sit upper right. This Japanese photograph is anatomy study, not Hays County native-range evidence.",
+        "why_it_matters": "Shows exactly what 'many narrow rays' looks like and that early pink buds are still flowers—not pappus-stage seed heads.",
+        "markers": [
+          {
+            "label": "Numerous slender rays",
+            "label_x": 4,
+            "label_y": 18,
+            "target_x": 34,
+            "target_y": 17
+          },
+          {
+            "label": "Yellow disc florets",
+            "label_x": 58,
+            "label_y": 18,
+            "target_x": 41,
+            "target_y": 20
+          },
+          {
+            "label": "Closed pink flower head",
+            "label_x": 68,
+            "label_y": 8,
+            "target_x": 91,
+            "target_y": 17
+          }
+        ],
+        "photo_status": "PHYSICAL_COMMONS_IMAGE_VERIFIED_20261021; previous visible anatomy arrows retained; user mobile overlay signoff pending"
+      },
+      {
+        "label": "4. SIDE VIEW — involucre cups below heads",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg/960px-Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg",
+        "image_fit": "contain",
+        "image_role": "EXTERNAL backlit flower-head under-surfaces",
+        "creator": "Jay Sturner",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common_Fleabane_(Erigeron_philadelphicus)_-_Flickr_-_Jay_Sturner_(1).jpg",
+        "caption": "Green CUP-LIKE INVOLUCRES support pale backlit ray florets. Some rounded buds are closed, not fruit. Silhouette resolves the cup location and ray arrangement, but not separate millimeter phyllary dimensions or pappus hairs.",
+        "why_it_matters": "Separates the bract cup (involucre) from rays and actual seed fluff; supports a proper real-plant photography lesson.",
+        "markers": [
+          {
+            "label": "Green involucre cup",
+            "label_x": 6,
+            "label_y": 38,
+            "target_x": 25,
+            "target_y": 37
+          },
+          {
+            "label": "Backlit narrow rays",
+            "label_x": 62,
+            "label_y": 6,
+            "target_x": 57,
+            "target_y": 30
+          },
+          {
+            "label": "Unopened head",
+            "label_x": 69,
+            "label_y": 66,
+            "target_x": 76,
+            "target_y": 62
+          }
+        ],
+        "photo_status": "960x1280 real photo inspected; three visible-marker placements only; ruler/individual phyllary details remain missing; owner phone QA pending."
+      },
+      {
+        "label": "5. PALE PINK FLOWER VARIATION",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/commons-doug-mcgrady-32051004951.jpg",
+        "image_fit": "contain",
+        "image_role": "EXTERNAL paler to darker pink ray examples",
+        "creator": "Doug McGrady",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_(Philadelphia_fleabane)_(32051004951).jpg",
+        "caption": "Pink-to-lavender ray color is normal within Philadelphia fleabane; compare multiple pale flowers with yellow discs. Color alone is not the identification decision, and this photo does not reveal leaf bases or fruit.",
+        "why_it_matters": "Prevents crew from calling white-rayed plants prairie fleabane and pink-rayed plants Philadelphia fleabane on color alone.",
+        "markers": [
+          {
+            "label": "Pink-lavender rays",
+            "label_x": 3,
+            "label_y": 59,
+            "target_x": 26,
+            "target_y": 53
+          },
+          {
+            "label": "Yellow central disc",
+            "label_x": 61,
+            "label_y": 24,
+            "target_x": 72,
+            "target_y": 43
+          }
+        ],
+        "photo_status": "PHYSICAL_COMMONS_IMAGE_VERIFIED_20261021; previous visible anatomy arrows retained; user mobile overlay signoff pending"
+      },
+      {
+        "label": "6. PHILADELPHIA FLEABANE — WHITE HEADS AND UNOPENED BUDS",
+        "scientific_name": "Erigeron philadelphicus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/images/commons-cbaile19-beechview-2025-flowers.jpg",
+        "image_fit": "contain",
+        "image_role": "Original CC0 2025 Pennsylvania Philadelphia fleabane flowering photo; not a local Texas occurrence.",
+        "creator": "Cbaile19",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg",
+        "caption": "Multiple small flower heads with MANY narrow white ray florets and yellow discs, alongside drooping still-closed green heads. This real flower photograph does not certify upper leaf-base clasping or a native Hays County population.",
+        "markers": [
+          {
+            "label": "Fine white ray florets",
+            "label_x": 2,
+            "label_y": 44,
+            "target_x": 81,
+            "target_y": 51
+          },
+          {
+            "label": "Yellow central disc",
+            "label_x": 64,
+            "label_y": 12,
+            "target_x": 84,
+            "target_y": 53
+          },
+          {
+            "label": "Closed green heads",
+            "label_x": 84,
+            "label_y": 82,
+            "target_x": 65,
+            "target_y": 72
+          }
+        ],
+        "why_it_matters": "Learn flowers versus still-closed heads, then inspect actual leaf-node attachment before species determination.",
+        "photo_status": "PHYSICAL_SOURCE_IDENTIFIED_IMAGE_PIXEL_REVIEWED_20261021; 3 visible anatomical arrow targets reviewed at 960 x 720; mobile signoff pending"
+      },
+      {
+        "label": "6. LOOK-ALIKE — Prairie fleabane (DIFFERENT SPECIES)",
+        "scientific_name": "Erigeron strigosus",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/images/inat-691026483.jpg",
+        "image_fit": "contain",
+        "image_role": "DIFFERENT SPECIES, NOT E. philadelphicus",
+        "creator": "Chris Stahl",
+        "license": "CC BY (recorded version unspecified)",
+        "source_page": "https://www.inaturalist.org/photos/691026483",
+        "caption": "Different taxon: E. strigosus. Thin white rays occur on BOTH fleabanes. Its upper leaves are usually nonclasping; photo here cannot prove that single character. Check attachment and stem hairs on the real plant.",
+        "why_it_matters": "Crew should seek leaf-base and stem-hair views rather than guessing on white petals.",
+        "markers": [
+          {
+            "label": "White rays also here!",
+            "label_x": 7,
+            "label_y": 47,
+            "target_x": 21,
+            "target_y": 61.5
+          },
+          {
+            "label": "Yellow disc also here!",
+            "label_x": 65,
+            "label_y": 55,
+            "target_x": 57,
+            "target_y": 61
+          }
+        ],
+        "photo_status": "Existing E. strigosus installed image reused for comparison, explicitly DIFFERENT SPECIES and license preserved."
+      },
+      {
+        "label": "7. LOOK-ALIKE — Horseweed (DIFFERENT SPECIES)",
+        "scientific_name": "Erigeron canadensis",
+        "image_url": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/images/02-upright-flowering-plant.jpg",
+        "image_fit": "contain",
+        "image_role": "DIFFERENT SPECIES, many tiny headlets on tall leafy axis",
+        "creator": "Rasbak",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Canadese_fijnstraal_bloeiende_plant_Conyza_canadensis.jpg",
+        "caption": "Different taxon: horseweed. A central narrow-leaved stalk finishes in a very branched spray of tiny pale heads rather than readily obvious daisy-like rays. Fruiting horseweed pappus must not be misread as fresh flower rays.",
+        "why_it_matters": "The whole stalk architecture and extremely tiny head size prevent white-fluff/white-petal confusion.",
+        "markers": [
+          {
+            "label": "Tiny terminal heads",
+            "label_x": 3,
+            "label_y": 14,
+            "target_x": 68,
+            "target_y": 24
+          },
+          {
+            "label": "Narrow alternate leaves",
+            "label_x": 59,
+            "label_y": 63,
+            "target_x": 47,
+            "target_y": 70
+          }
+        ],
+        "photo_status": "Existing horseweed photo reused, exact species correctly labeled OTHER; two prior visually validated arrow tips."
+      }
+    ],
+    "annotation_status": "USGS licensed PD source photo individually evidenced from guide About page; three arrows target true clasping base, stem hairs and another node. Existing photo markers retained. User phone/hotlink rendering signoff pending.",
+    "part_examples": [
+      {
+        "title": "1 · FIRST: narrow leaves and an actual node",
+        "role": "leaf base / stem attachment",
+        "look_for": "Zoom into the middle of linked Homer E. Price leaf image. Watch whether leaf tissue wraps partly around the stem, but note the photographed angle does NOT fully prove the grasping auricles.",
+        "why_it_matters": "CLASPING leaf base is one of the best E. philadelphicus versus E. strigosus separators.",
+        "status": "external_reference",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Common-Fleabane-leaves_%284709089823%29.png",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common-Fleabane-leaves_(4709089823).png"
+      },
+      {
+        "title": "2 · The many fine rays",
+        "role": "fresh ray florets and yellow disc",
+        "anchor_species_id": "erigeron-philadelphicus",
+        "image_file": "images/inat-209922345.jpg",
+        "look_for": "Countless thin pale rays around central yellow disc in actual flowering heads, but exact numeric count unmeasurable at screen size.",
+        "why_it_matters": "Both species have daisies; ray number and length help with other features."
+      },
+      {
+        "title": "3 · Pale pink flowers and unopened buds",
+        "role": "fresh open head versus pink bud",
+        "look_for": "Pink-white rays and a closed soft pink head in Alpsdake photograph, not a mature seed head.",
+        "why_it_matters": "Prevent misidentifying pale buds or color-morph forms.",
+        "status": "external_reference",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Erigeron_philadelphicus_s2.jpg/960px-Erigeron_philadelphicus_s2.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_s2.jpg"
+      },
+      {
+        "title": "4 · The actual green cup under a head",
+        "role": "involucre with phyllaries",
+        "look_for": "Jay Sturner's backlit underside image shows a broad dark green bract cup below a fringe of rays; finer bract count requires magnification.",
+        "why_it_matters": "Teach aster flower architecture rather than petals-versus-seed confusion.",
+        "status": "external_reference",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg/960px-Common_Fleabane_%28Erigeron_philadelphicus%29_-_Flickr_-_Jay_Sturner_%281%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common_Fleabane_(Erigeron_philadelphicus)_-_Flickr_-_Jay_Sturner_(1).jpg"
+      },
+      {
+        "title": "5 · NEED MACRO — real clasping leaf ears",
+        "role": "sharp auriculate clasping leaf macro",
+        "look_for": "One TRUE 90-degree side photograph of upper mature leaf attached to stem, with leaf base lobes visible all around, millimeter ruler and node number.",
+        "why_it_matters": "Current CC leaf source has overlap that prevents proof of precise ear-shaped auricles.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "6 · NEED MACRO — basal hairs and ripe fruit",
+        "role": "hair direction and pappus/cypsela",
+        "look_for": "Lower stem side view showing spreading hairs, upper stem sparse appressed hairs, and detached mature fruit with 1-mm ruler and outer/inner pappus structure.",
+        "why_it_matters": "Necessary to take card from general field recognition to diagnostically finished.",
+        "status": "needs_photo"
+      }
+    ],
+    "memory_rule": "LEAF EARS + FINE MANY RAYS + HAIRY GREEN STEM. Contrast prairie fleabane's usually nonclasping narrow leaves; horseweed's tiny heads and late fruit fluff."
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "TRUE upper mature leaf node showing auriculate clasp, photo from Texas with ruler",
+      "status": "PARTLY_FILLED_BY_LICENSED_PUBLIC_DOMAIN_USGS_PHOTO",
+      "why": "New USGS source close-up visibly shows two partly clasping leaf bases and hairy stem. If resolving auricle ring exactly, take an additional 90-degree lateral/bottom macro with millimeter ruler."
+    },
+    {
+      "role": "Lower stem with long/spreading hairs and upper with mostly appressed hairs, both mm-scale",
+      "status": "NEEDS_DIAGNOSTIC_MACRO",
+      "why": "Hair angle should not be guessed from flowers or leaf-only images."
+    },
+    {
+      "role": "Whole field plant, rooted basal foliage and top head array in same Texas observation",
+      "status": "NEEDS_TEXAS_FIELD_PHOTO",
+      "why": "Available externally sourced gallery photos are from Illinois, Japan and nonlocal scenes."
+    },
+    {
+      "role": "Fresh side involucre 4–6 mm high, with individual green phyllaries and scale",
+      "status": "NEEDS_DIAGNOSTIC_MACRO",
+      "why": "Backlit existing photo shows cup but cannot prove dimensions."
+    },
+    {
+      "role": "Single ripe dry cypsela and outer/inner pappus with ruler",
+      "status": "NEEDS_DIAGNOSTIC_MACRO",
+      "why": "No fruit/pappus microphotograph available."
+    },
+    {
+      "role": "Paired E. strigosus versus E. philadelphicus upper leaf bases at same magnification",
+      "status": "NEEDS_COMPARISON_PHOTO",
+      "why": "Top-priority crew split; source photo must be reliably identified to exact taxon."
+    }
+  ],
+  "field_photo_quickcheck": {
+    "status": "FIELD_READY_PHOTO_GAPS",
+    "look_here_first": "Find a mature upper leaf and examine whether the base CLASPS the stem (with little ear-like lobes), then inspect many narrow pale ray florets. Long hairs near bottom of stem, plant habit and flowerhead size are supporting clues.",
+    "field_photos_to_take": [
+      "Flowering whole plant with intact base and three stem heights",
+      "Full macro upper leaf insertion from side and below",
+      "Lower versus upper stem hairs at mm scale",
+      "Side and top actual fresh head + ruler",
+      "Mature individual cypsela and pappus close-up"
+    ],
+    "not_photo_proven": [
+      "Unambiguous leaf auricles encircling stem",
+      "Proximal/distal stem hairs at measured scale",
+      "Local Hays wild provenance",
+      "Flower ray numeric count for individual photographed head",
+      "Cypsela and outer pappus bristles"
+    ],
+    "corrected_assumptions": [
+      "Flower whiteness or pinkness alone cannot distinguish species",
+      "An unopened pink bud is not mature seed fluff",
+      "Basal foliage sometimes withers, so do not require intact rosette on every flowering plant",
+      "Existing source images do not establish native county status"
+    ],
+    "existing_canonical_exact_species_photos": 4,
+    "external_linked_exact_species_photos": 2,
+    "comparison_only_images_from_other_species": 2,
+    "arrow_count": 21,
+    "phone_arrow_review": "PENDING",
+    "heading": "Philadelphia fleabane — find the leaf ears",
+    "featured_photo_indices": [
+      1,
+      3,
+      4
+    ],
+    "steps": [
+      "START with the new USGS picture: find the leaf BASE where its broad tissue partly CLASPS the green hairy stem; contrast PRAIRIE fleabane's usual narrow nonclasping base.",
+      "Look at a genuinely fresh composite head; Philadelphia often has 150–250 or more fine white/pink ray FLORETS around a yellow central disc. Color alone is not a diagnosis.",
+      "Turn the flower head over for its green involucre and inspect lower stem hair direction; check a real plant's leaf node from multiple angles."
+    ],
+    "field_rule": "A verified partly clasping upper leaf base (now in USGS photo) plus fine many-rayed heads supports Philadelphia fleabane. Stem hairs and basal foliage are supporting; exact Texas county nativity not reviewed.",
+    "warning": "USGS photograph shows the place to look and visible partial clasping; it does not show fully encircling leaf ears or 1mm cypsela traits. Public-domain license is guide-specific and credited.",
+    "upper_leaf_clasping_photo": {
+      "status": "PHOTO_ROLE_FILLED_FOR_CREW_PARTIAL_CLASP",
+      "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/2993",
+      "image_url": "https://warcapps.usgs.gov/PlantID/Image/GivenFile?file=Erigeron+philadelphicus_3637.JPG&id=2993",
+      "creator": "Larry Allain, U.S. Geological Survey",
+      "license": "Public domain (USGS Plants of Louisiana guide)",
+      "rights_evidence": "USGS Plants of Louisiana About explicitly declares the guide images not copyrighted and public domain; image species page credits Larry Allain, U.S. Geological Survey.",
+      "photo_verified": "Broad upper leaf bases visibly partially clasp hairy vertical stem",
+      "not_shown": "Underside 360-degree auricle shape / detached single fruit",
+      "media_location": "EXTERNAL_LINKED_REAL_PHOTO_ONLY, NOT GITHUB_PHYSICAL_IMAGE",
+      "mobile_check": "PENDING"
+    }
+  },
+  "curated_sources": [
+    {
+      "source": "Flora of North America: Erigeron philadelphicus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416506",
+      "supports": "Life cycle, leaf bases, stem hairs, rays, heads, involucral dimensions, pappus."
+    },
+    {
+      "source": "FNA Erigeron group 6 species key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&key_no=6&taxon_id=112000",
+      "supports": "Clasping versus nonclasping upper cauline leaf bases, distinctions from tenuis and quercifolius."
+    }
+  ]
+}

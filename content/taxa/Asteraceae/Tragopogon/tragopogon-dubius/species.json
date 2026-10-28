@@ -1,0 +1,37 @@
+{
+  "id": "tragopogon-dubius",
+  "family": "Asteraceae",
+  "genus": "Tragopogon",
+  "species": "dubius",
+  "scientific_name": "Tragopogon dubius",
+  "common_name": "Yellow salsify / goat's beard (introduced)",
+  "look_here_first": "Look for grasslike clasping leaves and large yellow ligulate dandelionlike flower heads; notice long green phyllaries extending beyond the rays and oversized dandelionlike seed heads.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Tragopogon%20dubius",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced/nonlocal comparative weed, not a Hays County native restoration recommendation.",
+  "images": [
+    {
+      "file": "images/commons-tragopogon-dubius.jpg",
+      "role": "Provisional yellow flower head, long outer bracts; leaves and mature pappus fruits need later images.",
+      "creator": "Sinan Çomu",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tragopogon_dubius_flower.jpg",
+      "study_use": "Noncommercial visual learner",
+      "public_reuse": "Credit artist, original and license, preserve ShareAlike terms for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

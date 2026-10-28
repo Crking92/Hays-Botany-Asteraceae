@@ -1,0 +1,17 @@
+Plectocephalus americanus — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:238714-1
+
+PROJECT TRACKER DIAGNOSTIC
+Tall annual with very large lavender-pink discoid heads and striking basket-like overlapping involucral bracts; older name Centaurea americana is still widely encountered.
+
+PHOTO METHOD
+Run the family-level DOWNLOAD-TARGETED-ASTERACEAE-BATCH3-PHOTOS.bat from the Asteraceae folder.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations
+3) Texas research-grade fill images as needed
+
+image-sources.csv is generated automatically.

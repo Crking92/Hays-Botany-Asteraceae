@@ -1,0 +1,61 @@
+{
+  "id": "centaurea-cyanus",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Centaurea",
+  "species": "cyanus",
+  "scientific_name": "Centaurea cyanus",
+  "authority": "L.",
+  "common_name": "Cornflower / bachelor's button",
+  "look_here_first": "LOOK HERE FIRST: Inspect the head: outer sterile florets are enlarged and trumpet-like with fringed tips, surrounding shorter central fertile florets. Then turn the head sideways to inspect several rows of non-spiny green phyllaries with dark or pale papery fringed appendages. Check the narrow alternate leaves and slightly woolly stems; blue color alone is not a reliable ID.",
+  "taxonomy_notes": "POWO accepts Centaurea cyanus L. and treats Cyanus segetum Hill as a synonym, not a separate learner species. The accepted source-pool concept is a species, not a cultivar; cultivated flower colors vary.",
+  "synonyms": [
+    "Cyanus segetum Hill"
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 219; workflow/INSTALLER_PREFLIGHT_QUEUE_2026-10-15.json mass-01",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "native_metrics_excluded": true,
+    "notes": "Kew records native Mediterranean distribution and introduction into Texas. Explicitly introduced/non-native; no invasive claim inferred. Keep separate from confirmed native metrics."
+  },
+  "morphology_keys": {
+    "habit": "Annual herb, typically upright with slender branches, often woolly when young.",
+    "leaves_attachment": "Alternate narrow linear to lanceolate leaves, usually sessile on upper stem; lower leaves can be sparsely toothed or lobed; white woolly hairs may be visible.",
+    "flower_reproductive": "Heads at branch ends; enlarged, usually blue but variable-colored outer sterile florets surround smaller fertile florets. The bell-shaped involucre has multiple rows of green phyllaries with scarious fringed tips, often brown to dark.",
+    "fruit_seed": "Small pale-to-gray cypselae with a short tuft of stiff pappus bristles; needs exact-species macro.",
+    "stem_bud": "Slender non-winged stems with woolly hairs; check attachment of upper leaves."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Centaurea melitensis — yellow flower heads and stout spine-like involucral bracts; inspect phyllary appendages, not just petal color.",
+      "Centaurea stoebe — typically pink-purple deeply divided heads and different fringed phyllaries; check stem leaves and involucre.",
+      "Cichorium intybus — blue heads but strap-shaped ligulate florets rather than a Centaurea head with enlarged outer tubular florets."
+    ],
+    "key_distinctions": "Inspect the head anatomy and dark/pale fringed, non-spiny phyllary appendages together with narrow gray-green alternate leaves. Color can vary in cultivars."
+  },
+  "diagnostic_image_needs": [
+    "installed_source_pending_action: top view shows enlarged blue outer florets and smaller central florets; does NOT show the involucre (Robert Flogaus-Faust CC BY 4.0).",
+    "needs_photo: sharp side macro of overlapping phyllaries and dark/pale papery fringed tips.",
+    "needs_photo: upper alternate sessile leaves and woolly stem with scale.",
+    "needs_photo: whole annual habit and mature cypsela with pappus.",
+    "annotation_pending: confirm arrow targets on real installed images."
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/centaurea-cyanus-floret-head-commons.jpg",
+      "role": "Exact-species top-view head with enlarged outer florets and smaller inner florets",
+      "creator": "Robert Flogaus-Faust",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Centaurea_cyanus_RF.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution CC BY 4.0"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  }
+}

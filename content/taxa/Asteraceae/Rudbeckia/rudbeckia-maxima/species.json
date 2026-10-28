@@ -1,0 +1,117 @@
+{
+  "id": "rudbeckia-maxima",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
+  "species": "maxima",
+  "scientific_name": "Rudbeckia maxima",
+  "authority": "Nutt.",
+  "common_name": "Great coneflower",
+  "look_here_first": "Look for enormous bluish-glaucous, mostly basal leaves and tall, relatively leafless flowering stalks topped by large heads with dramatically elongated dark cones and drooping yellow rays. Compare foliage and cone height, not ray color alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Existing B060 deep review: native in East Texas/east-central Texas, but no confirmed project target-zone counties; planted Austin specimens are not native occurrence evidence.",
+    "range_guardrail": "Do not count as confirmed target-zone native; scientific FAIL remains independent of learner admission."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Large, colony-forming perennial with towering flowering stems.",
+    "leaves": "Very large blue-green glaucous leaves concentrated at the base.",
+    "heads": "Yellow rays droop beneath an unusually tall, dark elongated disk cone.",
+    "best_field_traits": [
+      "Huge glaucous basal leaves",
+      "Tall relatively leafless stems",
+      "Elongated dark central cones",
+      "Drooping yellow rays"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rudbeckia hirta",
+      "Rudbeckia laciniata"
+    ],
+    "key_distinctions": "R. hirta is much smaller and rough-hairy, with smaller leaves and a shorter hemispheric/ovoid dark disk. R. laciniata generally has deeply divided foliage and greenish cone disks; compare leaf division and cone color/shape."
+  },
+  "images": [
+    {
+      "file": "images/rudbeckia-maxima-provisional-face.jpg",
+      "role": "Tall great coneflower bloom and conspicuous raised disk; basal blue-gray leaf rosette remains later polish.",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_maxima.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/joey-inat-705013128.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/705013128",
+      "observation_url": "https://www.inaturalist.org/observations/385108031",
+      "observation_id": "385108031",
+      "photo_id": "705013128",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/705013128/large.jpg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-705016228.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/705016228",
+      "observation_url": "https://www.inaturalist.org/observations/385108031",
+      "observation_id": "385108031",
+      "photo_id": "705016228",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/705016228/large.jpg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "Whole flowering plant with basal leaves and tall stems",
+    "Close-up of elongated dark cone and drooping rays",
+    "Glaucous basal leaf texture and size"
+  ],
+  "curation_notes": "Reuses research-drafts/rudbeckia-maxima/draft.json; no change to scientific range review.",
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

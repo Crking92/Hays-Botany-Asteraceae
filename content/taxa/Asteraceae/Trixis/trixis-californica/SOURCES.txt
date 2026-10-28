@@ -1,0 +1,9 @@
+Master Plant Pool Phase3 accepted working name Trixis californica; source rows 1212
+Taxonomy source query https://powo.science.kew.org/results?q=Trixis%20californica
+Exact Commons source photograph https://commons.wikimedia.org/wiki/File:Trixis_californica_flower_2.jpg
+Original photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Trixis%20californica%20flower%202.jpg
+Creator Stan Shebs
+Individual image-level CC/PD license CC BY-SA 3.0
+Provisional photo role Provisional yellow composite floral head; leaves, phyllaries and whole shrubby growth habit need further images
+Caution California source. Central Texas target-county nativity unresolved; the photo does not show all diagnostic traits.
+No Hays County or user target-zone nativity asserted from image. Photo licensing checked at original Commons file pages.

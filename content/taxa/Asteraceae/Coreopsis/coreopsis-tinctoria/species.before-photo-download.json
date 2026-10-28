@@ -1,0 +1,42 @@
+{
+  "id": "coreopsis-tinctoria",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis tinctoria",
+  "authority": "Nutt.",
+  "common_name": "Plains Coreopsis",
+  "field_group": "Small yellow composite / tickseed complex",
+  "project_tracker_diagnostic": "Annual; more robust than C. basalis; leaves opposite and usually bipinnately divided into threadlike segments; rays yellow with broad dark reddish-brown basal zones.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 1",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common and useful Central Texas field-learning taxon."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Erect branching herb, often somewhat taller/coarser than C. basalis.",
+    "leaves": "Opposite below, dissected into many narrow threadlike segments.",
+    "heads": "Showy yellow rays with broad maroon to reddish-brown bases; disks dark.",
+    "phyllaries": "Outer bracts often spreading beneath a broader inner involucre.",
+    "fruit": "Cypselae flat with short awns.",
+    "best_field_traits": [
+      "threadlike divided leaves",
+      "showy bicolored rays",
+      "annual branching habit"
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [],
+  "curation_status": {
+    "version": "1.0-batch1",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30"
+  }
+}

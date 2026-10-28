@@ -1,0 +1,35 @@
+SYMPHYOTRICHUM SERICEUM — REAL DIAGNOSTIC PHOTO FIRST-PASS — 2026-10-12
+SCIENTIFIC MORPHOLOGY AND TAXONOMY
+John C. Semple, University of Waterloo Astereae Lab, Symphyotrichum sericeum:
+https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-sericeum
+J.C. Semple — Symphyotrichum pratense: a significant Texas look-alike with much sparser hairs and broad, ovate phyllaries (comparison only, not installed):
+https://uwaterloo.ca/astereae-lab/research/asters/symphyotrichum/symphyotrichum-pratense
+Minnesota Wildflowers — silky aster, leaf and head morphology:
+https://www.minnesotawildflowers.info/flower/silky-aster
+Flora of North America — Symphyotrichum sericeum:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067684
+
+LICENSED EXACT-TAXON PHOTOGRAPHS ADDED AS REMOTE URL METADATA
+1. Existing flowering habit: peganum, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_(15354337036).jpg
+2. REAL silky hair close-up, davecz2 (WISCONSIN), CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135056.jpg
+3. REAL hairy green closed-bud phyllaries, same plant and photographer davecz2, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Symphyotrichum_sericeum_10135023.jpg
+Same observation: https://www.inaturalist.org/observations/7725172
+
+CURRENT INSTALLATION STATE: links in species.json images[] and two arrowed images in genus.json visual_comparison.items. NO local binary image assets in this folder as of this pass. Existing physical-file zero backlog not falsely marked complete. The learner's web UI supports remote image files, but eventual physical download, optimization and audit remain follow-up.
+LICENSE REQUIREMENTS: credit photographer, retain Commons page and CC BY-SA license; derivative changes must preserve share-alike license terms. John Semple rootstock photo is copyrighted and source-link ONLY.
+
+FINAL POLISH: actual licensed rootstock photograph and matched Texas sericeum versus pratense individual hair/bract macros; local provenance photos desirable. Source photographs do NOT establish Texas county occurrence or update scientific PASS metadata.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Symphyotrichum sericeum
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4852044975
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/symphyotrichum-sericeum/gbif-d8a74619582ba9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Symphyotrichum sericeum
+Creator: Mário Rui Carranca; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110407081
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/symphyotrichum-sericeum/plantnet-via-gbif-ea8dda51447fbd.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

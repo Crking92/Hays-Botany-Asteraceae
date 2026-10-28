@@ -1,0 +1,37 @@
+{
+  "id": "mikania-scandens",
+  "family": "Asteraceae",
+  "genus": "Mikania",
+  "species": "scandens",
+  "scientific_name": "Mikania scandens",
+  "common_name": "Climbing hempvine",
+  "look_here_first": "Recognize a climbing/twining vine with opposite triangular to heart-shaped leaves and loose clusters of tiny whitish to pinkish composite heads; inspect heads with four florets and phyllaries.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Mikania%20scandens",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Do not claim local occurrence from this source photo; distinguish from other climbing Asteraceae.",
+  "images": [
+    {
+      "file": "images/commons-mikania-scandens.jpg",
+      "role": "Provisional photographed climbing vine habit; head flower count not anatomically checked.",
+      "creator": "Vengolis",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mikania_scandens_4481.jpg",
+      "study_use": "Noncommercial plant visual field learner",
+      "public_reuse": "Attribution to creator and source and ShareAlike requirements for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,18 @@
+Chaetopappa bellidifolia — approved Master Plant Pool row 237; source-pool learner admission separate from county-native certification.
+Reviewed identity in Master Plant Pool 2026-10-10. POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30024082-2
+Flora of North America Chaetopappa key: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=106357
+Key diagnostic comparison: C. effusa is a rhizomatous perennial with broad proximal cauline leaves 6–12 mm and a tiny ring-like pappus; C. ericoides is perennial with densely overlapping narrow leathery leaves and ~24–26 pappus bristles. Other annual Chaetopappa may have cups or bristle+scale pappi; check ripe fruits.
+Project target-zone status UNRESOLVED; do not include in native-only metrics.
+Exact-species photo licensing/source unresolved; no substitutions.
+
+EXTERNAL FIRST-PHOTO SOURCE 2026-10-15T02:06:39.520317+00:00
+Cody Stricker; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/
+https://www.inaturalist.org/photos/259597819 | https://www.inaturalist.org/observations/150537744
+Image saved provisionally from exact-taxon Research Grade observation; photographic diagnostic ID unreviewed. EXIF removed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Chaetopappa bellidifolia (A.Gray & Engelm. ex A.Gray) Shinners
+https://www.gbif.org/occurrence/1837060765
+Laura Clark | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Taprooted annual habit and mature cypsela with pappus; phyllaries
+No anatomy arrows; no scientific or native-range changes.

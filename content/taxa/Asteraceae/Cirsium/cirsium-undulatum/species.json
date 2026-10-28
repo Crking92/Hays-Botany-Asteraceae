@@ -1,0 +1,159 @@
+{
+  "id": "cirsium-undulatum",
+  "entry_type": "species",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium undulatum",
+  "authority": "(Nutt.) Spreng.",
+  "common_name": "Wavyleaf Thistle",
+  "project_tracker_diagnostic": "Perennial thistle with strongly wavy/lobed leaves and dense gray-white tomentum beneath; large purple heads; often more woolly than Texas thistle.",
+  "project_inclusion": {
+    "mode": "common Asteraceae batch 3",
+    "native_filter_status": "deferred until later finalization",
+    "learning_reason": "Common, conspicuous, or high-value comparison species for Central Texas field ID."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial from deep roots.",
+    "habit": "Erect or ascending, often gray-tomentose.",
+    "leaves": "Cauline leaves mainly ovate to lanceolate, often entire or coarsely toothed or shallowly lobed (variable); gray-white wool on lower face. A strongly wavy margin is NOT universal or a single-species proof.",
+    "heads": "Large purple discoid heads, usually on evident peduncles.",
+    "phyllaries": "Lanceolate and spine-tipped; larger involucres can exceed 3 cm.",
+    "best_field_traits": [
+      "Broader ovate/lanceolate upper stem leaves: unlobed/coarsely toothed/shallowly lobed in FNA key.",
+      "Lower leaf surfaces woolly gray-white; gray color alone shared with ochrocentrum and western Cirsium.",
+      "Outer/mid phyllaries may have a longitudinal glutinous resin ridge, seen best by wet/dry macro.",
+      "Involucres of larger heads often >30 mm; photograph without corolla with ruler.",
+      "Mature cypselae about 6–7 mm long; apical collar roughly same color as fruit body.",
+      "Contrast C. ochrocentrum with stronger phyllary spines and decurrent wings in some forms; avoid absolute wing-only key."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 5,
+    "selection_logic": "Prefer curated taxon photos plus multiple views from one Central Texas/Texas observation."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Steven Mlodinow, some rights reserved (CC BY-NC), uploaded by Steven Mlodinow",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/76358",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524259736/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "524259736",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) adriscoll, some rights reserved (CC BY-NC), uploaded by adriscoll",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/76358",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79584447/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "79584447",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Maria Sisk, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/366829600",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669844180/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "366829600",
+      "photo_id": "669844180",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Maria Sisk, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/366829600",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669844273/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "366829600",
+      "photo_id": "669844273",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Maria Sisk, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/366829600",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669844331/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "366829600",
+      "photo_id": "669844331",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cirsium%20undulatum%20%284990344551%29.jpg",
+      "role": "VERIFIED clear upper/middle stem LEAF BASE and woolly leaf undersides. Upper leaf slightly clasps but does NOT descend as long wing.",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_undulatum_(4990344551).jpg",
+      "source_type": "Flickr via Wikimedia Commons",
+      "source_region": "Bozeman, Montana; source does not certify local Texas range",
+      "photo_status": "EXTERNAL_LICENSED_LINK_NOT_PHYSICAL",
+      "study_use": "yes",
+      "public_reuse": "CC BY-SA 2.0 with attribution and share-alike",
+      "visual_verification": "960 px image: upper leaf base x~54% y~35%; lower-left leaf underside x~20% y~57%. Photo expressly identified as showing barely clasping, not decurrent leaves."
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-wavyleaf-key-review",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 6,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "range_status_unchanged": true,
+    "feature_verified_leaf_attachment": true
+  },
+  "look_here_first": "Inspect full MID-STEM leaf shape and its TWO surfaces, then the SIDE of the involucre. C. undulatum tends to have gray-white wool beneath and relatively broader ovate/lanceolate stem leaves that are entire, coarse-toothed or shallowly lobed (not necessarily deeply feather-cut). In larger heads the involucre is often >3 cm; inspect a resinous/glutinous ridge down outer/middle phyllary midveins. For hard undulatum vs ochrocentrum calls, mature cypselae ~6–7 mm with body and rim same color, plus leaf division and wing extent, are useful.",
+  "comparisons": {
+    "confused_with": [
+      "Cirsium ochrocentrum",
+      "Cirsium vulgare",
+      "Cirsium texanum"
+    ],
+    "key_distinctions": "Undulatum: broader subentire to shallowly lobed cauline leaves, woolly undersides, often large involucre, mature cypselae ~6–7 mm with concolorous apical rim. Ochrocentrum may have conspicuous decurrent spiny stem wings, longer phyllary spine tips and woolly herbage; forms overlap. Vulgare shows unique short bristle-spines on upper leaf blade. Texanum has considerably smaller involucres."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Full broad mid-stem leaf including upper/lower surfaces",
+      "priority": "high",
+      "status": "photo candidate in existing images to evaluate; annotation not claimed"
+    },
+    {
+      "role": "Glutinous ridge on underside of phyllary with millimeter ruler",
+      "priority": "high",
+      "status": "macro missing"
+    },
+    {
+      "role": "Mature fruit/cypsela 6–7 mm and apical collar",
+      "priority": "high",
+      "status": "macro missing"
+    },
+    {
+      "role": "Matched ochrocentrum vs undulatum stem wings and leaf division",
+      "priority": "final polish",
+      "status": "matched comparator missing"
+    }
+  ]
+}
