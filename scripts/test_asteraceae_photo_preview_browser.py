@@ -53,6 +53,14 @@ with sync_playwright() as p:
         assert page.locator(".gallery-photo img").count()>=2
         assert all(page.locator(".gallery-photo img").nth(i).evaluate("(e)=>e.complete && e.naturalWidth>0") for i in range(2))
         page.screenshot(path=str(OUT/f"asteraceae-new-gbif-photos-{label}.png"),full_page=True)
+        page.goto("http://127.0.0.1:8767/?species=erigeron-geiseri",wait_until="networkidle")
+        page.locator(".gallery-photo img").first.wait_for()
+        nc_text=page.locator("#detail").inner_text()
+        assert "Andy Newman" in nc_text
+        assert "CC BY-NC" in nc_text
+        assert page.locator(".photo-nc").count()>=1, "New live-verified NC84 photo has no noncommercial warning"
+        assert page.locator(".gallery-photo img").first.evaluate("(e)=>e.complete && e.naturalWidth>0")
+        page.screenshot(path=str(OUT/f"asteraceae-nc84-new-geiseri-{label}.png"),full_page=True)
         assert not errors,errors
         print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"two yarrow credits, Calvin permission, Joey NC, photos loaded, search and Field ID",flush=True)
         page.close()
