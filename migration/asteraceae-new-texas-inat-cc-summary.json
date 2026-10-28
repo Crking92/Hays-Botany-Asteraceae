@@ -1,0 +1,52 @@
+{
+  "status": "NEW_SOURCE_PHOTO_BACKFILL_PRIVATE_NOT_PUBLICLY_DEPLOYED",
+  "missing_species_baseline": 31,
+  "new_licensed_source_photos_archived": 36,
+  "species_with_new_photos": 26,
+  "field_priority_species_with_new_photos": 10,
+  "field_priority_total": 10,
+  "species_still_missing_approved_photo": 5,
+  "source_originals_already_archived_in_main_migration": 322,
+  "new_photos_separate_from_459_original_source_photos": true,
+  "photos_per_source_species": {
+    "tetraneuris-linearifolia": 2,
+    "amphiachyris-amoena": 2,
+    "carphochaete-bigelovii": 2,
+    "centaurea-melitensis": 2,
+    "heterotheca-canescens": 2,
+    "hymenopappus-artemisiifolius": 2,
+    "plectocephalus-americanus": 2,
+    "pyrrhopappus-grandiflorus": 2,
+    "ratibida-columnifera": 2,
+    "verbesina-encelioides": 2,
+    "tetragonotheca-texana": 1,
+    "arnoglossum-plantagineum": 1,
+    "bradburia-hirtella": 1,
+    "chaptalia-texana": 1,
+    "heterotheca-stenophylla": 1,
+    "packera-tampicana": 1,
+    "parthenium-confertum": 1,
+    "pseudognaphalium-canescens": 1,
+    "pyrrhopappus-carolinianus": 1,
+    "senecio-ampullaceus": 1,
+    "sideranthus-spinulosus": 1,
+    "sidneya-tenuifolia": 1,
+    "berlandiera-betonicifolia": 1,
+    "krigia-occidentalis": 1,
+    "laphamia-lindheimeri": 1,
+    "wedelia-acapulcensis": 1
+  },
+  "holds": {
+    "chondrilla-juncea": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "iva-asperifolia-var-angustifolia": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "leontodon-rhagadioloides": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "pectis-angustifolia-var-fastigiata": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "hymenopappus-scabiosaeus-var-corymbosus": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO"
+  },
+  "license_counts": {
+    "CC BY 4.0": 29,
+    "CC BY-SA 4.0": 3,
+    "CC0 1.0": 4
+  },
+  "publication_state": "STAGING_ONLY"
+}

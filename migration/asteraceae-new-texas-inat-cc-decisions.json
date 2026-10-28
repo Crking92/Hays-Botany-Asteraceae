@@ -1,0 +1,405 @@
+[
+  {
+    "species_id": "tetraneuris-linearifolia",
+    "scientific_name": "Tetraneuris linearifolia",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 390,
+    "selected_photo_ids": [
+      75989476,
+      504595588
+    ]
+  },
+  {
+    "species_id": "amphiachyris-amoena",
+    "scientific_name": "Amphiachyris amoena",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 9,
+    "selected_photo_ids": [
+      95597538,
+      723168785
+    ]
+  },
+  {
+    "species_id": "carphochaete-bigelovii",
+    "scientific_name": "Carphochaete bigelovii",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 15,
+    "selected_photo_ids": [
+      275135764,
+      535134193
+    ]
+  },
+  {
+    "species_id": "centaurea-melitensis",
+    "scientific_name": "Centaurea melitensis",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 326,
+    "selected_photo_ids": [
+      137069784,
+      31017986
+    ]
+  },
+  {
+    "species_id": "heterotheca-canescens",
+    "scientific_name": "Heterotheca canescens",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 306,
+    "selected_photo_ids": [
+      293193240,
+      237278813
+    ]
+  },
+  {
+    "species_id": "hymenopappus-artemisiifolius",
+    "scientific_name": "Hymenopappus artemisiifolius",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 190,
+    "selected_photo_ids": [
+      371364765,
+      488896253
+    ]
+  },
+  {
+    "species_id": "plectocephalus-americanus",
+    "scientific_name": "Plectocephalus americanus",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 982,
+    "selected_photo_ids": [
+      94817657,
+      204439541
+    ]
+  },
+  {
+    "species_id": "pyrrhopappus-grandiflorus",
+    "scientific_name": "Pyrrhopappus grandiflorus",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 1,
+    "selected_photo_ids": [
+      647512367,
+      647512375
+    ]
+  },
+  {
+    "species_id": "ratibida-columnifera",
+    "scientific_name": "Ratibida columnifera",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 2210,
+    "selected_photo_ids": [
+      124703321,
+      279228311
+    ]
+  },
+  {
+    "species_id": "verbesina-encelioides",
+    "scientific_name": "Verbesina encelioides",
+    "priority": "HIGH_CANDIDATE_FOR_CREW",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 2,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 813,
+    "selected_photo_ids": [
+      595028677,
+      676248528
+    ]
+  },
+  {
+    "species_id": "tetragonotheca-texana",
+    "scientific_name": "Tetragonotheca texana",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 125,
+    "selected_photo_ids": [
+      166875890
+    ]
+  },
+  {
+    "species_id": "arnoglossum-plantagineum",
+    "scientific_name": "Arnoglossum plantagineum",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 233,
+    "selected_photo_ids": [
+      641214737
+    ]
+  },
+  {
+    "species_id": "bradburia-hirtella",
+    "scientific_name": "Bradburia hirtella",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 1,
+    "selected_photo_ids": [
+      132669673
+    ]
+  },
+  {
+    "species_id": "chaptalia-texana",
+    "scientific_name": "Chaptalia texana",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 201,
+    "selected_photo_ids": [
+      464825467
+    ]
+  },
+  {
+    "species_id": "chondrilla-juncea",
+    "scientific_name": "Chondrilla juncea",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "HOLD",
+    "photos_saved": 0,
+    "reason": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "observation_candidates": 0,
+    "selected_photo_ids": []
+  },
+  {
+    "species_id": "heterotheca-stenophylla",
+    "scientific_name": "Heterotheca stenophylla",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 26,
+    "selected_photo_ids": [
+      206965921
+    ]
+  },
+  {
+    "species_id": "iva-asperifolia-var-angustifolia",
+    "scientific_name": "Iva asperifolia var. angustifolia",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "HOLD",
+    "photos_saved": 0,
+    "reason": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "observation_candidates": 0,
+    "selected_photo_ids": []
+  },
+  {
+    "species_id": "leontodon-rhagadioloides",
+    "scientific_name": "Leontodon rhagadioloides",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "HOLD",
+    "photos_saved": 0,
+    "reason": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "observation_candidates": 578,
+    "selected_photo_ids": []
+  },
+  {
+    "species_id": "packera-tampicana",
+    "scientific_name": "Packera tampicana",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 224,
+    "selected_photo_ids": [
+      270520329
+    ]
+  },
+  {
+    "species_id": "parthenium-confertum",
+    "scientific_name": "Parthenium confertum",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 96,
+    "selected_photo_ids": [
+      181962004
+    ]
+  },
+  {
+    "species_id": "pectis-angustifolia-var-fastigiata",
+    "scientific_name": "Pectis angustifolia var. fastigiata",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "HOLD",
+    "photos_saved": 0,
+    "reason": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "observation_candidates": 0,
+    "selected_photo_ids": []
+  },
+  {
+    "species_id": "pseudognaphalium-canescens",
+    "scientific_name": "Pseudognaphalium canescens",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 1,
+    "selected_photo_ids": [
+      624516026
+    ]
+  },
+  {
+    "species_id": "pyrrhopappus-carolinianus",
+    "scientific_name": "Pyrrhopappus carolinianus",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 41,
+    "selected_photo_ids": [
+      374816392
+    ]
+  },
+  {
+    "species_id": "senecio-ampullaceus",
+    "scientific_name": "Senecio ampullaceus",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 330,
+    "selected_photo_ids": [
+      61857663
+    ]
+  },
+  {
+    "species_id": "sideranthus-spinulosus",
+    "scientific_name": "Sideranthus spinulosus",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 170,
+    "selected_photo_ids": [
+      292775980
+    ]
+  },
+  {
+    "species_id": "sidneya-tenuifolia",
+    "scientific_name": "Sidneya tenuifolia",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 250,
+    "selected_photo_ids": [
+      243050060
+    ]
+  },
+  {
+    "species_id": "berlandiera-betonicifolia",
+    "scientific_name": "Berlandiera betonicifolia",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 21,
+    "selected_photo_ids": [
+      211232845
+    ]
+  },
+  {
+    "species_id": "hymenopappus-scabiosaeus-var-corymbosus",
+    "scientific_name": "Hymenopappus scabiosaeus var. corymbosus",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "HOLD",
+    "photos_saved": 0,
+    "reason": "NO_EXACT_RESEARCH_GRADE_TAXON_WITH_PERMISSIVE_TEXAS_PHOTO",
+    "observation_candidates": 0,
+    "selected_photo_ids": []
+  },
+  {
+    "species_id": "krigia-occidentalis",
+    "scientific_name": "Krigia occidentalis",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 52,
+    "selected_photo_ids": [
+      14181884
+    ]
+  },
+  {
+    "species_id": "laphamia-lindheimeri",
+    "scientific_name": "Laphamia lindheimeri",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 65,
+    "selected_photo_ids": [
+      71897171
+    ]
+  },
+  {
+    "species_id": "wedelia-acapulcensis",
+    "scientific_name": "Wedelia acapulcensis",
+    "priority": "STANDARD",
+    "region": "Texas, US, iNaturalist place 18",
+    "status": "NEW_CC_PHOTO_ARCHIVED_PRIVATE",
+    "photos_saved": 1,
+    "reason": "PHOTO_LICENSE_TAXON_AND_FIELD_RECORD_VERIFIED",
+    "observation_candidates": 844,
+    "selected_photo_ids": [
+      179877818
+    ]
+  }
+]
