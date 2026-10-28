@@ -63,7 +63,7 @@ async function select(id,push){
        if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
        if(photo.private_rights_review_only)cap.append(el("small",photo.rights_note||"Private review: public license verification still required.","photo-review"));
        const sources=el("div",undefined,"source-links");
-       for(const [label,url] of [["Photo source",photo.source_page],["License",photo.license_url]]){
+       for(const [label,url] of [[photo.source_page_is_exact===false?"Related iNaturalist reference (exact photo page pending)":"Photo source",photo.source_page],["License",photo.license_url]]){
          if(!url||!url.startsWith("https://"))continue;
          const a=el("a",label);a.href=url;a.target="_blank";a.rel="noopener noreferrer";sources.append(a);
        }
