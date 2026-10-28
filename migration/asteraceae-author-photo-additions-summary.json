@@ -1,0 +1,21 @@
+{
+  "status": "PRIVATE_REVIEW_ONLY_NOT_PUBLIC_RIGHTS_APPROVED",
+  "source_commit": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "source_named_photo_references": {
+    "Joey Santore": 76,
+    "Calvin King": 6
+  },
+  "already_independently_verified": {
+    "Joey Santore already independently verified": 41,
+    "Joey Santore no exact photo source": 14
+  },
+  "newly_staged_calvin_author_permission": 6,
+  "newly_staged_joey_source_cc_by_nc_claim": 21,
+  "newly_added_originals": 27,
+  "public_release_approval": false,
+  "additional_held_reasons": {
+    "Joey Santore already independently verified": 41,
+    "Joey Santore no exact photo source": 14
+  },
+  "joey_source_photo_references_still_held": 14
+}
