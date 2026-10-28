@@ -1,0 +1,60 @@
+name: Permanently record every one of the 120 photo-source decisions
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/asteraceae-compile-priority120-review.yml'
+      - 'scripts/compile_asteraceae_priority120_source_results.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: asteraceae-priority120-final-report
+  cancel-in-progress: false
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, path: shell, persist-credentials: false}
+      - uses: actions/checkout@v4
+        with: {ref: staging/asteraceae-metadata, path: staging, persist-credentials: true}
+      - name: Preserve exact source-licensing decisions before temporary Actions artifacts expire
+        shell: bash
+        env:
+          GH_TOKEN: \${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p reviews/commons reviews/inat
+          gh run download 40746556891 -R Crking92/Hays-Botany-Asteraceae -n asteraceae-commons-40-exact-photo-rights-review -D reviews/commons
+          gh run download 40746905945 -R Crking92/Hays-Botany-Asteraceae -n asteraceae-inat-taxon-19-photo-source-review -D reviews/inat
+          ls -lah reviews/commons reviews/inat
+          python3 shell/scripts/compile_asteraceae_priority120_source_results.py shell staging reviews
+      - name: Archive complete 120-row review and exact reasons in the private repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/asteraceae-priority120-upstream-review-decisions.json migration/asteraceae-priority120-upstream-review-decisions.csv migration/asteraceae-priority120-review-summary.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Permanently preserve exact 120 source-photo permission decisions and 87 imports"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          fi
+      - name: Preserve report snapshot outside the repository
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-priority120-source-rights-final-ledger
+          path: |
+            staging/migration/asteraceae-priority120-upstream-review-decisions.csv
+            staging/migration/asteraceae-priority120-upstream-review-decisions.json
+            staging/migration/asteraceae-priority120-review-summary.json
+          retention-days: 30
+          if-no-files-found: warn
