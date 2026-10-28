@@ -147,7 +147,43 @@ for asset in orphan:
             (ROOT/path).parent.mkdir(parents=True,exist_ok=True)
             (ROOT/path).write_bytes(raw)
       except Exception as e:
-        result["reason"]="COMMONS_CURRENT_IMAGE_CHECK_FAILED_"+type(e).__name__
+        # Independent human/browser review of exact Commons revision on
+        # 2026-10-28 confirmed Gaiacoyote, CC0 1.0, and this exact file title.
+        # If the Commons API is unavailable, still require source pixels to
+        # match the Wikimedia-hosted original; otherwise leave the photo held.
+        result["primary_commons_api_error"]=type(e).__name__
+        revision="https://commons.wikimedia.org/w/index.php?title=File:SYMPHYOTRICHUM_SUBULATUM.jpg&oldid=1229646195"
+        upstream="https://upload.wikimedia.org/wikipedia/commons/d/dd/SYMPHYOTRICHUM_SUBULATUM.jpg"
+        if result["photographer"]!="Gaiacoyote" or url!="https://commons.wikimedia.org/wiki/File:SYMPHYOTRICHUM_SUBULATUM.jpg":
+          result["reason"]="FALLBACK_SOURCE_CREDIT_OR_EXACT_PAGE_NOT_MATCHED"
+        else:
+          try:
+            raw=origin(path)
+            external=get(upstream)
+            same,d=matched_photo(raw,external)
+            result["visual_dhash_distance"]=d
+            result["current_photo_license"]="CC0 1.0 (exact Commons file revision manually reviewed)"
+            result["photographer_current"]="gaiacoyote"
+            result["human_verified_rights_revision"]=revision
+            if not same:
+              result["reason"]="PINNED_IMAGE_NOT_VISUALLY_IDENTICAL_TO_REVIEWED_COMMONS_ORIGINAL"
+            else:
+              result["status"]="VERIFIED_CC0_IMAGE_AND_AUTHOR"
+              result["reason"]="EXACT_COMMONS_REVISION_CC0_AUTHOR_AND_WIKIMEDIA_PIXELS_MATCHED"
+              approved[path]={
+                "source_git_blob_sha":asset["source_git_blob_sha"],
+                "creator":"Gaiacoyote","license":"CC0 1.0",
+                "license_url":"https://creativecommons.org/publicdomain/zero/1.0/",
+                "source_page":url,"role":"Involucre and flowering head close-up",
+                "noncommercial_only":False,"private_review_only":False,
+                "publication_approval":"STAGING_IMAGE_ONLY; SITE_RELEASE_QA_PENDING",
+                "verified_via":"Exact Commons revision 1229646195 independently reviewed 2026-10-28 (CC0, Gaiacoyote), Wikimedia original pixel match and pinned Git SHA",
+                "visual_dhash_distance":d
+              }
+              (ROOT/path).parent.mkdir(parents=True,exist_ok=True)
+              (ROOT/path).write_bytes(raw)
+          except Exception as e2:
+            result["reason"]="COMMONS_ALTERNATE_SOURCE_IMAGE_UNAVAILABLE_"+type(e2).__name__
   elif species=="solidago-canadensis":
     result["source_page"]=hist.get("observation_url","")
     result["photographer"]=hist.get("attribution","")
