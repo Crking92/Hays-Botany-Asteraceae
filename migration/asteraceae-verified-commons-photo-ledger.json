@@ -1,4 +1,15 @@
 {
+  "content/taxa/Asteraceae/Achillea/achillea-millefolium/images/achillea-millefolium-leaves.jpg": {
+    "source_git_blob_sha": "9e03d12d4a80d1717406093b9b0fa3818482f266",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Yarrow_Achillea_millefolium_plant.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "creator": "Jane S. Richardson",
+    "original_author_upstream": "Jane S. Richardson ( talk · contribs )",
+    "role": "Whole flowering plant with finely dissected leaves",
+    "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
+    "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
+  },
   "content/taxa/Asteraceae/Achillea/achillea-millefolium/images/achillea-millefolium-flowering.jpg": {
     "source_git_blob_sha": "a4c7fb0845b015379ea26b04da508a909da2bb43",
     "source_page": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_-_Common_Yarrow.jpg",
@@ -843,6 +854,50 @@
     "creator": "Prenn",
     "original_author_upstream": "Prenn",
     "role": "Provisional yellow flowering form for visual recognition, not a verified local provenance or phyllary macro.",
+    "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
+    "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
+  },
+  "content/taxa/Asteraceae/Tragopogon/tragopogon-dubius/images/commons-tragopogon-dubius.jpg": {
+    "source_git_blob_sha": "cfe47b23d6f2c77355588fc56e6185a0d2bd9249",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tragopogon_dubius_flower.jpg",
+    "license": "CC BY SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Sinan Çomu",
+    "original_author_upstream": "Sinan Çomu",
+    "role": "Provisional yellow flower head, long outer bracts; leaves and mature pappus fruits need later images.",
+    "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
+    "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
+  },
+  "content/taxa/Asteraceae/Trixis/trixis-californica/images/commons-trixis-californica.jpg": {
+    "source_git_blob_sha": "8842795d286c49be7f5fd1c004627431c20013b4",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Trixis_californica_flower_2.jpg",
+    "license": "CC BY SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "creator": "Stan Shebs",
+    "original_author_upstream": "Stan Shebs",
+    "role": "Provisional yellow composite floral head; leaves, phyllaries and whole shrubby growth habit need further images",
+    "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
+    "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
+  },
+  "content/taxa/Asteraceae/Verbesina/verbesina-virginica/images/08-winter-ice-ribbons.jpg": {
+    "source_git_blob_sha": "a543366769701cc460fe2fd6257f08126d741b8f",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_frost_flower.jpg",
+    "license": "CC BY SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Reportingsjr",
+    "original_author_upstream": "Reportingsjr",
+    "role": "Ice ribbons or frost flowers extruding from a split lower frostweed stem after a freeze",
+    "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
+    "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
+  },
+  "content/taxa/Asteraceae/Xanthium/xanthium-strumarium/images/commons-xanthium-strumarium.jpg": {
+    "source_git_blob_sha": "aa5abcb074a9bf3666c38c96dda7339080be3821",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Xanthium_strumarium_2026_G1.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "George Chernilevsky",
+    "original_author_upstream": "George Chernilevsky",
+    "role": "Provisional cocklebur visual recognition in a named species photo; burr morphology and local species complex unresolved.",
     "verified_via": "Wikimedia Commons imageinfo/extmetadata exact File page",
     "publication_approval": "STAGING_IMAGE_ONLY; PUBLIC_SNAPSHOT_REQUIRES_RELEASE_REVIEW"
   }
