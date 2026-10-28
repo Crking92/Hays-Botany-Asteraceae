@@ -1,0 +1,16 @@
+name: Check exact iNaturalist photo-level license API
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/probe_inat_photo_api.py'
+      - '.github/workflows/probe-inat-photo.yml'
+permissions: {contents: read}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/probe_inat_photo_api.py
