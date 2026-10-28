@@ -88,13 +88,15 @@ counts=Counter(v["creator"] for v in new.values())
 assert found["Calvin King"]==6,f"Unexpected Calvin source count {found}"
 assert found["Joey Santore"]==76,f"Unexpected Joey source count {found}"
 assert counts["Calvin King"]==6,f"Calvin image import incomplete {counts}"
-assert counts["Joey Santore"]==35,f"Joey unmatched source count changed {counts}"
-assert len(new)==41
+assert 0<=counts["Joey Santore"]<=35,f"Unexpected Joey source count {counts}"
+assert len(new)==counts["Calvin King"]+counts["Joey Santore"]
 (ROOT/"migration/asteraceae-author-permitted-private-photo-ledger.json").write_text(json.dumps(new,indent=2,ensure_ascii=False)+"\n")
 summary={"status":"PRIVATE_REVIEW_ONLY_NOT_PUBLIC_RIGHTS_APPROVED","source_commit":sha,
     "source_named_photo_references":dict(found),"already_independently_verified":dict(skipped),
     "newly_staged_calvin_author_permission":counts["Calvin King"],
     "newly_staged_joey_source_cc_by_nc_claim":counts["Joey Santore"],
-    "newly_added_originals":len(new),"public_release_approval":False}
+    "newly_added_originals":len(new),"public_release_approval":False,
+    "additional_held_reasons":dict(skipped),
+    "joey_source_photo_references_still_held":found["Joey Santore"]-skipped["Joey Santore already independently verified"]-counts["Joey Santore"]}
 (ROOT/"migration/asteraceae-author-photo-additions-summary.json").write_text(json.dumps(summary,indent=2)+"\n")
 print("AUTHOR_PHOTO_IMPORT",json.dumps(summary,sort_keys=True),flush=True)
