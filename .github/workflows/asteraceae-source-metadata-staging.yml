@@ -71,7 +71,9 @@ jobs:
           git add content/taxa/Asteraceae data/collection-index.json migration/asteraceae-source-snapshot.json migration/asteraceae-source-file-ledger.json migration/asteraceae-photo-rights-triage.csv migration/asteraceae-source-census.json
           # Preserve inherited source CSVs byte-for-byte, including historical trailing whitespace.
           # Apply whitespace lint only to freshly generated index and migration reports.
-          git diff --cached --check -- data/collection-index.json migration/
+          # A few source creator strings contain literal line breaks and trailing spaces.
+          # Preserve these exact provenance values; lint only generated JSON files.
+          git diff --cached --check -- data/collection-index.json 'migration/*.json'
           if git diff --cached --quiet; then
             echo "Staging branch already has identical scientific metadata"
           else
