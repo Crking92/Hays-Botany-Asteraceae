@@ -32,11 +32,14 @@
     "expected_title": "File:Carthamus_tinctorius_050709c.JPG",
     "expected_creator": "Pseudoanas",
     "original_claim": "CC0 1.0",
-    "decision": "HELD",
-    "reason": "UPSTREAM_CC0_DEDICATION_NOT_MACHINE_VERIFIED",
+    "decision": "SOURCE_CC_PHOTO_VERIFIED_PRIVATE_STAGED",
+    "reason": "AUTHOR_LICENSE_AND_IMAGE_HASH_MATCHED",
     "artist": "Pseudoanas  (  talk  )",
     "license_short": "Public domain",
     "license_url": "",
-    "page_title": "File:Carthamus tinctorius 050709c.JPG"
+    "page_title": "File:Carthamus tinctorius 050709c.JPG",
+    "license_verification": "CURRENT_FILE_AUTHOR_PUBLIC_DOMAIN_SELF_DEDICATION",
+    "effective_license": "Public domain (author dedication)",
+    "dhash_distance": 0
   }
 ]

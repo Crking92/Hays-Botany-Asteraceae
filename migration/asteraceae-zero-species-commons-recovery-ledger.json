@@ -24,5 +24,18 @@
     "visually_matched_dhash_distance": 0,
     "verified_via": "Wikimedia Commons exact file current artist, license and original pixel comparison",
     "publication_approval": "STAGING_IMAGE_ONLY; FINAL_PUBLIC_IMAGE_AND_DERIVATIVE_REVIEW_PENDING"
+  },
+  "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/images/carthamus-tinctorius-pseudoanas.jpg": {
+    "source_git_blob_sha": "81139425ef475692db280c73b172fa04c6f2c138",
+    "creator": "Pseudoanas",
+    "upstream_artist": "Pseudoanas  (  talk  )",
+    "license": "Public domain (author dedication)",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Carthamus_tinctorius_050709c.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Carthamus_tinctorius_050709c.JPG",
+    "role": "Flower head and habit",
+    "noncommercial_only": false,
+    "visually_matched_dhash_distance": 0,
+    "verified_via": "Wikimedia Commons exact file current artist, license and original pixel comparison",
+    "publication_approval": "STAGING_IMAGE_ONLY; FINAL_PUBLIC_IMAGE_AND_DERIVATIVE_REVIEW_PENDING"
   }
 }

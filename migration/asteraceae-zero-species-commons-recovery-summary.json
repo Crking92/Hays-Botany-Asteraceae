@@ -2,9 +2,10 @@
   "status": "SOURCE_SPECIES_GAP_COMMONS_REVIEW_COMPLETE",
   "source_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
   "target_files": 3,
-  "files_verified_and_staged": 2,
-  "files_remaining_held": 1,
+  "files_verified_and_staged": 3,
+  "files_remaining_held": 0,
   "source_verified_species": [
+    "carthamus-tinctorius",
     "heterotheca-subaxillaris"
   ],
   "all_decisions": [
@@ -20,8 +21,8 @@
     },
     {
       "path": "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/images/carthamus-tinctorius-pseudoanas.jpg",
-      "decision": "HELD",
-      "reason": "UPSTREAM_CC0_DEDICATION_NOT_MACHINE_VERIFIED"
+      "decision": "SOURCE_CC_PHOTO_VERIFIED_PRIVATE_STAGED",
+      "reason": "AUTHOR_LICENSE_AND_IMAGE_HASH_MATCHED"
     }
   ],
   "public_release_approval": false
