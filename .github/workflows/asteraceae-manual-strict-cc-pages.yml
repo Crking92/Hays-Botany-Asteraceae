@@ -1,5 +1,10 @@
 name: Asteraceae manual strict-CC Pages test release (approval required)
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/asteraceae-manual-strict-cc-pages.yml'
+      - 'scripts/build_asteraceae_photo_preview.py'
   workflow_dispatch:
     inputs:
       publish:
@@ -64,20 +69,20 @@ jobs:
           retention-days: 30
           if-no-files-found: error
       - name: Configure Pages after owner enables GitHub Actions as Pages source
-        if: \${{ inputs.publish }}
+        if: ${{ inputs.publish }}
         uses: actions/configure-pages@v5
       - name: Package vetted static site for Pages deployment
-        if: \${{ inputs.publish }}
+        if: ${{ inputs.publish }}
         uses: actions/upload-pages-artifact@v4
         with: {path: shell/dist/}
   deploy:
-    if: \${{ inputs.publish }}
+    if: ${{ inputs.publish }}
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:
       name: github-pages
-      url: \${{ steps.publish.outputs.page_url }}
+      url: ${{ steps.publish.outputs.page_url }}
     permissions:
       contents: read
       pages: write
