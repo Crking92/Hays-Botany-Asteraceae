@@ -12,10 +12,11 @@ with sync_playwright() as p:
         assert response.status==200
         assert page.locator("#species-count").inner_text()=="180"
         summary=page.request.get("http://127.0.0.1:8767/data/preview-summary.json").json()
-        assert summary["verified_photo_copies"]==358, summary
+        assert summary["verified_photo_copies"]==359, summary
+        assert summary["new_other_commons_field_photos"]==1, summary
         assert summary["new_texas_cc_field_photo_copies"]==36, summary
         assert summary["new_texas_cc_field_species"]==26, summary
-        assert summary["species_with_any_review_photos"]==175, summary
+        assert summary["species_with_any_review_photos"]==176, summary
         page.locator("#detail h3",has_text="LOOK HERE FIRST").wait_for()
         page.locator(".gallery-photo img").first.wait_for()
         images=page.locator(".gallery-photo img")
@@ -99,7 +100,17 @@ with sync_playwright() as p:
             assert page.locator(".gallery-photo a",has_text="Photo source").count()==2,taxon_id
             assert page.locator(".photo-nc").count()==0,"Public-safe Texas images must not use NC licenses"
         page.screenshot(path=str(OUT/f"asteraceae-new-texas-cc-photo-backfill-{label}.png"),full_page=True)
+        page.goto("http://127.0.0.1:8767/?species=chondrilla-juncea",wait_until="networkidle")
+        photo=page.locator(".gallery-photo img")
+        photo.first.wait_for()
+        assert photo.count()==1,"Rush skeletonweed missing independently licensed Commons field photo"
+        chondrilla=page.locator("#detail").inner_text()
+        assert "Harry Rose" in chondrilla
+        assert "Australian reference; not a Texas observation" in chondrilla
+        assert "CC BY 2.0" in chondrilla
+        assert photo.first.evaluate("(e)=>e.complete && e.naturalWidth>0")
+        page.screenshot(path=str(OUT/f"asteraceae-chondrilla-commons-{label}.png"),full_page=True)
         assert not errors,errors
-        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"358 photographs across 175 species; 36 new Texas CC, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
+        print("ASTERS_REAL_PHOTO_BROWSER_PASS",label,"359 photographs across 176 species; 36 new Texas CC and one Commons, yarrow, Calvin, Joey, new GBIF, NC and responsive search",flush=True)
         page.close()
     browser.close()
