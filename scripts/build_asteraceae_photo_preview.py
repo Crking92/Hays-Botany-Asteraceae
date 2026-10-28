@@ -83,7 +83,7 @@ for row in index["entries"]:
             elif img.mode=="L":img=img.convert("RGB")
             img.thumbnail((1600,1600),Image.Resampling.LANCZOS)
             img.save(dest,format="JPEG",quality=83,optimize=True,exif=b"")
-        photos.append({"src":out_rel,"creator":info["creator"],"license":info["license"],"license_url":info["license_url"],
+        photos.append({"src":out_rel,"creator":info["creator"],"license":info["license"],"license_url":info["license_url"].replace("http://creativecommons.org/","https://creativecommons.org/"),
                        "source_page":info["source_page"],"role":original.get("role",""),
                        "modified":"Scaled/converted to JPEG, metadata removed; no anatomy overlays",
                        "source_blob_sha":sha,"noncommercial_only":bool(info.get("noncommercial_only",False))})
