@@ -1,0 +1,16 @@
+name: Check GBIF fallback access and exact iNat photo API (read only)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/probe_gbif_photo_api_alternatives.py'
+      - '.github/workflows/probe-gbif-photo-api-alternatives.yml'
+permissions: {contents: read}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: false}
+      - run: python3 scripts/probe_gbif_photo_api_alternatives.py
