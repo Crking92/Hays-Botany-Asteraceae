@@ -280,8 +280,8 @@
       "family": "Asteraceae",
       "genus": "Brickellia",
       "path": "content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "calyptocarpus-vialis",
@@ -350,8 +350,8 @@
       "family": "Asteraceae",
       "genus": "Chaetopappa",
       "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "chaetopappa-ericoides",
@@ -430,8 +430,8 @@
       "family": "Asteraceae",
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-ochrocentrum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "cirsium-texanum",
@@ -831,7 +831,7 @@
       "genus": "Helenium",
       "path": "content/taxa/Asteraceae/Helenium/helenium-elegans/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 2
     },
     {
       "id": "helenium-quadridentatum",
@@ -1040,8 +1040,8 @@
       "family": "Asteraceae",
       "genus": "Lindheimera",
       "path": "content/taxa/Asteraceae/Lindheimera/lindheimera-texana/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "lygodesmia-texana",
@@ -1440,8 +1440,8 @@
       "family": "Asteraceae",
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-nemoralis/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "solidago-radula",
@@ -1750,8 +1750,8 @@
       "family": "Asteraceae",
       "genus": "Vernonia",
       "path": "content/taxa/Asteraceae/Vernonia/vernonia-lindheimeri/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "vernonia-x-guadalupensis",

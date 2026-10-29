@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 116,
-  "photo_count": 162,
+  "photo_species": 122,
+  "photo_count": 169,
   "entries": {
     "achillea-millefolium": {
       "count": 2,
@@ -114,8 +114,8 @@
       "first_src": null
     },
     "brickellia-eupatorioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/brickellia-eupatorioides/source-24014f5c4121.jpg"
     },
     "calyptocarpus-vialis": {
       "count": 2,
@@ -142,8 +142,8 @@
       "first_src": "media/chaetopappa-bellidifolia/01.jpg"
     },
     "chaetopappa-effusa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/chaetopappa-effusa/source-d7e6bfc20a8d.jpg"
     },
     "chaetopappa-ericoides": {
       "count": 1,
@@ -174,8 +174,8 @@
       "first_src": "media/cirsium-horridulum/01.jpg"
     },
     "cirsium-ochrocentrum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cirsium-ochrocentrum/source-6675156b54cd.jpg"
     },
     "cirsium-texanum": {
       "count": 0,
@@ -334,7 +334,7 @@
       "first_src": "media/helenium-autumnale/01.jpg"
     },
     "helenium-elegans": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/helenium-elegans/source-656000b30bc7.jpg"
     },
     "helenium-quadridentatum": {
@@ -418,8 +418,8 @@
       "first_src": null
     },
     "lindheimera-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lindheimera-texana/source-2658023fd566.jpg"
     },
     "lygodesmia-texana": {
       "count": 0,
@@ -578,8 +578,8 @@
       "first_src": "media/solidago-mexicana/01.jpg"
     },
     "solidago-nemoralis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/solidago-nemoralis/source-be081c6da1c7.jpg"
     },
     "solidago-radula": {
       "count": 0,
@@ -702,8 +702,8 @@
       "first_src": "media/vernonia-baldwinii/01.jpg"
     },
     "vernonia-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vernonia-lindheimeri/source-05a3ce89ce02.jpg"
     },
     "vernonia-x-guadalupensis": {
       "count": 1,

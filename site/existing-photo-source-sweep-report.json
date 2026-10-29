@@ -1,17 +1,17 @@
 {
   "status": "PASS_EXISTING_SOURCE_CC_PHOTO_BACKFILL",
   "source_media_records": 477,
-  "newly_archived_original_cc_photo_copies": 9,
-  "original_approved_photos_already_covered": 102,
-  "total_published_photo_copies": 162,
-  "total_photographed_species": 116,
-  "remaining_held_source_records": 366,
+  "newly_archived_original_cc_photo_copies": 7,
+  "original_approved_photos_already_covered": 111,
+  "total_published_photo_copies": 169,
+  "total_photographed_species": 122,
+  "remaining_held_source_records": 359,
   "hold_reason_counts": {
-    "license_not_strict_cc_or_public_domain": 305,
+    "license_not_strict_cc_or_public_domain": 301,
     "remote_or_invalid_original_path": 29,
     "public_permission_not_documented": 7,
-    "image_specific_source_not_public_verified": 16,
-    "source_bytes_not_in_staged_archive": 9
+    "image_specific_source_not_public_verified": 10,
+    "source_bytes_not_in_staged_archive": 12
   },
   "held_by_species": {
     "acourtia-runcinata": [
@@ -302,10 +302,6 @@
       {
         "record": 0,
         "reason": "source_bytes_not_in_staged_archive"
-      },
-      {
-        "record": 1,
-        "reason": "image_specific_source_not_public_verified"
       }
     ],
     "calyptocarpus-vialis": [
@@ -347,11 +343,7 @@
     "chaetopappa-effusa": [
       {
         "record": 0,
-        "reason": "image_specific_source_not_public_verified"
-      },
-      {
-        "record": 1,
-        "reason": "image_specific_source_not_public_verified"
+        "reason": "source_bytes_not_in_staged_archive"
       }
     ],
     "chaetopappa-ericoides": [
@@ -403,10 +395,6 @@
       }
     ],
     "cirsium-ochrocentrum": [
-      {
-        "record": 0,
-        "reason": "license_not_strict_cc_or_public_domain"
-      },
       {
         "record": 1,
         "reason": "remote_or_invalid_original_path"
@@ -827,11 +815,11 @@
     "gutierrezia-texana": [
       {
         "record": 0,
-        "reason": "license_not_strict_cc_or_public_domain"
+        "reason": "source_bytes_not_in_staged_archive"
       },
       {
         "record": 1,
-        "reason": "license_not_strict_cc_or_public_domain"
+        "reason": "source_bytes_not_in_staged_archive"
       },
       {
         "record": 2,
@@ -876,12 +864,6 @@
       {
         "record": 4,
         "reason": "license_not_strict_cc_or_public_domain"
-      }
-    ],
-    "helenium-elegans": [
-      {
-        "record": 1,
-        "reason": "image_specific_source_not_public_verified"
       }
     ],
     "helenium-quadridentatum": [
@@ -1056,10 +1038,6 @@
       {
         "record": 0,
         "reason": "license_not_strict_cc_or_public_domain"
-      },
-      {
-        "record": 1,
-        "reason": "image_specific_source_not_public_verified"
       }
     ],
     "lygodesmia-texana": [
@@ -1416,10 +1394,6 @@
       {
         "record": 0,
         "reason": "license_not_strict_cc_or_public_domain"
-      },
-      {
-        "record": 1,
-        "reason": "image_specific_source_not_public_verified"
       }
     ],
     "solidago-radula": [
@@ -1730,10 +1704,6 @@
     ],
     "vernonia-lindheimeri": [
       {
-        "record": 0,
-        "reason": "license_not_strict_cc_or_public_domain"
-      },
-      {
         "record": 1,
         "reason": "license_not_strict_cc_or_public_domain"
       },
@@ -1774,5 +1744,5 @@
   "new_photos_collected": 0,
   "staging_source_preserved": true,
   "original_legacy_learner_preserved": true,
-  "additional_existing_source_bytes": 1747236
+  "additional_existing_source_bytes": 1521287
 }
