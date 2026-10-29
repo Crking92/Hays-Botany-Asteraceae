@@ -52,7 +52,36 @@
     ],
     "differences": "A. amoena can also show open arrays. G. texana var. texana has very short/absent disc pappus scales and sometimes a green nerve border on phyllaries; Amphiachyris disc pappus is conspicuous and phyllaries lack the green nerve border. A. dracunculoides is usually more corymbiform. Perennial snakeweed species have woody bases."
   },
-  "verified_photos": [],
-  "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
+  "verified_photos": [
+    {
+      "src": "media/gutierrezia-texana/source-fc94db0c5235.jpg",
+      "creator": "Jim Conrad",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+      "role": "Uvalde County Texas snakeweed flowering branches and radiate heads at many levels; open annual architecture",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "fc94db0c52351d30ba36d76cb79191129da3b4a6",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Photographer/source-specific public-domain evidence; original archived source photo, not general license for third-party photos."
+    },
+    {
+      "src": "media/gutierrezia-texana/source-e89027624d20.jpg",
+      "creator": "Jim Conrad",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://backyardnature.net/n/h/gut-tex.htm",
+      "role": "Texas snakeweed close radiate composite head: strap-shaped yellow ray florets and central disc florets, exact Uvalde specimen",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "e89027624d20fe70e78e8f5781232e0e1585887e",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Photographer/source-specific public-domain evidence; original archived source photo, not general license for third-party photos."
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
