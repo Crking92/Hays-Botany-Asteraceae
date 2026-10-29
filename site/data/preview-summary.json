@@ -1,8 +1,8 @@
 {
   "status": "STRICT_PUBLIC_CC_RELEASE_CANDIDATE",
   "species": 180,
-  "species_with_cc_photos": 122,
-  "verified_photo_copies": 169,
+  "species_with_cc_photos": 124,
+  "verified_photo_copies": 172,
   "source_verified_distinct_archives": 289,
   "verified_orphan11_gallery_photos": 0,
   "recovered_zero_photo_species_commons": 3,
@@ -20,7 +20,7 @@
   "species_with_any_review_photos": 112,
   "noncommercial_only_previews": 0,
   "source_commit_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
-  "output_jpegs": 169,
+  "output_jpegs": 172,
   "public_pages_enabled": false,
   "strict_public_cc": true,
   "field_first_curated_gallery": true,
@@ -31,5 +31,5 @@
   },
   "archived_unverified_author_photos_hidden": 24,
   "previous_strict_release_photo_copies": 153,
-  "existing_original_source_photo_copies_added": 0
+  "existing_original_source_photo_copies_added": 3
 }

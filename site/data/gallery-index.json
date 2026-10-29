@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 122,
-  "photo_count": 169,
+  "photo_species": 124,
+  "photo_count": 172,
   "entries": {
     "achillea-millefolium": {
       "count": 2,
@@ -318,8 +318,8 @@
       "first_src": "media/grindelia-nuda/01.jpg"
     },
     "gutierrezia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/gutierrezia-texana/source-fc94db0c5235.jpg"
     },
     "gymnosperma-glutinosum": {
       "count": 0,
@@ -518,8 +518,8 @@
       "first_src": "media/rudbeckia-amplexicaulis/01.jpg"
     },
     "rudbeckia-hirta": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rudbeckia-hirta/source-944290b83195.jpg"
     },
     "rudbeckia-maxima": {
       "count": 1,

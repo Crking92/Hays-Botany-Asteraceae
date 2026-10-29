@@ -790,8 +790,8 @@
       "family": "Asteraceae",
       "genus": "Gutierrezia",
       "path": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 2
     },
     {
       "id": "gymnosperma-glutinosum",
@@ -1290,8 +1290,8 @@
       "family": "Asteraceae",
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "rudbeckia-maxima",
