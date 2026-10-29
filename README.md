@@ -1,3 +1,11 @@
+## Live family learner — strict CC photo release (October 29, 2026)
+
+The new public Asteraceae learner contains **180 searchable botanical lessons and 153 existing strictly CC-verified photographs across 112 species**. Every displayed photograph has an exact source page, photographer credit, license URL and source blob ID. The photographed source file has been resized/converted to an EXIF-free JPEG for site display. **Zero NC-only, unknown-rights or private-review photos were included in the public website media output.** The other species retain diagnostic identification text while further photograph licensing and anatomy review continues.
+
+[Open the Asteraceae family website](https://crking92.github.io/Hays-Botany-Asteraceae/site/) · [Photo-release scope](site/PHOTO_PUBLICATION_SCOPE.md) · [Exact photo count and rights-gate report](site/data/preview-summary.json).
+
+This verifies the website output, NOT that historical source photo files in a now-public repository are unrestricted to redistribute. Existing original and quarantined source files remain preserved; no history rewrite or deletion was performed. The original Hays Botany learner remains available as a fallback.
+
 # Hays Botany — Asteraceae
 
 **Status: private staging learner and source-photo accounting verified; public release and hub cutover NOT approved.** Original Hays County Botany learner remains canonical.
