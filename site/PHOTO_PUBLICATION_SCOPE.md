@@ -1,5 +1,3 @@
-# Hays Botany family text-only learner preview
+# Asteraceae photo release: strict Creative Commons subset
 
-This public learner currently contains **180 existing species teaching summaries** from the migrated family source cards. **No third-party image files or remote embedded photos** are included in the output. Historical source-photo records and credits are preserved unchanged on the staging branch for an individual rights review before gallery use.
-
-Source repository being public does not establish rights to distribute all original photographs. Photographs can be added to the WEBSITE only when individually verified for display, attribution, license and adaptation rights. The old public learner remains the fallback for existing verified photographs and full lessons.
+This photo-gallery release includes **153** original-source verified photographs with their individual authors, source links and CC terms. Source files are resized, EXIF-stripped and credited; there are no NC-only, site-specific, private-review-only, or unknown-rights photo files in the website output. The remaining original photos and complete legacy botanical records are preserved unchanged in the collection's staging source. Photo and arrow completeness are separate from website source license clearance.

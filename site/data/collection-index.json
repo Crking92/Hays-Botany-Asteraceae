@@ -1,1267 +1,1631 @@
 {
   "schema_version": 1,
   "collection_id": "asteraceae",
-  "site_release_stage": "PUBLIC_TEXT_ONLY_PREVIEW_PHOTOS_HELD",
+  "authority": "STAGING_ONLY",
   "entries": [
     {
       "id": "achillea-millefolium",
+      "scientific_name": "Achillea millefolium",
+      "common_name": "Common yarrow",
       "family": "Asteraceae",
       "genus": "Achillea",
-      "scientific_name": "Achillea millefolium",
-      "common_name": "Common yarrow"
+      "path": "content/taxa/Asteraceae/Achillea/achillea-millefolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "acmella-repens",
+      "scientific_name": "Acmella repens",
+      "common_name": "Oppositeleaf spotflower",
       "family": "Asteraceae",
       "genus": "Acmella",
-      "scientific_name": "Acmella repens",
-      "common_name": "Oppositeleaf spotflower"
+      "path": "content/taxa/Asteraceae/Acmella/acmella-repens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "acourtia-runcinata",
+      "scientific_name": "Acourtia runcinata",
+      "common_name": "Featherleaf desertpeony",
       "family": "Asteraceae",
       "genus": "Acourtia",
-      "scientific_name": "Acourtia runcinata",
-      "common_name": "Featherleaf desertpeony"
+      "path": "content/taxa/Asteraceae/Acourtia/acourtia-runcinata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "acourtia-wrightii",
+      "scientific_name": "Acourtia wrightii",
+      "common_name": "Brownfoot",
       "family": "Asteraceae",
       "genus": "Acourtia",
-      "scientific_name": "Acourtia wrightii",
-      "common_name": "Brownfoot"
+      "path": "content/taxa/Asteraceae/Acourtia/acourtia-wrightii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ageratina-altissima",
+      "scientific_name": "Ageratina altissima",
+      "common_name": "White snakeroot",
       "family": "Asteraceae",
       "genus": "Ageratina",
-      "scientific_name": "Ageratina altissima",
-      "common_name": "White snakeroot"
+      "path": "content/taxa/Asteraceae/Ageratina/ageratina-altissima/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ageratina-havanensis",
+      "scientific_name": "Ageratina havanensis",
+      "common_name": "Shrubby Boneset",
       "family": "Asteraceae",
       "genus": "Ageratina",
-      "scientific_name": "Ageratina havanensis",
-      "common_name": "Shrubby Boneset"
+      "path": "content/taxa/Asteraceae/Ageratina/ageratina-havanensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "amblyolepis-setigera",
+      "scientific_name": "Amblyolepis setigera",
+      "common_name": "Huisache daisy",
       "family": "Asteraceae",
       "genus": "Amblyolepis",
-      "scientific_name": "Amblyolepis setigera",
-      "common_name": "Huisache daisy"
+      "path": "content/taxa/Asteraceae/Amblyolepis/amblyolepis-setigera/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ambrosia-artemisiifolia",
+      "scientific_name": "Ambrosia artemisiifolia",
+      "common_name": "Common Ragweed",
       "family": "Asteraceae",
       "genus": "Ambrosia",
-      "scientific_name": "Ambrosia artemisiifolia",
-      "common_name": "Common Ragweed"
+      "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ambrosia-psilostachya",
+      "scientific_name": "Ambrosia psilostachya",
+      "common_name": "Western Ragweed",
       "family": "Asteraceae",
       "genus": "Ambrosia",
-      "scientific_name": "Ambrosia psilostachya",
-      "common_name": "Western Ragweed"
+      "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ambrosia-trifida",
+      "scientific_name": "Ambrosia trifida",
+      "common_name": "Giant Ragweed",
       "family": "Asteraceae",
       "genus": "Ambrosia",
-      "scientific_name": "Ambrosia trifida",
-      "common_name": "Giant Ragweed"
+      "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "amphiachyris-amoena",
+      "scientific_name": "Amphiachyris amoena",
+      "common_name": "Texas broomweed",
       "family": "Asteraceae",
       "genus": "Amphiachyris",
-      "scientific_name": "Amphiachyris amoena",
-      "common_name": "Texas broomweed"
+      "path": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-amoena/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "amphiachyris-dracunculoides",
+      "scientific_name": "Amphiachyris dracunculoides",
+      "common_name": "Prairie Broomweed",
       "family": "Asteraceae",
       "genus": "Amphiachyris",
-      "scientific_name": "Amphiachyris dracunculoides",
-      "common_name": "Prairie Broomweed"
+      "path": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-dracunculoides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "aphanostephus-riddellii",
+      "scientific_name": "Aphanostephus riddellii",
+      "common_name": "Riddell's dozedaisy",
       "family": "Asteraceae",
       "genus": "Aphanostephus",
-      "scientific_name": "Aphanostephus riddellii",
-      "common_name": "Riddell's dozedaisy"
+      "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-riddellii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "aphanostephus-skirrhobasis",
+      "scientific_name": "Aphanostephus skirrhobasis",
+      "common_name": "Arkansas lazydaisy",
       "family": "Asteraceae",
       "genus": "Aphanostephus",
-      "scientific_name": "Aphanostephus skirrhobasis",
-      "common_name": "Arkansas lazydaisy"
+      "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "arnoglossum-plantagineum",
+      "scientific_name": "Arnoglossum plantagineum",
+      "common_name": "Plantainleaf Indian plantain",
       "family": "Asteraceae",
       "genus": "Arnoglossum",
-      "scientific_name": "Arnoglossum plantagineum",
-      "common_name": "Plantainleaf Indian plantain"
+      "path": "content/taxa/Asteraceae/Arnoglossum/arnoglossum-plantagineum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "artemisia-ludoviciana",
+      "scientific_name": "Artemisia ludoviciana",
+      "common_name": "Silver wormwood",
       "family": "Asteraceae",
       "genus": "Artemisia",
-      "scientific_name": "Artemisia ludoviciana",
-      "common_name": "Silver wormwood"
+      "path": "content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "artemisia-tridentata",
+      "scientific_name": "Artemisia tridentata",
+      "common_name": "Big sagebrush",
       "family": "Asteraceae",
       "genus": "Artemisia",
-      "scientific_name": "Artemisia tridentata",
-      "common_name": "Big sagebrush"
+      "path": "content/taxa/Asteraceae/Artemisia/artemisia-tridentata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "baccharis-neglecta",
+      "scientific_name": "Baccharis neglecta",
+      "common_name": "False Willow",
       "family": "Asteraceae",
       "genus": "Baccharis",
-      "scientific_name": "Baccharis neglecta",
-      "common_name": "False Willow"
+      "path": "content/taxa/Asteraceae/Baccharis/baccharis-neglecta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "baccharis-salicifolia",
+      "scientific_name": "Baccharis salicifolia",
+      "common_name": "Seep Willow",
       "family": "Asteraceae",
       "genus": "Baccharis",
-      "scientific_name": "Baccharis salicifolia",
-      "common_name": "Seep Willow"
+      "path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "berlandiera-betonicifolia",
+      "scientific_name": "Berlandiera betonicifolia",
+      "common_name": "Betonyleaf greeneyes",
       "family": "Asteraceae",
       "genus": "Berlandiera",
-      "scientific_name": "Berlandiera betonicifolia",
-      "common_name": "Betonyleaf greeneyes"
+      "path": "content/taxa/Asteraceae/Berlandiera/berlandiera-betonicifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "berlandiera-lyrata",
+      "scientific_name": "Berlandiera lyrata",
+      "common_name": "Chocolate daisy / lyreleaf greeneyes",
       "family": "Asteraceae",
       "genus": "Berlandiera",
-      "scientific_name": "Berlandiera lyrata",
-      "common_name": "Chocolate daisy / lyreleaf greeneyes"
+      "path": "content/taxa/Asteraceae/Berlandiera/berlandiera-lyrata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "bidens-frondosa",
+      "scientific_name": "Bidens frondosa",
+      "common_name": "Devil's beggarticks",
       "family": "Asteraceae",
       "genus": "Bidens",
-      "scientific_name": "Bidens frondosa",
-      "common_name": "Devil's beggarticks"
+      "path": "content/taxa/Asteraceae/Bidens/bidens-frondosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "bidens-laevis",
+      "scientific_name": "Bidens laevis",
+      "common_name": "Smooth beggarticks / bur-marigold",
       "family": "Asteraceae",
       "genus": "Bidens",
-      "scientific_name": "Bidens laevis",
-      "common_name": "Smooth beggarticks / bur-marigold"
+      "path": "content/taxa/Asteraceae/Bidens/bidens-laevis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "boltonia-diffusa",
+      "scientific_name": "Boltonia diffusa",
+      "common_name": "Diffuse boltonia",
       "family": "Asteraceae",
       "genus": "Boltonia",
-      "scientific_name": "Boltonia diffusa",
-      "common_name": "Diffuse boltonia"
+      "path": "content/taxa/Asteraceae/Boltonia/boltonia-diffusa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "bradburia-hirtella",
+      "scientific_name": "Bradburia hirtella",
+      "common_name": "Bradburia hirtella",
       "family": "Asteraceae",
       "genus": "Bradburia",
-      "scientific_name": "Bradburia hirtella",
-      "common_name": "Bradburia hirtella"
+      "path": "content/taxa/Asteraceae/Bradburia/bradburia-hirtella/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "brickellia-cylindracea",
+      "scientific_name": "Brickellia cylindracea",
+      "common_name": "Gravelbar brickellbush",
       "family": "Asteraceae",
       "genus": "Brickellia",
-      "scientific_name": "Brickellia cylindracea",
-      "common_name": "Gravelbar brickellbush"
+      "path": "content/taxa/Asteraceae/Brickellia/brickellia-cylindracea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "brickellia-dentata",
+      "scientific_name": "Brickellia dentata",
+      "common_name": "Gravelbar / leafy brickellbush",
       "family": "Asteraceae",
       "genus": "Brickellia",
-      "scientific_name": "Brickellia dentata",
-      "common_name": "Gravelbar / leafy brickellbush"
+      "path": "content/taxa/Asteraceae/Brickellia/brickellia-dentata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "brickellia-eupatorioides",
+      "scientific_name": "Brickellia eupatorioides",
+      "common_name": "False boneset",
       "family": "Asteraceae",
       "genus": "Brickellia",
-      "scientific_name": "Brickellia eupatorioides",
-      "common_name": "False boneset"
+      "path": "content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "calyptocarpus-vialis",
+      "scientific_name": "Calyptocarpus vialis",
+      "common_name": "Straggler daisy",
       "family": "Asteraceae",
       "genus": "Calyptocarpus",
-      "scientific_name": "Calyptocarpus vialis",
-      "common_name": "Straggler daisy"
+      "path": "content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "carphochaete-bigelovii",
+      "scientific_name": "Carphochaete bigelovii",
+      "common_name": "Bigelow's carphochaete",
       "family": "Asteraceae",
       "genus": "Carphochaete",
-      "scientific_name": "Carphochaete bigelovii",
-      "common_name": "Bigelow's carphochaete"
+      "path": "content/taxa/Asteraceae/Carphochaete/carphochaete-bigelovii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "carthamus-tinctorius",
+      "scientific_name": "Carthamus tinctorius",
+      "common_name": "Safflower",
       "family": "Asteraceae",
       "genus": "Carthamus",
-      "scientific_name": "Carthamus tinctorius",
-      "common_name": "Safflower"
+      "path": "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "centaurea-cyanus",
+      "scientific_name": "Centaurea cyanus",
+      "common_name": "Cornflower / bachelor's button",
       "family": "Asteraceae",
       "genus": "Centaurea",
-      "scientific_name": "Centaurea cyanus",
-      "common_name": "Cornflower / bachelor's button"
+      "path": "content/taxa/Asteraceae/Centaurea/centaurea-cyanus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "centaurea-melitensis",
+      "scientific_name": "Centaurea melitensis",
+      "common_name": "Malta starthistle",
       "family": "Asteraceae",
       "genus": "Centaurea",
-      "scientific_name": "Centaurea melitensis",
-      "common_name": "Malta starthistle"
+      "path": "content/taxa/Asteraceae/Centaurea/centaurea-melitensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chaetopappa-bellidifolia",
+      "scientific_name": "Chaetopappa bellidifolia",
+      "common_name": "Whiteray leastdaisy",
       "family": "Asteraceae",
       "genus": "Chaetopappa",
-      "scientific_name": "Chaetopappa bellidifolia",
-      "common_name": "Whiteray leastdaisy"
+      "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-bellidifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chaetopappa-effusa",
+      "scientific_name": "Chaetopappa effusa",
+      "common_name": "Spreading lazy daisy",
       "family": "Asteraceae",
       "genus": "Chaetopappa",
-      "scientific_name": "Chaetopappa effusa",
-      "common_name": "Spreading lazy daisy"
+      "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chaetopappa-ericoides",
+      "scientific_name": "Chaetopappa ericoides",
+      "common_name": "Rose heath / heath leastdaisy",
       "family": "Asteraceae",
       "genus": "Chaetopappa",
-      "scientific_name": "Chaetopappa ericoides",
-      "common_name": "Rose heath / heath leastdaisy"
+      "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-ericoides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chaptalia-texana",
+      "scientific_name": "Chaptalia texana",
+      "common_name": "Texas silverpuff",
       "family": "Asteraceae",
       "genus": "Chaptalia",
-      "scientific_name": "Chaptalia texana",
-      "common_name": "Texas silverpuff"
+      "path": "content/taxa/Asteraceae/Chaptalia/chaptalia-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chloracantha-spinosa",
+      "scientific_name": "Chloracantha spinosa",
+      "common_name": "Spiny chloracantha",
       "family": "Asteraceae",
       "genus": "Chloracantha",
-      "scientific_name": "Chloracantha spinosa",
-      "common_name": "Spiny chloracantha"
+      "path": "content/taxa/Asteraceae/Chloracantha/chloracantha-spinosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chondrilla-juncea",
+      "scientific_name": "Chondrilla juncea",
+      "common_name": "Rush skeletonweed",
       "family": "Asteraceae",
       "genus": "Chondrilla",
-      "scientific_name": "Chondrilla juncea",
-      "common_name": "Rush skeletonweed"
+      "path": "content/taxa/Asteraceae/Chondrilla/chondrilla-juncea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chromolaena-odorata",
+      "scientific_name": "Chromolaena odorata",
+      "common_name": "Fragrant mistflower",
       "family": "Asteraceae",
       "genus": "Chromolaena",
-      "scientific_name": "Chromolaena odorata",
-      "common_name": "Fragrant mistflower"
+      "path": "content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "chrysactinia-mexicana",
+      "scientific_name": "Chrysactinia mexicana",
+      "common_name": "Damianita",
       "family": "Asteraceae",
       "genus": "Chrysactinia",
-      "scientific_name": "Chrysactinia mexicana",
-      "common_name": "Damianita"
+      "path": "content/taxa/Asteraceae/Chrysactinia/chrysactinia-mexicana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "cirsium-horridulum",
+      "scientific_name": "Cirsium horridulum",
+      "common_name": "Horrid thistle / yellow thistle",
       "family": "Asteraceae",
       "genus": "Cirsium",
-      "scientific_name": "Cirsium horridulum",
-      "common_name": "Horrid thistle / yellow thistle"
+      "path": "content/taxa/Asteraceae/Cirsium/cirsium-horridulum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "cirsium-ochrocentrum",
+      "scientific_name": "Cirsium ochrocentrum",
+      "common_name": "Yellowspine thistle",
       "family": "Asteraceae",
       "genus": "Cirsium",
-      "scientific_name": "Cirsium ochrocentrum",
-      "common_name": "Yellowspine thistle"
+      "path": "content/taxa/Asteraceae/Cirsium/cirsium-ochrocentrum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "cirsium-texanum",
+      "scientific_name": "Cirsium texanum",
+      "common_name": "Texas Thistle",
       "family": "Asteraceae",
       "genus": "Cirsium",
-      "scientific_name": "Cirsium texanum",
-      "common_name": "Texas Thistle"
+      "path": "content/taxa/Asteraceae/Cirsium/cirsium-texanum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "cirsium-undulatum",
+      "scientific_name": "Cirsium undulatum",
+      "common_name": "Wavyleaf Thistle",
       "family": "Asteraceae",
       "genus": "Cirsium",
-      "scientific_name": "Cirsium undulatum",
-      "common_name": "Wavyleaf Thistle"
+      "path": "content/taxa/Asteraceae/Cirsium/cirsium-undulatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "cirsium-vulgare",
+      "scientific_name": "Cirsium vulgare",
+      "common_name": "Bull thistle",
       "family": "Asteraceae",
       "genus": "Cirsium",
-      "scientific_name": "Cirsium vulgare",
-      "common_name": "Bull thistle"
+      "path": "content/taxa/Asteraceae/Cirsium/cirsium-vulgare/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "conoclinium-coelestinum",
+      "scientific_name": "Conoclinium coelestinum",
+      "common_name": "Blue mistflower",
       "family": "Asteraceae",
       "genus": "Conoclinium",
-      "scientific_name": "Conoclinium coelestinum",
-      "common_name": "Blue mistflower"
+      "path": "content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "conoclinium-dissectum",
+      "scientific_name": "Conoclinium dissectum",
+      "common_name": "Gregg's Mistflower",
       "family": "Asteraceae",
       "genus": "Conoclinium",
-      "scientific_name": "Conoclinium dissectum",
-      "common_name": "Gregg's Mistflower"
+      "path": "content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "coreopsis-basalis",
+      "scientific_name": "Coreopsis basalis",
+      "common_name": "Goldenmane Tickseed",
       "family": "Asteraceae",
       "genus": "Coreopsis",
-      "scientific_name": "Coreopsis basalis",
-      "common_name": "Goldenmane Tickseed"
+      "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "coreopsis-lanceolata",
+      "scientific_name": "Coreopsis lanceolata",
+      "common_name": "Lance-leaved coreopsis",
       "family": "Asteraceae",
       "genus": "Coreopsis",
-      "scientific_name": "Coreopsis lanceolata",
-      "common_name": "Lance-leaved coreopsis"
+      "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-lanceolata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "coreopsis-tinctoria",
+      "scientific_name": "Coreopsis tinctoria",
+      "common_name": "Plains Coreopsis",
       "family": "Asteraceae",
       "genus": "Coreopsis",
-      "scientific_name": "Coreopsis tinctoria",
-      "common_name": "Plains Coreopsis"
+      "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "coreopsis-wrightii",
+      "scientific_name": "Coreopsis wrightii",
+      "common_name": "Rock Tickseed / Wright's Coreopsis",
       "family": "Asteraceae",
       "genus": "Coreopsis",
-      "scientific_name": "Coreopsis wrightii",
-      "common_name": "Rock Tickseed / Wright's Coreopsis"
+      "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-wrightii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "diaperia-candida",
+      "scientific_name": "Diaperia candida",
+      "common_name": "Silver dwarf cudweed",
       "family": "Asteraceae",
       "genus": "Diaperia",
-      "scientific_name": "Diaperia candida",
-      "common_name": "Silver dwarf cudweed"
+      "path": "content/taxa/Asteraceae/Diaperia/diaperia-candida/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "diaperia-prolifera",
+      "scientific_name": "Diaperia prolifera",
+      "common_name": "flathead rabbit tobacco",
       "family": "Asteraceae",
       "genus": "Diaperia",
-      "scientific_name": "Diaperia prolifera",
-      "common_name": "flathead rabbit tobacco"
+      "path": "content/taxa/Asteraceae/Diaperia/diaperia-prolifera/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "diaperia-verna",
+      "scientific_name": "Diaperia verna",
+      "common_name": "many stem evax",
       "family": "Asteraceae",
       "genus": "Diaperia",
-      "scientific_name": "Diaperia verna",
-      "common_name": "many stem evax"
+      "path": "content/taxa/Asteraceae/Diaperia/diaperia-verna/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "dysodiopsis-tagetoides",
+      "scientific_name": "Dysodiopsis tagetoides",
+      "common_name": "False dogfennel",
       "family": "Asteraceae",
       "genus": "Dysodiopsis",
-      "scientific_name": "Dysodiopsis tagetoides",
-      "common_name": "False dogfennel"
+      "path": "content/taxa/Asteraceae/Dysodiopsis/dysodiopsis-tagetoides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "echinacea-angustifolia",
+      "scientific_name": "Echinacea angustifolia",
+      "common_name": "Narrow-leaf coneflower",
       "family": "Asteraceae",
       "genus": "Echinacea",
-      "scientific_name": "Echinacea angustifolia",
-      "common_name": "Narrow-leaf coneflower"
+      "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "eclipta-prostrata",
+      "scientific_name": "Eclipta prostrata",
+      "common_name": "False daisy",
       "family": "Asteraceae",
       "genus": "Eclipta",
-      "scientific_name": "Eclipta prostrata",
-      "common_name": "False daisy"
+      "path": "content/taxa/Asteraceae/Eclipta/eclipta-prostrata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "elephantopus-carolinianus",
+      "scientific_name": "Elephantopus carolinianus",
+      "common_name": "leafy elephant's-foot",
       "family": "Asteraceae",
       "genus": "Elephantopus",
-      "scientific_name": "Elephantopus carolinianus",
-      "common_name": "leafy elephant's-foot"
+      "path": "content/taxa/Asteraceae/Elephantopus/elephantopus-carolinianus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "engelmannia-peristenia",
+      "scientific_name": "Engelmannia peristenia",
+      "common_name": "Engelmann’s Daisy",
       "family": "Asteraceae",
       "genus": "Engelmannia",
-      "scientific_name": "Engelmannia peristenia",
-      "common_name": "Engelmann’s Daisy"
+      "path": "content/taxa/Asteraceae/Engelmannia/engelmannia-peristenia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ericameria-nauseosa",
+      "scientific_name": "Ericameria nauseosa",
+      "common_name": "Rubber rabbitbrush",
       "family": "Asteraceae",
       "genus": "Ericameria",
-      "scientific_name": "Ericameria nauseosa",
-      "common_name": "Rubber rabbitbrush"
+      "path": "content/taxa/Asteraceae/Ericameria/ericameria-nauseosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "erigeron-canadensis",
+      "scientific_name": "Erigeron canadensis",
+      "common_name": "Horseweed",
       "family": "Asteraceae",
       "genus": "Erigeron",
-      "scientific_name": "Erigeron canadensis",
-      "common_name": "Horseweed"
+      "path": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "erigeron-geiseri",
+      "scientific_name": "Erigeron geiseri",
+      "common_name": "Geiser's fleabane",
       "family": "Asteraceae",
       "genus": "Erigeron",
-      "scientific_name": "Erigeron geiseri",
-      "common_name": "Geiser's fleabane"
+      "path": "content/taxa/Asteraceae/Erigeron/erigeron-geiseri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "erigeron-modestus",
+      "scientific_name": "Erigeron modestus",
+      "common_name": "Plains fleabane",
       "family": "Asteraceae",
       "genus": "Erigeron",
-      "scientific_name": "Erigeron modestus",
-      "common_name": "Plains fleabane"
+      "path": "content/taxa/Asteraceae/Erigeron/erigeron-modestus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "erigeron-philadelphicus",
+      "scientific_name": "Erigeron philadelphicus",
+      "common_name": "Philadelphia fleabane",
       "family": "Asteraceae",
       "genus": "Erigeron",
-      "scientific_name": "Erigeron philadelphicus",
-      "common_name": "Philadelphia fleabane"
+      "path": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "erigeron-strigosus",
+      "scientific_name": "Erigeron strigosus",
+      "common_name": "Prairie fleabane",
       "family": "Asteraceae",
       "genus": "Erigeron",
-      "scientific_name": "Erigeron strigosus",
-      "common_name": "Prairie fleabane"
+      "path": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "eriophyllum-lanatum",
+      "scientific_name": "Eriophyllum lanatum",
+      "common_name": "Oregon sunshine",
       "family": "Asteraceae",
       "genus": "Eriophyllum",
-      "scientific_name": "Eriophyllum lanatum",
-      "common_name": "Oregon sunshine"
+      "path": "content/taxa/Asteraceae/Eriophyllum/eriophyllum-lanatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "eupatorium-serotinum",
+      "scientific_name": "Eupatorium serotinum",
+      "common_name": "Late Boneset",
       "family": "Asteraceae",
       "genus": "Eupatorium",
-      "scientific_name": "Eupatorium serotinum",
-      "common_name": "Late Boneset"
+      "path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "fleischmannia-incarnata",
+      "scientific_name": "Fleischmannia incarnata",
+      "common_name": "Pink thoroughwort",
       "family": "Asteraceae",
       "genus": "Fleischmannia",
-      "scientific_name": "Fleischmannia incarnata",
-      "common_name": "Pink thoroughwort"
+      "path": "content/taxa/Asteraceae/Fleischmannia/fleischmannia-incarnata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gaillardia-aestivalis",
+      "scientific_name": "Gaillardia aestivalis",
+      "common_name": "Lanceleaf blanketflower",
       "family": "Asteraceae",
       "genus": "Gaillardia",
-      "scientific_name": "Gaillardia aestivalis",
-      "common_name": "Lanceleaf blanketflower"
+      "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-aestivalis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gaillardia-amblyodon",
+      "scientific_name": "Gaillardia amblyodon",
+      "common_name": "Maroon Blanketflower / Narrow Blanketflower",
       "family": "Asteraceae",
       "genus": "Gaillardia",
-      "scientific_name": "Gaillardia amblyodon",
-      "common_name": "Maroon Blanketflower / Narrow Blanketflower"
+      "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-amblyodon/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gaillardia-pulchella",
+      "scientific_name": "Gaillardia pulchella",
+      "common_name": "Indian Blanket",
       "family": "Asteraceae",
       "genus": "Gaillardia",
-      "scientific_name": "Gaillardia pulchella",
-      "common_name": "Indian Blanket"
+      "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gaillardia-suavis",
+      "scientific_name": "Gaillardia suavis",
+      "common_name": "Fragrant Gaillardia / Pincushion Daisy / Perfumeballs",
       "family": "Asteraceae",
       "genus": "Gaillardia",
-      "scientific_name": "Gaillardia suavis",
-      "common_name": "Fragrant Gaillardia / Pincushion Daisy / Perfumeballs"
+      "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gamochaeta-purpurea",
+      "scientific_name": "Gamochaeta purpurea",
+      "common_name": "Purple cudweed",
       "family": "Asteraceae",
       "genus": "Gamochaeta",
-      "scientific_name": "Gamochaeta purpurea",
-      "common_name": "Purple cudweed"
+      "path": "content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "grindelia-adenodonta",
+      "scientific_name": "Grindelia adenodonta",
+      "common_name": "Lonestar gumweed",
       "family": "Asteraceae",
       "genus": "Grindelia",
-      "scientific_name": "Grindelia adenodonta",
-      "common_name": "Lonestar gumweed"
+      "path": "content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "grindelia-ciliata",
+      "scientific_name": "Grindelia ciliata",
+      "common_name": "Spanish gold / waxed goldenweed",
       "family": "Asteraceae",
       "genus": "Grindelia",
-      "scientific_name": "Grindelia ciliata",
-      "common_name": "Spanish gold / waxed goldenweed"
+      "path": "content/taxa/Asteraceae/Grindelia/grindelia-ciliata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "grindelia-lanceolata",
+      "scientific_name": "Grindelia lanceolata",
+      "common_name": "Narrowleaf Gumweed",
       "family": "Asteraceae",
       "genus": "Grindelia",
-      "scientific_name": "Grindelia lanceolata",
-      "common_name": "Narrowleaf Gumweed"
+      "path": "content/taxa/Asteraceae/Grindelia/grindelia-lanceolata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "grindelia-nuda",
+      "scientific_name": "Grindelia nuda",
+      "common_name": "Curlytop Gumweed / Rayless Gumweed",
       "family": "Asteraceae",
       "genus": "Grindelia",
-      "scientific_name": "Grindelia nuda",
-      "common_name": "Curlytop Gumweed / Rayless Gumweed"
+      "path": "content/taxa/Asteraceae/Grindelia/grindelia-nuda/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gutierrezia-texana",
+      "scientific_name": "Gutierrezia texana",
+      "common_name": "Texas snakeweed / Texas broomweed",
       "family": "Asteraceae",
       "genus": "Gutierrezia",
-      "scientific_name": "Gutierrezia texana",
-      "common_name": "Texas snakeweed / Texas broomweed"
+      "path": "content/taxa/Asteraceae/Gutierrezia/gutierrezia-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "gymnosperma-glutinosum",
+      "scientific_name": "Gymnosperma glutinosum",
+      "common_name": "Tatalencho",
       "family": "Asteraceae",
       "genus": "Gymnosperma",
-      "scientific_name": "Gymnosperma glutinosum",
-      "common_name": "Tatalencho"
+      "path": "content/taxa/Asteraceae/Gymnosperma/gymnosperma-glutinosum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helenium-amarum",
+      "scientific_name": "Helenium amarum",
+      "common_name": "Bitter Sneezeweed",
       "family": "Asteraceae",
       "genus": "Helenium",
-      "scientific_name": "Helenium amarum",
-      "common_name": "Bitter Sneezeweed"
+      "path": "content/taxa/Asteraceae/Helenium/helenium-amarum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helenium-autumnale",
+      "scientific_name": "Helenium autumnale",
+      "common_name": "Common Sneezeweed",
       "family": "Asteraceae",
       "genus": "Helenium",
-      "scientific_name": "Helenium autumnale",
-      "common_name": "Common Sneezeweed"
+      "path": "content/taxa/Asteraceae/Helenium/helenium-autumnale/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helenium-elegans",
+      "scientific_name": "Helenium elegans",
+      "common_name": "Pretty Sneezeweed",
       "family": "Asteraceae",
       "genus": "Helenium",
-      "scientific_name": "Helenium elegans",
-      "common_name": "Pretty Sneezeweed"
+      "path": "content/taxa/Asteraceae/Helenium/helenium-elegans/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helenium-quadridentatum",
+      "scientific_name": "Helenium quadridentatum",
+      "common_name": "Longdisk sneezeweed",
       "family": "Asteraceae",
       "genus": "Helenium",
-      "scientific_name": "Helenium quadridentatum",
-      "common_name": "Longdisk sneezeweed"
+      "path": "content/taxa/Asteraceae/Helenium/helenium-quadridentatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helianthus-annuus",
+      "scientific_name": "Helianthus annuus",
+      "common_name": "Annual Sunflower",
       "family": "Asteraceae",
       "genus": "Helianthus",
-      "scientific_name": "Helianthus annuus",
-      "common_name": "Annual Sunflower"
+      "path": "content/taxa/Asteraceae/Helianthus/helianthus-annuus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "helianthus-maximiliani",
+      "scientific_name": "Helianthus maximiliani",
+      "common_name": "Maximilian Sunflower",
       "family": "Asteraceae",
       "genus": "Helianthus",
-      "scientific_name": "Helianthus maximiliani",
-      "common_name": "Maximilian Sunflower"
+      "path": "content/taxa/Asteraceae/Helianthus/helianthus-maximiliani/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "heterotheca-canescens",
+      "scientific_name": "Heterotheca canescens",
+      "common_name": "Hoary goldenaster",
       "family": "Asteraceae",
       "genus": "Heterotheca",
-      "scientific_name": "Heterotheca canescens",
-      "common_name": "Hoary goldenaster"
+      "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-canescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "heterotheca-stenophylla",
+      "scientific_name": "Heterotheca stenophylla",
+      "common_name": "Narrowleaf goldenaster",
       "family": "Asteraceae",
       "genus": "Heterotheca",
-      "scientific_name": "Heterotheca stenophylla",
-      "common_name": "Narrowleaf goldenaster"
+      "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-stenophylla/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "heterotheca-subaxillaris",
+      "scientific_name": "Heterotheca subaxillaris",
+      "common_name": "Camphorweed",
       "family": "Asteraceae",
       "genus": "Heterotheca",
-      "scientific_name": "Heterotheca subaxillaris",
-      "common_name": "Camphorweed"
+      "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "heterotheca-villosa",
+      "scientific_name": "Heterotheca villosa",
+      "common_name": "Hairy goldenaster",
       "family": "Asteraceae",
       "genus": "Heterotheca",
-      "scientific_name": "Heterotheca villosa",
-      "common_name": "Hairy goldenaster"
+      "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-villosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "hymenopappus-artemisiifolius",
+      "scientific_name": "Hymenopappus artemisiifolius",
+      "common_name": "Hymenopappus artemisiifolius",
       "family": "Asteraceae",
       "genus": "Hymenopappus",
-      "scientific_name": "Hymenopappus artemisiifolius",
-      "common_name": "Hymenopappus artemisiifolius"
+      "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-artemisiifolius/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "hymenopappus-scabiosaeus",
+      "scientific_name": "Hymenopappus scabiosaeus",
+      "common_name": "Carolina woollywhite",
       "family": "Asteraceae",
       "genus": "Hymenopappus",
-      "scientific_name": "Hymenopappus scabiosaeus",
-      "common_name": "Carolina woollywhite"
+      "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "hymenopappus-scabiosaeus-var-corymbosus",
+      "scientific_name": "Hymenopappus scabiosaeus var. corymbosus",
+      "common_name": "Old plainsman (corymbose variety)",
       "family": "Asteraceae",
       "genus": "Hymenopappus",
-      "scientific_name": "Hymenopappus scabiosaeus var. corymbosus",
-      "common_name": "Old plainsman (corymbose variety)"
+      "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "hymenopappus-tenuifolius",
+      "scientific_name": "Hymenopappus tenuifolius",
+      "common_name": "Chalk Hill Hymenopappus",
       "family": "Asteraceae",
       "genus": "Hymenopappus",
-      "scientific_name": "Hymenopappus tenuifolius",
-      "common_name": "Chalk Hill Hymenopappus"
+      "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-tenuifolius/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "iva-annua",
+      "scientific_name": "Iva annua",
+      "common_name": "Annual sumpweed",
       "family": "Asteraceae",
       "genus": "Iva",
-      "scientific_name": "Iva annua",
-      "common_name": "Annual sumpweed"
+      "path": "content/taxa/Asteraceae/Iva/iva-annua/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "iva-asperifolia-var-angustifolia",
+      "scientific_name": "Iva asperifolia var. angustifolia",
+      "common_name": "Narrowleaf sumpweed",
       "family": "Asteraceae",
       "genus": "Iva",
-      "scientific_name": "Iva asperifolia var. angustifolia",
-      "common_name": "Narrowleaf sumpweed"
+      "path": "content/taxa/Asteraceae/Iva/iva-asperifolia-var-angustifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "krigia-cespitosa",
+      "scientific_name": "Krigia cespitosa",
+      "common_name": "Common dwarf dandelion",
       "family": "Asteraceae",
       "genus": "Krigia",
-      "scientific_name": "Krigia cespitosa",
-      "common_name": "Common dwarf dandelion"
+      "path": "content/taxa/Asteraceae/Krigia/krigia-cespitosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "krigia-occidentalis",
+      "scientific_name": "Krigia occidentalis",
+      "common_name": "Western dwarf dandelion",
       "family": "Asteraceae",
       "genus": "Krigia",
-      "scientific_name": "Krigia occidentalis",
-      "common_name": "Western dwarf dandelion"
+      "path": "content/taxa/Asteraceae/Krigia/krigia-occidentalis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "lactuca-ludoviciana",
+      "scientific_name": "Lactuca ludoviciana",
+      "common_name": "Western wild lettuce",
       "family": "Asteraceae",
       "genus": "Lactuca",
-      "scientific_name": "Lactuca ludoviciana",
-      "common_name": "Western wild lettuce"
+      "path": "content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "lactuca-serriola",
+      "scientific_name": "Lactuca serriola",
+      "common_name": "Prickly lettuce",
       "family": "Asteraceae",
       "genus": "Lactuca",
-      "scientific_name": "Lactuca serriola",
-      "common_name": "Prickly lettuce"
+      "path": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "laphamia-lindheimeri",
+      "scientific_name": "Laphamia lindheimeri",
+      "common_name": "Lindheimer's laphamia",
       "family": "Asteraceae",
       "genus": "Laphamia",
-      "scientific_name": "Laphamia lindheimeri",
-      "common_name": "Lindheimer's laphamia"
+      "path": "content/taxa/Asteraceae/Laphamia/laphamia-lindheimeri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "leontodon-rhagadioloides",
+      "scientific_name": "Leontodon rhagadioloides",
+      "common_name": "Crete weed",
       "family": "Asteraceae",
       "genus": "Leontodon",
-      "scientific_name": "Leontodon rhagadioloides",
-      "common_name": "Crete weed"
+      "path": "content/taxa/Asteraceae/Leontodon/leontodon-rhagadioloides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "liatris-punctata",
+      "scientific_name": "Liatris punctata",
+      "common_name": "Dotted Gayfeather / Blazing Star",
       "family": "Asteraceae",
       "genus": "Liatris",
-      "scientific_name": "Liatris punctata",
-      "common_name": "Dotted Gayfeather / Blazing Star"
+      "path": "content/taxa/Asteraceae/Liatris/liatris-punctata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "lindheimera-texana",
+      "scientific_name": "Lindheimera texana",
+      "common_name": "Texas yellowstar",
       "family": "Asteraceae",
       "genus": "Lindheimera",
-      "scientific_name": "Lindheimera texana",
-      "common_name": "Texas yellowstar"
+      "path": "content/taxa/Asteraceae/Lindheimera/lindheimera-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "lygodesmia-texana",
+      "scientific_name": "Lygodesmia texana",
+      "common_name": "Texas skeletonplant",
       "family": "Asteraceae",
       "genus": "Lygodesmia",
-      "scientific_name": "Lygodesmia texana",
-      "common_name": "Texas skeletonplant"
+      "path": "content/taxa/Asteraceae/Lygodesmia/lygodesmia-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "marshallia-caespitosa",
+      "scientific_name": "Marshallia caespitosa",
+      "common_name": "Barbara's buttons",
       "family": "Asteraceae",
       "genus": "Marshallia",
-      "scientific_name": "Marshallia caespitosa",
-      "common_name": "Barbara's buttons"
+      "path": "content/taxa/Asteraceae/Marshallia/marshallia-caespitosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "melampodium-leucanthum",
+      "scientific_name": "Melampodium leucanthum",
+      "common_name": "Blackfoot daisy",
       "family": "Asteraceae",
       "genus": "Melampodium",
-      "scientific_name": "Melampodium leucanthum",
-      "common_name": "Blackfoot daisy"
+      "path": "content/taxa/Asteraceae/Melampodium/melampodium-leucanthum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "mikania-scandens",
+      "scientific_name": "Mikania scandens",
+      "common_name": "Climbing hempvine",
       "family": "Asteraceae",
       "genus": "Mikania",
-      "scientific_name": "Mikania scandens",
-      "common_name": "Climbing hempvine"
+      "path": "content/taxa/Asteraceae/Mikania/mikania-scandens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "packera-glabella",
+      "scientific_name": "Packera glabella",
+      "common_name": "Butterweed",
       "family": "Asteraceae",
       "genus": "Packera",
-      "scientific_name": "Packera glabella",
-      "common_name": "Butterweed"
+      "path": "content/taxa/Asteraceae/Packera/packera-glabella/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "packera-obovata",
+      "scientific_name": "Packera obovata",
+      "common_name": "Roundleaf ragwort",
       "family": "Asteraceae",
       "genus": "Packera",
-      "scientific_name": "Packera obovata",
-      "common_name": "Roundleaf ragwort"
+      "path": "content/taxa/Asteraceae/Packera/packera-obovata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "packera-tampicana",
+      "scientific_name": "Packera tampicana",
+      "common_name": "Packera tampicana",
       "family": "Asteraceae",
       "genus": "Packera",
-      "scientific_name": "Packera tampicana",
-      "common_name": "Packera tampicana"
+      "path": "content/taxa/Asteraceae/Packera/packera-tampicana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "palafoxia-callosa",
+      "scientific_name": "Palafoxia callosa",
+      "common_name": "Small palafoxia",
       "family": "Asteraceae",
       "genus": "Palafoxia",
-      "scientific_name": "Palafoxia callosa",
-      "common_name": "Small palafoxia"
+      "path": "content/taxa/Asteraceae/Palafoxia/palafoxia-callosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "parthenium-confertum",
+      "scientific_name": "Parthenium confertum",
+      "common_name": "Parthenium confertum",
       "family": "Asteraceae",
       "genus": "Parthenium",
-      "scientific_name": "Parthenium confertum",
-      "common_name": "Parthenium confertum"
+      "path": "content/taxa/Asteraceae/Parthenium/parthenium-confertum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "parthenium-hysterophorus",
+      "scientific_name": "Parthenium hysterophorus",
+      "common_name": "Santa Maria feverfew (introduced/invasive weed)",
       "family": "Asteraceae",
       "genus": "Parthenium",
-      "scientific_name": "Parthenium hysterophorus",
-      "common_name": "Santa Maria feverfew (introduced/invasive weed)"
+      "path": "content/taxa/Asteraceae/Parthenium/parthenium-hysterophorus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pectis-angustifolia",
+      "scientific_name": "Pectis angustifolia",
+      "common_name": "Lemonscent",
       "family": "Asteraceae",
       "genus": "Pectis",
-      "scientific_name": "Pectis angustifolia",
-      "common_name": "Lemonscent"
+      "path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pectis-angustifolia-var-fastigiata",
+      "scientific_name": "Pectis angustifolia var. fastigiata",
+      "common_name": "Narrowleaf chinchweed, fastigiata variety",
       "family": "Asteraceae",
       "genus": "Pectis",
-      "scientific_name": "Pectis angustifolia var. fastigiata",
-      "common_name": "Narrowleaf chinchweed, fastigiata variety"
+      "path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia-var-fastigiata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pinaropappus-roseus",
+      "scientific_name": "Pinaropappus roseus",
+      "common_name": "Pink dandelion / rock lettuce",
       "family": "Asteraceae",
       "genus": "Pinaropappus",
-      "scientific_name": "Pinaropappus roseus",
-      "common_name": "Pink dandelion / rock lettuce"
+      "path": "content/taxa/Asteraceae/Pinaropappus/pinaropappus-roseus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "plectocephalus-americanus",
+      "scientific_name": "Plectocephalus americanus",
+      "common_name": "American Basketflower",
       "family": "Asteraceae",
       "genus": "Plectocephalus",
-      "scientific_name": "Plectocephalus americanus",
-      "common_name": "American Basketflower"
+      "path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pluchea-camphorata",
+      "scientific_name": "Pluchea camphorata",
+      "common_name": "Camphorweed",
       "family": "Asteraceae",
       "genus": "Pluchea",
-      "scientific_name": "Pluchea camphorata",
-      "common_name": "Camphorweed"
+      "path": "content/taxa/Asteraceae/Pluchea/pluchea-camphorata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pluchea-odorata",
+      "scientific_name": "Pluchea odorata",
+      "common_name": "Sweetscent",
       "family": "Asteraceae",
       "genus": "Pluchea",
-      "scientific_name": "Pluchea odorata",
-      "common_name": "Sweetscent"
+      "path": "content/taxa/Asteraceae/Pluchea/pluchea-odorata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "porophyllum-scoparium",
+      "scientific_name": "Porophyllum scoparium",
+      "common_name": "Porophyllum scoparium",
       "family": "Asteraceae",
       "genus": "Porophyllum",
-      "scientific_name": "Porophyllum scoparium",
-      "common_name": "Porophyllum scoparium"
+      "path": "content/taxa/Asteraceae/Porophyllum/porophyllum-scoparium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pseudognaphalium-canescens",
+      "scientific_name": "Pseudognaphalium canescens",
+      "common_name": "Woolly cudweed",
       "family": "Asteraceae",
       "genus": "Pseudognaphalium",
-      "scientific_name": "Pseudognaphalium canescens",
-      "common_name": "Woolly cudweed"
+      "path": "content/taxa/Asteraceae/Pseudognaphalium/pseudognaphalium-canescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pseudognaphalium-obtusifolium",
+      "scientific_name": "Pseudognaphalium obtusifolium",
+      "common_name": "Sweet everlasting / rabbit tobacco",
       "family": "Asteraceae",
       "genus": "Pseudognaphalium",
-      "scientific_name": "Pseudognaphalium obtusifolium",
-      "common_name": "Sweet everlasting / rabbit tobacco"
+      "path": "content/taxa/Asteraceae/Pseudognaphalium/pseudognaphalium-obtusifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pyrrhopappus-carolinianus",
+      "scientific_name": "Pyrrhopappus carolinianus",
+      "common_name": "Carolina false dandelion",
       "family": "Asteraceae",
       "genus": "Pyrrhopappus",
-      "scientific_name": "Pyrrhopappus carolinianus",
-      "common_name": "Carolina false dandelion"
+      "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-carolinianus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pyrrhopappus-grandiflorus",
+      "scientific_name": "Pyrrhopappus grandiflorus",
+      "common_name": "Texas false dandelion",
       "family": "Asteraceae",
       "genus": "Pyrrhopappus",
-      "scientific_name": "Pyrrhopappus grandiflorus",
-      "common_name": "Texas false dandelion"
+      "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-grandiflorus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "pyrrhopappus-pauciflorus",
+      "scientific_name": "Pyrrhopappus pauciflorus",
+      "common_name": "Smallflower false dandelion",
       "family": "Asteraceae",
       "genus": "Pyrrhopappus",
-      "scientific_name": "Pyrrhopappus pauciflorus",
-      "common_name": "Smallflower false dandelion"
+      "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-pauciflorus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "ratibida-columnifera",
+      "scientific_name": "Ratibida columnifera",
+      "common_name": "Upright Prairie Coneflower",
       "family": "Asteraceae",
       "genus": "Ratibida",
-      "scientific_name": "Ratibida columnifera",
-      "common_name": "Upright Prairie Coneflower"
+      "path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "rudbeckia-amplexicaulis",
+      "scientific_name": "Rudbeckia amplexicaulis",
+      "common_name": "Clasping coneflower",
       "family": "Asteraceae",
       "genus": "Rudbeckia",
-      "scientific_name": "Rudbeckia amplexicaulis",
-      "common_name": "Clasping coneflower"
+      "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-amplexicaulis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "rudbeckia-hirta",
+      "scientific_name": "Rudbeckia hirta",
+      "common_name": "Black-eyed Susan",
       "family": "Asteraceae",
       "genus": "Rudbeckia",
-      "scientific_name": "Rudbeckia hirta",
-      "common_name": "Black-eyed Susan"
+      "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "rudbeckia-maxima",
+      "scientific_name": "Rudbeckia maxima",
+      "common_name": "Great coneflower",
       "family": "Asteraceae",
       "genus": "Rudbeckia",
-      "scientific_name": "Rudbeckia maxima",
-      "common_name": "Great coneflower"
+      "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-maxima/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "senecio-ampullaceus",
+      "scientific_name": "Senecio ampullaceus",
+      "common_name": "Texas groundsel",
       "family": "Asteraceae",
       "genus": "Senecio",
-      "scientific_name": "Senecio ampullaceus",
-      "common_name": "Texas groundsel"
+      "path": "content/taxa/Asteraceae/Senecio/senecio-ampullaceus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "sideranthus-spinulosus",
+      "scientific_name": "Sideranthus spinulosus",
+      "common_name": "Sideranthus spinulosus",
       "family": "Asteraceae",
       "genus": "Sideranthus",
-      "scientific_name": "Sideranthus spinulosus",
-      "common_name": "Sideranthus spinulosus"
+      "path": "content/taxa/Asteraceae/Sideranthus/sideranthus-spinulosus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "sidneya-tenuifolia",
+      "scientific_name": "Sidneya tenuifolia",
+      "common_name": "Narrowleaf goldeneye",
       "family": "Asteraceae",
       "genus": "Sidneya",
-      "scientific_name": "Sidneya tenuifolia",
-      "common_name": "Narrowleaf goldeneye"
+      "path": "content/taxa/Asteraceae/Sidneya/sidneya-tenuifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "silphium-albiflorum",
+      "scientific_name": "Silphium albiflorum",
+      "common_name": "White Rosinweed / White-flowered Rosinweed",
       "family": "Asteraceae",
       "genus": "Silphium",
-      "scientific_name": "Silphium albiflorum",
-      "common_name": "White Rosinweed / White-flowered Rosinweed"
+      "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "silphium-laciniatum",
+      "scientific_name": "Silphium laciniatum",
+      "common_name": "Compass plant",
       "family": "Asteraceae",
       "genus": "Silphium",
-      "scientific_name": "Silphium laciniatum",
-      "common_name": "Compass plant"
+      "path": "content/taxa/Asteraceae/Silphium/silphium-laciniatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "silphium-radula",
+      "scientific_name": "Silphium radula",
+      "common_name": "Roughstem Rosinweed / Tall Rosinweed",
       "family": "Asteraceae",
       "genus": "Silphium",
-      "scientific_name": "Silphium radula",
-      "common_name": "Roughstem Rosinweed / Tall Rosinweed"
+      "path": "content/taxa/Asteraceae/Silphium/silphium-radula/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "silybum-marianum",
+      "scientific_name": "Silybum marianum",
+      "common_name": "Milk thistle",
       "family": "Asteraceae",
       "genus": "Silybum",
-      "scientific_name": "Silybum marianum",
-      "common_name": "Milk thistle"
+      "path": "content/taxa/Asteraceae/Silybum/silybum-marianum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "simsia-calva",
+      "scientific_name": "Simsia calva",
+      "common_name": "Bush Sunflower",
       "family": "Asteraceae",
       "genus": "Simsia",
-      "scientific_name": "Simsia calva",
-      "common_name": "Bush Sunflower"
+      "path": "content/taxa/Asteraceae/Simsia/simsia-calva/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-altissima",
+      "scientific_name": "Solidago altissima",
+      "common_name": "Tall Goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago altissima",
-      "common_name": "Tall Goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-altissima/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-canadensis",
+      "scientific_name": "Solidago canadensis",
+      "common_name": "Canada Goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago canadensis",
-      "common_name": "Canada Goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-canadensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-gigantea",
+      "scientific_name": "Solidago gigantea",
+      "common_name": "Giant Goldenrod / Smooth Goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago gigantea",
-      "common_name": "Giant Goldenrod / Smooth Goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-gigantea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-juliae",
+      "scientific_name": "Solidago juliae",
+      "common_name": "Julia's Goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago juliae",
-      "common_name": "Julia's Goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-juliae/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-mexicana",
+      "scientific_name": "Solidago mexicana",
+      "common_name": "Southern seaside goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago mexicana",
-      "common_name": "Southern seaside goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-mexicana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-nemoralis",
+      "scientific_name": "Solidago nemoralis",
+      "common_name": "Gray goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago nemoralis",
-      "common_name": "Gray goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-nemoralis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-radula",
+      "scientific_name": "Solidago radula",
+      "common_name": "Rough goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago radula",
-      "common_name": "Rough goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-radula/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "solidago-rugosa",
+      "scientific_name": "Solidago rugosa",
+      "common_name": "Wrinkleleaf goldenrod",
       "family": "Asteraceae",
       "genus": "Solidago",
-      "scientific_name": "Solidago rugosa",
-      "common_name": "Wrinkleleaf goldenrod"
+      "path": "content/taxa/Asteraceae/Solidago/solidago-rugosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "sonchus-asper",
+      "scientific_name": "Sonchus asper",
+      "common_name": "Spiny sowthistle",
       "family": "Asteraceae",
       "genus": "Sonchus",
-      "scientific_name": "Sonchus asper",
-      "common_name": "Spiny sowthistle"
+      "path": "content/taxa/Asteraceae/Sonchus/sonchus-asper/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "sphagneticola-trilobata",
+      "scientific_name": "Sphagneticola trilobata",
+      "common_name": "Creeping oxeye",
       "family": "Asteraceae",
       "genus": "Sphagneticola",
-      "scientific_name": "Sphagneticola trilobata",
-      "common_name": "Creeping oxeye"
+      "path": "content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-divaricatum",
+      "scientific_name": "Symphyotrichum divaricatum",
+      "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum divaricatum",
-      "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-drummondii",
+      "scientific_name": "Symphyotrichum drummondii",
+      "common_name": "Drummond's Aster / Texas Aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum drummondii",
-      "common_name": "Drummond's Aster / Texas Aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-drummondii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-ericoides",
+      "scientific_name": "Symphyotrichum ericoides",
+      "common_name": "White Heath Aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum ericoides",
-      "common_name": "White Heath Aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-ericoides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-eulae",
+      "scientific_name": "Symphyotrichum eulae",
+      "common_name": "Eula's Aster / Whitehouse's Aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum eulae",
-      "common_name": "Eula's Aster / Whitehouse's Aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-eulae/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-lanceolatum-subsp-lanceolatum",
+      "scientific_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "common_name": "White panicle aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
-      "common_name": "White panicle aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-lanceolatum-subsp-lanceolatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-oblongifolium",
+      "scientific_name": "Symphyotrichum oblongifolium",
+      "common_name": "Aromatic aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum oblongifolium",
-      "common_name": "Aromatic aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-patens",
+      "scientific_name": "Symphyotrichum patens",
+      "common_name": "Late purple aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum patens",
-      "common_name": "Late purple aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-patens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-praealtum",
+      "scientific_name": "Symphyotrichum praealtum",
+      "common_name": "Willowleaf aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum praealtum",
-      "common_name": "Willowleaf aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-sericeum",
+      "scientific_name": "Symphyotrichum sericeum",
+      "common_name": "Western silver aster / silky aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum sericeum",
-      "common_name": "Western silver aster / silky aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "symphyotrichum-subulatum",
+      "scientific_name": "Symphyotrichum subulatum",
+      "common_name": "Eastern annual saltmarsh aster",
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
-      "scientific_name": "Symphyotrichum subulatum",
-      "common_name": "Eastern annual saltmarsh aster"
+      "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-subulatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "taraxacum-erythrospermum",
+      "scientific_name": "Taraxacum erythrospermum",
+      "common_name": "Red-seeded dandelion (introduced species complex)",
       "family": "Asteraceae",
       "genus": "Taraxacum",
-      "scientific_name": "Taraxacum erythrospermum",
-      "common_name": "Red-seeded dandelion (introduced species complex)"
+      "path": "content/taxa/Asteraceae/Taraxacum/taraxacum-erythrospermum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "tetragonotheca-texana",
+      "scientific_name": "Tetragonotheca texana",
+      "common_name": "Squarebud daisy",
       "family": "Asteraceae",
       "genus": "Tetragonotheca",
-      "scientific_name": "Tetragonotheca texana",
-      "common_name": "Squarebud daisy"
+      "path": "content/taxa/Asteraceae/Tetragonotheca/tetragonotheca-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "tetraneuris-acaulis",
+      "scientific_name": "Tetraneuris acaulis",
+      "common_name": "Stemless four-nerve daisy",
       "family": "Asteraceae",
       "genus": "Tetraneuris",
-      "scientific_name": "Tetraneuris acaulis",
-      "common_name": "Stemless four-nerve daisy"
+      "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-acaulis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "tetraneuris-linearifolia",
+      "scientific_name": "Tetraneuris linearifolia",
+      "common_name": "Fineleaf four-nerve daisy",
       "family": "Asteraceae",
       "genus": "Tetraneuris",
-      "scientific_name": "Tetraneuris linearifolia",
-      "common_name": "Fineleaf four-nerve daisy"
+      "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-linearifolia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "tetraneuris-scaposa",
+      "scientific_name": "Tetraneuris scaposa var. scaposa",
+      "common_name": "Four-nerve Daisy",
       "family": "Asteraceae",
       "genus": "Tetraneuris",
-      "scientific_name": "Tetraneuris scaposa var. scaposa",
-      "common_name": "Four-nerve Daisy"
+      "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-scaposa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "thelesperma-filifolium",
+      "scientific_name": "Thelesperma filifolium",
+      "common_name": "Stiff Greenthread",
       "family": "Asteraceae",
       "genus": "Thelesperma",
-      "scientific_name": "Thelesperma filifolium",
-      "common_name": "Stiff Greenthread"
+      "path": "content/taxa/Asteraceae/Thelesperma/thelesperma-filifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "thelesperma-megapotamicum-var-ambiguum",
+      "scientific_name": "Thelesperma megapotamicum var. ambiguum",
+      "common_name": "Ambiguous greenthread",
       "family": "Asteraceae",
       "genus": "Thelesperma",
-      "scientific_name": "Thelesperma megapotamicum var. ambiguum",
-      "common_name": "Ambiguous greenthread"
+      "path": "content/taxa/Asteraceae/Thelesperma/thelesperma-megapotamicum-var-ambiguum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "thelesperma-simplicifolium",
+      "scientific_name": "Thelesperma simplicifolium",
+      "common_name": "Slender Greenthread / Edwards Plateau Greenthread / Navajo Tea",
       "family": "Asteraceae",
       "genus": "Thelesperma",
-      "scientific_name": "Thelesperma simplicifolium",
-      "common_name": "Slender Greenthread / Edwards Plateau Greenthread / Navajo Tea"
+      "path": "content/taxa/Asteraceae/Thelesperma/thelesperma-simplicifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "thymophylla-pentachaeta",
+      "scientific_name": "Thymophylla pentachaeta",
+      "common_name": "Five-needle pricklyleaf",
       "family": "Asteraceae",
       "genus": "Thymophylla",
-      "scientific_name": "Thymophylla pentachaeta",
-      "common_name": "Five-needle pricklyleaf"
+      "path": "content/taxa/Asteraceae/Thymophylla/thymophylla-pentachaeta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "thymophylla-tenuiloba",
+      "scientific_name": "Thymophylla tenuiloba",
+      "common_name": "Dahlberg daisy",
       "family": "Asteraceae",
       "genus": "Thymophylla",
-      "scientific_name": "Thymophylla tenuiloba",
-      "common_name": "Dahlberg daisy"
+      "path": "content/taxa/Asteraceae/Thymophylla/thymophylla-tenuiloba/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "tragopogon-dubius",
+      "scientific_name": "Tragopogon dubius",
+      "common_name": "Yellow salsify / goat's beard (introduced)",
       "family": "Asteraceae",
       "genus": "Tragopogon",
-      "scientific_name": "Tragopogon dubius",
-      "common_name": "Yellow salsify / goat's beard (introduced)"
+      "path": "content/taxa/Asteraceae/Tragopogon/tragopogon-dubius/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "trixis-californica",
+      "scientific_name": "Trixis californica",
+      "common_name": "California trixis",
       "family": "Asteraceae",
       "genus": "Trixis",
-      "scientific_name": "Trixis californica",
-      "common_name": "California trixis"
+      "path": "content/taxa/Asteraceae/Trixis/trixis-californica/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "verbesina-encelioides",
+      "scientific_name": "Verbesina encelioides",
+      "common_name": "Cowpen Daisy",
       "family": "Asteraceae",
       "genus": "Verbesina",
-      "scientific_name": "Verbesina encelioides",
-      "common_name": "Cowpen Daisy"
+      "path": "content/taxa/Asteraceae/Verbesina/verbesina-encelioides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "verbesina-lindheimeri",
+      "scientific_name": "Verbesina lindheimeri",
+      "common_name": "Lindheimer's crownbeard",
       "family": "Asteraceae",
       "genus": "Verbesina",
-      "scientific_name": "Verbesina lindheimeri",
-      "common_name": "Lindheimer's crownbeard"
+      "path": "content/taxa/Asteraceae/Verbesina/verbesina-lindheimeri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "verbesina-virginica",
+      "scientific_name": "Verbesina virginica",
+      "common_name": "Frostweed",
       "family": "Asteraceae",
       "genus": "Verbesina",
-      "scientific_name": "Verbesina virginica",
-      "common_name": "Frostweed"
+      "path": "content/taxa/Asteraceae/Verbesina/verbesina-virginica/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "vernonia-baldwinii",
+      "scientific_name": "Vernonia baldwinii",
+      "common_name": "Western ironweed",
       "family": "Asteraceae",
       "genus": "Vernonia",
-      "scientific_name": "Vernonia baldwinii",
-      "common_name": "Western ironweed"
+      "path": "content/taxa/Asteraceae/Vernonia/vernonia-baldwinii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "vernonia-lindheimeri",
+      "scientific_name": "Vernonia lindheimeri",
+      "common_name": "Woolly ironweed",
       "family": "Asteraceae",
       "genus": "Vernonia",
-      "scientific_name": "Vernonia lindheimeri",
-      "common_name": "Woolly ironweed"
+      "path": "content/taxa/Asteraceae/Vernonia/vernonia-lindheimeri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "vernonia-x-guadalupensis",
+      "scientific_name": "Vernonia × guadalupensis",
+      "common_name": "Guadalupe ironweed",
       "family": "Asteraceae",
       "genus": "Vernonia",
-      "scientific_name": "Vernonia × guadalupensis",
-      "common_name": "Guadalupe ironweed"
+      "path": "content/taxa/Asteraceae/Vernonia/vernonia-x-guadalupensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "viguiera-dentata",
+      "scientific_name": "Viguiera dentata",
+      "common_name": "Toothleaf goldeneye",
       "family": "Asteraceae",
       "genus": "Viguiera",
-      "scientific_name": "Viguiera dentata",
-      "common_name": "Toothleaf goldeneye"
+      "path": "content/taxa/Asteraceae/Viguiera/viguiera-dentata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "wedelia-acapulcensis",
+      "scientific_name": "Wedelia acapulcensis",
+      "common_name": "Wedelia acapulcensis",
       "family": "Asteraceae",
       "genus": "Wedelia",
-      "scientific_name": "Wedelia acapulcensis",
-      "common_name": "Wedelia acapulcensis"
+      "path": "content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "wedelia-acapulcensis-var-hispida",
+      "scientific_name": "Wedelia acapulcensis var. hispida",
+      "common_name": "Texas creeping-oxeye",
       "family": "Asteraceae",
       "genus": "Wedelia",
-      "scientific_name": "Wedelia acapulcensis var. hispida",
-      "common_name": "Texas creeping-oxeye"
+      "path": "content/taxa/Asteraceae/Wedelia/wedelia-acapulcensis-var-hispida/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     },
     {
       "id": "xanthium-strumarium",
+      "scientific_name": "Xanthium strumarium",
+      "common_name": "Common cocklebur",
       "family": "Asteraceae",
       "genus": "Xanthium",
-      "scientific_name": "Xanthium strumarium",
-      "common_name": "Common cocklebur"
+      "path": "content/taxa/Asteraceae/Xanthium/xanthium-strumarium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
     }
-  ]
+  ],
+  "note": "Empty until individually verified source import. Do not add names or URLs without matching actual records.",
+  "source_repository": "Crking92/Hays-County-Botany",
+  "source_commit_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "public_website_ready": false
 }

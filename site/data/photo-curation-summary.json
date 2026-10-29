@@ -1,0 +1,563 @@
+{
+  "status": "FIELD_FIRST_CREDIT_TRACEABLE_PREVIEW",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "species_with_no_visible_photos": [
+    {
+      "species_id": "acourtia-runcinata",
+      "scientific_name": "Acourtia runcinata",
+      "common_name": "Featherleaf desertpeony",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "ambrosia-trifida",
+      "scientific_name": "Ambrosia trifida",
+      "common_name": "Giant Ragweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "amphiachyris-dracunculoides",
+      "scientific_name": "Amphiachyris dracunculoides",
+      "common_name": "Prairie Broomweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "aphanostephus-riddellii",
+      "scientific_name": "Aphanostephus riddellii",
+      "common_name": "Riddell's dozedaisy",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "baccharis-neglecta",
+      "scientific_name": "Baccharis neglecta",
+      "common_name": "False Willow",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "baccharis-salicifolia",
+      "scientific_name": "Baccharis salicifolia",
+      "common_name": "Seep Willow",
+      "curation_exclusion_reasons": [
+        "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE",
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "boltonia-diffusa",
+      "scientific_name": "Boltonia diffusa",
+      "common_name": "Diffuse boltonia",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "brickellia-dentata",
+      "scientific_name": "Brickellia dentata",
+      "common_name": "Gravelbar / leafy brickellbush",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "brickellia-eupatorioides",
+      "scientific_name": "Brickellia eupatorioides",
+      "common_name": "False boneset",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "carthamus-tinctorius",
+      "scientific_name": "Carthamus tinctorius",
+      "common_name": "Safflower",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "chaetopappa-effusa",
+      "scientific_name": "Chaetopappa effusa",
+      "common_name": "Spreading lazy daisy",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "chloracantha-spinosa",
+      "scientific_name": "Chloracantha spinosa",
+      "common_name": "Spiny chloracantha",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "cirsium-ochrocentrum",
+      "scientific_name": "Cirsium ochrocentrum",
+      "common_name": "Yellowspine thistle",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "cirsium-texanum",
+      "scientific_name": "Cirsium texanum",
+      "common_name": "Texas Thistle",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "cirsium-undulatum",
+      "scientific_name": "Cirsium undulatum",
+      "common_name": "Wavyleaf Thistle",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "conoclinium-dissectum",
+      "scientific_name": "Conoclinium dissectum",
+      "common_name": "Gregg's Mistflower",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "coreopsis-basalis",
+      "scientific_name": "Coreopsis basalis",
+      "common_name": "Goldenmane Tickseed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "coreopsis-tinctoria",
+      "scientific_name": "Coreopsis tinctoria",
+      "common_name": "Plains Coreopsis",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "coreopsis-wrightii",
+      "scientific_name": "Coreopsis wrightii",
+      "common_name": "Rock Tickseed / Wright's Coreopsis",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "diaperia-prolifera",
+      "scientific_name": "Diaperia prolifera",
+      "common_name": "flathead rabbit tobacco",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "diaperia-verna",
+      "scientific_name": "Diaperia verna",
+      "common_name": "many stem evax",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "dysodiopsis-tagetoides",
+      "scientific_name": "Dysodiopsis tagetoides",
+      "common_name": "False dogfennel",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "eclipta-prostrata",
+      "scientific_name": "Eclipta prostrata",
+      "common_name": "False daisy",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "elephantopus-carolinianus",
+      "scientific_name": "Elephantopus carolinianus",
+      "common_name": "leafy elephant's-foot",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "erigeron-geiseri",
+      "scientific_name": "Erigeron geiseri",
+      "common_name": "Geiser's fleabane",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "gaillardia-pulchella",
+      "scientific_name": "Gaillardia pulchella",
+      "common_name": "Indian Blanket",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "gaillardia-suavis",
+      "scientific_name": "Gaillardia suavis",
+      "common_name": "Fragrant Gaillardia / Pincushion Daisy / Perfumeballs",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "gamochaeta-purpurea",
+      "scientific_name": "Gamochaeta purpurea",
+      "common_name": "Purple cudweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "grindelia-lanceolata",
+      "scientific_name": "Grindelia lanceolata",
+      "common_name": "Narrowleaf Gumweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "gutierrezia-texana",
+      "scientific_name": "Gutierrezia texana",
+      "common_name": "Texas snakeweed / Texas broomweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "gymnosperma-glutinosum",
+      "scientific_name": "Gymnosperma glutinosum",
+      "common_name": "Tatalencho",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "helenium-elegans",
+      "scientific_name": "Helenium elegans",
+      "common_name": "Pretty Sneezeweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "helenium-quadridentatum",
+      "scientific_name": "Helenium quadridentatum",
+      "common_name": "Longdisk sneezeweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "helianthus-annuus",
+      "scientific_name": "Helianthus annuus",
+      "common_name": "Annual Sunflower",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "helianthus-maximiliani",
+      "scientific_name": "Helianthus maximiliani",
+      "common_name": "Maximilian Sunflower",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "hymenopappus-scabiosaeus",
+      "scientific_name": "Hymenopappus scabiosaeus",
+      "common_name": "Carolina woollywhite",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "hymenopappus-tenuifolius",
+      "scientific_name": "Hymenopappus tenuifolius",
+      "common_name": "Chalk Hill Hymenopappus",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "iva-annua",
+      "scientific_name": "Iva annua",
+      "common_name": "Annual sumpweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "liatris-punctata",
+      "scientific_name": "Liatris punctata",
+      "common_name": "Dotted Gayfeather / Blazing Star",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "lindheimera-texana",
+      "scientific_name": "Lindheimera texana",
+      "common_name": "Texas yellowstar",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "lygodesmia-texana",
+      "scientific_name": "Lygodesmia texana",
+      "common_name": "Texas skeletonplant",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "marshallia-caespitosa",
+      "scientific_name": "Marshallia caespitosa",
+      "common_name": "Barbara's buttons",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "melampodium-leucanthum",
+      "scientific_name": "Melampodium leucanthum",
+      "common_name": "Blackfoot daisy",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED",
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "palafoxia-callosa",
+      "scientific_name": "Palafoxia callosa",
+      "common_name": "Small palafoxia",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "pectis-angustifolia-var-fastigiata",
+      "scientific_name": "Pectis angustifolia var. fastigiata",
+      "common_name": "Narrowleaf chinchweed, fastigiata variety",
+      "curation_exclusion_reasons": []
+    },
+    {
+      "species_id": "pluchea-camphorata",
+      "scientific_name": "Pluchea camphorata",
+      "common_name": "Camphorweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "pluchea-odorata",
+      "scientific_name": "Pluchea odorata",
+      "common_name": "Sweetscent",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "porophyllum-scoparium",
+      "scientific_name": "Porophyllum scoparium",
+      "common_name": "Porophyllum scoparium",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    },
+    {
+      "species_id": "rudbeckia-hirta",
+      "scientific_name": "Rudbeckia hirta",
+      "common_name": "Black-eyed Susan",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "silybum-marianum",
+      "scientific_name": "Silybum marianum",
+      "common_name": "Milk thistle",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "solidago-altissima",
+      "scientific_name": "Solidago altissima",
+      "common_name": "Tall Goldenrod",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "solidago-canadensis",
+      "scientific_name": "Solidago canadensis",
+      "common_name": "Canada Goldenrod",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "solidago-juliae",
+      "scientific_name": "Solidago juliae",
+      "common_name": "Julia's Goldenrod",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "solidago-nemoralis",
+      "scientific_name": "Solidago nemoralis",
+      "common_name": "Gray goldenrod",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "solidago-radula",
+      "scientific_name": "Solidago radula",
+      "common_name": "Rough goldenrod",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "sphagneticola-trilobata",
+      "scientific_name": "Sphagneticola trilobata",
+      "common_name": "Creeping oxeye",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "symphyotrichum-divaricatum",
+      "scientific_name": "Symphyotrichum divaricatum",
+      "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "symphyotrichum-drummondii",
+      "scientific_name": "Symphyotrichum drummondii",
+      "common_name": "Drummond's Aster / Texas Aster",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "symphyotrichum-lanceolatum-subsp-lanceolatum",
+      "scientific_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "common_name": "White panicle aster",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "symphyotrichum-sericeum",
+      "scientific_name": "Symphyotrichum sericeum",
+      "common_name": "Western silver aster / silky aster",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "symphyotrichum-subulatum",
+      "scientific_name": "Symphyotrichum subulatum",
+      "common_name": "Eastern annual saltmarsh aster",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "tetraneuris-scaposa",
+      "scientific_name": "Tetraneuris scaposa var. scaposa",
+      "common_name": "Four-nerve Daisy",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "thelesperma-filifolium",
+      "scientific_name": "Thelesperma filifolium",
+      "common_name": "Stiff Greenthread",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "thelesperma-megapotamicum-var-ambiguum",
+      "scientific_name": "Thelesperma megapotamicum var. ambiguum",
+      "common_name": "Ambiguous greenthread",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "verbesina-lindheimeri",
+      "scientific_name": "Verbesina lindheimeri",
+      "common_name": "Lindheimer's crownbeard",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "vernonia-lindheimeri",
+      "scientific_name": "Vernonia lindheimeri",
+      "common_name": "Woolly ironweed",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "viguiera-dentata",
+      "scientific_name": "Viguiera dentata",
+      "common_name": "Toothleaf goldeneye",
+      "curation_exclusion_reasons": [
+        "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE"
+      ]
+    },
+    {
+      "species_id": "wedelia-acapulcensis-var-hispida",
+      "scientific_name": "Wedelia acapulcensis var. hispida",
+      "common_name": "Texas creeping-oxeye",
+      "curation_exclusion_reasons": [
+        "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED"
+      ]
+    }
+  ],
+  "species_with_no_visible_photos_count": 68,
+  "archived_media_removed_or_deleted": 0,
+  "source_originals_and_media_rights_ledgers_unchanged": true,
+  "generic_views_limit_per_species": 2,
+  "uncleared_author_photos_archived_but_not_shown": 24,
+  "hidden_photo_instances_by_reason": {
+    "RESTRICTED_FROM_STRICT_PUBLIC_CANDIDATE": 181,
+    "CREATOR_OR_SOURCE_OR_LICENSE_UNTRACEABLE": 4,
+    "INDIVIDUAL_PHOTO_LICENSE_NOT_INDEPENDENTLY_VERIFIED": 24
+  },
+  "displayed_gallery_photo_instances": 153,
+  "displayed_species_with_any_photos": 112
+}
