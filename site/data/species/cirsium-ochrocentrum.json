@@ -19,7 +19,22 @@
     ],
     "differences": "Ochrocentrum's long phyllary spine plus conspicuous decurrent spiny wings (some forms), woolly stems and possible resin gland ridge; undulatum leaves often less divided/shallowly lobed, winging minimal or absent in much of FNA key, and mature fruit 6–7 mm. Vulgare upper blade carries short bristlelike spines, not the same as marginal thorns. Horridulum has an extra under-head armored bract collar."
   },
-  "verified_photos": [],
-  "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
+  "verified_photos": [
+    {
+      "src": "media/cirsium-ochrocentrum/source-6675156b54cd.jpg",
+      "creator": "Clarence A. Rechenthin",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsiumochrocentrum.jpg",
+      "role": "Whole plant / flowering head recognizable face",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "6675156b54cdfaacdfaa759db515e67292c8a116",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Photographer/source-specific public-domain evidence; original archived source photo, not general license for third-party photos."
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

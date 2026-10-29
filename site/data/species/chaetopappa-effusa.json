@@ -37,7 +37,22 @@
     ],
     "differences": "C. bellidifolia is a taprooted annual with non-overlapping flat leaves and a minute pappus ring; C. ericoides has very narrow densely overlapping leathery leaves and obvious pappus bristles in one series. C. parryi also rhizomatous but has narrower spatulate lower leaves 2–5 mm and a much larger hyaline crown 0.3–0.8 mm."
   },
-  "verified_photos": [],
-  "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
+  "verified_photos": [
+    {
+      "src": "media/chaetopappa-effusa/source-d7e6bfc20a8d.jpg",
+      "creator": "Nick Loveland",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/6566703372",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "d7e6bfc20a8db4eceefb925823559ca63bbdcf54",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Exact archived GBIF photographic media URL with CC0 photo record and matching species label; no independent voucher determination."
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
