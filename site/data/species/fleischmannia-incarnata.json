@@ -1,0 +1,50 @@
+{
+  "id": "fleischmannia-incarnata",
+  "family": "Asteraceae",
+  "genus": "Fleischmannia",
+  "scientific_name": "Fleischmannia incarnata",
+  "common_name": "Pink thoroughwort",
+  "look_here_first": "Check a fully opened FLOWERING SHOOT and an OPPOSITE mature leaf: this is a lax/sprawling herb with paired triangular-to-heart-based COARSELY TOOTHED leaves on long petioles and loose sprays of relatively small pale-pink/purple discoid heads. To separate fragrant mistflower (Chromolaena odorata), view ONE flower head FROM THE SIDE: Fleischmannia's involucre is only ~4–5 mm long and has fewer overlapping phyllary series; Chromolaena usually has an 8–10 mm cylindrical involucre with many imbricated phyllaries. Blue mistflower (Conoclinium coelestinum) has many more florets/head and a distinctly conical receptacle; dissection helps. Color alone proves nothing.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial herb 30–120(–200) cm, lax or sprawling, weakly climbing or leaning among neighbors, much branched."
+    },
+    {
+      "label": "Stems",
+      "text": "Herbaceous, often long and slender with widely spaced opposite leaves; do not confuse scrambling habit with twining vine."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, long-petiolate blades triangular-deltate, commonly 2–5(–7) × 1.5–3.5(–5) cm, base truncate to cordate, margins crenate-serrate/coarsely serrate. Look for the actual paired leaf bases at a node."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Small heads borne in relatively open flat-topped to irregular terminal corymbiform arrays on slender branchlets."
+    },
+    {
+      "label": "Flowers",
+      "text": "Discoid heads without ray florets; small pink, pale lavender, pink-white or occasionally whitish florets, often about 13–25 per head in regional accounts; count individual florets rather than whole cluster."
+    },
+    {
+      "label": "Involucre",
+      "text": "About 4–5 mm long, with comparatively few phyllary series; measure a SIDE VIEW next to a ruler, not the entire pink top."
+    },
+    {
+      "label": "Receptacle",
+      "text": "Flat to slightly convex after florets are carefully removed (Conoclinium tends conspicuously conic). This is a diagnostic DISSECTION character, not typically visible in casual images."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae about 1.8–2.8 mm in FNA, sparsely hairy to sometimes nearly smooth; pappus bristles. Microscopic carpopodium stopper-shaped and sharply differentiated."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a80ad89bff798dfcf52a051ed3dbb880ccfdc7371ad4ee59f942e7864c8d2e7e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

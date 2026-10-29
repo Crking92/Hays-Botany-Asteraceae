@@ -1,0 +1,62 @@
+{
+  "id": "eupatorium-serotinum",
+  "family": "Asteraceae",
+  "genus": "Eupatorium",
+  "scientific_name": "Eupatorium serotinum",
+  "common_name": "Late Boneset",
+  "look_here_first": "Differentiate late boneset from white mistflower/white snakeroot by its tall branched HERBACEOUS form, narrower opposite lanceolate gland-dotted leaves (usually 20–90+ × 5–40 mm), and 9–15 florets per capitulum. FNA describes 8–12 phyllaries in 1–2 series, each usually 1–3 mm long.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Tall branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, coarsely serrate, petiolate, often with scattered glands."
+    },
+    {
+      "label": "Heads",
+      "text": "Small white discoid heads in broad corymbs/panicles."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Several series, narrow, green."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with pappus bristles."
+    },
+    {
+      "label": "Identification",
+      "text": "tall herbaceous habit"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "white fuzzy clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "non-shrubby boneset look"
+    },
+    {
+      "label": "Reproductive confirmation",
+      "text": "FNA: 9–15 disk florets per capitulum; 8–12 phyllaries in 1–2 series, usually 1–3 mm, compared with genus-specific Ageratina and Chromolaena architecture."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cedfcd0e3a8eec40cf248c4985767ebff7b2d4075e30660daa50fd8ba223bf54",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

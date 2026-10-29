@@ -1,0 +1,70 @@
+{
+  "id": "gutierrezia-texana",
+  "family": "Asteraceae",
+  "genus": "Gutierrezia",
+  "scientific_name": "Gutierrezia texana",
+  "common_name": "Texas snakeweed / Texas broomweed",
+  "look_here_first": "Start with an open, wispy annual, heads at several heights, and yellow RAY + DISC florets. For the dangerous Amphiachyris amoena lookalike, inspect SIDE/BACK of phyllaries for possible green nerve borders and especially the tiny DISC-pappus scales. Habit and flower color alone cannot confirm.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual, herbaceous single taprooted base; not a woody perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "10–80(–100) cm, open paniculiform heads at varying heights and wiry photosynthetic branches."
+    },
+    {
+      "label": "Stems",
+      "text": "Green resinous slender glabrous, often angled; lower leaves reduced by flowering."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate very narrow, simple, often sessile, resin-gland dotted, reduced distally."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small radiate yellow heads, ray florets around disc florets. FNA species 5–23 rays and 7–48 discs; local variety often about 6–8 rays and 8–13 discs."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Small overlapping bracts under head; a narrow green nerve border may be visible, but this is VARIABLE and not definitive."
+    },
+    {
+      "label": "Pappus",
+      "text": "Very short scales or effectively absent in local var. texana; Amphiachyris typically has longer conspicuous disc-floret scales. Macro needed."
+    },
+    {
+      "label": "Fruit",
+      "text": "Minute hairy cypsela; retain adult ray-vs-disc assignment before comparing pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "Open, wispy annual rather than woody-based subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "Heads at different branching levels"
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow rays and discs; small green resinous branches"
+    },
+    {
+      "label": "Identification",
+      "text": "Possible green phyllary nerve borders"
+    },
+    {
+      "label": "Identification",
+      "text": "Extremely short disc pappus"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "addfb021665f22588f96fcc329f5827eae87665fd6aa6c3f6f7098614ea78c22",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

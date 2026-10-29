@@ -1,0 +1,50 @@
+{
+  "id": "helenium-elegans",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "scientific_name": "Helenium elegans",
+  "common_name": "Pretty Sneezeweed",
+  "look_here_first": "Start with the stem and head shape. Pretty sneezeweed is an annual with clearly winged stems—the narrow leaf bases run down the internode as green wings. Its distal leaves are narrow and entire, and the involucre/head is notably globose. This separates it from unwinged H. amarum and from the more ovoid/obconic H. quadridentatum.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual, taprooted, branching above"
+    },
+    {
+      "label": "Identification",
+      "text": "stems moderately to strongly winged by decurrent leaf bases"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow lanceolate to linear leaves, distal leaves entire"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves and wing tissue conspicuously gland-dotted"
+    },
+    {
+      "label": "Identification",
+      "text": "globose involucres/heads"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow rays, often with darker/reddish-brown basal tint in some material"
+    },
+    {
+      "label": "Identification",
+      "text": "multiple terminal heads on branched upper stems"
+    },
+    {
+      "label": "Identification",
+      "text": "non-aristate pappus scales in the FNA key"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Helenium amarum: H. amarum lacks stem wings entirely and has very narrow threadlike leaves with many small globose heads. Helenium autumnale: H. autumnale is perennial with broader, often toothed leaves and larger heads; H. elegans is annual with narrow entire leaves. Helenium quadridentatum: Both are winged annuals with entire distal leaves, but H. elegans has globose involucres; H. quadridentatum is usually ovoid to obconic and has 4-lobed disc corollas with 10–15 rays."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "148f5b8b835e8898d1bf7615b45bd66fd4eb89a1cd9c3a1753c17b3043778839",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

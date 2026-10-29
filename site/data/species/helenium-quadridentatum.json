@@ -1,0 +1,54 @@
+{
+  "id": "helenium-quadridentatum",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "scientific_name": "Helenium quadridentatum",
+  "common_name": "Longdisk sneezeweed",
+  "look_here_first": "Annual or biennial sneezeweed with winged stems and an unmistakably elongated ovoid-to-conical central disk surrounded by yellow rays.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Asteraceae/Helenium: composite heads with a raised receptacle, yellow or partly darkened rays, and often winged stems from decurrent leaf bases. Habit, stem wings, disk shape/color, and ray form are high-value characters."
+    },
+    {
+      "label": "Identification",
+      "text": "annual or biennial"
+    },
+    {
+      "label": "Identification",
+      "text": "stems with narrow wings"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves variable from broad to grasslike"
+    },
+    {
+      "label": "Identification",
+      "text": "branched array of many heads"
+    },
+    {
+      "label": "Identification",
+      "text": "about 10–15 yellow rays"
+    },
+    {
+      "label": "Identification",
+      "text": "disk conspicuously ovoid to conical"
+    },
+    {
+      "label": "Identification",
+      "text": "disk often yellow below and yellow-brown toward tips"
+    },
+    {
+      "label": "Identification",
+      "text": "very numerous tiny disk florets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The name is literal: longdisk. The elongated cone-like disk is the fastest split from the more rounded heads of H. elegans and H. autumnale."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8af204d9f5491386b2738ae556432b00c5eff260856c8d5b9683b962f2eb1631",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

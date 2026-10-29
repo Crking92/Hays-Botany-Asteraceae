@@ -1,0 +1,70 @@
+{
+  "id": "helianthus-annuus",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
+  "scientific_name": "Helianthus annuus",
+  "common_name": "Annual Sunflower",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual herb, usually with a taproot; do not use a single year's appearance alone to infer lifecycle."
+    },
+    {
+      "label": "Habit",
+      "text": "Coarse, erect, stiff-hairy stems; often branching, though some wild plants and cultivated forms are little-branched."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Lower leaves sometimes opposite; much of stem often alternate. Arrangement alone cannot separate this from H. maximiliani."
+    },
+    {
+      "label": "Leaves",
+      "text": "Representative mid-stem leaves broadly ovate to triangular, often heart-based; rough, usually prominently serrate and visibly petiolate (petioles ca. 2–20 cm)."
+    },
+    {
+      "label": "Leaf venation",
+      "text": "Usually 3 conspicuous veins arising from or near the leaf base; blade is generally flat, not narrow and V-folded."
+    },
+    {
+      "label": "Leaf attachment",
+      "text": "Longer petiole is readily visible; compare several mature mid-stem nodes against Maximilian's sessile/short-petioled leaves."
+    },
+    {
+      "label": "Heads",
+      "text": "Wild forms typically 1–9 heads, usually terminal on stem or branches; very large cultivated flower heads and strongly branched forms vary."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Broad ovate to lance-ovate bracts (often 5–8 mm wide) with abruptly acuminate tips, hairy/ciliate edges; check side or underside of a mature head."
+    },
+    {
+      "label": "Fruit",
+      "text": "Flattened cypselas usually bearing a pair of deciduous scales/awns; shared character, not the key split from Maximilian."
+    },
+    {
+      "label": "Identification",
+      "text": "broad, commonly toothed, petiolate leaf: inspect a mid-stem blade"
+    },
+    {
+      "label": "Identification",
+      "text": "3 strong veins from near leaf base"
+    },
+    {
+      "label": "Identification",
+      "text": "coarse rough annual stem; branching may vary"
+    },
+    {
+      "label": "Identification",
+      "text": "broad phyllaries with rather abruptly narrowed tips"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "60e5adf123b3e78e153fbe1ef7cfb287f9d84521aa704570eb0bbf861d976d75",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

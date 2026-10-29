@@ -1,0 +1,17 @@
+{
+  "id": "hymenopappus-artemisiifolius",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
+  "scientific_name": "Hymenopappus artemisiifolius",
+  "common_name": "Hymenopappus artemisiifolius",
+  "look_here_first": "Inspect the divided leaves and small rayless flower heads, checking the layered involucral bracts.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4c05f4f1cc1460bd75d86021818845231e14eaa6909f37919170735e7cab216e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

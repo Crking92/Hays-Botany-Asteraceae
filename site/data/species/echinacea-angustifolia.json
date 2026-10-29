@@ -1,0 +1,54 @@
+{
+  "id": "echinacea-angustifolia",
+  "family": "Asteraceae",
+  "genus": "Echinacea",
+  "scientific_name": "Echinacea angustifolia",
+  "common_name": "Narrow-leaf coneflower",
+  "look_here_first": "Ignore ray color first. Look for very narrow rough leaves and a usually single head on a stout little-branched stem, with drooping rays around a hard prickly cone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deep-rooted perennial from stout taproot/crown"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear-lanceolate to oblong-lanceolate rough/hairy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "stems stout and usually simple or weakly branched, often one head"
+    },
+    {
+      "label": "Identification",
+      "text": "ray florets often droop around a broad hard prickly conical disk"
+    },
+    {
+      "label": "Identification",
+      "text": "pappus much reduced compared with fluffy Asteraceae"
+    },
+    {
+      "label": "Habit",
+      "text": "Deep-rooted perennial, usually not a spreading rhizomatous colony."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Narrow, rough/hairy, mostly entire."
+    },
+    {
+      "label": "Heads",
+      "text": "Radiate head with pink-purple rays around strongly conical prickly disk."
+    },
+    {
+      "label": "Reproductive detail",
+      "text": "Stiff chaff/bracts among disk florets create the prickly cone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1b957c80c91c80873971d49ab75ed71c46fff054b6d445ecc8ba1d1325c103bb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

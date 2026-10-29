@@ -1,0 +1,54 @@
+{
+  "id": "helenium-autumnale",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "scientific_name": "Helenium autumnale",
+  "common_name": "Common Sneezeweed",
+  "look_here_first": "First decide annual or perennial, then inspect the stem wings. Common/fall sneezeweed is the perennial in this batch, with stout strongly winged stems and much broader obovate-to-lanceolate leaves that are often toothed. Its flower heads are also substantially larger than bitterweed's tiny heads.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb, often 50–130 cm in FNA though local plants may be shorter"
+    },
+    {
+      "label": "Identification",
+      "text": "stems strongly winged by broad decurrent leaf bases"
+    },
+    {
+      "label": "Identification",
+      "text": "mid-stem leaves obovate to oblanceolate/lanceolate, much broader than H. amarum or H. elegans"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins often dentate or remotely toothed, sometimes entire distally"
+    },
+    {
+      "label": "Identification",
+      "text": "upper plant strongly branched with many heads"
+    },
+    {
+      "label": "Identification",
+      "text": "heads relatively large, involucres globoid about 8–20 mm in FNA"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow rays commonly 8–21 and 10–23 mm long"
+    },
+    {
+      "label": "Identification",
+      "text": "disc corollas 5-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "typically late-summer to fall flowering and associated with moist roadsides, streams, ditches, seepage areas and pond margins"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Helenium amarum: H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. Helenium elegans: H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. Helenium quadridentatum: H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c941ecac171cfe0f645f7fae0e79875ea2385575df49d0171c050cc2f51b3ee1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

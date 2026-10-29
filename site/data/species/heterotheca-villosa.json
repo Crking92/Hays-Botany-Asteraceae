@@ -1,0 +1,17 @@
+{
+  "id": "heterotheca-villosa",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
+  "scientific_name": "Heterotheca villosa",
+  "common_name": "Hairy goldenaster",
+  "look_here_first": "Recognize hairy stems and leaves and yellow daisy-like heads; inspect the layers of phyllaries and the hairy leaf surfaces.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c15fe391dc8261ac436d26515d147f8ebc8b38f31050817f1f346d46ad4643e7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

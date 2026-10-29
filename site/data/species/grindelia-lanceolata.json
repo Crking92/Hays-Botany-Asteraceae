@@ -1,0 +1,58 @@
+{
+  "id": "grindelia-lanceolata",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "scientific_name": "Grindelia lanceolata",
+  "common_name": "Narrowleaf Gumweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect herb, often branching above."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, narrow to lanceolate, sessile or clasping, toothed to nearly entire."
+    },
+    {
+      "label": "Heads",
+      "text": "Yellow rays and yellow disk florets; heads often very resinous/sticky especially in bud and involucre."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Many, strongly recurved or spreading, often sticky."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with a pappus of short awns/scales."
+    },
+    {
+      "label": "Identification",
+      "text": "sticky gummy heads"
+    },
+    {
+      "label": "Identification",
+      "text": "recurved phyllaries"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "resinous involucre"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "062a835a55ebc0cb8176bd59c8dda7091760f0bce7fbf3af58fc224b8305c7a1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

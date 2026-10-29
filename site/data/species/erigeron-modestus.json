@@ -1,0 +1,30 @@
+{
+  "id": "erigeron-modestus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron modestus",
+  "common_name": "Plains fleabane",
+  "look_here_first": "LOOK HERE FIRST: Plains fleabane is typically a SHORT perennial (8–40 cm) with a WOODY or LIGNIFIED taproot/crown, often persistent old stem bases. Early spring shoots can appear annual and bear a single relatively large showy head; later flowering stems often branch into many smaller heads. Lower stem hairs and ray lengths overlap E. geiseri, so a daisy-only photo is not a reliable split. Examine the mature base, seasonal branching, leaves, stem hairs and fresh phyllaries together. An uncertain plant stays Erigeron sp.",
+  "key_traits": [
+    {
+      "label": "Root",
+      "text": "Woody perennial taproot and persistent basal stems"
+    },
+    {
+      "label": "Head",
+      "text": "About 24-65, occasionally 170, rays 4-7 mm (sometimes 11 mm); involucre 3-4.5 mm"
+    },
+    {
+      "label": "Habit",
+      "text": "Early growth may have one large head; late growth often many smaller heads"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c0259d16ef10123ca30590413c245f227a7f8043d2d32ebc5deaa98d1f0b16d7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

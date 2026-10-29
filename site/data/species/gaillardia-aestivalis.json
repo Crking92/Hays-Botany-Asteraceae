@@ -1,0 +1,42 @@
+{
+  "id": "gaillardia-aestivalis",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia aestivalis",
+  "common_name": "Lanceleaf blanketflower",
+  "look_here_first": "Leafy-stemmed blanketflower with hairy alternate leaves and highly variable yellow/orange-brown rays that may be reduced or nearly absent.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "short-lived perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "leafy erect stems"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate hairy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves sometimes clasping"
+    },
+    {
+      "label": "Identification",
+      "text": "variable rays"
+    },
+    {
+      "label": "Identification",
+      "text": "reddish-brown disc"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d545cee312795fa4174285ed79e5be353c0362bd8a5318fe696a86629c003cab",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

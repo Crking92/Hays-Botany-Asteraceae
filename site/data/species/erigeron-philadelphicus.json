@@ -1,0 +1,58 @@
+{
+  "id": "erigeron-philadelphicus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron philadelphicus",
+  "common_name": "Philadelphia fleabane",
+  "look_here_first": "LOOK HERE FIRST: check a leafy flowering stem, NOT flower color alone. (1) The UPPER stem leaves are ALTERNATE with broadened bases usually clasping to AURICULATE-CLASPING (small ear-like lobes wrapped around the stem). (2) Lower leaves may be relatively broad, unevenly crenate/serrate or lobed; basal foliage sometimes persists but may wither. (3) Stems often have longer spreading hairs lower down, becoming more appressed upward. (4) Small showy heads with exceptionally MANY thin white or pinkish ray florets (FNA 150–250, occasionally up to 400) around a yellow disc; involucre about 4–6 mm high. For comparison, E. strigosus typically has narrower, NONCLASPING upper leaves and often fewer (~50–100) rays; E. canadensis bears many much smaller inconspicuously-rayed heads. Confirm using leaf insertion and fresh head, not pink versus white alone.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual, biennial or short-lived perennial, 4–80 cm typical; fibrous rooted with a simple crown (FNA). Root structure cannot be verified from the existing main gallery."
+    },
+    {
+      "label": "Stems",
+      "text": "Erect, leafy, often spreading-hairy toward base (hirsute-villous), upper parts more sparsely hairy/appressed. May be minutely glandular; inspect with hand lens rather than inferring hair angles from a flower-only picture."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Basal and alternate cauline (stem) leaves; lower leaves often obovate to oblanceolate, 3–11 cm usually, sometimes larger. Lower edges scalloped (crenate), sharply toothed (serrate), or even lobed."
+    },
+    {
+      "label": "Leaf attachment",
+      "text": "Stem leaf bases typically CLASPING to AURICULATE-CLASPING, meaning a broadened base and small ear-shaped lobes wrapping partly around the stem; high-value separator from usually nonclasping E. strigosus. In current leafy linked source the meeting point is visible, but whether fully clasped is partially obscured by overlap."
+    },
+    {
+      "label": "Leaf hairs",
+      "text": "Basal leaves sparsely to densely hairy, upper leaves variably hairy; stem hairs can spread lower down. Hair directions vary along the stem, so never assert all hair is spreading."
+    },
+    {
+      "label": "Flowerheads",
+      "text": "(1–)3–35 heads usually arranged in a rather loose flattish-topped cluster near upper stem. Each head has 150–250 (rarely up to 400) very slender white or pale pink rays, each about 5–10 mm long, surrounding yellow central disc florets."
+    },
+    {
+      "label": "Involucre",
+      "text": "Green cup of overlapping phyllaries under head; FNA dimensions 4–6 mm high by 6–15 mm across. Existing backlit side-source shows outline; no mm reference in photo."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small one-seeded cypsela ~0.6–1.1 mm, with distinct outer pappus setae and inner 15–20 (occasionally to 30) bristles. No fruit macro measured or arrows installed."
+    },
+    {
+      "label": "Ecology",
+      "text": "Occurs in moist to moderately disturbed meadows, roadsides, open lawns and riparian margins; local native-zone certification intentionally not assessed in this finished-card pass."
+    },
+    {
+      "label": "Variation",
+      "text": "White, pale lavender, and pink rays occur; near-white flowering plants can still be this species. Leaf-base and stem/flower characters in combination matter more than rays' tint."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "419221a6211757a733e04310db4020d3139ff8d3243dd6eaa7d4f9b6a4332b37",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

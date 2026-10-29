@@ -1,0 +1,50 @@
+{
+  "id": "gaillardia-amblyodon",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia amblyodon",
+  "common_name": "Maroon Blanketflower / Narrow Blanketflower",
+  "look_here_first": "Start with ray color. Maroon blanketflower is an annual with leafy branching stems and heads carrying dark maroon-red to purple rays, usually without the bright yellow tips common in G. pulchella.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "taprooted"
+    },
+    {
+      "label": "Identification",
+      "text": "leafy branching stems"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate oblanceolate to spatulate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dark red to maroon or purple rays"
+    },
+    {
+      "label": "Identification",
+      "text": "ray tips 3-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "disk florets yellow to dark red with purple tips"
+    },
+    {
+      "label": "Identification",
+      "text": "open sandy or rocky sites"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "G. pulchella usually has conspicuous yellow-tipped red rays; G. amblyodon is much more uniformly maroon/red. G. suavis is perennial and scapose with rays often reduced or absent."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7a91ebe1392de0a14b03c7ae8b38e6b5910fe07a191b4fc3a49c393d88cd359d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

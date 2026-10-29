@@ -1,0 +1,17 @@
+{
+  "id": "eriophyllum-lanatum",
+  "family": "Asteraceae",
+  "genus": "Eriophyllum",
+  "scientific_name": "Eriophyllum lanatum",
+  "common_name": "Oregon sunshine",
+  "look_here_first": "Inspect woolly or whitish leaves and yellow daisy-like flower heads; check leaf dissection and phyllaries to separate look-alike asters.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "47aec55e2f6807c667e859ebb41441833fe85f975751880b4a518463fbcf4ac0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

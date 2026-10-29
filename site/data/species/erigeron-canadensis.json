@@ -1,0 +1,70 @@
+{
+  "id": "erigeron-canadensis",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron canadensis",
+  "common_name": "Horseweed",
+  "look_here_first": "LOOK HERE FIRST: SEASONAL SEQUENCE. (1) Autumn/winter flat rosette of elongated, often unevenly TOOTHED lower leaves; (2) one erect leafy stem with many NARROW, ALTERNATE, sessile stem leaves, smaller toward tip; (3) large upper panicle of numerous TINY greenish capitula, with an involucre ~3–4 mm LONG and rays usually too short to see without a hand lens; (4) white fluffy pappus as fruits mature. Compare a rooted plant and actual flowering heads before confirming an ambiguous rosette. No bright yellow goldenrod plume.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual or winter annual, commonly from a small taproot, overwintering flat rosette before bolting; not a long-lived basal clump."
+    },
+    {
+      "label": "Basal",
+      "text": "Early leaves spatulate to oblanceolate, often shallow teeth, up to ~10 cm; basal leaves often shrivel as plant flowers."
+    },
+    {
+      "label": "Stem",
+      "text": "One generally straight, unbranched lower stem, leafy with many narrow alternate sessile leaves. Branches concentrated near the TOP in a loose tapering panicle (not grass spike or yellow goldenrod raceme)."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, linear to narrowly oblanceolate, lower 20–50(-100) × 4–10(-15) mm, upper progressively narrower, edges sometimes toothed or ciliate with stiff marginal hairs; surfaces often almost smooth except veins."
+    },
+    {
+      "label": "Heads",
+      "text": "Many tiny heads in a terminal panicle; the INVOLUCRE (the bract cup beneath one head) is about 3–4 mm LONG, not necessarily a 3–4 mm diameter for the full head. Marginal very short white or pinkish ray-floret tips ~0.5–1 mm usually hard to see without magnification; central tubular florets present. Distinguish fresh flowers from ripe silky pappus."
+    },
+    {
+      "label": "Fruit",
+      "text": "Dry one-seeded cypsela ~1–1.5 mm with one ring of fine white pappus bristles usually ~2–3 mm; wind distributed."
+    },
+    {
+      "label": "Site",
+      "text": "Disturbed open ground, roadsides, empty beds, old fields, turf gaps, margins. Disturbance-tolerant early successional plant, but not by itself a determination of native-zone certification."
+    },
+    {
+      "label": "Variation",
+      "text": "Flower heads and stems vary with age, drought and site; non-native-looking labels on overseas photographs describe local status abroad, not species' North American origin."
+    },
+    {
+      "label": "Identification",
+      "text": "Early basal TOOTHED rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow ALTERNATE stem leaves and single central stem"
+    },
+    {
+      "label": "Identification",
+      "text": "pyramid of MANY very small whitish heads (not a yellow display)"
+    },
+    {
+      "label": "Identification",
+      "text": "minute inconspicuous rays"
+    },
+    {
+      "label": "Identification",
+      "text": "white fuzzy pappus after seed maturation"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "416d026424b9e17d1ec0b12e1dd9d01d9e5f2debfee5e2c8ec2a0d099f7d510a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

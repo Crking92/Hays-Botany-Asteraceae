@@ -1,0 +1,58 @@
+{
+  "id": "coreopsis-tinctoria",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis tinctoria",
+  "common_name": "Plains Coreopsis",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect branching herb, often somewhat taller/coarser than C. basalis."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite below, dissected into many narrow threadlike segments."
+    },
+    {
+      "label": "Heads",
+      "text": "Showy yellow rays with broad maroon to reddish-brown bases; disks dark."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Outer bracts often spreading beneath a broader inner involucre."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae flat with short awns."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual, usually branched with opposite lower leaves divided into very narrow linear/threadlike segments."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow rays frequently have dark reddish-brown basal patches, but patch extent varies and cannot alone distinguish the species."
+    },
+    {
+      "label": "Identification",
+      "text": "Inspect mature head underside: outer involucral bracts and inner bracts, plus flat cypselae, to distinguish from similar annual Coreopsis."
+    },
+    {
+      "label": "Identification",
+      "text": "Compare Coreopsis basalis: often broader leaf segments and differing head/fruit characters; use paired measured leaves and phyllary/fruit photos rather than petal coloration alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9a0873b4680da8b428f978da3ffca3349fda25d43fbdb4b9029536ff25478331",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

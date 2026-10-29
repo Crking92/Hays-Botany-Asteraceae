@@ -1,0 +1,70 @@
+{
+  "id": "helianthus-maximiliani",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
+  "scientific_name": "Helianthus maximiliani",
+  "common_name": "Maximilian Sunflower",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Rhizomatous perennial; often persists as a colony or patch with multiple shoots in successive seasons."
+    },
+    {
+      "label": "Habit",
+      "text": "Tall upright, usually rough-hairy stems, with leaves numerous along the stem; branching and height vary."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Mostly alternate along the stem; a few lower nodes may be opposite or subopposite. Arrangement alone is not a clean separator from H. annuus."
+    },
+    {
+      "label": "Leaves",
+      "text": "Long narrow lanceolate blades (commonly ca. 10–30 × 2–5.5 cm), usually folded upward along the midrib (conduplicate) and curving/arching outward or downward; margins usually entire, occasionally finely toothed."
+    },
+    {
+      "label": "Leaf venation",
+      "text": "One dominant visible midvein, often producing a trough- or V-shaped blade; contrast broad commonly 3-basal-veined H. annuus."
+    },
+    {
+      "label": "Leaf attachment",
+      "text": "Sessile or short-petioled, typically 0–2 cm; inspect a node and compare with the obvious petiole of annual sunflower."
+    },
+    {
+      "label": "Heads",
+      "text": "Usually 3–15 yellow-rayed heads, often spaced up the upper stem in a long raceme- or spike-like pattern, rather than just a terminal branching spray."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Long narrow lanceolate bracts (ca. 2–3 mm wide), narrowing gradually into thin, long-attenuate tips; inspect mature head sides and undersides."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small flattened cypselas with paired scales/awns; not a reliable split from H. annuus."
+    },
+    {
+      "label": "Identification",
+      "text": "long, narrow, often folded V-shaped blade with one strong midvein"
+    },
+    {
+      "label": "Identification",
+      "text": "very short leaf stalk or sessile insertion; often nearly untoothed margins"
+    },
+    {
+      "label": "Identification",
+      "text": "upright rhizomatous perennial, often forming colonies"
+    },
+    {
+      "label": "Identification",
+      "text": "long slender gradually tapering phyllaries beneath heads"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b7e8b0b2d25918e5f8ac175320eb33803fe3c9d7e0d05b4f9c8f71b112d75dd6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "helenium-amarum",
+  "family": "Asteraceae",
+  "genus": "Helenium",
+  "scientific_name": "Helenium amarum",
+  "common_name": "Bitter Sneezeweed",
+  "look_here_first": "Check the stem before the flower head. Bitter sneezeweed is the B028 species with stems that are ridged but NOT winged. Then confirm the very narrow linear leaves and numerous small yellow heads. Variety-level support: var. amarum usually has yellow disc lobes, while var. badium has dark brown to purplish disc lobes.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Much-branched herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, narrow to oblanceolate, mostly entire, often clasping or sessile."
+    },
+    {
+      "label": "Heads",
+      "text": "Numerous small heads; rays short, often 3-lobed at the tip and drooping; disk yellow becoming more convex."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Appressed to slightly spreading, in several series."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with small scales and often minute awns."
+    },
+    {
+      "label": "Identification",
+      "text": "annual, taprooted, often bushy-branched"
+    },
+    {
+      "label": "Identification",
+      "text": "stems ridged/striated but not winged by decurrent leaf tissue"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves numerous, alternate and very narrow linear to threadlike; lower early leaves may be dissected"
+    },
+    {
+      "label": "Identification",
+      "text": "heads numerous and relatively small"
+    },
+    {
+      "label": "Identification",
+      "text": "rays usually 8–10, yellow and often reflexed/drooping"
+    },
+    {
+      "label": "Identification",
+      "text": "disc subglobose to globose"
+    },
+    {
+      "label": "Identification",
+      "text": "var. amarum: disc flowers/lobes yellow; more eastern/central Texas pattern"
+    },
+    {
+      "label": "Identification",
+      "text": "var. badium: distal disc lobes brown to purplish; more western/central Texas pattern"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5668e47f8b2a61554e97dfbe71716d515b883fde7f2a6c7e425efe672f36cfb9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

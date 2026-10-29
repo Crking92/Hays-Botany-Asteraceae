@@ -1,0 +1,38 @@
+{
+  "id": "grindelia-ciliata",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "scientific_name": "Grindelia ciliata",
+  "common_name": "Spanish gold / waxed goldenweed",
+  "look_here_first": "Inspect the resinous head, stem surface, and mature cypsela: yellow rays around a disk, serrate leaves clasping the stem, glabrous-to-nearly-glabrous gland-dotted stems, and a pappus with numerous bristles. Do not identify from yellow color alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Annual herb with branching flowering stems; inspect base and mature shoots."
+    },
+    {
+      "label": "Identification",
+      "text": "Alternate, toothed, sessile-to-clasping leaves; resin dots often visible."
+    },
+    {
+      "label": "Identification",
+      "text": "Radiate yellow heads with sticky involucral phyllaries."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems largely glabrous apart from resin glands; compare hairiness directly."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature fruit with multiple pappus bristles; magnification useful."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "376509ac0e1e00d69ab488719e1842ef54c94c7ba1bf019f7c74ef75b9ac950f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

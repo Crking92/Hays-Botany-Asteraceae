@@ -1,0 +1,50 @@
+{
+  "id": "gaillardia-suavis",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia suavis",
+  "common_name": "Fragrant Gaillardia / Pincushion Daisy / Perfumeballs",
+  "look_here_first": "Start with the long naked flower stalk and perfume. Fragrant gaillardia is a taprooted perennial with a basal rosette, very long mostly leafless peduncles, fragrant heads, and rays that may be tiny or completely absent, leaving a pincushion-like purple-brown disk.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "taprooted perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuous basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "long scapose mostly leafless peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "fragrant flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "rays variable from present to nearly absent"
+    },
+    {
+      "label": "Identification",
+      "text": "disc purple-brown to reddish"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves mostly basal and spatulate to oblanceolate"
+    },
+    {
+      "label": "Identification",
+      "text": "dry limestone or sandy prairie habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Unlike G. pulchella and G. amblyodon, the flowering stalks are much more scapose and rays may be absent. Unlike G. aestivalis, foliage is concentrated basally rather than distributed strongly along leafy stems."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "49debac00ef1fb2f8cc193ed71fae85ce36f580922ddbfc44e2ae4947e3446fa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

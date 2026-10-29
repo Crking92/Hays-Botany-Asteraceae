@@ -1,0 +1,17 @@
+{
+  "id": "hymenopappus-tenuifolius",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
+  "scientific_name": "Hymenopappus tenuifolius",
+  "common_name": "Chalk Hill Hymenopappus",
+  "look_here_first": "Inspect finely divided narrow leaves and clustered pale disk-only composite flower heads; look closely at the phyllaries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a948eee942e9e4d779caf1c340ea38339ce5931480b068bd66b0db590c9cff59",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

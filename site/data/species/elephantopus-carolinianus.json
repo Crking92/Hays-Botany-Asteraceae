@@ -1,0 +1,17 @@
+{
+  "id": "elephantopus-carolinianus",
+  "family": "Asteraceae",
+  "genus": "Elephantopus",
+  "scientific_name": "Elephantopus carolinianus",
+  "common_name": "leafy elephant's-foot",
+  "look_here_first": "Look for broad basal leaves and terminal clusters of small composite heads; inspect three-lobed florets and the surrounding phyllaries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5377f624fa1418cb2aaa7ceed7b22b768e3b6e726831f0c305c27ce6f797e27c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

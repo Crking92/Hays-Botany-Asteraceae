@@ -1,0 +1,50 @@
+{
+  "id": "erigeron-strigosus",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron strigosus",
+  "common_name": "Prairie fleabane",
+  "look_here_first": "LOOK HERE FIRST: in bloom, look for numerous small white-rayed, yellow-centered daisy heads (typically 50–100 narrow ray florets), ALTERNATE narrow upper stem leaves gradually getting shorter upward, and fine hairs lying mostly against/pointing up the stem (STRIGOSE). Look for persistent basal leaves. But don't identify on white flowers or 'untoothed leaves' alone: leaf margins can be entire OR toothed and E. annuus overlaps. Check leaf BASE: E. philadelphicus commonly clasps the stem, unlike the usually nonclasping stem leaves of E. strigosus. Horseweed E. canadensis has numerous MUCH smaller, almost rayless-looking fresh heads.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect/ascending annual, biennial or short-lived perennial; about 30–70 cm typically. Depending on variety, a simple fibrous-rooted crown or short rhizomes/basal tufts may occur. Do not force a single life cycle in Central Texas."
+    },
+    {
+      "label": "Leaves",
+      "text": "Lower leaves often persist into flowering; basal spatulate to oblanceolate/linear, taper toward base. Alternate stem leaves generally narrow, gradually reduced toward branching top. Margins VARIABLE — entire, shallowly crenate or genuinely serrate. Leaf-only rule not decisive."
+    },
+    {
+      "label": "Leaf base",
+      "text": "Usually nonclasping upper leaves, in contrast to often auriculate/clasping E. philadelphicus. Take a true leaf-node side macro before using as firm species key."
+    },
+    {
+      "label": "Stems hairs",
+      "text": "Fine, typically upward-leaning/appressed strigose hairs (sometimes more spreading), versus often conspicuous spreading hairs on E. annuus. Hair direction needs a SHARP lateral close-up and is NOT verifiable from the installed photograph."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Numerous composite flower heads in a loose corymb-like to panicle-like branching array; bright yellow central disc florets and many narrow white (rarely pinkish/bluish) ray florets; ray lamina typically 4–6 mm; involucre ~2–4 mm HIGH by ~5–12 mm wide in FNA. Actual whole-head width varies; do not call involucre height head diameter."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "2–4 overlapping ranks of narrow involucral bracts; pubescence varies. Need a sharp side image with a millimeter ruler; not shown sufficiently in existing site photo."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with different pappus pattern between ray and disc fruits (FNA); individual mature fruits and outer corona not photographed at usable scale here. Fruit macros especially useful with E. tenuis and strigosus complex."
+    },
+    {
+      "label": "Confusion",
+      "text": "E. strigosus is variable and has recognized infraspecific taxa in FNA, including calcicolous types. None of the single source photos independently verifies a variety or Hays County population."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9173deb4ed2edf153b6b8e392407293703f5cf02c64afdce1aab05fe2e94d252",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

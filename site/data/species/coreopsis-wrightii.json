@@ -1,0 +1,46 @@
+{
+  "id": "coreopsis-wrightii",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis wrightii",
+  "common_name": "Rock Tickseed / Wright's Coreopsis",
+  "look_here_first": "Start with life cycle, foliage, and ray pattern. Rock tickseed is an annual with narrow linear leaves and slender branching stems; the yellow ray florets usually carry rusty-red/brown color at the base.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "erect, much-branched slender habit"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow ray florets with rusty-red to maroon basal markings"
+    },
+    {
+      "label": "Identification",
+      "text": "ray tips 3-toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow-brown disk"
+    },
+    {
+      "label": "Identification",
+      "text": "calcareous or sandy prairie/roadside habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with C. basalis, C. wrightii is generally narrower-leaved and often more slender, with the classic yellow rays carrying basal reddish-brown marks. Because older floras merge the taxa, final ID should use a full character set rather than ray color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d75a17a4d12d57cc4a476d7ec20ad30c7601d055f593ce830648fb19b87e8a74",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

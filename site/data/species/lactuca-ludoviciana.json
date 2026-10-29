@@ -1,0 +1,17 @@
+{
+  "id": "lactuca-ludoviciana",
+  "family": "Asteraceae",
+  "genus": "Lactuca",
+  "scientific_name": "Lactuca ludoviciana",
+  "common_name": "Western wild lettuce",
+  "look_here_first": "Look for leafy, erect wild lettuce with milky latex and branching heads of strap-shaped florets; check leaf shape, basal clasping lobes and fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "521bcdf3894ac17a0233e3a859e37610a8f099c2f069cea7cc459cef4bd1c6f0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

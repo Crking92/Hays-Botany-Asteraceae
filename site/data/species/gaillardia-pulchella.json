@@ -1,0 +1,62 @@
+{
+  "id": "gaillardia-pulchella",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
+  "scientific_name": "Gaillardia pulchella",
+  "common_name": "Indian Blanket",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual or short-lived perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect branched herb, often hairy."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, mostly entire to lobed, hairy; lower leaves often spoon-shaped or lobed."
+    },
+    {
+      "label": "Heads",
+      "text": "Large showy heads with red/maroon-centered rays tipped yellow; disk reddish to purplish."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "In several series, often spreading or reflexed, sometimes somewhat leafy."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with a pappus of scales/aristate awns."
+    },
+    {
+      "label": "Identification",
+      "text": "red-and-yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "hairy foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "showy blanketflower look"
+    },
+    {
+      "label": "Identification",
+      "text": "flip the head over and inspect the spreading/reflexed phyllaries"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey physically flips a Gaillardia pulchella head over in the Edwards Plateau video and points out the elongated, spiky phyllaries—an especially useful structural cue beyond flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "06bda8b38165d12a73b8ac9059daaa233819b83181be0cc4d2f712de5bc08b28",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

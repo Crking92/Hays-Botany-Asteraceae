@@ -1,0 +1,42 @@
+{
+  "id": "grindelia-adenodonta",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
+  "scientific_name": "Grindelia adenodonta",
+  "common_name": "Lonestar gumweed",
+  "look_here_first": "Inspect the yellow flower head and sticky involucral bracts (phyllaries), then the stems: yellow ray florets surround a disk; many phyllary tips hook or curve back; stems are noticeably hairy/glandular. Check serrate leaves clasping the stem.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Herbaceous gumweed; confirm longevity on mature plants rather than relying on habit alone."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow ray florets present around yellow disk florets (radiate head)."
+    },
+    {
+      "label": "Identification",
+      "text": "Numerous phyllaries with hooked/recurved resinous tips."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems visibly hairy or glandular-hairy, especially toward the heads."
+    },
+    {
+      "label": "Identification",
+      "text": "Alternate serrate leaves with sessile/clasping bases."
+    },
+    {
+      "label": "Identification",
+      "text": "Sticky/resinous head, characteristic of Grindelia."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5cfb244b28b16dac04a041a403d218776b9b053fcb6c4a3e8d213e7f7d5b433c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

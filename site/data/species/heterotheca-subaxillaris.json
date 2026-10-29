@@ -1,0 +1,38 @@
+{
+  "id": "heterotheca-subaxillaris",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
+  "scientific_name": "Heterotheca subaxillaris",
+  "common_name": "Camphorweed",
+  "look_here_first": "Look for alternate, hairy and often glandular leaves; frequently subclasping upper leaves; branching yellow ray-and-disk flower heads. Inspect side of heads for glandular phyllaries and the coarse hairs at their tips; scent alone is unreliable.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Aromatic, branching, taprooted annual or biennial; stem sparsely to densely spreading-hairy and glandular."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, lower leaves often petiolate and upper leaves sessile and sometimes partly clasping; variable ovate to lanceolate, toothed or nearly entire; check multiple mid and upper leaves."
+    },
+    {
+      "label": "Heads",
+      "text": "Yellow ligulate ray florets and yellow tubular disk florets; side-view involucre with glandular and hairy phyllaries."
+    },
+    {
+      "label": "Subspecies",
+      "text": "FNA separates subsp. subaxillaris by a terminal tuft of coarse hairs on outer/mid phyllaries (often 6–28) versus subsp. latifolia without distinct tuft (occasionally 1–2 hairs); geography and season matter."
+    },
+    {
+      "label": "Fruit",
+      "text": "Ray and disk cypselae can differ; macro/microscopic examination for final polish."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e3f38785edd893844d1b5b38e13f782300d3ca18bd15177ca2011f39a57de170",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

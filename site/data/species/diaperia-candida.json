@@ -1,0 +1,17 @@
+{
+  "id": "diaperia-candida",
+  "family": "Asteraceae",
+  "genus": "Diaperia",
+  "scientific_name": "Diaperia candida",
+  "common_name": "Silver dwarf cudweed",
+  "look_here_first": "Inspect the dense whitish wool on the low plant and its clustered inconspicuous flower heads; confirm the heads under magnification.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fb191201215559040509cf8d65d4eb1c8b61b01cd00fac5c35004b93d0931ee4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

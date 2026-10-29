@@ -1,0 +1,17 @@
+{
+  "id": "heterotheca-canescens",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
+  "scientific_name": "Heterotheca canescens",
+  "common_name": "Hoary goldenaster",
+  "look_here_first": "Look at the densely silvery-hairy narrow alternate leaves and closely inspect the overlapping phyllaries under each yellow head.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ac5b7b6f66951967201bcbc8b5a22e91888d6a6d849ec9ca4277f4535a66552",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

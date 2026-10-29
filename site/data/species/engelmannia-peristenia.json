@@ -1,0 +1,58 @@
+{
+  "id": "engelmannia-peristenia",
+  "family": "Asteraceae",
+  "genus": "Engelmannia",
+  "scientific_name": "Engelmannia peristenia",
+  "common_name": "Engelmann’s Daisy",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Basal rosette or low crown sending up long flowering stalks."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly basal to lower cauline, deeply pinnatifid to pinnate-lobed; rough or hairy."
+    },
+    {
+      "label": "Heads",
+      "text": "Yellow rays surrounding yellow disks; heads solitary or few on long peduncles."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "In several series, green, often appressed."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae flattened with reduced pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "basal-lobed leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "long naked peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "classic yellow daisy heads"
+    },
+    {
+      "label": "Identification",
+      "text": "perennial clump"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1c6344e7a7d4ecc7595f51f8e693474fe084361b9bf6d4e28b3653af5d74b6c4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

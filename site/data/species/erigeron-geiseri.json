@@ -1,0 +1,30 @@
+{
+  "id": "erigeron-geiseri",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
+  "scientific_name": "Erigeron geiseri",
+  "common_name": "Geiser's fleabane",
+  "look_here_first": "LOOK HERE FIRST: Geiser's fleabane is a SMALL annual (5–40 cm) with a SLENDER TAPROOT and generally simple herbaceous base. Basal foliage may have 2–4 pairs of teeth or lobes. Lower stem hairs often spread or bend DOWNWARD while upper hairs are straighter/appressed; fresh white-rayed heads have usually 44–70 rays, 3–6 mm long. It is NOT a perennial woody-crown plant like mature E. modestus. Taproot/hair characters are field-key requirements, not fully proved in existing photos.",
+  "key_traits": [
+    {
+      "label": "Root",
+      "text": "Annual slender taproot"
+    },
+    {
+      "label": "Stem hairs",
+      "text": "Lower spreading or deflexed; upper strigose"
+    },
+    {
+      "label": "Head",
+      "text": "About 44 to 70 rays, 3 to 6 mm long; involucre 2.5 to 3.5 mm high"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2fe337fccb9c27e0a9a95efa215a3ff273a83c36d477b56eac8b264087f66898",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
