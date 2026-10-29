@@ -1,3 +1,3 @@
-# Asteraceae photo release: strict Creative Commons subset
+# Asteraceae existing-source public photo release
 
-This photo-gallery release includes **153** original-source verified photographs with their individual authors, source links and CC terms. Source files are resized, EXIF-stripped and credited; there are no NC-only, site-specific, private-review-only, or unknown-rights photo files in the website output. The remaining original photos and complete legacy botanical records are preserved unchanged in the collection's staging source. Photo and arrow completeness are separate from website source license clearance.
+162 individually source-credited public-domain or strict CC photographs across 116 of 180 species. An additional 9 previously migrated source photos were published in this pass. 366 historical photo records remain held with their reasons recorded in existing-photo-source-sweep-report.json. No new images were downloaded or harvested; all existing source files and original hub records are preserved.

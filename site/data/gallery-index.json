@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 112,
-  "photo_count": 153,
+  "photo_species": 116,
+  "photo_count": 162,
   "entries": {
     "achillea-millefolium": {
       "count": 2,
@@ -14,8 +14,8 @@
       "first_src": "media/acmella-repens/01.jpg"
     },
     "acourtia-runcinata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/acourtia-runcinata/source-8c1197fba695.jpg"
     },
     "acourtia-wrightii": {
       "count": 3,
@@ -126,8 +126,8 @@
       "first_src": "media/carphochaete-bigelovii/01.jpg"
     },
     "carthamus-tinctorius": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/carthamus-tinctorius/source-81139425ef47.jpg"
     },
     "centaurea-cyanus": {
       "count": 1,
@@ -170,7 +170,7 @@
       "first_src": "media/chrysactinia-mexicana/01.jpg"
     },
     "cirsium-horridulum": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/cirsium-horridulum/01.jpg"
     },
     "cirsium-ochrocentrum": {
@@ -190,12 +190,12 @@
       "first_src": "media/cirsium-vulgare/01.jpg"
     },
     "conoclinium-coelestinum": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/conoclinium-coelestinum/01.jpg"
     },
     "conoclinium-dissectum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/conoclinium-dissectum/source-afd69752e969.jpg"
     },
     "coreopsis-basalis": {
       "count": 0,
@@ -250,7 +250,7 @@
       "first_src": "media/ericameria-nauseosa/01.jpg"
     },
     "erigeron-canadensis": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/erigeron-canadensis/01.jpg"
     },
     "erigeron-geiseri": {
@@ -334,8 +334,8 @@
       "first_src": "media/helenium-autumnale/01.jpg"
     },
     "helenium-elegans": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/helenium-elegans/source-656000b30bc7.jpg"
     },
     "helenium-quadridentatum": {
       "count": 0,
@@ -538,7 +538,7 @@
       "first_src": "media/sidneya-tenuifolia/01.jpg"
     },
     "silphium-albiflorum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/silphium-albiflorum/01.jpg"
     },
     "silphium-laciniatum": {
@@ -694,7 +694,7 @@
       "first_src": null
     },
     "verbesina-virginica": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/verbesina-virginica/01.jpg"
     },
     "vernonia-baldwinii": {

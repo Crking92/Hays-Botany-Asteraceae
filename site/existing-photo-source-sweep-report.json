@@ -1,0 +1,1778 @@
+{
+  "status": "PASS_EXISTING_SOURCE_CC_PHOTO_BACKFILL",
+  "source_media_records": 477,
+  "newly_archived_original_cc_photo_copies": 9,
+  "original_approved_photos_already_covered": 102,
+  "total_published_photo_copies": 162,
+  "total_photographed_species": 116,
+  "remaining_held_source_records": 366,
+  "hold_reason_counts": {
+    "license_not_strict_cc_or_public_domain": 305,
+    "remote_or_invalid_original_path": 29,
+    "public_permission_not_documented": 7,
+    "image_specific_source_not_public_verified": 16,
+    "source_bytes_not_in_staged_archive": 9
+  },
+  "held_by_species": {
+    "acourtia-runcinata": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "ageratina-havanensis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "amblyolepis-setigera": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "ambrosia-artemisiifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "ambrosia-psilostachya": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "ambrosia-trifida": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "amphiachyris-amoena": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "amphiachyris-dracunculoides": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "aphanostephus-riddellii": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "aphanostephus-skirrhobasis": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "arnoglossum-plantagineum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "artemisia-ludoviciana": [
+      {
+        "record": 1,
+        "reason": "public_permission_not_documented"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "artemisia-tridentata": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "baccharis-neglecta": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "baccharis-salicifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "berlandiera-betonicifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "bidens-frondosa": [
+      {
+        "record": 1,
+        "reason": "source_bytes_not_in_staged_archive"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "bidens-laevis": [
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "boltonia-diffusa": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "bradburia-hirtella": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "brickellia-cylindracea": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "brickellia-dentata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "brickellia-eupatorioides": [
+      {
+        "record": 0,
+        "reason": "source_bytes_not_in_staged_archive"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "calyptocarpus-vialis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 2,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "carphochaete-bigelovii": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "centaurea-melitensis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chaetopappa-bellidifolia": [
+      {
+        "record": 0,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chaetopappa-effusa": [
+      {
+        "record": 0,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "chaetopappa-ericoides": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chaptalia-texana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chloracantha-spinosa": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chondrilla-juncea": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "chromolaena-odorata": [
+      {
+        "record": 0,
+        "reason": "source_bytes_not_in_staged_archive"
+      },
+      {
+        "record": 1,
+        "reason": "source_bytes_not_in_staged_archive"
+      }
+    ],
+    "chrysactinia-mexicana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "cirsium-ochrocentrum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "cirsium-texanum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "cirsium-undulatum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 5,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "cirsium-vulgare": [
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 3,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "conoclinium-coelestinum": [
+      {
+        "record": 3,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "conoclinium-dissectum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "coreopsis-basalis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "coreopsis-lanceolata": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "coreopsis-tinctoria": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "coreopsis-wrightii": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "diaperia-prolifera": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "diaperia-verna": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "dysodiopsis-tagetoides": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "echinacea-angustifolia": [
+      {
+        "record": 2,
+        "reason": "source_bytes_not_in_staged_archive"
+      }
+    ],
+    "eclipta-prostrata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "elephantopus-carolinianus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "engelmannia-peristenia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 3,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 4,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "erigeron-geiseri": [
+      {
+        "record": 0,
+        "reason": "public_permission_not_documented"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "erigeron-modestus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "erigeron-philadelphicus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "erigeron-strigosus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "eupatorium-serotinum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gaillardia-aestivalis": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gaillardia-amblyodon": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gaillardia-pulchella": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gaillardia-suavis": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 5,
+        "reason": "public_permission_not_documented"
+      }
+    ],
+    "gamochaeta-purpurea": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "grindelia-adenodonta": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "grindelia-ciliata": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "grindelia-lanceolata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "grindelia-nuda": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gutierrezia-texana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "gymnosperma-glutinosum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "helenium-amarum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "helenium-elegans": [
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "helenium-quadridentatum": [
+      {
+        "record": 0,
+        "reason": "source_bytes_not_in_staged_archive"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "helianthus-annuus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 5,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 6,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "helianthus-maximiliani": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 5,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 6,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "heterotheca-canescens": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "heterotheca-stenophylla": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "heterotheca-subaxillaris": [
+      {
+        "record": 0,
+        "reason": "source_bytes_not_in_staged_archive"
+      }
+    ],
+    "hymenopappus-artemisiifolius": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "hymenopappus-scabiosaeus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "hymenopappus-scabiosaeus-var-corymbosus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "hymenopappus-tenuifolius": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "iva-annua": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "iva-asperifolia-var-angustifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "krigia-occidentalis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "laphamia-lindheimeri": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "leontodon-rhagadioloides": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "liatris-punctata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "lindheimera-texana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "lygodesmia-texana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "marshallia-caespitosa": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "melampodium-leucanthum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "packera-tampicana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "palafoxia-callosa": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "parthenium-confertum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "pectis-angustifolia-var-fastigiata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "plectocephalus-americanus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "pluchea-camphorata": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "public_permission_not_documented"
+      },
+      {
+        "record": 4,
+        "reason": "public_permission_not_documented"
+      }
+    ],
+    "pluchea-odorata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "porophyllum-scoparium": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "pseudognaphalium-canescens": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "pyrrhopappus-carolinianus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "pyrrhopappus-grandiflorus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "ratibida-columnifera": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "rudbeckia-amplexicaulis": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "rudbeckia-hirta": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "source_bytes_not_in_staged_archive"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "rudbeckia-maxima": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "senecio-ampullaceus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "sideranthus-spinulosus": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "sidneya-tenuifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "silphium-albiflorum": [
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "silphium-laciniatum": [
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "public_permission_not_documented"
+      }
+    ],
+    "silphium-radula": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "silybum-marianum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "simsia-calva": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-altissima": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-canadensis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-gigantea": [
+      {
+        "record": 1,
+        "reason": "source_bytes_not_in_staged_archive"
+      }
+    ],
+    "solidago-juliae": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "public_permission_not_documented"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-mexicana": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-nemoralis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "solidago-radula": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "solidago-rugosa": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "sphagneticola-trilobata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-divaricatum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-drummondii": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-ericoides": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      }
+    ],
+    "symphyotrichum-eulae": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-lanceolatum-subsp-lanceolatum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-oblongifolium": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-patens": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-sericeum": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 2,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "symphyotrichum-subulatum": [
+      {
+        "record": 0,
+        "reason": "remote_or_invalid_original_path"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "tetragonotheca-texana": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "tetraneuris-acaulis": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "tetraneuris-linearifolia": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "tetraneuris-scaposa": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "thelesperma-filifolium": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "thelesperma-megapotamicum-var-ambiguum": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "thelesperma-simplicifolium": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "verbesina-encelioides": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 4,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "verbesina-lindheimeri": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "verbesina-virginica": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 3,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "vernonia-baldwinii": [
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "vernonia-lindheimeri": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 2,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "vernonia-x-guadalupensis": [
+      {
+        "record": 0,
+        "reason": "image_specific_source_not_public_verified"
+      }
+    ],
+    "viguiera-dentata": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      },
+      {
+        "record": 1,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "wedelia-acapulcensis": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ],
+    "wedelia-acapulcensis-var-hispida": [
+      {
+        "record": 0,
+        "reason": "license_not_strict_cc_or_public_domain"
+      }
+    ]
+  },
+  "new_photos_collected": 0,
+  "staging_source_preserved": true,
+  "original_legacy_learner_preserved": true,
+  "additional_existing_source_bytes": 1747236
+}
