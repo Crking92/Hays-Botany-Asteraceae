@@ -25,7 +25,22 @@
     ],
     "differences": "Gray goldenrod combines persistent gray pubescence, narrower lower foliage, and a one-sided wandlike flowering array. Rough goldenrod is more stiffly scabrous and has a more compact terminal panicle."
   },
-  "verified_photos": [],
-  "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
+  "verified_photos": [
+    {
+      "src": "media/solidago-nemoralis/source-be081c6da1c7.jpg",
+      "creator": "Alan Weakley",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/6251878248",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "be081c6da1c7725bdac6c6231f2da625bc19803a",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Exact archived GBIF photographic media URL with CC0 photo record and matching species label; no independent voucher determination."
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
