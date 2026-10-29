@@ -1,50 +1,40 @@
 {
   "id": "thelesperma-simplicifolium",
-  "family": "Asteraceae",
-  "genus": "Thelesperma",
   "scientific_name": "Thelesperma simplicifolium",
   "common_name": "Slender Greenthread / Edwards Plateau Greenthread / Navajo Tea",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
   "look_here_first": "Start with the sparse foliage and perennial habit. Slender greenthread is a slender perennial with relatively few stem leaves, lower leaves often divided into 3–5 narrow segments, upper leaves simpler and threadlike, and yellow-rayed heads on long peduncles.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "perennial"
+      "label": "Best field traits",
+      "text": "perennial; slender upright habit; few sparse stem leaves; lower leaves often divided into 3–5 narrow segments; upper leaves simpler and narrow to linear; yellow ray florets around a yellow to brownish disk; long peduncles; open dry calcareous habitat"
     },
     {
-      "label": "Identification",
-      "text": "slender upright habit"
-    },
-    {
-      "label": "Identification",
-      "text": "few sparse stem leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "lower leaves often divided into 3–5 narrow segments"
-    },
-    {
-      "label": "Identification",
-      "text": "upper leaves simpler and narrow to linear"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow ray florets around a yellow to brownish disk"
-    },
-    {
-      "label": "Identification",
-      "text": "long peduncles"
-    },
-    {
-      "label": "Identification",
-      "text": "open dry calcareous habitat"
+      "label": "Comparison training",
+      "text": "Compared with T. filifolium, T. simplicifolium is perennial and typically much more sparsely leafy, with fewer and less repeatedly divided stem leaves. T. filifolium is usually an annual with more consistently dissected threadlike foliage."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Compared with T. filifolium, T. simplicifolium is perennial and typically much more sparsely leafy, with fewer and less repeatedly divided stem leaves. T. filifolium is usually an annual with more consistently dissected threadlike foliage."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "04e463df82064599d3c21f01f943b9ea01b899f4cf1741940ff51c001a8da9eb",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/thelesperma-simplicifolium/01.jpg",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thelesperma_simplicifolium_1.jpg",
+      "role": "Whole flowering plant recognizable face",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "1a35902c9e1f2ced65e9c7a9f6cbb2b04e4bd889",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

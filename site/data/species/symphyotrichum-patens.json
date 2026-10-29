@@ -1,42 +1,38 @@
 {
   "id": "symphyotrichum-patens",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum patens",
   "common_name": "Late purple aster",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "FIRST photograph a MATURE UPPER-STEM NODE: the sessile leaf has two rounded, conspicuously HEART-SHAPED CLASPING auricles which wrap the stem. Check stiff, relatively broad upper leaves and spreading branch angles. Unlike S. oblongifolium, the leaf base is deeply cordate, not merely rounded or slightly clasping. IMPORTANT: S. patens var. patens ALSO has stalked glands, so gland presence cannot independently separate it from aromatic aster.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "perennial"
-    },
-    {
-      "label": "Identification",
-      "text": "upright hairy stems"
-    },
-    {
-      "label": "Identification",
-      "text": "rough oval-oblong leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "upper leaves often clasping"
-    },
-    {
-      "label": "Identification",
-      "text": "blue-violet rays"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow disc florets"
+      "label": "Best field traits",
+      "text": "perennial; upright hairy stems; rough oval-oblong leaves; upper leaves often clasping; blue-violet rays; yellow disc florets"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Symphyotrichum oblongifolium"
+    ],
+    "differences": "Against S. oblongifolium: look at how strongly upper leaves clasp the stem—S. patens upper leaves are truly cordate-amplexicaul/auriculate, whereas S. oblongifolium has relatively short oblong leaves that are often only rounded or mildly clasping. Glandular phyllaries occur in S. patens too, with substantial varietal variation; gland presence is NOT an exclusive oblongifolium character."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "2051676902f890671da2c8658251597158f86e5b447960d00a5240ffed178be5",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/symphyotrichum-patens/01.jpg",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_patens_-_Late_Purple_Aster.jpg",
+      "role": "Flowering habit recognizable face",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d82675dfb3ad50ca4d51de3a0763730043c45419",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

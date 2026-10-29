@@ -1,9 +1,9 @@
 {
   "id": "symphyotrichum-divaricatum",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum divaricatum",
   "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "FIRST photograph the entire mature flowering array (when not recently mowed): this inland Texas annual/short-lived saltmarsh aster has VERY OPEN, diffuse, wiry branching with wide negative space between many small heads. Check mostly sessile narrow linear leaves, near-hairless stems and taprooted base. TRUE eastern S. subulatum usually has denser, more upper-pyramidal heads in coastal/saline SE Texas. Mowing and damaged plants can distort architecture; don't use flower color or one head alone. This species is NOT Eurybia divaricata (white wood aster).",
   "key_traits": [
     {
@@ -35,36 +35,23 @@
       "text": "Narrow cypselae with pale capillary pappus bristles; fruit details secondary to habit/leaf/head architecture."
     },
     {
-      "label": "Identification",
-      "text": "NARROW linear to linear-lanceolate mostly sessile leaves, only ~1–3.5 mm wide."
+      "label": "Best field traits",
+      "text": "NARROW linear to linear-lanceolate mostly sessile leaves, only ~1–3.5 mm wide.; Very open, widely spaced inflorescence heads; large gaps between heads.; Taprooted ANNUAL to short-lived herb with slim ±glabrous grooved stems.; Small (8–20 mm) pink-lilac to pale ray heads.; S. subulatum = denser pyramidal flowering array, more southeastern coastal/saline; habitat alone cannot prove the split.; Do not confuse with Eurybia divaricata (white wood aster): perennial shade plant with broad, heart-shaped/petiolate serrate leaves."
     },
     {
-      "label": "Identification",
-      "text": "Very open, widely spaced inflorescence heads; large gaps between heads."
-    },
-    {
-      "label": "Identification",
-      "text": "Taprooted ANNUAL to short-lived herb with slim ±glabrous grooved stems."
-    },
-    {
-      "label": "Identification",
-      "text": "Small (8–20 mm) pink-lilac to pale ray heads."
-    },
-    {
-      "label": "Identification",
-      "text": "S. subulatum = denser pyramidal flowering array, more southeastern coastal/saline; habitat alone cannot prove the split."
-    },
-    {
-      "label": "Identification",
-      "text": "Do not confuse with Eurybia divaricata (white wood aster): perennial shade plant with broad, heart-shaped/petiolate serrate leaves."
+      "label": "Comparison training",
+      "text": "S. divaricatum: a very open diffuse panicle and inland Texas disturbed-ground habitat. S. subulatum under narrow true species concept: more top-dense pyramidal array, mainly Gulf/SE saline Texas. Green phyllary pigmentation is described as extending farther down bracts in divaricatum than subulatum but often not reliably photographed; hardened phyllary bases not understood well enough for novice key. Mowed specimens may have ambiguous shape. Historic subulatum var. ligulatum names correspond to current S. divaricatum."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "S. divaricatum: a very open diffuse panicle and inland Texas disturbed-ground habitat. S. subulatum under narrow true species concept: more top-dense pyramidal array, mainly Gulf/SE saline Texas. Green phyllary pigmentation is described as extending farther down bracts in divaricatum than subulatum but often not reliably photographed; hardened phyllary bases not understood well enough for novice key. Mowed specimens may have ambiguous shape. Historic subulatum var. ligulatum names correspond to current S. divaricatum."
+    "names": [
+      "Symphyotrichum subulatum",
+      "Symphyotrichum expansum",
+      "Eurybia divaricata"
+    ],
+    "differences": "Open versus relatively top-dense terminal arrays at maturity; check narrow sessile leaves, phyllary profile and habitat. Most inland Texas specimens likely divaricatum. Photo only of single flower CANNOT separate. Some old 'subulatum' specimen names from inland Texas should be re-examined before modern taxon transfer. Eurybia divaricata is unrelated broad-leaved woodland perennial."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "6e528e69013be29b9bd56a482b8d22f5d7ce19870bb17f8d648fbfca102c2ae4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

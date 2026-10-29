@@ -1,9 +1,9 @@
 {
   "id": "verbesina-lindheimeri",
-  "family": "Asteraceae",
-  "genus": "Verbesina",
   "scientific_name": "Verbesina lindheimeri",
   "common_name": "Lindheimer's crownbeard",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
   "look_here_first": "Look for an unwinged perennial stem with mostly opposite coarse leaves and a few very large yellow daisy-like heads. The opposite leaves and lack of stem wings separate it from many other Verbesina.",
   "key_traits": [
     {
@@ -11,40 +11,19 @@
       "text": "Asteraceae composite heads with yellow ray florets surrounding many yellow disc florets."
     },
     {
-      "label": "Identification",
-      "text": "herbaceous perennial"
+      "label": "Best field traits",
+      "text": "herbaceous perennial; stems not winged; leaves mostly opposite; coarse ovate to lance-ovate leaves; large solitary or few yellow heads; large ray florets around raised yellow disc; limestone slopes and juniper-oak scrub"
     },
     {
-      "label": "Identification",
-      "text": "stems not winged"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves mostly opposite"
-    },
-    {
-      "label": "Identification",
-      "text": "coarse ovate to lance-ovate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "large solitary or few yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "large ray florets around raised yellow disc"
-    },
-    {
-      "label": "Identification",
-      "text": "limestone slopes and juniper-oak scrub"
+      "label": "Comparison training",
+      "text": "Compared with Verbesina virginica, V. lindheimeri is shorter with large yellow heads and mostly opposite leaves; frostweed is taller, white-flowered, and often has winged stems."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Compared with Verbesina virginica, V. lindheimeri is shorter with large yellow heads and mostly opposite leaves; frostweed is taller, white-flowered, and often has winged stems."
+    "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "694fefd1d8dda7fc4386e6083dac702ad9d8373367ba6ad730f1973887094069",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

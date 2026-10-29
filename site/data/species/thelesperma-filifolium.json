@@ -1,9 +1,9 @@
 {
   "id": "thelesperma-filifolium",
-  "family": "Asteraceae",
-  "genus": "Thelesperma",
   "scientific_name": "Thelesperma filifolium",
   "common_name": "Stiff Greenthread",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
   "look_here_first": "",
   "key_traits": [
     {
@@ -27,20 +27,8 @@
       "text": "Involucre subtended by a calyculus of 7–8+ narrow bractlets."
     },
     {
-      "label": "Identification",
-      "text": "threadlike leaf lobes"
-    },
-    {
-      "label": "Identification",
-      "text": "8 yellow rays"
-    },
-    {
-      "label": "Identification",
-      "text": "red-brown/yellow disc"
-    },
-    {
-      "label": "Identification",
-      "text": "slender greenthread habit"
+      "label": "Best field traits",
+      "text": "threadlike leaf lobes; 8 yellow rays; red-brown/yellow disc; slender greenthread habit"
     }
   ],
   "lookalikes": {
@@ -48,7 +36,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "74ab9aed1e7640703255d5c0610ce4269afa139ee900edd4380f13c11b726062",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

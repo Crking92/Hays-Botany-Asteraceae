@@ -1,26 +1,18 @@
 {
   "id": "solidago-juliae",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago juliae",
   "common_name": "Julia's Goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "LOOK FIRST at stem HAI​RS and panicle shape, not dry habitat: Julia's goldenrod has an evenly white-soft-hairy (densely villoso-tomentose) stem, narrow 3-nerved middle leaves often 5–10 mm wide with moderately dense fine hairs, and a LONG NARROW pyramid-like branching panicle about 3–4 times longer than wide. It occurs in Edwards Plateau/Trans-Pecos grassy or open woodland sites AND along WET stream/lake edges. Site moisture alone cannot distinguish it.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "stem continuously soft white tomentose"
+      "label": "Best field traits",
+      "text": "stem continuously soft white tomentose; narrow 3-nerved pubescent leaves 5–10 mm wide; long narrow panicle 3–4 times long as broad; Edwards Plateau and Trans-Pecos population; habitats wet streams, grasslands and woodland"
     },
     {
-      "label": "Identification",
-      "text": "narrow 3-nerved pubescent leaves 5–10 mm wide"
-    },
-    {
-      "label": "Identification",
-      "text": "long narrow panicle 3–4 times long as broad"
-    },
-    {
-      "label": "Identification",
-      "text": "Edwards Plateau and Trans-Pecos population; habitats wet streams, grasslands and woodland"
+      "label": "Comparison training",
+      "text": "Compared with smoother, wetter-site S. gigantea, S. juliae is a drier-site Central/west Texas species with more visibly hairy/canescent foliage."
     },
     {
       "label": "Stem",
@@ -41,10 +33,9 @@
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Compared with smoother, wetter-site S. gigantea, S. juliae is a drier-site Central/west Texas species with more visibly hairy/canescent foliage."
+    "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "93af2e0a11af0d952d79496fafd8db6f50c8229398efb2ca4fe505c73a003049",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

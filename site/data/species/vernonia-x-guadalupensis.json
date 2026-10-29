@@ -1,9 +1,9 @@
 {
   "id": "vernonia-x-guadalupensis",
-  "family": "Asteraceae",
-  "genus": "Vernonia",
   "scientific_name": "Vernonia × guadalupensis",
   "common_name": "Guadalupe ironweed",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
   "look_here_first": "Expect an intermediate ironweed. Plants occur where western ironweed and woolly ironweed meet, with foliage, hairiness, leaf width, and head characters falling between the parents.",
   "key_traits": [
     {
@@ -11,36 +11,34 @@
       "text": "Asteraceae head made entirely of purple disc florets; no ray florets."
     },
     {
-      "label": "Identification",
-      "text": "perennial ironweed"
+      "label": "Best field traits",
+      "text": "perennial ironweed; purple discoid flower heads; intermediate leaf width and hairiness; intermediate between V. baldwinii and V. lindheimeri; often found where parent habitats meet; mature flowering material and nearby parents are important for confident ID"
     },
     {
-      "label": "Identification",
-      "text": "purple discoid flower heads"
-    },
-    {
-      "label": "Identification",
-      "text": "intermediate leaf width and hairiness"
-    },
-    {
-      "label": "Identification",
-      "text": "intermediate between V. baldwinii and V. lindheimeri"
-    },
-    {
-      "label": "Identification",
-      "text": "often found where parent habitats meet"
-    },
-    {
-      "label": "Identification",
-      "text": "mature flowering material and nearby parents are important for confident ID"
+      "label": "Comparison training",
+      "text": "Do not force intermediate ironweeds into one parent. V. lindheimeri has narrow strongly revolute leaves with dense white hairs beneath; V. baldwinii has broader less-woolly foliage. The hybrid spans the middle."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Do not force intermediate ironweeds into one parent. V. lindheimeri has narrow strongly revolute leaves with dense white hairs beneath; V. baldwinii has broader less-woolly foliage. The hybrid spans the middle."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "9cd3cbc882501781013b646a30d0773efc95cf3394f04ff153d4436ccdf22c65",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/vernonia-x-guadalupensis/01.jpg",
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/208077496",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "1315f80f7d1d7ed51a4c4b6cc85b61bfded125fa",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

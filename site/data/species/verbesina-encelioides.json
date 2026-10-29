@@ -1,9 +1,9 @@
 {
   "id": "verbesina-encelioides",
-  "family": "Asteraceae",
-  "genus": "Verbesina",
   "scientific_name": "Verbesina encelioides",
   "common_name": "Cowpen Daisy",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
   "look_here_first": "",
   "key_traits": [
     {
@@ -31,28 +31,44 @@
       "text": "Cypselae flattened, winged or margined."
     },
     {
-      "label": "Identification",
-      "text": "bright yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "gray-green hairy foliage"
-    },
-    {
-      "label": "Identification",
-      "text": "opposite lower leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "annual habit"
+      "label": "Best field traits",
+      "text": "bright yellow heads; gray-green hairy foliage; opposite lower leaves; annual habit"
     }
   ],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "3a90b0e03ef1e87ab2cd707e33df9ba5f624c0b67db99311aa751a86104e719f",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/verbesina-encelioides/01.jpg",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/595028677",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "99fcc35b16d5beacbf10a1d294b5c94c7203649e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/verbesina-encelioides/02.jpg",
+      "creator": "(c) Wes Copas, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/676248528",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "8a2b83b714aed9410e8dfe1a6769cb66e32e5a02",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,38 +1,53 @@
 {
   "id": "symphyotrichum-praealtum",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum praealtum",
   "common_name": "Willowleaf aster",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "FIRST flip a mid-stem leaf and magnify its fine netted veins: S. praealtum usually has a conspicuous pattern of small approximately equidimensional AREOLES below; above the blade is often WAXY, relatively firm, with margins sometimes rolled under (revolute). Check progressive reduction of leaves toward the flowering panicle and phyllary profile. Do NOT force ID from peduncle leafy-bract counts: FNA genus key and two species accounts disagree on opposite numbers.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Tall rhizomatous perennial often in colonies."
-    },
-    {
-      "label": "Identification",
-      "text": "Narrow lance-shaped, willow-like leaves on ascending stems; compare basal versus upper leaves."
-    },
-    {
-      "label": "Identification",
-      "text": "Broadly pyramidal, many-headed flowering inflorescence."
-    },
-    {
-      "label": "Identification",
-      "text": "Stems may show longitudinal hair lines and reddish coloration; confirm with hand lens."
-    },
-    {
-      "label": "Identification",
-      "text": "Check peduncle, phyllary series, and cypsela/pappus to exclude other tall asters."
+      "label": "Best field traits",
+      "text": "Tall rhizomatous perennial often in colonies.; Narrow lance-shaped, willow-like leaves on ascending stems; compare basal versus upper leaves.; Broadly pyramidal, many-headed flowering inflorescence.; Stems may show longitudinal hair lines and reddish coloration; confirm with hand lens.; Check peduncle, phyllary series, and cypsela/pappus to exclude other tall asters."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "Symphyotrichum oblongifolium"
+    ],
+    "differences": "Versus S. lanceolatum, praealtum has firmer, often waxy/revolute leaves and more clearly bounded approximately equal-dimension lower-surface areoles. Lanceolatum leaves usually more pliable, nonwaxy, with less distinct/elongated areoles. BRACT-COUNT conflict: FNA genus key differs from FNA species accounts. Record but do not treat as definitive without voucher."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "2e6991d03609756ab68d60f9a344c442e888353735dfe67977ef940f41004e08",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/symphyotrichum-praealtum/01.jpg",
+      "creator": "Reuven Martin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum.jpg",
+      "role": "Flowering plant; Ontario provenance (not Texas range evidence)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4aade70a51f136cbe338a449d7cbefab09fa6e09",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/symphyotrichum-praealtum/02.jpg",
+      "creator": "Reuven Martin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_praealtum_leaf.jpg",
+      "role": "Narrow willow-like leaf macro; Ontario provenance",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d8a4a6b0b283c80f9b49617f97c89b007309af27",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

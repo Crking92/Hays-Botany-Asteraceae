@@ -1,42 +1,31 @@
 {
   "id": "solidago-nemoralis",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago nemoralis",
   "common_name": "Gray goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "Start low on the plant. Gray goldenrod is comparatively short and gray-hairy, with a densely pubescent stem and narrow spatulate-to-oblanceolate lower leaves that become smaller and narrower upward. Then check the usually one-sided, wandlike/recurving flowering branches.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "usually shorter and less colony-forming than tall goldenrods"
+      "label": "Best field traits",
+      "text": "usually shorter and less colony-forming than tall goldenrods; stem densely short-hairy to gray-pubescent; lower leaves oblanceolate to spatulate and narrowed into a winged petiole; upper leaves progressively smaller and narrower; flowering array often one-sided and wandlike or recurving; common in dry open prairie, caliche, glade, old-field, and roadside settings"
     },
     {
-      "label": "Identification",
-      "text": "stem densely short-hairy to gray-pubescent"
-    },
-    {
-      "label": "Identification",
-      "text": "lower leaves oblanceolate to spatulate and narrowed into a winged petiole"
-    },
-    {
-      "label": "Identification",
-      "text": "upper leaves progressively smaller and narrower"
-    },
-    {
-      "label": "Identification",
-      "text": "flowering array often one-sided and wandlike or recurving"
-    },
-    {
-      "label": "Identification",
-      "text": "common in dry open prairie, caliche, glade, old-field, and roadside settings"
+      "label": "Comparison training",
+      "text": "Compared with Solidago radula, S. nemoralis is more gray/strigose overall and usually has a more wandlike one-sided inflorescence; S. radula is conspicuously scabrous with broader lower leaves and a more compact terminal panicle."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Compared with Solidago radula, S. nemoralis is more gray/strigose overall and usually has a more wandlike one-sided inflorescence; S. radula is conspicuously scabrous with broader lower leaves and a more compact terminal panicle."
+    "names": [
+      "Solidago altissima",
+      "Solidago canadensis",
+      "Solidago gigantea",
+      "Solidago radula",
+      "Solidago decemflora"
+    ],
+    "differences": "Gray goldenrod combines persistent gray pubescence, narrower lower foliage, and a one-sided wandlike flowering array. Rough goldenrod is more stiffly scabrous and has a more compact terminal panicle."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "8f2762af42c4a6dfb88348fdee254f4f4019e6ee1a6c84ab4ae342cc4e980f4f",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

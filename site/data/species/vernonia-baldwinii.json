@@ -1,38 +1,43 @@
 {
   "id": "vernonia-baldwinii",
-  "family": "Asteraceae",
-  "genus": "Vernonia",
   "scientific_name": "Vernonia baldwinii",
   "common_name": "Western ironweed",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
   "look_here_first": "Tall robust ironweed with broader rough leaves and broad terminal arrays of purple discoid heads. Leaves are much broader than in V. lindheimeri.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "tall robust ironweed"
+      "label": "Best field traits",
+      "text": "tall robust ironweed; broad ovate to lance-ovate rough leaves; hairy/tomentose lower leaf surfaces; broad flattened to irregular terminal arrays; purple discoid heads with no rays"
     },
     {
-      "label": "Identification",
-      "text": "broad ovate to lance-ovate rough leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "hairy/tomentose lower leaf surfaces"
-    },
-    {
-      "label": "Identification",
-      "text": "broad flattened to irregular terminal arrays"
-    },
-    {
-      "label": "Identification",
-      "text": "purple discoid heads with no rays"
+      "label": "Comparison training",
+      "text": "V. lindheimeri is much narrower-leaved with strongly revolute margins and densely woolly lower surfaces."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "V. lindheimeri is much narrower-leaved with strongly revolute margins and densely woolly lower surfaces."
+    "names": [
+      "Vernonia lindheimeri",
+      "Vernonia × guadalupensis"
+    ],
+    "differences": "Broad leaves favor V. baldwinii; intermediate plants may be hybrid and should not be forced to a parent."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "badf675ce4af6277aa0d5f41f6d1a47b6e8d7b51c0577b2d685c1ae0b25631de",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/vernonia-baldwinii/01.jpg",
+      "creator": "Clifflandis",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vernonia_baldwinii_001.jpg",
+      "role": "Baldwin's ironweed recognizable flowering head from cultivated garden; diagnostic leaf margins and phyllary macros remain unfilled.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "a59beec2b235dedc91d9b6eff735f5b592215ee9",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

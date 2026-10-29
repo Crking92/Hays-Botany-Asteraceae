@@ -1,38 +1,41 @@
 {
   "id": "solidago-mexicana",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago mexicana",
   "common_name": "Southern seaside goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "Check the thick, often somewhat fleshy narrow alternate leaves and the long terminal cluster of small yellow heads, often borne predominantly on one side of branches. Coastal wet-saline habitat is a supporting cue, not proof by itself.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Rhizomatous perennial goldenrod of coastal marshes, dunes, and brackish margins."
-    },
-    {
-      "label": "Identification",
-      "text": "Leaves alternate, comparatively thick and narrow; inspect leaf texture and venation rather than flower color."
-    },
-    {
-      "label": "Identification",
-      "text": "Numerous small yellow composite heads in a terminal, often one-sided inflorescence."
-    },
-    {
-      "label": "Identification",
-      "text": "Inflorescence architecture and fleshy leaf texture together are more useful than plant height."
-    },
-    {
-      "label": "Identification",
-      "text": "Check mature involucres and foliage against closely related seaside goldenrods before final ID."
+      "label": "Best field traits",
+      "text": "Rhizomatous perennial goldenrod of coastal marshes, dunes, and brackish margins.; Leaves alternate, comparatively thick and narrow; inspect leaf texture and venation rather than flower color.; Numerous small yellow composite heads in a terminal, often one-sided inflorescence.; Inflorescence architecture and fleshy leaf texture together are more useful than plant height.; Check mature involucres and foliage against closely related seaside goldenrods before final ID."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Solidago sempervirens",
+      "Solidago altissima",
+      "Solidago canadensis",
+      "Solidago gigantea"
+    ],
+    "differences": "The seaside-goldenrod complex needs current accepted-name and geographic context; older references may fold S. mexicana into S. sempervirens. Inland S. altissima and S. canadensis typically have thinner serrate, three-nerved leaves and broader arching panicles; S. gigantea also differs in stem surface and inland ecology. Confirm with leaf thickness, venation, heads, and range together."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "fd2a6ebeddbe27d580762168d258a4cf21b5ac7b12b75eabaf0b7b9675f01456",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/solidago-mexicana/01.jpg",
+      "creator": "DouglasGoldman",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_mexicana1.jpg",
+      "role": "Recognize · arching yellow goldenrod flower branch and narrow leaves; white-rayed aster-like flowers belong to background vegetation",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d808a6b45964ebada1cd2e81a6f5320c134721f5",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

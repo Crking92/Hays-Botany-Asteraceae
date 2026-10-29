@@ -1,34 +1,39 @@
 {
   "id": "symphyotrichum-oblongifolium",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum oblongifolium",
   "common_name": "Aromatic aster",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "FIRST photograph a MATURE UPPER-STEM NODE: leaves are usually short OBLONG to lanceolate, sessile, narrowed/rounded or only weakly clasping, NOT deeply heart-clasping with auricles. Often many small leaves and a low bushy rhizomatous crown. THEN inspect upper peduncles and phyllaries for stalked glands, but note that S. patens var. patens can also be glandular. Use multiple traits and inspect the actual gland heads under magnification.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Perennial, often low and densely branched, spreading by rhizomes."
-    },
-    {
-      "label": "Identification",
-      "text": "Short oblong to linear-oblong leaves, often rough and aromatic when handled; compare lower and upper leaves."
-    },
-    {
-      "label": "Identification",
-      "text": "Stalked glandular hairs on upper stems, peduncles and phyllary faces are high-value ID features."
-    },
-    {
-      "label": "Identification",
-      "text": "Heads with ray and disc florets; involucres roughly (5-)7-9 mm in FNA treatment; verify with scale and glands."
+      "label": "Best field traits",
+      "text": "Perennial, often low and densely branched, spreading by rhizomes.; Short oblong to linear-oblong leaves, often rough and aromatic when handled; compare lower and upper leaves.; Stalked glandular hairs on upper stems, peduncles and phyllary faces are high-value ID features.; Heads with ray and disc florets; involucres roughly (5-)7-9 mm in FNA treatment; verify with scale and glands."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Symphyotrichum patens",
+      "Symphyotrichum praealtum"
+    ],
+    "differences": "S. patens var. patens can be densely stipitate-glandular, and var. gracile sparsely glandular; do not teach 'patens usually nonglandular' as absolute. Compare patens's strongly cordate/auriculate clasping upper leaf bases with oblongifolium's relatively oblong shorter leaves and usually mild clasping, then use rootstock, outer leafy phyllaries, and measured involucre."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "daee29434246cf4cd176e4a3d88d9cf2e1cf37d001d7daf5a5121a99cdb5b5aa",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/symphyotrichum-oblongifolium/01.jpg",
+      "creator": "stlmark",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_oblongifolium_99857187.jpg",
+      "role": "Flowers and oblong leaves (out-of-state exact-species study photo)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "e1df5db393549116511d961027fdc674932beb92",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

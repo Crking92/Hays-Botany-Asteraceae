@@ -1,17 +1,31 @@
 {
   "id": "trixis-californica",
-  "family": "Asteraceae",
-  "genus": "Trixis",
   "scientific_name": "Trixis californica",
   "common_name": "California trixis",
+  "family": "Asteraceae",
+  "genus": "Trixis",
   "look_here_first": "Look for a desert shrub with narrow leaves and small yellow heads having strap-shaped florets; inspect involucre bracts and floral structures to avoid confusing other Asteraceae.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "575b4fb0a2f2a1be2a173206ae1c3bdf2d6f54a103d9f405cb3607f0cee94691",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/trixis-californica/01.jpg",
+      "creator": "Stan Shebs",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Trixis_californica_flower_2.jpg",
+      "role": "Provisional yellow composite floral head; leaves, phyllaries and whole shrubby growth habit need further images",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "8842795d286c49be7f5fd1c004627431c20013b4",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

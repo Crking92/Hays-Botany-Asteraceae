@@ -1,9 +1,9 @@
 {
   "id": "silybum-marianum",
-  "family": "Asteraceae",
-  "genus": "Silybum",
   "scientific_name": "Silybum marianum",
   "common_name": "Milk thistle",
+  "family": "Asteraceae",
+  "genus": "Silybum",
   "look_here_first": "Shiny leaves with prominent white marbled veins and stiff marginal spines; purple heads with long spine-tipped phyllaries.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "f8981d5e028f2438346c576129c03e10d3dcdc21c75171f6ed6ae946328d9a37",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

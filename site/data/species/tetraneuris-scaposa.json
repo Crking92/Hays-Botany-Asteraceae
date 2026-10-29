@@ -1,9 +1,9 @@
 {
   "id": "tetraneuris-scaposa",
-  "family": "Asteraceae",
-  "genus": "Tetraneuris",
   "scientific_name": "Tetraneuris scaposa var. scaposa",
   "common_name": "Four-nerve Daisy",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
   "look_here_first": "Start with perennial rosette architecture. Tetraneuris scaposa var. scaposa is a perennial with basal linear leaves and long mostly leafless peduncles bearing solitary yellow heads. This contrasts strongly with annual T. linearifolia.",
   "key_traits": [
     {
@@ -27,28 +27,18 @@
       "text": "Outer phyllaries 8–16; inner series shorter and more numerous."
     },
     {
-      "label": "Identification",
-      "text": "basal leaf rosette"
-    },
-    {
-      "label": "Identification",
-      "text": "long leafless peduncles"
-    },
-    {
-      "label": "Identification",
-      "text": "single yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "compact perennial caudex"
+      "label": "Best field traits",
+      "text": "basal leaf rosette; long leafless peduncles; single yellow heads; compact perennial caudex"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Tetraneuris linearifolia",
+      "Tetraneuris acaulis"
+    ],
+    "differences": "T. scaposa var. scaposa is the local perennial rosette/scape species; T. linearifolia is annual and stem-leaved. T. acaulis is a more northern/western Texas species and is not being treated as a target-zone native without exact county evidence."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "10fcb6f95756d6290c1d140a40a3b95b8a03dcd10c424bbbd682ef21e68a5d08",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

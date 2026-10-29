@@ -1,17 +1,31 @@
 {
   "id": "thymophylla-pentachaeta",
-  "family": "Asteraceae",
-  "genus": "Thymophylla",
   "scientific_name": "Thymophylla pentachaeta",
   "common_name": "Five-needle pricklyleaf",
+  "family": "Asteraceae",
+  "genus": "Thymophylla",
   "look_here_first": "Look for small yellow daisy-like heads on a finely divided aromatic plant; inspect narrow leaf segments, involucral bracts, and black resin glands.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "0cad23475e0f1888092b0717959b2ee1973c046dc8239c387d1bb29fb060c890",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/thymophylla-pentachaeta/01.jpg",
+      "creator": "Patrick Alexander",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thymophylla_pentachaeta_-_Flickr_-_aspidoscelis.jpg",
+      "role": "Provisional initial plant recognition, based on a labelled New Mexico source photograph; leaf gland and phyllary macro needed.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d039c7c291b6dd2211ff82818d7eff96e651df5b",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "solidago-altissima",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago altissima",
   "common_name": "Tall Goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "For TALL goldenrod, inspect SHORT, FINE hairs low on a standing stem and a FIRM, often noticeably rough three-nerved middle leaf. Check if upper-mid leaves are entire or sparsely toothed. Compare Canada goldenrod: often thinner more serrated leaves and less crowded longer stem hairs — many characters overlap. Giant goldenrod tends to have genuinely smooth/waxy lower stem. Photograph the stem at ground level and the leaf UNDERSIDE, not only the yellow plume.",
   "key_traits": [
     {
@@ -31,20 +31,8 @@
       "text": "Cypselae with pappus bristles."
     },
     {
-      "label": "Identification",
-      "text": "tall golden panicles"
-    },
-    {
-      "label": "Identification",
-      "text": "rough leaves/stems"
-    },
-    {
-      "label": "Identification",
-      "text": "colony-forming habit"
-    },
-    {
-      "label": "Identification",
-      "text": "If working below species level, do not assign a subspecies from general goldenrod habit alone; Joey's exact reference is S. altissima subsp. gilvocanescens."
+      "label": "Best field traits",
+      "text": "tall golden panicles; rough leaves/stems; colony-forming habit; If working below species level, do not assign a subspecies from general goldenrod habit alone; Joey's exact reference is S. altissima subsp. gilvocanescens."
     },
     {
       "label": "Joey reference note",
@@ -56,7 +44,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1eb93a85584918f869d7f2427de188c3f8f14cadc27cdc911ebdd50868d59916",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

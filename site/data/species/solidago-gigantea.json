@@ -1,46 +1,54 @@
 {
   "id": "solidago-gigantea",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago gigantea",
   "common_name": "Giant Goldenrod / Smooth Goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "First stroke/look at a LOWER STEM 10–20 cm above plant base: S. gigantea is often smooth (GLABROUS) and sometimes waxy bluish (GLAUCOUS) well below flower panicle. The leaves are narrow lanceolate and often 3-nerved, but ALL tall-goldenrod complex relatives can share 3 veins. Compare hairier lower stems on altissima and canadensis, moisture settings as support, then measure phyllaries if uncertain. Never use only flower plume or leaf veins.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "rhizomatous perennial"
+      "label": "Best field traits",
+      "text": "rhizomatous perennial; lower stem glabrous to nearly glabrous; many narrow lanceolate leaves; leaves commonly 3-nerved; large arching/panicle-like inflorescence; many small yellow heads; often moist riparian or mesic sites"
     },
     {
-      "label": "Identification",
-      "text": "lower stem glabrous to nearly glabrous"
-    },
-    {
-      "label": "Identification",
-      "text": "many narrow lanceolate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves commonly 3-nerved"
-    },
-    {
-      "label": "Identification",
-      "text": "large arching/panicle-like inflorescence"
-    },
-    {
-      "label": "Identification",
-      "text": "many small yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "often moist riparian or mesic sites"
+      "label": "Comparison training",
+      "text": "Compared with S. altissima, the lower stem is much smoother and less hairy. Compared with S. juliae, S. gigantea is more strongly rhizomatous and typically has smoother stems with narrower leaves."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Compared with S. altissima, the lower stem is much smoother and less hairy. Compared with S. juliae, S. gigantea is more strongly rhizomatous and typically has smoother stems with narrower leaves."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "3bdff968ca8deeed75b3ad3cfdf36c1fd17f11e54ebf21222532f691e8bb9bed",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/solidago-gigantea/01.jpg",
+      "creator": "Calimo",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea.jpg",
+      "role": "Recognize · tall yellow branching plume of many small composite flowerheads; nonlocal source photo",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "e09fac6c2d5951ce6b139dc91b6e927945d2b416",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/solidago-gigantea/02.jpg",
+      "creator": "Michel Langeveld",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solidago_gigantea_211207255.jpg",
+      "role": "Look closer · narrow elongated leaves along the flowering shoot; leaf venation alone cannot confirm species",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "12f71c108d7e27c5eb9de1820efce773274bd455",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

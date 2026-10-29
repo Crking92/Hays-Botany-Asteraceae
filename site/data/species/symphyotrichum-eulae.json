@@ -1,50 +1,38 @@
 {
   "id": "symphyotrichum-eulae",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum eulae",
   "common_name": "Eula's Aster / Whitehouse's Aster",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "Start at the flowering stalk: S. eulae typically has GLABROUS peduncles, nearly horizontal to spreading branches and conspicuously serrate roughish leaves. Count rays on an intact head, commonly 27–36, and check the hemispheric involucre usually 5–6.5 mm. S. drummondii var. texanum has very hairy distal stems and winged lower leaf petioles.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "rhizomatous perennial"
-    },
-    {
-      "label": "Identification",
-      "text": "Texas endemic"
-    },
-    {
-      "label": "Identification",
-      "text": "mid-stem leaves elliptic to lanceolate"
-    },
-    {
-      "label": "Identification",
-      "text": "leaf margins crenate-serrate"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves scabrous"
-    },
-    {
-      "label": "Identification",
-      "text": "open paniculate array"
-    },
-    {
-      "label": "Identification",
-      "text": "rays white to pale blue-lavender"
-    },
-    {
-      "label": "Identification",
-      "text": "disk florets yellow aging reddish-brown"
+      "label": "Best field traits",
+      "text": "rhizomatous perennial; Texas endemic; mid-stem leaves elliptic to lanceolate; leaf margins crenate-serrate; leaves scabrous; open paniculate array; rays white to pale blue-lavender; disk florets yellow aging reddish-brown"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Symphyotrichum drummondii var. texanum"
+    ],
+    "differences": "Glabrous peduncles, 27–36 rays, 5–6.5 mm hemispheric head; versus Texas drummondii with hairy distal shoots and winged-petiolate lower leaves."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "3b7edb85ffd26d72b95753feeb53801d608198431c488b5340d48458c60add3e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/symphyotrichum-eulae/01.jpg",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_eulae,_Bastrop_County,_TX,_USA_imported_from_iNaturalist_photo_455429342.jpg",
+      "role": "Flowering stem / recognizable face",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "fd196d4a076a41be630d2080ce24d26fd4a3b758",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

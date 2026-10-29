@@ -1,42 +1,45 @@
 {
   "id": "symphyotrichum-ericoides",
-  "family": "Asteraceae",
-  "genus": "Symphyotrichum",
   "scientific_name": "Symphyotrichum ericoides",
   "common_name": "White Heath Aster",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
   "look_here_first": "START by checking the many short, stiff, narrow branchlet leaves and crowded small pale heads. With a 10–20× hand lens, turn a mature head sideways and seek the tiny actual WHITE/CLEAR terminal spine on the OUTER PHYLLARY (involucral bract). The bract bases may look whitish/papery. S. pilosum can mimic spines by rolling GREEN phyllary tips; distinguish a genuine pale terminal spine. Confirm hairy stems, comparatively small 2.5–4.5(–5) mm involucre, 10–18(–20) rays, and rhizomatous perennial habit. Not a pale-flower-only identification.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Many tiny, short, fairly stiff, needlelike/linear-oblong upper/branchlet leaves, often borne in clusters on crowded upper branches."
+      "label": "Best field traits",
+      "text": "Many tiny, short, fairly stiff, needlelike/linear-oblong upper/branchlet leaves, often borne in clusters on crowded upper branches.; Outer phyllaries each end in a small true rigid, PALE OR CLEAR spine-like tip; check at 10–20×. Green rolled margins on other asters can imitate spine.; Mature involucre about 2.5–4.5(–5) mm high; usually about 10–18 rays (ranges overlap; neither alone is decisive).; Upper stems and foliage usually hairy; phyllaries in 3–4 series and often white/tan at their bases with green distal zones.; Perennial rhizomatous colony, unlike the annual-to-short-lived very diffuse saltmarsh aster S. divaricatum.; A large number of small heads may line one side of a branchlet (secund) in mature flowering stems."
     },
     {
-      "label": "Identification",
-      "text": "Outer phyllaries each end in a small true rigid, PALE OR CLEAR spine-like tip; check at 10–20×. Green rolled margins on other asters can imitate spine."
-    },
-    {
-      "label": "Identification",
-      "text": "Mature involucre about 2.5–4.5(–5) mm high; usually about 10–18 rays (ranges overlap; neither alone is decisive)."
-    },
-    {
-      "label": "Identification",
-      "text": "Upper stems and foliage usually hairy; phyllaries in 3–4 series and often white/tan at their bases with green distal zones."
-    },
-    {
-      "label": "Identification",
-      "text": "Perennial rhizomatous colony, unlike the annual-to-short-lived very diffuse saltmarsh aster S. divaricatum."
-    },
-    {
-      "label": "Identification",
-      "text": "A large number of small heads may line one side of a branchlet (secund) in mature flowering stems."
+      "label": "Comparison training",
+      "text": "S. divaricatum is a nearly glabrous narrow-leaved annual/short-lived inland weed with a wide-open loose array of small widely separated heads, not ericoides's clustered stiff branchlet leaves and genuine pale terminal spines. S. eulae has scabrous broader serrate leaves, glabrous peduncles, often 27–36 rays and 5–6.5 mm involucres. S. pilosum (comparison only) may appear to have a spinulose phyllary: the apparent tip can be ROLLED GREEN margins rather than a true pale terminal spine."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "S. divaricatum is a nearly glabrous narrow-leaved annual/short-lived inland weed with a wide-open loose array of small widely separated heads, not ericoides's clustered stiff branchlet leaves and genuine pale terminal spines. S. eulae has scabrous broader serrate leaves, glabrous peduncles, often 27–36 rays and 5–6.5 mm involucres. S. pilosum (comparison only) may appear to have a spinulose phyllary: the apparent tip can be ROLLED GREEN margins rather than a true pale terminal spine."
+    "names": [
+      "Symphyotrichum divaricatum",
+      "Symphyotrichum eulae",
+      "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "Symphyotrichum pilosum (comparison-only; not installed)"
+    ],
+    "differences": "S. ericoides: perennial + many short stiff branch leaves + compact small heads with true pale/clear phyllary apex spines (10–20×) and small involucre. S. divaricatum: annual, airy widely spaced flower heads, slender nearly glabrous stems. S. eulae: broader toothed leaves, usually glabrous peduncles, larger/more numerous rays. S. pilosum: no real colorless spine—rolled green phyllary margins resemble one."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "e45b2b5a04ff1da248350f95d6d60d62d82569e7008895bceab8cea1f0bedc3d",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/symphyotrichum-ericoides/01.jpg",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_97520834.jpg",
+      "role": "Texas field habit / foliage and flowering structure",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "a992737902f23fb1c5dbe5789856a267f1f47adb",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

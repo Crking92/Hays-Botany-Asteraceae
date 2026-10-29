@@ -1,50 +1,40 @@
 {
   "id": "silphium-radula",
-  "family": "Asteraceae",
-  "genus": "Silphium",
   "scientific_name": "Silphium radula",
   "common_name": "Roughstem Rosinweed / Tall Rosinweed",
+  "family": "Asteraceae",
+  "genus": "Silphium",
   "look_here_first": "Start with texture and leaf arrangement. Roughstem rosinweed is a perennial with very rough, sandpapery leaves and stems, broad sessile leaves, and yellow sunflower-like heads. Use the coarse scabrous surface plus stem-leaf arrangement and peduncle length to separate it from nearby Silphium concepts.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "perennial herb"
+      "label": "Best field traits",
+      "text": "perennial herb; several stems from base; stems and leaves conspicuously rough/scabrous; broad sessile leaves; leaves may be opposite below and alternate above; yellow radiate heads; heads relatively close to leafy upper stems compared with longer-peduncled relatives; foliage aromatic/resinous when crushed"
     },
     {
-      "label": "Identification",
-      "text": "several stems from base"
-    },
-    {
-      "label": "Identification",
-      "text": "stems and leaves conspicuously rough/scabrous"
-    },
-    {
-      "label": "Identification",
-      "text": "broad sessile leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves may be opposite below and alternate above"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow radiate heads"
-    },
-    {
-      "label": "Identification",
-      "text": "heads relatively close to leafy upper stems compared with longer-peduncled relatives"
-    },
-    {
-      "label": "Identification",
-      "text": "foliage aromatic/resinous when crushed"
+      "label": "Comparison training",
+      "text": "Compared with S. laciniatum, leaves are broad rather than deeply pinnatifid. Compared with S. integrifolium sensu stricto, S. radula is typically rougher/hairier and may show mixed opposite/alternate leaf arrangement."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Compared with S. laciniatum, leaves are broad rather than deeply pinnatifid. Compared with S. integrifolium sensu stricto, S. radula is typically rougher/hairier and may show mixed opposite/alternate leaf arrangement."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b50582c423aff667213aa9eecfceaefd5fc33a447599ba0277050bb781a83100",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/silphium-radula/01.jpg",
+      "creator": "Eric Hunt",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_radula_Arkansas.jpg",
+      "role": "flowering habit / leaves / yellow heads",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d43ba72bf66bb47605392966023967ad84592e91",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

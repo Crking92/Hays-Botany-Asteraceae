@@ -1,46 +1,14 @@
 {
   "id": "tetragonotheca-texana",
-  "family": "Asteraceae",
-  "genus": "Tetragonotheca",
   "scientific_name": "Tetragonotheca texana",
   "common_name": "Squarebud daisy",
+  "family": "Asteraceae",
+  "genus": "Tetragonotheca",
   "look_here_first": "Flip the flower head over. The quickest field mark is the involucre: the four broad outer phyllaries form a conspicuous square/collar-like base around the head. Then confirm the yellow ray florets, large disc florets with paleae, and the leafy upright habit.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "upright perennial herb with leafy stems"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves mostly cauline, opposite in much of the genus; local plants can have irregularly toothed to pinnatifid blades"
-    },
-    {
-      "label": "Identification",
-      "text": "radiate yellow composite heads"
-    },
-    {
-      "label": "Identification",
-      "text": "outer four involucral bracts/phyllaries broad and conspicuous, producing the characteristic squarebud/collar appearance"
-    },
-    {
-      "label": "Identification",
-      "text": "inner phyllaries smaller and more scarious"
-    },
-    {
-      "label": "Identification",
-      "text": "receptacle paleate, with a sharp bract/palea subtending individual disc florets"
-    },
-    {
-      "label": "Identification",
-      "text": "ray florets pistillate and fertile"
-    },
-    {
-      "label": "Identification",
-      "text": "disc florets bisexual and fertile"
-    },
-    {
-      "label": "Identification",
-      "text": "cypsela dry and one-seeded"
+      "label": "Best field traits",
+      "text": "upright perennial herb with leafy stems; leaves mostly cauline, opposite in much of the genus; local plants can have irregularly toothed to pinnatifid blades; radiate yellow composite heads; outer four involucral bracts/phyllaries broad and conspicuous, producing the characteristic squarebud/collar appearance; inner phyllaries smaller and more scarious; receptacle paleate, with a sharp bract/palea subtending individual disc florets; ray florets pistillate and fertile; disc florets bisexual and fertile; cypsela dry and one-seeded"
     },
     {
       "label": "Family training",
@@ -52,11 +20,29 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Tetraneuris linearifolia",
+      "Thelesperma filifolium",
+      "other small yellow Asteraceae"
+    ],
+    "differences": "Do not use yellow rays alone. Tetragonotheca texana announces itself from below: four broad outer phyllaries make a boxy/square collar. Tetraneuris instead emphasizes narrow foliage and a conventional multi-series involucre; Thelesperma has threadlike divided leaves."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "48bd01bfb57e26141aa67dcda8c8bedf93263f1914fb919ade0491ad2443de2b",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/tetragonotheca-texana/01.jpg",
+      "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/166875890",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "72dddb45951070311f6270aadd58316c953b559f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,42 +1,30 @@
 {
   "id": "solidago-radula",
-  "family": "Asteraceae",
-  "genus": "Solidago",
   "scientific_name": "Solidago radula",
   "common_name": "Rough goldenrod",
+  "family": "Asteraceae",
+  "genus": "Solidago",
   "look_here_first": "Touch and inspect the stem and leaves first: rough goldenrod is genuinely scabrous, with short stiff hairs on the stem and rough leaf surfaces. Then compare the broader lower leaves, rapid reduction upward, and the compact terminal panicle.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "erect to ascending rhizomatous perennial"
+      "label": "Best field traits",
+      "text": "erect to ascending rhizomatous perennial; stem conspicuously rough or hispid with stiff short hairs; foliage distinctly scabrous to the touch; lower leaves broader and larger, with upper leaves abruptly smaller; terminal compact paniclelike array of many small yellow heads; typical of calcareous rocky openings, prairies, and dry woods"
     },
     {
-      "label": "Identification",
-      "text": "stem conspicuously rough or hispid with stiff short hairs"
-    },
-    {
-      "label": "Identification",
-      "text": "foliage distinctly scabrous to the touch"
-    },
-    {
-      "label": "Identification",
-      "text": "lower leaves broader and larger, with upper leaves abruptly smaller"
-    },
-    {
-      "label": "Identification",
-      "text": "terminal compact paniclelike array of many small yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "typical of calcareous rocky openings, prairies, and dry woods"
+      "label": "Comparison training",
+      "text": "Solidago radula is the rough/scabrous one: stiff stem and leaf hairs are more tactile and obvious than the fine gray pubescence of S. nemoralis. Its flowering array is generally more compact and terminal."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Solidago radula is the rough/scabrous one: stiff stem and leaf hairs are more tactile and obvious than the fine gray pubescence of S. nemoralis. Its flowering array is generally more compact and terminal."
+    "names": [
+      "Solidago nemoralis",
+      "Solidago altissima",
+      "Solidago juliae",
+      "Solidago gigantea"
+    ],
+    "differences": "Rough goldenrod has conspicuously stiff, scabrous stems and leaves plus a compact terminal flowering array; S. nemoralis is grayer and finer-haired with a more one-sided wandlike inflorescence."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "20d4b10990e8888cb6ef64610f6fa26d3b92a14646eeedb486b662587206f73c",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

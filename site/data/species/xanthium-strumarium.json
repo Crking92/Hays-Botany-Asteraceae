@@ -1,17 +1,31 @@
 {
   "id": "xanthium-strumarium",
-  "family": "Asteraceae",
-  "genus": "Xanthium",
   "scientific_name": "Xanthium strumarium",
   "common_name": "Common cocklebur",
+  "family": "Asteraceae",
+  "genus": "Xanthium",
   "look_here_first": "Look for large triangular to heart-shaped rough leaves and paired hooked spiny burs that stick to clothing; inspect burr beaks and leaf base. Multiple Xanthium species/concepts need scrutiny.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "ed6d56c4d9c21f77b6faf0b5a0d13f64e099d5cd9065ea099bce303e999cba11",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/xanthium-strumarium/01.jpg",
+      "creator": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Xanthium_strumarium_2026_G1.jpg",
+      "role": "Provisional cocklebur visual recognition in a named species photo; burr morphology and local species complex unresolved.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "aa5abcb074a9bf3666c38c96dda7339080be3821",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
