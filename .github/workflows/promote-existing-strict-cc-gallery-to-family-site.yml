@@ -1,0 +1,140 @@
+name: Promote existing independently verified STRICT CC Asteraceae photos to public family learner
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/promote-existing-strict-cc-gallery-to-family-site.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: asteraceae-photo-safe-family-site-promotion
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout public family site and verified photo build scripts
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Read existing exact source/photos and independent photo-rights ledgers
+        uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: staging
+          persist-credentials: false
+      - name: Build filtered teaching site using existing originals, photos only when strict-CC verified
+        shell: bash
+        env:
+          HAYS_ASTERACEAE_PUBLIC_STRICT: '1'
+        run: |
+          set -euo pipefail
+          python3 -m pip install 'Pillow>=10,<12'
+          node --check shell/site/app.js
+          python3 shell/scripts/build_asteraceae_photo_preview.py staging
+      - name: Verify no private, NC-only, unknown-creator, or unlicensed photograph enters website
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path("shell/dist")
+          s=json.loads((root/"data/preview-summary.json").read_text())
+          assert s["strict_public_cc"] is True
+          assert s["noncommercial_only_previews"]==0
+          assert s["owner_or_source_record_only_private_photo_copies"]==0
+          assert s["species"]==180
+          assert s["verified_photo_copies"]>=100
+          assert not (root/"content").exists()
+          cards=list((root/"data/species").glob("*.json"))
+          assert len(cards)==180
+          total=0
+          for path in cards:
+            d=json.loads(path.read_text())
+            assert d["family"]=="Asteraceae"
+            for p in d.get("verified_photos",[]):
+              assert p["license"].startswith(("CC0","CC BY ","CC BY-SA ")) and p["license_url"].startswith("https://creativecommons.org/")
+              assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
+              assert p["creator"] and p["source_page"].startswith("https://")
+              assert (root/p["src"]).is_file()
+              assert p.get("source_blob_sha") and len(p["source_blob_sha"])==40
+              total+=1
+          assert total==s["verified_photo_copies"]
+          assert len(list((root/"media").rglob("*.jpg")))==total
+          assert sum(x.stat().st_size for x in root.rglob("*") if x.is_file())<160000000
+          print("ASTERACEAE_STRICT_CC_PUBLIC_SITE_PASS",json.dumps({"species":180,"approved_photos":total,"nc_or_private_photo_copies":0}))
+          PY
+      - name: Install filtered static outputs into current branch Pages site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import shutil,json
+          from pathlib import Path
+          dst=Path("shell/site")
+          src=Path("shell/dist")
+          for name in ("index.html","app.js","styles.css"):
+            shutil.copy2(src/name,dst/name)
+          for p in (src/"data").rglob("*.json"):
+            out=dst/p.relative_to(src)
+            out.parent.mkdir(parents=True,exist_ok=True)
+            shutil.copy2(p,out)
+          for p in (src/"media").rglob("*.jpg"):
+            out=dst/p.relative_to(src)
+            out.parent.mkdir(parents=True,exist_ok=True)
+            shutil.copy2(p,out)
+          summary=json.loads((src/"data/preview-summary.json").read_text())
+          (dst/"PHOTO_PUBLICATION_SCOPE.md").write_text("# Asteraceae photo release: strict Creative Commons subset\n\n"
+             f"This photo-gallery release includes **{summary['verified_photo_copies']}** original-source verified photographs "
+             "with their individual authors, source links and CC terms. Source files are resized, EXIF-stripped and credited; "
+             "there are no NC-only, site-specific, private-review-only, or unknown-rights photo files in the website output. "
+             "The remaining original photos and complete legacy botanical records are preserved unchanged in the collection's staging source. "
+             "Photo and arrow completeness are separate from website source license clearance.\n")
+          assert len(list((dst/"media").rglob("*.jpg")))==summary["verified_photo_copies"]
+          PY
+      - name: Commit CC-only photos in small batches, then updated data and website entrypoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd shell
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mapfile -t photos < <(find site/media -type f -name '*.jpg' | sort)
+          for ((i=0; i<${#photos[@]}; i+=45)); do
+            batch=("${photos[@]:i:45}")
+            git add -- "${batch[@]}"
+            if ! git diff --cached --quiet; then
+              git diff --cached --check
+              git commit -m "Add up to 45 credited and verified CC Asteraceae field photographs to filtered Pages site"
+            fi
+          done
+          mapfile -t cards < <(find site/data/species -maxdepth 1 -type f -name '*.json' | sort)
+          for ((i=0; i<${#cards[@]}; i+=45)); do
+            batch=("${cards[@]:i:45}")
+            git add -- "${batch[@]}"
+            if ! git diff --cached --quiet; then
+              git diff --cached --check
+              git commit -m "Refresh up to 45 existing Asteraceae species lessons with only licensed gallery references"
+            fi
+          done
+          git add -- site/index.html site/styles.css site/app.js site/data/collection-index.json site/data/collection-meta.json site/data/preview-summary.json site/data/photo-curation-summary.json site/PHOTO_PUBLICATION_SCOPE.md
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish strict CC field-first Asteraceae learner with image credits and no held photo references"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:refs/heads/main
+      - name: Preserve release audit only (no raw source photo artifacts)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-strict-cc-180-plant-family-release-report
+          path: shell/dist/data/preview-summary.json
+          retention-days: 30
+          if-no-files-found: warn
