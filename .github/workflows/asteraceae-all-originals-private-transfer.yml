@@ -1,0 +1,70 @@
+name: Finish Asteraceae original-file transfer — preserve all 1137 source files privately
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/complete_asteraceae_original_migration.py'
+      - '.github/workflows/asteraceae-all-originals-private-transfer.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: asteraceae-source-original-quarantine
+  cancel-in-progress: false
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 32
+    steps:
+      - name: Checkout original byte preservation verifier
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Checkout private Asteraceae staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: staged
+          persist-credentials: true
+      - name: Verify transfer syntax
+        run: python3 -m py_compile shell/scripts/complete_asteraceae_original_migration.py
+      - name: Read unchanged 1137-file authoritative Asteraceae source tree
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Asteraceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Asteraceae)" = 394bb64d90c025a51a8d6e10dc4a19bce1aaf623
+      - name: Copy all 136 held originals to private quarantine and verify each original SHA
+        run: |
+          python3 shell/scripts/complete_asteraceae_original_migration.py staged "$RUNNER_TEMP/hays-source"
+          python3 staged/scripts/validate_collection.py
+      - name: Commit 136 private held originals with zero new public gallery permissions
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/private-original-photo-holds migration/asteraceae-all-original-1137-file-transfer-manifest.json migration/asteraceae-original-migration-completion-summary.json
+          git diff --cached --check -- migration/asteraceae-all-original-1137-file-transfer-manifest.json migration/asteraceae-original-migration-completion-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Transfer all original Asteraceae photo bytes privately: 678 text, 323 approved media and 136 quarantined originals"
+            git fetch origin staging/asteraceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/asteraceae-metadata
+          else
+            echo "Original-file migration already verified."
+          fi
+      - name: Keep only rights-safe summary as QA artifact, no photos deployed
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-all-1137-source-files-private-transfer-qa
+          path: staged/migration/asteraceae-original-migration-completion-summary.json
+          retention-days: 30
+          if-no-files-found: warn
