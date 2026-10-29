@@ -1,26 +1,14 @@
 {
   "id": "chromolaena-odorata",
-  "family": "Asteraceae",
-  "genus": "Chromolaena",
   "scientific_name": "Chromolaena odorata",
   "common_name": "Fragrant mistflower",
+  "family": "Asteraceae",
+  "genus": "Chromolaena",
   "look_here_first": "On a bushy, sometimes sprawling plant with opposite triangular, 3-veined toothed leaves, inspect ONE flowering head from its side: it has a longer cylindrical involucre about 8–10 mm, with multiple (typically 4–6+) imbricate phyllary series. Contrast shorter hemispheric Conoclinium heads and white Ageratina shrubby mistflower; common names overlap.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "opposite petiolate coarsely toothed leaves with 3 strong basal veins"
-    },
-    {
-      "label": "Identification",
-      "text": "subshrub or sprawling branching shrub habit"
-    },
-    {
-      "label": "Identification",
-      "text": "clusters of rayless lavender/pinkish to nearly white capitula"
-    },
-    {
-      "label": "Identification",
-      "text": "individual cylindrical involucre about 8–10 mm long, with 4–6(–8) phyllary series"
+      "label": "Best field traits",
+      "text": "opposite petiolate coarsely toothed leaves with 3 strong basal veins; subshrub or sprawling branching shrub habit; clusters of rayless lavender/pinkish to nearly white capitula; individual cylindrical involucre about 8–10 mm long, with 4–6(–8) phyllary series"
     },
     {
       "label": "Habit",
@@ -48,11 +36,31 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Conoclinium coelestinum",
+      "Conoclinium dissectum",
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Eupatorium serotinum"
+    ],
+    "differences": "Versus C. coelestinum: much longer cylindrical individual involucres and more phyllary series; blue mistflower has shorter more hemispheric heads. Versus C. dissectum: Gregg's deeply dissected leaves. Versus A. havanensis: white shrubby mistflower usually has shorter 4–6 mm involucres; color and woody habit alone overlap. Versus late boneset: Eupatorium serotinum is a tall herb with fewer phyllary series and different narrower gland-dotted leaves."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b44129f7f2524090999dfc12c0f5882fa3ac9e93a9b08fb74f0931a61d020bec",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/chromolaena-odorata/01.jpg",
+      "creator": "J.M.Garg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chromolaena%20odorata%20(Common%20floss%20flower)%20W2%20IMG%201450.jpg",
+      "role": "Cylindrical capitula and layered green phyllaries in side view",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "6cd3f913ffeb327e66d2ba794d786f141f3c7078",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

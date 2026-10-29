@@ -1,9 +1,9 @@
 {
   "id": "chaetopappa-effusa",
-  "family": "Asteraceae",
-  "genus": "Chaetopappa",
   "scientific_name": "Chaetopappa effusa",
   "common_name": "Spreading lazy daisy",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
   "look_here_first": "Find the rhizomatous PERENNIAL base, then inspect the lower stem leaves: oblong to lanceolate-oblong, 6–12 mm wide, with truncate to slightly heart-shaped bases. At fruiting check the pappus, a tiny thickened ring or erose crown <0.1 mm, NOT the conspicuous ~25 bristles of C. ericoides.",
   "key_traits": [
     {
@@ -23,24 +23,21 @@
       "text": "Pappus a minute thickened ring or erose crown under 0.1 mm (Flora of North America key)."
     },
     {
-      "label": "Identification",
-      "text": "Examine rootstock and annual/perennial habit"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine basal and stem leaves including overlap and blade bases"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine mature cypsela pappus with magnification"
+      "label": "Best field traits",
+      "text": "Examine rootstock and annual/perennial habit; Examine basal and stem leaves including overlap and blade bases; Examine mature cypsela pappus with magnification"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Chaetopappa bellidifolia",
+      "Chaetopappa ericoides",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "differences": "C. bellidifolia is a taprooted annual with non-overlapping flat leaves and a minute pappus ring; C. ericoides has very narrow densely overlapping leathery leaves and obvious pappus bristles in one series. C. parryi also rhizomatous but has narrower spatulate lower leaves 2–5 mm and a much larger hyaline crown 0.3–0.8 mm."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "16915c664d22e6d1ab5e5c3aa9b5227d27e5273a6739fa86798c05d4879bf1de",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "artemisia-ludoviciana",
-  "family": "Asteraceae",
-  "genus": "Artemisia",
   "scientific_name": "Artemisia ludoviciana",
   "common_name": "Silver wormwood",
+  "family": "Asteraceae",
+  "genus": "Artemisia",
   "look_here_first": "LOOK HERE FIRST: Is this a rhizomatous upright herb, rather than a large woody sagebrush shrub? Check the soft silvery or two-toned stem leaves (entire, toothed or lobed), then the many small, inconspicuous flower heads in a narrow to branched cluster. Leaf color alone cannot confirm the species.",
   "key_traits": [
     {
@@ -28,11 +28,29 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Artemisia tridentata (persistent three-tipped wedge-shaped leaves on a woody shrub, not a rhizomatous herb)",
+      "Artemisia vulgaris (often strongly two-toned leaves, more deeply cut and often taller; examine several leaves and heads)",
+      "Artemisia douglasiana (broader often entire leaves, generally taller; western comparison)"
+    ],
+    "differences": "Combine perennial rhizomatous herb habit, variable silver or bicolored cauline leaves, and small woolly-involucred heads. Big sagebrush is a much woodier shrub with persistent small wedge-shaped leaves usually shallowly three-tipped."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b9606b75f6d9aff85c818357e5d998efd19d76d271549d5562215b1647b19d23",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/artemisia-ludoviciana/01.jpg",
+      "creator": "Thayne Tuason",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Artemisia_ludoviciana-7-22-04.jpg",
+      "role": "Look closer · upright narrow flowering spike with numerous small clustered pale heads and silvery leaves; underground rhizomes not shown",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "7ff95fe3dfa738daf32f9b34d269111216fe2e2e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

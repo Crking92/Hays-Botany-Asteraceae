@@ -1,9 +1,9 @@
 {
   "id": "achillea-millefolium",
-  "family": "Asteraceae",
-  "genus": "Achillea",
   "scientific_name": "Achillea millefolium",
   "common_name": "Common yarrow",
+  "family": "Asteraceae",
+  "genus": "Achillea",
   "look_here_first": "Look at a fully developed stem leaf first: narrow outline but very finely divided into many tiny fernlike segments (usually 1–2-pinnately dissected). Then inspect the flat-topped cluster of numerous tiny composite heads. Check a single head from the side for several rows of overlapping phyllaries; do not infer native status or identity from white/pink color.",
   "key_traits": [
     {
@@ -23,28 +23,48 @@
       "text": "Small compressed cypselae roughly 1–2 mm, margins may be winged; inspect mature material rather than inferring from flowering heads."
     },
     {
-      "label": "Identification",
-      "text": "finely dissected alternate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "numerous small heads forming a flat-topped cluster"
-    },
-    {
-      "label": "Identification",
-      "text": "individual head with short rays and layered phyllaries"
-    },
-    {
-      "label": "Identification",
-      "text": "mature cypselae for confirmation"
+      "label": "Best field traits",
+      "text": "finely dissected alternate leaves; numerous small heads forming a flat-topped cluster; individual head with short rays and layered phyllaries; mature cypselae for confirmation"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Anthemis cotula",
+      "Tanacetum parthenium",
+      "Artemisia ludoviciana"
+    ],
+    "differences": "Anthemis cotula has larger solitary daisy-like heads with a more conspicuous ray circle, not many tiny heads packed in a flat-topped corymb. Tanacetum parthenium has broader lobed leaves and larger individual daisy heads. Artemisia ludoviciana has simple to shallowly lobed leaves and inconspicuous rayless heads. Check leaf architecture and individual head anatomy, not just white flower clusters."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "954ac2c76b14f8b44efb35cd68513c1035f5d7897cbc14b4a6a16a2228d3ff96",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/achillea-millefolium/01.jpg",
+      "creator": "Jane S. Richardson",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yarrow_Achillea_millefolium_plant.jpg",
+      "role": "Whole flowering plant with finely dissected leaves",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "9e03d12d4a80d1717406093b9b0fa3818482f266",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/achillea-millefolium/02.jpg",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_-_Common_Yarrow.jpg",
+      "role": "Flowering shoot and capitula",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "a4c7fb0845b015379ea26b04da508a909da2bb43",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

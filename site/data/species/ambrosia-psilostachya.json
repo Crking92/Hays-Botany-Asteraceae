@@ -1,9 +1,9 @@
 {
   "id": "ambrosia-psilostachya",
-  "family": "Asteraceae",
-  "genus": "Ambrosia",
   "scientific_name": "Ambrosia psilostachya",
   "common_name": "Western Ragweed",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
   "look_here_first": "",
   "key_traits": [
     {
@@ -27,32 +27,30 @@
       "text": "Small obpyramidal to globose burs with 0–6 short distal spines/tubercles."
     },
     {
-      "label": "Identification",
-      "text": "Perennial often forming connected patches from creeping rhizomes; check underground connections only where disturbance is appropriate"
-    },
-    {
-      "label": "Identification",
-      "text": "Lower leaves commonly opposite, upper alternate; blades toothed to deeply lobed, but leaf form varies"
-    },
-    {
-      "label": "Identification",
-      "text": "Terminal elongated clusters of pollen-bearing male heads; small seed-bearing female heads occur below, toward leaf axils"
-    },
-    {
-      "label": "Identification",
-      "text": "Compare annual Ambrosia artemisiifolia: often more finely dissected foliage and no persistent perennial rhizome network; leaf shape alone can overlap"
-    },
-    {
-      "label": "Identification",
-      "text": "Compare giant ragweed A. trifida: much larger broad 3–5-lobed leaves and tall coarse stems; inspect reproductive heads for confirmation"
+      "label": "Best field traits",
+      "text": "Perennial often forming connected patches from creeping rhizomes; check underground connections only where disturbance is appropriate; Lower leaves commonly opposite, upper alternate; blades toothed to deeply lobed, but leaf form varies; Terminal elongated clusters of pollen-bearing male heads; small seed-bearing female heads occur below, toward leaf axils; Compare annual Ambrosia artemisiifolia: often more finely dissected foliage and no persistent perennial rhizome network; leaf shape alone can overlap; Compare giant ragweed A. trifida: much larger broad 3–5-lobed leaves and tall coarse stems; inspect reproductive heads for confirmation"
     }
   ],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "af9297895655c75e5b2551dec5cc8aabf14cd16970ec9f31c910d4cc114cf04c",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/ambrosia-psilostachya/01.jpg",
+      "creator": "(c) \nAnnabell Hormann / korina.info, some rights reserved (CC BY-SA)",
+      "license": "CC BY SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/taxa/60129",
+      "role": "Look closer · upright green spikes of crowded pollen-bearing male heads above narrow deeply lobed ragweed foliage; fruit not visible",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "c6522d5a53f35e86999b274c40d6626ca7090aa9",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "ageratina-havanensis",
-  "family": "Asteraceae",
-  "genus": "Ageratina",
   "scientific_name": "Ageratina havanensis",
   "common_name": "Shrubby Boneset",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
   "look_here_first": "Look for a many-branched, persistent-leaved (evergreen) woody shrub with opposite, serrate, typically 3–5 cm leaves on short 3–10 mm petioles and white to faintly pinkish rayless heads. A. altissima has herbaceous stems and smoother/glabrous cypselae. Mature A. havanensis cypselae are HISPID (hairy).",
   "key_traits": [
     {
@@ -31,20 +31,8 @@
       "text": "Cypselae with bristly pappus."
     },
     {
-      "label": "Identification",
-      "text": "shrubby habit"
-    },
-    {
-      "label": "Identification",
-      "text": "opposite leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "white fluffy clusters"
-    },
-    {
-      "label": "Identification",
-      "text": "woody base"
+      "label": "Best field traits",
+      "text": "shrubby habit; opposite leaves; white fluffy clusters; woody base"
     },
     {
       "label": "Fna confirmation",
@@ -60,11 +48,30 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ageratina altissima",
+      "Conoclinium coelestinum",
+      "Eupatorium serotinum",
+      "Chromolaena odorata"
+    ],
+    "differences": "Versus A. altissima: evergreen/brittle woody shrub framework (not herbaceous), shorter typical petioles, and HISPID mature cypselae (A. altissima glabrous). Versus C. odorata: A. havanensis heads have much shorter 4–6 mm involucres, compared with cylindrical 8–10 mm and 4–6+ phyllary series. Versus E. serotinum: shrub vs tall herbaceous, narrower leaves on late boneset."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "e8a5d019847344a6f646be887af21beec4bee353efbed12897b17d2289900f04",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/ageratina-havanensis/01.jpg",
+      "creator": "Daderot",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina%20havanensis%20-%20Zilker%20Botanical%20Garden%20-%20Austin%2C%20Texas%20-%20DSC09017.jpg",
+      "role": "Austin-grown white mistflower: foliage, branching stems and flowering context (woody base not proven)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "f0f62004badeca4f5f8e96c259e8c2c4287a1f12",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

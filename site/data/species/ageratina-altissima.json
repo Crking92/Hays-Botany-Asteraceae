@@ -1,30 +1,14 @@
 {
   "id": "ageratina-altissima",
-  "family": "Asteraceae",
-  "genus": "Ageratina",
   "scientific_name": "Ageratina altissima",
   "common_name": "White snakeroot",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
   "look_here_first": "Look for opposite long-petioled broad leaves with coarse teeth and three strong basal veins, topped by loose white flat-topped clusters of tiny all-disk heads—no ray florets.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "erect rhizomatous perennial of shaded/moist sites"
-    },
-    {
-      "label": "Identification",
-      "text": "opposite broadly ovate to triangular long-petioled leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves coarsely toothed with three strong veins from near base"
-    },
-    {
-      "label": "Identification",
-      "text": "terminal corymbiform clusters of many small white heads"
-    },
-    {
-      "label": "Identification",
-      "text": "heads discoid: white disk florets only, no rays"
+      "label": "Best field traits",
+      "text": "erect rhizomatous perennial of shaded/moist sites; opposite broadly ovate to triangular long-petioled leaves; leaves coarsely toothed with three strong veins from near base; terminal corymbiform clusters of many small white heads; heads discoid: white disk florets only, no rays"
     },
     {
       "label": "Leaf arrangement",
@@ -52,11 +36,58 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Conoclinium coelestinum",
+      "Ageratina havanensis",
+      "Eupatorium serotinum",
+      "Chromolaena odorata"
+    ],
+    "differences": "FNA: A. altissima is herbaceous, with larger usually long-petioled, coarsely double-toothed leaves and GLABROUS cypselae; A. havanensis has a persistent woody shrub framework, shorter-petioled generally smaller leaves, and HISPID cypselae. Chromolaena odorata shows much longer cylindrical involucres (8–10 mm) with 4–6+ phyllary series."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "be73ca3691c5ba607c0e85ce7fae75997d65b4275d00f610508391d8f12eb6e5",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/ageratina-altissima/01.jpg",
+      "creator": "H. Zell",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_001.JPG",
+      "role": "Blooming whole-plant habit with opposite broad leaves and terminal white clusters",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "874223e68affac3a129e37dee360b7e8be814298",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/ageratina-altissima/02.jpg",
+      "creator": "H. Zell",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_002.JPG",
+      "role": "Close view of white discoid inflorescences",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "23ea6877231619f58f4a7ed30a9e7453722d6f8d",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/ageratina-altissima/03.jpg",
+      "creator": "R. A. Nonenmacher",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ageratina_altissima_SCA-5481.jpg",
+      "role": "Additional exact-species field reference / foliage and flowering context",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "f5a2cec8268786f052ea8fb78fc79048b7df46f9",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

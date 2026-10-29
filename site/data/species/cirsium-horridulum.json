@@ -1,42 +1,54 @@
 {
   "id": "cirsium-horridulum",
-  "family": "Asteraceae",
-  "genus": "Cirsium",
   "scientific_name": "Cirsium horridulum",
   "common_name": "Horrid thistle / yellow thistle",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
   "look_here_first": "Look BELOW EACH HEAD for a second, obvious ARMOR COLLAR: a ring of spiny-margined leaflike bracts about as long as the 30–50 mm involucre. Those are separate SUBTENDING BRACTS, not the individual phyllaries of the involucre. Leaves often bear stout main marginal spines (5–30 mm, variable by variety) and cauline leaf bases may be auriculate-clasping. Color varies white/yellow/pink/purple—yellow thistle is not necessarily yellow. Compared with C. vulgare check the UPPER LEAF BLADE for bristle-spines, not just rough marginal prickles.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Ring of spiny-margined leaflike bracts RIGHT BENEATH EACH INDIVIDUAL head, about involucre length: strongest separator."
-    },
-    {
-      "label": "Identification",
-      "text": "Involucre (green cup beneath florets) ~30–50 mm tall, much larger than C. texanum's ~12–20 mm."
-    },
-    {
-      "label": "Identification",
-      "text": "Primary leaf-edge spines may be 5–30 mm; C. horridulum has marked infraspecific variation."
-    },
-    {
-      "label": "Identification",
-      "text": "Biennial or sometimes persistent perennial/root-sprouting habit; do not insist annual-only."
-    },
-    {
-      "label": "Identification",
-      "text": "White/yellow to pink/purple/red heads can occur; color does NOT separate from native Texas thistle."
-    },
-    {
-      "label": "Identification",
-      "text": "Do not substitute marginal thorns for C. vulgare's short leaf-surface spines."
+      "label": "Best field traits",
+      "text": "Ring of spiny-margined leaflike bracts RIGHT BENEATH EACH INDIVIDUAL head, about involucre length: strongest separator.; Involucre (green cup beneath florets) ~30–50 mm tall, much larger than C. texanum's ~12–20 mm.; Primary leaf-edge spines may be 5–30 mm; C. horridulum has marked infraspecific variation.; Biennial or sometimes persistent perennial/root-sprouting habit; do not insist annual-only.; White/yellow to pink/purple/red heads can occur; color does NOT separate from native Texas thistle.; Do not substitute marginal thorns for C. vulgare's short leaf-surface spines."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Cirsium texanum",
+      "Cirsium vulgare",
+      "Cirsium ochrocentrum"
+    ],
+    "differences": "Horridulum features an additional obvious bract ring under each 30–50 mm involucre; texanum typically has a much smaller 12–20 mm involucre and no equally prominent head-specific spiny armor ring; vulgare has characteristic short appressed bristle-spines on adaxial leaf BLADE and long stem wings; ochrocentrum can be extensively woolly with long phyllary spines but does not show the same head-specific armor ring."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1ced4d6b7cfc64517d296ec64b2e71d5ba867c7412d83000a2a4fb814f33122a",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/cirsium-horridulum/01.jpg",
+      "creator": "Lauraprl",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Texas_Purple_Thistle.jpg",
+      "role": "Recognize · several round pink-purple thistle heads on tall mostly bare flowering stalks in grassy vegetation; bract measurements unavailable",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "545ee249fbdfa49bbe95f4f1dc2febce01ee59e2",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/cirsium-horridulum/02.jpg",
+      "creator": "Bobyellow",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_horridulum_(bristly_thistle)_2.jpg",
+      "role": "Confirm clue · large purple flowerhead with conspicuous separate long spiny green structures directly below its head; need full side view to distinguish subtending bracts from phyllaries",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "6dc11d4184561b5b997897c894570836c5ac5796",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

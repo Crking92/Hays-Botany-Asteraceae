@@ -1,38 +1,14 @@
 {
   "id": "calyptocarpus-vialis",
-  "family": "Asteraceae",
-  "genus": "Calyptocarpus",
   "scientific_name": "Calyptocarpus vialis",
   "common_name": "Straggler daisy",
+  "family": "Asteraceae",
+  "genus": "Calyptocarpus",
   "look_here_first": "LOW, sprawling or mat-forming plant; leaves OPPOSITE, oval-to-triangular and shallowly toothed. Tiny YELLOW composite heads sit almost directly in the LEAF AXILS (where leaf meets stem). Confirm the Asteraceae head: short ray florets around yellow disc florets; inspect the green phyllaries beneath the head and, when mature, small awned cypselae. Do not identify by yellow flower color alone.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Creeping/procumbent perennial; delicate branched shoots spread through thin turf or along path edges and can root at nodes."
-    },
-    {
-      "label": "Identification",
-      "text": "Leaves in opposite pairs, often rotated 90 degrees at successive nodes (decussate); one simple blade per petiole."
-    },
-    {
-      "label": "Identification",
-      "text": "Leaf blades usually ovate, broadly lanceolate or somewhat triangular (deltate), about 1–3 cm commonly, sometimes larger; shallow rounded teeth on margins; three prominent veins arise near the base."
-    },
-    {
-      "label": "Identification",
-      "text": "Single small yellow COMPOSITE head about 4–8 mm across, nearly stalkless (subsessile), nestled where a leaf meets the stem."
-    },
-    {
-      "label": "Identification",
-      "text": "Small ray florets are present but have short yellow limbs; inner yellow disc florets are separate tiny flowers, not a single disc."
-    },
-    {
-      "label": "Identification",
-      "text": "Beneath a head inspect a few green overlapping phyllaries (typically about 4–6), not ordinary flower sepals."
-    },
-    {
-      "label": "Identification",
-      "text": "In fruit, look for flattened dry one-seeded cypselae with two conspicuous barbed awns (small additional awns may occur)."
+      "label": "Best field traits",
+      "text": "Creeping/procumbent perennial; delicate branched shoots spread through thin turf or along path edges and can root at nodes.; Leaves in opposite pairs, often rotated 90 degrees at successive nodes (decussate); one simple blade per petiole.; Leaf blades usually ovate, broadly lanceolate or somewhat triangular (deltate), about 1–3 cm commonly, sometimes larger; shallow rounded teeth on margins; three prominent veins arise near the base.; Single small yellow COMPOSITE head about 4–8 mm across, nearly stalkless (subsessile), nestled where a leaf meets the stem.; Small ray florets are present but have short yellow limbs; inner yellow disc florets are separate tiny flowers, not a single disc.; Beneath a head inspect a few green overlapping phyllaries (typically about 4–6), not ordinary flower sepals.; In fruit, look for flattened dry one-seeded cypselae with two conspicuous barbed awns (small additional awns may occur)."
     },
     {
       "label": "Life cycle",
@@ -61,14 +37,80 @@
     {
       "label": "Inflorescence",
       "text": "Usually a solitary radiate CAPITULUM (flower head) at a leaf axil; heads very short-stalked or nearly stalkless (subsessile). A leafy branch may continue immediately beside the head, making the head seem part of a cluster."
+    },
+    {
+      "label": "Heads",
+      "text": "Typically ~4–8 mm across. What looks like one tiny flower is a composite head of multiple separate yellow florets: short outer ray florets and central disc florets."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Small overlapping green involucral bracts beneath the head, often 4–6; Williamson County describes a bell-shaped involucre ~5–6 mm long. These are crucial Asteraceae organs; not yet verified in existing gallery photos."
+    },
+    {
+      "label": "Flower",
+      "text": "Yellow ray florets bear a short straplike corolla with lobes at the tip; central yellow disc florets are tubular and bisexual. Number and visibility vary; check with a hand lens rather than expecting a large showy daisy."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypsela (dry one-seeded fruit, often called an achene), typically ~2–4 mm long; often flattened and sometimes somewhat angled, with usually two conspicuous spreading-to-ascending barbed awns of the pappus (smaller additional awns possible). Fruit angle is NOT invariably three-sided."
+    },
+    {
+      "label": "Habitat",
+      "text": "Warm Central Texas lawns and lightly shaded turf margins, path edges, garden beds, roadsides and other disturbed ground; tolerates several soil types including clays and calcareous soils. Habitat is supporting, not an ID character."
+    },
+    {
+      "label": "Field season",
+      "text": "In Central Texas, look for leaves and spreading runners across much of the growing season, tiny heads during warm or moist spells; flowering may pause in dry or freezing weather. FNA reports flowering approximately year-round geographically; do not promise year-round local blooms."
+    },
+    {
+      "label": "Measurement tip",
+      "text": "Flower head ~4–8 mm across, far smaller than most conspicuous daisies. Carry a 1 mm-rule/hand lens for phyllaries and small awned fruit."
+    },
+    {
+      "label": "Key cautions",
+      "text": "Low stature plus yellow color is insufficient. Opposite leaves and short yellow rays are shared with other herbs; the almost stalkless axillary capitulum and reproductive microstructure are strongest checks. A 3-angled cypsela is possible but not universal."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Phyla nodiflora (frogfruit)",
+      "Dichondra carolinensis (Carolina ponyfoot)",
+      "Eclipta prostrata (false daisy)",
+      "Wedelia acapulcensis (hairy wedelia/zexmenia)",
+      "Synedrella nodiflora (introduced tropical comparison; not assumed locally frequent)"
+    ],
+    "differences": "Frogfruit: tiny white/pink flowers crowded into a button/cylinder on a noticeable naked axillary stalk, rather than a yellow ray-and-disc composite head. Carolina ponyfoot: round or kidney-shaped, entire-margined ALTERNATE leaves on long petioles, and minute non-daisy flowers. False daisy (Eclipta): opposite but much narrower/larger leaves; many short WHITE ray florets in a larger head, often wetter habitats. Hairy wedelia: much larger yellow/orange flower heads on longer peduncles and taller, coarse, often woody-based stems. Synedrella nodiflora: a useful botanical comparison in introduced floras, more erect with clustered heads; local occurrence should be checked before making it a core Hays field target."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "6c2acc731119b1fc038bc8e394879dc27115a773d1aab8d1a03a8fa01e129148",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/calyptocarpus-vialis/01.jpg",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_050210-3968_Calyptocarpus_vialis.jpg",
+      "role": "Confirm it · enlarged flower-head side view: green involucral bract (phyllary) and yellow ray floret labeled with arrows; complete underside and bract count not shown.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "61836c29adb5f33d5a142e6213f6b42200a6f0cf",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/calyptocarpus-vialis/02.jpg",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_050210-3974_Calyptocarpus_vialis.jpg",
+      "role": "Confirm it · isolated mature cypsela with two visible pappus awns, individually indicated; fine backward/forward-pointing barbs not resolved in this photograph.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "9f6f0be38e8dad08522289ad17bd0f9d61f43b5c",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

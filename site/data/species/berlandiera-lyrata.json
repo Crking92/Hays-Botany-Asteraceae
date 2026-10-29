@@ -1,9 +1,9 @@
 {
   "id": "berlandiera-lyrata",
-  "family": "Asteraceae",
-  "genus": "Berlandiera",
   "scientific_name": "Berlandiera lyrata",
   "common_name": "Chocolate daisy / lyreleaf greeneyes",
+  "family": "Asteraceae",
+  "genus": "Berlandiera",
   "look_here_first": "LOOK HERE FIRST: Examine the flower head from both sides. The yellow ray florets have reddish-maroon veins underneath, and the head is cupped by broad overlapping green involucral bracts (phyllaries). Look for a dark maroon disk and soft, often lyrately lobed gray-green basal leaves. Smell may be chocolate-like, especially in the morning, but do not identify from fragrance or yellow rays alone.",
   "key_traits": [
     {
@@ -28,11 +28,43 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Berlandiera texana — may share yellow rays and dark disk; check more strongly clasping stem leaves and detailed head/leaf structures, not scent alone.",
+      "Berlandiera pumila — similar chocolate-flower relatives; compare leaf dissection, pubescence, phyllaries and mature fruit with a regional key.",
+      "Thelesperma spp. — yellow ray or rayless heads can confuse at a glance; check leaves and green cup-like involucral bracts."
+    ],
+    "differences": "Combine ray underside maroon venation, green cup-like overlapping phyllaries, maroon disk and leaf shape. One yellow head is not enough."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "68b2160edcda145150feaa60d890e930d5b767dfad11bec50169015e14db3f8a",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/berlandiera-lyrata/01.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Berlandiera_lyrata_kz1.jpg",
+      "role": "Exact-species head front showing yellow rays and maroon disk",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "63c286ff69f8577aaf02bc1ecdbf3aadd94870d0",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/berlandiera-lyrata/02.jpg",
+      "creator": "Nadiatalent",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Berlandiera_lyrata,_involucral_bracts.jpg",
+      "role": "Exact-species underside showing broad green phyllaries and red-striped ray undersides",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "3de38c6bb304e0c40910a117a272b2aae819f489",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "ambrosia-artemisiifolia",
-  "family": "Asteraceae",
-  "genus": "Ambrosia",
   "scientific_name": "Ambrosia artemisiifolia",
   "common_name": "Common Ragweed",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
   "look_here_first": "START WITH THE LEAVES: common ragweed is an ANNUAL with finely divided, fernlike leaves, usually opposite low on the stem and alternate above. NEXT inspect flowering stems: dangling greenish MALE pollen heads form terminal spikes; much smaller FEMALE heads sit below them near the upper leaf axils. FINALLY check the mature fruit: a small woody bur with several short pointed projections. Western ragweed can have similar flowers and divided leaves but is a perennial spreading from underground rhizomes; check connected stems if uncertain.",
   "key_traits": [
     {
@@ -27,28 +27,34 @@
       "text": "Female heads mature into small woody burrlike involucres with usually 4–7 short spines or projections; photograph mature fruit beside a ruler."
     },
     {
-      "label": "Identification",
-      "text": "Annual plant with opposite lower leaves, alternate upper leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "Deeply divided fernlike foliage"
-    },
-    {
-      "label": "Identification",
-      "text": "Dangling male heads in terminal spikes; small female heads beneath"
-    },
-    {
-      "label": "Identification",
-      "text": "Small woody fruit with short crownlike projections"
+      "label": "Best field traits",
+      "text": "Annual plant with opposite lower leaves, alternate upper leaves; Deeply divided fernlike foliage; Dangling male heads in terminal spikes; small female heads beneath; Small woody fruit with short crownlike projections"
     }
   ],
   "lookalikes": {
-    "names": [],
+    "names": [
+      "Ambrosia psilostachya (western ragweed)",
+      "Ambrosia trifida (giant ragweed)",
+      "Artemisia spp. (sageworts)"
+    ],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "7d5ff6988c42f6a6000b244b63cdc297d2e3b32aacf643030bd0c60d8824f15c",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/ambrosia-artemisiifolia/01.jpg",
+      "creator": "(c) \nQwert1234, some rights reserved (CC BY-SA)",
+      "license": "CC BY SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/taxa/53587",
+      "role": "Look closer · upright pollen-bearing green male flowerhead spikes above deeply divided leaves on a hairy branching stem",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "6024d457e456eba480ce7c922e59a48b65df2826",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

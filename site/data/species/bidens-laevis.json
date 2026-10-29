@@ -1,9 +1,9 @@
 {
   "id": "bidens-laevis",
-  "family": "Asteraceae",
-  "genus": "Bidens",
   "scientific_name": "Bidens laevis",
   "common_name": "Smooth beggarticks / bur-marigold",
+  "family": "Asteraceae",
+  "genus": "Bidens",
   "look_here_first": "FIRST find a MIDDLE STEM LEAF still attached to an opposite leaf node: each leaf is SIMPLE (one lance-shaped blade), sessile or nearly so, often toothed, rather than three separate leaflets attached to a common leafstalk (B. frondosa). SECOND inspect head: usually 7–8 showy yellow rays about 15–25 mm long and 5–7+ OUTER CALYCULUS green leaflike bractlets, then the INNER overlapping phyllaries. THIRD compare mature fruit with B. cernua: B. laevis outer cypselae 6–8 mm, inner 8–10 mm, margins NOT conspicuously thickened or corky-winged, usually 2–4 barbed awns 3–5 mm long; B. cernua fruits have more conspicuous thickened/winged margins, often shorter awns and smaller rays. Both can have nodding ripe heads. Flower color, 'nodding' or wetland site alone are not enough.",
   "key_traits": [
     {
@@ -23,40 +23,48 @@
       "text": "Mature outer cypselae approximately 6–8 mm and inner approximately 8–10 mm, with non-corky (not conspicuously winged) margins and 2–4 retrorsely barbed pappus awns about 3–5 mm; check fruit at 10× versus B. cernua's often corky/thickened fruit margins."
     },
     {
-      "label": "Identification",
-      "text": "Opposite whole SIMPLE stem leaves, one toothed blade attached at each leaf base; cannot confuse with three compound leaflets."
-    },
-    {
-      "label": "Identification",
-      "text": "Showy head commonly 7–8 rays, each typically around 15–25 mm (but rays occasionally reduced or absent)."
-    },
-    {
-      "label": "Identification",
-      "text": "OUTER calyculus of ~5–7 green leaflike bractlets surrounding INNER ring of ~8–12 overlapping phyllaries; show separate colored labels."
-    },
-    {
-      "label": "Identification",
-      "text": "Mature cypselae OUTER 6–8 vs INNER 8–10 mm, 2–4 awns 3–5 mm; photo of true fruit required, not generic beggartick."
-    },
-    {
-      "label": "Identification",
-      "text": "Versus B. cernua: cernua generally shorter rays (often 2–15 mm) and outer fruits with thickened/corky or winged margins; overlaps exist."
-    },
-    {
-      "label": "Identification",
-      "text": "FNA: ANNUAL SOMETIMES PERSISTING; do not describe as invariably perennial."
-    },
-    {
-      "label": "Identification",
-      "text": "October flowering is often expected in suitable wetland habitat, but plant/fruit state varies with site."
+      "label": "Best field traits",
+      "text": "Opposite whole SIMPLE stem leaves, one toothed blade attached at each leaf base; cannot confuse with three compound leaflets.; Showy head commonly 7–8 rays, each typically around 15–25 mm (but rays occasionally reduced or absent).; OUTER calyculus of ~5–7 green leaflike bractlets surrounding INNER ring of ~8–12 overlapping phyllaries; show separate colored labels.; Mature cypselae OUTER 6–8 vs INNER 8–10 mm, 2–4 awns 3–5 mm; photo of true fruit required, not generic beggartick.; Versus B. cernua: cernua generally shorter rays (often 2–15 mm) and outer fruits with thickened/corky or winged margins; overlaps exist.; FNA: ANNUAL SOMETIMES PERSISTING; do not describe as invariably perennial.; October flowering is often expected in suitable wetland habitat, but plant/fruit state varies with site."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Bidens frondosa",
+      "Bidens cernua (comparison only)",
+      "Bidens aristosa (comparison only)"
+    ],
+    "differences": "Frondosa bears usually 3 (occasionally 5) leaflets and generally lacks showy rays, whereas laevis has one simple sessile blade per leaf and often showy rays. Cernua also simple-leaved; separate by longer usual ray lamina (laevis 15–25 mm vs cernua 2–15 mm), non-corky cypsela margins and 3–5 mm awns versus cernua's often distinctly thickened/winged margins and 1–4 mm awns. FNA explicitly warns of phenotypic overlap; keep Bidens cf. laevis if uncertain."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "cf688c5cfac02e41abe82b45a943f9fca68f8d84c58eb4c3470ec57249b92ca0",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/bidens-laevis/01.jpg",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20laevis.jpg",
+      "role": "Recognize · yellow-rayed Bidens flowering shoots above shallow water, with green leafy stems; opposite leaf-node details not resolved",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "31bdc428c816433e7b4c5e24e9b11443b02951c7",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/bidens-laevis/02.jpg",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bidens%20laevis%20-%20achenes%20and%20chaff.jpg",
+      "role": "Look closer · mature dark slender cypselae radiating from a spent head among pale receptacular chaff; fruit margins and individual barbed awns need stronger magnification",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "b978669175a10515b12906c7cc6e24c3087ca926",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "acmella-repens",
-  "family": "Asteraceae",
-  "genus": "Acmella",
   "scientific_name": "Acmella repens",
   "common_name": "Oppositeleaf spotflower",
+  "family": "Asteraceae",
+  "genus": "Acmella",
   "look_here_first": "Follow a trailing stem to a node: opposite petiolate, toothed leaves and stems that can root at the nodes. Then inspect a long-stalked solitary head: the disk becomes a conspicuous elongated conical receptacle with chaffy paleae as fruits mature. Confirm with mature compressed dark cypselae; ray color alone is weak.",
   "key_traits": [
     {
@@ -23,28 +23,48 @@
       "text": "Compressed dark cypselae about 1–2.5 mm; pappus generally absent. Look for fruiting cone and paleae."
     },
     {
-      "label": "Identification",
-      "text": "opposite toothed petiolate leaves at rooting nodes"
-    },
-    {
-      "label": "Identification",
-      "text": "long-stalked solitary heads"
-    },
-    {
-      "label": "Identification",
-      "text": "conical chaffy receptacle in fruit"
-    },
-    {
-      "label": "Identification",
-      "text": "small dark cypselae usually without pappus"
+      "label": "Best field traits",
+      "text": "opposite toothed petiolate leaves at rooting nodes; long-stalked solitary heads; conical chaffy receptacle in fruit; small dark cypselae usually without pappus"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Eclipta prostrata",
+      "Synedrella nodiflora",
+      "Sphagneticola trilobata"
+    ],
+    "differences": "Eclipta prostrata also has opposite leaves and wet-ground habit, but usually has small white rays and different fruit/head architecture. Synedrella nodiflora bears small axillary or terminal heads and a more erect habit; compare ray/cypsela morphology. Sphagneticola trilobata often has 3-lobed leaves and much larger showy rays. Confirm the elongated chaffy receptacle and fruit, not just leaf arrangement."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "df263099f457a360d37890f077a98698686f02176e68a83d0db39c366c1eb3ac",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/acmella-repens/01.jpg",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acmella_repens_04261.jpg",
+      "role": "Provisional flower head and disk",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "de382c0ea96b1f4edc6fab4a7273fa7191807c33",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/acmella-repens/02.jpg",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acmella_repens_04262.jpg",
+      "role": "Provisional habit and leaf arrangement",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "c0122cfc5b9f3d3adefd336de81de9ffae94b40f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "boltonia-diffusa",
-  "family": "Asteraceae",
-  "genus": "Boltonia",
   "scientific_name": "Boltonia diffusa",
   "common_name": "Diffuse boltonia",
+  "family": "Asteraceae",
+  "genus": "Boltonia",
   "look_here_first": "Inspect small white-ray daisy heads on finely branched stems; examine narrow leaf blades, disc florets and phyllaries.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "ae40b056018062baa57cf915e2a1585976922acf718ad0722483361395afd5e6",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

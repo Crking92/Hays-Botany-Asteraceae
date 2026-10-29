@@ -1,9 +1,9 @@
 {
   "id": "chaetopappa-bellidifolia",
-  "family": "Asteraceae",
-  "genus": "Chaetopappa",
   "scientific_name": "Chaetopappa bellidifolia",
   "common_name": "Whiteray leastdaisy",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
   "look_here_first": "Start at the base: this is a taprooted ANNUAL, not a rhizomatous perennial. Check flat, herbaceous, non-overlapping leaves; then inspect a mature cypsela with a loupe. The pappus is a minute thickened ring rather than the ~25 obvious bristles of C. ericoides. Compare whole plants with C. effusa and confirm root type before naming.",
   "key_traits": [
     {
@@ -23,24 +23,36 @@
       "text": "Mature cypsela pappus reduced to a minute thickened ring (Flora of North America key); use magnification to avoid mistaking it for an absent pappus."
     },
     {
-      "label": "Identification",
-      "text": "Examine rootstock and annual/perennial habit"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine basal and stem leaves including overlap and blade bases"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine mature cypsela pappus with magnification"
+      "label": "Best field traits",
+      "text": "Examine rootstock and annual/perennial habit; Examine basal and stem leaves including overlap and blade bases; Examine mature cypsela pappus with magnification"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Chaetopappa effusa",
+      "Chaetopappa ericoides",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "differences": "C. effusa is a rhizomatous perennial with broad proximal cauline leaves 6–12 mm and a tiny ring-like pappus; C. ericoides is perennial with densely overlapping narrow leathery leaves and ~24–26 pappus bristles. Other annual Chaetopappa may have cups or bristle+scale pappi; check ripe fruits."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b0b213ee6e65b26bfe190f31b0875e13fda87c396dd425d12bbae643990fa275",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/chaetopappa-bellidifolia/01.jpg",
+      "creator": "Cody Stricker",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/259597819",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "1cab4dadd341c70f3a3a7efacba9b6614f3e156c",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

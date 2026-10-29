@@ -1,17 +1,31 @@
 {
   "id": "chondrilla-juncea",
-  "family": "Asteraceae",
-  "genus": "Chondrilla",
   "scientific_name": "Chondrilla juncea",
   "common_name": "Rush skeletonweed",
+  "family": "Asteraceae",
+  "genus": "Chondrilla",
   "look_here_first": "Inspect wiry branching stems with very narrow leaves and small yellow all-ray flower heads; basal foliage can be lobed.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "7ae71cca3ff07ea470555085265e43a0caf134ec1c1bb3fcb358bcbc6215a6c9",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/chondrilla-juncea/01.jpg",
+      "creator": "Harry Rose  from South West Rocks, Australia",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chondrilla_juncea_plant1_(12112259833).jpg",
+      "role": "Introduced rush skeletonweed field habit (Australian reference; not a Texas observation)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "bdc8fbb376d1f06d04c3e99888d8d690cdbb3c74",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

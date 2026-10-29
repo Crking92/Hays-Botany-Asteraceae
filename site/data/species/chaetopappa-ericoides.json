@@ -1,9 +1,9 @@
 {
   "id": "chaetopappa-ericoides",
-  "family": "Asteraceae",
-  "genus": "Chaetopappa",
   "scientific_name": "Chaetopappa ericoides",
   "common_name": "Rose heath / heath leastdaisy",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
   "look_here_first": "Look along the stem first: tiny narrow, densely overlapping, leathery leaves, with a raised midrib and paired longitudinal grooves on the upper face. Confirm the woody/perennial base and, at fruiting, a single series of roughly 24–26 white barbellate pappus bristles; unlike the tiny pappus rings of C. effusa and C. bellidifolia.",
   "key_traits": [
     {
@@ -23,24 +23,36 @@
       "text": "Cypselae carry one series of usually 24–26 (occasionally 20–30) white barbellate pappus bristles (FNA key)."
     },
     {
-      "label": "Identification",
-      "text": "Examine rootstock and annual/perennial habit"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine basal and stem leaves including overlap and blade bases"
-    },
-    {
-      "label": "Identification",
-      "text": "Examine mature cypsela pappus with magnification"
+      "label": "Best field traits",
+      "text": "Examine rootstock and annual/perennial habit; Examine basal and stem leaves including overlap and blade bases; Examine mature cypsela pappus with magnification"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Chaetopappa bellidifolia",
+      "Chaetopappa effusa",
+      "Chaetopappa parryi",
+      "Chaetopappa hersheyi",
+      "small-rayed Erigeron spp."
+    ],
+    "differences": "C. effusa has broad flat non-overlapping lower leaves and a minute pappus ring; C. bellidifolia is a taprooted annual with flat leaves and a tiny ring. C. hersheyi also has overlapping leathery leaves but much shorter stems and a two-series pappus with only about five long inner bristles plus outer scales."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b5ee35fab815f7e012fb29e30fdf43d4f73a8b1a97d220b8d585fc76062af5d4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/chaetopappa-ericoides/01.jpg",
+      "creator": "Stan Shebs",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chaetopappa_ericoides_4.jpg",
+      "role": "Flowering heads and overlapping foliage",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "b8725b56bf9dc48345fe495dc472e60b37c271da",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

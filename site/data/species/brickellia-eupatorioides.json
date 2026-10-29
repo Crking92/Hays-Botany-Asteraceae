@@ -1,9 +1,9 @@
 {
   "id": "brickellia-eupatorioides",
-  "family": "Asteraceae",
-  "genus": "Brickellia",
   "scientific_name": "Brickellia eupatorioides",
   "common_name": "False boneset",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
   "look_here_first": "Start at a mature head and fruit: pappus bristles are plumose to subplumose, with gland-dotted phyllaries. Inspect woody perennial base and leaf nodes, but remember some varieties have alternate rather than opposite leaves. Do not assign a variety from a species-level source row.",
   "key_traits": [
     {
@@ -23,28 +23,18 @@
       "text": "Mature cypsela pappus bristles plumose to subplumose; photograph with macro to distinguish from related brickellbushes."
     },
     {
-      "label": "Identification",
-      "text": "plumose or subplumose mature pappus"
-    },
-    {
-      "label": "Identification",
-      "text": "gland-dotted phyllaries"
-    },
-    {
-      "label": "Identification",
-      "text": "woody perennial base"
-    },
-    {
-      "label": "Identification",
-      "text": "variable phyllotaxy across varieties"
+      "label": "Best field traits",
+      "text": "plumose or subplumose mature pappus; gland-dotted phyllaries; woody perennial base; variable phyllotaxy across varieties"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Brickellia cylindracea",
+      "Brickellia dentata"
+    ],
+    "differences": "Brickellia cylindracea (tomentose leaf undersides and strongly unequal outer phyllaries); Brickellia dentata (often alternate coarsely toothed leaves and usually glabrous mature cypselae). The source-pool B. eupatorioides var. gracillima is a nested infraspecific concept, not a second species card."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "ab4d83b54d6bbb978f6e365da50eecc0c8673b0772a1105f231ab2ac15eab470",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

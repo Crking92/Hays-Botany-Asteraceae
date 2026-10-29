@@ -1,9 +1,9 @@
 {
   "id": "amphiachyris-amoena",
-  "family": "Asteraceae",
-  "genus": "Amphiachyris",
   "scientific_name": "Amphiachyris amoena",
   "common_name": "Texas broomweed",
+  "family": "Asteraceae",
+  "genus": "Amphiachyris",
   "look_here_first": "Like Texas snakeweed, an open and wispy yellow-flowering annual. Examine the back of a real flower head: pale/resinous phyllaries without green midnerve borders; then the DISC floret has long white basally united pappus scales, unlike G. texana's nearly absent/very short scales. Do not identify this species from habit/color alone; compare A. dracunculoides arrangement too.",
   "key_traits": [
     {
@@ -11,36 +11,51 @@
       "text": "Asteraceae composite heads: ray florets + disc florets inside a phyllary involucre, producing cypselae."
     },
     {
-      "label": "Identification",
-      "text": "annual with broomy open branching"
+      "label": "Best field traits",
+      "text": "annual with broomy open branching; narrow alternate sessile linear leaves; gland-dotted aromatic foliage; many tiny yellow radiate heads; bell-shaped involucre with multiple phyllaries; calcareous soils and limestone outcrops"
     },
     {
-      "label": "Identification",
-      "text": "narrow alternate sessile linear leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "gland-dotted aromatic foliage"
-    },
-    {
-      "label": "Identification",
-      "text": "many tiny yellow radiate heads"
-    },
-    {
-      "label": "Identification",
-      "text": "bell-shaped involucre with multiple phyllaries"
-    },
-    {
-      "label": "Identification",
-      "text": "calcareous soils and limestone outcrops"
+      "label": "Comparison training",
+      "text": "Compared with Amphiachyris dracunculoides, A. amoena is a Texas limestone specialist with very narrow sparse leaves and small resinous heads."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Compared with Amphiachyris dracunculoides, A. amoena is a Texas limestone specialist with very narrow sparse leaves and small resinous heads."
+    "names": [
+      "Gutierrezia texana",
+      "Amphiachyris dracunculoides"
+    ],
+    "differences": "Most important snakeweed double: both A. amoena and G. texana are open-panicle yellow-flowered annuals. A. amoena: whitish phyllary backs without green-lined midnerve and long spatulate-tipped DISC pappus scales, whereas G. texana has variable green-lined phyllary nerves and very short/absent pappus. Distinguish from A. dracunculoides with open versus crowded arrays and fruit rib count/receptacle hairs, not yellow rays."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "c5be03c086cd895d8a27e2a7a5635d2e981aa40548e7dab5c0fdd2f30b7b33f7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/amphiachyris-amoena/01.jpg",
+      "creator": "(c) Sophia K, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/95597538",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4391a7a4bd6284f2414bca0581783be633910475",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/amphiachyris-amoena/02.jpg",
+      "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/723168785",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "3de5cf8a484d0dea85a6318f3196c4534fc43380",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

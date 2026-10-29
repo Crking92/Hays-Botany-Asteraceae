@@ -1,9 +1,9 @@
 {
   "id": "cirsium-texanum",
-  "family": "Asteraceae",
-  "genus": "Cirsium",
   "scientific_name": "Cirsium texanum",
   "common_name": "Texas Thistle",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
   "look_here_first": "FIRST measure the green involucre UNDER the flower heads (excluding florets and projecting phyllary spines): local Texas thistle specimen descriptions give roughly 15–20 mm in height. SECOND examine a stem LEAF NODE: the broad sessile upper leaf may make small spine-tipped clasping ears (auricles) and CAN continue as DECURRENT, SPINY STEM WINGS on robust plants. Do not assume wings mean introduced C. vulgare! Instead compare bull thistle's short bristle-spines emerging on the UPPER leaf blade. Check whitish glutinous longitudinal phyllary midridges where visible. C. horridulum has markedly larger 40–45 mm involucres in Williamson County specimens, largely hidden by a separate ring of spinescent upper leaves.",
   "key_traits": [
     {
@@ -27,20 +27,8 @@
       "text": "Involucre around 12–20 mm high (FNA key and UT Austin detailed Texas treatment). Outer/middle phyllaries often carry a narrow whitish, sticky, glutinous medial ridge; UT Austin describes ~2.5–4 mm ridge on sampled phyllaries. A visible pale line need not be sticky in every photo and is not exclusive among Cirsium."
     },
     {
-      "label": "Identification",
-      "text": "native Texas roadside thistle"
-    },
-    {
-      "label": "Identification",
-      "text": "pink-purple discoid heads"
-    },
-    {
-      "label": "Identification",
-      "text": "spiny but not extremely woolly foliage"
-    },
-    {
-      "label": "Identification",
-      "text": "relatively compact stature"
+      "label": "Best field traits",
+      "text": "native Texas roadside thistle; pink-purple discoid heads; spiny but not extremely woolly foliage; relatively compact stature"
     },
     {
       "label": "Stem",
@@ -48,11 +36,14 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Cirsium horridulum",
+      "Cirsium vulgare",
+      "Cirsium carolinianum (comparison only)"
+    ],
+    "differences": "C. horridulum has the extra under-head collar of very spinescent upper leaves and a much larger involucre (~40–45 mm in UT Williamson description) compared with C. texanum's ~15–20 mm. C. texanum upper stem leaf bases can clasp with auricles OR descend as spiny wings on robust plants; C. vulgare also has wings but distinctive short bristle-spines on upper LEAF FACE. Do not teach winged/not-winged as an absolute species split."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "377f1613a6cfb09654cb00aae69dc8bb7b06156956de38e4e507b236ef3b6809",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

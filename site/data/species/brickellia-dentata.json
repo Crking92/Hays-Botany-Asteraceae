@@ -1,9 +1,9 @@
 {
   "id": "brickellia-dentata",
-  "family": "Asteraceae",
-  "genus": "Brickellia",
   "scientific_name": "Brickellia dentata",
   "common_name": "Gravelbar / leafy brickellbush",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
   "look_here_first": "First inspect alternate leaves (often coarsely toothed but occasionally entire) and narrow cylindrical flower heads. Use a loupe to check 18–22 phyllaries in 5–6 overlapping series and 13–20 disk florets. At fruiting, confirm mostly hairless cypselae with 30–35 tawny pappus bristles. Do not use river-gravel habitat or leaf teeth alone.",
   "key_traits": [
     {
@@ -23,28 +23,18 @@
       "text": "Cypselae 3.5–4 mm, usually glabrous; 30–35 tawny barbellate to subplumose pappus bristles."
     },
     {
-      "label": "Identification",
-      "text": "Alternate often toothed leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "13–20 disk florets per head"
-    },
-    {
-      "label": "Identification",
-      "text": "Phyllaries 18–22 in 5–6 series"
-    },
-    {
-      "label": "Identification",
-      "text": "Mostly hairless mature cypselae with tawny bristles"
+      "label": "Best field traits",
+      "text": "Alternate often toothed leaves; 13–20 disk florets per head; Phyllaries 18–22 in 5–6 series; Mostly hairless mature cypselae with tawny bristles"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Brickellia cylindracea",
+      "Brickellia eupatorioides"
+    ],
+    "differences": "B. dentata typically has alternate, toothed leaves and mostly glabrous cypselae; B. cylindracea frequently has opposite/subopposite leaves with a woolly underside; B. eupatorioides usually has opposite leaves and often subplumose pappus. Confirm with mature heads and fruits, not leaf position alone."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "37194c5109f6ba1578bacbb99343915e7f905d05c4d498ebe7bc6d7182cc2715",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,42 +1,25 @@
 {
   "id": "cirsium-ochrocentrum",
-  "family": "Asteraceae",
-  "genus": "Cirsium",
   "scientific_name": "Cirsium ochrocentrum",
   "common_name": "Yellowspine thistle",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
   "look_here_first": "Start with woolly gray stems/leaves AND side of unopened head. C. ochrocentrum has strong, often straw-yellow phyllary spines (FNA large-headed keyed forms ~5–12 mm, other forms longer), while several middle/upper leaves may extend onto the stem as SPINY WINGS up to ~5 cm. Check glutinous/resinous midribs on outer/middle phyllaries if visible. The gray wool and yellowish spines ALONE do not distinguish it from C. undulatum or other western thistles.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Woolly gray tomentum across stems and lower leaf surfaces, in conjunction with other characters."
-    },
-    {
-      "label": "Identification",
-      "text": "Long stout phyllary-spine tips, often ~5–12 mm in FNA large-headed form; measure from bract tip, not flower."
-    },
-    {
-      "label": "Identification",
-      "text": "Mid and distal stem leaves can be DECURRENT as spiny wings, about 1–5 cm in keyed large-headed form."
-    },
-    {
-      "label": "Identification",
-      "text": "Outer/middle phyllaries often with a translucent or sticky resinous median ridge; inspect macro."
-    },
-    {
-      "label": "Identification",
-      "text": "C. undulatum also gray-woolly; it has different leaf lobe form, less uniformly pronounced stem wings, and unusually large mature 6–7 mm cypselae."
-    },
-    {
-      "label": "Identification",
-      "text": "Native status in Texas broadly does not prove target-zone counties; current Kerr-only provisional range retained."
+      "label": "Best field traits",
+      "text": "Woolly gray tomentum across stems and lower leaf surfaces, in conjunction with other characters.; Long stout phyllary-spine tips, often ~5–12 mm in FNA large-headed form; measure from bract tip, not flower.; Mid and distal stem leaves can be DECURRENT as spiny wings, about 1–5 cm in keyed large-headed form.; Outer/middle phyllaries often with a translucent or sticky resinous median ridge; inspect macro.; C. undulatum also gray-woolly; it has different leaf lobe form, less uniformly pronounced stem wings, and unusually large mature 6–7 mm cypselae.; Native status in Texas broadly does not prove target-zone counties; current Kerr-only provisional range retained."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Cirsium undulatum",
+      "Cirsium vulgare",
+      "Cirsium horridulum"
+    ],
+    "differences": "Ochrocentrum's long phyllary spine plus conspicuous decurrent spiny wings (some forms), woolly stems and possible resin gland ridge; undulatum leaves often less divided/shallowly lobed, winging minimal or absent in much of FNA key, and mature fruit 6–7 mm. Vulgare upper blade carries short bristlelike spines, not the same as marginal thorns. Horridulum has an extra under-head armored bract collar."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "5619452ab83cc23a5fd24c2238d85f9a530fc44512e92888ff15fd33889234c8",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

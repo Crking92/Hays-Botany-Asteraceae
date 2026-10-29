@@ -1,9 +1,9 @@
 {
   "id": "brickellia-cylindracea",
-  "family": "Asteraceae",
-  "genus": "Brickellia",
   "scientific_name": "Brickellia cylindracea",
   "common_name": "Gravelbar brickellbush",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
   "look_here_first": "Examine paired nodes and the underside of a mature leaf: leaves often opposite or nearly opposite, densely pale-tomentose beneath and gland-dotted. Confirm on a head by checking layered phyllaries; the outer bracts are at most about half the inner length. Do not identify by stream-gravel habitat alone.",
   "key_traits": [
     {
@@ -23,28 +23,33 @@
       "text": "Check mature cypsela pubescence; often hairy relative to usually glabrous B. dentata."
     },
     {
-      "label": "Identification",
-      "text": "paired or nearly paired leaf nodes"
-    },
-    {
-      "label": "Identification",
-      "text": "densely tomentose, gland-dotted leaf undersides"
-    },
-    {
-      "label": "Identification",
-      "text": "outer phyllaries <= half inner length"
-    },
-    {
-      "label": "Identification",
-      "text": "mature cypsela hairs"
+      "label": "Best field traits",
+      "text": "paired or nearly paired leaf nodes; densely tomentose, gland-dotted leaf undersides; outer phyllaries <= half inner length; mature cypsela hairs"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Brickellia dentata",
+      "Brickellia eupatorioides"
+    ],
+    "differences": "Brickellia dentata (alternate leaves, often coarsely toothed, mature cypselae usually glabrous); Brickellia eupatorioides (plumose or subplumose pappus; species complex with variable phyllotaxy); Brickellia lemmonii and B. conduplicata overlap in vegetative characters. Use head and fruit together."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "18d4fedfde5b884d07fddfd089c0c395f639cbd9a161eaa3790dc7464af4003d",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/brickellia-cylindracea/01.jpg",
+      "creator": "Reid Hardin",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Brickellia_cylindracea_444535771.jpg",
+      "role": "Habit/flowering branch, provisional overview; does not replace scaled head and leaf underside macros",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "47738c604de0745fb8b606df0f1e1dd1dd57ea81",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

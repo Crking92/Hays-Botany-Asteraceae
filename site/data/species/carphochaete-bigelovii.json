@@ -1,17 +1,45 @@
 {
   "id": "carphochaete-bigelovii",
-  "family": "Asteraceae",
-  "genus": "Carphochaete",
   "scientific_name": "Carphochaete bigelovii",
   "common_name": "Bigelow's carphochaete",
+  "family": "Asteraceae",
+  "genus": "Carphochaete",
   "look_here_first": "Begin with small clustered flower heads and their involucral bracts; inspect leaves and florets under magnification.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "9d3c7820944d8ed93b540b2c65873cff551d8dac2b57f4e771d09fdf52067f36",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/carphochaete-bigelovii/01.jpg",
+      "creator": "(c) Cody Stricker, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/275135764",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "2c57abdf45028d0b93b7cd162d76afac0e4fc043",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/carphochaete-bigelovii/02.jpg",
+      "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/535134193",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "5d5e4923682dada7d783f7f6ef28824c547d9e21",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

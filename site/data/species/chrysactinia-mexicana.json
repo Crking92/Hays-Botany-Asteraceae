@@ -1,42 +1,14 @@
 {
   "id": "chrysactinia-mexicana",
-  "family": "Asteraceae",
-  "genus": "Chrysactinia",
   "scientific_name": "Chrysactinia mexicana",
   "common_name": "Damianita",
+  "family": "Asteraceae",
+  "genus": "Chrysactinia",
   "look_here_first": "Crush-free visual ID starts with the tiny narrow leaves: damianita is a low woody-based subshrub with many very narrow aromatic gland-dotted leaves and solitary bright-yellow heads held above the canopy on slender peduncles.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "evergreen aromatic subshrub with woody lower stems"
-    },
-    {
-      "label": "Identification",
-      "text": "many short linear to linear-oblanceolate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves conspicuously oil-gland dotted under magnification"
-    },
-    {
-      "label": "Identification",
-      "text": "solitary terminal radiate heads on slender peduncles"
-    },
-    {
-      "label": "Identification",
-      "text": "bright yellow ray florets surrounding yellow disc florets"
-    },
-    {
-      "label": "Identification",
-      "text": "involucre with relatively few phyllaries and conspicuous oil glands"
-    },
-    {
-      "label": "Identification",
-      "text": "pappus of many capillary bristles"
-    },
-    {
-      "label": "Identification",
-      "text": "inferior ovary maturing into a cypsela"
+      "label": "Best field traits",
+      "text": "evergreen aromatic subshrub with woody lower stems; many short linear to linear-oblanceolate leaves; leaves conspicuously oil-gland dotted under magnification; solitary terminal radiate heads on slender peduncles; bright yellow ray florets surrounding yellow disc florets; involucre with relatively few phyllaries and conspicuous oil glands; pappus of many capillary bristles; inferior ovary maturing into a cypsela"
     },
     {
       "label": "Family training",
@@ -48,11 +20,29 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Tetraneuris linearifolia",
+      "Thymophylla spp.",
+      "other small yellow limestone Asteraceae"
+    ],
+    "differences": "Damianita is a low woody-based aromatic subshrub with numerous tiny linear gland-dotted leaves; Tetraneuris linearifolia is an annual herb with a different involucre/pappus pattern."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "55c4a50604929b098d8548b4068f6a5bd4faaf677d79e5b1ba0a65e440f4edba",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/chrysactinia-mexicana/01.jpg",
+      "creator": "Stan Shebs",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chrysactinia_mexicana.jpg",
+      "role": "Whole flowering mound and branch architecture",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "bb43d45b83c84097c39f4b35f6196df84fb27eef",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
