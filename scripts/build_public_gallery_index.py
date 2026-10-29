@@ -25,9 +25,10 @@ for row in INDEX["entries"]:
     assert isinstance(photos,list)
     for photo in photos:
         assert photo.get("private_rights_review_only") is False and photo.get("noncommercial_only") is False,id
-        assert re.match(r"^CC BY(?: SA|-SA)? [234]\.0$",photo.get("license","")),id
-        assert photo.get("creator") and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:"),id
-        assert photo.get("license_url","").startswith("https://creativecommons.org/licenses/"),id
+        license_name=photo.get("license","")
+        assert re.match(r"^(CC BY(?: SA|-SA)? [234]\.0|CC0 1\.0)$",license_name),id
+        assert photo.get("creator") and photo.get("source_page","").startswith("https://"),id
+        assert photo.get("license_url","").startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/")),id
         relative=photo.get("src","")
         assert re.fullmatch(r"media/[a-z0-9-]+/[A-Za-z0-9_-]+\.jpg",relative),id
         assert relative.startswith("media/"+id+"/")
