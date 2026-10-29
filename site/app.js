@@ -32,7 +32,8 @@ async function select(id,push){
    }
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
-   d.append(el("p","Scientific metadata preview — no photographs published or confirmed","muted"));
+   const released=Array.isArray(card.verified_photos)?card.verified_photos.length:0;
+   d.append(el("p",released?`${released} individually credited Creative Commons photograph${released===1?"":"s"} available for this species. More anatomy views may still be needed.`:"No public-cleared photographs for this species yet. Field-ID text is available; archived source images remain under review.","muted"));
    if(card.look_here_first){
      d.append(el("h3","LOOK HERE FIRST"));
      d.append(el("p",card.look_here_first));
