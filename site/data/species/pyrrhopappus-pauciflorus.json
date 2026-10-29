@@ -1,17 +1,31 @@
 {
   "id": "pyrrhopappus-pauciflorus",
-  "family": "Asteraceae",
-  "genus": "Pyrrhopappus",
   "scientific_name": "Pyrrhopappus pauciflorus",
   "common_name": "Smallflower false dandelion",
+  "family": "Asteraceae",
+  "genus": "Pyrrhopappus",
   "look_here_first": "Look for dandelionlike flower heads composed entirely of strap-shaped florets, latex and narrow foliage; inspect mature plumed pappus and phyllaries.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "100ff337fb63be6ea75a7b082a18afac517005409b9f7af2e8d267d27ad9fcfd",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/pyrrhopappus-pauciflorus/01.jpg",
+      "creator": "Amyls33",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pyrrhopappus_pauciflorus_seeds.jpg",
+      "role": "Provisional seed-bearing stage with conspicuous pappus, College Station TX; spring flower needed.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "41518641d9c6ebc50f95e8323ecf1f48328340e0",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,17 +1,31 @@
 {
   "id": "leontodon-rhagadioloides",
-  "family": "Asteraceae",
-  "genus": "Leontodon",
   "scientific_name": "Leontodon rhagadioloides",
   "common_name": "Crete weed",
+  "family": "Asteraceae",
+  "genus": "Leontodon",
   "look_here_first": "Inspect the involucral bracts below the yellow flower head; compare leaves and mature achenes and pappus rather than just flower color.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "606c0d7d9532077ce4c9ef58f36709b6f32621d17bfc57657c8ac969b55ad9fd",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/leontodon-rhagadioloides/01.jpg",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY (iNaturalist current photo code)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/188150460",
+      "role": "Texas research-grade field photo (observed as synonym Hedypnois rhagadioloides)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "61d1cbaf2f5d82f466a96214507d72330993cd9b",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

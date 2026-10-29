@@ -1,17 +1,45 @@
 {
   "id": "pyrrhopappus-grandiflorus",
-  "family": "Asteraceae",
-  "genus": "Pyrrhopappus",
   "scientific_name": "Pyrrhopappus grandiflorus",
   "common_name": "Texas false dandelion",
+  "family": "Asteraceae",
+  "genus": "Pyrrhopappus",
   "look_here_first": "Look for yellow all-ligulate flower heads on leafy stems; inspect the bracts beneath the head and the mature seed pappus.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "453924958a7d290203a9f40c9206fa5ccd77a23abd1e600bdaa3cab282fe542a",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/pyrrhopappus-grandiflorus/01.jpg",
+      "creator": "(c) Chet Burrier, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/647512367",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "37c879f1dd12ba6eab66735e8789e9c7ee159435",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/pyrrhopappus-grandiflorus/02.jpg",
+      "creator": "(c) Chet Burrier, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/647512375",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "9351a7e3f4d0bec5b88de5875de1cd3d35f78408",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

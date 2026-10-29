@@ -1,17 +1,31 @@
 {
   "id": "pseudognaphalium-canescens",
-  "family": "Asteraceae",
-  "genus": "Pseudognaphalium",
   "scientific_name": "Pseudognaphalium canescens",
   "common_name": "Woolly cudweed",
+  "family": "Asteraceae",
+  "genus": "Pseudognaphalium",
   "look_here_first": "Look closely at the densely woolly leaf and stem surfaces and the clusters of small heads with papery involucral bracts.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "ab66e8c70e437a3df8e25c788d1b88a1793aced6b7d288c93d87970a3335ef7d",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/pseudognaphalium-canescens/01.jpg",
+      "creator": "(c) IDClaire, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/624516026",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "873e83a60a140c5499b8b9ade5d47836388e9b51",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

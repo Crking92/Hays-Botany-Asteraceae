@@ -1,9 +1,9 @@
 {
   "id": "melampodium-leucanthum",
-  "family": "Asteraceae",
-  "genus": "Melampodium",
   "scientific_name": "Melampodium leucanthum",
   "common_name": "Blackfoot daisy",
+  "family": "Asteraceae",
+  "genus": "Melampodium",
   "look_here_first": "Low perennial with white ray florets surrounding yellow disc florets; check leaf arrangement and phyllaries.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "d92503dd8fb9889d641ecf8e71a315b78b9a9d895901b9b1df62e87991e7ed52",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

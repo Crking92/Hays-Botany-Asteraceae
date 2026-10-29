@@ -1,9 +1,9 @@
 {
   "id": "liatris-punctata",
-  "family": "Asteraceae",
-  "genus": "Liatris",
   "scientific_name": "Liatris punctata",
   "common_name": "Dotted Gayfeather / Blazing Star",
+  "family": "Asteraceae",
+  "genus": "Liatris",
   "look_here_first": "Unbranched spike of small purple discoid heads; use stem surface, corm, and fruit to teach local var. punctata versus var. mucronata.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b343cc38f46c25dc9ad787b42fdb735925b950bcf75c4924ea98ea0b9bc847dd",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

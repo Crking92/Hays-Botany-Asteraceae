@@ -1,9 +1,9 @@
 {
   "id": "plectocephalus-americanus",
-  "family": "Asteraceae",
-  "genus": "Plectocephalus",
   "scientific_name": "Plectocephalus americanus",
   "common_name": "American Basketflower",
+  "family": "Asteraceae",
+  "genus": "Plectocephalus",
   "look_here_first": "",
   "key_traits": [
     {
@@ -27,28 +27,44 @@
       "text": "Broadly overlapping, papery/fringed bracts create the distinctive basket appearance."
     },
     {
-      "label": "Identification",
-      "text": "huge pink-lavender head"
-    },
-    {
-      "label": "Identification",
-      "text": "basket-like involucral bracts"
-    },
-    {
-      "label": "Identification",
-      "text": "tall annual habit"
-    },
-    {
-      "label": "Identification",
-      "text": "no ray florets"
+      "label": "Best field traits",
+      "text": "huge pink-lavender head; basket-like involucral bracts; tall annual habit; no ray florets"
     }
   ],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "00d78aa34c2e56a2542bf01d4901ad19fe2f4994ba44d5fc899af34896b4f701",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/plectocephalus-americanus/01.jpg",
+      "creator": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/94817657",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "c23e37a113e741bb6c1aefbc1b447a9b2b64132f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/plectocephalus-americanus/02.jpg",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/204439541",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "cf1c8cd3b45e2fb93e14a259b85a4d4a832bc2fe",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

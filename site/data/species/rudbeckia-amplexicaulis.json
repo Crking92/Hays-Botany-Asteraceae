@@ -1,46 +1,42 @@
 {
   "id": "rudbeckia-amplexicaulis",
-  "family": "Asteraceae",
-  "genus": "Rudbeckia",
   "scientific_name": "Rudbeckia amplexicaulis",
   "common_name": "Clasping coneflower",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
   "look_here_first": "Start with the leaves: smooth to glabrous sessile leaves with rounded bases visibly clasp the stem. Yellow rays often show a reddish-brown basal eye around the raised dark cone.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "annual or short-lived perennial"
+      "label": "Best field traits",
+      "text": "annual or short-lived perennial; mostly glabrous shoots; sessile leaves with rounded clasping bases; single terminal yellow heads; yellow rays often with dark basal eye; raised conic to barrel-shaped disk; outer phyllaries spreading to reflexed"
     },
     {
-      "label": "Identification",
-      "text": "mostly glabrous shoots"
-    },
-    {
-      "label": "Identification",
-      "text": "sessile leaves with rounded clasping bases"
-    },
-    {
-      "label": "Identification",
-      "text": "single terminal yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow rays often with dark basal eye"
-    },
-    {
-      "label": "Identification",
-      "text": "raised conic to barrel-shaped disk"
-    },
-    {
-      "label": "Identification",
-      "text": "outer phyllaries spreading to reflexed"
+      "label": "Comparison training",
+      "text": "The clasping leaf bases are the fastest separator; do not use yellow ray color alone."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "The clasping leaf bases are the fastest separator; do not use yellow ray color alone."
+    "names": [
+      "Rudbeckia hirta"
+    ],
+    "differences": "R. amplexicaulis is smoother and has conspicuously clasping sessile leaves; R. hirta is generally hairier and lacks the same clasping leaf-base look."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "edef4e4d55998cec9adf5601e3f18f049543ef1208bcdabbeef01280662fc06f",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/rudbeckia-amplexicaulis/01.jpg",
+      "creator": "Michael Gras, M.Ed.",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_amplexicaulis.jpg",
+      "role": "Look closer · yellow ray florets with deep reddish-brown bases around a raised dark central disk; leaf attachment not shown",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "7b52f66e05bc0e49928daa9524f711bf2b01723e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

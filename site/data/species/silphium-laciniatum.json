@@ -1,9 +1,9 @@
 {
   "id": "silphium-laciniatum",
-  "family": "Asteraceae",
-  "genus": "Silphium",
   "scientific_name": "Silphium laciniatum",
   "common_name": "Compass plant",
+  "family": "Asteraceae",
+  "genus": "Silphium",
   "look_here_first": "Look at the basal leaves first: huge, stiff, deeply pinnatifid blades cut almost to the midrib into narrow lobes. Then check the towering flowering stem and yellow ray-and-disk heads. Leaf north-south orientation is variable and not diagnostic by itself.",
   "key_traits": [
     {
@@ -11,32 +11,34 @@
       "text": "Long-lived perennial"
     },
     {
-      "label": "Identification",
-      "text": "Massive deeply pinnatifid basal leaves with narrow lobes."
-    },
-    {
-      "label": "Identification",
-      "text": "Very tall erect flowering stalk, often above a basal leaf rosette."
-    },
-    {
-      "label": "Identification",
-      "text": "Yellow ray florets and central disk florets in sunflower-like heads."
-    },
-    {
-      "label": "Identification",
-      "text": "Stiff coarse foliage; inspect leaf dissection rather than flower color."
-    },
-    {
-      "label": "Identification",
-      "text": "Leaves sometimes held approximately north-south, but orientation alone is unreliable."
+      "label": "Best field traits",
+      "text": "Massive deeply pinnatifid basal leaves with narrow lobes.; Very tall erect flowering stalk, often above a basal leaf rosette.; Yellow ray florets and central disk florets in sunflower-like heads.; Stiff coarse foliage; inspect leaf dissection rather than flower color.; Leaves sometimes held approximately north-south, but orientation alone is unreliable."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Silphium radula",
+      "Silphium albiflorum",
+      "Silphium integrifolium"
+    ],
+    "differences": "S. radula has broader rough leaves rather than the extremely deeply dissected compass leaves. S. albiflorum has white rays and different leaf architecture. S. integrifolium has broad mostly entire leaves; historic Central Texas variety names need concept-level reconciliation."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1055e4412e1cf0e386650f5756883380e343d6015f6ffb22d8599df1e9a7c336",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/silphium-laciniatum/01.jpg",
+      "creator": "Frank Mayfield",
+      "license": "CC BY SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_laciniatum_2.jpg",
+      "role": "Recognize · tall branched flowering stalks bearing yellow ray-and-disk heads, seen from below; distinctive basal leaves not shown",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "3215428fe9a1b7f76cf79bb764b5ae7c2d24d3a8",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,30 +1,14 @@
 {
   "id": "pluchea-camphorata",
-  "family": "Asteraceae",
-  "genus": "Pluchea",
   "scientific_name": "Pluchea camphorata",
   "common_name": "Camphorweed",
+  "family": "Asteraceae",
+  "genus": "Pluchea",
   "look_here_first": "Start with leaf arrangement and head type: alternate, resinous/gland-dotted, usually petiolate leaves below a rounded cluster of many tiny pink-purple heads with no ray florets.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "alternate simple elliptic to oblong/lanceolate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves usually visibly petiolate and resinous/gland-dotted"
-    },
-    {
-      "label": "Identification",
-      "text": "rounded/corymbiform mass of many tiny pink-purple heads"
-    },
-    {
-      "label": "Identification",
-      "text": "heads are discoid with no ray florets"
-    },
-    {
-      "label": "Identification",
-      "text": "crushed foliage may smell camphor-like but odor is only secondary"
+      "label": "Best field traits",
+      "text": "alternate simple elliptic to oblong/lanceolate leaves; leaves usually visibly petiolate and resinous/gland-dotted; rounded/corymbiform mass of many tiny pink-purple heads; heads are discoid with no ray florets; crushed foliage may smell camphor-like but odor is only secondary"
     },
     {
       "label": "Leaf arrangement",
@@ -48,11 +32,14 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Pluchea odorata",
+      "Heterotheca subaxillaris",
+      "Conoclinium coelestinum"
+    ],
+    "differences": "Heterotheca subaxillaris is also called camphorweed but has conspicuous yellow ray florets. Conoclinium has opposite triangular 3-veined leaves."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "d6e1d388ca7fd3848a2fa6243d64baa8a6a2fade79e43d45fce83503ce14b22e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

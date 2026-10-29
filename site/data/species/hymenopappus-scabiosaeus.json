@@ -1,9 +1,9 @@
 {
   "id": "hymenopappus-scabiosaeus",
-  "family": "Asteraceae",
-  "genus": "Hymenopappus",
   "scientific_name": "Hymenopappus scabiosaeus",
   "common_name": "Carolina woollywhite",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
   "look_here_first": "Look for divided leaves and flower heads dominated by tubular disc florets; inspect phyllaries, leaf segments and head arrangement to avoid confusion with similar composites.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "be38c65036823f2975be4c82a360d210a1d1a296bbe5e9a91b627f85389883c7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

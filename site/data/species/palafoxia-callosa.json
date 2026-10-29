@@ -1,9 +1,9 @@
 {
   "id": "palafoxia-callosa",
-  "family": "Asteraceae",
-  "genus": "Palafoxia",
   "scientific_name": "Palafoxia callosa",
   "common_name": "Small palafoxia",
+  "family": "Asteraceae",
+  "genus": "Palafoxia",
   "look_here_first": "Look for slender branching stems and small pink-to-lavender heads with narrow ray-like outer florets; examine mature leaves and involucral bracts to separate related palafoxias.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "061d32ef3e10a38b73021b1ed98e84115df86fa2270e048f3226b6aba1411c8a",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

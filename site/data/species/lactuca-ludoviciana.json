@@ -1,17 +1,31 @@
 {
   "id": "lactuca-ludoviciana",
-  "family": "Asteraceae",
-  "genus": "Lactuca",
   "scientific_name": "Lactuca ludoviciana",
   "common_name": "Western wild lettuce",
+  "family": "Asteraceae",
+  "genus": "Lactuca",
   "look_here_first": "Look for leafy, erect wild lettuce with milky latex and branching heads of strap-shaped florets; check leaf shape, basal clasping lobes and fruits.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "521bcdf3894ac17a0233e3a859e37610a8f099c2f069cea7cc459cef4bd1c6f0",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/lactuca-ludoviciana/01.jpg",
+      "creator": "David Peden (wafflemaster135)",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_ludoviciana_04.jpg",
+      "role": "Provisional photo of western wild lettuce leaf detail; flowers and mature pappus fruits not shown.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "c402de98452c8af4de8188751311e6f841b2ddff",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

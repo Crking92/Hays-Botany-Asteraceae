@@ -1,17 +1,31 @@
 {
   "id": "pinaropappus-roseus",
-  "family": "Asteraceae",
-  "genus": "Pinaropappus",
   "scientific_name": "Pinaropappus roseus",
   "common_name": "Pink dandelion / rock lettuce",
+  "family": "Asteraceae",
+  "genus": "Pinaropappus",
   "look_here_first": "Look for pink-purple strap-shaped ligulate flowers in a dandelionlike head, a leaf rosette and milky latex; confirm phyllaries and mature pappus.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "72dfff6475b02fd098f3a1b80f071935575daeb0776b2672c885ec8effa3e2a4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/pinaropappus-roseus/01.jpg",
+      "creator": "Bodofzt",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pinaropappus_roseus.jpg",
+      "role": "Provisional pink ligulate flower head; phyllaries and mature fruit details are not guaranteed visible.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "f1b8b506a61d573738d32d197fbc38dab00f65b9",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

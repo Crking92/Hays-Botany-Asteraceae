@@ -1,17 +1,31 @@
 {
   "id": "laphamia-lindheimeri",
-  "family": "Asteraceae",
-  "genus": "Laphamia",
   "scientific_name": "Laphamia lindheimeri",
   "common_name": "Lindheimer's laphamia",
+  "family": "Asteraceae",
+  "genus": "Laphamia",
   "look_here_first": "Examine leaf arrangement and small flower heads, focusing on phyllaries and achenes.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "4dfd9a19f19f748df26c8956c2963fc609a482b109dc6d5efa8d0d28b7bd10b1",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/laphamia-lindheimeri/01.jpg",
+      "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/71897171",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "9795446b37fe0d87ae569e453b7acb0e641ff9e3",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

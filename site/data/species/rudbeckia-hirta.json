@@ -1,9 +1,9 @@
 {
   "id": "rudbeckia-hirta",
-  "family": "Asteraceae",
-  "genus": "Rudbeckia",
   "scientific_name": "Rudbeckia hirta",
   "common_name": "Black-eyed Susan",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
   "look_here_first": "Start with texture: black-eyed Susan is conspicuously rough-hairy on stems and leaves. Then confirm yellow rays around a dark brown-purple raised disk. Unlike R. amplexicaulis, its leaves do not clasp the stem.",
   "key_traits": [
     {
@@ -27,28 +27,18 @@
       "text": "Herbaceous, hairy, spreading to reflexed."
     },
     {
-      "label": "Identification",
-      "text": "dark central disk"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow rays"
-    },
-    {
-      "label": "Identification",
-      "text": "very rough-hairy stems and leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "long-peduncled heads"
+      "label": "Best field traits",
+      "text": "dark central disk; yellow rays; very rough-hairy stems and leaves; long-peduncled heads"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Rudbeckia amplexicaulis",
+      "Rudbeckia maxima"
+    ],
+    "differences": "R. hirta = rough/hispid non-clasping leaves; R. amplexicaulis = smoother clasping leaves; R. maxima = giant East Texas perennial with enormous glaucous basal leaves."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "a1bf1eb1bbf7da09c094c65ef0baeefbc321ef7caebe2f9a256b32aabe427672",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

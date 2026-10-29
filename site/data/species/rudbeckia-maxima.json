@@ -1,9 +1,9 @@
 {
   "id": "rudbeckia-maxima",
-  "family": "Asteraceae",
-  "genus": "Rudbeckia",
   "scientific_name": "Rudbeckia maxima",
   "common_name": "Great coneflower",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
   "look_here_first": "Look for enormous bluish-glaucous, mostly basal leaves and tall, relatively leafless flowering stalks topped by large heads with dramatically elongated dark cones and drooping yellow rays. Compare foliage and cone height, not ray color alone.",
   "key_traits": [
     {
@@ -19,28 +19,33 @@
       "text": "Yellow rays droop beneath an unusually tall, dark elongated disk cone."
     },
     {
-      "label": "Identification",
-      "text": "Huge glaucous basal leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "Tall relatively leafless stems"
-    },
-    {
-      "label": "Identification",
-      "text": "Elongated dark central cones"
-    },
-    {
-      "label": "Identification",
-      "text": "Drooping yellow rays"
+      "label": "Best field traits",
+      "text": "Huge glaucous basal leaves; Tall relatively leafless stems; Elongated dark central cones; Drooping yellow rays"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Rudbeckia hirta",
+      "Rudbeckia laciniata"
+    ],
+    "differences": "R. hirta is much smaller and rough-hairy, with smaller leaves and a shorter hemispheric/ovoid dark disk. R. laciniata generally has deeply divided foliage and greenish cone disks; compare leaf division and cone color/shape."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "5f29b1d0ef77877f40f3e3cc2de2dfa7898ce9b14bd605ca8be2002fc25acb62",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/rudbeckia-maxima/01.jpg",
+      "creator": "Eric Hunt",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rudbeckia_maxima.jpg",
+      "role": "Tall great coneflower bloom and conspicuous raised disk; basal blue-gray leaf rosette remains later polish.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "f8e10a68686bc7715770bcc3e1c23ab32b5d36c1",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "lindheimera-texana",
-  "family": "Asteraceae",
-  "genus": "Lindheimera",
   "scientific_name": "Lindheimera texana",
   "common_name": "Texas yellowstar",
+  "family": "Asteraceae",
+  "genus": "Lindheimera",
   "look_here_first": "Look for yellow composite heads, leaf texture, and distinctive head bracts; compare flower-head details with similar yellow daisies.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1b576659d82e2607006293c0945b67efe7370b3df367956869c523c23c4973c7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

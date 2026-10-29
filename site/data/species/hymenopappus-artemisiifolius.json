@@ -1,17 +1,45 @@
 {
   "id": "hymenopappus-artemisiifolius",
-  "family": "Asteraceae",
-  "genus": "Hymenopappus",
   "scientific_name": "Hymenopappus artemisiifolius",
   "common_name": "Hymenopappus artemisiifolius",
+  "family": "Asteraceae",
+  "genus": "Hymenopappus",
   "look_here_first": "Inspect the divided leaves and small rayless flower heads, checking the layered involucral bracts.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "4c05f4f1cc1460bd75d86021818845231e14eaa6909f37919170735e7cab216e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/hymenopappus-artemisiifolius/01.jpg",
+      "creator": "no rights reserved",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.inaturalist.org/photos/371364765",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "767a1f44b8ee39b4af6538712e8f27f62d9c744f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/hymenopappus-artemisiifolius/02.jpg",
+      "creator": "(c) Linda Jo Conn, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/488896253",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "71f4246a6d8ebe114bc19a543791dcafc95b1b09",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

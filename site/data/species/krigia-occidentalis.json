@@ -1,17 +1,31 @@
 {
   "id": "krigia-occidentalis",
-  "family": "Asteraceae",
-  "genus": "Krigia",
   "scientific_name": "Krigia occidentalis",
   "common_name": "Western dwarf dandelion",
+  "family": "Asteraceae",
+  "genus": "Krigia",
   "look_here_first": "Compare basal leaves, flower-stalk branching and the tiny pappus structures on mature achenes beneath yellow ligulate heads.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "579365609ab580b5ae127a92c747b42e074fcea7e669b36f138256464393c51a",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/krigia-occidentalis/01.jpg",
+      "creator": "(c) Morgan Hay, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/14181884",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4b1fc84008297c94d1a3f5126c4385279750ca7d",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

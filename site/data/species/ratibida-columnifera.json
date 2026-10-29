@@ -1,9 +1,9 @@
 {
   "id": "ratibida-columnifera",
-  "family": "Asteraceae",
-  "genus": "Ratibida",
   "scientific_name": "Ratibida columnifera",
   "common_name": "Upright Prairie Coneflower",
+  "family": "Asteraceae",
+  "genus": "Ratibida",
   "look_here_first": "",
   "key_traits": [
     {
@@ -31,24 +31,44 @@
       "text": "Cypselae with small crownlike pappus scales."
     },
     {
-      "label": "Identification",
-      "text": "long columnar disk"
-    },
-    {
-      "label": "Identification",
-      "text": "drooping rays"
-    },
-    {
-      "label": "Identification",
-      "text": "dissected leaves"
+      "label": "Best field traits",
+      "text": "long columnar disk; drooping rays; dissected leaves"
     }
   ],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "181ace7774843216f40eb4d03c088a79ec4b0299a7eee0e429bf208623fdf376",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/ratibida-columnifera/01.jpg",
+      "creator": "no rights reserved",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.inaturalist.org/photos/124703321",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "0881008a53dde46238b37dbbd1b0de00d79aee5a",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/ratibida-columnifera/02.jpg",
+      "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/279228311",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "b4d8e387a459b965a9521d422e44dbe424d02a47",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

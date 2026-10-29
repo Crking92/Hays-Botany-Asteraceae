@@ -1,17 +1,31 @@
 {
   "id": "packera-tampicana",
-  "family": "Asteraceae",
-  "genus": "Packera",
   "scientific_name": "Packera tampicana",
   "common_name": "Packera tampicana",
+  "family": "Asteraceae",
+  "genus": "Packera",
   "look_here_first": "Inspect the alternate leaves, flowering-stem branching and the ring of phyllaries under yellow composite heads.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "6b9b5137bc6f12876d03fafba1cc48a2fcb68c14d1220a39643d881b918c0a14",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/packera-tampicana/01.jpg",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/270520329",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4559b118e88f18864d6da4febd88b0516e6185ed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

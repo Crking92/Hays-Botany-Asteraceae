@@ -1,9 +1,9 @@
 {
   "id": "pluchea-odorata",
-  "family": "Asteraceae",
-  "genus": "Pluchea",
   "scientific_name": "Pluchea odorata",
   "common_name": "Sweetscent",
+  "family": "Asteraceae",
+  "genus": "Pluchea",
   "look_here_first": "Aromatic, leafy composite with clusters of pink-to-purple discoid flower heads; inspect leaves, heads and involucral bracts.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "d9d98076e62b10ad6f9c4b5cbaa6df985ef336964debee272b3a32d10bc07014",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,17 +1,31 @@
 {
   "id": "parthenium-confertum",
-  "family": "Asteraceae",
-  "genus": "Parthenium",
   "scientific_name": "Parthenium confertum",
   "common_name": "Parthenium confertum",
+  "family": "Asteraceae",
+  "genus": "Parthenium",
   "look_here_first": "Check leaf shape and the clusters of very small composite heads; inspect the outer bracts and mature achenes.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "6c1fef38d4afe4ba5b3d598e301482824d499d294c0b09eb023a8e458ceede72",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/parthenium-confertum/01.jpg",
+      "creator": "(c) Douglas Goldman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/181962004",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "12aae123edf53e964c86ae3ab2a734d64035ea81",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

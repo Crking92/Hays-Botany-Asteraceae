@@ -1,17 +1,31 @@
 {
   "id": "pseudognaphalium-obtusifolium",
-  "family": "Asteraceae",
-  "genus": "Pseudognaphalium",
   "scientific_name": "Pseudognaphalium obtusifolium",
   "common_name": "Sweet everlasting / rabbit tobacco",
+  "family": "Asteraceae",
+  "genus": "Pseudognaphalium",
   "look_here_first": "Look for grayish woolly stems and leaves with small papery clustered heads; inspect lower leaf wool, phyllary color and head arrangement; do not decide species based on scent alone.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "cc874b77373d4f8911808fd0792310113f1918c9faa14264b16a7d500c3b34d3",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/pseudognaphalium-obtusifolium/01.jpg",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pseudognaphalium_obtusifolium_-_Sweet_everlasting.jpg",
+      "role": "Provisional overall flowering herb and clustered heads; individual phyllaries and hairs await macro.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "515ebf0e1b369fab6f1dc2e405524f75af33f33a",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,38 +1,44 @@
 {
   "id": "silphium-albiflorum",
-  "family": "Asteraceae",
-  "genus": "Silphium",
   "scientific_name": "Silphium albiflorum",
   "common_name": "White Rosinweed / White-flowered Rosinweed",
+  "family": "Asteraceae",
+  "genus": "Silphium",
   "look_here_first": "Start with flower color. White rosinweed is the standout Silphium in this project because its ray florets are white, while the nearby Silphium comparisons have yellow heads. Then confirm the tough rough/scabrous foliage, often deeply divided, on dry limestone or calcareous prairie.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "herbaceous perennial"
+      "label": "Best field traits",
+      "text": "herbaceous perennial; white-rayed composite heads; tough rough/hispid foliage; leaves often deeply pinnately lobed or divided; dry limestone/calcareous prairie and open slopes"
     },
     {
-      "label": "Identification",
-      "text": "white-rayed composite heads"
-    },
-    {
-      "label": "Identification",
-      "text": "tough rough/hispid foliage"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves often deeply pinnately lobed or divided"
-    },
-    {
-      "label": "Identification",
-      "text": "dry limestone/calcareous prairie and open slopes"
+      "label": "Comparison training",
+      "text": "White rays are the fastest split from nearby Silphium. S. laciniatum can also have deeply divided leaves but has yellow heads; S. radula has broad rough sessile leaves and yellow heads; S. integrifolium has broad entire leaves and yellow heads."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "White rays are the fastest split from nearby Silphium. S. laciniatum can also have deeply divided leaves but has yellow heads; S. radula has broad rough sessile leaves and yellow heads; S. integrifolium has broad entire leaves and yellow heads."
+    "names": [
+      "Silphium laciniatum",
+      "Silphium radula",
+      "Silphium integrifolium"
+    ],
+    "differences": "Use white rays first, then leaf dissection and texture. Do not treat introduced Hays plantings as native-range evidence."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "d9142ec434c6bff7e69ccf6ec3d622810279c50fc212293969a0998bacc47386",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/silphium-albiflorum/01.jpg",
+      "creator": "TDogg310",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum_Flowers.jpg",
+      "role": "white flower heads + flowering habit",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d7dac61fd3e46c3db684cbcb4a66ff220fe2534b",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

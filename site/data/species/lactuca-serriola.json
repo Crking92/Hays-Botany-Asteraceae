@@ -1,9 +1,9 @@
 {
   "id": "lactuca-serriola",
-  "family": "Asteraceae",
-  "genus": "Lactuca",
   "scientific_name": "Lactuca serriola",
   "common_name": "Prickly lettuce",
+  "family": "Asteraceae",
+  "genus": "Lactuca",
   "look_here_first": "LOOK HERE FIRST: Turn a middle leaf over and find the row of stiff prickles along the underside midrib. Inspect clasping auriculate leaf bases and small narrow yellow-flowered heads; milky sap on a fresh break.",
   "key_traits": [
     {
@@ -28,11 +28,43 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Sonchus asper: glossy, spiny-margined clasping leaves; compare underside midrib and heads.",
+      "Lactuca canadensis: check underside midrib prickles, leaf bases and fruit.",
+      "Lactuca virosa: close look-alike; compare mature fruit and leaves."
+    ],
+    "differences": "Row of stiff spines along abaxial leaf midrib plus clasping auricles, milky latex and narrow yellow ligulate heads."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "28967bcd3d654777090642ab5d5412a8f1e698adbd1c07decb009c8b17eafb50",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/lactuca-serriola/01.jpg",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_leaf2_(14446007100).jpg",
+      "role": "Underside leaf midrib prickles",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "59ff22d9f88b83e8ab12ff65a2d48ee00f1830ec",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/lactuca-serriola/02.jpg",
+      "creator": "Matt Lavin",
+      "license": "CC BY SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lactuca_serriola_(4971023995).jpg",
+      "role": "Narrow yellow flower heads",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "f11765095282c555c780eb78379147b0b3dae26e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
