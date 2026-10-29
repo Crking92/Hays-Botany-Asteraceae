@@ -37,6 +37,20 @@
       "source_blob_sha": "656000b30bc709a5aab321a9a72897b919312e18",
       "modified": "Original source photograph copied without alteration",
       "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
+    },
+    {
+      "src": "media/helenium-elegans/source-1f5625af38d7.jpg",
+      "creator": "Theo Summer",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/6234568933",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "1f5625af38d764aaf9a9512abcb657298735a98e",
+      "modified": "Original archived source photograph copied without alteration",
+      "rights_note": "Exact archived GBIF photographic media URL with CC0 photo record and matching species label; no independent voucher determination."
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
