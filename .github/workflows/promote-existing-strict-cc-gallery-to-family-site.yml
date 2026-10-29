@@ -59,7 +59,7 @@ jobs:
             d=json.loads(path.read_text())
             assert d["family"]=="Asteraceae"
             for p in d.get("verified_photos",[]):
-              assert p["license"].startswith(("CC0","CC BY ","CC BY-SA ")) and p["license_url"].startswith("https://creativecommons.org/")
+              assert p["license"].startswith(("CC0","CC BY ","CC BY-SA ")) and p["license_url"].startswith("https://creativecommons.org/"), "Unexpected claimed photo license (will not publish): "+repr((p["license"],p["license_url"],p["src"]))
               assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
               assert p["creator"] and p["source_page"].startswith("https://")
               assert (root/p["src"]).is_file()
