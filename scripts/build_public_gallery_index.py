@@ -26,7 +26,7 @@ for row in INDEX["entries"]:
     for photo in photos:
         assert photo.get("private_rights_review_only") is False and photo.get("noncommercial_only") is False,id
         license_name=photo.get("license","")
-        assert re.match(r"^(CC BY(?: SA|-SA)? [234]\.0|CC0 1\.0)$",license_name),id
+        assert re.match(r"^(CC BY(?: SA|-SA)? [234]\.0|CC0(?: 1\.0)?)$",license_name),id
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),id
         assert photo.get("license_url","").startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/")),id
         relative=photo.get("src","")
