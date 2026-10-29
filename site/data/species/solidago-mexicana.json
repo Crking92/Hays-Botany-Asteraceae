@@ -1,0 +1,38 @@
+{
+  "id": "solidago-mexicana",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago mexicana",
+  "common_name": "Southern seaside goldenrod",
+  "look_here_first": "Check the thick, often somewhat fleshy narrow alternate leaves and the long terminal cluster of small yellow heads, often borne predominantly on one side of branches. Coastal wet-saline habitat is a supporting cue, not proof by itself.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Rhizomatous perennial goldenrod of coastal marshes, dunes, and brackish margins."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves alternate, comparatively thick and narrow; inspect leaf texture and venation rather than flower color."
+    },
+    {
+      "label": "Identification",
+      "text": "Numerous small yellow composite heads in a terminal, often one-sided inflorescence."
+    },
+    {
+      "label": "Identification",
+      "text": "Inflorescence architecture and fleshy leaf texture together are more useful than plant height."
+    },
+    {
+      "label": "Identification",
+      "text": "Check mature involucres and foliage against closely related seaside goldenrods before final ID."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd2a6ebeddbe27d580762168d258a4cf21b5ac7b12b75eabaf0b7b9675f01456",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

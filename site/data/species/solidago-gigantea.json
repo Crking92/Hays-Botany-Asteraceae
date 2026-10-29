@@ -1,0 +1,46 @@
+{
+  "id": "solidago-gigantea",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago gigantea",
+  "common_name": "Giant Goldenrod / Smooth Goldenrod",
+  "look_here_first": "First stroke/look at a LOWER STEM 10–20 cm above plant base: S. gigantea is often smooth (GLABROUS) and sometimes waxy bluish (GLAUCOUS) well below flower panicle. The leaves are narrow lanceolate and often 3-nerved, but ALL tall-goldenrod complex relatives can share 3 veins. Compare hairier lower stems on altissima and canadensis, moisture settings as support, then measure phyllaries if uncertain. Never use only flower plume or leaf veins.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "lower stem glabrous to nearly glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "many narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves commonly 3-nerved"
+    },
+    {
+      "label": "Identification",
+      "text": "large arching/panicle-like inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "many small yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "often moist riparian or mesic sites"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with S. altissima, the lower stem is much smoother and less hairy. Compared with S. juliae, S. gigantea is more strongly rhizomatous and typically has smoother stems with narrower leaves."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3bdff968ca8deeed75b3ad3cfdf36c1fd17f11e54ebf21222532f691e8bb9bed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

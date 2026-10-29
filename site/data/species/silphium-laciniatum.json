@@ -1,0 +1,42 @@
+{
+  "id": "silphium-laciniatum",
+  "family": "Asteraceae",
+  "genus": "Silphium",
+  "scientific_name": "Silphium laciniatum",
+  "common_name": "Compass plant",
+  "look_here_first": "Look at the basal leaves first: huge, stiff, deeply pinnatifid blades cut almost to the midrib into narrow lobes. Then check the towering flowering stem and yellow ray-and-disk heads. Leaf north-south orientation is variable and not diagnostic by itself.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Long-lived perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "Massive deeply pinnatifid basal leaves with narrow lobes."
+    },
+    {
+      "label": "Identification",
+      "text": "Very tall erect flowering stalk, often above a basal leaf rosette."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow ray florets and central disk florets in sunflower-like heads."
+    },
+    {
+      "label": "Identification",
+      "text": "Stiff coarse foliage; inspect leaf dissection rather than flower color."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves sometimes held approximately north-south, but orientation alone is unreliable."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1055e4412e1cf0e386650f5756883380e343d6015f6ffb22d8599df1e9a7c336",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

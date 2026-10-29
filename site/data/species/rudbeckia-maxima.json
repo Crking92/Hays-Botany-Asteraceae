@@ -1,0 +1,46 @@
+{
+  "id": "rudbeckia-maxima",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
+  "scientific_name": "Rudbeckia maxima",
+  "common_name": "Great coneflower",
+  "look_here_first": "Look for enormous bluish-glaucous, mostly basal leaves and tall, relatively leafless flowering stalks topped by large heads with dramatically elongated dark cones and drooping yellow rays. Compare foliage and cone height, not ray color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Large, colony-forming perennial with towering flowering stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Very large blue-green glaucous leaves concentrated at the base."
+    },
+    {
+      "label": "Heads",
+      "text": "Yellow rays droop beneath an unusually tall, dark elongated disk cone."
+    },
+    {
+      "label": "Identification",
+      "text": "Huge glaucous basal leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Tall relatively leafless stems"
+    },
+    {
+      "label": "Identification",
+      "text": "Elongated dark central cones"
+    },
+    {
+      "label": "Identification",
+      "text": "Drooping yellow rays"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5f29b1d0ef77877f40f3e3cc2de2dfa7898ce9b14bd605ca8be2002fc25acb62",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

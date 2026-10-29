@@ -1,0 +1,17 @@
+{
+  "id": "pyrrhopappus-carolinianus",
+  "family": "Asteraceae",
+  "genus": "Pyrrhopappus",
+  "scientific_name": "Pyrrhopappus carolinianus",
+  "common_name": "Carolina false dandelion",
+  "look_here_first": "Look for dandelionlike flower heads on branched leafy stems, not a single leafless flower stalk; check stem leaves and head shape.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ccb3f43a3466d24fbb101b3bee0e48ad039468c87afc4202da7986685fb7f2c3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

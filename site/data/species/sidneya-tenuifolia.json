@@ -1,0 +1,17 @@
+{
+  "id": "sidneya-tenuifolia",
+  "family": "Asteraceae",
+  "genus": "Sidneya",
+  "scientific_name": "Sidneya tenuifolia",
+  "common_name": "Narrowleaf goldeneye",
+  "look_here_first": "Look for very narrow leaves on woody branches and yellow heads; check phyllaries and achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a3f4d270429fa7aac7d847d19c377c2e0f8f4d837e1cd097c86e67a0c26006c6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

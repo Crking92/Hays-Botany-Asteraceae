@@ -1,0 +1,58 @@
+{
+  "id": "simsia-calva",
+  "family": "Asteraceae",
+  "genus": "Simsia",
+  "scientific_name": "Simsia calva",
+  "common_name": "Bush Sunflower",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial or subshrub."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect to ascending, often 30–150 cm."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; petiole bases dilated/winged and often fused across the node into a disc; blades ovate, sometimes 3-lobed."
+    },
+    {
+      "label": "Heads",
+      "text": "Usually solitary, sometimes 2–3; rays light orange-yellow, often brown/purple-lined beneath."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae often with pappus absent or minute."
+    },
+    {
+      "label": "Identification",
+      "text": "At an intact opposite-leaf node, look for widened/winged petiole bases connecting across the stem into a nodal disc; this is the strongest practical recognition feature."
+    },
+    {
+      "label": "Identification",
+      "text": "Perennial/subshrub with coarse hairy stems and ovate, sometimes three-lobed, opposite leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Heads commonly single or in twos or threes; rays light orange-yellow, often dark-lined on undersides."
+    },
+    {
+      "label": "Identification",
+      "text": "Compare Simsia lagasceiformis: usually annual, with different nodal-disc and root habit; do not rely on pappus absence alone, as it overlaps."
+    },
+    {
+      "label": "Identification",
+      "text": "Crew photo sequence: whole plant; front/side node macro; underside of head; mature fruit with scale. Mark only visible structures on correctly identified licensed images."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "95f587d05d5632fd028cc91220836d0c5fa9a1289965b07d809eb662e05b3852",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

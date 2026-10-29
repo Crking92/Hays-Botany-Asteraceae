@@ -1,0 +1,54 @@
+{
+  "id": "solidago-canadensis",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago canadensis",
+  "common_name": "Canada Goldenrod",
+  "look_here_first": "For CANADA goldenrod, compare the mid-stem leaf TOOTH pattern and the lower/upper stem hairs with S. altissima; Canada commonly has finer, often more regularly toothed thinner 3-nerved leaves and sparser/longer stem hair than tall goldenrod. However overlap is extreme and some variants of both break these patterns. S. gigantea is the smoother/waxy lower stem one. Photograph lower stem, an entire leaf face/underside and flowering branches on SAME plant.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect herb, often colonial."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, lanceolate, serrate, 3-nerved, generally thinner/less harsh than S. altissima."
+    },
+    {
+      "label": "Heads",
+      "text": "Many small yellow heads in plume-like terminal inflorescences."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Small, overlapping series."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with pappus bristles."
+    },
+    {
+      "label": "Identification",
+      "text": "golden plume inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "narrower leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "compare with S. altissima for roughness/robustness"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dff20babaf5316779e8d96141f70976ba8585fb49e0b40b6b205e81435af6b9d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

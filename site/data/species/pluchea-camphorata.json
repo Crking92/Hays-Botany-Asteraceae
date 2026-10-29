@@ -1,0 +1,58 @@
+{
+  "id": "pluchea-camphorata",
+  "family": "Asteraceae",
+  "genus": "Pluchea",
+  "scientific_name": "Pluchea camphorata",
+  "common_name": "Camphorweed",
+  "look_here_first": "Start with leaf arrangement and head type: alternate, resinous/gland-dotted, usually petiolate leaves below a rounded cluster of many tiny pink-purple heads with no ray florets.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "alternate simple elliptic to oblong/lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves usually visibly petiolate and resinous/gland-dotted"
+    },
+    {
+      "label": "Identification",
+      "text": "rounded/corymbiform mass of many tiny pink-purple heads"
+    },
+    {
+      "label": "Identification",
+      "text": "heads are discoid with no ray florets"
+    },
+    {
+      "label": "Identification",
+      "text": "crushed foliage may smell camphor-like but odor is only secondary"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Elliptic to oblong/lanceolate, serrate, generally petiolate, resinous/gland-dotted."
+    },
+    {
+      "label": "Heads",
+      "text": "Small pink-purple discoid heads, no rays."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Rounded corymbiform/paniculiform mass."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypsela with capillary pappus."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d6e1d388ca7fd3848a2fa6243d64baa8a6a2fade79e43d45fce83503ce14b22e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

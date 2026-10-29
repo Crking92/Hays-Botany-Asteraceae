@@ -1,0 +1,46 @@
+{
+  "id": "rudbeckia-amplexicaulis",
+  "family": "Asteraceae",
+  "genus": "Rudbeckia",
+  "scientific_name": "Rudbeckia amplexicaulis",
+  "common_name": "Clasping coneflower",
+  "look_here_first": "Start with the leaves: smooth to glabrous sessile leaves with rounded bases visibly clasp the stem. Yellow rays often show a reddish-brown basal eye around the raised dark cone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual or short-lived perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "mostly glabrous shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "sessile leaves with rounded clasping bases"
+    },
+    {
+      "label": "Identification",
+      "text": "single terminal yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow rays often with dark basal eye"
+    },
+    {
+      "label": "Identification",
+      "text": "raised conic to barrel-shaped disk"
+    },
+    {
+      "label": "Identification",
+      "text": "outer phyllaries spreading to reflexed"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The clasping leaf bases are the fastest separator; do not use yellow ray color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "edef4e4d55998cec9adf5601e3f18f049543ef1208bcdabbeef01280662fc06f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

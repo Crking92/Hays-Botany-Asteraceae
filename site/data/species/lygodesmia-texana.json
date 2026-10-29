@@ -1,0 +1,17 @@
+{
+  "id": "lygodesmia-texana",
+  "family": "Asteraceae",
+  "genus": "Lygodesmia",
+  "scientific_name": "Lygodesmia texana",
+  "common_name": "Texas skeletonplant",
+  "look_here_first": "Sparse narrow-leaved branching plant with ligulate flower heads and milky sap; inspect the involucral phyllaries and mature fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c7ece77d590d7a11ab0f9b5ad91da9c1f33d08acae64d1fce5089654ad78c6c2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

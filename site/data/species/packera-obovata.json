@@ -1,0 +1,17 @@
+{
+  "id": "packera-obovata",
+  "family": "Asteraceae",
+  "genus": "Packera",
+  "scientific_name": "Packera obovata",
+  "common_name": "Roundleaf ragwort",
+  "look_here_first": "Examine broad rounded basal leaves, yellow composite heads, and flower-head phyllaries; compare foliage shape with Packera glabella and other ragworts.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "33c316095e1e031b164a5fdc2103d658f6c7ba2a73e824e432cef0494656412a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

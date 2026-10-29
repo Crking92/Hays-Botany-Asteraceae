@@ -1,0 +1,17 @@
+{
+  "id": "pseudognaphalium-canescens",
+  "family": "Asteraceae",
+  "genus": "Pseudognaphalium",
+  "scientific_name": "Pseudognaphalium canescens",
+  "common_name": "Woolly cudweed",
+  "look_here_first": "Look closely at the densely woolly leaf and stem surfaces and the clusters of small heads with papery involucral bracts.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ab66e8c70e437a3df8e25c788d1b88a1793aced6b7d288c93d87970a3335ef7d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

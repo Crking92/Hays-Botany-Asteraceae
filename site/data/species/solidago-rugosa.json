@@ -1,0 +1,34 @@
+{
+  "id": "solidago-rugosa",
+  "family": "Asteraceae",
+  "genus": "Solidago",
+  "scientific_name": "Solidago rugosa",
+  "common_name": "Wrinkleleaf goldenrod",
+  "look_here_first": "Look past the yellow flowers and feel the leaves: this is a rhizomatous perennial with conspicuously rugose or wrinkled leaves, hairy stems, and plume-like yellow inflorescences.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuously rugose or wrinkled leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "hairy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "plume-like branching yellow inflorescences"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Leaf texture and stem pubescence are more useful than generic goldenrod flower color."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "eaadd8084d893ae372c0e147dbfb459033d2827e0088eef6771705f62cf9ee47",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

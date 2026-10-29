@@ -1,0 +1,54 @@
+{
+  "id": "plectocephalus-americanus",
+  "family": "Asteraceae",
+  "genus": "Plectocephalus",
+  "scientific_name": "Plectocephalus americanus",
+  "common_name": "American Basketflower",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Tall erect branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, lanceolate to oblong-lanceolate, entire to toothed/lobed."
+    },
+    {
+      "label": "Heads",
+      "text": "Large solitary lavender-pink heads made only of disc florets; outer florets enlarged and showy."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Broadly overlapping, papery/fringed bracts create the distinctive basket appearance."
+    },
+    {
+      "label": "Identification",
+      "text": "huge pink-lavender head"
+    },
+    {
+      "label": "Identification",
+      "text": "basket-like involucral bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "tall annual habit"
+    },
+    {
+      "label": "Identification",
+      "text": "no ray florets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "00d78aa34c2e56a2542bf01d4901ad19fe2f4994ba44d5fc899af34896b4f701",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pyrrhopappus-pauciflorus",
+  "family": "Asteraceae",
+  "genus": "Pyrrhopappus",
+  "scientific_name": "Pyrrhopappus pauciflorus",
+  "common_name": "Smallflower false dandelion",
+  "look_here_first": "Look for dandelionlike flower heads composed entirely of strap-shaped florets, latex and narrow foliage; inspect mature plumed pappus and phyllaries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "100ff337fb63be6ea75a7b082a18afac517005409b9f7af2e8d267d27ad9fcfd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

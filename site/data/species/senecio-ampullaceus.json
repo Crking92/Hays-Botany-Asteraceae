@@ -1,0 +1,17 @@
+{
+  "id": "senecio-ampullaceus",
+  "family": "Asteraceae",
+  "genus": "Senecio",
+  "scientific_name": "Senecio ampullaceus",
+  "common_name": "Texas groundsel",
+  "look_here_first": "Look for alternate stem leaves with clasping upper bases and inspect the involucre of phyllaries beneath each yellow head.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "be1a0de5f38c2fd2e0d8bc452d57c6143c4077da82aad7acbfc7e04ba346deb2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

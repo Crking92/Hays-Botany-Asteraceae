@@ -1,0 +1,54 @@
+{
+  "id": "ratibida-columnifera",
+  "family": "Asteraceae",
+  "genus": "Ratibida",
+  "scientific_name": "Ratibida columnifera",
+  "common_name": "Upright Prairie Coneflower",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual to short-lived perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, pinnatifid to deeply divided into narrow segments."
+    },
+    {
+      "label": "Heads",
+      "text": "Disk strongly elongated/columnar, becoming tall and cylindrical; rays drooping, yellow or sometimes bicolored."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Narrow, appressed to ascending."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with small crownlike pappus scales."
+    },
+    {
+      "label": "Identification",
+      "text": "long columnar disk"
+    },
+    {
+      "label": "Identification",
+      "text": "drooping rays"
+    },
+    {
+      "label": "Identification",
+      "text": "dissected leaves"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "181ace7774843216f40eb4d03c088a79ec4b0299a7eee0e429bf208623fdf376",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

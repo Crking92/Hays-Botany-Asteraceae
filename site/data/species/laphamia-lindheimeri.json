@@ -1,0 +1,17 @@
+{
+  "id": "laphamia-lindheimeri",
+  "family": "Asteraceae",
+  "genus": "Laphamia",
+  "scientific_name": "Laphamia lindheimeri",
+  "common_name": "Lindheimer's laphamia",
+  "look_here_first": "Examine leaf arrangement and small flower heads, focusing on phyllaries and achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4dfd9a19f19f748df26c8956c2963fc609a482b109dc6d5efa8d0d28b7bd10b1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

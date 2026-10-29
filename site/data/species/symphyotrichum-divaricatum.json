@@ -1,0 +1,70 @@
+{
+  "id": "symphyotrichum-divaricatum",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum divaricatum",
+  "common_name": "Southern Annual Saltmarsh Aster / Slim Aster (Blackweed)",
+  "look_here_first": "FIRST photograph the entire mature flowering array (when not recently mowed): this inland Texas annual/short-lived saltmarsh aster has VERY OPEN, diffuse, wiry branching with wide negative space between many small heads. Check mostly sessile narrow linear leaves, near-hairless stems and taprooted base. TRUE eastern S. subulatum usually has denser, more upper-pyramidal heads in coastal/saline SE Texas. Mowing and damaged plants can distort architecture; don't use flower color or one head alone. This species is NOT Eurybia divaricata (white wood aster).",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual to short-lived perennial, taprooted, not a persistent clump-forming woodland perennial (UT Williamson County flora)."
+    },
+    {
+      "label": "Habit",
+      "text": "Wiry, loosely branched, very airy/open paniculate herb, usually <60 cm in local range; may be dwarfed in lawns and disturbed ground."
+    },
+    {
+      "label": "Leaves",
+      "text": "Helically alternate, simple, sessile or nearly so, narrow linear to oblanceolate-linear/lanceolate-linear, mostly 10–60 × 1–3.5 mm; margins entire to minutely toothed; not broad triangular, cordate, or long-petiolate woodland leaves."
+    },
+    {
+      "label": "Heads",
+      "text": "Small radiate heads ~8–20 mm across, roughly 14–21 ray florets, 18–50 disc florets, pale pinkish/lilac to white-lavender; heads widely spaced and apparently floating on fine peduncles."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "20–25 phyllaries in 3–5 series, unequal, narrow outer ones with conspicuously membranous margins; inspect scaled side view, especially against true S. subulatum."
+    },
+    {
+      "label": "Stem",
+      "text": "Nearly glabrous stems grooved below leaves; short hairs occasionally on lower internodes."
+    },
+    {
+      "label": "Fruit",
+      "text": "Narrow cypselae with pale capillary pappus bristles; fruit details secondary to habit/leaf/head architecture."
+    },
+    {
+      "label": "Identification",
+      "text": "NARROW linear to linear-lanceolate mostly sessile leaves, only ~1–3.5 mm wide."
+    },
+    {
+      "label": "Identification",
+      "text": "Very open, widely spaced inflorescence heads; large gaps between heads."
+    },
+    {
+      "label": "Identification",
+      "text": "Taprooted ANNUAL to short-lived herb with slim ±glabrous grooved stems."
+    },
+    {
+      "label": "Identification",
+      "text": "Small (8–20 mm) pink-lilac to pale ray heads."
+    },
+    {
+      "label": "Identification",
+      "text": "S. subulatum = denser pyramidal flowering array, more southeastern coastal/saline; habitat alone cannot prove the split."
+    },
+    {
+      "label": "Identification",
+      "text": "Do not confuse with Eurybia divaricata (white wood aster): perennial shade plant with broad, heart-shaped/petiolate serrate leaves."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "S. divaricatum: a very open diffuse panicle and inland Texas disturbed-ground habitat. S. subulatum under narrow true species concept: more top-dense pyramidal array, mainly Gulf/SE saline Texas. Green phyllary pigmentation is described as extending farther down bracts in divaricatum than subulatum but often not reliably photographed; hardened phyllary bases not understood well enough for novice key. Mowed specimens may have ambiguous shape. Historic subulatum var. ligulatum names correspond to current S. divaricatum."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6e528e69013be29b9bd56a482b8d22f5d7ce19870bb17f8d648fbfca102c2ae4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

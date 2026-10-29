@@ -1,0 +1,50 @@
+{
+  "id": "symphyotrichum-drummondii",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum drummondii",
+  "common_name": "Drummond's Aster / Texas Aster",
+  "look_here_first": "Start with the lower leaves: in local var. texanum, broad serrate blades narrow into winged petioles, while tiny narrow leaves occur high on the flowering branches. Distal stems are densely hairy and widely spreading branches have densely short-bracted flower stalks. FNA var. texanum involucres typically 3.8–5.2 mm, heads bluish-white; compare glabrous stalks and 27–36 rays in S. eulae.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaves relatively large and serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "lower blades taper into winged petiole-like bases"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves much smaller and narrow"
+    },
+    {
+      "label": "Identification",
+      "text": "stems short-hirsute/puberlent"
+    },
+    {
+      "label": "Identification",
+      "text": "paniculate flowering array"
+    },
+    {
+      "label": "Identification",
+      "text": "rays pale lavender to whitish"
+    },
+    {
+      "label": "Identification",
+      "text": "local accepted variety texanum"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4e94b1bc3d81db1db231d0183e2d5c5be971172a2141c2f2c15afc12b7a1d517",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

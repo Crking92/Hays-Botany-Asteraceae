@@ -1,0 +1,58 @@
+{
+  "id": "marshallia-caespitosa",
+  "family": "Asteraceae",
+  "genus": "Marshallia",
+  "scientific_name": "Marshallia caespitosa",
+  "common_name": "Barbara's buttons",
+  "look_here_first": "Notice what is missing: there are no ray florets. Barbara's buttons makes a rounded button-like head of many tubular disc flowers. Then check the narrow leaves, hemispheric involucre, numerous paleae on the receptacle, and the persistent scale-like pappus on the cypselae.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb with narrow linear to narrowly oblanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "heads discoid rather than radiate — no petal-like ray florets"
+    },
+    {
+      "label": "Identification",
+      "text": "showy rounded/button-like head containing many bisexual tubular florets"
+    },
+    {
+      "label": "Identification",
+      "text": "hemispheric involucre with several close series of narrow phyllaries"
+    },
+    {
+      "label": "Identification",
+      "text": "receptacle with conspicuous paleae/bractlets among flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "five fused stamens per floret forming an anther cylinder"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary becoming a strongly ribbed cypsela"
+    },
+    {
+      "label": "Identification",
+      "text": "pappus of several persistent scales"
+    },
+    {
+      "label": "Family training",
+      "text": "Useful Asteraceae exception card: a showy composite head can be entirely disc florets and still be Asteraceae."
+    },
+    {
+      "label": "Video training",
+      "text": "Joey's frame shows developing button-like capitula in local limestone habitat before full bloom."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3d0598cb1df5d2b201bc94dcb75362ebf18fdb94b16d52b71f09f7c4935e8d29",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

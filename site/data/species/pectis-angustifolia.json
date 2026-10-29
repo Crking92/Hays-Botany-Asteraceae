@@ -1,0 +1,17 @@
+{
+  "id": "pectis-angustifolia",
+  "family": "Asteraceae",
+  "genus": "Pectis",
+  "scientific_name": "Pectis angustifolia",
+  "common_name": "Lemonscent",
+  "look_here_first": "Recognize the low, aromatic herb with narrow opposite leaves and small yellow composite flower heads. Inspect dark leaf glands, phyllaries and achenes to separate other Pectis.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "820217212f2bb31cd6d8e185cc3df7b5117fde4b09a7b6576f9c70db9fc217de",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
