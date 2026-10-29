@@ -1,0 +1,39 @@
+name: Build public Asteraceae photo counts and species thumbnails
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_public_gallery_index.py'
+      - 'site/data/species/**'
+      - 'site/data/preview-summary.json'
+      - '.github/workflows/build-public-gallery-index.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-gallery-index
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Generate photo index from 180 already-cleared public species cards
+        run: |
+          python3 scripts/build_public_gallery_index.py
+      - name: Commit metadata-only gallery index
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/gallery-index.json
+          if ! git diff --cached --quiet; then
+            git diff --cached --check
+            git commit -m 'Update verified photo counts and first thumbnails for 180 Asteraceae species'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:refs/heads/main
+          fi
