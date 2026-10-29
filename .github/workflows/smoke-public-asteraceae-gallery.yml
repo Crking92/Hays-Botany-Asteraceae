@@ -1,0 +1,77 @@
+name: Verify live Asteraceae source-credited gallery and original bytes
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/data/gallery-index.json'
+      - '.github/workflows/smoke-public-asteraceae-gallery.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: asteraceae-public-gallery-image-smoke
+  cancel-in-progress: false
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify published 180 cards, photo provenance and each rendered JPEG
+        run: |
+          python3 - <<'PY'
+          import concurrent.futures,json,pathlib,time,urllib.request,urllib.parse
+          SITE=pathlib.Path("site")
+          BASE="https://crking92.github.io/Hays-Botany-Asteraceae/site/"
+          expected=json.loads((SITE/"data/gallery-index.json").read_text())
+          assert expected["species"]==180
+          def fetch(url):
+              request=urllib.request.Request(url,headers={"User-Agent":"Hays-Botany-Asteraceae-Existing-Photo-Verify"})
+              with urllib.request.urlopen(request,timeout=22) as result:
+                  assert result.status==200
+                  return result.read()
+          for attempt in range(18):
+              try:
+                  live=json.loads(fetch(BASE+"data/gallery-index.json"))
+                  if (live.get("photo_count")==expected["photo_count"] and
+                      live.get("photo_species")==expected["photo_species"]):
+                      break
+                  print("Waiting for current Pages build",attempt+1,live.get("photo_count"),flush=True)
+              except Exception as ex:
+                  print("Pages pending",attempt+1,repr(ex),flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Live Asteraceae photo inventory has not deployed")
+          catalog=json.loads(fetch(BASE+"data/collection-index.json"))
+          assert len(catalog["entries"])==180
+          total=0;with_photos=0;refs=set()
+          for item in catalog["entries"]:
+              id=item["id"]
+              card=json.loads(fetch(BASE+"data/species/"+id+".json"))
+              photos=card.get("verified_photos",[])
+              assert len(photos)==live["entries"][id]["count"]
+              with_photos+=int(bool(photos))
+              total+=len(photos)
+              for p in photos:
+                  assert p["src"].startswith("media/"+id+"/")
+                  assert p.get("creator") and p.get("source_page","").startswith("https://")
+                  assert not p.get("noncommercial_only") and not p.get("private_rights_review_only")
+                  assert p.get("license_url","").startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/","https://creativecommons.org/publicdomain/mark/"))
+                  assert "NC" not in p.get("license","").upper() and "ND" not in p.get("license","").upper()
+                  refs.add(p["src"])
+          assert total==expected["photo_count"]
+          assert with_photos==expected["photo_species"]
+          local={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*.jpg")}
+          assert refs==local,(len(refs),len(local))
+          def check(path):
+              image=fetch(urllib.parse.urljoin(BASE,path))
+              assert image==((SITE/path).read_bytes()),path
+              return path
+          with concurrent.futures.ThreadPoolExecutor(max_workers=7) as pool:
+              checked=list(pool.map(check,sorted(refs)))
+          assert len(checked)==expected["photo_count"]
+          print("ASTERACEAE_PUBLIC_GALLERY_LIVE_IMAGE_PASS",json.dumps({
+              "species":180,"photographed_species":with_photos,
+              "published_photos_byte_identical":len(checked),
+              "all_sources_present":True,"new_photos_collected":0
+          },sort_keys=True),flush=True)
+          PY
