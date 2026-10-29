@@ -1,0 +1,729 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 180,
+  "photo_species": 112,
+  "photo_count": 153,
+  "entries": {
+    "achillea-millefolium": {
+      "count": 2,
+      "first_src": "media/achillea-millefolium/01.jpg"
+    },
+    "acmella-repens": {
+      "count": 2,
+      "first_src": "media/acmella-repens/01.jpg"
+    },
+    "acourtia-runcinata": {
+      "count": 0,
+      "first_src": null
+    },
+    "acourtia-wrightii": {
+      "count": 3,
+      "first_src": "media/acourtia-wrightii/01.jpg"
+    },
+    "ageratina-altissima": {
+      "count": 3,
+      "first_src": "media/ageratina-altissima/01.jpg"
+    },
+    "ageratina-havanensis": {
+      "count": 1,
+      "first_src": "media/ageratina-havanensis/01.jpg"
+    },
+    "amblyolepis-setigera": {
+      "count": 1,
+      "first_src": "media/amblyolepis-setigera/01.jpg"
+    },
+    "ambrosia-artemisiifolia": {
+      "count": 1,
+      "first_src": "media/ambrosia-artemisiifolia/01.jpg"
+    },
+    "ambrosia-psilostachya": {
+      "count": 1,
+      "first_src": "media/ambrosia-psilostachya/01.jpg"
+    },
+    "ambrosia-trifida": {
+      "count": 0,
+      "first_src": null
+    },
+    "amphiachyris-amoena": {
+      "count": 2,
+      "first_src": "media/amphiachyris-amoena/01.jpg"
+    },
+    "amphiachyris-dracunculoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "aphanostephus-riddellii": {
+      "count": 0,
+      "first_src": null
+    },
+    "aphanostephus-skirrhobasis": {
+      "count": 1,
+      "first_src": "media/aphanostephus-skirrhobasis/01.jpg"
+    },
+    "arnoglossum-plantagineum": {
+      "count": 1,
+      "first_src": "media/arnoglossum-plantagineum/01.jpg"
+    },
+    "artemisia-ludoviciana": {
+      "count": 1,
+      "first_src": "media/artemisia-ludoviciana/01.jpg"
+    },
+    "artemisia-tridentata": {
+      "count": 1,
+      "first_src": "media/artemisia-tridentata/01.jpg"
+    },
+    "baccharis-neglecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "baccharis-salicifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "berlandiera-betonicifolia": {
+      "count": 1,
+      "first_src": "media/berlandiera-betonicifolia/01.jpg"
+    },
+    "berlandiera-lyrata": {
+      "count": 2,
+      "first_src": "media/berlandiera-lyrata/01.jpg"
+    },
+    "bidens-frondosa": {
+      "count": 1,
+      "first_src": "media/bidens-frondosa/01.jpg"
+    },
+    "bidens-laevis": {
+      "count": 2,
+      "first_src": "media/bidens-laevis/01.jpg"
+    },
+    "boltonia-diffusa": {
+      "count": 0,
+      "first_src": null
+    },
+    "bradburia-hirtella": {
+      "count": 1,
+      "first_src": "media/bradburia-hirtella/01.jpg"
+    },
+    "brickellia-cylindracea": {
+      "count": 1,
+      "first_src": "media/brickellia-cylindracea/01.jpg"
+    },
+    "brickellia-dentata": {
+      "count": 0,
+      "first_src": null
+    },
+    "brickellia-eupatorioides": {
+      "count": 0,
+      "first_src": null
+    },
+    "calyptocarpus-vialis": {
+      "count": 2,
+      "first_src": "media/calyptocarpus-vialis/01.jpg"
+    },
+    "carphochaete-bigelovii": {
+      "count": 2,
+      "first_src": "media/carphochaete-bigelovii/01.jpg"
+    },
+    "carthamus-tinctorius": {
+      "count": 0,
+      "first_src": null
+    },
+    "centaurea-cyanus": {
+      "count": 1,
+      "first_src": "media/centaurea-cyanus/01.jpg"
+    },
+    "centaurea-melitensis": {
+      "count": 2,
+      "first_src": "media/centaurea-melitensis/01.jpg"
+    },
+    "chaetopappa-bellidifolia": {
+      "count": 1,
+      "first_src": "media/chaetopappa-bellidifolia/01.jpg"
+    },
+    "chaetopappa-effusa": {
+      "count": 0,
+      "first_src": null
+    },
+    "chaetopappa-ericoides": {
+      "count": 1,
+      "first_src": "media/chaetopappa-ericoides/01.jpg"
+    },
+    "chaptalia-texana": {
+      "count": 1,
+      "first_src": "media/chaptalia-texana/01.jpg"
+    },
+    "chloracantha-spinosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "chondrilla-juncea": {
+      "count": 1,
+      "first_src": "media/chondrilla-juncea/01.jpg"
+    },
+    "chromolaena-odorata": {
+      "count": 1,
+      "first_src": "media/chromolaena-odorata/01.jpg"
+    },
+    "chrysactinia-mexicana": {
+      "count": 1,
+      "first_src": "media/chrysactinia-mexicana/01.jpg"
+    },
+    "cirsium-horridulum": {
+      "count": 2,
+      "first_src": "media/cirsium-horridulum/01.jpg"
+    },
+    "cirsium-ochrocentrum": {
+      "count": 0,
+      "first_src": null
+    },
+    "cirsium-texanum": {
+      "count": 0,
+      "first_src": null
+    },
+    "cirsium-undulatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "cirsium-vulgare": {
+      "count": 1,
+      "first_src": "media/cirsium-vulgare/01.jpg"
+    },
+    "conoclinium-coelestinum": {
+      "count": 2,
+      "first_src": "media/conoclinium-coelestinum/01.jpg"
+    },
+    "conoclinium-dissectum": {
+      "count": 0,
+      "first_src": null
+    },
+    "coreopsis-basalis": {
+      "count": 0,
+      "first_src": null
+    },
+    "coreopsis-lanceolata": {
+      "count": 1,
+      "first_src": "media/coreopsis-lanceolata/01.jpg"
+    },
+    "coreopsis-tinctoria": {
+      "count": 0,
+      "first_src": null
+    },
+    "coreopsis-wrightii": {
+      "count": 0,
+      "first_src": null
+    },
+    "diaperia-candida": {
+      "count": 1,
+      "first_src": "media/diaperia-candida/01.jpg"
+    },
+    "diaperia-prolifera": {
+      "count": 0,
+      "first_src": null
+    },
+    "diaperia-verna": {
+      "count": 0,
+      "first_src": null
+    },
+    "dysodiopsis-tagetoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "echinacea-angustifolia": {
+      "count": 2,
+      "first_src": "media/echinacea-angustifolia/01.jpg"
+    },
+    "eclipta-prostrata": {
+      "count": 0,
+      "first_src": null
+    },
+    "elephantopus-carolinianus": {
+      "count": 0,
+      "first_src": null
+    },
+    "engelmannia-peristenia": {
+      "count": 3,
+      "first_src": "media/engelmannia-peristenia/01.jpg"
+    },
+    "ericameria-nauseosa": {
+      "count": 1,
+      "first_src": "media/ericameria-nauseosa/01.jpg"
+    },
+    "erigeron-canadensis": {
+      "count": 3,
+      "first_src": "media/erigeron-canadensis/01.jpg"
+    },
+    "erigeron-geiseri": {
+      "count": 0,
+      "first_src": null
+    },
+    "erigeron-modestus": {
+      "count": 1,
+      "first_src": "media/erigeron-modestus/01.jpg"
+    },
+    "erigeron-philadelphicus": {
+      "count": 3,
+      "first_src": "media/erigeron-philadelphicus/01.jpg"
+    },
+    "erigeron-strigosus": {
+      "count": 3,
+      "first_src": "media/erigeron-strigosus/01.jpg"
+    },
+    "eriophyllum-lanatum": {
+      "count": 1,
+      "first_src": "media/eriophyllum-lanatum/01.jpg"
+    },
+    "eupatorium-serotinum": {
+      "count": 2,
+      "first_src": "media/eupatorium-serotinum/01.jpg"
+    },
+    "fleischmannia-incarnata": {
+      "count": 4,
+      "first_src": "media/fleischmannia-incarnata/01.jpg"
+    },
+    "gaillardia-aestivalis": {
+      "count": 1,
+      "first_src": "media/gaillardia-aestivalis/01.jpg"
+    },
+    "gaillardia-amblyodon": {
+      "count": 1,
+      "first_src": "media/gaillardia-amblyodon/01.jpg"
+    },
+    "gaillardia-pulchella": {
+      "count": 0,
+      "first_src": null
+    },
+    "gaillardia-suavis": {
+      "count": 0,
+      "first_src": null
+    },
+    "gamochaeta-purpurea": {
+      "count": 0,
+      "first_src": null
+    },
+    "grindelia-adenodonta": {
+      "count": 1,
+      "first_src": "media/grindelia-adenodonta/01.jpg"
+    },
+    "grindelia-ciliata": {
+      "count": 1,
+      "first_src": "media/grindelia-ciliata/01.jpg"
+    },
+    "grindelia-lanceolata": {
+      "count": 0,
+      "first_src": null
+    },
+    "grindelia-nuda": {
+      "count": 1,
+      "first_src": "media/grindelia-nuda/01.jpg"
+    },
+    "gutierrezia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "gymnosperma-glutinosum": {
+      "count": 0,
+      "first_src": null
+    },
+    "helenium-amarum": {
+      "count": 1,
+      "first_src": "media/helenium-amarum/01.jpg"
+    },
+    "helenium-autumnale": {
+      "count": 3,
+      "first_src": "media/helenium-autumnale/01.jpg"
+    },
+    "helenium-elegans": {
+      "count": 0,
+      "first_src": null
+    },
+    "helenium-quadridentatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "helianthus-annuus": {
+      "count": 0,
+      "first_src": null
+    },
+    "helianthus-maximiliani": {
+      "count": 0,
+      "first_src": null
+    },
+    "heterotheca-canescens": {
+      "count": 2,
+      "first_src": "media/heterotheca-canescens/01.jpg"
+    },
+    "heterotheca-stenophylla": {
+      "count": 1,
+      "first_src": "media/heterotheca-stenophylla/01.jpg"
+    },
+    "heterotheca-subaxillaris": {
+      "count": 2,
+      "first_src": "media/heterotheca-subaxillaris/01.jpg"
+    },
+    "heterotheca-villosa": {
+      "count": 1,
+      "first_src": "media/heterotheca-villosa/01.jpg"
+    },
+    "hymenopappus-artemisiifolius": {
+      "count": 2,
+      "first_src": "media/hymenopappus-artemisiifolius/01.jpg"
+    },
+    "hymenopappus-scabiosaeus": {
+      "count": 0,
+      "first_src": null
+    },
+    "hymenopappus-scabiosaeus-var-corymbosus": {
+      "count": 1,
+      "first_src": "media/hymenopappus-scabiosaeus-var-corymbosus/01.jpg"
+    },
+    "hymenopappus-tenuifolius": {
+      "count": 0,
+      "first_src": null
+    },
+    "iva-annua": {
+      "count": 0,
+      "first_src": null
+    },
+    "iva-asperifolia-var-angustifolia": {
+      "count": 1,
+      "first_src": "media/iva-asperifolia-var-angustifolia/01.jpg"
+    },
+    "krigia-cespitosa": {
+      "count": 1,
+      "first_src": "media/krigia-cespitosa/01.jpg"
+    },
+    "krigia-occidentalis": {
+      "count": 1,
+      "first_src": "media/krigia-occidentalis/01.jpg"
+    },
+    "lactuca-ludoviciana": {
+      "count": 1,
+      "first_src": "media/lactuca-ludoviciana/01.jpg"
+    },
+    "lactuca-serriola": {
+      "count": 2,
+      "first_src": "media/lactuca-serriola/01.jpg"
+    },
+    "laphamia-lindheimeri": {
+      "count": 1,
+      "first_src": "media/laphamia-lindheimeri/01.jpg"
+    },
+    "leontodon-rhagadioloides": {
+      "count": 1,
+      "first_src": "media/leontodon-rhagadioloides/01.jpg"
+    },
+    "liatris-punctata": {
+      "count": 0,
+      "first_src": null
+    },
+    "lindheimera-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "lygodesmia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "marshallia-caespitosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "melampodium-leucanthum": {
+      "count": 0,
+      "first_src": null
+    },
+    "mikania-scandens": {
+      "count": 1,
+      "first_src": "media/mikania-scandens/01.jpg"
+    },
+    "packera-glabella": {
+      "count": 1,
+      "first_src": "media/packera-glabella/01.jpg"
+    },
+    "packera-obovata": {
+      "count": 1,
+      "first_src": "media/packera-obovata/01.jpg"
+    },
+    "packera-tampicana": {
+      "count": 1,
+      "first_src": "media/packera-tampicana/01.jpg"
+    },
+    "palafoxia-callosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "parthenium-confertum": {
+      "count": 1,
+      "first_src": "media/parthenium-confertum/01.jpg"
+    },
+    "parthenium-hysterophorus": {
+      "count": 1,
+      "first_src": "media/parthenium-hysterophorus/01.jpg"
+    },
+    "pectis-angustifolia": {
+      "count": 1,
+      "first_src": "media/pectis-angustifolia/01.jpg"
+    },
+    "pectis-angustifolia-var-fastigiata": {
+      "count": 0,
+      "first_src": null
+    },
+    "pinaropappus-roseus": {
+      "count": 1,
+      "first_src": "media/pinaropappus-roseus/01.jpg"
+    },
+    "plectocephalus-americanus": {
+      "count": 2,
+      "first_src": "media/plectocephalus-americanus/01.jpg"
+    },
+    "pluchea-camphorata": {
+      "count": 0,
+      "first_src": null
+    },
+    "pluchea-odorata": {
+      "count": 0,
+      "first_src": null
+    },
+    "porophyllum-scoparium": {
+      "count": 0,
+      "first_src": null
+    },
+    "pseudognaphalium-canescens": {
+      "count": 1,
+      "first_src": "media/pseudognaphalium-canescens/01.jpg"
+    },
+    "pseudognaphalium-obtusifolium": {
+      "count": 1,
+      "first_src": "media/pseudognaphalium-obtusifolium/01.jpg"
+    },
+    "pyrrhopappus-carolinianus": {
+      "count": 1,
+      "first_src": "media/pyrrhopappus-carolinianus/01.jpg"
+    },
+    "pyrrhopappus-grandiflorus": {
+      "count": 2,
+      "first_src": "media/pyrrhopappus-grandiflorus/01.jpg"
+    },
+    "pyrrhopappus-pauciflorus": {
+      "count": 1,
+      "first_src": "media/pyrrhopappus-pauciflorus/01.jpg"
+    },
+    "ratibida-columnifera": {
+      "count": 2,
+      "first_src": "media/ratibida-columnifera/01.jpg"
+    },
+    "rudbeckia-amplexicaulis": {
+      "count": 1,
+      "first_src": "media/rudbeckia-amplexicaulis/01.jpg"
+    },
+    "rudbeckia-hirta": {
+      "count": 0,
+      "first_src": null
+    },
+    "rudbeckia-maxima": {
+      "count": 1,
+      "first_src": "media/rudbeckia-maxima/01.jpg"
+    },
+    "senecio-ampullaceus": {
+      "count": 1,
+      "first_src": "media/senecio-ampullaceus/01.jpg"
+    },
+    "sideranthus-spinulosus": {
+      "count": 1,
+      "first_src": "media/sideranthus-spinulosus/01.jpg"
+    },
+    "sidneya-tenuifolia": {
+      "count": 1,
+      "first_src": "media/sidneya-tenuifolia/01.jpg"
+    },
+    "silphium-albiflorum": {
+      "count": 1,
+      "first_src": "media/silphium-albiflorum/01.jpg"
+    },
+    "silphium-laciniatum": {
+      "count": 1,
+      "first_src": "media/silphium-laciniatum/01.jpg"
+    },
+    "silphium-radula": {
+      "count": 1,
+      "first_src": "media/silphium-radula/01.jpg"
+    },
+    "silybum-marianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "simsia-calva": {
+      "count": 1,
+      "first_src": "media/simsia-calva/01.jpg"
+    },
+    "solidago-altissima": {
+      "count": 0,
+      "first_src": null
+    },
+    "solidago-canadensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "solidago-gigantea": {
+      "count": 2,
+      "first_src": "media/solidago-gigantea/01.jpg"
+    },
+    "solidago-juliae": {
+      "count": 0,
+      "first_src": null
+    },
+    "solidago-mexicana": {
+      "count": 1,
+      "first_src": "media/solidago-mexicana/01.jpg"
+    },
+    "solidago-nemoralis": {
+      "count": 0,
+      "first_src": null
+    },
+    "solidago-radula": {
+      "count": 0,
+      "first_src": null
+    },
+    "solidago-rugosa": {
+      "count": 1,
+      "first_src": "media/solidago-rugosa/01.jpg"
+    },
+    "sonchus-asper": {
+      "count": 1,
+      "first_src": "media/sonchus-asper/01.jpg"
+    },
+    "sphagneticola-trilobata": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphyotrichum-divaricatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphyotrichum-drummondii": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphyotrichum-ericoides": {
+      "count": 1,
+      "first_src": "media/symphyotrichum-ericoides/01.jpg"
+    },
+    "symphyotrichum-eulae": {
+      "count": 1,
+      "first_src": "media/symphyotrichum-eulae/01.jpg"
+    },
+    "symphyotrichum-lanceolatum-subsp-lanceolatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphyotrichum-oblongifolium": {
+      "count": 1,
+      "first_src": "media/symphyotrichum-oblongifolium/01.jpg"
+    },
+    "symphyotrichum-patens": {
+      "count": 1,
+      "first_src": "media/symphyotrichum-patens/01.jpg"
+    },
+    "symphyotrichum-praealtum": {
+      "count": 2,
+      "first_src": "media/symphyotrichum-praealtum/01.jpg"
+    },
+    "symphyotrichum-sericeum": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphyotrichum-subulatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "taraxacum-erythrospermum": {
+      "count": 1,
+      "first_src": "media/taraxacum-erythrospermum/01.jpg"
+    },
+    "tetragonotheca-texana": {
+      "count": 1,
+      "first_src": "media/tetragonotheca-texana/01.jpg"
+    },
+    "tetraneuris-acaulis": {
+      "count": 1,
+      "first_src": "media/tetraneuris-acaulis/01.jpg"
+    },
+    "tetraneuris-linearifolia": {
+      "count": 2,
+      "first_src": "media/tetraneuris-linearifolia/01.jpg"
+    },
+    "tetraneuris-scaposa": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelesperma-filifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelesperma-megapotamicum-var-ambiguum": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelesperma-simplicifolium": {
+      "count": 1,
+      "first_src": "media/thelesperma-simplicifolium/01.jpg"
+    },
+    "thymophylla-pentachaeta": {
+      "count": 1,
+      "first_src": "media/thymophylla-pentachaeta/01.jpg"
+    },
+    "thymophylla-tenuiloba": {
+      "count": 1,
+      "first_src": "media/thymophylla-tenuiloba/01.jpg"
+    },
+    "tragopogon-dubius": {
+      "count": 1,
+      "first_src": "media/tragopogon-dubius/01.jpg"
+    },
+    "trixis-californica": {
+      "count": 1,
+      "first_src": "media/trixis-californica/01.jpg"
+    },
+    "verbesina-encelioides": {
+      "count": 2,
+      "first_src": "media/verbesina-encelioides/01.jpg"
+    },
+    "verbesina-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "verbesina-virginica": {
+      "count": 2,
+      "first_src": "media/verbesina-virginica/01.jpg"
+    },
+    "vernonia-baldwinii": {
+      "count": 1,
+      "first_src": "media/vernonia-baldwinii/01.jpg"
+    },
+    "vernonia-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "vernonia-x-guadalupensis": {
+      "count": 1,
+      "first_src": "media/vernonia-x-guadalupensis/01.jpg"
+    },
+    "viguiera-dentata": {
+      "count": 0,
+      "first_src": null
+    },
+    "wedelia-acapulcensis": {
+      "count": 1,
+      "first_src": "media/wedelia-acapulcensis/01.jpg"
+    },
+    "wedelia-acapulcensis-var-hispida": {
+      "count": 0,
+      "first_src": null
+    },
+    "xanthium-strumarium": {
+      "count": 1,
+      "first_src": "media/xanthium-strumarium/01.jpg"
+    }
+  }
+}
