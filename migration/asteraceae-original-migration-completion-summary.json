@@ -1,0 +1,21 @@
+{
+  "status": "ASTERACEAE_ALL_1137_ORIGINAL_SOURCE_FILES_PRIVATE_TRANSFER_PASS",
+  "source_repo": "Crking92/Hays-County-Botany",
+  "source_family_tree_sha": "394bb64d90c025a51a8d6e10dc4a19bce1aaf623",
+  "original_source_files_total": 1137,
+  "source_species": 180,
+  "original_text_files_byte_exact": 678,
+  "original_photos_total": 459,
+  "original_photos_byte_exact_in_private_repo": 459,
+  "original_source_photo_bytes": 156804745,
+  "existing_previously_staged_original_images": 323,
+  "original_source_photos_quarantined_privately_no_gallery": 136,
+  "source_original_files_missing_from_private_repo": 0,
+  "separately_sourced_additional_photos_preserved_untouched": 39,
+  "held_photos_not_deployed": true,
+  "original_hub_unchanged": true,
+  "collection_pages_published": false,
+  "source_authority_changed": false,
+  "live_cutover_approved": false,
+  "recorded_external_only_image_references": 29
+}
