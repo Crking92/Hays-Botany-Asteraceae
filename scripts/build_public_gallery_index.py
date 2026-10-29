@@ -25,7 +25,7 @@ for row in INDEX["entries"]:
     assert isinstance(photos,list)
     for photo in photos:
         assert photo.get("private_rights_review_only") is False and photo.get("noncommercial_only") is False,id
-        license_name=photo.get("license","")
+        license_name=photo.get("license","").upper()
         assert license_name.startswith(("CC BY","CC0")) and "NC" not in license_name and "ND" not in license_name,id
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),id
         license_url=photo.get("license_url","")
