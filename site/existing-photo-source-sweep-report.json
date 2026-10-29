@@ -1,17 +1,17 @@
 {
   "status": "PASS_EXISTING_SOURCE_CC_PHOTO_BACKFILL",
   "source_media_records": 477,
-  "newly_archived_original_cc_photo_copies": 7,
-  "original_approved_photos_already_covered": 111,
+  "newly_archived_original_cc_photo_copies": 0,
+  "original_approved_photos_already_covered": 118,
   "total_published_photo_copies": 169,
   "total_photographed_species": 122,
   "remaining_held_source_records": 359,
   "hold_reason_counts": {
-    "license_not_strict_cc_or_public_domain": 301,
+    "license_not_strict_cc_or_public_domain": 300,
     "remote_or_invalid_original_path": 29,
     "public_permission_not_documented": 7,
     "image_specific_source_not_public_verified": 10,
-    "source_bytes_not_in_staged_archive": 12
+    "source_bytes_not_in_staged_archive": 13
   },
   "held_by_species": {
     "acourtia-runcinata": [
@@ -757,7 +757,7 @@
     "gamochaeta-purpurea": [
       {
         "record": 0,
-        "reason": "license_not_strict_cc_or_public_domain"
+        "reason": "source_bytes_not_in_staged_archive"
       },
       {
         "record": 1,
@@ -1744,5 +1744,5 @@
   "new_photos_collected": 0,
   "staging_source_preserved": true,
   "original_legacy_learner_preserved": true,
-  "additional_existing_source_bytes": 1521287
+  "additional_existing_source_bytes": 0
 }
