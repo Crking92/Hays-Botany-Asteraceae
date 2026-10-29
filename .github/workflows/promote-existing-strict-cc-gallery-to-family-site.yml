@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/promote-existing-strict-cc-gallery-to-family-site.yml'
+      - 'scripts/build_asteraceae_photo_preview.py'
   workflow_dispatch:
 permissions: {contents: write}
 concurrency:
