@@ -4,6 +4,15 @@
 
 The independent [Asteraceae](https://github.com/Crking92/Hays-Botany-Asteraceae/tree/staging/asteraceae-metadata) staging branch has all **180 species** and **678 original source text/metadata/lesson files**, including **45 existing genus lessons** and one family lesson, preserved from the original hub. Missing standalone genus lessons remain an explicit backlog (49).
 
+## Complete existing-file transfer — verified
+
+**1,137/1,137 original Asteraceae source files are now present and hash checked in [private staging](https://github.com/Crking92/Hays-Botany-Asteraceae/tree/staging/asteraceae-metadata): 678 data/credit text files and all 459 original images.** The 323 previously accepted original media files remain in the private learner's content paths; the other 136 original image files are preserved in a separate private **non-displayed** rights-hold archive. An additional 39 separately sourced historical gallery photos remain untouched.
+
+[Full source-file verification](https://github.com/Crking92/Hays-Botany-Asteraceae/blob/staging/asteraceae-metadata/migration/asteraceae-original-migration-completion-summary.json) · [1,137-file exact source manifest](https://github.com/Crking92/Hays-Botany-Asteraceae/blob/staging/asteraceae-metadata/migration/asteraceae-all-original-1137-file-transfer-manifest.json)
+
+This closes *source-file migration only*. The authoritative hub, published learner, old image-rights decisions and private gallery tests have not been changed. No new photos were collected.
+
+
 ## Source photo inventory and field-first photo curation (October 28, 2026)
 
 - **459/459** original physical Asteraceae photographs are inventoried and reconciled by exact Git blob and disposition.
