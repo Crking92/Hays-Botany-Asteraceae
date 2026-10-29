@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/restore_remaining_existing_asteraceae_photos.py'
+      - 'scripts/review_existing_asteraceae_photo_rights.py'
       - '.github/workflows/restore-additional-existing-asteraceae-photos.yml'
   workflow_dispatch:
 permissions:
