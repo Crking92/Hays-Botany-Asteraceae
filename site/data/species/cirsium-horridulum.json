@@ -47,6 +47,20 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/cirsium-horridulum/source-4892b91f8f97.jpg",
+      "creator": "Robert H. Mohlenbrock / USDA SCS-NRCS PLANTS",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cirsium_horridulum_NRCS.jpg",
+      "role": "Look closer · globose pale-pink thistle flowerhead above many stiff narrow green spine-tipped head bracts; basal leaves not shown",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "4892b91f8f970a7c060e6b0fa5a801712b862d8e",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
