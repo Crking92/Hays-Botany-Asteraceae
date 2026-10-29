@@ -37,6 +37,20 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/silphium-albiflorum/source-6e16ab52d8ea.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silphium_albiflorum.jpg",
+      "role": "whole plant / roadside flowering habit",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "6e16ab52d8ea1f0fd24007b37d4838bd0a167fdf",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
