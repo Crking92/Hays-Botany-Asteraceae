@@ -1,9 +1,9 @@
 {
   "id": "dysodiopsis-tagetoides",
-  "family": "Asteraceae",
-  "genus": "Dysodiopsis",
   "scientific_name": "Dysodiopsis tagetoides",
   "common_name": "False dogfennel",
+  "family": "Asteraceae",
+  "genus": "Dysodiopsis",
   "look_here_first": "Check the dissected leaves, yellow composite flower heads and phyllaries; look closely at the disk florets and seed heads.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "66321b837ee469e471423dbf344a8297b0534cce0db89b555011fa6823c7af46",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

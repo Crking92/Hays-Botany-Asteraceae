@@ -1,9 +1,9 @@
 {
   "id": "conoclinium-dissectum",
-  "family": "Asteraceae",
-  "genus": "Conoclinium",
   "scientific_name": "Conoclinium dissectum",
   "common_name": "Gregg's Mistflower",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
   "look_here_first": "Check fully expanded middle leaves: deep lobes or dissections interrupt the leaf outline; opposite foliage and blue-violet rayless heads support Conoclinium. C. coelestinum has a simple toothed—not deeply cut—leaf outline.",
   "key_traits": [
     {
@@ -31,24 +31,8 @@
       "text": "Cypselae about 1.8–2.5 mm with a bristly pappus."
     },
     {
-      "label": "Identification",
-      "text": "deeply lobed/dissected palmleaf-like leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "lavender-blue fuzzy discoid heads"
-    },
-    {
-      "label": "Identification",
-      "text": "opposite leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "perennial clumping/spreading habit"
-    },
-    {
-      "label": "Identification",
-      "text": "Joey's source under the familiar name Conoclinium greggii shows the low mounded/spreading landscape habit—use that habit with the deeply dissected leaves, not flower color alone."
+      "label": "Best field traits",
+      "text": "deeply lobed/dissected palmleaf-like leaves; lavender-blue fuzzy discoid heads; opposite leaves; perennial clumping/spreading habit; Joey's source under the familiar name Conoclinium greggii shows the low mounded/spreading landscape habit—use that habit with the deeply dissected leaves, not flower color alone."
     },
     {
       "label": "Joey field note",
@@ -60,11 +44,14 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Conoclinium coelestinum",
+      "Chromolaena odorata",
+      "Conoclinium betonicifolium"
+    ],
+    "differences": "Versus C. coelestinum: deeply dissected/lobed leaf vs intact toothed margin (PRIMARY); FNA fruit hispidulous 1.8–2.5 mm vs glabrous 1–1.5 mm (confirmation). Versus Chromolaena odorata: Conoclinium has shorter hemispheric involucres with 2–3 phyllary series, rather than cylindrical 8–10 mm and 4–6+ series."
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "59c4f14fc9796b653cc9eed89f095f95cc52f35b9b29de310b3518295f783e11",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

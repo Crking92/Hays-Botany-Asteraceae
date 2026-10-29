@@ -1,17 +1,31 @@
 {
   "id": "eriophyllum-lanatum",
-  "family": "Asteraceae",
-  "genus": "Eriophyllum",
   "scientific_name": "Eriophyllum lanatum",
   "common_name": "Oregon sunshine",
+  "family": "Asteraceae",
+  "genus": "Eriophyllum",
   "look_here_first": "Inspect woolly or whitish leaves and yellow daisy-like flower heads; check leaf dissection and phyllaries to separate look-alike asters.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "47aec55e2f6807c667e859ebb41441833fe85f975751880b4a518463fbcf4ac0",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/eriophyllum-lanatum/01.jpg",
+      "creator": "Sarah Stierch (Missvain)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eriophyllum_lanatum_-_May_2023_-_Sarah_Stierch_18.jpg",
+      "role": "Provisional recognition of flowering plant; leaf hairs and phyllaries require distinct macro photos.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "241ab334b0d3c16d0250e576aac563548fbb369c",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

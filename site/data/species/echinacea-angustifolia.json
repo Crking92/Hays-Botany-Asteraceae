@@ -1,30 +1,14 @@
 {
   "id": "echinacea-angustifolia",
-  "family": "Asteraceae",
-  "genus": "Echinacea",
   "scientific_name": "Echinacea angustifolia",
   "common_name": "Narrow-leaf coneflower",
+  "family": "Asteraceae",
+  "genus": "Echinacea",
   "look_here_first": "Ignore ray color first. Look for very narrow rough leaves and a usually single head on a stout little-branched stem, with drooping rays around a hard prickly cone.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "deep-rooted perennial from stout taproot/crown"
-    },
-    {
-      "label": "Identification",
-      "text": "narrow linear-lanceolate to oblong-lanceolate rough/hairy leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "stems stout and usually simple or weakly branched, often one head"
-    },
-    {
-      "label": "Identification",
-      "text": "ray florets often droop around a broad hard prickly conical disk"
-    },
-    {
-      "label": "Identification",
-      "text": "pappus much reduced compared with fluffy Asteraceae"
+      "label": "Best field traits",
+      "text": "deep-rooted perennial from stout taproot/crown; narrow linear-lanceolate to oblong-lanceolate rough/hairy leaves; stems stout and usually simple or weakly branched, often one head; ray florets often droop around a broad hard prickly conical disk; pappus much reduced compared with fluffy Asteraceae"
     },
     {
       "label": "Habit",
@@ -44,11 +28,43 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ratibida columnifera",
+      "Echinacea purpurea",
+      "Echinacea pallida"
+    ],
+    "differences": "Ratibida has an elongated columnar disk and deeply divided leaves. E. purpurea generally has much broader leaves; E. pallida overlap requires finer floral/leaf characters and range context."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1b957c80c91c80873971d49ab75ed71c46fff054b6d445ecc8ba1d1325c103bb",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/echinacea-angustifolia/01.jpg",
+      "creator": "Jasper Shide",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_Narrow-leaved_Purple_Coneflower_(7-15-24)_03.jpg",
+      "role": "Field foliage / narrow leaves, venation and hairy stems",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "2bd24e8026817b3206da828cfbf8a0b1a390c3c1",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/echinacea-angustifolia/02.jpg",
+      "creator": "Ernie (Wilder Kaiser)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Echinacea_angustifolia_-_01Aug2009_-_01.jpg",
+      "role": "Flower head / ray florets and raised disk",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "48916531bec72c08f177c49bdebafd49993d38ed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

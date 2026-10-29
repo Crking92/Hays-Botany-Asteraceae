@@ -1,9 +1,9 @@
 {
   "id": "grindelia-adenodonta",
-  "family": "Asteraceae",
-  "genus": "Grindelia",
   "scientific_name": "Grindelia adenodonta",
   "common_name": "Lonestar gumweed",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
   "look_here_first": "Inspect the yellow flower head and sticky involucral bracts (phyllaries), then the stems: yellow ray florets surround a disk; many phyllary tips hook or curve back; stems are noticeably hairy/glandular. Check serrate leaves clasping the stem.",
   "key_traits": [
     {
@@ -11,32 +11,35 @@
       "text": "Herbaceous gumweed; confirm longevity on mature plants rather than relying on habit alone."
     },
     {
-      "label": "Identification",
-      "text": "Yellow ray florets present around yellow disk florets (radiate head)."
-    },
-    {
-      "label": "Identification",
-      "text": "Numerous phyllaries with hooked/recurved resinous tips."
-    },
-    {
-      "label": "Identification",
-      "text": "Stems visibly hairy or glandular-hairy, especially toward the heads."
-    },
-    {
-      "label": "Identification",
-      "text": "Alternate serrate leaves with sessile/clasping bases."
-    },
-    {
-      "label": "Identification",
-      "text": "Sticky/resinous head, characteristic of Grindelia."
+      "label": "Best field traits",
+      "text": "Yellow ray florets present around yellow disk florets (radiate head).; Numerous phyllaries with hooked/recurved resinous tips.; Stems visibly hairy or glandular-hairy, especially toward the heads.; Alternate serrate leaves with sessile/clasping bases.; Sticky/resinous head, characteristic of Grindelia."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Grindelia ciliata",
+      "Grindelia squarrosa",
+      "Grindelia nuda",
+      "Grindelia lanceolata"
+    ],
+    "differences": "Versus G. ciliata, compare stem pubescence (adenodonta hairier; ciliata usually otherwise glabrous/gland-dotted), annual habit, and mature pappus. G. nuda is typically rayless; do not infer a radiate specimen is nuda. G. squarrosa has strongly squarrose recurved phyllaries, but historical var. nuda records belong to a different current taxon. G. lanceolata has narrower leaves; use a mature head and stem together."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "5cfb244b28b16dac04a041a403d218776b9b053fcb6c4a3e8d213e7f7d5b433c",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/grindelia-adenodonta/01.jpg",
+      "creator": "lanechaffin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_adenodonta.jpg",
+      "role": "Lonestar gumweed flowering habit; iNaturalist photo 44230170, visible ray disk and phyllaries.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "171a11501901a800fc483c545e5fb937ff239037",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

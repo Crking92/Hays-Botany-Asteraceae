@@ -1,17 +1,31 @@
 {
   "id": "diaperia-candida",
-  "family": "Asteraceae",
-  "genus": "Diaperia",
   "scientific_name": "Diaperia candida",
   "common_name": "Silver dwarf cudweed",
+  "family": "Asteraceae",
+  "genus": "Diaperia",
   "look_here_first": "Inspect the dense whitish wool on the low plant and its clustered inconspicuous flower heads; confirm the heads under magnification.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "fb191201215559040509cf8d65d4eb1c8b61b01cd00fac5c35004b93d0931ee4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/diaperia-candida/01.jpg",
+      "creator": "Laura Clark",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Silver_rabbit_tobacco_imported_from_iNaturalist_photo_265055282_on_22_October_2024.jpg",
+      "role": "Provisional recognition: silvery woolly leaves and clustered heads visible; microscopic head characters not checked",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "5b92d25961f29e8d963357e5a948a1246867536e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

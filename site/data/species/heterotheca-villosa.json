@@ -1,17 +1,31 @@
 {
   "id": "heterotheca-villosa",
-  "family": "Asteraceae",
-  "genus": "Heterotheca",
   "scientific_name": "Heterotheca villosa",
   "common_name": "Hairy goldenaster",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
   "look_here_first": "Recognize hairy stems and leaves and yellow daisy-like heads; inspect the layers of phyllaries and the hairy leaf surfaces.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "c15fe391dc8261ac436d26515d147f8ebc8b38f31050817f1f346d46ad4643e7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/heterotheca-villosa/01.jpg",
+      "creator": "Matt Lavin",
+      "license": "CC BY SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_villosa_involucral_bracts_(3488027010).jpg",
+      "role": "Provisional recognition: yellow flower head, hairy stem and involucral bracts visible; identity/photo anatomy await curation",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "ef94e30906d405bdc705dac4c4ef7d92b2156533",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "engelmannia-peristenia",
-  "family": "Asteraceae",
-  "genus": "Engelmannia",
   "scientific_name": "Engelmannia peristenia",
   "common_name": "Engelmann’s Daisy",
+  "family": "Asteraceae",
+  "genus": "Engelmannia",
   "look_here_first": "",
   "key_traits": [
     {
@@ -31,28 +31,58 @@
       "text": "Cypselae flattened with reduced pappus."
     },
     {
-      "label": "Identification",
-      "text": "basal-lobed leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "long naked peduncles"
-    },
-    {
-      "label": "Identification",
-      "text": "classic yellow daisy heads"
-    },
-    {
-      "label": "Identification",
-      "text": "perennial clump"
+      "label": "Best field traits",
+      "text": "basal-lobed leaves; long naked peduncles; classic yellow daisy heads; perennial clump"
     }
   ],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "1c6344e7a7d4ecc7595f51f8e693474fe084361b9bf6d4e28b3653af5d74b6c4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/engelmannia-peristenia/01.jpg",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "role": "same-observation field view 1",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "130ec01b616ed4e2d8c64b5ec75fc7f97b5b098c",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/engelmannia-peristenia/02.jpg",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "role": "same-observation field view 2",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "ee6745cbe0546bd60c6f5247f63b6e4dc8156297",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/engelmannia-peristenia/03.jpg",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.inaturalist.org/observations/391080887",
+      "role": "same-observation field view 3",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "7f2ce3b781b6c38a7a526a5540b6988add1e0f5e",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

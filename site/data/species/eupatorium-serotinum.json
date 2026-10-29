@@ -1,9 +1,9 @@
 {
   "id": "eupatorium-serotinum",
-  "family": "Asteraceae",
-  "genus": "Eupatorium",
   "scientific_name": "Eupatorium serotinum",
   "common_name": "Late Boneset",
+  "family": "Asteraceae",
+  "genus": "Eupatorium",
   "look_here_first": "Differentiate late boneset from white mistflower/white snakeroot by its tall branched HERBACEOUS form, narrower opposite lanceolate gland-dotted leaves (usually 20–90+ × 5–40 mm), and 9–15 florets per capitulum. FNA describes 8–12 phyllaries in 1–2 series, each usually 1–3 mm long.",
   "key_traits": [
     {
@@ -31,20 +31,8 @@
       "text": "Cypselae with pappus bristles."
     },
     {
-      "label": "Identification",
-      "text": "tall herbaceous habit"
-    },
-    {
-      "label": "Identification",
-      "text": "opposite serrate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "white fuzzy clusters"
-    },
-    {
-      "label": "Identification",
-      "text": "non-shrubby boneset look"
+      "label": "Best field traits",
+      "text": "tall herbaceous habit; opposite serrate leaves; white fuzzy clusters; non-shrubby boneset look"
     },
     {
       "label": "Reproductive confirmation",
@@ -52,11 +40,43 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Chromolaena odorata"
+    ],
+    "differences": "Versus A. havanensis: herbaceous and tall vs woody evergreen shrub. Versus A. altissima: leaves narrower and more lanceolate, with gland-dots, and often stronger distal branching; inspect individual heads and phyllaries. Versus C. odorata: short 1–3 mm Eupatorium phyllaries in 1–2 series and generally much shorter involucres, instead of cylindrical 8–10 mm involucres with 4–6+ phyllary series."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "cedfcd0e3a8eec40cf248c4985767ebff7b2d4075e30660daa50fd8ba223bf54",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/eupatorium-serotinum/01.jpg",
+      "creator": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/taxa/52934",
+      "role": "curated taxon reference 1",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "e4e24cdc45ebcd952d9ebb7a17b250d5f90d5eff",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/eupatorium-serotinum/02.jpg",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eupatorium_serotinum_-_Late_Boneset.jpg",
+      "role": "Wild flowering branches and inflorescence context; single-head phyllary macro still pending",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "805adfe8a978581a8809adbe8f32e6e7019e6187",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

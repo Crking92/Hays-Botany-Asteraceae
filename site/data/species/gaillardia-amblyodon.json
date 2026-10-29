@@ -1,50 +1,40 @@
 {
   "id": "gaillardia-amblyodon",
-  "family": "Asteraceae",
-  "genus": "Gaillardia",
   "scientific_name": "Gaillardia amblyodon",
   "common_name": "Maroon Blanketflower / Narrow Blanketflower",
+  "family": "Asteraceae",
+  "genus": "Gaillardia",
   "look_here_first": "Start with ray color. Maroon blanketflower is an annual with leafy branching stems and heads carrying dark maroon-red to purple rays, usually without the bright yellow tips common in G. pulchella.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "annual"
+      "label": "Best field traits",
+      "text": "annual; taprooted; leafy branching stems; alternate oblanceolate to spatulate leaves; dark red to maroon or purple rays; ray tips 3-lobed; disk florets yellow to dark red with purple tips; open sandy or rocky sites"
     },
     {
-      "label": "Identification",
-      "text": "taprooted"
-    },
-    {
-      "label": "Identification",
-      "text": "leafy branching stems"
-    },
-    {
-      "label": "Identification",
-      "text": "alternate oblanceolate to spatulate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "dark red to maroon or purple rays"
-    },
-    {
-      "label": "Identification",
-      "text": "ray tips 3-lobed"
-    },
-    {
-      "label": "Identification",
-      "text": "disk florets yellow to dark red with purple tips"
-    },
-    {
-      "label": "Identification",
-      "text": "open sandy or rocky sites"
+      "label": "Comparison training",
+      "text": "G. pulchella usually has conspicuous yellow-tipped red rays; G. amblyodon is much more uniformly maroon/red. G. suavis is perennial and scapose with rays often reduced or absent."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "G. pulchella usually has conspicuous yellow-tipped red rays; G. amblyodon is much more uniformly maroon/red. G. suavis is perennial and scapose with rays often reduced or absent."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "7a91ebe1392de0a14b03c7ae8b38e6b5910fe07a191b4fc3a49c393d88cd359d",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/gaillardia-amblyodon/01.jpg",
+      "creator": "Megan Kossa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gaillardia_amblyodon,_Texas,_US_imported_from_iNaturalist_photo_72187260.jpg",
+      "role": "Flowering head / recognizable face",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "a2473247f1bf02e546678849b487ff9eb324bff3",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

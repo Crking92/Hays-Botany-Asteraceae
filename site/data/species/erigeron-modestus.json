@@ -1,9 +1,9 @@
 {
   "id": "erigeron-modestus",
-  "family": "Asteraceae",
-  "genus": "Erigeron",
   "scientific_name": "Erigeron modestus",
   "common_name": "Plains fleabane",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
   "look_here_first": "LOOK HERE FIRST: Plains fleabane is typically a SHORT perennial (8–40 cm) with a WOODY or LIGNIFIED taproot/crown, often persistent old stem bases. Early spring shoots can appear annual and bear a single relatively large showy head; later flowering stems often branch into many smaller heads. Lower stem hairs and ray lengths overlap E. geiseri, so a daisy-only photo is not a reliable split. Examine the mature base, seasonal branching, leaves, stem hairs and fresh phyllaries together. An uncertain plant stays Erigeron sp.",
   "key_traits": [
     {
@@ -20,11 +20,27 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Erigeron geiseri"
+    ],
+    "differences": "E. geiseri has a slender annual root and characteristic lower versus upper stem hairs; rays and flowering time overlap."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "c0259d16ef10123ca30590413c245f227a7f8043d2d32ebc5deaa98d1f0b16d7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/erigeron-modestus/01.jpg",
+      "creator": "Suanne Pyle",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/717619901",
+      "role": "Flowering stems with small white-rayed heads in mixed vegetation; basal leaves and phyllary macro still needed",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "1cefa70503d9429d2f7e29924d52545a1fb17328",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

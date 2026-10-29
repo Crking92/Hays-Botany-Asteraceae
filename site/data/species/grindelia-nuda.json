@@ -1,50 +1,40 @@
 {
   "id": "grindelia-nuda",
-  "family": "Asteraceae",
-  "genus": "Grindelia",
   "scientific_name": "Grindelia nuda",
   "common_name": "Curlytop Gumweed / Rayless Gumweed",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
   "look_here_first": "Start with the head: curlytop gumweed is typically rayless, with only yellow disc florets surrounded by many narrow spreading to ascending resin-gland-tipped phyllaries. Vegetative parts are strongly gland-dotted and aromatic.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "biennial to short-lived subshrub"
+      "label": "Best field traits",
+      "text": "biennial to short-lived subshrub; glabrous to nearly glabrous gland-dotted shoots; sessile somewhat clasping serrate leaves; strongly aromatic when crushed; ray florets absent; many narrow spreading to ascending phyllaries with resinous tips; disc florets yellow; usually solitary terminal heads"
     },
     {
-      "label": "Identification",
-      "text": "glabrous to nearly glabrous gland-dotted shoots"
-    },
-    {
-      "label": "Identification",
-      "text": "sessile somewhat clasping serrate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "strongly aromatic when crushed"
-    },
-    {
-      "label": "Identification",
-      "text": "ray florets absent"
-    },
-    {
-      "label": "Identification",
-      "text": "many narrow spreading to ascending phyllaries with resinous tips"
-    },
-    {
-      "label": "Identification",
-      "text": "disc florets yellow"
-    },
-    {
-      "label": "Identification",
-      "text": "usually solitary terminal heads"
+      "label": "Comparison training",
+      "text": "Rayless yellow head + gland-dotted aromatic foliage + narrow spreading resin-tipped phyllaries is the strongest field package."
     }
   ],
   "lookalikes": {
     "names": [],
-    "differences": "Rayless yellow head + gland-dotted aromatic foliage + narrow spreading resin-tipped phyllaries is the strongest field package."
+    "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "fe79dbf9cbdbb61228918b6283da7eb6a1c595cec3de6337f7fea145fddfae31",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/grindelia-nuda/01.jpg",
+      "creator": "JerryFriedman",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_squarrosa_discoid_flower2.jpg",
+      "role": "Diagnostic rayless/discoid head, leaves, and recurved phyllaries",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "72285ddc3fa5ec4fbe71d80211ad8347dae1b596",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

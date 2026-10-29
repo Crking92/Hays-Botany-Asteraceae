@@ -1,9 +1,9 @@
 {
   "id": "helianthus-maximiliani",
-  "family": "Asteraceae",
-  "genus": "Helianthus",
   "scientific_name": "Helianthus maximiliani",
   "common_name": "Maximilian Sunflower",
+  "family": "Asteraceae",
+  "genus": "Helianthus",
   "look_here_first": "",
   "key_traits": [
     {
@@ -43,20 +43,8 @@
       "text": "Small flattened cypselas with paired scales/awns; not a reliable split from H. annuus."
     },
     {
-      "label": "Identification",
-      "text": "long, narrow, often folded V-shaped blade with one strong midvein"
-    },
-    {
-      "label": "Identification",
-      "text": "very short leaf stalk or sessile insertion; often nearly untoothed margins"
-    },
-    {
-      "label": "Identification",
-      "text": "upright rhizomatous perennial, often forming colonies"
-    },
-    {
-      "label": "Identification",
-      "text": "long slender gradually tapering phyllaries beneath heads"
+      "label": "Best field traits",
+      "text": "long, narrow, often folded V-shaped blade with one strong midvein; very short leaf stalk or sessile insertion; often nearly untoothed margins; upright rhizomatous perennial, often forming colonies; long slender gradually tapering phyllaries beneath heads"
     }
   ],
   "lookalikes": {
@@ -64,7 +52,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b7e8b0b2d25918e5f8ac175320eb33803fe3c9d7e0d05b4f9c8f71b112d75dd6",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,38 +1,41 @@
 {
   "id": "grindelia-ciliata",
-  "family": "Asteraceae",
-  "genus": "Grindelia",
   "scientific_name": "Grindelia ciliata",
   "common_name": "Spanish gold / waxed goldenweed",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
   "look_here_first": "Inspect the resinous head, stem surface, and mature cypsela: yellow rays around a disk, serrate leaves clasping the stem, glabrous-to-nearly-glabrous gland-dotted stems, and a pappus with numerous bristles. Do not identify from yellow color alone.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Annual herb with branching flowering stems; inspect base and mature shoots."
-    },
-    {
-      "label": "Identification",
-      "text": "Alternate, toothed, sessile-to-clasping leaves; resin dots often visible."
-    },
-    {
-      "label": "Identification",
-      "text": "Radiate yellow heads with sticky involucral phyllaries."
-    },
-    {
-      "label": "Identification",
-      "text": "Stems largely glabrous apart from resin glands; compare hairiness directly."
-    },
-    {
-      "label": "Identification",
-      "text": "Mature fruit with multiple pappus bristles; magnification useful."
+      "label": "Best field traits",
+      "text": "Annual herb with branching flowering stems; inspect base and mature shoots.; Alternate, toothed, sessile-to-clasping leaves; resin dots often visible.; Radiate yellow heads with sticky involucral phyllaries.; Stems largely glabrous apart from resin glands; compare hairiness directly.; Mature fruit with multiple pappus bristles; magnification useful."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Grindelia adenodonta",
+      "Grindelia nuda",
+      "Grindelia lanceolata",
+      "Grindelia squarrosa"
+    ],
+    "differences": "Versus G. adenodonta, examine stem hairs (adenodonta noticeably hairy/glandular-hairy; ciliata generally glabrous and gland-dotted) and mature pappus. G. nuda is typically rayless, so check head for rays. G. lanceolata has narrower leaves and perennial habit; use stem and head together. G. squarrosa often has strongly reflexed squarrose phyllaries; its historical var. nuda belongs to G. nuda, not this card."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "376509ac0e1e00d69ab488719e1842ef54c94c7ba1bf019f7c74ef75b9ac950f",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/grindelia-ciliata/01.jpg",
+      "creator": "JerryFriedman",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grindelia_ciliata_flora.jpg",
+      "role": "Yellow heads and pointed resinous phyllaries; altered image crop/lightness disclosed",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4c5ac408b13b35b73ee4462215e894eaa9d740b3",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

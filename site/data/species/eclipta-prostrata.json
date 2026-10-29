@@ -1,9 +1,9 @@
 {
   "id": "eclipta-prostrata",
-  "family": "Asteraceae",
-  "genus": "Eclipta",
   "scientific_name": "Eclipta prostrata",
   "common_name": "False daisy",
+  "family": "Asteraceae",
+  "genus": "Eclipta",
   "look_here_first": "Opposite narrow leaves and tiny white composite heads; inspect involucral bracts and mature achenes.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "61182189f6faa9491cada8ef67917084767c5d4c192b0f4d63b6649f966cf407",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

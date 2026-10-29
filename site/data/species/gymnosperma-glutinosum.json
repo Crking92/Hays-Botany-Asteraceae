@@ -1,9 +1,9 @@
 {
   "id": "gymnosperma-glutinosum",
-  "family": "Asteraceae",
-  "genus": "Gymnosperma",
   "scientific_name": "Gymnosperma glutinosum",
   "common_name": "Tatalencho",
+  "family": "Asteraceae",
+  "genus": "Gymnosperma",
   "look_here_first": "Shrubby composite with sticky, resinous vegetation and small yellow flower heads; examine leaves and head structure.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "915c6ee530da7b33bcf3b7a0bd86f8546d13e0a7fc97782ff460c75d664ab3a2",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

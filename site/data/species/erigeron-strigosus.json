@@ -1,9 +1,9 @@
 {
   "id": "erigeron-strigosus",
-  "family": "Asteraceae",
-  "genus": "Erigeron",
   "scientific_name": "Erigeron strigosus",
   "common_name": "Prairie fleabane",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
   "look_here_first": "LOOK HERE FIRST: in bloom, look for numerous small white-rayed, yellow-centered daisy heads (typically 50–100 narrow ray florets), ALTERNATE narrow upper stem leaves gradually getting shorter upward, and fine hairs lying mostly against/pointing up the stem (STRIGOSE). Look for persistent basal leaves. But don't identify on white flowers or 'untoothed leaves' alone: leaf margins can be entire OR toothed and E. annuus overlaps. Check leaf BASE: E. philadelphicus commonly clasps the stem, unlike the usually nonclasping stem leaves of E. strigosus. Horseweed E. canadensis has numerous MUCH smaller, almost rayless-looking fresh heads.",
   "key_traits": [
     {
@@ -40,11 +40,60 @@
     }
   ],
   "lookalikes": {
-    "names": [],
+    "names": [
+      "Erigeron annuus",
+      "Erigeron philadelphicus",
+      "Erigeron canadensis",
+      "Erigeron geiseri",
+      "Erigeron modestus",
+      "Erigeron tenuis"
+    ],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "9173deb4ed2edf153b6b8e392407293703f5cf02c64afdce1aab05fe2e94d252",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/erigeron-strigosus/01.jpg",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327401.jpg",
+      "role": "Narrow leaf blades and visible fine stem hairs. Direction of hairs and clasping state NOT demonstrable.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "d1c97b5672551741e27a5a9d63050d7aa203eadb",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/erigeron-strigosus/02.jpg",
+      "creator": "Sandy Wolkenberg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_301327364.jpg",
+      "role": "Multiple narrow-leaved shoots, vegetative habit. Same New Jersey observation as Sandy's other photo; roots not visible.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "12258adee2af287293d4b844b2704bae436c8c65",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/erigeron-strigosus/03.jpg",
+      "creator": "Dean Wm. Taylor",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_strigosus_%286295169491%29.jpg",
+      "role": "Pressed museum voucher with visible root area and printed scale. Collected British Columbia; no fresh flower color or Texas-provenance claim.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "60bf966aa95750e2d7912d8dddad44872723bf2a",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

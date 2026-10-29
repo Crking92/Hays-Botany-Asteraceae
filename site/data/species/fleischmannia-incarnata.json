@@ -1,9 +1,9 @@
 {
   "id": "fleischmannia-incarnata",
-  "family": "Asteraceae",
-  "genus": "Fleischmannia",
   "scientific_name": "Fleischmannia incarnata",
   "common_name": "Pink thoroughwort",
+  "family": "Asteraceae",
+  "genus": "Fleischmannia",
   "look_here_first": "Check a fully opened FLOWERING SHOOT and an OPPOSITE mature leaf: this is a lax/sprawling herb with paired triangular-to-heart-based COARSELY TOOTHED leaves on long petioles and loose sprays of relatively small pale-pink/purple discoid heads. To separate fragrant mistflower (Chromolaena odorata), view ONE flower head FROM THE SIDE: Fleischmannia's involucre is only ~4–5 mm long and has fewer overlapping phyllary series; Chromolaena usually has an 8–10 mm cylindrical involucre with many imbricated phyllaries. Blue mistflower (Conoclinium coelestinum) has many more florets/head and a distinctly conical receptacle; dissection helps. Color alone proves nothing.",
   "key_traits": [
     {
@@ -37,14 +37,85 @@
     {
       "label": "Fruit",
       "text": "Cypselae about 1.8–2.8 mm in FNA, sparsely hairy to sometimes nearly smooth; pappus bristles. Microscopic carpopodium stopper-shaped and sharply differentiated."
+    },
+    {
+      "label": "Field id sequence",
+      "text": "Check opposite leaves on a single stem, including long petioles, toothed edge and triangular/heart-shaped base.; Trace the thin often sprawling herbaceous stems to small open branching clusters.; Photograph a whole inflorescence and then ONE individual head from the SIDE with scale.; Compare ~4–5 mm head involucre and bract ranks against longer ~8–10 mm cylindrical Chromolaena involucres.; If comparing to blue mistflower, count florets per head or carefully dissect a spent head for flat versus conic receptacle."
+    },
+    {
+      "label": "Cautions",
+      "text": "Pink heads plus opposite leaves are shared by Chromolaena, Conoclinium, and other eupatorieae; never identify by pink color alone.; Stem laxness and flower color vary across seasons and sites; use capitulum structure for final separation.; Currently installed photo views show field habit, foliage and head clusters but NOT a same-scale diagnostic involucre or receptacle macro; reserve arrows until a verified close-up is available.; Preserve UNRESOLVED county-native status until BONAP/NAPA target-zone county audit."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Chromolaena odorata",
+      "Conoclinium coelestinum",
+      "Conoclinium dissectum",
+      "Ageratina havanensis",
+      "Ageratina altissima",
+      "Eupatorium serotinum"
+    ],
+    "differences": "Chromolaena odorata (fragrant mistflower): larger ~8–10 mm long cylindrical involucres with many overlapping bract ranks vs Fleischmannia ~4–5 mm shorter heads; both can have toothed opposite leaves and pinkish flowers. Conoclinium coelestinum (blue mistflower): generally more disk florets (often 35–70+) per head and distinctly conic receptacle vs Fleischmannia ~13–25 and flat/slightly convex receptacle; flower shades overlap. Ageratina havanensis: usually woody/shrubby with white to lavender heads; confirm head architecture; no color-only ID."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "a80ad89bff798dfcf52a051ed3dbb880ccfdc7371ad4ee59f942e7864c8d2e7e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/fleischmannia-incarnata/01.jpg",
+      "creator": "Cornus33",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fleischmannia_incarnata_Arkansas_2011.jpg",
+      "role": "Whole plant context showing opposite triangular, toothed leaves, low trailing branches and clustered blooms",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "398dd406becf20e1775dbd12eb3302eb8cac9795",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/fleischmannia-incarnata/02.jpg",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354155044).jpg",
+      "role": "Tall, slender open-branching flowering shoots with terminal head clusters",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "859c0122067d969c24d508472d20aa6e25f53944",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/fleischmannia-incarnata/03.jpg",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24354616404).jpg",
+      "role": "Flowering lateral shoot with opposite toothed leaves and loose branched flowering heads",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "2370318ea4127a7c30853345acde10dee0f06ead",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/fleischmannia-incarnata/04.jpg",
+      "creator": "Melissa McMasters",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pink_thoroughwort_(24891460281).jpg",
+      "role": "Relatively close view of pink-lilac head clusters, flowering branches and florets",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "da435c70f8d333f0c64c581a51d3df698c4c9668",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

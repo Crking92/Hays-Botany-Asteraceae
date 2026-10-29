@@ -1,17 +1,31 @@
 {
   "id": "heterotheca-stenophylla",
-  "family": "Asteraceae",
-  "genus": "Heterotheca",
   "scientific_name": "Heterotheca stenophylla",
   "common_name": "Narrowleaf goldenaster",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
   "look_here_first": "Inspect long narrow hairy alternate leaves and the densely glandular, overlapping phyllaries beneath each yellow flower head.",
   "key_traits": [],
   "lookalikes": {
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "2f145223188ea5b092b1df471d479b17970ed3569c37f8f67ff5123f4ce5535e",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/heterotheca-stenophylla/01.jpg",
+      "creator": "(c) Cody Stricker, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/206965921",
+      "role": "Texas research-grade observation photograph (anatomy not yet annotated)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "ec607e9adf1fca213ab3c1dfd6d597c1dcd6551f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "erigeron-philadelphicus",
-  "family": "Asteraceae",
-  "genus": "Erigeron",
   "scientific_name": "Erigeron philadelphicus",
   "common_name": "Philadelphia fleabane",
+  "family": "Asteraceae",
+  "genus": "Erigeron",
   "look_here_first": "LOOK HERE FIRST: check a leafy flowering stem, NOT flower color alone. (1) The UPPER stem leaves are ALTERNATE with broadened bases usually clasping to AURICULATE-CLASPING (small ear-like lobes wrapped around the stem). (2) Lower leaves may be relatively broad, unevenly crenate/serrate or lobed; basal foliage sometimes persists but may wither. (3) Stems often have longer spreading hairs lower down, becoming more appressed upward. (4) Small showy heads with exceptionally MANY thin white or pinkish ray florets (FNA 150–250, occasionally up to 400) around a yellow disc; involucre about 4–6 mm high. For comparison, E. strigosus typically has narrower, NONCLASPING upper leaves and often fewer (~50–100) rays; E. canadensis bears many much smaller inconspicuously-rayed heads. Confirm using leaf insertion and fresh head, not pink versus white alone.",
   "key_traits": [
     {
@@ -48,11 +48,60 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Erigeron strigosus",
+      "Erigeron canadensis",
+      "Erigeron annuus",
+      "Erigeron geiseri",
+      "Erigeron modestus",
+      "Erigeron tenuis"
+    ],
+    "differences": "With actual flowers: Philadelphia fleabane usually combines abundant fine rays (FNA 150–250[–400]) and CLASPING/AURICULATE upper stem leaf bases. Prairie fleabane E. strigosus often has NONCLASPING narrow upper leaves and fewer rays (commonly 50–100); overlap/variation require multiple features. Horseweed E. canadensis bears scores of much smaller pale greenish heads, with fresh rays inconspicuous. E. annuus is a showy white-rayed look-alike but is often coarser-leaved; inspect FNA key. E. tenuis may have subclasping leaves, so clasping alone isn't a 100% separator."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "419221a6211757a733e04310db4020d3139ff8d3243dd6eaa7d4f9b6a4332b37",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/erigeron-philadelphicus/01.jpg",
+      "creator": "Cbaile19",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus%2C_Beechview%2C_2025-05-17.jpg",
+      "role": "Flowering Philadelphia fleabane photographed at Beechview, Pennsylvania; no Texas provenance implied.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "fdb9313d2e92e421e3970ea794d9a8d672b55219",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/erigeron-philadelphicus/02.jpg",
+      "creator": "Doug McGrady",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_%28Philadelphia_fleabane%29_%2832051004951%29.jpg",
+      "role": "Source-determined Philadelphia fleabane field view; check fresh heads and leaves before assigning anatomical markers.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "941ebb9654f2d01ddf1f3aeecaa4e223b55d44a7",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/erigeron-philadelphicus/03.jpg",
+      "creator": "Alpsdake",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erigeron_philadelphicus_s2.jpg",
+      "role": "Source-determined flowering view from Mount Ibuki, Japan; no Hays native range inference.",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "4c62206a31cab9d0b27223012968b050d64fb560",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

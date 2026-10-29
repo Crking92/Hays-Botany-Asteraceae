@@ -1,54 +1,72 @@
 {
   "id": "helenium-autumnale",
-  "family": "Asteraceae",
-  "genus": "Helenium",
   "scientific_name": "Helenium autumnale",
   "common_name": "Common Sneezeweed",
+  "family": "Asteraceae",
+  "genus": "Helenium",
   "look_here_first": "First decide annual or perennial, then inspect the stem wings. Common/fall sneezeweed is the perennial in this batch, with stout strongly winged stems and much broader obovate-to-lanceolate leaves that are often toothed. Its flower heads are also substantially larger than bitterweed's tiny heads.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "perennial herb, often 50–130 cm in FNA though local plants may be shorter"
+      "label": "Best field traits",
+      "text": "perennial herb, often 50–130 cm in FNA though local plants may be shorter; stems strongly winged by broad decurrent leaf bases; mid-stem leaves obovate to oblanceolate/lanceolate, much broader than H. amarum or H. elegans; leaf margins often dentate or remotely toothed, sometimes entire distally; upper plant strongly branched with many heads; heads relatively large, involucres globoid about 8–20 mm in FNA; yellow rays commonly 8–21 and 10–23 mm long; disc corollas 5-lobed; typically late-summer to fall flowering and associated with moist roadsides, streams, ditches, seepage areas and pond margins"
     },
     {
-      "label": "Identification",
-      "text": "stems strongly winged by broad decurrent leaf bases"
-    },
-    {
-      "label": "Identification",
-      "text": "mid-stem leaves obovate to oblanceolate/lanceolate, much broader than H. amarum or H. elegans"
-    },
-    {
-      "label": "Identification",
-      "text": "leaf margins often dentate or remotely toothed, sometimes entire distally"
-    },
-    {
-      "label": "Identification",
-      "text": "upper plant strongly branched with many heads"
-    },
-    {
-      "label": "Identification",
-      "text": "heads relatively large, involucres globoid about 8–20 mm in FNA"
-    },
-    {
-      "label": "Identification",
-      "text": "yellow rays commonly 8–21 and 10–23 mm long"
-    },
-    {
-      "label": "Identification",
-      "text": "disc corollas 5-lobed"
-    },
-    {
-      "label": "Identification",
-      "text": "typically late-summer to fall flowering and associated with moist roadsides, streams, ditches, seepage areas and pond margins"
+      "label": "Comparison training",
+      "text": "Helenium amarum: H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. Helenium elegans: H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. Helenium quadridentatum: H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Helenium amarum: H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. Helenium elegans: H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. Helenium quadridentatum: H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
+    "names": [
+      "Helenium amarum",
+      "Helenium elegans",
+      "Helenium quadridentatum"
+    ],
+    "differences": "H. amarum is an annual with unwinged stems, threadlike leaves and many tiny heads. H. elegans is annual and narrow-leaved; H. autumnale is perennial with broader often toothed leaves and larger heads. H. quadridentatum is annual with narrow entire distal leaves and 4-lobed disc corollas; H. autumnale is perennial and 5-lobed in the disc."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "c941ecac171cfe0f645f7fae0e79875ea2385575df49d0171c050cc2f51b3ee1",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/helenium-autumnale/01.jpg",
+      "creator": "C T Johansson",
+      "license": "CC BY SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_autumnale-IMG_6120.jpg",
+      "role": "Flowering upper plant and flower heads",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "852e9e5a75f25a2f30c479e183837b4886fa53af",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/helenium-autumnale/02.jpg",
+      "creator": "Judy Gallagher",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_Sneezeweed_-_Helenium_autumnale,_Leesylvania_State_Park,_Woodbridge,_Virginia_(37226894072).jpg",
+      "role": "Close flower head showing raised disk and toothed rays",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "006c6d9b32f4f01a940aad29fb8c93ca82a7aea6",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/helenium-autumnale/03.jpg",
+      "creator": "Aaron Carlson",
+      "license": "CC BY SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_autumnale_(6157516008).jpg",
+      "role": "Wild flowering plant with broad toothed leaves and leafy stems",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "57aed63be95b1e25500005c64950b5c831786b6a",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

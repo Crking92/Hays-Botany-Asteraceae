@@ -1,9 +1,9 @@
 {
   "id": "helenium-amarum",
-  "family": "Asteraceae",
-  "genus": "Helenium",
   "scientific_name": "Helenium amarum",
   "common_name": "Bitter Sneezeweed",
+  "family": "Asteraceae",
+  "genus": "Helenium",
   "look_here_first": "Check the stem before the flower head. Bitter sneezeweed is the B028 species with stems that are ridged but NOT winged. Then confirm the very narrow linear leaves and numerous small yellow heads. Variety-level support: var. amarum usually has yellow disc lobes, while var. badium has dark brown to purplish disc lobes.",
   "key_traits": [
     {
@@ -31,44 +31,34 @@
       "text": "Cypselae with small scales and often minute awns."
     },
     {
-      "label": "Identification",
-      "text": "annual, taprooted, often bushy-branched"
-    },
-    {
-      "label": "Identification",
-      "text": "stems ridged/striated but not winged by decurrent leaf tissue"
-    },
-    {
-      "label": "Identification",
-      "text": "leaves numerous, alternate and very narrow linear to threadlike; lower early leaves may be dissected"
-    },
-    {
-      "label": "Identification",
-      "text": "heads numerous and relatively small"
-    },
-    {
-      "label": "Identification",
-      "text": "rays usually 8–10, yellow and often reflexed/drooping"
-    },
-    {
-      "label": "Identification",
-      "text": "disc subglobose to globose"
-    },
-    {
-      "label": "Identification",
-      "text": "var. amarum: disc flowers/lobes yellow; more eastern/central Texas pattern"
-    },
-    {
-      "label": "Identification",
-      "text": "var. badium: distal disc lobes brown to purplish; more western/central Texas pattern"
+      "label": "Best field traits",
+      "text": "annual, taprooted, often bushy-branched; stems ridged/striated but not winged by decurrent leaf tissue; leaves numerous, alternate and very narrow linear to threadlike; lower early leaves may be dissected; heads numerous and relatively small; rays usually 8–10, yellow and often reflexed/drooping; disc subglobose to globose; var. amarum: disc flowers/lobes yellow; more eastern/central Texas pattern; var. badium: distal disc lobes brown to purplish; more western/central Texas pattern; foliage aromatic/bitter when crushed"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Helenium elegans",
+      "Helenium autumnale",
+      "Helenium quadridentatum"
+    ],
+    "differences": "H. elegans is also annual but has clearly winged stems from decurrent leaves and narrow entire leaves; H. amarum lacks stem wings. H. autumnale is perennial, strongly winged, and has much broader often toothed leaves. H. quadridentatum is a winged annual with ovoid/obconic heads, 10–15 rays, and 4-lobed disc corollas; H. amarum is unwinged."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "5668e47f8b2a61554e97dfbe71716d515b883fde7f2a6c7e425efe672f36cfb9",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/helenium-amarum/01.jpg",
+      "creator": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/taxa/77348",
+      "role": "curated taxon reference 1",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "55fdca1eebfac5c472388ac7578749a5759ecf8c",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

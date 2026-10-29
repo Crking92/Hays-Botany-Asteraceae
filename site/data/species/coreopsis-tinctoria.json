@@ -1,9 +1,9 @@
 {
   "id": "coreopsis-tinctoria",
-  "family": "Asteraceae",
-  "genus": "Coreopsis",
   "scientific_name": "Coreopsis tinctoria",
   "common_name": "Plains Coreopsis",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
   "look_here_first": "",
   "key_traits": [
     {
@@ -31,20 +31,8 @@
       "text": "Cypselae flat with short awns."
     },
     {
-      "label": "Identification",
-      "text": "Annual, usually branched with opposite lower leaves divided into very narrow linear/threadlike segments."
-    },
-    {
-      "label": "Identification",
-      "text": "Yellow rays frequently have dark reddish-brown basal patches, but patch extent varies and cannot alone distinguish the species."
-    },
-    {
-      "label": "Identification",
-      "text": "Inspect mature head underside: outer involucral bracts and inner bracts, plus flat cypselae, to distinguish from similar annual Coreopsis."
-    },
-    {
-      "label": "Identification",
-      "text": "Compare Coreopsis basalis: often broader leaf segments and differing head/fruit characters; use paired measured leaves and phyllary/fruit photos rather than petal coloration alone."
+      "label": "Best field traits",
+      "text": "Annual, usually branched with opposite lower leaves divided into very narrow linear/threadlike segments.; Yellow rays frequently have dark reddish-brown basal patches, but patch extent varies and cannot alone distinguish the species.; Inspect mature head underside: outer involucral bracts and inner bracts, plus flat cypselae, to distinguish from similar annual Coreopsis.; Compare Coreopsis basalis: often broader leaf segments and differing head/fruit characters; use paired measured leaves and phyllary/fruit photos rather than petal coloration alone."
     }
   ],
   "lookalikes": {
@@ -52,7 +40,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "9a0873b4680da8b428f978da3ffca3349fda25d43fbdb4b9029536ff25478331",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

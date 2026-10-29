@@ -1,9 +1,9 @@
 {
   "id": "grindelia-lanceolata",
-  "family": "Asteraceae",
-  "genus": "Grindelia",
   "scientific_name": "Grindelia lanceolata",
   "common_name": "Narrowleaf Gumweed",
+  "family": "Asteraceae",
+  "genus": "Grindelia",
   "look_here_first": "",
   "key_traits": [
     {
@@ -31,20 +31,8 @@
       "text": "Cypselae with a pappus of short awns/scales."
     },
     {
-      "label": "Identification",
-      "text": "sticky gummy heads"
-    },
-    {
-      "label": "Identification",
-      "text": "recurved phyllaries"
-    },
-    {
-      "label": "Identification",
-      "text": "narrow leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "resinous involucre"
+      "label": "Best field traits",
+      "text": "sticky gummy heads; recurved phyllaries; narrow leaves; resinous involucre"
     }
   ],
   "lookalikes": {
@@ -52,7 +40,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "062a835a55ebc0cb8176bd59c8dda7091760f0bce7fbf3af58fc224b8305c7a1",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

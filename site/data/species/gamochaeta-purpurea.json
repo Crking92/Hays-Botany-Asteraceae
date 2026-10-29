@@ -1,9 +1,9 @@
 {
   "id": "gamochaeta-purpurea",
-  "family": "Asteraceae",
-  "genus": "Gamochaeta",
   "scientific_name": "Gamochaeta purpurea",
   "common_name": "Purple cudweed",
+  "family": "Asteraceae",
+  "genus": "Gamochaeta",
   "look_here_first": "Gray-woolly leaf surfaces and clustered small pale purple-brown papery composite heads; examine flower head bracts.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "54550f817fcb06496062f18881c570fd0821cf3a22a579cb2214a83a9f0d68a7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

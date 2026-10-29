@@ -1,9 +1,9 @@
 {
   "id": "heterotheca-subaxillaris",
-  "family": "Asteraceae",
-  "genus": "Heterotheca",
   "scientific_name": "Heterotheca subaxillaris",
   "common_name": "Camphorweed",
+  "family": "Asteraceae",
+  "genus": "Heterotheca",
   "look_here_first": "Look for alternate, hairy and often glandular leaves; frequently subclasping upper leaves; branching yellow ray-and-disk flower heads. Inspect side of heads for glandular phyllaries and the coarse hairs at their tips; scent alone is unreliable.",
   "key_traits": [
     {
@@ -28,11 +28,45 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Heterotheca canescens",
+      "Heterotheca stenophylla",
+      "Heterotheca villosa",
+      "Pluchea camphorata",
+      "Other yellow-rayed Asteraceae"
+    ],
+    "differences": "Pluchea camphorata has non-yellow rayless pinkish/purplish heads; within Heterotheca verify upper leaf bases, vestiture, phyllaries and reproductive structures rather than flower color alone. Other Heterotheca comparison pending matched photo review."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "e3f38785edd893844d1b5b38e13f782300d3ca18bd15177ca2011f39a57de170",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/heterotheca-subaxillaris/01.jpg",
+      "creator": "MathKnight",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris002.jpg",
+      "role": "habit recognition (nonlocal)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "548396b1ce07e991d0391f53db0a6fc20c38ae06",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    },
+    {
+      "src": "media/heterotheca-subaxillaris/02.jpg",
+      "creator": "MathKnight",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heterotheca_subaxillaris001.jpg",
+      "role": "additional recognition view (nonlocal)",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "088feb91a183e3b3ad8856bdb1661e363c3ef80f",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

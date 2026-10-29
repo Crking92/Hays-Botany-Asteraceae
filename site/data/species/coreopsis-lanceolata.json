@@ -1,42 +1,44 @@
 {
   "id": "coreopsis-lanceolata",
-  "family": "Asteraceae",
-  "genus": "Coreopsis",
   "scientific_name": "Coreopsis lanceolata",
   "common_name": "Lance-leaved coreopsis",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
   "look_here_first": "Start with the perennial clump and leaves: mostly basal/lower lanceolate leaves, long nearly leafless peduncles, and large all-yellow heads.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "rhizomatous perennial"
+      "label": "Best field traits",
+      "text": "rhizomatous perennial; basal and lower lanceolate to oblanceolate leaves; upper leaves sparse; long nearly leafless peduncles; large yellow heads; outer phyllaries narrow; inner phyllaries broader and united near base"
     },
     {
-      "label": "Identification",
-      "text": "basal and lower lanceolate to oblanceolate leaves"
-    },
-    {
-      "label": "Identification",
-      "text": "upper leaves sparse"
-    },
-    {
-      "label": "Identification",
-      "text": "long nearly leafless peduncles"
-    },
-    {
-      "label": "Identification",
-      "text": "large yellow heads"
-    },
-    {
-      "label": "Identification",
-      "text": "outer phyllaries narrow; inner phyllaries broader and united near base"
+      "label": "Comparison training",
+      "text": "Unlike annual C. wrightii, C. lanceolata is clump-forming and perennial with broader lanceolate lower leaves and long nearly leafless stalks."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Unlike annual C. wrightii, C. lanceolata is clump-forming and perennial with broader lanceolate lower leaves and long nearly leafless stalks."
+    "names": [
+      "Coreopsis wrightii",
+      "Coreopsis basalis",
+      "Coreopsis tinctoria"
+    ],
+    "differences": "Perennial clump + broad lanceolate basal leaves + long nearly leafless peduncles; do not use yellow flower color alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "0c832554f47e550bcc04caf68f24bcabc535daf30d21196fdf58aa86d51de123",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/coreopsis-lanceolata/01.jpg",
+      "creator": "jimduggan24",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Coreopsis_lanceolata_1.jpg",
+      "role": "Single golden head with notched ray florets; basal foliage not demonstrated",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "228c5d7da8b13034c2d12c232a1e7e7c7214ddd2",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

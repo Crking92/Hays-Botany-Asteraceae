@@ -1,38 +1,44 @@
 {
   "id": "cirsium-vulgare",
-  "family": "Asteraceae",
-  "genus": "Cirsium",
   "scientific_name": "Cirsium vulgare",
   "common_name": "Bull thistle",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
   "look_here_first": "Inspect the UPPER (adaxial) surface of a mature leaf with a hand lens. Bull thistle has numerous short appressed BRISTLELIKE SPINES projecting from the BLADE, not only spines at the margins. Also check the strongly decurrent leaf bases forming long spiny stem wings. This combination is more secure than purple heads, overall spines or winged stems alone. Introduced, never count as native.",
   "key_traits": [
     {
-      "label": "Identification",
-      "text": "Short appressed bristlelike SPINES on the upper leaf BLADE itself."
+      "label": "Best field traits",
+      "text": "Short appressed bristlelike SPINES on the upper leaf BLADE itself.; Decurrent middle/upper leaf bases running down stem into prominent spiny wings.; Biennial: rosette in first year, elongated flower stalk usually second year.; Involucre often 30–40 mm with spreading phyllary tips; purple head not diagnostic.; Compare native C. horridulum's EXTRA spiny ring below every head; other natives may have some winged stems."
     },
     {
-      "label": "Identification",
-      "text": "Decurrent middle/upper leaf bases running down stem into prominent spiny wings."
-    },
-    {
-      "label": "Identification",
-      "text": "Biennial: rosette in first year, elongated flower stalk usually second year."
-    },
-    {
-      "label": "Identification",
-      "text": "Involucre often 30–40 mm with spreading phyllary tips; purple head not diagnostic."
-    },
-    {
-      "label": "Identification",
-      "text": "Compare native C. horridulum's EXTRA spiny ring below every head; other natives may have some winged stems."
+      "label": "Comparison training",
+      "text": "Use the winged spiny stem as the fastest split from most native Central Texas Cirsium. Do not confuse wild naturalization with native status."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Use the winged spiny stem as the fastest split from most native Central Texas Cirsium. Do not confuse wild naturalization with native status."
+    "names": [
+      "Cirsium horridulum",
+      "Cirsium texanum",
+      "Cirsium ochrocentrum"
+    ],
+    "differences": "Adaxial leaf-face bristle-spines plus long continuous spiny stem wings support introduced C. vulgare. C. horridulum has a head-specific under-head spiny bract collar. Some native C. ochrocentrum may have spiny decurrent stem wings; wings alone insufficient."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "b3c475ae14d9d1d2bac66208d3c5d9ae45bcbcad282576d2db9c72110baa9ab9",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "verified_photos": [
+    {
+      "src": "media/cirsium-vulgare/01.jpg",
+      "creator": "Grunpfnul",
+      "license": "CC BY SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:SO_-_Cirsium_vulgare.jpg",
+      "role": "Flowering head recognizable face",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "source_blob_sha": "15ac79f386734d4c1713b629494352b254a0dea8",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "rights_note": ""
+    }
+  ],
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

@@ -1,9 +1,9 @@
 {
   "id": "diaperia-verna",
-  "family": "Asteraceae",
-  "genus": "Diaperia",
   "scientific_name": "Diaperia verna",
   "common_name": "many stem evax",
+  "family": "Asteraceae",
+  "genus": "Diaperia",
   "look_here_first": "Find the tiny silvery hairy spring annual and its compact flower-head clusters; examine the bracts surrounding each head.",
   "key_traits": [],
   "lookalikes": {
@@ -11,7 +11,6 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
-  "original_species_sha256": "c30ea14d5e2f63bc254aac485eccc0077c6c3a2fdf57e7822fcbc65539378d28",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
