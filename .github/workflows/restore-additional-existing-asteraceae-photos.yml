@@ -1,0 +1,73 @@
+name: Restore strictly licensed already-migrated Asteraceae source photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/restore_remaining_existing_asteraceae_photos.py'
+      - '.github/workflows/restore-additional-existing-asteraceae-photos.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-existing-source-only-photo-sweep
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 27
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: website
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          path: source
+          persist-credentials: false
+      - name: Reconcile strict Creative Commons sources against historical staged files only
+        run: |
+          python3 -m py_compile website/scripts/restore_remaining_existing_asteraceae_photos.py
+          python3 website/scripts/restore_remaining_existing_asteraceae_photos.py source website
+      - name: Commit archived original photos and changed species records in bounded groups
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd website
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mapfile -t media < <(find site/media -type f | sort)
+          for ((i=0; i<${#media[@]}; i+=45)); do
+            group=("${media[@]:i:45}")
+            git add -- "${group[@]}"
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "Restore existing source-licensed Asteraceae photos without new harvesting"
+            fi
+          done
+          mapfile -t cards < <(find site/data/species -name '*.json' -type f | sort)
+          for ((i=0; i<${#cards[@]}; i+=45)); do
+            group=("${cards[@]:i:45}")
+            git add -- "${group[@]}"
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "Attach reviewed existing photographs to Asteraceae species lessons"
+            fi
+          done
+          git add site/data/collection-index.json site/data/gallery-index.json site/data/preview-summary.json site/PHOTO_PUBLICATION_SCOPE.md site/existing-photo-source-sweep-report.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Audit Asteraceae existing-source public photo coverage and preserved holds"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:refs/heads/main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: asteraceae-existing-source-photo-only-sweep
+          path: website/site/existing-photo-source-sweep-report.json
+          retention-days: 60
+          if-no-files-found: warn
