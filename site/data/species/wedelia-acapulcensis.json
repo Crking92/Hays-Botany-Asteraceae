@@ -1,0 +1,17 @@
+{
+  "id": "wedelia-acapulcensis",
+  "family": "Asteraceae",
+  "genus": "Wedelia",
+  "scientific_name": "Wedelia acapulcensis",
+  "common_name": "Wedelia acapulcensis",
+  "look_here_first": "Examine toothed leaves, composite heads, involucral phyllaries, and achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "22c2c0de860baf3606ced300e8c9c6a7e04c259b194459e240a3112e0780cf84",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

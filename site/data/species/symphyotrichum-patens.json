@@ -1,0 +1,42 @@
+{
+  "id": "symphyotrichum-patens",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum patens",
+  "common_name": "Late purple aster",
+  "look_here_first": "FIRST photograph a MATURE UPPER-STEM NODE: the sessile leaf has two rounded, conspicuously HEART-SHAPED CLASPING auricles which wrap the stem. Check stiff, relatively broad upper leaves and spreading branch angles. Unlike S. oblongifolium, the leaf base is deeply cordate, not merely rounded or slightly clasping. IMPORTANT: S. patens var. patens ALSO has stalked glands, so gland presence cannot independently separate it from aromatic aster.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "upright hairy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "rough oval-oblong leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves often clasping"
+    },
+    {
+      "label": "Identification",
+      "text": "blue-violet rays"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow disc florets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2051676902f890671da2c8658251597158f86e5b447960d00a5240ffed178be5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

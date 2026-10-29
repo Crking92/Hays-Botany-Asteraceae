@@ -1,0 +1,34 @@
+{
+  "id": "tetraneuris-acaulis",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
+  "scientific_name": "Tetraneuris acaulis",
+  "common_name": "Stemless four-nerve daisy",
+  "look_here_first": "Start at the perennial basal rosette and nearly leafless flowering scapes. Because local T. scaposa can look very similar, confirm the taxonomic concept and provenance instead of identifying a scaped yellow daisy as acaulis by color.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Perennial basal crown and rosette."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves concentrated at the base; flowering stalks mostly leafless."
+    },
+    {
+      "label": "Identification",
+      "text": "One yellow radiate head per scape."
+    },
+    {
+      "label": "Identification",
+      "text": "Reviewed var. acaulis is Panhandle/Great Plains-centered; identity must not be inferred from a generic Central Texas four-nerve daisy."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f8f8ae5b0eeef9c8a44a08de271da97b8ca7f89f7edfbb5982870d3fcb022e04",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

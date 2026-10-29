@@ -1,0 +1,50 @@
+{
+  "id": "thelesperma-simplicifolium",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
+  "scientific_name": "Thelesperma simplicifolium",
+  "common_name": "Slender Greenthread / Edwards Plateau Greenthread / Navajo Tea",
+  "look_here_first": "Start with the sparse foliage and perennial habit. Slender greenthread is a slender perennial with relatively few stem leaves, lower leaves often divided into 3–5 narrow segments, upper leaves simpler and threadlike, and yellow-rayed heads on long peduncles.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "slender upright habit"
+    },
+    {
+      "label": "Identification",
+      "text": "few sparse stem leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaves often divided into 3–5 narrow segments"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves simpler and narrow to linear"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow ray florets around a yellow to brownish disk"
+    },
+    {
+      "label": "Identification",
+      "text": "long peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "open dry calcareous habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with T. filifolium, T. simplicifolium is perennial and typically much more sparsely leafy, with fewer and less repeatedly divided stem leaves. T. filifolium is usually an annual with more consistently dissected threadlike foliage."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "04e463df82064599d3c21f01f943b9ea01b899f4cf1741940ff51c001a8da9eb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

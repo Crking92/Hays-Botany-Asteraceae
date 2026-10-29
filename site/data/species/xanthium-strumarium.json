@@ -1,0 +1,17 @@
+{
+  "id": "xanthium-strumarium",
+  "family": "Asteraceae",
+  "genus": "Xanthium",
+  "scientific_name": "Xanthium strumarium",
+  "common_name": "Common cocklebur",
+  "look_here_first": "Look for large triangular to heart-shaped rough leaves and paired hooked spiny burs that stick to clothing; inspect burr beaks and leaf base. Multiple Xanthium species/concepts need scrutiny.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ed6d56c4d9c21f77b6faf0b5a0d13f64e099d5cd9065ea099bce303e999cba11",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

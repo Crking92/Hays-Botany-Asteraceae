@@ -1,0 +1,46 @@
+{
+  "id": "symphyotrichum-sericeum",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum sericeum",
+  "common_name": "Western silver aster / silky aster",
+  "look_here_first": "LOOK AT A REAL LEAF CLOSE-UP FIRST: both leaf faces and outer phyllaries are densely coated in separate, long, SILVERY, SOFT HAIRS lying near-parallel to the surface (sericeous hairs). At hand-lens scale, follow individual white hairs across the green blade; a silvery glare alone is not evidence. Then inspect the SILKY outer phyllaries on a closed flower bud, the often wiry/low perennial shoots and a thickened woody/cormoid rootstock. Purple rays and yellow-purple center are secondary; true S. oblongifolium has rough shorter hairs, narrow phyllaries and upper-stem glandular hairs rather than this even silky leaf coat. Beware Texas S. pratense, a look-alike with much LESS dense silky hair and wider ovate phyllaries, not yet a canonical learner species.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Look for individual long soft appressed white/silver hairs along BOTH sides of the leaf blade; a close-up is now licensed and included in images[]."
+    },
+    {
+      "label": "Identification",
+      "text": "Silky-haired outer involucral bracts (phyllaries) around mature closed flower buds and beneath open heads; photo of bud and flower now included."
+    },
+    {
+      "label": "Identification",
+      "text": "Low-wiry clumping perennial with short thickened rootstock/cormoid crown; old basal leaves may wither by flowering; do not expect only one specific height."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves mainly alternate and sessile to nearly so; often narrow oblong/elliptic, entire, increasingly shorter toward the branch tips."
+    },
+    {
+      "label": "Identification",
+      "text": "Several purple-to-lavender rays with disk heads aging toward dull reddish-purple; COLOR is NOT decisive."
+    },
+    {
+      "label": "Identification",
+      "text": "Against S. oblongifolium: deeply silver-sericeous foliage versus rougher green leaves with short hairs/glands; flower color overlaps."
+    },
+    {
+      "label": "Identification",
+      "text": "Against S. pratense: similar Texan silver-ish aster, but with LESS dense hair on leaves and distinctly broader ovate phyllaries; check photo-vouchered plant."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use the individual long appressed silky hairs on both leaf surfaces plus densely sericeous involucral bracts, and confirm a thickened wiry perennial base. Against aromatic S. oblongifolium look for rough or glandular upper structures rather than even long silky hairs; S. pratense can still look slightly silky but has sparser leaf hairs and broader ovate phyllaries (taxonomic specialist Semple 2025)."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bdd5b686e3ea9074cc86d38c62893fcdb3c600138d3e3ebd44c267af034debec",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

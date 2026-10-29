@@ -1,0 +1,54 @@
+{
+  "id": "tetraneuris-scaposa",
+  "family": "Asteraceae",
+  "genus": "Tetraneuris",
+  "scientific_name": "Tetraneuris scaposa var. scaposa",
+  "common_name": "Four-nerve Daisy",
+  "look_here_first": "Start with perennial rosette architecture. Tetraneuris scaposa var. scaposa is a perennial with basal linear leaves and long mostly leafless peduncles bearing solitary yellow heads. This contrasts strongly with annual T. linearifolia.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Low rosette-forming plant with 1–many erect flowering stalks."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly basal/proximal, linear to oblanceolate or spatulate, entire or rarely toothed/lobed, often gland-dotted."
+    },
+    {
+      "label": "Heads",
+      "text": "Yellow rays and yellow discs, usually one head per long peduncle."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Outer phyllaries 8–16; inner series shorter and more numerous."
+    },
+    {
+      "label": "Identification",
+      "text": "basal leaf rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "long leafless peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "single yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "compact perennial caudex"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "10fcb6f95756d6290c1d140a40a3b95b8a03dcd10c424bbbd682ef21e68a5d08",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

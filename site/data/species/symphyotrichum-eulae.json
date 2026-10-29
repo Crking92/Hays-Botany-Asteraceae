@@ -1,0 +1,50 @@
+{
+  "id": "symphyotrichum-eulae",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum eulae",
+  "common_name": "Eula's Aster / Whitehouse's Aster",
+  "look_here_first": "Start at the flowering stalk: S. eulae typically has GLABROUS peduncles, nearly horizontal to spreading branches and conspicuously serrate roughish leaves. Count rays on an intact head, commonly 27–36, and check the hemispheric involucre usually 5–6.5 mm. S. drummondii var. texanum has very hairy distal stems and winged lower leaf petioles.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "Texas endemic"
+    },
+    {
+      "label": "Identification",
+      "text": "mid-stem leaves elliptic to lanceolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins crenate-serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves scabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "open paniculate array"
+    },
+    {
+      "label": "Identification",
+      "text": "rays white to pale blue-lavender"
+    },
+    {
+      "label": "Identification",
+      "text": "disk florets yellow aging reddish-brown"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3b7edb85ffd26d72b95753feeb53801d608198431c488b5340d48458c60add3e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

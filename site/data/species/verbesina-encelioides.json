@@ -1,0 +1,58 @@
+{
+  "id": "verbesina-encelioides",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
+  "scientific_name": "Verbesina encelioides",
+  "common_name": "Cowpen Daisy",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Lower leaves opposite, upper alternate; blades triangular to ovate, coarsely toothed to lobed, often gray-green and somewhat hairy."
+    },
+    {
+      "label": "Heads",
+      "text": "Showy yellow rays with yellow disks."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Several series, often somewhat leafy."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae flattened, winged or margined."
+    },
+    {
+      "label": "Identification",
+      "text": "bright yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "gray-green hairy foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite lower leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "annual habit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3a90b0e03ef1e87ab2cd707e33df9ba5f624c0b67db99311aa751a86104e719f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

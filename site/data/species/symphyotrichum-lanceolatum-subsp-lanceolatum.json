@@ -1,0 +1,38 @@
+{
+  "id": "symphyotrichum-lanceolatum-subsp-lanceolatum",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
+  "common_name": "White panicle aster",
+  "look_here_first": "FIRST inspect a mid-stem leaf's two surfaces and edge: S. lanceolatum generally has pliable, nonwaxy, comparatively flat leaves with diffuse or elongated lower-surface vein AREOLES, unlike S. praealtum with firmer waxy upper faces and conspicuous small isodiametric lower areoles. For subsp. lanceolatum verify outer phyllaries ~1/3–2/3 inner (not the mostly 2/3+ of subsp. hesperium) and no big leafy bract directly subtending the head. Do NOT use peduncle bract counts for a hard split; the FNA genus key conflicts with its species treatments.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tall rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "moist-ground habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "many small white-rayed heads"
+    },
+    {
+      "label": "Identification",
+      "text": "broad paniculate inflorescence"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use growth form, leaf shape, panicle architecture, and infraspecific characters together; species-level white aster appearance is not enough for subspecies assignment."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2d44910eb251dd2a644e3ec927b0aaf712faa80fbf19b0022e6060d80ac9283c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

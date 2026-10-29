@@ -1,0 +1,62 @@
+{
+  "id": "tetragonotheca-texana",
+  "family": "Asteraceae",
+  "genus": "Tetragonotheca",
+  "scientific_name": "Tetragonotheca texana",
+  "common_name": "Squarebud daisy",
+  "look_here_first": "Flip the flower head over. The quickest field mark is the involucre: the four broad outer phyllaries form a conspicuous square/collar-like base around the head. Then confirm the yellow ray florets, large disc florets with paleae, and the leafy upright habit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "upright perennial herb with leafy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves mostly cauline, opposite in much of the genus; local plants can have irregularly toothed to pinnatifid blades"
+    },
+    {
+      "label": "Identification",
+      "text": "radiate yellow composite heads"
+    },
+    {
+      "label": "Identification",
+      "text": "outer four involucral bracts/phyllaries broad and conspicuous, producing the characteristic squarebud/collar appearance"
+    },
+    {
+      "label": "Identification",
+      "text": "inner phyllaries smaller and more scarious"
+    },
+    {
+      "label": "Identification",
+      "text": "receptacle paleate, with a sharp bract/palea subtending individual disc florets"
+    },
+    {
+      "label": "Identification",
+      "text": "ray florets pistillate and fertile"
+    },
+    {
+      "label": "Identification",
+      "text": "disc florets bisexual and fertile"
+    },
+    {
+      "label": "Identification",
+      "text": "cypsela dry and one-seeded"
+    },
+    {
+      "label": "Family training",
+      "text": "High-value Asteraceae teaching species: identify the family from the capitulum/ray+disc architecture, then use the underside of the head—the square outer phyllaries/involucre—as the genus/species-level field shortcut."
+    },
+    {
+      "label": "Video training",
+      "text": "Joey explicitly flips the head over and uses the four broad square-ish phyllaries as the diagnostic cue among several similar yellow composites."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "48bd01bfb57e26141aa67dcda8c8bedf93263f1914fb919ade0491ad2443de2b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

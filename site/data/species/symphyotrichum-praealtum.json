@@ -1,0 +1,38 @@
+{
+  "id": "symphyotrichum-praealtum",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum praealtum",
+  "common_name": "Willowleaf aster",
+  "look_here_first": "FIRST flip a mid-stem leaf and magnify its fine netted veins: S. praealtum usually has a conspicuous pattern of small approximately equidimensional AREOLES below; above the blade is often WAXY, relatively firm, with margins sometimes rolled under (revolute). Check progressive reduction of leaves toward the flowering panicle and phyllary profile. Do NOT force ID from peduncle leafy-bract counts: FNA genus key and two species accounts disagree on opposite numbers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Tall rhizomatous perennial often in colonies."
+    },
+    {
+      "label": "Identification",
+      "text": "Narrow lance-shaped, willow-like leaves on ascending stems; compare basal versus upper leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Broadly pyramidal, many-headed flowering inflorescence."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems may show longitudinal hair lines and reddish coloration; confirm with hand lens."
+    },
+    {
+      "label": "Identification",
+      "text": "Check peduncle, phyllary series, and cypsela/pappus to exclude other tall asters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2e6991d03609756ab68d60f9a344c442e888353735dfe67977ef940f41004e08",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

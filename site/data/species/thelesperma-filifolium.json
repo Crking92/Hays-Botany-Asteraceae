@@ -1,0 +1,54 @@
+{
+  "id": "thelesperma-filifolium",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
+  "scientific_name": "Thelesperma filifolium",
+  "common_name": "Stiff Greenthread",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual, sometimes persisting."
+    },
+    {
+      "label": "Habit",
+      "text": "Slender, branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Cauline leaves divided into narrow linear to filiform lobes."
+    },
+    {
+      "label": "Heads",
+      "text": "Usually 8 yellow to golden-yellow rays; disc corollas red-brown or yellow with red-brown nerves."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Involucre subtended by a calyculus of 7–8+ narrow bractlets."
+    },
+    {
+      "label": "Identification",
+      "text": "threadlike leaf lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "8 yellow rays"
+    },
+    {
+      "label": "Identification",
+      "text": "red-brown/yellow disc"
+    },
+    {
+      "label": "Identification",
+      "text": "slender greenthread habit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "74ab9aed1e7640703255d5c0610ce4269afa139ee900edd4380f13c11b726062",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

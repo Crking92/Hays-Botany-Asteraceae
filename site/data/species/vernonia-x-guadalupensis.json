@@ -1,0 +1,46 @@
+{
+  "id": "vernonia-x-guadalupensis",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "scientific_name": "Vernonia × guadalupensis",
+  "common_name": "Guadalupe ironweed",
+  "look_here_first": "Expect an intermediate ironweed. Plants occur where western ironweed and woolly ironweed meet, with foliage, hairiness, leaf width, and head characters falling between the parents.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Asteraceae head made entirely of purple disc florets; no ray florets."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial ironweed"
+    },
+    {
+      "label": "Identification",
+      "text": "purple discoid flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "intermediate leaf width and hairiness"
+    },
+    {
+      "label": "Identification",
+      "text": "intermediate between V. baldwinii and V. lindheimeri"
+    },
+    {
+      "label": "Identification",
+      "text": "often found where parent habitats meet"
+    },
+    {
+      "label": "Identification",
+      "text": "mature flowering material and nearby parents are important for confident ID"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Do not force intermediate ironweeds into one parent. V. lindheimeri has narrow strongly revolute leaves with dense white hairs beneath; V. baldwinii has broader less-woolly foliage. The hybrid spans the middle."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9cd3cbc882501781013b646a30d0773efc95cf3394f04ff153d4436ccdf22c65",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

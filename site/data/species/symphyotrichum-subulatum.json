@@ -1,0 +1,38 @@
+{
+  "id": "symphyotrichum-subulatum",
+  "family": "Asteraceae",
+  "genus": "Symphyotrichum",
+  "scientific_name": "Symphyotrichum subulatum",
+  "common_name": "Eastern annual saltmarsh aster",
+  "look_here_first": "TRUE eastern annual saltmarsh aster under the narrow modern Texas concept: first photograph the ENTIRE flowering array on an unmowed mature plant. S. subulatum typically concentrates more heads in an upper, denser PYRAMID, whereas inland S. divaricatum is conspicuously DIFFUSE with large gaps between flower heads. The denser pyramid is relative, not a solid cone; mowed or damaged plants and single head macros cannot establish the split. Check narrow sessile leaves, side-view phyllaries (green zone towards distal part of bracts reported for subulatum, overlap/visibility uncertain), and coastal or saline SE Texas provenance; do NOT use habitat alone. The older Uvalde 'S. subulatum' image is quarantined as taxonomically incompatible without independent review.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual or short-lived herb"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear to subulate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "many small heads in relatively dense pyramidal inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "small pale lavender to whitish rays"
+    },
+    {
+      "label": "Identification",
+      "text": "wet disturbed or saline habitats"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use whole unmowed terminal array and phyllary side view. S. subulatum more top-dense pyramidal, saline/coastal SE Texas; S. divaricatum open diffuse with widely separated heads and common inland. The green portion of phyllaries is reported upper-only in subulatum vs extending farther down in divaricatum, but hard to see reliably; never force from one fuzzy bract photo. Prior Uvalde 2014 label is OLD/BROAD or unresolved concept and does NOT certify current true subulatum."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c21c6ab88d60ed7294db313cd49f7c080fc0b5bb0b8662fe07102966c47a8c1d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

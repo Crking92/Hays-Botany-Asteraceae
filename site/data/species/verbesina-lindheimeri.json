@@ -1,0 +1,50 @@
+{
+  "id": "verbesina-lindheimeri",
+  "family": "Asteraceae",
+  "genus": "Verbesina",
+  "scientific_name": "Verbesina lindheimeri",
+  "common_name": "Lindheimer's crownbeard",
+  "look_here_first": "Look for an unwinged perennial stem with mostly opposite coarse leaves and a few very large yellow daisy-like heads. The opposite leaves and lack of stem wings separate it from many other Verbesina.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Asteraceae composite heads with yellow ray florets surrounding many yellow disc florets."
+    },
+    {
+      "label": "Identification",
+      "text": "herbaceous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "stems not winged"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves mostly opposite"
+    },
+    {
+      "label": "Identification",
+      "text": "coarse ovate to lance-ovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "large solitary or few yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "large ray florets around raised yellow disc"
+    },
+    {
+      "label": "Identification",
+      "text": "limestone slopes and juniper-oak scrub"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with Verbesina virginica, V. lindheimeri is shorter with large yellow heads and mostly opposite leaves; frostweed is taller, white-flowered, and often has winged stems."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "694fefd1d8dda7fc4386e6083dac702ad9d8373367ba6ad730f1973887094069",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

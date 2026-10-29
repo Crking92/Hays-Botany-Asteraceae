@@ -1,0 +1,42 @@
+{
+  "id": "vernonia-lindheimeri",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "scientific_name": "Vernonia lindheimeri",
+  "common_name": "Woolly ironweed",
+  "look_here_first": "Narrow-leaved purple ironweed of dry rocky sites: linear leaves with densely woolly lower surfaces, usually glabrate upper surfaces, and strongly revolute margins.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "dry rocky-site ironweed"
+    },
+    {
+      "label": "Identification",
+      "text": "linear cauline leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surfaces densely sericeo-tomentose"
+    },
+    {
+      "label": "Identification",
+      "text": "upper surfaces usually glabrate"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly revolute leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "purple discoid heads in corymbiform arrays"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much narrower-leaved than V. baldwinii; watch for intermediate V. × guadalupensis."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "669a584f1cdb0a88868e8f5f9699c03534511ed0c976abd60c43b2b41772ddeb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "vernonia-baldwinii",
+  "family": "Asteraceae",
+  "genus": "Vernonia",
+  "scientific_name": "Vernonia baldwinii",
+  "common_name": "Western ironweed",
+  "look_here_first": "Tall robust ironweed with broader rough leaves and broad terminal arrays of purple discoid heads. Leaves are much broader than in V. lindheimeri.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tall robust ironweed"
+    },
+    {
+      "label": "Identification",
+      "text": "broad ovate to lance-ovate rough leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "hairy/tomentose lower leaf surfaces"
+    },
+    {
+      "label": "Identification",
+      "text": "broad flattened to irregular terminal arrays"
+    },
+    {
+      "label": "Identification",
+      "text": "purple discoid heads with no rays"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "V. lindheimeri is much narrower-leaved with strongly revolute margins and densely woolly lower surfaces."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "badf675ce4af6277aa0d5f41f6d1a47b6e8d7b51c0577b2d685c1ae0b25631de",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

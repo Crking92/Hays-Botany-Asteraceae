@@ -1,0 +1,34 @@
+{
+  "id": "thelesperma-megapotamicum-var-ambiguum",
+  "family": "Asteraceae",
+  "genus": "Thelesperma",
+  "scientific_name": "Thelesperma megapotamicum var. ambiguum",
+  "common_name": "Ambiguous greenthread",
+  "look_here_first": "Provisional learner for the old Thelesperma ambiguum concept; use alongside other greenthreads until project taxonomy/range is tightened.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "greenthread-type composite"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow ray florets"
+    },
+    {
+      "label": "Identification",
+      "text": "dark central disc typical of group"
+    },
+    {
+      "label": "Identification",
+      "text": "finely divided foliage"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "19e329eb0f0c7b9f1a9ddcf4695f237a92560d678665738f4541c82934fe8826",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

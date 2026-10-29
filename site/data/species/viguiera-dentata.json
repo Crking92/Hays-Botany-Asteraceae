@@ -1,0 +1,17 @@
+{
+  "id": "viguiera-dentata",
+  "family": "Asteraceae",
+  "genus": "Viguiera",
+  "scientific_name": "Viguiera dentata",
+  "common_name": "Toothleaf goldeneye",
+  "look_here_first": "Inspect toothed leaves, yellow rays and disc florets, and phyllaries; distinguish from other yellow composites.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f717fba4e790361ac77debe418e093e8287580b34e5100fb935a39862c4338f8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
