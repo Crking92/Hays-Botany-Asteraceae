@@ -88,6 +88,20 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/verbesina-virginica/source-907ad97032f2.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica.jpg",
+      "role": "White flower head close-up showing small white ray florets and central pale disc florets",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "907ad97032f275565c4c1fd40f40089b687c910e",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
