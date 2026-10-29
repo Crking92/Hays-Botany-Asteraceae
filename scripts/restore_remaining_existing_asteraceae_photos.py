@@ -57,6 +57,19 @@ for row in index["entries"]:
                     and lic[0]=="CC BY 4.0" and reuse=="yes"):
                 species_holds.append({"record":i,"reason":"image_specific_source_not_public_verified"});continue
         original=SRC/"content/taxa"/fam/genus/sid/f
+        # Only three previously quarantined, individually reviewed public-domain
+        # originals are eligible for this alternate archived source folder.
+        if not original.is_file() and curated and sid in ("gutierrezia-texana","rudbeckia-hirta"):
+            candidate=SRC/"migration/private-original-photo-holds"/genus/sid/f
+            if candidate.is_file() and (
+                (sid=="gutierrezia-texana" and creator=="Jim Conrad" and lic[0]=="Public Domain")
+                or (sid=="rudbeckia-hirta" and "CC0" in lic[0] and page.startswith("https://commons.wikimedia.org/wiki/File:"))
+            ):
+                original=candidate
+        if not original.is_file() and sid=="rudbeckia-hirta" and f=="images/02-pulcherrima-flowering.jpg" and (
+            creator=="Brady Reed" and lic[0]=="CC0 1.0" and page=="https://commons.wikimedia.org/wiki/File:Rudbeckia_hirta_pulcherrima_7861779.jpg"
+        ):
+            original=SRC/"migration/private-original-photo-holds"/genus/sid/f
         if not original.is_file():
             species_holds.append({"record":i,"reason":"source_bytes_not_in_staged_archive"});continue
         raw=original.read_bytes()
