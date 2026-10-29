@@ -19,3 +19,8 @@
 .photo-nc{background:#fff4db;border-left:3px solid #b88b38;padding:6px 8px;color:#694b16!important;font-weight:700}
 
 .photo-review{margin-top:8px;border-left:3px solid #557f6b;background:#edf5ef;padding:7px 9px;color:#345846!important;font-weight:600}
+
+/* Species list previews from individually cleared existing photographs */
+.results button{display:flow-root;overflow:hidden;min-height:60px}
+.result-thumb{float:left;width:65px;height:62px;object-fit:cover;border-radius:9px;background:#e8eee4;margin-right:10px}
+.photo-count{display:block;font-size:.75rem;color:#236444;font-weight:750;margin-top:3px}
