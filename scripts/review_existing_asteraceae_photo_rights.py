@@ -32,6 +32,15 @@ def reviewed(photo,sid,strict_license):
             return None
         return ("Public Domain","https://creativecommons.org/publicdomain/mark/1.0/",
                 "Photographer/source-specific public-domain evidence; original archived source photo, not general license for third-party photos.")
+    # A single original image has a matching archived, individual photo URL.
+    # The CC BY class is recorded, but its historical version is not.
+    if (sid=="gamochaeta-purpurea" and f=="images/inat-379057596.jpg"
+        and creator=="(c) Michael J. Papay, some rights reserved (CC BY)"
+        and license=="CC BY"
+        and page=="https://www.inaturalist.org/photos/379057596"
+        and reuse=="Attribution required"):
+        return ("CC BY (version not recorded)","https://creativecommons.org/licenses/by/",
+                "Original photographer credited CC BY on this exact archived image; precise version not recorded. Check the individual photo before separate reuse.")
     # Two accessible license-classes from the source card's exact photo record.
     # A taxon or observation page alone does not suffice.
     if (license.upper()=="CC0 1.0"
