@@ -5,6 +5,7 @@ Retains all 153 previously reviewed photos. No new searches or media downloads.
 import hashlib,json,re,shutil,sys
 from collections import Counter
 from pathlib import Path
+from review_existing_asteraceae_photo_rights import reviewed
 SRC=Path(sys.argv[1]);ROOT=Path(sys.argv[2]);SITE=ROOT/"site"
 index_path=SITE/"data/collection-index.json"
 index=json.loads(index_path.read_text())
@@ -39,7 +40,8 @@ for row in index["entries"]:
         f=str(photo.get("file") or "")
         if not re.fullmatch(r"images/[A-Za-z0-9._-]+\.(jpg|jpeg|png|webp)",f,re.I):
             species_holds.append({"record":i,"reason":"remote_or_invalid_original_path"});continue
-        lic=permission(photo)
+        curated=reviewed(photo,sid,permission(photo))
+        lic=curated[:2] if curated else permission(photo)
         if not lic:
             species_holds.append({"record":i,"reason":"license_not_strict_cc_or_public_domain"});continue
         creator=str(photo.get("creator") or "").strip()
@@ -47,9 +49,9 @@ for row in index["entries"]:
         reuse=str(photo.get("public_reuse") or "").lower()
         if not creator or re.search(r"unknown|unverified|resolve|source account",creator,re.I):
             species_holds.append({"record":i,"reason":"creator_unverified"});continue
-        if reuse in ("no","false") or "review" in reuse or "private" in reuse or "noncommercial" in reuse:
+        if (reuse in ("no","false") or "review" in reuse or "private" in reuse or "noncommercial" in reuse) and not curated:
             species_holds.append({"record":i,"reason":"public_permission_not_documented"});continue
-        if not page.startswith("https://commons.wikimedia.org/wiki/File:"):
+        if not curated and not page.startswith("https://commons.wikimedia.org/wiki/File:"):
             if not (page.startswith("https://www.inaturalist.org/photos/") and creator=="Glass Root Garden"
                     and "Direct license from photographer" in str(photo.get("license_basis") or "")
                     and lic[0]=="CC BY 4.0" and reuse=="yes"):
@@ -63,7 +65,7 @@ for row in index["entries"]:
         if not valid or len(raw)<500 or len(raw)>25*1024*1024:
             species_holds.append({"record":i,"reason":"image_bytes_not_valid"});continue
         sha=hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\x00"+raw).hexdigest()
-        if sha in seen_hashes or page in seen_sources:
+        if sha in seen_hashes:
             already+=1;continue
         dest="media/"+sid+"/source-"+sha[:12]+ext
         output=SITE/dest
@@ -74,8 +76,8 @@ for row in index["entries"]:
                        "source_page":page,"role":str(photo.get("role") or "Original field photograph")[:480],
                        "source_page_is_exact":True,"noncommercial_only":False,
                        "private_rights_review_only":False,"source_blob_sha":sha,
-                       "modified":"Original source photograph copied without alteration",
-                       "rights_note":"Exact historical licensed source; anatomy arrows remain separately reviewed"})
+                       "modified":"Original archived source photograph copied without alteration",
+                       "rights_note":curated[2] if curated else "Exact historical licensed source; anatomy arrows remain separately reviewed"})
         seen_hashes.add(sha);seen_sources.add(page)
         extra+=1;source_bytes+=len(raw)
     for v in species_holds:reason[v["reason"]]+=1
