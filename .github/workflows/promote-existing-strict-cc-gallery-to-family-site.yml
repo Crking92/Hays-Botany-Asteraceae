@@ -61,9 +61,10 @@ jobs:
             for p in d.get("verified_photos",[]):
               lic=str(p["license"]).strip()
               url=str(p["license_url"]).strip()
-              cc0=lic.startswith("CC0") and url.startswith("https://creativecommons.org/publicdomain/zero/1.0")
-              by=(lic=="CC BY" or lic.startswith("CC BY ")) and url.startswith("https://creativecommons.org/licenses/by/")
-              bysa=(lic=="CC BY-SA" or lic.startswith("CC BY-SA ")) and url.startswith("https://creativecommons.org/licenses/by-sa/")
+              normalized=" ".join(lic.upper().replace("-"," ").split())
+              cc0=normalized.startswith("CC0") and url.startswith("https://creativecommons.org/publicdomain/zero/1.0")
+              by=(normalized=="CC BY" or normalized.startswith("CC BY ")) and not normalized.startswith(("CC BY SA","CC BY NC","CC BY ND")) and url.startswith("https://creativecommons.org/licenses/by/")
+              bysa=(normalized=="CC BY SA" or normalized.startswith("CC BY SA ")) and url.startswith("https://creativecommons.org/licenses/by-sa/")
               assert cc0 or by or bysa, "Unexpected photo license (will not publish): "+repr((lic,url,p["src"]))
               assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
               assert p["creator"] and p["source_page"].startswith("https://")
