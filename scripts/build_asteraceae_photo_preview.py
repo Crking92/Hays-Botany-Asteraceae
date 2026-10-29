@@ -144,11 +144,16 @@ for name in ("index.html","styles.css","app.js","RUN_ASTERACEAE_REVIEW.bat"):
 h=(DEST/"index.html").read_text()
 h=h.replace("Layout prototype only.</strong> No botanical records or photographs have been transferred to this collection.",
     "Photo-rights review preview.</strong> Real source-backed botanical lessons and independently checked Commons CC photographs are included here for private testing. Some photos are still held.")
-assert "Photo-rights review preview." in h
+if "Photo-rights review preview." not in h:
+    h=h.replace("Existing plant records are now available.</strong> Browse source-migrated field-ID descriptions and morphology. The images are temporarily withheld from this family website until each photo passes its reuse and caption checks.",
+        "Verified photo-gallery release.</strong> Existing botanical lessons and source-verified, individually credited Creative Commons photographs are available. Unverified or restricted images remain withheld.")
+assert ("Photo-rights review preview." in h or "Verified photo-gallery release." in h), "Unexpected webpage template; check before publishing"
 if STRICT_PUBLIC_CC:
-    h=h.replace("PRIVATE STAGING · NOT PUBLISHED", "PUBLIC TEST · NOT FINALIZED")
+    h=h.replace("PRIVATE STAGING · NOT PUBLISHED", "PUBLIC CC FIELD LEARNER · PHOTO QA CONTINUES")
+    h=h.replace("EXISTING PLANT LESSONS · PHOTO GALLERIES UNDER REVIEW", "PUBLIC CC FIELD LEARNER · PHOTO QA CONTINUES")
     h=h.replace("for private testing.", "for a public field-learning test.")
-assert '<meta name="robots" content="noindex,nofollow">' in h
+    h=h.replace('<meta name="robots" content="noindex,nofollow">','<meta name="robots" content="index,follow">')
+assert '<meta name="robots" content="index,follow">' in h or '<meta name="robots" content="noindex,nofollow">' in h
 (DEST/"index.html").write_text(h)
 (DEST/"data/collection-meta.json").write_text(json.dumps(config,indent=2)+"\n")
 (DEST/"data/collection-index.json").write_text(json.dumps(index,indent=2,ensure_ascii=False)+"\n")
