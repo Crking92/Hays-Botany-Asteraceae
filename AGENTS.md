@@ -1,0 +1,5 @@
+# Hays Botany — Asteraceae repo instructions
+
+> **ACTIVE FUTURE PLANT WRITE ROUTE (USER APPROVED OCT 28, 2026).** For this collection, new/updated species data, photos, anatomy arrows, genus/family lessons and local collection indexes belong in **`Crking92/Hays-Botany-Asteraceae` branch `staging/asteraceae-metadata`**, not the original `Crking92/Hays-County-Botany`. Old hub is READ-ONLY botanical history and existing live website fallback. This supersedes “old hub only canonical editor” for FUTURE edits but does not enable public Pages, site cutover, visibility changes, media license overrides or automation restart. Check parallel chats/claims, current destination SHA and exact photo rights. [Active registry](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json) · [Cross-chat handoff](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/NEW_PLANT_WRITES_FAMILY_REPOS_ONLY_20261028.md).
+
+**Preserve exact provenance, public-license restrictions, previous source files, and separate publishing approval.**
