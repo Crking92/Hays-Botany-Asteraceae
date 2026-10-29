@@ -99,6 +99,20 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/erigeron-canadensis/source-136b6ce54064.jpg",
+      "creator": "Rasbak",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Canadese_fijnstraal_bloeiende_plant_Conyza_canadensis.jpg",
+      "role": "One tall upright flowering horseweed showing lower alternate leaves, narrow upper leaves and heavily branched terminal panicle",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "136b6ce54064c0dce44663e2fb5f401ec0e7fdf3",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

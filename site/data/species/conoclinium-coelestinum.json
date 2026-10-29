@@ -73,6 +73,20 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/conoclinium-coelestinum/source-1c6070a87a55.jpg",
+      "creator": "Kingdon",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conoclinium_coelestinum.jpg",
+      "role": "Close flowering-head confirmation; disk florets without rays",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "1c6070a87a5588e62d2fc9fd2f4cba0df1de3180",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

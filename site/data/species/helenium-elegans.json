@@ -23,7 +23,22 @@
     ],
     "differences": "H. amarum lacks stem wings entirely and has very narrow threadlike leaves with many small globose heads. H. autumnale is perennial with broader, often toothed leaves and larger heads; H. elegans is annual with narrow entire leaves. Both are winged annuals with entire distal leaves, but H. elegans has globose involucres; H. quadridentatum is usually ovoid to obconic and has 4-lobed disc corollas with 10–15 rays."
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/helenium-elegans/source-656000b30bc7.jpg",
+      "creator": "Clarence A. Rechenthin / USDA-NRCS PLANTS Database",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Helenium_elegans1.jpg",
+      "role": "Whole flowering plant / habit recognizable face",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "656000b30bc709a5aab321a9a72897b919312e18",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
+    }
+  ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }

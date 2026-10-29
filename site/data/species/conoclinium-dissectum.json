@@ -51,7 +51,22 @@
     ],
     "differences": "Versus C. coelestinum: deeply dissected/lobed leaf vs intact toothed margin (PRIMARY); FNA fruit hispidulous 1.8–2.5 mm vs glabrous 1–1.5 mm (confirmation). Versus Chromolaena odorata: Conoclinium has shorter hemispheric involucres with 2–3 phyllary series, rather than cylindrical 8–10 mm and 4–6+ series."
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/conoclinium-dissectum/source-afd69752e969.jpg",
+      "creator": "Stickpen",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eupatoriumgreggii1.jpg",
+      "role": "Labeled Gregg's mistflower habit and divided foliage context; isolated diagnostic leaf macro still pending",
+      "source_page_is_exact": true,
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_blob_sha": "afd69752e96944bcd15d579efe0249d46bf056c0",
+      "modified": "Original source photograph copied without alteration",
+      "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
+    }
+  ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
   "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
 }
