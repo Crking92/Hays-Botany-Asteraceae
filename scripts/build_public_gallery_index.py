@@ -29,7 +29,7 @@ for row in INDEX["entries"]:
         assert license_name and "NC" not in license_name and "ND" not in license_name,id
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),id
         license_url=photo.get("license_url","")
-        assert license_url.startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/")) and "/nc/" not in license_url and "/nd/" not in license_url,id
+        assert license_url.startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/","https://creativecommons.org/publicdomain/mark/")) and "/nc/" not in license_url and "/nd/" not in license_url,id
         relative=photo.get("src","")
         assert re.fullmatch(r"media/[a-z0-9-]+/[A-Za-z0-9_-]+\.jpg",relative),id
         assert relative.startswith("media/"+id+"/")
