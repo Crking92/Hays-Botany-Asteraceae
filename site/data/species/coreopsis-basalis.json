@@ -1,0 +1,58 @@
+{
+  "id": "coreopsis-basalis",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis basalis",
+  "common_name": "Goldenmane Tickseed",
+  "look_here_first": "Start below a mature flower head: measure the long, narrow OUTER involucral bracts (calyculus; usually 6–9 mm), then the inner phyllaries (about 7–9+ mm). Check the mostly simple or few-lobed lower leaves and long bare head stalk (peduncle; often 6–15+ cm). Dark red at the ray bases is NOT enough: plains coreopsis (C. tinctoria) can share that color.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Slender branching herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Lower leaves deeply divided into narrow segments; upper leaves opposite to alternate and less dissected."
+    },
+    {
+      "label": "Heads",
+      "text": "Rays yellow, commonly with dark reddish-brown blotches near the base; disks dark yellow to brownish."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Outer involucre of narrow bracts beneath broader inner phyllaries."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae flattened, typically with 2 short awns and small marginal teeth/scales."
+    },
+    {
+      "label": "Identification",
+      "text": "Longer outer calyculus bractlets beneath a mature head (usually 6–9 mm in FNA; photograph side/underside with scale)."
+    },
+    {
+      "label": "Identification",
+      "text": "Longer inner phyllaries (usually 7–9+ mm) and relatively long head stalks (6–15+ cm)."
+    },
+    {
+      "label": "Identification",
+      "text": "Basal/cauline leaves simple or 1–2-pinnately lobed with relatively broad terminal lobes; assess several leaves, not a single unusual one."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow rays often with a reddish-brown basal spot or band, supportive only and shared with C. tinctoria."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against Coreopsis tinctoria: compare OUTER head bractlets first (C. basalis usually 6–9 mm; C. tinctoria 1–3+ mm), inner phyllaries (7–9+ versus 4–7[–9] mm), and head stalks (6–15+ versus usually 1–5 cm). C. tinctoria usually has more finely divided stem leaves with narrow threadlike lobes. Flower color alone overlaps. Central Texas narrow-leaved C. basalis can resemble historical C. wrightii concepts; do not force a separate name without taxonomy review."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "780c8cfe1f1fbcdea12088610b3692f745cb5b0276ad8ef5d9f3458d7d2ad138",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

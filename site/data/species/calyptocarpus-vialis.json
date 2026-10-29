@@ -1,0 +1,74 @@
+{
+  "id": "calyptocarpus-vialis",
+  "family": "Asteraceae",
+  "genus": "Calyptocarpus",
+  "scientific_name": "Calyptocarpus vialis",
+  "common_name": "Straggler daisy",
+  "look_here_first": "LOW, sprawling or mat-forming plant; leaves OPPOSITE, oval-to-triangular and shallowly toothed. Tiny YELLOW composite heads sit almost directly in the LEAF AXILS (where leaf meets stem). Confirm the Asteraceae head: short ray florets around yellow disc florets; inspect the green phyllaries beneath the head and, when mature, small awned cypselae. Do not identify by yellow flower color alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Creeping/procumbent perennial; delicate branched shoots spread through thin turf or along path edges and can root at nodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves in opposite pairs, often rotated 90 degrees at successive nodes (decussate); one simple blade per petiole."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf blades usually ovate, broadly lanceolate or somewhat triangular (deltate), about 1–3 cm commonly, sometimes larger; shallow rounded teeth on margins; three prominent veins arise near the base."
+    },
+    {
+      "label": "Identification",
+      "text": "Single small yellow COMPOSITE head about 4–8 mm across, nearly stalkless (subsessile), nestled where a leaf meets the stem."
+    },
+    {
+      "label": "Identification",
+      "text": "Small ray florets are present but have short yellow limbs; inner yellow disc florets are separate tiny flowers, not a single disc."
+    },
+    {
+      "label": "Identification",
+      "text": "Beneath a head inspect a few green overlapping phyllaries (typically about 4–6), not ordinary flower sepals."
+    },
+    {
+      "label": "Identification",
+      "text": "In fruit, look for flattened dry one-seeded cypselae with two conspicuous barbed awns (small additional awns may occur)."
+    },
+    {
+      "label": "Life cycle",
+      "text": "Perennial herb; can regrow from its established plant base and spreading branches. Flowering reported nearly year-round across its geographic range, but Central Texas flowering varies with rain, mowing and frost."
+    },
+    {
+      "label": "Growth habit",
+      "text": "Prostrate to decumbent (trailing or partly lifted), branched herb, roughly 4–27 cm high and stems to about 40 cm long in the UT Williamson County treatment; sometimes forms loose mats among turf. Look for roots at contacting nodes, not tall vertical stalks."
+    },
+    {
+      "label": "Stem",
+      "text": "Slender cylindrical green or sometimes red-striped/purplish stems, hairy with short, mostly upward-pointing stiff hairs (strigose), branching at nodes. Shoot tips can rise despite generally creeping habit."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite and decussate: leaves emerge in pairs from each node; successive pairs typically cross in orientation. Not alternate and not three leaflets."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple, small, petiolate blades; ovate to deltate (triangular-ovate), sometimes broadly lanceolate; low crenate-serrate teeth, not smooth coin-shaped margins; short appressed hairs on both surfaces. Williamson County measured 6.5–54 mm long × less than 5–28 mm wide, with variation."
+    },
+    {
+      "label": "Leaf venation",
+      "text": "Often three principal veins arising near the leaf base plus pinnate secondary venation. Veins assist confirmation but overlap with other small herbs; do not identify from three basal veins alone."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Usually a solitary radiate CAPITULUM (flower head) at a leaf axil; heads very short-stalked or nearly stalkless (subsessile). A leafy branch may continue immediately beside the head, making the head seem part of a cluster."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6c2acc731119b1fc038bc8e394879dc27115a773d1aab8d1a03a8fa01e129148",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

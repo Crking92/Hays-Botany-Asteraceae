@@ -1,0 +1,17 @@
+{
+  "id": "carphochaete-bigelovii",
+  "family": "Asteraceae",
+  "genus": "Carphochaete",
+  "scientific_name": "Carphochaete bigelovii",
+  "common_name": "Bigelow's carphochaete",
+  "look_here_first": "Begin with small clustered flower heads and their involucral bracts; inspect leaves and florets under magnification.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9d3c7820944d8ed93b540b2c65873cff551d8dac2b57f4e771d09fdf52067f36",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

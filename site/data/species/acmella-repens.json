@@ -1,0 +1,50 @@
+{
+  "id": "acmella-repens",
+  "family": "Asteraceae",
+  "genus": "Acmella",
+  "scientific_name": "Acmella repens",
+  "common_name": "Oppositeleaf spotflower",
+  "look_here_first": "Follow a trailing stem to a node: opposite petiolate, toothed leaves and stems that can root at the nodes. Then inspect a long-stalked solitary head: the disk becomes a conspicuous elongated conical receptacle with chaffy paleae as fruits mature. Confirm with mature compressed dark cypselae; ray color alone is weak.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Creeping to sprawling perennial herb in moist or disturbed ground; lower stem nodes may root."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite petiolate leaves, usually lanceolate to ovate, serrate; upper leaves may vary in position."
+    },
+    {
+      "label": "Heads",
+      "text": "Solitary pedunculate composite heads with small yellowish rays and disk; receptacle elongates to a cone with persistent chaffy paleae in fruit."
+    },
+    {
+      "label": "Fruits",
+      "text": "Compressed dark cypselae about 1–2.5 mm; pappus generally absent. Look for fruiting cone and paleae."
+    },
+    {
+      "label": "Identification",
+      "text": "opposite toothed petiolate leaves at rooting nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "long-stalked solitary heads"
+    },
+    {
+      "label": "Identification",
+      "text": "conical chaffy receptacle in fruit"
+    },
+    {
+      "label": "Identification",
+      "text": "small dark cypselae usually without pappus"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "df263099f457a360d37890f077a98698686f02176e68a83d0db39c366c1eb3ac",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

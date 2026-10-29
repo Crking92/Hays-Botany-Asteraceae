@@ -1,0 +1,70 @@
+{
+  "id": "conoclinium-dissectum",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
+  "scientific_name": "Conoclinium dissectum",
+  "common_name": "Gregg's Mistflower",
+  "look_here_first": "Check fully expanded middle leaves: deep lobes or dissections interrupt the leaf outline; opposite foliage and blue-violet rayless heads support Conoclinium. C. coelestinum has a simple toothed—not deeply cut—leaf outline.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect to spreading perennial, often arising from knotty crowns and capable of forming colonies."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; blades ovate-deltate to ovate, roughly 1.5–4 cm, with margins distinctly lobed or dissected."
+    },
+    {
+      "label": "Heads",
+      "text": "Small discoid heads; florets lavender-blue to purple, without ray florets."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "About 3.5–5 mm in Flora of North America."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae about 1.8–2.5 mm with a bristly pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "deeply lobed/dissected palmleaf-like leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "lavender-blue fuzzy discoid heads"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "perennial clumping/spreading habit"
+    },
+    {
+      "label": "Identification",
+      "text": "Joey's source under the familiar name Conoclinium greggii shows the low mounded/spreading landscape habit—use that habit with the deeply dissected leaves, not flower color alone."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's West Texas landscaping video labels this plant Conoclinium greggii; the project reconciles that familiar older name to accepted Conoclinium dissectum. The frame is most useful for mounded growth habit and whole-plant architecture."
+    },
+    {
+      "label": "Reproductive confirmation",
+      "text": "FNA: corollas 2.5–3.5 mm; cypselae 1.8–2.5 mm hispidulous."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "59c4f14fc9796b653cc9eed89f095f95cc52f35b9b29de310b3518295f783e11",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

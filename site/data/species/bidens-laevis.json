@@ -1,0 +1,62 @@
+{
+  "id": "bidens-laevis",
+  "family": "Asteraceae",
+  "genus": "Bidens",
+  "scientific_name": "Bidens laevis",
+  "common_name": "Smooth beggarticks / bur-marigold",
+  "look_here_first": "FIRST find a MIDDLE STEM LEAF still attached to an opposite leaf node: each leaf is SIMPLE (one lance-shaped blade), sessile or nearly so, often toothed, rather than three separate leaflets attached to a common leafstalk (B. frondosa). SECOND inspect head: usually 7–8 showy yellow rays about 15–25 mm long and 5–7+ OUTER CALYCULUS green leaflike bractlets, then the INNER overlapping phyllaries. THIRD compare mature fruit with B. cernua: B. laevis outer cypselae 6–8 mm, inner 8–10 mm, margins NOT conspicuously thickened or corky-winged, usually 2–4 barbed awns 3–5 mm long; B. cernua fruits have more conspicuous thickened/winged margins, often shorter awns and smaller rays. Both can have nodding ripe heads. Flower color, 'nodding' or wetland site alone are not enough.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "ANNUAL herb, SOMETIMES PERSISTING, about 20–60(-120+) cm in FNA; most frequent in marshy margins, wet meadows, pools and streams. Older project label 'perennial wetland' was too absolute and scientifically corrected."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite (occasionally 3–4 at a node), SIMPLE sessile (without individual leaflet stalks); blades linear to lanceolate or elliptic/obovate, 20–160+ mm, coarse teeth common; examine actual attachment on the stem."
+    },
+    {
+      "label": "Heads",
+      "text": "Usually 7–8 rays about 15–25(-30) mm, but rays occasionally absent. Two concentric bract zones below head: OUTER calyculus often 5–7(-9+) green leaflike bractlets around 10–12 mm, INNER involucre of 8–12 phyllaries about 6–8 mm. May nod in fruit; cannot use head nodding alone vs B. cernua."
+    },
+    {
+      "label": "Fruits",
+      "text": "Mature outer cypselae approximately 6–8 mm and inner approximately 8–10 mm, with non-corky (not conspicuously winged) margins and 2–4 retrorsely barbed pappus awns about 3–5 mm; check fruit at 10× versus B. cernua's often corky/thickened fruit margins."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite whole SIMPLE stem leaves, one toothed blade attached at each leaf base; cannot confuse with three compound leaflets."
+    },
+    {
+      "label": "Identification",
+      "text": "Showy head commonly 7–8 rays, each typically around 15–25 mm (but rays occasionally reduced or absent)."
+    },
+    {
+      "label": "Identification",
+      "text": "OUTER calyculus of ~5–7 green leaflike bractlets surrounding INNER ring of ~8–12 overlapping phyllaries; show separate colored labels."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature cypselae OUTER 6–8 vs INNER 8–10 mm, 2–4 awns 3–5 mm; photo of true fruit required, not generic beggartick."
+    },
+    {
+      "label": "Identification",
+      "text": "Versus B. cernua: cernua generally shorter rays (often 2–15 mm) and outer fruits with thickened/corky or winged margins; overlaps exist."
+    },
+    {
+      "label": "Identification",
+      "text": "FNA: ANNUAL SOMETIMES PERSISTING; do not describe as invariably perennial."
+    },
+    {
+      "label": "Identification",
+      "text": "October flowering is often expected in suitable wetland habitat, but plant/fruit state varies with site."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cf688c5cfac02e41abe82b45a943f9fca68f8d84c58eb4c3470ec57249b92ca0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

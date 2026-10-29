@@ -1,0 +1,50 @@
+{
+  "id": "brickellia-dentata",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "scientific_name": "Brickellia dentata",
+  "common_name": "Gravelbar / leafy brickellbush",
+  "look_here_first": "First inspect alternate leaves (often coarsely toothed but occasionally entire) and narrow cylindrical flower heads. Use a loupe to check 18–22 phyllaries in 5–6 overlapping series and 13–20 disk florets. At fruiting, confirm mostly hairless cypselae with 30–35 tawny pappus bristles. Do not use river-gravel habitat or leaf teeth alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Branched woody shrub about 60–120 cm; stems finely hairy and sparsely gland-dotted."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, short-petiolate (1–2 mm); blades lanceolate to lance-ovate, 5–40 × 3.5–12 mm, faintly three-veined from base; margins usually coarsely toothed but sometimes entire; gland dots."
+    },
+    {
+      "label": "Heads",
+      "text": "Narrow panicle of cylindrical to bell-shaped involucres 7–11 mm, phyllaries 18–22 in 5–6 series, florets 13–20, pale green/yellow tubular disk corollas."
+    },
+    {
+      "label": "Fruits",
+      "text": "Cypselae 3.5–4 mm, usually glabrous; 30–35 tawny barbellate to subplumose pappus bristles."
+    },
+    {
+      "label": "Identification",
+      "text": "Alternate often toothed leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "13–20 disk florets per head"
+    },
+    {
+      "label": "Identification",
+      "text": "Phyllaries 18–22 in 5–6 series"
+    },
+    {
+      "label": "Identification",
+      "text": "Mostly hairless mature cypselae with tawny bristles"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "37194c5109f6ba1578bacbb99343915e7f905d05c4d498ebe7bc6d7182cc2715",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

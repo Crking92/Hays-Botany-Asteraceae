@@ -1,0 +1,54 @@
+{
+  "id": "ambrosia-artemisiifolia",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia artemisiifolia",
+  "common_name": "Common Ragweed",
+  "look_here_first": "START WITH THE LEAVES: common ragweed is an ANNUAL with finely divided, fernlike leaves, usually opposite low on the stem and alternate above. NEXT inspect flowering stems: dangling greenish MALE pollen heads form terminal spikes; much smaller FEMALE heads sit below them near the upper leaf axils. FINALLY check the mature fruit: a small woody bur with several short pointed projections. Western ragweed can have similar flowers and divided leaves but is a perennial spreading from underground rhizomes; check connected stems if uncertain.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual from seed; does not produce a persistent network of perennial underground rhizomes. An established western ragweed patch may have multiple stems connected belowground."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect, branching herb of disturbed ground."
+    },
+    {
+      "label": "Leaves",
+      "text": "Lower leaves opposite, upper leaves alternate; blades generally deeply once- or twice-divided into narrow lobes. Examine leaf position along the same stem rather than one isolated leaf."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small drooping male pollen-bearing heads arranged along terminal spikes, with tiny separate female heads below in the upper leaf axils. Both sexes occur on the same plant."
+    },
+    {
+      "label": "Fruit",
+      "text": "Female heads mature into small woody burrlike involucres with usually 4–7 short spines or projections; photograph mature fruit beside a ruler."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual plant with opposite lower leaves, alternate upper leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Deeply divided fernlike foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "Dangling male heads in terminal spikes; small female heads beneath"
+    },
+    {
+      "label": "Identification",
+      "text": "Small woody fruit with short crownlike projections"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7d5ff6988c42f6a6000b244b63cdc297d2e3b32aacf643030bd0c60d8824f15c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

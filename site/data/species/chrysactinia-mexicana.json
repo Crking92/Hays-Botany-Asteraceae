@@ -1,0 +1,58 @@
+{
+  "id": "chrysactinia-mexicana",
+  "family": "Asteraceae",
+  "genus": "Chrysactinia",
+  "scientific_name": "Chrysactinia mexicana",
+  "common_name": "Damianita",
+  "look_here_first": "Crush-free visual ID starts with the tiny narrow leaves: damianita is a low woody-based subshrub with many very narrow aromatic gland-dotted leaves and solitary bright-yellow heads held above the canopy on slender peduncles.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen aromatic subshrub with woody lower stems"
+    },
+    {
+      "label": "Identification",
+      "text": "many short linear to linear-oblanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves conspicuously oil-gland dotted under magnification"
+    },
+    {
+      "label": "Identification",
+      "text": "solitary terminal radiate heads on slender peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "bright yellow ray florets surrounding yellow disc florets"
+    },
+    {
+      "label": "Identification",
+      "text": "involucre with relatively few phyllaries and conspicuous oil glands"
+    },
+    {
+      "label": "Identification",
+      "text": "pappus of many capillary bristles"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary maturing into a cypsela"
+    },
+    {
+      "label": "Family training",
+      "text": "Good Asteraceae whole-plant-to-head lesson: aromatic/gland-dotted narrow foliage gets you close, then involucre, ray/disc florets and cypsela/pappus confirm the composite structure."
+    },
+    {
+      "label": "Video training",
+      "text": "Joey shows the whole plant and flower heads in thin limestone habitat and mentions aromatic foliage and Tageteae."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "55c4a50604929b098d8548b4068f6a5bd4faaf677d79e5b1ba0a65e440f4edba",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

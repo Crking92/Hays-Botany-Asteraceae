@@ -1,0 +1,58 @@
+{
+  "id": "baccharis-salicifolia",
+  "family": "Asteraceae",
+  "genus": "Baccharis",
+  "scientific_name": "Baccharis salicifolia",
+  "common_name": "Seep Willow",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial shrub."
+    },
+    {
+      "label": "Habit",
+      "text": "Upright shrub, often in wetter riparian or seep habitats."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, linear-lanceolate to narrowly elliptic, usually longer than in B. neglecta."
+    },
+    {
+      "label": "Heads",
+      "text": "Small discoid heads in clusters; female plants conspicuous in fruit."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Several series, greenish."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with abundant white pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "willowlike riparian shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "longer leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "white pappus on female plants"
+    },
+    {
+      "label": "Identification",
+      "text": "wet habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3eee187812f2f920347d3f765a307443147fb43eae78155f74d89f0759a84569",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

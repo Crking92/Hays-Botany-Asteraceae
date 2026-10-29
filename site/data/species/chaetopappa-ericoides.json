@@ -1,0 +1,46 @@
+{
+  "id": "chaetopappa-ericoides",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "scientific_name": "Chaetopappa ericoides",
+  "common_name": "Rose heath / heath leastdaisy",
+  "look_here_first": "Look along the stem first: tiny narrow, densely overlapping, leathery leaves, with a raised midrib and paired longitudinal grooves on the upper face. Confirm the woody/perennial base and, at fruiting, a single series of roughly 24–26 white barbellate pappus bristles; unlike the tiny pappus rings of C. effusa and C. bellidifolia.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Low woody-based or rhizomatous perennial with branched hairy, sometimes glandular stems; usually a small clump."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, densely overlapping, narrow and firm, commonly 2–10 mm long; upper surface with strongly raised midnerve and paired longitudinal grooves (FNA key)."
+    },
+    {
+      "label": "Heads",
+      "text": "Small solitary terminal radiate heads with white to pinkish rays, yellow disk florets and often reddish-tipped phyllaries; ray color changes and is not diagnostic."
+    },
+    {
+      "label": "Fruits",
+      "text": "Cypselae carry one series of usually 24–26 (occasionally 20–30) white barbellate pappus bristles (FNA key)."
+    },
+    {
+      "label": "Identification",
+      "text": "Examine rootstock and annual/perennial habit"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine basal and stem leaves including overlap and blade bases"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine mature cypsela pappus with magnification"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b5ee35fab815f7e012fb29e30fdf43d4f73a8b1a97d220b8d585fc76062af5d4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "bidens-frondosa",
+  "family": "Asteraceae",
+  "genus": "Bidens",
+  "scientific_name": "Bidens frondosa",
+  "common_name": "Devil's beggarticks",
+  "look_here_first": "FIRST photograph an ENTIRE middle stem leaf still attached at its OPPOSITE node: B. frondosa is usually compound, each leaf divided into THREE distinct serrated leaflets (sometimes five), each leaflet with its own little stalk; don't count opposite leaves as 'leaflets.' SECOND look under its small orange-yellow DISK HEAD for an outer ring of ~5–8(–10) green CALYCULUS bractlets and inner involucral phyllaries. B. vulgata can also have 3–5 leaflets but usually ~10–16(–21) outer bractlets: count these on an intact mature head. THIRD verify flattened mature cypselae with typically TWO barbed awns, about 5–7 mm outer / 7–10 mm inner bodies. Flower rays normally absent or tiny (0–3), but not a foolproof color test.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual herb, often branching, frequently in moist or disturbed habitats."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite on stem, petiolate: each compound LEAF typically has 3 (occasionally 5) leaflets, which may have little petiolules of their own; each leaflet serrate. Photo must show leaflet junction and opposite stem node to avoid treating each leaflet as an independent leaf."
+    },
+    {
+      "label": "Heads",
+      "text": "Mostly small disk-only heads, 0–3+ rays if present, laminae ~2–3.5 mm. Outer calyculus usually 5–8(–10) ciliate green bractlets (5–20 mm, sometimes longer), INNER phyllaries normally 6–12; differentiate from vulgata's usually 10–16(–21) calyculus bractlets."
+    },
+    {
+      "label": "Fruits",
+      "text": "Mature flattened dark cypselae, outer ~5–7 mm / inner ~7–10 mm, often 2 erect to spreading pappus awns 2–5 mm with small hooklike barbs; the FNA account notes fruit margin barbs can point forward or backward, so don't say 'always backwards.' Do not confuse awns with phyllaries or receptacular chaff."
+    },
+    {
+      "label": "Identification",
+      "text": "Middle stem LEAF usually divided into THREE (sometimes FIVE) separate serrated leaflets, not a single lobed blade."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite leaves at each STEM NODE; look at a single petiole attached to several leaflets."
+    },
+    {
+      "label": "Identification",
+      "text": "Orange-yellow disk heads with rays typically 0–3 and tiny (~2–3.5 mm)."
+    },
+    {
+      "label": "Identification",
+      "text": "Outer calyculus usually 5–8(–10) green bractlets, compare B. vulgata ~10–16(–21)."
+    },
+    {
+      "label": "Identification",
+      "text": "Inner phyllaries are a SECOND ring just behind head, not calyculus leaflets."
+    },
+    {
+      "label": "Identification",
+      "text": "Flat mature outer fruit bodies ~5–7 mm, inner ~7–10 mm, generally 2 barbed awns ~2–5 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "FNA states marginal fruit barbs and pappus barbs may be antrorse or retrorse; not uniformly hooked backward."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual in wet or disturbed places, flowering commonly June–October."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f788b17f891c66e9fac9af09713e9319dd92d08c21aab8a495f58807f392522d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

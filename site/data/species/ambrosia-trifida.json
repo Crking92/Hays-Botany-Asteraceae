@@ -1,0 +1,54 @@
+{
+  "id": "ambrosia-trifida",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia trifida",
+  "common_name": "Giant Ragweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Tall, coarse herb, sometimes several meters tall."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly opposite; large blades commonly palmately 3-lobed, sometimes 5-lobed, with toothed margins."
+    },
+    {
+      "label": "Flowers",
+      "text": "Male heads in terminal spikes; female heads clustered below."
+    },
+    {
+      "label": "Fruit",
+      "text": "Pyramidal burs with 4–5 apical spines."
+    },
+    {
+      "label": "Identification",
+      "text": "very tall ragweed"
+    },
+    {
+      "label": "Identification",
+      "text": "large 3-lobed opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal male spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "larger pyramidal burs"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "191cac2538e5f42b6d893ce8daeb1c5d75d6395f745724c9e1b3f6be97dabd23",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

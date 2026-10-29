@@ -1,0 +1,58 @@
+{
+  "id": "ambrosia-psilostachya",
+  "family": "Asteraceae",
+  "genus": "Ambrosia",
+  "scientific_name": "Ambrosia psilostachya",
+  "common_name": "Western Ragweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect perennial, often colony-forming."
+    },
+    {
+      "label": "Leaves",
+      "text": "Lower leaves opposite, upper alternate; deltate to lanceolate, pinnately toothed to 1-pinnately lobed."
+    },
+    {
+      "label": "Flowers",
+      "text": "Male heads in terminal spike-like racemes; female heads clustered below."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small obpyramidal to globose burs with 0–6 short distal spines/tubercles."
+    },
+    {
+      "label": "Identification",
+      "text": "Perennial often forming connected patches from creeping rhizomes; check underground connections only where disturbance is appropriate"
+    },
+    {
+      "label": "Identification",
+      "text": "Lower leaves commonly opposite, upper alternate; blades toothed to deeply lobed, but leaf form varies"
+    },
+    {
+      "label": "Identification",
+      "text": "Terminal elongated clusters of pollen-bearing male heads; small seed-bearing female heads occur below, toward leaf axils"
+    },
+    {
+      "label": "Identification",
+      "text": "Compare annual Ambrosia artemisiifolia: often more finely dissected foliage and no persistent perennial rhizome network; leaf shape alone can overlap"
+    },
+    {
+      "label": "Identification",
+      "text": "Compare giant ragweed A. trifida: much larger broad 3–5-lobed leaves and tall coarse stems; inspect reproductive heads for confirmation"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "af9297895655c75e5b2551dec5cc8aabf14cd16970ec9f31c910d4cc114cf04c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

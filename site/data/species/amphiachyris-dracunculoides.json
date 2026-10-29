@@ -1,0 +1,70 @@
+{
+  "id": "amphiachyris-dracunculoides",
+  "family": "Asteraceae",
+  "genus": "Amphiachyris",
+  "scientific_name": "Amphiachyris dracunculoides",
+  "common_name": "Prairie Broomweed",
+  "look_here_first": "Find many small YELLOW RADIATE heads crowded in roughly level or rounded terminal clusters. Confirm with pale whitish phyllaries lacking green nerve borders and longer DISC-floret pappus scales; compare Gutierrezia texana and Amphiachyris amoena before naming.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect, broomy, many-branched herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, narrow, linear to oblanceolate, often becoming reduced upward."
+    },
+    {
+      "label": "Heads",
+      "text": "Many tiny yellow RADIATE heads with separate ray florets and central disc florets, usually in crowded corymbiform flat-to-rounded arrays on terminal branches. Do not call discoid: Flora of North America and UT Austin describe rays + discs."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "12–15 involucral phyllaries with pale/whitish resinous faces, 1-veined without a narrow GREEN BORDER along the dorsal nerve (unlike sometimes-green-nerved Gutierrezia texana). Need a true macro to teach this."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with a pappus of scales."
+    },
+    {
+      "label": "Identification",
+      "text": "broomy architecture"
+    },
+    {
+      "label": "Identification",
+      "text": "many tiny yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "late-season look"
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow RAY and DISC florets, not discoid"
+    },
+    {
+      "label": "Identification",
+      "text": "Crowded corymbiform flowering arrays"
+    },
+    {
+      "label": "Identification",
+      "text": "Disc pappus has long basally united scales (verify under hand lens)"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "44c64436188382971027c999a543310959b74f8d8408f076c665738d10f1677e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

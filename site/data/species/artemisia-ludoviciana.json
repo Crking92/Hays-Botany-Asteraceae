@@ -1,0 +1,38 @@
+{
+  "id": "artemisia-ludoviciana",
+  "family": "Asteraceae",
+  "genus": "Artemisia",
+  "scientific_name": "Artemisia ludoviciana",
+  "common_name": "Silver wormwood",
+  "look_here_first": "LOOK HERE FIRST: Is this a rhizomatous upright herb, rather than a large woody sagebrush shrub? Check the soft silvery or two-toned stem leaves (entire, toothed or lobed), then the many small, inconspicuous flower heads in a narrow to branched cluster. Leaf color alone cannot confirm the species.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Aromatic, spreading rhizomatous perennial herb, typically 20–80 cm tall; stems erect, simple or branched, often hairy."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Leaves along stems, linear to broadly elliptic, about 1.5–11 cm long; margins entire, toothed or variably lobed; gray-green, white-silvery or two-toned with hairs. Variation includes subspecies."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Small disciform heads grouped in compact or open branched arrays, erect to nodding; involucres approximately 2–4 mm with densely woolly gray-green phyllaries; ray florets absent."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Tiny dry one-seeded cypselae, around 0.5 mm; no conspicuous pappus."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Look for herbaceous upright stems and spreading rhizomes; do not identify solely from gray foliage."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b9606b75f6d9aff85c818357e5d998efd19d76d271549d5562215b1647b19d23",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

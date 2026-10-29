@@ -1,0 +1,50 @@
+{
+  "id": "achillea-millefolium",
+  "family": "Asteraceae",
+  "genus": "Achillea",
+  "scientific_name": "Achillea millefolium",
+  "common_name": "Common yarrow",
+  "look_here_first": "Look at a fully developed stem leaf first: narrow outline but very finely divided into many tiny fernlike segments (usually 1–2-pinnately dissected). Then inspect the flat-topped cluster of numerous tiny composite heads. Check a single head from the side for several rows of overlapping phyllaries; do not infer native status or identity from white/pink color.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Aromatic rhizomatous perennial herb; erect flowering stems, usually forming patches."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, deeply finely dissected, usually 1–2-pinnate, fernlike foliage; examine segments at magnification."
+    },
+    {
+      "label": "Heads",
+      "text": "Many small capitula crowded in a relatively flat-topped corymb; usually 5–8 small ray florets around disk florets; involucral phyllaries commonly about 20–30 in several series."
+    },
+    {
+      "label": "Fruits",
+      "text": "Small compressed cypselae roughly 1–2 mm, margins may be winged; inspect mature material rather than inferring from flowering heads."
+    },
+    {
+      "label": "Identification",
+      "text": "finely dissected alternate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "numerous small heads forming a flat-topped cluster"
+    },
+    {
+      "label": "Identification",
+      "text": "individual head with short rays and layered phyllaries"
+    },
+    {
+      "label": "Identification",
+      "text": "mature cypselae for confirmation"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "954ac2c76b14f8b44efb35cd68513c1035f5d7897cbc14b4a6a16a2228d3ff96",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

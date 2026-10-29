@@ -1,0 +1,46 @@
+{
+  "id": "chaetopappa-effusa",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "scientific_name": "Chaetopappa effusa",
+  "common_name": "Spreading lazy daisy",
+  "look_here_first": "Find the rhizomatous PERENNIAL base, then inspect the lower stem leaves: oblong to lanceolate-oblong, 6–12 mm wide, with truncate to slightly heart-shaped bases. At fruiting check the pappus, a tiny thickened ring or erose crown <0.1 mm, NOT the conspicuous ~25 bristles of C. ericoides.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Low, spreading or ascending perennial with rhizomes, not a distinct annual taproot; inspect the crown/rootstock."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, flat herbaceous leaves, proximal cauline blades oblong to lanceolate-oblong, typically 6–12 mm wide; bases truncate to subcordate; leaves diminish distally."
+    },
+    {
+      "label": "Heads",
+      "text": "Small solitary terminal radiate heads with pale rays and yellow disk florets; flowering color overlaps congeners."
+    },
+    {
+      "label": "Fruits",
+      "text": "Pappus a minute thickened ring or erose crown under 0.1 mm (Flora of North America key)."
+    },
+    {
+      "label": "Identification",
+      "text": "Examine rootstock and annual/perennial habit"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine basal and stem leaves including overlap and blade bases"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine mature cypsela pappus with magnification"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "16915c664d22e6d1ab5e5c3aa9b5227d27e5273a6739fa86798c05d4879bf1de",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ageratina-altissima",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
+  "scientific_name": "Ageratina altissima",
+  "common_name": "White snakeroot",
+  "look_here_first": "Look for opposite long-petioled broad leaves with coarse teeth and three strong basal veins, topped by loose white flat-topped clusters of tiny all-disk heads—no ray florets.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "erect rhizomatous perennial of shaded/moist sites"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite broadly ovate to triangular long-petioled leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves coarsely toothed with three strong veins from near base"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal corymbiform clusters of many small white heads"
+    },
+    {
+      "label": "Identification",
+      "text": "heads discoid: white disk florets only, no rays"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Broadly ovate/triangular, coarsely toothed, commonly 3-veined from near base."
+    },
+    {
+      "label": "Heads",
+      "text": "White discoid heads with no ray florets."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal corymbiform/flat-topped cluster."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypsela with conspicuous white pappus."
+    },
+    {
+      "label": "Reproductive confirmation",
+      "text": "Mature cypselae glabrous, not hispid, contrasted with A. havanensis (Flora of North America)."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "be73ca3691c5ba607c0e85ce7fae75997d65b4275d00f610508391d8f12eb6e5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chloracantha-spinosa",
+  "family": "Asteraceae",
+  "genus": "Chloracantha",
+  "scientific_name": "Chloracantha spinosa",
+  "common_name": "Spiny chloracantha",
+  "look_here_first": "Inspect narrow leaves, spiny stems and composite flower heads, including involucral bracts.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b241f23ec51359dea01aec7fc3703ba4095d85ce51f72fa044f2e63cca5ad798",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

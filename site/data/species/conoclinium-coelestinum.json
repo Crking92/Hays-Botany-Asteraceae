@@ -1,0 +1,62 @@
+{
+  "id": "conoclinium-coelestinum",
+  "family": "Asteraceae",
+  "genus": "Conoclinium",
+  "scientific_name": "Conoclinium coelestinum",
+  "common_name": "Blue mistflower",
+  "look_here_first": "Check a mature middle leaf: triangular/deltate to ovate with a continuous margin bearing teeth but NOT deep lobes or dissections; opposite leaves and blue-violet rayless heads support Conoclinium. Compare C. dissectum's palmately cut foliage.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "opposite triangular/deltate leaves with 3 strong basal veins"
+    },
+    {
+      "label": "Identification",
+      "text": "rhizomatous colony-forming perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "flat-topped to domed array of many small blue-violet heads"
+    },
+    {
+      "label": "Identification",
+      "text": "heads are discoid: disk florets only, no rays"
+    },
+    {
+      "label": "Identification",
+      "text": "cypsela topped by capillary pappus"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite and decussate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Triangular to deltate, serrate/dentate, strongly 3-veined from base."
+    },
+    {
+      "label": "Heads",
+      "text": "Small blue-violet discoid heads with no ray florets."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal/axillary flat-topped to domed array."
+    },
+    {
+      "label": "Fruit",
+      "text": "Ribbed cypsela with capillary pappus."
+    },
+    {
+      "label": "Reproductive confirmation",
+      "text": "FNA: corollas usually 2–2.5 mm; cypselae 1–1.5 mm glabrous."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cbe192dbbcabf4e4796f670462356150b8d0487f6acc0a5bafb174edcee5d656",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

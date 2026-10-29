@@ -1,0 +1,46 @@
+{
+  "id": "chaetopappa-bellidifolia",
+  "family": "Asteraceae",
+  "genus": "Chaetopappa",
+  "scientific_name": "Chaetopappa bellidifolia",
+  "common_name": "Whiteray leastdaisy",
+  "look_here_first": "Start at the base: this is a taprooted ANNUAL, not a rhizomatous perennial. Check flat, herbaceous, non-overlapping leaves; then inspect a mature cypsela with a loupe. The pappus is a minute thickened ring rather than the ~25 obvious bristles of C. ericoides. Compare whole plants with C. effusa and confirm root type before naming.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small taprooted annual with slender, often branched, hairy stems; do not infer identity from overall height."
+    },
+    {
+      "label": "Leaves",
+      "text": "Basal and stem leaves alternate, flat and herbaceous rather than densely overlapping and leathery; basal leaves often wither by flowering."
+    },
+    {
+      "label": "Heads",
+      "text": "Small solitary terminal radiate heads; pale rays around yellow disk florets; head color alone cannot distinguish the genus."
+    },
+    {
+      "label": "Fruits",
+      "text": "Mature cypsela pappus reduced to a minute thickened ring (Flora of North America key); use magnification to avoid mistaking it for an absent pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "Examine rootstock and annual/perennial habit"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine basal and stem leaves including overlap and blade bases"
+    },
+    {
+      "label": "Identification",
+      "text": "Examine mature cypsela pappus with magnification"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b0b213ee6e65b26bfe190f31b0875e13fda87c396dd425d12bbae643990fa275",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cirsium-undulatum",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium undulatum",
+  "common_name": "Wavyleaf Thistle",
+  "look_here_first": "Inspect full MID-STEM leaf shape and its TWO surfaces, then the SIDE of the involucre. C. undulatum tends to have gray-white wool beneath and relatively broader ovate/lanceolate stem leaves that are entire, coarse-toothed or shallowly lobed (not necessarily deeply feather-cut). In larger heads the involucre is often >3 cm; inspect a resinous/glutinous ridge down outer/middle phyllary midveins. For hard undulatum vs ochrocentrum calls, mature cypselae ~6–7 mm with body and rim same color, plus leaf division and wing extent, are useful.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial from deep roots."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect or ascending, often gray-tomentose."
+    },
+    {
+      "label": "Leaves",
+      "text": "Cauline leaves mainly ovate to lanceolate, often entire or coarsely toothed or shallowly lobed (variable); gray-white wool on lower face. A strongly wavy margin is NOT universal or a single-species proof."
+    },
+    {
+      "label": "Heads",
+      "text": "Large purple discoid heads, usually on evident peduncles."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Lanceolate and spine-tipped; larger involucres can exceed 3 cm."
+    },
+    {
+      "label": "Identification",
+      "text": "Broader ovate/lanceolate upper stem leaves: unlobed/coarsely toothed/shallowly lobed in FNA key."
+    },
+    {
+      "label": "Identification",
+      "text": "Lower leaf surfaces woolly gray-white; gray color alone shared with ochrocentrum and western Cirsium."
+    },
+    {
+      "label": "Identification",
+      "text": "Outer/mid phyllaries may have a longitudinal glutinous resin ridge, seen best by wet/dry macro."
+    },
+    {
+      "label": "Identification",
+      "text": "Involucres of larger heads often >30 mm; photograph without corolla with ruler."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature cypselae about 6–7 mm long; apical collar roughly same color as fruit body."
+    },
+    {
+      "label": "Identification",
+      "text": "Contrast C. ochrocentrum with stronger phyllary spines and decurrent wings in some forms; avoid absolute wing-only key."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7dcfa2c5351841dace40dccf49b8e5e7fea1d7f91cfe0b8a55430c4d49973ee7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

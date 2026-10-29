@@ -1,0 +1,17 @@
+{
+  "id": "chaptalia-texana",
+  "family": "Asteraceae",
+  "genus": "Chaptalia",
+  "scientific_name": "Chaptalia texana",
+  "common_name": "Texas silverpuff",
+  "look_here_first": "Look for a basal leaf rosette with densely woolly undersides, slender flowering stalks and nodding composite heads; inspect bracts and mature seed pappus.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c0d5f0eeafc41c58b4411e5e0704b18107e17c95ed1edbf7e0a86c63c3c38ac3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

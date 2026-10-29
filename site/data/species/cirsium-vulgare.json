@@ -1,0 +1,38 @@
+{
+  "id": "cirsium-vulgare",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium vulgare",
+  "common_name": "Bull thistle",
+  "look_here_first": "Inspect the UPPER (adaxial) surface of a mature leaf with a hand lens. Bull thistle has numerous short appressed BRISTLELIKE SPINES projecting from the BLADE, not only spines at the margins. Also check the strongly decurrent leaf bases forming long spiny stem wings. This combination is more secure than purple heads, overall spines or winged stems alone. Introduced, never count as native.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Short appressed bristlelike SPINES on the upper leaf BLADE itself."
+    },
+    {
+      "label": "Identification",
+      "text": "Decurrent middle/upper leaf bases running down stem into prominent spiny wings."
+    },
+    {
+      "label": "Identification",
+      "text": "Biennial: rosette in first year, elongated flower stalk usually second year."
+    },
+    {
+      "label": "Identification",
+      "text": "Involucre often 30–40 mm with spreading phyllary tips; purple head not diagnostic."
+    },
+    {
+      "label": "Identification",
+      "text": "Compare native C. horridulum's EXTRA spiny ring below every head; other natives may have some winged stems."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use the winged spiny stem as the fastest split from most native Central Texas Cirsium. Do not confuse wild naturalization with native status."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b3c475ae14d9d1d2bac66208d3c5d9ae45bcbcad282576d2db9c72110baa9ab9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

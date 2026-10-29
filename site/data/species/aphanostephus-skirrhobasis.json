@@ -1,0 +1,38 @@
+{
+  "id": "aphanostephus-skirrhobasis",
+  "family": "Asteraceae",
+  "genus": "Aphanostephus",
+  "scientific_name": "Aphanostephus skirrhobasis",
+  "common_name": "Arkansas lazydaisy",
+  "look_here_first": "LOOK HERE FIRST: follow the low, hairy, branching annual stems to individual terminal daisy heads. Check alternate narrow-to-spatulate leaves and the overlapping, pale-margined phyllaries under a head. For the hard separation from perennial A. riddellii, inspect plant duration/root and mature cypsela hairs with magnification; white rays alone are not diagnostic.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Taprooted annual, low and branching; stems often decumbent to ascending, hairy, commonly forming loose mounds."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Basal and alternate stem leaves, sessile or short-petiolate, from oblanceolate to narrow-lanceolate; lower leaves may be toothed or lobed while upper leaves can be less divided. Surface hairs are visible at close range."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "One radiate flower head at the end of a stalk; white rays (sometimes pinkish beneath) surround yellow disc florets. Under each head are several overlapping rows of phyllaries with pale, scarious margins; receptacle conical and without chaff."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Mature dry one-seeded cypselae are angular/strongly ribbed, often with short duplex hairs curved at the tip; the pappus is a short crown or small scales. Mature disc-corolla bases can become bulbously swollen. Fruit hair form and corolla-base details require a microscope or macro."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Check soft to spreading hairs on branches and the solitary nodding-to-upright head buds; do not use bud posture alone as species proof."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9a599321892d4747f8b218a5f511026fda653ec7218acb56a71573ef7dcf77e2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

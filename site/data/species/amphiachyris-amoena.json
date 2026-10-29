@@ -1,0 +1,46 @@
+{
+  "id": "amphiachyris-amoena",
+  "family": "Asteraceae",
+  "genus": "Amphiachyris",
+  "scientific_name": "Amphiachyris amoena",
+  "common_name": "Texas broomweed",
+  "look_here_first": "Like Texas snakeweed, an open and wispy yellow-flowering annual. Examine the back of a real flower head: pale/resinous phyllaries without green midnerve borders; then the DISC floret has long white basally united pappus scales, unlike G. texana's nearly absent/very short scales. Do not identify this species from habit/color alone; compare A. dracunculoides arrangement too.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Asteraceae composite heads: ray florets + disc florets inside a phyllary involucre, producing cypselae."
+    },
+    {
+      "label": "Identification",
+      "text": "annual with broomy open branching"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow alternate sessile linear leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "gland-dotted aromatic foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "many tiny yellow radiate heads"
+    },
+    {
+      "label": "Identification",
+      "text": "bell-shaped involucre with multiple phyllaries"
+    },
+    {
+      "label": "Identification",
+      "text": "calcareous soils and limestone outcrops"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with Amphiachyris dracunculoides, A. amoena is a Texas limestone specialist with very narrow sparse leaves and small resinous heads."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c5be03c086cd895d8a27e2a7a5635d2e981aa40548e7dab5c0fdd2f30b7b33f7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

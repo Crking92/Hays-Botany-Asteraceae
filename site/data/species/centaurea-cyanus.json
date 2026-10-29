@@ -1,0 +1,38 @@
+{
+  "id": "centaurea-cyanus",
+  "family": "Asteraceae",
+  "genus": "Centaurea",
+  "scientific_name": "Centaurea cyanus",
+  "common_name": "Cornflower / bachelor's button",
+  "look_here_first": "LOOK HERE FIRST: Inspect the head: outer sterile florets are enlarged and trumpet-like with fringed tips, surrounding shorter central fertile florets. Then turn the head sideways to inspect several rows of non-spiny green phyllaries with dark or pale papery fringed appendages. Check the narrow alternate leaves and slightly woolly stems; blue color alone is not a reliable ID.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual herb, typically upright with slender branches, often woolly when young."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate narrow linear to lanceolate leaves, usually sessile on upper stem; lower leaves can be sparsely toothed or lobed; white woolly hairs may be visible."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Heads at branch ends; enlarged, usually blue but variable-colored outer sterile florets surround smaller fertile florets. The bell-shaped involucre has multiple rows of green phyllaries with scarious fringed tips, often brown to dark."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Small pale-to-gray cypselae with a short tuft of stiff pappus bristles; needs exact-species macro."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Slender non-winged stems with woolly hairs; check attachment of upper leaves."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3988484cfa80f20f43e1803a0e5edd6b8b00e93f7a938d7f4a05dda961e277cb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

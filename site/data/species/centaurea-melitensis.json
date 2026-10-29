@@ -1,0 +1,17 @@
+{
+  "id": "centaurea-melitensis",
+  "family": "Asteraceae",
+  "genus": "Centaurea",
+  "scientific_name": "Centaurea melitensis",
+  "common_name": "Malta starthistle",
+  "look_here_first": "Inspect a yellow composite flower head surrounded by narrow phyllaries ending in sharp spines; look for winged stem portions.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ea3bbc50aa0adf7d790a8e4f6bf310b2d63915bb7ff472336de30c36927d207",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

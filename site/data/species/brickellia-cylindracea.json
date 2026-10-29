@@ -1,0 +1,50 @@
+{
+  "id": "brickellia-cylindracea",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "scientific_name": "Brickellia cylindracea",
+  "common_name": "Gravelbar brickellbush",
+  "look_here_first": "Examine paired nodes and the underside of a mature leaf: leaves often opposite or nearly opposite, densely pale-tomentose beneath and gland-dotted. Confirm on a head by checking layered phyllaries; the outer bracts are at most about half the inner length. Do not identify by stream-gravel habitat alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial woody-based shrub, often on gravel bars or rocky sites; habitat is supportive, not diagnostic."
+    },
+    {
+      "label": "Leaves",
+      "text": "Leaves often opposite or subopposite, abaxial surface densely tomentose and gland-dotted; inspect intact nodes and both leaf faces."
+    },
+    {
+      "label": "Flowers",
+      "text": "Discoid heads, typically 18–22 phyllaries in 5–7 series; involucres about 8–13 mm; outer phyllaries no more than half the inner length."
+    },
+    {
+      "label": "Fruits",
+      "text": "Check mature cypsela pubescence; often hairy relative to usually glabrous B. dentata."
+    },
+    {
+      "label": "Identification",
+      "text": "paired or nearly paired leaf nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "densely tomentose, gland-dotted leaf undersides"
+    },
+    {
+      "label": "Identification",
+      "text": "outer phyllaries <= half inner length"
+    },
+    {
+      "label": "Identification",
+      "text": "mature cypsela hairs"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "18d4fedfde5b884d07fddfd089c0c395f639cbd9a161eaa3790dc7464af4003d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

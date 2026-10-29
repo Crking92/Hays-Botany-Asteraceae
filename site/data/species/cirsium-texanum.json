@@ -1,0 +1,58 @@
+{
+  "id": "cirsium-texanum",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium texanum",
+  "common_name": "Texas Thistle",
+  "look_here_first": "FIRST measure the green involucre UNDER the flower heads (excluding florets and projecting phyllary spines): local Texas thistle specimen descriptions give roughly 15–20 mm in height. SECOND examine a stem LEAF NODE: the broad sessile upper leaf may make small spine-tipped clasping ears (auricles) and CAN continue as DECURRENT, SPINY STEM WINGS on robust plants. Do not assume wings mean introduced C. vulgare! Instead compare bull thistle's short bristle-spines emerging on the UPPER leaf blade. Check whitish glutinous longitudinal phyllary midridges where visible. C. horridulum has markedly larger 40–45 mm involucres in Williamson County specimens, largely hidden by a separate ring of spinescent upper leaves.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Biennial or short-lived perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect thistle, usually under about 1 m."
+    },
+    {
+      "label": "Leaves",
+      "text": "Middle/upper sessile leaves may have broad clasping auricles AND may extend as spiny decurrent wings. Image confirmation requires attachment on the same stem. The upper leaf surface is thinly cobwebby/tomentose, lower face densely white-woolly; C. vulgare has diagnostic stiff short spines on the upper blade."
+    },
+    {
+      "label": "Heads",
+      "text": "Purple to pink discoid heads, solitary or in small groups; no ray florets."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Involucre around 12–20 mm high (FNA key and UT Austin detailed Texas treatment). Outer/middle phyllaries often carry a narrow whitish, sticky, glutinous medial ridge; UT Austin describes ~2.5–4 mm ridge on sampled phyllaries. A visible pale line need not be sticky in every photo and is not exclusive among Cirsium."
+    },
+    {
+      "label": "Identification",
+      "text": "native Texas roadside thistle"
+    },
+    {
+      "label": "Identification",
+      "text": "pink-purple discoid heads"
+    },
+    {
+      "label": "Identification",
+      "text": "spiny but not extremely woolly foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "relatively compact stature"
+    },
+    {
+      "label": "Stem",
+      "text": "UT Austin Williamson flora documents ridged, somewhat winged stems on robust Texas thistle, with about two spinescent decurrent wings from each cauline leaf. This OVERLAPS winged C. vulgare; do not use a winged/not-winged rule."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "377f1613a6cfb09654cb00aae69dc8bb7b06156956de38e4e507b236ef3b6809",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

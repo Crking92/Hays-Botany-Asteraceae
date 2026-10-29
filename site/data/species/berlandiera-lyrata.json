@@ -1,0 +1,38 @@
+{
+  "id": "berlandiera-lyrata",
+  "family": "Asteraceae",
+  "genus": "Berlandiera",
+  "scientific_name": "Berlandiera lyrata",
+  "common_name": "Chocolate daisy / lyreleaf greeneyes",
+  "look_here_first": "LOOK HERE FIRST: Examine the flower head from both sides. The yellow ray florets have reddish-maroon veins underneath, and the head is cupped by broad overlapping green involucral bracts (phyllaries). Look for a dark maroon disk and soft, often lyrately lobed gray-green basal leaves. Smell may be chocolate-like, especially in the morning, but do not identify from fragrance or yellow rays alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial forb with leafy basal growth and ascending flowering stalks; variable low mounding to taller growth."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Leaves alternate, often concentrated near base, softly hairy, gray-green, obovate to spatulate or lyrately lobed; terminal leaf portion often larger than small lower lobes. Inspect the actual plant rather than assume all leaves are deeply divided."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Solitary radiate heads on stalks, usually several yellow ray florets with maroon veins on the lower surface, surrounding a reddish-maroon disk. Broad green overlapping phyllaries form a conspicuous cup below the head."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "At fruiting, distinctive green cup-like head structure persists as rays fall; confirm mature cypsela and associated bracts in a macro view."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Hairy, often longitudinally striped flowering stems; check stem and leaf attachment on live material."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "68b2160edcda145150feaa60d890e930d5b767dfad11bec50169015e14db3f8a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

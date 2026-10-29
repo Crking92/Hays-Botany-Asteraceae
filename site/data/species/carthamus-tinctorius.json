@@ -1,0 +1,17 @@
+{
+  "id": "carthamus-tinctorius",
+  "family": "Asteraceae",
+  "genus": "Carthamus",
+  "scientific_name": "Carthamus tinctorius",
+  "common_name": "Safflower",
+  "look_here_first": "LOOK HERE FIRST: Look at the pointed, often spiny leaves and bracts surrounding each terminal flower head. The head is made of many slender tubular florets rather than one flower, on a branching upright plant.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4bb43ff17a9bf3cdb83582f3e051721a6ad71c1c1a42b5ac3d89b137a1f10b83",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

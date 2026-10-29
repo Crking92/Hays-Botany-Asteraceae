@@ -1,0 +1,38 @@
+{
+  "id": "artemisia-tridentata",
+  "family": "Asteraceae",
+  "genus": "Artemisia",
+  "scientific_name": "Artemisia tridentata",
+  "common_name": "Big sagebrush",
+  "look_here_first": "LOOK HERE FIRST: Check for a persistent woody shrub with many short gray-green wedge-shaped leaves, commonly ending in three short rounded teeth. Confirm gray-brown woody stems and, when present, upright sprays of tiny heads. Three tips alone are not proof: compare the shrub habit and leaf proportions.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Aromatic, gray-haired, woody shrub typically 0.4–2 m tall, sometimes larger; substantial older trunks and branches with exfoliating gray bark; not rhizomatous."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Persistent small gray-green leaves on shoots, typically wedge-shaped, 0.5–3.5 cm long and narrow, commonly shallowly three-lobed at tip with rounded lobes; some leaves may be entire."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Tiny discoid heads in upright, branching panicle-like clusters; narrow involucres around 1.5–4 mm long, with woolly phyllaries; no showy rays."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Small dry one-seeded cypselae around 1–2 mm; inspect under magnification."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Woody gray-brown branches, gray bark peeling in strips; gray-hairy vegetative growth."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ab655c090f5e6c0c33154a858df079ffae9ca001ce7445d4994b531af2bda1a1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

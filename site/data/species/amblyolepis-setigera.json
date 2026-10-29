@@ -1,0 +1,34 @@
+{
+  "id": "amblyolepis-setigera",
+  "family": "Asteraceae",
+  "genus": "Amblyolepis",
+  "scientific_name": "Amblyolepis setigera",
+  "common_name": "Huisache daisy",
+  "look_here_first": "Inspect the yellow head from below: long green outer phyllaries, a domed disk and notched ray tips. Then inspect alternate leaves with clasping upper leaf bases. A mature cypsela has papery pappus scales.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Sweet-scented hairy annual herb."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate; lower spatulate, upper ovate and sessile to clasping."
+    },
+    {
+      "label": "Heads",
+      "text": "Solitary yellow capitula, long outer phyllaries and domed disk."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypsela with short papery pappus scales."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "32419b7eb7f3cdbf1dd219591d76d563247bb390c3392021f6a1e20257f36b1c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "brickellia-eupatorioides",
+  "family": "Asteraceae",
+  "genus": "Brickellia",
+  "scientific_name": "Brickellia eupatorioides",
+  "common_name": "False boneset",
+  "look_here_first": "Start at a mature head and fruit: pappus bristles are plumose to subplumose, with gland-dotted phyllaries. Inspect woody perennial base and leaf nodes, but remember some varieties have alternate rather than opposite leaves. Do not assign a variety from a species-level source row.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial herb to subshrub with woody perennial base; habit varies across recognized varieties."
+    },
+    {
+      "label": "Leaves",
+      "text": "Leaves usually opposite, but alternate in some varieties including gracillima and texana; phyllotaxy alone cannot reject the species."
+    },
+    {
+      "label": "Flowers",
+      "text": "Heads discoid; phyllaries gland-dotted, often 22–26 across the complex; involucres roughly 7–15 mm, with about 6–35 florets."
+    },
+    {
+      "label": "Fruits",
+      "text": "Mature cypsela pappus bristles plumose to subplumose; photograph with macro to distinguish from related brickellbushes."
+    },
+    {
+      "label": "Identification",
+      "text": "plumose or subplumose mature pappus"
+    },
+    {
+      "label": "Identification",
+      "text": "gland-dotted phyllaries"
+    },
+    {
+      "label": "Identification",
+      "text": "woody perennial base"
+    },
+    {
+      "label": "Identification",
+      "text": "variable phyllotaxy across varieties"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ab4d83b54d6bbb978f6e365da50eecc0c8673b0772a1105f231ab2ac15eab470",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

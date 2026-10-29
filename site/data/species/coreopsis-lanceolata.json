@@ -1,0 +1,42 @@
+{
+  "id": "coreopsis-lanceolata",
+  "family": "Asteraceae",
+  "genus": "Coreopsis",
+  "scientific_name": "Coreopsis lanceolata",
+  "common_name": "Lance-leaved coreopsis",
+  "look_here_first": "Start with the perennial clump and leaves: mostly basal/lower lanceolate leaves, long nearly leafless peduncles, and large all-yellow heads.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "basal and lower lanceolate to oblanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves sparse"
+    },
+    {
+      "label": "Identification",
+      "text": "long nearly leafless peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "large yellow heads"
+    },
+    {
+      "label": "Identification",
+      "text": "outer phyllaries narrow; inner phyllaries broader and united near base"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Unlike annual C. wrightii, C. lanceolata is clump-forming and perennial with broader lanceolate lower leaves and long nearly leafless stalks."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0c832554f47e550bcc04caf68f24bcabc535daf30d21196fdf58aa86d51de123",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

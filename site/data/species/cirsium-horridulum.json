@@ -1,0 +1,42 @@
+{
+  "id": "cirsium-horridulum",
+  "family": "Asteraceae",
+  "genus": "Cirsium",
+  "scientific_name": "Cirsium horridulum",
+  "common_name": "Horrid thistle / yellow thistle",
+  "look_here_first": "Look BELOW EACH HEAD for a second, obvious ARMOR COLLAR: a ring of spiny-margined leaflike bracts about as long as the 30–50 mm involucre. Those are separate SUBTENDING BRACTS, not the individual phyllaries of the involucre. Leaves often bear stout main marginal spines (5–30 mm, variable by variety) and cauline leaf bases may be auriculate-clasping. Color varies white/yellow/pink/purple—yellow thistle is not necessarily yellow. Compared with C. vulgare check the UPPER LEAF BLADE for bristle-spines, not just rough marginal prickles.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Ring of spiny-margined leaflike bracts RIGHT BENEATH EACH INDIVIDUAL head, about involucre length: strongest separator."
+    },
+    {
+      "label": "Identification",
+      "text": "Involucre (green cup beneath florets) ~30–50 mm tall, much larger than C. texanum's ~12–20 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Primary leaf-edge spines may be 5–30 mm; C. horridulum has marked infraspecific variation."
+    },
+    {
+      "label": "Identification",
+      "text": "Biennial or sometimes persistent perennial/root-sprouting habit; do not insist annual-only."
+    },
+    {
+      "label": "Identification",
+      "text": "White/yellow to pink/purple/red heads can occur; color does NOT separate from native Texas thistle."
+    },
+    {
+      "label": "Identification",
+      "text": "Do not substitute marginal thorns for C. vulgare's short leaf-surface spines."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1ced4d6b7cfc64517d296ec64b2e71d5ba867c7412d83000a2a4fb814f33122a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

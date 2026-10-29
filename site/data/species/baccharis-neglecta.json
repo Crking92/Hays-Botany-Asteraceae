@@ -1,0 +1,58 @@
+{
+  "id": "baccharis-neglecta",
+  "family": "Asteraceae",
+  "genus": "Baccharis",
+  "scientific_name": "Baccharis neglecta",
+  "common_name": "False Willow",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial shrub/subshrub."
+    },
+    {
+      "label": "Habit",
+      "text": "Green, much-branched, broomy shrublet."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, narrow oblanceolate to linear-oblanceolate, often entire to shallowly toothed near the tip."
+    },
+    {
+      "label": "Heads",
+      "text": "Small discoid heads; female plants especially showy in fruit from the white pappus."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Several series, appressed."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with conspicuous white pappus in fruit."
+    },
+    {
+      "label": "Identification",
+      "text": "green shrubby habit"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow willowlike leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "masses of tiny heads"
+    },
+    {
+      "label": "Identification",
+      "text": "white pappus on female plants"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "feb34b4adbdd3aa93a79509bf2bd521ac6a6151927a3250dfbd60c56e1647825",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

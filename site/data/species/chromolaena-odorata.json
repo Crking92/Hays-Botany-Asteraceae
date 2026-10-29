@@ -1,0 +1,58 @@
+{
+  "id": "chromolaena-odorata",
+  "family": "Asteraceae",
+  "genus": "Chromolaena",
+  "scientific_name": "Chromolaena odorata",
+  "common_name": "Fragrant mistflower",
+  "look_here_first": "On a bushy, sometimes sprawling plant with opposite triangular, 3-veined toothed leaves, inspect ONE flowering head from its side: it has a longer cylindrical involucre about 8–10 mm, with multiple (typically 4–6+) imbricate phyllary series. Contrast shorter hemispheric Conoclinium heads and white Ageratina shrubby mistflower; common names overlap.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "opposite petiolate coarsely toothed leaves with 3 strong basal veins"
+    },
+    {
+      "label": "Identification",
+      "text": "subshrub or sprawling branching shrub habit"
+    },
+    {
+      "label": "Identification",
+      "text": "clusters of rayless lavender/pinkish to nearly white capitula"
+    },
+    {
+      "label": "Identification",
+      "text": "individual cylindrical involucre about 8–10 mm long, with 4–6(–8) phyllary series"
+    },
+    {
+      "label": "Habit",
+      "text": "Perennial subshrub or shrub, often 0.8–2.5 m, branched and sometimes sprawling/subscandent."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite"
+    },
+    {
+      "label": "Leaves",
+      "text": "Petioles approximately 5–20 mm; lanceolate to deltate or ovate-lanceolate 3–10 × 1–4 cm, often serrate, 3 main veins from near base."
+    },
+    {
+      "label": "Heads",
+      "text": "Cluster of numerous small disk-only capitula, no ray florets. Individual involucre usually cylindrical, approximately 8–10 mm long with imbricate 4–6(–8) series of phyllaries."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypsela with pappus bristles; matched seed macro deferred to later microscopy polish."
+    },
+    {
+      "label": "Sensory note",
+      "text": "Aroma can support familiarity but should not be used for definitive species identification."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b44129f7f2524090999dfc12c0f5882fa3ac9e93a9b08fb74f0931a61d020bec",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

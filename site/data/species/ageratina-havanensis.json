@@ -1,0 +1,70 @@
+{
+  "id": "ageratina-havanensis",
+  "family": "Asteraceae",
+  "genus": "Ageratina",
+  "scientific_name": "Ageratina havanensis",
+  "common_name": "Shrubby Boneset",
+  "look_here_first": "Look for a many-branched, persistent-leaved (evergreen) woody shrub with opposite, serrate, typically 3–5 cm leaves on short 3–10 mm petioles and white to faintly pinkish rayless heads. A. altissima has herbaceous stems and smoother/glabrous cypselae. Mature A. havanensis cypselae are HISPID (hairy).",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial subshrub/shrub."
+    },
+    {
+      "label": "Habit",
+      "text": "Rounded shrubby plant, often woody at the base."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, ovate to triangular-ovate, serrate, often aromatic when crushed."
+    },
+    {
+      "label": "Heads",
+      "text": "Small white discoid heads in terminal corymbs or panicles."
+    },
+    {
+      "label": "Phyllaries",
+      "text": "Several imbricate series."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cypselae with bristly pappus."
+    },
+    {
+      "label": "Identification",
+      "text": "shrubby habit"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "white fluffy clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "woody base"
+    },
+    {
+      "label": "Fna confirmation",
+      "text": "FNA: shrub 69–150 cm (rarely 30–200 cm), petioles 3–10(–15) mm, deltate to broadly ovate (sometimes hastate) leaves generally 3–5 × 2–5 cm; leaves essentially gland-free; involucres 4–6 mm; foliage persistent in the US flora."
+    },
+    {
+      "label": "Mature cypsela",
+      "text": "Hispid (hairy), contrasted with glabrous A. altissima (FNA)."
+    },
+    {
+      "label": "Leaf persistence",
+      "text": "Persistently leaved / evergreen shrub, rare within Flora of North America Ageratina."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e8a5d019847344a6f646be887af21beec4bee353efbed12897b17d2289900f04",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
