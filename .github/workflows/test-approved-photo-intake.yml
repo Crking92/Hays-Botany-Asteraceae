@@ -1,0 +1,20 @@
+name: Test guarded existing-species photo intake on published Asteraceae sample
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/test_approved_photo_intake.py'
+      - '.github/workflows/test-approved-photo-intake.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install minimal photo decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify approved photo publish, re-run, rights and orphan protection on an isolated temporary site
+        run: python3 scripts/test_approved_photo_intake.py
