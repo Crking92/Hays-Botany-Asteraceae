@@ -1,0 +1,18 @@
+name: Test portable rights-gated photo publisher with actual collection media
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/test_generic_approved_photo_intake.py'
+      - '.github/workflows/test-generic-photo-intake.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  isolated-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - run: python3 scripts/test_generic_approved_photo_intake.py
