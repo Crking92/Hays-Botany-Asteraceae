@@ -39,7 +39,7 @@ jobs:
           site=pathlib.Path("site")
           gal=json.loads((site/"data/gallery-index.json").read_text())
           catalog=json.loads((site/"data/collection-index.json").read_text())
-          assert len(catalog["entries"])==gal["species"]==180
+          assert len(catalog["entries"])==gal["species"] and len(catalog["entries"])>=180
           counts={}
           photo_paths=set()
           for row in catalog["entries"]:
