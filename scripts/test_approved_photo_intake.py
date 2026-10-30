@@ -48,7 +48,7 @@ def main():
             "approval_note":"Isolated end-to-end QA using a permitted crop of an already-published CC BY image; not added to real repo",
             "creator":photo["creator"],"source_page":photo["source_page"],
             "source_page_is_exact":True,"license":photo["license"],
-            "license_url":photo["license_url"],
+            "license_url":photo["license_url"].rstrip("/") + "/",
             "role":"QA crop test of existing approved Yarrow photograph",
             "modifications":"Crop from an existing licensed photograph; QA only"
         }
