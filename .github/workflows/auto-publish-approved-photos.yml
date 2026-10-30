@@ -1,0 +1,86 @@
+name: Auto-publish new rights-approved Asteraceae photos to the family learner
+on:
+  push:
+    branches: [staging/asteraceae-metadata]
+    paths:
+      - 'photo-intake/approved/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: asteraceae-publish-approved-photos
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout approved family source branch
+        uses: actions/checkout@v4
+        with:
+          ref: staging/asteraceae-metadata
+          fetch-depth: 0
+      - name: Create isolated current public website worktree
+        run: |
+          git fetch origin main
+          git worktree add "$RUNNER_TEMP/asteraceae-family-release" origin/main
+      - name: Verify licenses, exact species, original image bytes, and manual approval
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          python3 "$RUNNER_TEMP/asteraceae-family-release/scripts/publish_approved_family_photos.py" --source-root . --site-root "$RUNNER_TEMP/asteraceae-family-release/site" --check
+      - name: Install approved media and regenerate corresponding species gallery and counts
+        run: python3 "$RUNNER_TEMP/asteraceae-family-release/scripts/publish_approved_family_photos.py" --source-root . --site-root "$RUNNER_TEMP/asteraceae-family-release/site"
+      - name: Verify every resulting local gallery photo, hash and source credit
+        working-directory: ${{ runner.temp }}/asteraceae-family-release
+        run: |
+          python3 - <<'PY'
+          import pathlib,json,hashlib
+          site=pathlib.Path("site")
+          gal=json.loads((site/"data/gallery-index.json").read_text())
+          catalog=json.loads((site/"data/collection-index.json").read_text())
+          assert len(catalog["entries"])==gal["species"]==180
+          counts={}
+          photo_paths=set()
+          for row in catalog["entries"]:
+              sid=row["id"]
+              card=json.loads((site/"data/species"/(sid+".json")).read_text())
+              photos=card.get("verified_photos",[])
+              assert row["photo_count"]==len(photos)==gal["entries"][sid]["count"],sid
+              counts[sid]=len(photos)
+              for item in photos:
+                  path=site/item["src"]
+                  assert item["src"].startswith("media/"+sid+"/"),sid
+                  assert path.is_file(),path
+                  data=path.read_bytes()
+                  assert hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()==item["source_blob_sha"],path
+                  assert item.get("creator") and item.get("source_page","").startswith("https://")
+                  assert not item.get("private_rights_review_only") and not item.get("noncommercial_only")
+                  photo_paths.add(path.resolve())
+          assert gal["photo_count"]==sum(counts.values())
+          assert gal["photo_species"]==sum(bool(x) for x in counts.values())
+          assert photo_paths=={p.resolve() for p in (site/"media").rglob("*") if p.is_file()}
+          print("PASS: every public media file accounted for and source-credited")
+          PY
+      - name: Commit only approved site assets, no force-push or original-hub updates
+        id: release
+        working-directory: ${{ runner.temp }}/asteraceae-family-release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media/ site/data/collection-index.json site/data/gallery-index.json site/data/species/
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            echo "Gallery already contains all approved photos."
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish newly approved Asteraceae species photographs"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request GitHub Pages rebuild even for a bot-authored commit
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
