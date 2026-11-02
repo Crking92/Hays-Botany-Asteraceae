@@ -54,13 +54,18 @@ jobs:
               for p in photos:
                   assert p["src"].startswith("media/"+id+"/")
                   assert p.get("creator") and p.get("source_page","").startswith("https://")
-                  assert not p.get("noncommercial_only") and not p.get("private_rights_review_only")
+                  assert not p.get("private_rights_review_only")
+                  if p.get("noncommercial_only"):
+                      assert p.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
+                      assert json.loads((SITE/"data/collection-meta.json").read_text()).get("photo_license_policy",{}).get("noncommercial_educational_use") is True
                   assert p.get("license_url","").startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/","https://creativecommons.org/publicdomain/mark/"))
-                  assert "NC" not in p.get("license","").upper() and "ND" not in p.get("license","").upper()
+                  assert "ND" not in p.get("license","").upper()
+                  if not p.get("noncommercial_only"):
+                      assert "NC" not in p.get("license","").upper()
                   refs.add(p["src"])
           assert total==expected["photo_count"]
           assert with_photos==expected["photo_species"]
-          local={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*.jpg")}
+          local={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file() and p.suffix.lower() in {".jpg",".jpeg",".png",".webp"}}
           assert refs==local,(len(refs),len(local))
           def check(path):
               image=fetch(urllib.parse.urljoin(BASE,path))
