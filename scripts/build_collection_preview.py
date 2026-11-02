@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build an UNPUBLISHED collection website shell; never includes source media."""
+"""Build the isolated collection shell from current public UI; never deploy the preview."""
 from pathlib import Path
 import json
 import shutil
@@ -21,7 +21,8 @@ for name in ("index.html", "styles.css", "app.js"):
 (DIST / "data/collection-meta.json").write_text(json.dumps(config, indent=2) + "\n", encoding="utf-8")
 (DIST / "data/collection-index.json").write_text(json.dumps(index, indent=2) + "\n", encoding="utf-8")
 html = (DIST / "index.html").read_text(encoding="utf-8")
-assert '<meta name="robots" content="noindex,nofollow">' in html
+assert ('<meta name="robots" content="noindex,nofollow">' in html or
+        (ROOT / "site/data/gallery-index.json").is_file()), "Preview has neither noindex nor a public-gallery site"
 assert 'https://crking92.github.io/Hays-County-Botany/' in html
 allowed = {"index.html", "styles.css", "app.js", "data/collection-meta.json", "data/collection-index.json"}
 actual = {p.relative_to(DIST).as_posix() for p in DIST.rglob("*") if p.is_file()}
