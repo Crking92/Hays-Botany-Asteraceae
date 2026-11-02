@@ -26,5 +26,9 @@
     "original_source_sha_recheck_required": true,
     "rollback_required": true
   },
-  "note": "Metadata for staging only; not a project-rules override, no active ownership transfer or publication."
+  "note": "Metadata for staging only; not a project-rules override, no active ownership transfer or publication.",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "This is the owner's public, noncommercial Hays Botany educational photo learner. CC BY-NC and CC BY-NC-SA photographs, where individually verified and accepted, are not available for commercial reuse; retain original creator, exact license, source links and adaptation notices. Reassess NC permissions before any monetized or promotional use."
+  }
 }
