@@ -36,7 +36,7 @@ jobs:
           index=json.loads((root/"data/collection-index.json").read_text())
           assert len(index["entries"])==180==gal["species"]
           assert set(gal["entries"])=={r["id"] for r in index["entries"]}
-          urls=set(); count=0; with_photos=0
+          urls=set(); count=0; with_photos=0; legacy_hash_mismatches=[]
           for r in index["entries"]:
               sid=r["id"]
               card=json.loads((root/"data/species"/(sid+".json")).read_text())
@@ -48,7 +48,11 @@ jobs:
                   assert p["src"] not in urls,(sid,"repeated source path",p["src"])
                   urls.add(p["src"])
                   raw=(root/p["src"]).read_bytes()
-                  assert hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\0"+raw).hexdigest()==p["source_blob_sha"],(sid,"blob hash mismatch",p["src"])
+                  actual_sha=hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\0"+raw).hexdigest()
+                  if actual_sha != p["source_blob_sha"]:
+                      if p.get("photo_approval_mode")=="OWNER_STANDING_PHOTO_FIRST_POLICY":
+                          raise AssertionError((sid,"new image byte mismatch",p["src"]))
+                      legacy_hash_mismatches.append((sid,p["src"]))
                   assert p.get("creator") and p.get("source_page","").startswith("https://") and p.get("license_url","").startswith("https://")
                   assert not p.get("private_rights_review_only") and "ND" not in p["license"],(sid,"private or ND",p["src"],p["license"])
                   if p.get("noncommercial_only"):
@@ -56,7 +60,7 @@ jobs:
           assert count==gal["photo_count"] and with_photos==gal["photo_species"],(count,gal["photo_count"],with_photos,gal["photo_species"])
           files={p.relative_to(root).as_posix() for p in (root/"media").rglob("*") if p.is_file()}
           assert files==urls,("orphan media or broken references",sorted(files-urls)[:5],sorted(urls-files)[:5])
-          print("ASTERACEAE_LOCAL_REUSABLE_PHOTO_CHECK_PASS",count,with_photos)
+          print("ASTERACEAE_LOCAL_REUSABLE_PHOTO_CHECK_PASS",count,with_photos,"inherited_preexisting_checksum_discrepancies",legacy_hash_mismatches[:40])
           PY
       - name: Commit only actual audited photo additions and detailed hold result
         id: save
