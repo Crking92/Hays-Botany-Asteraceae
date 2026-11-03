@@ -38,9 +38,9 @@ def credit(s):
     return re.sub(r"\s+"," ",s).strip(" ,-.;").casefold()
 def display_creator(s):
     s=html.unescape(re.sub(r"<[^>]*>"," ",str(s or ""))).strip()
-    s=re.sub(r"^(?:\\(c\\)|©)\\s*","",s,flags=re.I)
-    s=re.split(r",?\\s*(?:some rights reserved|no rights reserved|uploaded by)\\b",s,flags=re.I)[0]
-    return re.sub(r"\\s+"," ",s).strip(" ,-.;")
+    s=re.sub(r"^(?:\(c\)|©)\s*","",s,flags=re.I)
+    s=re.split(r",?\s*(?:some rights reserved|no rights reserved|uploaded by)\b",s,flags=re.I)[0]
+    return re.sub(r"\s+"," ",s).strip(" ,-.;")
 def match(a,b):
     a=credit(a);b=credit(b)
     return bool(a and b and (a in b or b in a or any(len(x)>=4 and x in b for x in a.split(" / "))))
