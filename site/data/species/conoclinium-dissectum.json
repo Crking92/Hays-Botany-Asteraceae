@@ -65,8 +65,47 @@
       "source_blob_sha": "afd69752e96944bcd15d579efe0249d46bf056c0",
       "modified": "Original source photograph copied without alteration",
       "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
+    },
+    {
+      "src": "media/conoclinium-dissectum/historical-nc-01-curated-reference.jpg",
+      "creator": "Josh*m",
+      "source_page": "https://www.inaturalist.org/photos/1488485",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_blob_sha": "28519f8aace659611f5cea2388d0298c25babf4b",
+      "role": "General botanical reference: Conoclinium dissectum",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original 28519f8aace659611f5cea2388d0298c25babf4b and iNaturalist photo 1488485. Its current individual source https://www.inaturalist.org/taxa/288658 identifies license cc-by-nc-sa and creator (c) Josh*m, some rights reserved (CC BY-NC-SA); live source image fingerprint distance 0.",
+      "taxon_review_evidence": "Original source archive associates conoclinium-dissectum with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "08db6aa82c7d650b79fcf2907e90dc8af35c2ee041efcf9e2dd4cc54ef316e2c"
+    },
+    {
+      "src": "media/conoclinium-dissectum/historical-nc-04-same-plant-field-view-2.jpg",
+      "creator": "Valdez",
+      "source_page": "https://www.inaturalist.org/photos/740687049",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "884eefec1e9ba07fddd9b0b8cad52314f45d6183",
+      "role": "General botanical reference: Conoclinium dissectum",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original 884eefec1e9ba07fddd9b0b8cad52314f45d6183 and iNaturalist photo 740687049. Its current individual source https://www.inaturalist.org/observations/403412142 identifies license cc-by-nc and creator (c) Valdez, some rights reserved (CC BY-NC); live source image fingerprint distance 11.",
+      "taxon_review_evidence": "Original source archive associates conoclinium-dissectum with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "25fd98896316ec08df4355a83fd3f214fe211022cb620138fd13fbbc55163d30"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

@@ -100,8 +100,8 @@
       "family": "Asteraceae",
       "genus": "Ambrosia",
       "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "amphiachyris-amoena",
@@ -180,8 +180,8 @@
       "family": "Asteraceae",
       "genus": "Baccharis",
       "path": "content/taxa/Asteraceae/Baccharis/baccharis-neglecta/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "baccharis-salicifolia",
@@ -190,8 +190,8 @@
       "family": "Asteraceae",
       "genus": "Baccharis",
       "path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "berlandiera-betonicifolia",
@@ -440,8 +440,8 @@
       "family": "Asteraceae",
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-texanum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "cirsium-undulatum",
@@ -450,8 +450,8 @@
       "family": "Asteraceae",
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-undulatum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "cirsium-vulgare",
@@ -481,7 +481,7 @@
       "genus": "Conoclinium",
       "path": "content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "coreopsis-basalis",
@@ -490,8 +490,8 @@
       "family": "Asteraceae",
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "coreopsis-lanceolata",
@@ -510,8 +510,8 @@
       "family": "Asteraceae",
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "coreopsis-wrightii",
@@ -630,8 +630,8 @@
       "family": "Asteraceae",
       "genus": "Erigeron",
       "path": "content/taxa/Asteraceae/Erigeron/erigeron-geiseri/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "erigeron-modestus",
@@ -720,8 +720,8 @@
       "family": "Asteraceae",
       "genus": "Gaillardia",
       "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "gaillardia-suavis",
@@ -770,8 +770,8 @@
       "family": "Asteraceae",
       "genus": "Grindelia",
       "path": "content/taxa/Asteraceae/Grindelia/grindelia-lanceolata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "grindelia-nuda",
@@ -850,8 +850,8 @@
       "family": "Asteraceae",
       "genus": "Helianthus",
       "path": "content/taxa/Asteraceae/Helianthus/helianthus-annuus/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "helianthus-maximiliani",
@@ -860,8 +860,8 @@
       "family": "Asteraceae",
       "genus": "Helianthus",
       "path": "content/taxa/Asteraceae/Helianthus/helianthus-maximiliani/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "heterotheca-canescens",
@@ -1291,7 +1291,7 @@
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 2
     },
     {
       "id": "rudbeckia-maxima",
@@ -1390,8 +1390,8 @@
       "family": "Asteraceae",
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-altissima/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "solidago-canadensis",
@@ -1400,8 +1400,8 @@
       "family": "Asteraceae",
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-canadensis/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "solidago-gigantea",
@@ -1490,8 +1490,8 @@
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "symphyotrichum-drummondii",
@@ -1530,8 +1530,8 @@
       "family": "Asteraceae",
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-lanceolatum-subsp-lanceolatum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "symphyotrichum-oblongifolium",
@@ -1551,7 +1551,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-patens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 2
     },
     {
       "id": "symphyotrichum-praealtum",
@@ -1630,8 +1630,8 @@
       "family": "Asteraceae",
       "genus": "Tetraneuris",
       "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-scaposa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "thelesperma-filifolium",
@@ -1731,7 +1731,7 @@
       "genus": "Verbesina",
       "path": "content/taxa/Asteraceae/Verbesina/verbesina-virginica/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 4
     },
     {
       "id": "vernonia-baldwinii",

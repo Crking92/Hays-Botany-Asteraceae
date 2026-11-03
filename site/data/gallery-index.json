@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 124,
-  "photo_count": 172,
+  "photo_species": 141,
+  "photo_count": 194,
   "entries": {
     "achillea-millefolium": {
       "count": 2,
@@ -42,8 +42,8 @@
       "first_src": "media/ambrosia-psilostachya/01.jpg"
     },
     "ambrosia-trifida": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ambrosia-trifida/historical-nc-01-curated-reference.jpg"
     },
     "amphiachyris-amoena": {
       "count": 2,
@@ -74,12 +74,12 @@
       "first_src": "media/artemisia-tridentata/01.jpg"
     },
     "baccharis-neglecta": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/baccharis-neglecta/historical-nc-01-curated-reference.jpg"
     },
     "baccharis-salicifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/baccharis-salicifolia/historical-nc-01-curated-reference.jpg"
     },
     "berlandiera-betonicifolia": {
       "count": 1,
@@ -178,12 +178,12 @@
       "first_src": "media/cirsium-ochrocentrum/source-6675156b54cd.jpg"
     },
     "cirsium-texanum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cirsium-texanum/historical-nc-01-curated-reference.jpg"
     },
     "cirsium-undulatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cirsium-undulatum/historical-nc-01-curated-reference.jpg"
     },
     "cirsium-vulgare": {
       "count": 1,
@@ -194,20 +194,20 @@
       "first_src": "media/conoclinium-coelestinum/01.jpg"
     },
     "conoclinium-dissectum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/conoclinium-dissectum/source-afd69752e969.jpg"
     },
     "coreopsis-basalis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/coreopsis-basalis/historical-nc-01-curated-reference.jpg"
     },
     "coreopsis-lanceolata": {
       "count": 1,
       "first_src": "media/coreopsis-lanceolata/01.jpg"
     },
     "coreopsis-tinctoria": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/coreopsis-tinctoria/historical-nc-01-curated-reference.jpg"
     },
     "coreopsis-wrightii": {
       "count": 0,
@@ -254,8 +254,8 @@
       "first_src": "media/erigeron-canadensis/01.jpg"
     },
     "erigeron-geiseri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/erigeron-geiseri/historical-nc-gbif-manual-1837096832-4decc28e1.jpg"
     },
     "erigeron-modestus": {
       "count": 1,
@@ -290,8 +290,8 @@
       "first_src": "media/gaillardia-amblyodon/01.jpg"
     },
     "gaillardia-pulchella": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/gaillardia-pulchella/historical-nc-01-curated-reference.jpg"
     },
     "gaillardia-suavis": {
       "count": 0,
@@ -310,8 +310,8 @@
       "first_src": "media/grindelia-ciliata/01.jpg"
     },
     "grindelia-lanceolata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/grindelia-lanceolata/historical-nc-01-curated-reference.jpg"
     },
     "grindelia-nuda": {
       "count": 1,
@@ -342,12 +342,12 @@
       "first_src": null
     },
     "helianthus-annuus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/helianthus-annuus/historical-nc-01-curated-reference.jpg"
     },
     "helianthus-maximiliani": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/helianthus-maximiliani/historical-nc-01-curated-reference.jpg"
     },
     "heterotheca-canescens": {
       "count": 2,
@@ -518,7 +518,7 @@
       "first_src": "media/rudbeckia-amplexicaulis/01.jpg"
     },
     "rudbeckia-hirta": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/rudbeckia-hirta/source-944290b83195.jpg"
     },
     "rudbeckia-maxima": {
@@ -558,12 +558,12 @@
       "first_src": "media/simsia-calva/01.jpg"
     },
     "solidago-altissima": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/solidago-altissima/historical-nc-01-curated-reference.jpg"
     },
     "solidago-canadensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/solidago-canadensis/historical-nc-01-curated-reference.jpg"
     },
     "solidago-gigantea": {
       "count": 2,
@@ -598,8 +598,8 @@
       "first_src": null
     },
     "symphyotrichum-divaricatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/symphyotrichum-divaricatum/historical-nc-01-curated-reference.jpg"
     },
     "symphyotrichum-drummondii": {
       "count": 0,
@@ -614,15 +614,15 @@
       "first_src": "media/symphyotrichum-eulae/01.jpg"
     },
     "symphyotrichum-lanceolatum-subsp-lanceolatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/symphyotrichum-lanceolatum-subsp-lanceolatum/historical-nc-gbif-first-5292597146-17ffbf1f72.jpg"
     },
     "symphyotrichum-oblongifolium": {
       "count": 1,
       "first_src": "media/symphyotrichum-oblongifolium/01.jpg"
     },
     "symphyotrichum-patens": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/symphyotrichum-patens/01.jpg"
     },
     "symphyotrichum-praealtum": {
@@ -654,8 +654,8 @@
       "first_src": "media/tetraneuris-linearifolia/01.jpg"
     },
     "tetraneuris-scaposa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tetraneuris-scaposa/historical-nc-01-curated-reference.jpg"
     },
     "thelesperma-filifolium": {
       "count": 0,
@@ -694,7 +694,7 @@
       "first_src": null
     },
     "verbesina-virginica": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/verbesina-virginica/01.jpg"
     },
     "vernonia-baldwinii": {

@@ -39,7 +39,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/coreopsis-tinctoria/historical-nc-01-curated-reference.jpg",
+      "creator": "jcmattson",
+      "source_page": "https://www.inaturalist.org/photos/384754031",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3e2edbee4342b81fabe591c98893b8cb1cf56e11",
+      "role": "General botanical reference: Coreopsis tinctoria",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original 3e2edbee4342b81fabe591c98893b8cb1cf56e11 and iNaturalist photo 384754031. Its current individual source https://www.inaturalist.org/taxa/76445 identifies license cc-by-nc and creator (c) jcmattson, some rights reserved (CC BY-NC); live source image fingerprint distance 0.",
+      "taxon_review_evidence": "Original source archive associates coreopsis-tinctoria with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "e3fdcdf0b23ee7ba160042da76d9f0d10c2582060243de91ee3f5c8d84bc6d24"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

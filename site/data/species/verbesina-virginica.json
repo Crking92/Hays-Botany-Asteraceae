@@ -102,8 +102,28 @@
       "source_blob_sha": "907ad97032f275565c4c1fd40f40089b687c910e",
       "modified": "Original source photograph copied without alteration",
       "rights_note": "Exact historical licensed source; anatomy arrows remain separately reviewed"
+    },
+    {
+      "src": "media/verbesina-virginica/historical-nc-01-curated-reference.jpg",
+      "creator": "Mark Fishbein",
+      "source_page": "https://www.inaturalist.org/photos/13760231",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "18eaf0ac61a31672380ffb2ee11f6776305b185d",
+      "role": "General botanical reference: Verbesina virginica",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original 18eaf0ac61a31672380ffb2ee11f6776305b185d and iNaturalist photo 13760231. Its current individual source https://www.inaturalist.org/taxa/119982 identifies license cc-by-nc and creator (c) Mark Fishbein, some rights reserved (CC BY-NC), uploaded by Mark Fishbein; live source image fingerprint distance 0.",
+      "taxon_review_evidence": "Original source archive associates verbesina-virginica with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "c53386d1c8a01a9bbbc997f031179ccf10ed67d9128fde93f9c4c33382aaf9a1"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

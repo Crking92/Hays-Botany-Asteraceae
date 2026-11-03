@@ -35,7 +35,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/ambrosia-trifida/historical-nc-01-curated-reference.jpg",
+      "creator": "thaven",
+      "source_page": "https://www.inaturalist.org/photos/227586836",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "cd651582ce96b79e5e5d7f9185cca154a35dd620",
+      "role": "General botanical reference: Ambrosia trifida",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original cd651582ce96b79e5e5d7f9185cca154a35dd620 and iNaturalist photo 227586836. Its current individual source https://www.inaturalist.org/taxa/53034 identifies license cc-by-nc and creator (c) thaven, some rights reserved (CC BY-NC); live source image fingerprint distance 0.",
+      "taxon_review_evidence": "Original source archive associates ambrosia-trifida with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "3f98aed087ee4a1671f5a23d46e18aef4bd38b646c399449134d41236c8265f9"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

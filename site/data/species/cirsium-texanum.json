@@ -43,7 +43,28 @@
     ],
     "differences": "C. horridulum has the extra under-head collar of very spinescent upper leaves and a much larger involucre (~40–45 mm in UT Williamson description) compared with C. texanum's ~15–20 mm. C. texanum upper stem leaf bases can clasp with auricles OR descend as spiny wings on robust plants; C. vulgare also has wings but distinctive short bristle-spines on upper LEAF FACE. Do not teach winged/not-winged as an absolute species split."
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/cirsium-texanum/historical-nc-01-curated-reference.jpg",
+      "creator": "Donna Pomeroy",
+      "source_page": "https://www.inaturalist.org/photos/7446527",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "17e2ff051d1440f31932774536db8eb6d4bd4dbb",
+      "role": "General botanical reference: Cirsium texanum",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
+      "source_review_evidence": "The historical archive pins exact Git original 17e2ff051d1440f31932774536db8eb6d4bd4dbb and iNaturalist photo 7446527. Its current individual source https://www.inaturalist.org/taxa/128152 identifies license cc-by-nc and creator (c) Donna Pomeroy, some rights reserved (CC BY-NC), uploaded by Donna Pomeroy; live source image fingerprint distance 0.",
+      "taxon_review_evidence": "Original source archive associates cirsium-texanum with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
+      "sha256": "e242acbfcc39ac97e746def69304895af6ef7db6e61fc9447ec3d51f71119b21"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }
