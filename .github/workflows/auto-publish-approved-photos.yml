@@ -90,8 +90,26 @@ jobs:
           fi
           git diff --cached --check
           git commit -m "Publish newly approved Asteraceae species photographs"
-          git push origin HEAD:main
-          echo "published=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Concurrent gallery release prevented safe publication after three attempts"
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/publish_remote_verified_asteraceae.py "$RUNNER_TEMP/asteraceae-005.json" site "$RUNNER_TEMP/asteraceae-005-report.json"
+            git add site/media/ site/data/collection-index.json site/data/gallery-index.json site/data/species/
+            if git diff --cached --quiet; then
+              echo "published=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Publish Asteraceae 005 photo originals on refreshed public site"
+          done
       - name: Save exact Asteraceae 005 source checks and holds
         if: always()
         uses: actions/upload-artifact@v4
