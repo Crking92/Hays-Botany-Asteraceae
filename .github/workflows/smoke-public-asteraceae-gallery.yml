@@ -110,3 +110,5 @@ jobs:
               "all_sources_present":True,"new_photos_collected":0
           },sort_keys=True),flush=True)
           PY
+
+# 2026-11-04: Re-run full live-byte audit after safe website display optimization and concurrent 005 publication.
