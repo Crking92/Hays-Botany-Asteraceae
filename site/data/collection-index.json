@@ -601,7 +601,7 @@
       "genus": "Engelmannia",
       "path": "content/taxa/Asteraceae/Engelmannia/engelmannia-peristenia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 7
+      "photo_count": 8
     },
     {
       "id": "ericameria-nauseosa",
@@ -611,7 +611,7 @@
       "genus": "Ericameria",
       "path": "content/taxa/Asteraceae/Ericameria/ericameria-nauseosa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "erigeron-canadensis",
@@ -621,7 +621,7 @@
       "genus": "Erigeron",
       "path": "content/taxa/Asteraceae/Erigeron/erigeron-canadensis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 4
+      "photo_count": 9
     },
     {
       "id": "erigeron-geiseri",
@@ -641,7 +641,7 @@
       "genus": "Erigeron",
       "path": "content/taxa/Asteraceae/Erigeron/erigeron-modestus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "erigeron-philadelphicus",
@@ -651,7 +651,7 @@
       "genus": "Erigeron",
       "path": "content/taxa/Asteraceae/Erigeron/erigeron-philadelphicus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 6
     },
     {
       "id": "erigeron-strigosus",

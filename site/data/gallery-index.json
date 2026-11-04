@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 159,
-  "photo_count": 581,
+  "photo_count": 600,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -242,15 +242,15 @@
       "first_src": "media/elephantopus-carolinianus/inat-271171055.jpeg"
     },
     "engelmannia-peristenia": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/engelmannia-peristenia/01.jpg"
     },
     "ericameria-nauseosa": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ericameria-nauseosa/01.jpg"
     },
     "erigeron-canadensis": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/erigeron-canadensis/01.jpg"
     },
     "erigeron-geiseri": {
@@ -258,11 +258,11 @@
       "first_src": "media/erigeron-geiseri/historical-nc-gbif-manual-1837096832-4decc28e1.jpg"
     },
     "erigeron-modestus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/erigeron-modestus/01.jpg"
     },
     "erigeron-philadelphicus": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/erigeron-philadelphicus/01.jpg"
     },
     "erigeron-strigosus": {
