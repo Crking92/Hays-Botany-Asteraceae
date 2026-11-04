@@ -940,8 +940,8 @@
       "family": "Asteraceae",
       "genus": "Hymenopappus",
       "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-tenuifolius/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 4
     },
     {
       "id": "iva-annua",
@@ -950,8 +950,8 @@
       "family": "Asteraceae",
       "genus": "Iva",
       "path": "content/taxa/Asteraceae/Iva/iva-annua/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "iva-asperifolia-var-angustifolia",
@@ -971,7 +971,7 @@
       "genus": "Krigia",
       "path": "content/taxa/Asteraceae/Krigia/krigia-cespitosa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "krigia-occidentalis",
@@ -981,7 +981,7 @@
       "genus": "Krigia",
       "path": "content/taxa/Asteraceae/Krigia/krigia-occidentalis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "lactuca-ludoviciana",
@@ -991,7 +991,7 @@
       "genus": "Lactuca",
       "path": "content/taxa/Asteraceae/Lactuca/lactuca-ludoviciana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "lactuca-serriola",
@@ -1001,7 +1001,7 @@
       "genus": "Lactuca",
       "path": "content/taxa/Asteraceae/Lactuca/lactuca-serriola/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "laphamia-lindheimeri",
@@ -1011,7 +1011,7 @@
       "genus": "Laphamia",
       "path": "content/taxa/Asteraceae/Laphamia/laphamia-lindheimeri/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "leontodon-rhagadioloides",

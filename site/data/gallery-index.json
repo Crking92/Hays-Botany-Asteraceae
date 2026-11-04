@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 163,
-  "photo_count": 717,
+  "photo_species": 165,
+  "photo_count": 750,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -378,35 +378,35 @@
       "first_src": "media/hymenopappus-scabiosaeus-var-corymbosus/01.jpg"
     },
     "hymenopappus-tenuifolius": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/hymenopappus-tenuifolius/inat-130399739.jpeg"
     },
     "iva-annua": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/iva-annua/inat-188305277.jpg"
     },
     "iva-asperifolia-var-angustifolia": {
       "count": 1,
       "first_src": "media/iva-asperifolia-var-angustifolia/01.jpg"
     },
     "krigia-cespitosa": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/krigia-cespitosa/01.jpg"
     },
     "krigia-occidentalis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/krigia-occidentalis/01.jpg"
     },
     "lactuca-ludoviciana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lactuca-ludoviciana/01.jpg"
     },
     "lactuca-serriola": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/lactuca-serriola/01.jpg"
     },
     "laphamia-lindheimeri": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/laphamia-lindheimeri/01.jpg"
     },
     "leontodon-rhagadioloides": {
