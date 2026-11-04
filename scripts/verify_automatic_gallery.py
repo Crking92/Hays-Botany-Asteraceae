@@ -54,8 +54,18 @@ def validate(site):
     files={p.relative_to(site).as_posix() for p in (site/"media").rglob("*") if p.is_file()}
     assert paths==files,{"orphan":sorted(files-paths)[:5],"missing":sorted(paths-files)[:5]}
     assert gal["photo_count"]==photo_total and gal["photo_species"]==photo_species
+    site_bytes=sum(p.stat().st_size for p in site.rglob("*") if p.is_file())
+    if site_bytes >= 800_000_000:
+        print(json.dumps({"status":"ASTERACEAE_PUBLIC_SITE_SIZE_WARNING",
+                          "site_bytes":site_bytes, "warning_bytes":800_000_000}))
+    # Before the first optimization we allow the existing oversized release to be
+    # checked; afterward enforce a hard ceiling before publishing future batches.
+    if (data/"web-display-optimization.json").exists():
+        assert site_bytes <= 950_000_000, (
+            "PUBLIC_WEBSITE_SIZE_GUARD: optimize new images before publishing",site_bytes)
     print(json.dumps({"status":"PASS_GROWING_FAMILY_GALLERY","species":len(ids),
-                      "photos":photo_total,"photographed_species":photo_species}))
+                      "photos":photo_total,"photographed_species":photo_species,
+                      "site_bytes":site_bytes}))
 if __name__=="__main__":
     ap=argparse.ArgumentParser();ap.add_argument("--site-root",type=Path,default=Path("site"))
     a=ap.parse_args()
