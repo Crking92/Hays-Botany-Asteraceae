@@ -8,7 +8,7 @@ report=pathlib.Path(sys.argv[3])
 assert manifest["batch_id"]=="asteraceae-005-2026-11-04"
 assert manifest["repo"]=="Crking92/Hays-Botany-Asteraceae"
 rows=manifest["photos"]
-assert len(rows)<=50 and len({(r["observation_id"],r["photo_id"]) for r in rows})==len(rows)
+assert len(rows)<=160 and len({(r["observation_id"],r["photo_id"]) for r in rows})==len(rows)
 catp=site/"data/collection-index.json"; galp=site/"data/gallery-index.json"
 cat=json.loads(catp.read_text()); gal=json.loads(galp.read_text())
 byid={r["id"]:r for r in cat["entries"]}
@@ -30,7 +30,8 @@ for r in rows:
  try:
   if not re.fullmatch("[a-z0-9-]+",sid):raise ValueError("bad species slug")
   if not re.fullmatch("[a-f0-9]{64}",r["sha256"]):raise ValueError("bad source hash")
-  if r["license"]!="CC BY 4.0":raise ValueError("license not approved for this release")
+  if r["license"] not in {"CC BY 4.0","CC BY-NC 4.0"}:raise ValueError("license not approved for this release")
+  if r["license"]=="CC BY-NC 4.0" and json.loads((site/"data/collection-meta.json").read_text()).get("photo_license_policy",{}).get("noncommercial_educational_use") is not True: raise ValueError("site lacks confirmed noncommercial-use policy")
   url=r["photo_url"]
   if not re.fullmatch(r"https://inaturalist-open-data\.s3\.amazonaws\.com/photos/"+str(pid)+r"/original\.(?:jpg|jpeg)",url):raise ValueError("unexpected media source")
   if oid not in cache:
@@ -44,7 +45,8 @@ for r in rows:
   if len(actual)<2 or actual[:2]!=expected[:2]:raise ValueError("observation taxon disagreement: "+str(actual))
   photo=next((p for p in observation.get("photos",[]) if int(p["id"])==pid),None)
   if not photo:raise ValueError("photo not linked to stated observation")
-  if (photo.get("license_code") or "").lower()!="cc-by":raise ValueError("source photo license mismatch: "+str(photo.get("license_code")))
+  expected_code="cc-by-nc" if r["license"]=="CC BY-NC 4.0" else "cc-by"
+  if (photo.get("license_code") or "").lower().replace("_","-")!=expected_code:raise ValueError("source photo license mismatch: "+str(photo.get("license_code")))
   attribution=(photo.get("attribution") or "").strip()
   if not attribution:raise ValueError("source photographer attribution absent")
   if r["photographer"].casefold() not in attribution.casefold():raise ValueError("photographer differs from original attribution: "+attribution[:100])
@@ -78,14 +80,14 @@ for r,cardp,card,dest,raw,sha,exact,attribution in ready:
  card["verified_photos"].append({
   "src":"media/"+sid+"/"+dest.name,"creator":r["photographer"],
   "source_page":exact,"source_page_is_exact":True,
-  "license":"CC BY 4.0","license_url":"https://creativecommons.org/licenses/by/4.0/",
+  "license":r["license"],"license_url":"https://creativecommons.org/licenses/by-nc/4.0/" if r["license"]=="CC BY-NC 4.0" else "https://creativecommons.org/licenses/by/4.0/",
   "source_blob_sha":sha,"sha256":r["sha256"],"role":"Species photograph",
   "modified":"Original source image; not altered","original_photo_url":r["photo_url"],
   "provider_photo_id":r["photo_id"],"provider_attribution":attribution,
-  "noncommercial_only":False,"private_rights_review_only":False,
+  "noncommercial_only":r["license"]=="CC BY-NC 4.0","private_rights_review_only":False,
   "photo_approval_mode":"OWNER_STANDING_PHOTO_FIRST_POLICY",
   "photo_approved_by":"Owner standing policy, individually checked automated source record",
-  "source_review_evidence":"Exact iNaturalist photo ID, license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
+  "source_review_evidence":"Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
   "taxon_review_evidence":"General-image contact sheet sanity check and exact observation taxon checked against site binomial"
  })
  card["photo_status"]="RELEASED_CC_GALLERY"
