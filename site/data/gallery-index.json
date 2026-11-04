@@ -3,42 +3,42 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 141,
-  "photo_count": 194,
+  "photo_count": 234,
   "entries": {
     "achillea-millefolium": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/achillea-millefolium/01.jpg"
     },
     "acmella-repens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/acmella-repens/01.jpg"
     },
     "acourtia-runcinata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/acourtia-runcinata/source-8c1197fba695.jpg"
     },
     "acourtia-wrightii": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/acourtia-wrightii/01.jpg"
     },
     "ageratina-altissima": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/ageratina-altissima/01.jpg"
     },
     "ageratina-havanensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ageratina-havanensis/01.jpg"
     },
     "amblyolepis-setigera": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/amblyolepis-setigera/01.jpg"
     },
     "ambrosia-artemisiifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ambrosia-artemisiifolia/01.jpg"
     },
     "ambrosia-psilostachya": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/ambrosia-psilostachya/01.jpg"
     },
     "ambrosia-trifida": {

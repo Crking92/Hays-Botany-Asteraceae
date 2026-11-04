@@ -11,7 +11,7 @@
       "genus": "Achillea",
       "path": "content/taxa/Asteraceae/Achillea/achillea-millefolium/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "acmella-repens",
@@ -21,7 +21,7 @@
       "genus": "Acmella",
       "path": "content/taxa/Asteraceae/Acmella/acmella-repens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "acourtia-runcinata",
@@ -31,7 +31,7 @@
       "genus": "Acourtia",
       "path": "content/taxa/Asteraceae/Acourtia/acourtia-runcinata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "acourtia-wrightii",
@@ -41,7 +41,7 @@
       "genus": "Acourtia",
       "path": "content/taxa/Asteraceae/Acourtia/acourtia-wrightii/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 6
     },
     {
       "id": "ageratina-altissima",
@@ -51,7 +51,7 @@
       "genus": "Ageratina",
       "path": "content/taxa/Asteraceae/Ageratina/ageratina-altissima/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 8
     },
     {
       "id": "ageratina-havanensis",
@@ -61,7 +61,7 @@
       "genus": "Ageratina",
       "path": "content/taxa/Asteraceae/Ageratina/ageratina-havanensis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "amblyolepis-setigera",
@@ -71,7 +71,7 @@
       "genus": "Amblyolepis",
       "path": "content/taxa/Asteraceae/Amblyolepis/amblyolepis-setigera/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "ambrosia-artemisiifolia",
@@ -81,7 +81,7 @@
       "genus": "Ambrosia",
       "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-artemisiifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "ambrosia-psilostachya",
@@ -91,7 +91,7 @@
       "genus": "Ambrosia",
       "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "ambrosia-trifida",
