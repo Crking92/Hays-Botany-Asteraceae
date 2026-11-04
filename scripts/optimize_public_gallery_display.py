@@ -77,6 +77,14 @@ def main():
     catalog = json.loads((site / "data/collection-index.json").read_text())
     gallery = json.loads((site / "data/gallery-index.json").read_text())
     assert len(catalog["entries"]) == gallery["species"] == 180
+    previous_report = site / "data/web-display-optimization.json"
+    if previous_report.is_file():
+        previous = json.loads(previous_report.read_text())
+        if previous.get("display_image_count") == gallery["photo_count"]:
+            print("ASTERACEAE_WEB_DISPLAY_ALREADY_OPTIMIZED " +
+                  json.dumps({"photos": gallery["photo_count"],
+                              "media_bytes": previous.get("optimized_media_bytes")}), flush=True)
+            return
     archive = archive_blobs(args.archive_sha)
     assert len(archive) >= gallery["photo_count"], "Archive is missing photographs"
     rows = []
