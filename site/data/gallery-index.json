@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 161,
-  "photo_count": 640,
+  "photo_species": 162,
+  "photo_count": 679,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -302,39 +302,39 @@
       "first_src": "media/gamochaeta-purpurea/inat-188658534.jpg"
     },
     "grindelia-adenodonta": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/grindelia-adenodonta/01.jpg"
     },
     "grindelia-ciliata": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/grindelia-ciliata/01.jpg"
     },
     "grindelia-lanceolata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/grindelia-lanceolata/historical-nc-01-curated-reference.jpg"
     },
     "grindelia-nuda": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/grindelia-nuda/01.jpg"
     },
     "gutierrezia-texana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/gutierrezia-texana/source-fc94db0c5235.jpg"
     },
     "gymnosperma-glutinosum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/gymnosperma-glutinosum/inat-332030551.jpg"
     },
     "helenium-amarum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/helenium-amarum/01.jpg"
     },
     "helenium-autumnale": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/helenium-autumnale/01.jpg"
     },
     "helenium-elegans": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/helenium-elegans/source-656000b30bc7.jpg"
     },
     "helenium-quadridentatum": {
@@ -342,7 +342,7 @@
       "first_src": null
     },
     "helianthus-annuus": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/helianthus-annuus/historical-nc-01-curated-reference.jpg"
     },
     "helianthus-maximiliani": {
