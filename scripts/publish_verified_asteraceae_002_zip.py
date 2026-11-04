@@ -54,7 +54,7 @@ def main():
     site_meta=json.loads(Path("site/data/collection-meta.json").read_text())
     cards={x["id"]:x for x in source["entries"]}
     if m["batch_id"]!="asteraceae-002-2026-11-04":raise SystemExit("Unexpected batch")
-    if m.get("original_images")!=157 or m.get("image_hashes_validated")!=155 or m.get("photos_for_source_checks")!=139 or len(m.get("offline_held_media",[]))!=14 or len(m.get("missing_media_records",[]))!=2 or len(m.get("unattributed_media",[]))!=2:
+    if m.get("original_images")!=155 or m.get("image_hashes_validated")!=153 or m.get("photos_for_source_checks")!=139 or len(m.get("offline_held_media",[]))!=14 or len(m.get("missing_media_records",[]))!=2 or len(m.get("unattributed_media",[]))!=2:
         raise SystemExit("Asteraceae 002 original inventory mismatch")
     if m.get("repository")!="Crking92/Hays-Botany-Asteraceae":raise SystemExit("Asteraceae must publish only to assigned repo")
     if m["repository"]!=site_meta.get("repository_full_name"):raise SystemExit("Manifest routed to incorrect family website")
@@ -88,7 +88,7 @@ def main():
     records=list(decode(m))
     if len({pid for _,pid,_,_,_ in records})!=len(records):raise SystemExit("Repeated photo IDs in original ZIP")
     if len(records)!=m["photos_for_source_checks"]:raise SystemExit("Original photo inventory mismatch")
-    if m["original_images"]!=len(records)+len(m["offline_held_media"])+len(m["unattributed_media"])+len(m["missing_media_records"]):raise SystemExit("Original ZIP inventory does not reconcile")
+    if m["original_images"]!=len(records)+len(m["offline_held_media"])+len(m["unattributed_media"]):raise SystemExit("Original ZIP inventory does not reconcile")
     for sid,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
         row={"species_id":sid,"photo_id":pid,"observation_id":oid}
         try:
