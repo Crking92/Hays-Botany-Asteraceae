@@ -851,7 +851,7 @@
       "genus": "Helianthus",
       "path": "content/taxa/Asteraceae/Helianthus/helianthus-annuus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 6
     },
     {
       "id": "helianthus-maximiliani",
@@ -861,7 +861,7 @@
       "genus": "Helianthus",
       "path": "content/taxa/Asteraceae/Helianthus/helianthus-maximiliani/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "heterotheca-canescens",
@@ -871,7 +871,7 @@
       "genus": "Heterotheca",
       "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-canescens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "heterotheca-stenophylla",
@@ -881,7 +881,7 @@
       "genus": "Heterotheca",
       "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-stenophylla/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "heterotheca-subaxillaris",
@@ -891,7 +891,7 @@
       "genus": "Heterotheca",
       "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-subaxillaris/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "heterotheca-villosa",
@@ -901,7 +901,7 @@
       "genus": "Heterotheca",
       "path": "content/taxa/Asteraceae/Heterotheca/heterotheca-villosa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "hymenopappus-artemisiifolius",
@@ -911,7 +911,7 @@
       "genus": "Hymenopappus",
       "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-artemisiifolius/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 6
     },
     {
       "id": "hymenopappus-scabiosaeus",
@@ -920,8 +920,8 @@
       "family": "Asteraceae",
       "genus": "Hymenopappus",
       "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "hymenopappus-scabiosaeus-var-corymbosus",

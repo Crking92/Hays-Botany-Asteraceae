@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 162,
-  "photo_count": 679,
+  "photo_species": 163,
+  "photo_count": 717,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -342,36 +342,36 @@
       "first_src": null
     },
     "helianthus-annuus": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/helianthus-annuus/historical-nc-01-curated-reference.jpg"
     },
     "helianthus-maximiliani": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/helianthus-maximiliani/historical-nc-01-curated-reference.jpg"
     },
     "heterotheca-canescens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/heterotheca-canescens/01.jpg"
     },
     "heterotheca-stenophylla": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/heterotheca-stenophylla/01.jpg"
     },
     "heterotheca-subaxillaris": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/heterotheca-subaxillaris/01.jpg"
     },
     "heterotheca-villosa": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/heterotheca-villosa/01.jpg"
     },
     "hymenopappus-artemisiifolius": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/hymenopappus-artemisiifolius/01.jpg"
     },
     "hymenopappus-scabiosaeus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/hymenopappus-scabiosaeus/inat-634857995.jpg"
     },
     "hymenopappus-scabiosaeus-var-corymbosus": {
       "count": 1,
