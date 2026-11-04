@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 165,
-  "photo_count": 759,
+  "photo_species": 172,
+  "photo_count": 892,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -534,123 +534,123 @@
       "first_src": "media/sideranthus-spinulosus/01.jpg"
     },
     "sidneya-tenuifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sidneya-tenuifolia/01.jpg"
     },
     "silphium-albiflorum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/silphium-albiflorum/01.jpg"
     },
     "silphium-laciniatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/silphium-laciniatum/01.jpg"
     },
     "silphium-radula": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/silphium-radula/01.jpg"
     },
     "silybum-marianum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/silybum-marianum/inat-636044439.jpg"
     },
     "simsia-calva": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/simsia-calva/01.jpg"
     },
     "solidago-altissima": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/solidago-altissima/historical-nc-01-curated-reference.jpg"
     },
     "solidago-canadensis": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/solidago-canadensis/historical-nc-01-curated-reference.jpg"
     },
     "solidago-gigantea": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/solidago-gigantea/01.jpg"
     },
     "solidago-juliae": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/solidago-juliae/inat-633424534.jpg"
     },
     "solidago-mexicana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/solidago-mexicana/01.jpg"
     },
     "solidago-nemoralis": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/solidago-nemoralis/source-be081c6da1c7.jpg"
     },
     "solidago-radula": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/solidago-radula/inat-722696964.jpg"
     },
     "solidago-rugosa": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/solidago-rugosa/01.jpg"
     },
     "sonchus-asper": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sonchus-asper/01.jpg"
     },
     "sphagneticola-trilobata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/sphagneticola-trilobata/inat-648785537.jpg"
     },
     "symphyotrichum-divaricatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/symphyotrichum-divaricatum/historical-nc-01-curated-reference.jpg"
     },
     "symphyotrichum-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/symphyotrichum-drummondii/inat-624387224.jpg"
     },
     "symphyotrichum-ericoides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/symphyotrichum-ericoides/01.jpg"
     },
     "symphyotrichum-eulae": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/symphyotrichum-eulae/01.jpg"
     },
     "symphyotrichum-lanceolatum-subsp-lanceolatum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/symphyotrichum-lanceolatum-subsp-lanceolatum/historical-nc-gbif-first-5292597146-17ffbf1f72.jpg"
     },
     "symphyotrichum-oblongifolium": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/symphyotrichum-oblongifolium/01.jpg"
     },
     "symphyotrichum-patens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/symphyotrichum-patens/01.jpg"
     },
     "symphyotrichum-praealtum": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/symphyotrichum-praealtum/01.jpg"
     },
     "symphyotrichum-sericeum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/symphyotrichum-sericeum/inat-368316229.jpeg"
     },
     "symphyotrichum-subulatum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/symphyotrichum-subulatum/inat-653237286.jpg"
     },
     "taraxacum-erythrospermum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/taraxacum-erythrospermum/01.jpg"
     },
     "tetragonotheca-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tetragonotheca-texana/01.jpg"
     },
     "tetraneuris-acaulis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tetraneuris-acaulis/01.jpg"
     },
     "tetraneuris-linearifolia": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/tetraneuris-linearifolia/01.jpg"
     },
     "tetraneuris-scaposa": {

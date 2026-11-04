@@ -46,8 +46,30 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/symphyotrichum-praealtum/inat-55832856.jpg",
+      "creator": "aliceceil",
+      "source_page": "https://www.inaturalist.org/photos/55832856",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "64849acf91765e6ed8fdc7dd11c2956648b06f77",
+      "sha256": "e872e323c53339429322498858f92df5c46cae1a6501e61abf915411f20c3d40",
+      "role": "Species photograph",
+      "modified": "Original source image; not altered",
+      "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55832856/original.jpg",
+      "provider_photo_id": 55832856,
+      "provider_attribution": "(c) aliceceil, some rights reserved (CC BY-NC)",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing policy, individually checked automated source record",
+      "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

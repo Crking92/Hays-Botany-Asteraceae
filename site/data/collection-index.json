@@ -1331,7 +1331,7 @@
       "genus": "Sidneya",
       "path": "content/taxa/Asteraceae/Sidneya/sidneya-tenuifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "silphium-albiflorum",
@@ -1341,7 +1341,7 @@
       "genus": "Silphium",
       "path": "content/taxa/Asteraceae/Silphium/silphium-albiflorum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "silphium-laciniatum",
@@ -1351,7 +1351,7 @@
       "genus": "Silphium",
       "path": "content/taxa/Asteraceae/Silphium/silphium-laciniatum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "silphium-radula",
@@ -1361,7 +1361,7 @@
       "genus": "Silphium",
       "path": "content/taxa/Asteraceae/Silphium/silphium-radula/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "silybum-marianum",
@@ -1371,7 +1371,7 @@
       "genus": "Silybum",
       "path": "content/taxa/Asteraceae/Silybum/silybum-marianum/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 5
     },
     {
       "id": "simsia-calva",
@@ -1381,7 +1381,7 @@
       "genus": "Simsia",
       "path": "content/taxa/Asteraceae/Simsia/simsia-calva/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "solidago-altissima",
@@ -1391,7 +1391,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-altissima/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "solidago-canadensis",
@@ -1401,7 +1401,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-canadensis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "solidago-gigantea",
@@ -1411,7 +1411,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-gigantea/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 5
     },
     {
       "id": "solidago-juliae",
@@ -1421,7 +1421,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-juliae/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 4
     },
     {
       "id": "solidago-mexicana",
@@ -1431,7 +1431,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-mexicana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "solidago-nemoralis",
@@ -1441,7 +1441,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-nemoralis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "solidago-radula",
@@ -1451,7 +1451,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-radula/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 4
     },
     {
       "id": "solidago-rugosa",
@@ -1461,7 +1461,7 @@
       "genus": "Solidago",
       "path": "content/taxa/Asteraceae/Solidago/solidago-rugosa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "sonchus-asper",
@@ -1471,7 +1471,7 @@
       "genus": "Sonchus",
       "path": "content/taxa/Asteraceae/Sonchus/sonchus-asper/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "sphagneticola-trilobata",
@@ -1481,7 +1481,7 @@
       "genus": "Sphagneticola",
       "path": "content/taxa/Asteraceae/Sphagneticola/sphagneticola-trilobata/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 5
     },
     {
       "id": "symphyotrichum-divaricatum",
@@ -1491,7 +1491,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-divaricatum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "symphyotrichum-drummondii",
@@ -1501,7 +1501,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-drummondii/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 5
     },
     {
       "id": "symphyotrichum-ericoides",
@@ -1511,7 +1511,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-ericoides/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "symphyotrichum-eulae",
@@ -1521,7 +1521,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-eulae/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "symphyotrichum-lanceolatum-subsp-lanceolatum",
@@ -1531,7 +1531,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-lanceolatum-subsp-lanceolatum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 2
     },
     {
       "id": "symphyotrichum-oblongifolium",
@@ -1541,7 +1541,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-oblongifolium/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "symphyotrichum-patens",
@@ -1551,7 +1551,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-patens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "symphyotrichum-praealtum",
@@ -1561,7 +1561,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-praealtum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 3
     },
     {
       "id": "symphyotrichum-sericeum",
@@ -1571,7 +1571,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-sericeum/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 5
     },
     {
       "id": "symphyotrichum-subulatum",
@@ -1581,7 +1581,7 @@
       "genus": "Symphyotrichum",
       "path": "content/taxa/Asteraceae/Symphyotrichum/symphyotrichum-subulatum/species.json",
       "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_count": 5
     },
     {
       "id": "taraxacum-erythrospermum",
@@ -1591,7 +1591,7 @@
       "genus": "Taraxacum",
       "path": "content/taxa/Asteraceae/Taraxacum/taraxacum-erythrospermum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "tetragonotheca-texana",
@@ -1601,7 +1601,7 @@
       "genus": "Tetragonotheca",
       "path": "content/taxa/Asteraceae/Tetragonotheca/tetragonotheca-texana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "tetraneuris-acaulis",
@@ -1611,7 +1611,7 @@
       "genus": "Tetraneuris",
       "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-acaulis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "tetraneuris-linearifolia",
@@ -1621,7 +1621,7 @@
       "genus": "Tetraneuris",
       "path": "content/taxa/Asteraceae/Tetraneuris/tetraneuris-linearifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "tetraneuris-scaposa",
