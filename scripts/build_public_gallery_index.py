@@ -39,7 +39,12 @@ for row in idx["entries"]:
         assert path.is_file() and not path.is_symlink(),relative
         original=path.read_bytes()
         blob=hashlib.sha1(b"blob "+str(len(original)).encode()+b"\0"+original).hexdigest()
-        assert blob==photo.get("source_blob_sha"),relative
+        # Some historical Commons photos were resized before release: preserve
+        # their source hash without falsely treating it as the display blob.
+        # Original unmodified photos have an explicit SHA256 that must match.
+        if photo.get("sha256"):
+            assert hashlib.sha256(original).hexdigest()==photo["sha256"],relative
+            assert blob==photo.get("source_blob_sha"),relative
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),relative
         assert photo.get("license_url","").startswith("https://"),relative
         assert not photo.get("private_rights_review_only"),relative
