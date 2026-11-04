@@ -1111,7 +1111,7 @@
       "genus": "Packera",
       "path": "content/taxa/Asteraceae/Packera/packera-tampicana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "palafoxia-callosa",
@@ -1120,8 +1120,8 @@
       "family": "Asteraceae",
       "genus": "Palafoxia",
       "path": "content/taxa/Asteraceae/Palafoxia/palafoxia-callosa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "parthenium-confertum",
@@ -1131,7 +1131,7 @@
       "genus": "Parthenium",
       "path": "content/taxa/Asteraceae/Parthenium/parthenium-confertum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "parthenium-hysterophorus",
@@ -1141,7 +1141,7 @@
       "genus": "Parthenium",
       "path": "content/taxa/Asteraceae/Parthenium/parthenium-hysterophorus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "pectis-angustifolia",
@@ -1151,7 +1151,7 @@
       "genus": "Pectis",
       "path": "content/taxa/Asteraceae/Pectis/pectis-angustifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 2
     },
     {
       "id": "pectis-angustifolia-var-fastigiata",
@@ -1171,7 +1171,7 @@
       "genus": "Pinaropappus",
       "path": "content/taxa/Asteraceae/Pinaropappus/pinaropappus-roseus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "plectocephalus-americanus",
@@ -1181,7 +1181,7 @@
       "genus": "Plectocephalus",
       "path": "content/taxa/Asteraceae/Plectocephalus/plectocephalus-americanus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "pluchea-camphorata",
@@ -1190,8 +1190,8 @@
       "family": "Asteraceae",
       "genus": "Pluchea",
       "path": "content/taxa/Asteraceae/Pluchea/pluchea-camphorata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 4
     },
     {
       "id": "pluchea-odorata",
@@ -1200,8 +1200,8 @@
       "family": "Asteraceae",
       "genus": "Pluchea",
       "path": "content/taxa/Asteraceae/Pluchea/pluchea-odorata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "porophyllum-scoparium",
@@ -1210,8 +1210,8 @@
       "family": "Asteraceae",
       "genus": "Porophyllum",
       "path": "content/taxa/Asteraceae/Porophyllum/porophyllum-scoparium/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 1
     },
     {
       "id": "pseudognaphalium-canescens",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 149,
-  "photo_count": 414,
+  "photo_species": 153,
+  "photo_count": 453,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -446,23 +446,23 @@
       "first_src": "media/packera-obovata/01.jpg"
     },
     "packera-tampicana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/packera-tampicana/01.jpg"
     },
     "palafoxia-callosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/palafoxia-callosa/inat-38652622.jpeg"
     },
     "parthenium-confertum": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/parthenium-confertum/01.jpg"
     },
     "parthenium-hysterophorus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/parthenium-hysterophorus/01.jpg"
     },
     "pectis-angustifolia": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/pectis-angustifolia/01.jpg"
     },
     "pectis-angustifolia-var-fastigiata": {
@@ -470,24 +470,24 @@
       "first_src": null
     },
     "pinaropappus-roseus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pinaropappus-roseus/01.jpg"
     },
     "plectocephalus-americanus": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/plectocephalus-americanus/01.jpg"
     },
     "pluchea-camphorata": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/pluchea-camphorata/inat-224290500.jpg"
     },
     "pluchea-odorata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pluchea-odorata/inat-308096649.jpg"
     },
     "porophyllum-scoparium": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/porophyllum-scoparium/inat-631809600.jpg"
     },
     "pseudognaphalium-canescens": {
       "count": 1,
