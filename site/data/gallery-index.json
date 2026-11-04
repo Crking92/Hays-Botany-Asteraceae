@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 165,
-  "photo_count": 753,
+  "photo_count": 759,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -374,7 +374,7 @@
       "first_src": "media/hymenopappus-scabiosaeus/inat-634857995.jpg"
     },
     "hymenopappus-scabiosaeus-var-corymbosus": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/hymenopappus-scabiosaeus-var-corymbosus/01.jpg"
     },
     "hymenopappus-tenuifolius": {
@@ -386,7 +386,7 @@
       "first_src": "media/iva-annua/inat-188305277.jpg"
     },
     "iva-asperifolia-var-angustifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/iva-asperifolia-var-angustifolia/01.jpg"
     },
     "krigia-cespitosa": {

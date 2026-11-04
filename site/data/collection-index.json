@@ -931,7 +931,7 @@
       "genus": "Hymenopappus",
       "path": "content/taxa/Asteraceae/Hymenopappus/hymenopappus-scabiosaeus-var-corymbosus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 4
     },
     {
       "id": "hymenopappus-tenuifolius",
@@ -961,7 +961,7 @@
       "genus": "Iva",
       "path": "content/taxa/Asteraceae/Iva/iva-asperifolia-var-angustifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "krigia-cespitosa",
