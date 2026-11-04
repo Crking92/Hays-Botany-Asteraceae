@@ -8,6 +8,15 @@ on:
       - 'scripts/test_web_display_policy.py'
       - 'scripts/test_approved_photo_intake.py'
       - '.github/workflows/test-approved-photo-intake.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/web_display_policy.py'
+      - 'scripts/test_web_display_policy.py'
+      - 'scripts/verify_automatic_gallery.py'
+      - '.github/workflows/auto-publish-approved-photos.yml'
+      - '.github/workflows/test-approved-photo-intake.yml'
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
