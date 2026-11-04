@@ -55,13 +55,13 @@ def validate(site):
     assert paths==files,{"orphan":sorted(files-paths)[:5],"missing":sorted(paths-files)[:5]}
     assert gal["photo_count"]==photo_total and gal["photo_species"]==photo_species
     site_bytes=sum(p.stat().st_size for p in site.rglob("*") if p.is_file())
-    if site_bytes >= 800_000_000:
+    if site_bytes >= 750_000_000:
         print(json.dumps({"status":"ASTERACEAE_PUBLIC_SITE_SIZE_WARNING",
-                          "site_bytes":site_bytes, "warning_bytes":800_000_000}))
+                          "site_bytes":site_bytes, "warning_bytes":750_000_000}))
     # Before the first optimization we allow the existing oversized release to be
     # checked; afterward enforce a hard ceiling before publishing future batches.
     if (data/"web-display-optimization.json").exists():
-        assert site_bytes <= 950_000_000, (
+        assert site_bytes <= 850_000_000, (
             "PUBLIC_WEBSITE_SIZE_GUARD: optimize new images before publishing",site_bytes)
     print(json.dumps({"status":"PASS_GROWING_FAMILY_GALLERY","species":len(ids),
                       "photos":photo_total,"photographed_species":photo_species,
