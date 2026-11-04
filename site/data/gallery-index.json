@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 145,
-  "photo_count": 375,
+  "photo_species": 149,
+  "photo_count": 414,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -414,35 +414,35 @@
       "first_src": "media/leontodon-rhagadioloides/01.jpg"
     },
     "liatris-punctata": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/liatris-punctata/inat-314841546.jpg"
     },
     "lindheimera-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lindheimera-texana/source-2658023fd566.jpg"
     },
     "lygodesmia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lygodesmia-texana/inat-634546302.jpg"
     },
     "marshallia-caespitosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/marshallia-caespitosa/inat-627874042.jpg"
     },
     "melampodium-leucanthum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/melampodium-leucanthum/inat-621941394.jpg"
     },
     "mikania-scandens": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/mikania-scandens/01.jpg"
     },
     "packera-glabella": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/packera-glabella/01.jpg"
     },
     "packera-obovata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/packera-obovata/01.jpg"
     },
     "packera-tampicana": {

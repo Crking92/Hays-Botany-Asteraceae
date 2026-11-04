@@ -1030,8 +1030,8 @@
       "family": "Asteraceae",
       "genus": "Liatris",
       "path": "content/taxa/Asteraceae/Liatris/liatris-punctata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 4
     },
     {
       "id": "lindheimera-texana",
@@ -1041,7 +1041,7 @@
       "genus": "Lindheimera",
       "path": "content/taxa/Asteraceae/Lindheimera/lindheimera-texana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "lygodesmia-texana",
@@ -1050,8 +1050,8 @@
       "family": "Asteraceae",
       "genus": "Lygodesmia",
       "path": "content/taxa/Asteraceae/Lygodesmia/lygodesmia-texana/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "marshallia-caespitosa",
@@ -1060,8 +1060,8 @@
       "family": "Asteraceae",
       "genus": "Marshallia",
       "path": "content/taxa/Asteraceae/Marshallia/marshallia-caespitosa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "melampodium-leucanthum",
@@ -1070,8 +1070,8 @@
       "family": "Asteraceae",
       "genus": "Melampodium",
       "path": "content/taxa/Asteraceae/Melampodium/melampodium-leucanthum/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "mikania-scandens",
@@ -1081,7 +1081,7 @@
       "genus": "Mikania",
       "path": "content/taxa/Asteraceae/Mikania/mikania-scandens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "packera-glabella",
@@ -1091,7 +1091,7 @@
       "genus": "Packera",
       "path": "content/taxa/Asteraceae/Packera/packera-glabella/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "packera-obovata",
@@ -1101,7 +1101,7 @@
       "genus": "Packera",
       "path": "content/taxa/Asteraceae/Packera/packera-obovata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "packera-tampicana",
