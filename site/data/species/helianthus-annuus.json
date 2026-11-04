@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c6374185d2634aaecf57c1c4090956e20a6fe79",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350641667, photo 639799021, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 054905624c0cb7b686f3cddb754b2eec9fb3603c96cfd1d092bc1b9548390b7a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus annuus agrees with indexed species helianthus-annuus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "054905624c0cb7b686f3cddb754b2eec9fb3603c96cfd1d092bc1b9548390b7a"
+      "sha256": "054905624c0cb7b686f3cddb754b2eec9fb3603c96cfd1d092bc1b9548390b7a",
+      "display_sha256": "ff7e505e7863b1e34c985da228a972e38ae57ca672ae53231853d1e950501677",
+      "display_blob_sha": "b6f2a3574bb8635f0f0f8bcbf17f1a7fea3df8ba",
+      "display_original_site_sha256": "054905624c0cb7b686f3cddb754b2eec9fb3603c96cfd1d092bc1b9548390b7a",
+      "display_original_blob_sha": "8c6374185d2634aaecf57c1c4090956e20a6fe79",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 718517
     },
     {
       "src": "media/helianthus-annuus/inat-639834518.jpg",
@@ -99,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9c588a9f37b1f87e09d58b9c3fac396ac8e3f4c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350644848, photo 639834518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c41292e18914318c33bc0d8af62fda8dc2b596164a91d9a8588e99af49c10f30. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus annuus agrees with indexed species helianthus-annuus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c41292e18914318c33bc0d8af62fda8dc2b596164a91d9a8588e99af49c10f30"
+      "sha256": "c41292e18914318c33bc0d8af62fda8dc2b596164a91d9a8588e99af49c10f30",
+      "display_sha256": "7a8bad12e214bac74a357c9731b4ad199f6d707cc0435dde60ce3b28cf3bb0a7",
+      "display_blob_sha": "dfcadfb5f475a024597cfa60c7b0506082d1a478",
+      "display_original_site_sha256": "c41292e18914318c33bc0d8af62fda8dc2b596164a91d9a8588e99af49c10f30",
+      "display_original_blob_sha": "9c588a9f37b1f87e09d58b9c3fac396ac8e3f4c6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 560685
     },
     {
       "src": "media/helianthus-annuus/inat-648840937.jpg",
@@ -118,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "77acc5628604e34ae8f5c89fb86dedd1d554fa75",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355795069, photo 648840937, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a15d09ec1b06ec65401c945b1458920ff54949d55357a59ec2dcc1f22c96c142. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus annuus agrees with indexed species helianthus-annuus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a15d09ec1b06ec65401c945b1458920ff54949d55357a59ec2dcc1f22c96c142"
+      "sha256": "a15d09ec1b06ec65401c945b1458920ff54949d55357a59ec2dcc1f22c96c142",
+      "display_sha256": "631cddff02d07fab2e2d111e991b13c0196cac59bcfc427e8347443298322172",
+      "display_blob_sha": "6557f7e39586299e6886cb90e9037dc4fd45414f",
+      "display_original_site_sha256": "a15d09ec1b06ec65401c945b1458920ff54949d55357a59ec2dcc1f22c96c142",
+      "display_original_blob_sha": "77acc5628604e34ae8f5c89fb86dedd1d554fa75",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 676646
     },
     {
       "src": "media/helianthus-annuus/inat-649383921.jpg",
@@ -137,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48cfe1d72775de7a0c0571260c2730c5c85a6033",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +178,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356099350, photo 649383921, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 84720c0ca64e19430b1b57870fc672404516813bda212929c1677e33baf2f5f2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus annuus agrees with indexed species helianthus-annuus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "84720c0ca64e19430b1b57870fc672404516813bda212929c1677e33baf2f5f2"
+      "sha256": "84720c0ca64e19430b1b57870fc672404516813bda212929c1677e33baf2f5f2",
+      "display_sha256": "b113d985211526ad0bfac4fa8eb14cca667dced8fdc2a018cb20f3d972f61575",
+      "display_blob_sha": "e8c1f88a7106dffac50f8bfc3313278bdfba2fee",
+      "display_original_site_sha256": "84720c0ca64e19430b1b57870fc672404516813bda212929c1677e33baf2f5f2",
+      "display_original_blob_sha": "48cfe1d72775de7a0c0571260c2730c5c85a6033",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 707673
     },
     {
       "src": "media/helianthus-annuus/inat-650459073.jpg",
@@ -156,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69020fd2c5716130af6c658d31a61c798a80b9e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +208,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356674776, photo 650459073, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 12f58278a044c35322465e833ee94c972c7cb07d7af1ce9a3445ab6a7743a135. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus annuus agrees with indexed species helianthus-annuus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "12f58278a044c35322465e833ee94c972c7cb07d7af1ce9a3445ab6a7743a135"
+      "sha256": "12f58278a044c35322465e833ee94c972c7cb07d7af1ce9a3445ab6a7743a135",
+      "display_sha256": "4ac5f0da8894683f1df8882c4c7acf74925d59cf1d49a5c4d2399ff2d7e34ed9",
+      "display_blob_sha": "f5fb79b55e171c6ddc4f2235d7a4f233f403c905",
+      "display_original_site_sha256": "12f58278a044c35322465e833ee94c972c7cb07d7af1ce9a3445ab6a7743a135",
+      "display_original_blob_sha": "69020fd2c5716130af6c658d31a61c798a80b9e2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 771607
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

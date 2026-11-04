@@ -45,7 +45,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "218f29d30270a7981e2bbf1c90d0c9423a5ec69e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -53,7 +53,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345575886, photo 629804710, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bcc3b4711bcc8a84757cef71a2c8aec9a5f3898d17e565740310af35aa862e63. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia amplexicaulis maps to indexed species rudbeckia-amplexicaulis (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "bcc3b4711bcc8a84757cef71a2c8aec9a5f3898d17e565740310af35aa862e63"
+      "sha256": "bcc3b4711bcc8a84757cef71a2c8aec9a5f3898d17e565740310af35aa862e63",
+      "display_sha256": "f40032c2e3f2b32d25f0e4535fe524a1737640052f41fa902fa56c8242769266",
+      "display_blob_sha": "a43f8a05e765b04d08575dd242343b2cd0a5d382",
+      "display_original_site_sha256": "bcc3b4711bcc8a84757cef71a2c8aec9a5f3898d17e565740310af35aa862e63",
+      "display_original_blob_sha": "218f29d30270a7981e2bbf1c90d0c9423a5ec69e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 674461
     },
     {
       "src": "media/rudbeckia-amplexicaulis/inat-632616634.jpg",
@@ -64,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17ab52b4d25bdb9e8ebbe19e55a3465ef5257714",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +83,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346998966, photo 632616634, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ae195b2dbd6c113baf4353436586212abd4f0e6e676c2310ef071177b5bde406. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia amplexicaulis maps to indexed species rudbeckia-amplexicaulis (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "ae195b2dbd6c113baf4353436586212abd4f0e6e676c2310ef071177b5bde406"
+      "sha256": "ae195b2dbd6c113baf4353436586212abd4f0e6e676c2310ef071177b5bde406",
+      "display_sha256": "d60329816079c128d268742d6ef25bfbc295a0c9052e814613f376a83284c6af",
+      "display_blob_sha": "bf6ce443f26dff102aa08adbf81157abdf84659f",
+      "display_original_site_sha256": "ae195b2dbd6c113baf4353436586212abd4f0e6e676c2310ef071177b5bde406",
+      "display_original_blob_sha": "17ab52b4d25bdb9e8ebbe19e55a3465ef5257714",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 628026
     },
     {
       "src": "media/rudbeckia-amplexicaulis/inat-634860849.jpg",
@@ -83,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cb3204002caa75d3d51056b43239504618c35fd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +113,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348130219, photo 634860849, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3fbbd272bf668ed6bc6b5c0d43c93782062ad2711b9c2744e96338c0e1f0e842. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia amplexicaulis maps to indexed species rudbeckia-amplexicaulis (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "3fbbd272bf668ed6bc6b5c0d43c93782062ad2711b9c2744e96338c0e1f0e842"
+      "sha256": "3fbbd272bf668ed6bc6b5c0d43c93782062ad2711b9c2744e96338c0e1f0e842",
+      "display_sha256": "34f0a4f5a1a40103cc3ae4817767688b267871d6b0d9a6e35320af9c2e6c70bd",
+      "display_blob_sha": "1a5a163b1c1f6ca03db27ada668dab8e09e6ec6b",
+      "display_original_site_sha256": "3fbbd272bf668ed6bc6b5c0d43c93782062ad2711b9c2744e96338c0e1f0e842",
+      "display_original_blob_sha": "8cb3204002caa75d3d51056b43239504618c35fd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 456456
     },
     {
       "src": "media/rudbeckia-amplexicaulis/inat-637269235.jpg",
@@ -102,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4fdd98399e45b1bb414acef9a9691d63c047548a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +143,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349351117, photo 637269235, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6f03e97e600e0f920b61226b9e1544d39c31c664857ef288d60ad68f3f3c68b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia amplexicaulis maps to indexed species rudbeckia-amplexicaulis (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "f6f03e97e600e0f920b61226b9e1544d39c31c664857ef288d60ad68f3f3c68b"
+      "sha256": "f6f03e97e600e0f920b61226b9e1544d39c31c664857ef288d60ad68f3f3c68b",
+      "display_sha256": "33c21f6a802717baf9b4f33e1a59389c79d8eec6b1f71019bc5a5c674a0a43ac",
+      "display_blob_sha": "5879b7acbd33b3d6c94651c0513f02b98877d94a",
+      "display_original_site_sha256": "f6f03e97e600e0f920b61226b9e1544d39c31c664857ef288d60ad68f3f3c68b",
+      "display_original_blob_sha": "4fdd98399e45b1bb414acef9a9691d63c047548a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 690357
     },
     {
       "src": "media/rudbeckia-amplexicaulis/inat-645375348.jpg",
@@ -121,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "72d972338625481d523a36d04818698876091af7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +173,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353597677, photo 645375348, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5634bfb20bf58e9804b7071bbfbf5760831f487fb6dfc016bb7615422ff75e40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia amplexicaulis maps to indexed species rudbeckia-amplexicaulis (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "5634bfb20bf58e9804b7071bbfbf5760831f487fb6dfc016bb7615422ff75e40"
+      "sha256": "5634bfb20bf58e9804b7071bbfbf5760831f487fb6dfc016bb7615422ff75e40",
+      "display_sha256": "32cba332306fa38a2d387916621192f19f5c91212f79301d5ae18d7ecc30f9c8",
+      "display_blob_sha": "f49c2ac1914c82d1bf99c13ccc28963f3cfa57a7",
+      "display_original_site_sha256": "5634bfb20bf58e9804b7071bbfbf5760831f487fb6dfc016bb7615422ff75e40",
+      "display_original_blob_sha": "72d972338625481d523a36d04818698876091af7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 512440
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

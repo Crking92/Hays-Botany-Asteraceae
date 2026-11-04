@@ -48,7 +48,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "189db0ce205622ee93204e5e7a358f99731cf1ac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -56,7 +56,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 207847532, photo 367688453, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 388e77b5424823dff73f9d50115b9494290f5dc12b02bb27fbc30b179af8ff40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca canescens agrees with indexed species heterotheca-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "388e77b5424823dff73f9d50115b9494290f5dc12b02bb27fbc30b179af8ff40"
+      "sha256": "388e77b5424823dff73f9d50115b9494290f5dc12b02bb27fbc30b179af8ff40",
+      "display_sha256": "caf2ff6b3f5338ee0d52b4ba85cadcc64839cff156b3506414ece788da39c10b",
+      "display_blob_sha": "988e96069d1fe83586d9a124d9d84ec39b378ad0",
+      "display_original_site_sha256": "388e77b5424823dff73f9d50115b9494290f5dc12b02bb27fbc30b179af8ff40",
+      "display_original_blob_sha": "189db0ce205622ee93204e5e7a358f99731cf1ac",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1313
+      ],
+      "display_bytes": 696193
     },
     {
       "src": "media/heterotheca-canescens/inat-376699395.jpeg",
@@ -67,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2683b00e9c0e24a2f9fb22f4873331dc363bc0da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +86,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 213157767, photo 376699395, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d62fd4454db0648babf6cd78f3b61f9b5a8434026917174df18d61cc65b8368c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca canescens agrees with indexed species heterotheca-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d62fd4454db0648babf6cd78f3b61f9b5a8434026917174df18d61cc65b8368c"
+      "sha256": "d62fd4454db0648babf6cd78f3b61f9b5a8434026917174df18d61cc65b8368c",
+      "display_sha256": "8c6676eab1a604284dec99197c1bf56f25873e04377310db74eb60f41e9c7960",
+      "display_blob_sha": "e9046a1283eacaab20b3b5f975e00e031edc2730",
+      "display_original_site_sha256": "d62fd4454db0648babf6cd78f3b61f9b5a8434026917174df18d61cc65b8368c",
+      "display_original_blob_sha": "2683b00e9c0e24a2f9fb22f4873331dc363bc0da",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 720617
     },
     {
       "src": "media/heterotheca-canescens/inat-494823099.jpg",
@@ -86,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b8c664aa18f0b8d2283a48e46e88680f8c777c8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +116,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275354930, photo 494823099, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0bc983f94d1d63c92a58e05c5930a1b581444d9c90563fccbec1b73ec008ddee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca canescens agrees with indexed species heterotheca-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0bc983f94d1d63c92a58e05c5930a1b581444d9c90563fccbec1b73ec008ddee"
+      "sha256": "0bc983f94d1d63c92a58e05c5930a1b581444d9c90563fccbec1b73ec008ddee",
+      "display_sha256": "7df7a5f7de25761f3ccae0134f753b7c7f74ec5da778a4c3e751fbaffd60a564",
+      "display_blob_sha": "fa59b54c01fa63f75c03e0396d36d057401eaa5b",
+      "display_original_site_sha256": "0bc983f94d1d63c92a58e05c5930a1b581444d9c90563fccbec1b73ec008ddee",
+      "display_original_blob_sha": "b8c664aa18f0b8d2283a48e46e88680f8c777c8d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 596132
     },
     {
       "src": "media/heterotheca-canescens/inat-494823507.jpg",
@@ -105,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "360295a0ad06a8aec5c4dfc152eba1f39901e5ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +146,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275355177, photo 494823507, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 905b86bdc064b8665dab48b3feb1181fff6f7bc8df5e2bc408d2511eeac3bd28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca canescens agrees with indexed species heterotheca-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "905b86bdc064b8665dab48b3feb1181fff6f7bc8df5e2bc408d2511eeac3bd28"
+      "sha256": "905b86bdc064b8665dab48b3feb1181fff6f7bc8df5e2bc408d2511eeac3bd28",
+      "display_sha256": "dd5803ce8981212f5c3017c2e4eb3f7d63d3ffb945a077c8a5651d7e9436884c",
+      "display_blob_sha": "7bf57d95a0645396fa76139462245a3563ccea09",
+      "display_original_site_sha256": "905b86bdc064b8665dab48b3feb1181fff6f7bc8df5e2bc408d2511eeac3bd28",
+      "display_original_blob_sha": "360295a0ad06a8aec5c4dfc152eba1f39901e5ec",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 756694
     },
     {
       "src": "media/heterotheca-canescens/inat-633235369.jpg",
@@ -124,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d071ea31020e81a9c3da34403c1b046618d9d1cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +176,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347311155, photo 633235369, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c983f13e6f709267e52bd89eef4269ce2ef67b6d32b50c1f19f93019de45ec4e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca canescens agrees with indexed species heterotheca-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c983f13e6f709267e52bd89eef4269ce2ef67b6d32b50c1f19f93019de45ec4e"
+      "sha256": "c983f13e6f709267e52bd89eef4269ce2ef67b6d32b50c1f19f93019de45ec4e",
+      "display_sha256": "6c265c9fcfc84795717593d701afb0ef5ce9502147db2390003c811c97e7c099",
+      "display_blob_sha": "58d797c3013bbf0f5de216207edf8b164db3e7be",
+      "display_original_site_sha256": "c983f13e6f709267e52bd89eef4269ce2ef67b6d32b50c1f19f93019de45ec4e",
+      "display_original_blob_sha": "d071ea31020e81a9c3da34403c1b046618d9d1cb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 655935
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

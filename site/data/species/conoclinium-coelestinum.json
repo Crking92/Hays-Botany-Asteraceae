@@ -97,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c879e9d65e4782984c9a69fa1d58c1916eff9f2c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +105,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 79726066, photo 130609186, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6c3502ff21290ab34bad2629a068e3ab412a7936b2e4ffbc924393e43099af1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium coelestinum agrees with indexed species conoclinium-coelestinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a6c3502ff21290ab34bad2629a068e3ab412a7936b2e4ffbc924393e43099af1"
+      "sha256": "a6c3502ff21290ab34bad2629a068e3ab412a7936b2e4ffbc924393e43099af1",
+      "display_sha256": "02fe1861f91a9a9b7895412128c0cebf26e82e55dd8b9ebc767087b51761b960",
+      "display_blob_sha": "fbd016a90206aa4d894188c2a104903067aa20ea",
+      "display_original_site_sha256": "a6c3502ff21290ab34bad2629a068e3ab412a7936b2e4ffbc924393e43099af1",
+      "display_original_blob_sha": "c879e9d65e4782984c9a69fa1d58c1916eff9f2c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 462705
     },
     {
       "src": "media/conoclinium-coelestinum/inat-272603663.jpg",
@@ -116,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "21a6b87f289b30af557f5c956b47e28e487c0a35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 157686343, photo 272603663, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 864962845285181915d8d94fc92e474460159b8242d45974e7ae3f858236b508. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium coelestinum agrees with indexed species conoclinium-coelestinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "864962845285181915d8d94fc92e474460159b8242d45974e7ae3f858236b508"
+      "sha256": "864962845285181915d8d94fc92e474460159b8242d45974e7ae3f858236b508",
+      "display_sha256": "321dc5faf390acff921582d1dd9a815dcb0d359e1219465b0fa4dceccd99ba4d",
+      "display_blob_sha": "f9ffb3af8363c038dfe72b14d4d94d6340bc45fa",
+      "display_original_site_sha256": "864962845285181915d8d94fc92e474460159b8242d45974e7ae3f858236b508",
+      "display_original_blob_sha": "21a6b87f289b30af557f5c956b47e28e487c0a35",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 759851
     },
     {
       "src": "media/conoclinium-coelestinum/inat-278813345.jpg",
@@ -135,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8de96b4472bceb80674f6d53b10f1a06bece61c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +165,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 161310262, photo 278813345, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e52732ff59d698bf7dcea66f7658b7594bdc40dc2ff214ac38af10bd3e986aa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium coelestinum agrees with indexed species conoclinium-coelestinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9e52732ff59d698bf7dcea66f7658b7594bdc40dc2ff214ac38af10bd3e986aa"
+      "sha256": "9e52732ff59d698bf7dcea66f7658b7594bdc40dc2ff214ac38af10bd3e986aa",
+      "display_sha256": "cf5f447a1b6fa3ad56499f87e7c4e4f8c75d2ec3e25ec26a82ea46ec64dcbabc",
+      "display_blob_sha": "994db59bbcc639f7e40b0cf7085e2b6526c36601",
+      "display_original_site_sha256": "9e52732ff59d698bf7dcea66f7658b7594bdc40dc2ff214ac38af10bd3e986aa",
+      "display_original_blob_sha": "c8de96b4472bceb80674f6d53b10f1a06bece61c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 657619
     },
     {
       "src": "media/conoclinium-coelestinum/inat-396305071.jpg",
@@ -154,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "df4926382831ed13b963ebdcd03fabd1109c00cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -162,7 +195,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 219652059, photo 396305071, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18e37b9003cd48f3f1bff46d8f463ded8d14f983cb06ee9a6bf55ad2082a374a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium coelestinum agrees with indexed species conoclinium-coelestinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "18e37b9003cd48f3f1bff46d8f463ded8d14f983cb06ee9a6bf55ad2082a374a"
+      "sha256": "18e37b9003cd48f3f1bff46d8f463ded8d14f983cb06ee9a6bf55ad2082a374a",
+      "display_sha256": "96e10f9dce0fd4158f0eab386632c6962250c35c7d9629ce84ec36f122181d2e",
+      "display_blob_sha": "0098413fec3d3d71f97dc48c80c863e9bf9012bc",
+      "display_original_site_sha256": "18e37b9003cd48f3f1bff46d8f463ded8d14f983cb06ee9a6bf55ad2082a374a",
+      "display_original_blob_sha": "df4926382831ed13b963ebdcd03fabd1109c00cf",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 487194
     },
     {
       "src": "media/conoclinium-coelestinum/inat-7146120.jpg",
@@ -173,7 +217,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e7c99d340176b84b9acb8804c5c9b0ff8d25952",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -181,7 +225,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 5757978, photo 7146120, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19a0ddd594d84c1db844747fa86d19ad34e3afb80e8fb9f5352f394fc393612b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium coelestinum agrees with indexed species conoclinium-coelestinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "19a0ddd594d84c1db844747fa86d19ad34e3afb80e8fb9f5352f394fc393612b"
+      "sha256": "19a0ddd594d84c1db844747fa86d19ad34e3afb80e8fb9f5352f394fc393612b",
+      "display_sha256": "6f02abad5212fc0f7c0f3688e642bee60e772a8eb54225f5c40a56eb46fefccd",
+      "display_blob_sha": "ebab2de348fb4b924841e1c6903f13f25f4633dd",
+      "display_original_site_sha256": "19a0ddd594d84c1db844747fa86d19ad34e3afb80e8fb9f5352f394fc393612b",
+      "display_original_blob_sha": "2e7c99d340176b84b9acb8804c5c9b0ff8d25952",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 768995
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

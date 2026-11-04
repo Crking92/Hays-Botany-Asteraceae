@@ -54,7 +54,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89017a308eda73ebd5983c2ed31e736eb63d1fdf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -62,7 +62,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 76221245, photo 124689947, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f08404af1c269e4fa7b9fd0635643748b5a3be1012624e8b47c3572764e16eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia maxima maps to indexed species rudbeckia-maxima (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "9f08404af1c269e4fa7b9fd0635643748b5a3be1012624e8b47c3572764e16eb"
+      "sha256": "9f08404af1c269e4fa7b9fd0635643748b5a3be1012624e8b47c3572764e16eb",
+      "display_sha256": "99662f1612d7bba6e4906b48d7b9577fa008f0c80db4805694ded9e1946825fe",
+      "display_blob_sha": "262475f6539ef07ff88f04a153cdfdbbf425dab5",
+      "display_original_site_sha256": "9f08404af1c269e4fa7b9fd0635643748b5a3be1012624e8b47c3572764e16eb",
+      "display_original_blob_sha": "89017a308eda73ebd5983c2ed31e736eb63d1fdf",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 763844
     },
     {
       "src": "media/rudbeckia-maxima/inat-377930848.jpeg",
@@ -73,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abf13b1fce10790e2f32301b8883e2d4545a06c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +92,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 213840441, photo 377930848, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa969692f5008e613853fe213d705bfa221c2c4756d38de70729714d7744c96a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia maxima maps to indexed species rudbeckia-maxima (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "fa969692f5008e613853fe213d705bfa221c2c4756d38de70729714d7744c96a"
+      "sha256": "fa969692f5008e613853fe213d705bfa221c2c4756d38de70729714d7744c96a",
+      "display_sha256": "f2d256056de515aba78898c17bf9c4542846ad520cc8aad9702b2ca9aeff7b5c",
+      "display_blob_sha": "fc364c0d4f97ec87bbfbbf938978e3312da68b09",
+      "display_original_site_sha256": "fa969692f5008e613853fe213d705bfa221c2c4756d38de70729714d7744c96a",
+      "display_original_blob_sha": "abf13b1fce10790e2f32301b8883e2d4545a06c5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 389780
     },
     {
       "src": "media/rudbeckia-maxima/inat-380182504.jpeg",
@@ -92,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5cfcacc6da3b3ec01528ec81b7eb257d7de31f81",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +122,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 215057909, photo 380182504, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9051d7a212b394dd62ef2f72d2f072cf9fbb1a6e68fa4a5bf205b7ee38f85d33. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia maxima maps to indexed species rudbeckia-maxima (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "9051d7a212b394dd62ef2f72d2f072cf9fbb1a6e68fa4a5bf205b7ee38f85d33"
+      "sha256": "9051d7a212b394dd62ef2f72d2f072cf9fbb1a6e68fa4a5bf205b7ee38f85d33",
+      "display_sha256": "720c47f8b5b240e2e0c02ac6d574456ab0299711cdec5b15f4b2e7ea4d17e700",
+      "display_blob_sha": "c140cdcfb13c23ab65737c4a540e720851ae9e4d",
+      "display_original_site_sha256": "9051d7a212b394dd62ef2f72d2f072cf9fbb1a6e68fa4a5bf205b7ee38f85d33",
+      "display_original_blob_sha": "5cfcacc6da3b3ec01528ec81b7eb257d7de31f81",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 631202
     },
     {
       "src": "media/rudbeckia-maxima/inat-40078714.jpeg",
@@ -111,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7da59a66ac9e9fd4ce784d6bcce2b7c3514cedcf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +152,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 25847605, photo 40078714, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3320d7d3bb5a3d6781f906c3d51963fc4f609d486af34869dd6255dd7cb2ac34. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia maxima maps to indexed species rudbeckia-maxima (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "3320d7d3bb5a3d6781f906c3d51963fc4f609d486af34869dd6255dd7cb2ac34"
+      "sha256": "3320d7d3bb5a3d6781f906c3d51963fc4f609d486af34869dd6255dd7cb2ac34",
+      "display_sha256": "3a6d3542c324b6edaf5373ea25c3372db2695247bea6bee27894c82699e15557",
+      "display_blob_sha": "fcdeedb2f453b80852a17f2e27ff0ff9a6e43e1f",
+      "display_original_site_sha256": "3320d7d3bb5a3d6781f906c3d51963fc4f609d486af34869dd6255dd7cb2ac34",
+      "display_original_blob_sha": "7da59a66ac9e9fd4ce784d6bcce2b7c3514cedcf",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 684813
     },
     {
       "src": "media/rudbeckia-maxima/inat-667562032.jpg",
@@ -130,7 +174,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "acb49d9d5170f02072b781f5c48673451bf1afbe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +182,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365624480, photo 667562032, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e328d3460a6e33aae53900706bd7ed8e324e9fe49071aa1f0ccaf36cfee91378. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia maxima maps to indexed species rudbeckia-maxima (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e328d3460a6e33aae53900706bd7ed8e324e9fe49071aa1f0ccaf36cfee91378"
+      "sha256": "e328d3460a6e33aae53900706bd7ed8e324e9fe49071aa1f0ccaf36cfee91378",
+      "display_sha256": "b7dd8a064f18a064c14168d7ce5be7e356acc2a83f88a1245536b17bdb46f256",
+      "display_blob_sha": "acca811783b0539e959162145739f16bf01f3325",
+      "display_original_site_sha256": "e328d3460a6e33aae53900706bd7ed8e324e9fe49071aa1f0ccaf36cfee91378",
+      "display_original_blob_sha": "acb49d9d5170f02072b781f5c48673451bf1afbe",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 420077
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

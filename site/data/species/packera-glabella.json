@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc135ae27bfc08712051d583125dc06bfdc5c878",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 116763522, photo 197127017, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c1a6a654a4b61f01c48d686116e746beda2a27469362c181a0bbadaa59a309cf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera glabella maps to indexed species packera-glabella (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "c1a6a654a4b61f01c48d686116e746beda2a27469362c181a0bbadaa59a309cf"
+      "sha256": "c1a6a654a4b61f01c48d686116e746beda2a27469362c181a0bbadaa59a309cf",
+      "display_sha256": "12ddbb92b9ebd1cda008f9f616b26847a6bb515c2360b048e191192199ac89dd",
+      "display_blob_sha": "a5ad1352185e40ccf26948ef9b73ba4100835663",
+      "display_original_site_sha256": "c1a6a654a4b61f01c48d686116e746beda2a27469362c181a0bbadaa59a309cf",
+      "display_original_blob_sha": "bc135ae27bfc08712051d583125dc06bfdc5c878",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 773148
     },
     {
       "src": "media/packera-glabella/inat-259742999.jpg",
@@ -91,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d77e15482aa89e2aa7170168b34013d6bcce1db",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +110,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 150417187, photo 259742999, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77272388d2a65231439dc4cecbd5d1206e2214db817ca1b396a4e6ddcf69f87a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera glabella maps to indexed species packera-glabella (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "77272388d2a65231439dc4cecbd5d1206e2214db817ca1b396a4e6ddcf69f87a"
+      "sha256": "77272388d2a65231439dc4cecbd5d1206e2214db817ca1b396a4e6ddcf69f87a",
+      "display_sha256": "2dfc243c4e7428ba9afa30650f8fb52d127dfc79294584b2dbaba19e15ff3eab",
+      "display_blob_sha": "2dd6dbdd0402b09295c5d31fac4e8d45c94908a8",
+      "display_original_site_sha256": "77272388d2a65231439dc4cecbd5d1206e2214db817ca1b396a4e6ddcf69f87a",
+      "display_original_blob_sha": "3d77e15482aa89e2aa7170168b34013d6bcce1db",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 752211
     },
     {
       "src": "media/packera-glabella/inat-65186033.jpg",
@@ -110,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e023b237af040bb637022799c0b862214ab95d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +140,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 41109364, photo 65186033, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8281ba8af235fe56955bfe33a0d21d508e4322e5db9ed1fc88d7caaa21cd8db6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera glabella maps to indexed species packera-glabella (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "8281ba8af235fe56955bfe33a0d21d508e4322e5db9ed1fc88d7caaa21cd8db6"
+      "sha256": "8281ba8af235fe56955bfe33a0d21d508e4322e5db9ed1fc88d7caaa21cd8db6",
+      "display_sha256": "226b6fd06f65a3e04eba4a81c44f958f4492aff2a478aacbbcaf1fa4b177ab07",
+      "display_blob_sha": "152e5e2f095bcc0295dfb2f2fcb364a19e21acd6",
+      "display_original_site_sha256": "8281ba8af235fe56955bfe33a0d21d508e4322e5db9ed1fc88d7caaa21cd8db6",
+      "display_original_blob_sha": "4e023b237af040bb637022799c0b862214ab95d9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 501633
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

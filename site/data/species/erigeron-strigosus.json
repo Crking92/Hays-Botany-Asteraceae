@@ -102,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc6bdbfd24c38d5073b9963075aef3b3816cc666",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +110,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271851696, photo 489036271, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e36981391153b2a7ee94a5f5099c4a7852d2076186be50ab765510b384834ae7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron strigosus agrees with indexed species erigeron-strigosus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e36981391153b2a7ee94a5f5099c4a7852d2076186be50ab765510b384834ae7"
+      "sha256": "e36981391153b2a7ee94a5f5099c4a7852d2076186be50ab765510b384834ae7",
+      "display_sha256": "8ceb2d337dc22dbd88366ef1a017f950177179389e30d9f5d796389040128241",
+      "display_blob_sha": "37b0b6f8ed146b411e01f210ebf381c27a8af370",
+      "display_original_site_sha256": "e36981391153b2a7ee94a5f5099c4a7852d2076186be50ab765510b384834ae7",
+      "display_original_blob_sha": "fc6bdbfd24c38d5073b9963075aef3b3816cc666",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 547251
     },
     {
       "src": "media/erigeron-strigosus/inat-489703971.jpg",
@@ -159,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7cdd7e8848d9f0757fc2e7bd8dbea23b3356b4e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +178,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 276891611, photo 497208810, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77296f3d1e5aa3976b61b1b856c088eb7e858d1a0839fcca85ff043290373c28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron strigosus agrees with indexed species erigeron-strigosus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "77296f3d1e5aa3976b61b1b856c088eb7e858d1a0839fcca85ff043290373c28"
+      "sha256": "77296f3d1e5aa3976b61b1b856c088eb7e858d1a0839fcca85ff043290373c28",
+      "display_sha256": "28a0a97eeeecc55e7f77e11d2bef1a6f9dcc51b1d021133dca8675ca246dfe94",
+      "display_blob_sha": "27e78d7c00f9c795f20b7abd4e96b1dbada27025",
+      "display_original_site_sha256": "77296f3d1e5aa3976b61b1b856c088eb7e858d1a0839fcca85ff043290373c28",
+      "display_original_blob_sha": "7cdd7e8848d9f0757fc2e7bd8dbea23b3356b4e6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 489717
     },
     {
       "src": "media/erigeron-strigosus/inat-635430778.jpg",
@@ -178,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9099dc441c7684bf629638d22dbf211c39aa0c9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -186,7 +208,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348416966, photo 635430778, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: defef69c93c35efb025d854e5e30d6826c64108ca56f4ddcaa09c69dce2e51aa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron strigosus agrees with indexed species erigeron-strigosus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "defef69c93c35efb025d854e5e30d6826c64108ca56f4ddcaa09c69dce2e51aa"
+      "sha256": "defef69c93c35efb025d854e5e30d6826c64108ca56f4ddcaa09c69dce2e51aa",
+      "display_sha256": "864d95092702aa844964ae6244e990184d88ffeb0fabac78bf10d067916ae398",
+      "display_blob_sha": "ae7b5f641be1306c5ad8aea2666a82a325e0f606",
+      "display_original_site_sha256": "defef69c93c35efb025d854e5e30d6826c64108ca56f4ddcaa09c69dce2e51aa",
+      "display_original_blob_sha": "9099dc441c7684bf629638d22dbf211c39aa0c9f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 494901
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

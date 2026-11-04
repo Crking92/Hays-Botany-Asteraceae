@@ -59,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4af3bcc1d802b191e39dfbc5d44d71133f696073",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -67,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343043338, photo 624797839, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc7a380633fd533dda4ef69a9ad4a5044635a32830619e877d3348c6b518315b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia tridentata maps to indexed species artemisia-tridentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "fc7a380633fd533dda4ef69a9ad4a5044635a32830619e877d3348c6b518315b"
+      "sha256": "fc7a380633fd533dda4ef69a9ad4a5044635a32830619e877d3348c6b518315b",
+      "display_sha256": "2da56d1fde33e723dd2250efa6a56b053c23cab46dd97ad66559c25b4fe220ea",
+      "display_blob_sha": "5a2fea076948ca66de2cb1bef6ce719443a339bb",
+      "display_original_site_sha256": "fc7a380633fd533dda4ef69a9ad4a5044635a32830619e877d3348c6b518315b",
+      "display_original_blob_sha": "4af3bcc1d802b191e39dfbc5d44d71133f696073",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1425
+      ],
+      "display_bytes": 712422
     },
     {
       "src": "media/artemisia-tridentata/inat-636894870.jpg",
@@ -78,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c88b08b4bd8250b4a80d13c1c19eb3ee35f67be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +97,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349158138, photo 636894870, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a1bca149238b84ae37fed6ce5532ecd7e66bd3b09d257283274004fa14e162b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia tridentata maps to indexed species artemisia-tridentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1a1bca149238b84ae37fed6ce5532ecd7e66bd3b09d257283274004fa14e162b"
+      "sha256": "1a1bca149238b84ae37fed6ce5532ecd7e66bd3b09d257283274004fa14e162b",
+      "display_sha256": "d50342a76031675e3c280276d6a8c2293f0493aa3bd578445dfdfd468c176b43",
+      "display_blob_sha": "637453b41360d0973c0c0ab15b9b1d978fd0dc02",
+      "display_original_site_sha256": "1a1bca149238b84ae37fed6ce5532ecd7e66bd3b09d257283274004fa14e162b",
+      "display_original_blob_sha": "3c88b08b4bd8250b4a80d13c1c19eb3ee35f67be",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 646038
     },
     {
       "src": "media/artemisia-tridentata/inat-636897046.jpg",
@@ -97,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c3e2820ac6c812d115721e05877315d84fd8349a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +127,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349159152, photo 636897046, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76d1d30f89a270b99a0c6840471c726fa93bd84d3b6aac01d1df4e1632ba73a4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia tridentata maps to indexed species artemisia-tridentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "76d1d30f89a270b99a0c6840471c726fa93bd84d3b6aac01d1df4e1632ba73a4"
+      "sha256": "76d1d30f89a270b99a0c6840471c726fa93bd84d3b6aac01d1df4e1632ba73a4",
+      "display_sha256": "3723407932af3f1103c6bd70fc58f9ac9ec1e53b694dd8ff77d8295a9877c09b",
+      "display_blob_sha": "b5af3dbd9453de1764920c2eb647b2abb7ddf3d4",
+      "display_original_site_sha256": "76d1d30f89a270b99a0c6840471c726fa93bd84d3b6aac01d1df4e1632ba73a4",
+      "display_original_blob_sha": "c3e2820ac6c812d115721e05877315d84fd8349a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 769683
     },
     {
       "src": "media/artemisia-tridentata/inat-642899983.jpg",
@@ -116,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ef88a7f73756c81d9979b2defe4864d41de7701",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +157,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352242002, photo 642899983, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c8bd3ab2ba65730363c0640cc765b51122b3ea49a579872d7106eaa061b136be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia tridentata maps to indexed species artemisia-tridentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c8bd3ab2ba65730363c0640cc765b51122b3ea49a579872d7106eaa061b136be"
+      "sha256": "c8bd3ab2ba65730363c0640cc765b51122b3ea49a579872d7106eaa061b136be",
+      "display_sha256": "8c30ab46e896437f462f54a00a95387b224fb13c701a24fffcccbdfaf5445df2",
+      "display_blob_sha": "4d8a33582bd5bcb01a0156940ee32eccbdf547fc",
+      "display_original_site_sha256": "c8bd3ab2ba65730363c0640cc765b51122b3ea49a579872d7106eaa061b136be",
+      "display_original_blob_sha": "5ef88a7f73756c81d9979b2defe4864d41de7701",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1426
+      ],
+      "display_bytes": 711423
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

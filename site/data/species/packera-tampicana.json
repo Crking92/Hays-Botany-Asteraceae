@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d57f4f2864abf6906d3dc72a6cfd836f5b5b0c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343562470, photo 625858858, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10335d357b3b63ff7535f2b5f68642c869b77d0cc7f8c79c9ce0cf5353c33229. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera tampicana maps to indexed species packera-tampicana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "10335d357b3b63ff7535f2b5f68642c869b77d0cc7f8c79c9ce0cf5353c33229"
+      "sha256": "10335d357b3b63ff7535f2b5f68642c869b77d0cc7f8c79c9ce0cf5353c33229",
+      "display_sha256": "3d901edafef61b918f7b8bc8a194ae8ff562576fed82237de27271e45c24f9ef",
+      "display_blob_sha": "e4c80307e4b89ed7bf71cdc534c660d6232bbc6c",
+      "display_original_site_sha256": "10335d357b3b63ff7535f2b5f68642c869b77d0cc7f8c79c9ce0cf5353c33229",
+      "display_original_blob_sha": "6d57f4f2864abf6906d3dc72a6cfd836f5b5b0c5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 579810
     },
     {
       "src": "media/packera-tampicana/inat-643881647.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7032d17d061d5a905c3d687019971588e5d4d7b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352839684, photo 643881647, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e860df552bab05b8c58339c71b2831ea96c23a5c08515e38e570b5981309d4d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera tampicana maps to indexed species packera-tampicana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e860df552bab05b8c58339c71b2831ea96c23a5c08515e38e570b5981309d4d0"
+      "sha256": "e860df552bab05b8c58339c71b2831ea96c23a5c08515e38e570b5981309d4d0",
+      "display_sha256": "a553235d2a6270c06d5ffa160fbf7a63fc16080d1366deaeca057f4dc7dee3dc",
+      "display_blob_sha": "d2fc4a583ea99dcad0e4a4de7a0500d48ee30bf1",
+      "display_original_site_sha256": "e860df552bab05b8c58339c71b2831ea96c23a5c08515e38e570b5981309d4d0",
+      "display_original_blob_sha": "d7032d17d061d5a905c3d687019971588e5d4d7b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 644710
     },
     {
       "src": "media/packera-tampicana/inat-646882480.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "10a304f7dd35745ec02ad811e37b7ceb5ea3623e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354621050, photo 646882480, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5ad0f8d00ed2173176396a8326946c337c4a03c5c78c35b85eec283a7388a2d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera tampicana maps to indexed species packera-tampicana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e5ad0f8d00ed2173176396a8326946c337c4a03c5c78c35b85eec283a7388a2d"
+      "sha256": "e5ad0f8d00ed2173176396a8326946c337c4a03c5c78c35b85eec283a7388a2d",
+      "display_sha256": "d6f09b5eb99cb6a74eebd91388249f0a1fe5bd50a94f758da7dcdd044bc18f6d",
+      "display_blob_sha": "83348b06d25a016f22f55225593350b58e65a715",
+      "display_original_site_sha256": "e5ad0f8d00ed2173176396a8326946c337c4a03c5c78c35b85eec283a7388a2d",
+      "display_original_blob_sha": "10a304f7dd35745ec02ad811e37b7ceb5ea3623e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 613764
     },
     {
       "src": "media/packera-tampicana/inat-648680286.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dff60bc5840dd69032b35b897eac8754477a052f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355705651, photo 648680286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d6b8657b06518a6deea42d7864fc2acf5d1771e508fef32b1815498148c7046. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera tampicana maps to indexed species packera-tampicana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "1d6b8657b06518a6deea42d7864fc2acf5d1771e508fef32b1815498148c7046"
+      "sha256": "1d6b8657b06518a6deea42d7864fc2acf5d1771e508fef32b1815498148c7046",
+      "display_sha256": "8cdd71725d65d62420eaf286541979ac2dd7d9891695b2be1b6eb013df3f207c",
+      "display_blob_sha": "fe2666477465be5c2919358ff15b8cf7ec412fcc",
+      "display_original_site_sha256": "1d6b8657b06518a6deea42d7864fc2acf5d1771e508fef32b1815498148c7046",
+      "display_original_blob_sha": "dff60bc5840dd69032b35b897eac8754477a052f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 680270
     },
     {
       "src": "media/packera-tampicana/inat-666134462.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c15ba869ce96cffa07d3f8dfd785dc8b25859e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 364885101, photo 666134462, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d2813c58f1d2358584c1650b60e69a282cfa943c419f60fe1f430ba59485275. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera tampicana maps to indexed species packera-tampicana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "6d2813c58f1d2358584c1650b60e69a282cfa943c419f60fe1f430ba59485275"
+      "sha256": "6d2813c58f1d2358584c1650b60e69a282cfa943c419f60fe1f430ba59485275",
+      "display_sha256": "b6d60af378a1c4c7ce690846ef7daa1b62a435fca240c872daa415c39a4969d6",
+      "display_blob_sha": "6aecfc038a4d9fc0fa65f65753266d79b3e50152",
+      "display_original_site_sha256": "6d2813c58f1d2358584c1650b60e69a282cfa943c419f60fe1f430ba59485275",
+      "display_original_blob_sha": "3c15ba869ce96cffa07d3f8dfd785dc8b25859e9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 530942
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

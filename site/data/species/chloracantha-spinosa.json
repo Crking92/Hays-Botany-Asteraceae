@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "541ca84a302cec9381f1368bfeff1b881f3be48a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208507533, photo 368921201, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa498a9d7c81ef24a677bd7784301a2df0d83d4b259f201b60a2cc7e0aff3f5f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chloracantha spinosa agrees with indexed species chloracantha-spinosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fa498a9d7c81ef24a677bd7784301a2df0d83d4b259f201b60a2cc7e0aff3f5f"
+      "sha256": "fa498a9d7c81ef24a677bd7784301a2df0d83d4b259f201b60a2cc7e0aff3f5f",
+      "display_sha256": "4906312bfcbd4599d8afda8e10bf6bae1d8e46785f49deafe1effd5d97977177",
+      "display_blob_sha": "4ac3f99b1653c84c9884d91474acb13bbe60711e",
+      "display_original_site_sha256": "fa498a9d7c81ef24a677bd7784301a2df0d83d4b259f201b60a2cc7e0aff3f5f",
+      "display_original_blob_sha": "541ca84a302cec9381f1368bfeff1b881f3be48a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 504960
     },
     {
       "src": "media/chloracantha-spinosa/inat-379104054.jpeg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b44e8378d7ab05f125b6ab10a034a722c7ea82c4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 214477512, photo 379104054, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c18cef08eecc0643c2e9b767d3fbd227af0f006f42b89940f956031e515469e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chloracantha spinosa agrees with indexed species chloracantha-spinosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2c18cef08eecc0643c2e9b767d3fbd227af0f006f42b89940f956031e515469e"
+      "sha256": "2c18cef08eecc0643c2e9b767d3fbd227af0f006f42b89940f956031e515469e",
+      "display_sha256": "464ff7d7633f2197d27a2b58520dbbde200313b27fb7f80f48266cb7e0859640",
+      "display_blob_sha": "f18adadd4e5c476948f01b2984b0068698a6b879",
+      "display_original_site_sha256": "2c18cef08eecc0643c2e9b767d3fbd227af0f006f42b89940f956031e515469e",
+      "display_original_blob_sha": "b44e8378d7ab05f125b6ab10a034a722c7ea82c4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 325230
     },
     {
       "src": "media/chloracantha-spinosa/inat-384605693.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9dc5d88494756daccbf2e5472423d57303a45d29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 217399018, photo 384605693, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a82c28871981ff13d29a3714cec5c08e77037a77f987e38b798696bce15a5e9a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chloracantha spinosa agrees with indexed species chloracantha-spinosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a82c28871981ff13d29a3714cec5c08e77037a77f987e38b798696bce15a5e9a"
+      "sha256": "a82c28871981ff13d29a3714cec5c08e77037a77f987e38b798696bce15a5e9a",
+      "display_sha256": "d06cbbb4ad85d1c6e8aaa62466271aaa052b143748cc0e8ea60e49c8b8eae57c",
+      "display_blob_sha": "e914175f911bf4f4719ee74be57c3816403fb9d4",
+      "display_original_site_sha256": "a82c28871981ff13d29a3714cec5c08e77037a77f987e38b798696bce15a5e9a",
+      "display_original_blob_sha": "9dc5d88494756daccbf2e5472423d57303a45d29",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 589520
     },
     {
       "src": "media/chloracantha-spinosa/inat-512948726.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2577d604219502d0493b71325e7406116bbac9bc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 285378331, photo 512948726, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f160e8ba4df081b57e724ca5671c4d18ec6d7b7f2c61cf70adc533a284e333f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chloracantha spinosa agrees with indexed species chloracantha-spinosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3f160e8ba4df081b57e724ca5671c4d18ec6d7b7f2c61cf70adc533a284e333f"
+      "sha256": "3f160e8ba4df081b57e724ca5671c4d18ec6d7b7f2c61cf70adc533a284e333f",
+      "display_sha256": "bb40968f9aa3e5336d4414073c3b760e157a6f8f03eebe23d0a049776e738020",
+      "display_blob_sha": "77e1ce657c2f2a494be78d1b9d8c9d7cef1a2fd2",
+      "display_original_site_sha256": "3f160e8ba4df081b57e724ca5671c4d18ec6d7b7f2c61cf70adc533a284e333f",
+      "display_original_blob_sha": "2577d604219502d0493b71325e7406116bbac9bc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 755290
     },
     {
       "src": "media/chloracantha-spinosa/inat-666773504.jpg",
@@ -96,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db12b7dd3f99e8d513e03eeca7563838af962fe9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365216327, photo 666773504, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8394b013866fabbd96ab537a8f136000d0bda20e549718fcd04659584dd26d2a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chloracantha spinosa agrees with indexed species chloracantha-spinosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8394b013866fabbd96ab537a8f136000d0bda20e549718fcd04659584dd26d2a"
+      "sha256": "8394b013866fabbd96ab537a8f136000d0bda20e549718fcd04659584dd26d2a",
+      "display_sha256": "18e0aca642d8de7cc2482253e2aa2e1bfe9b9237e85cf0f62022e317262c00b8",
+      "display_blob_sha": "f727d7147b50e560acf70f4105aabe72f0a2bfde",
+      "display_original_site_sha256": "8394b013866fabbd96ab537a8f136000d0bda20e549718fcd04659584dd26d2a",
+      "display_original_blob_sha": "db12b7dd3f99e8d513e03eeca7563838af962fe9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 436543
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

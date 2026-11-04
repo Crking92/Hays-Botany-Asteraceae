@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d6385a299c23ac57a8deb79538e063e44ff28ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346147962, photo 630929721, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f1f4867b115bb1fbcf45ee1d6575e469f1f12734526503f85757e1a1df1c6b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia prolifera agrees with indexed species diaperia-prolifera; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3f1f4867b115bb1fbcf45ee1d6575e469f1f12734526503f85757e1a1df1c6b7"
+      "sha256": "3f1f4867b115bb1fbcf45ee1d6575e469f1f12734526503f85757e1a1df1c6b7",
+      "display_sha256": "ef06d4ccffe0891515bf480b6f8876523e74646490714864f6dd55303d5ef16b",
+      "display_blob_sha": "e37cb249d684702473d76c32a0be992451e0bdb0",
+      "display_original_site_sha256": "3f1f4867b115bb1fbcf45ee1d6575e469f1f12734526503f85757e1a1df1c6b7",
+      "display_original_blob_sha": "0d6385a299c23ac57a8deb79538e063e44ff28ce",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 714360
     },
     {
       "src": "media/diaperia-prolifera/inat-631597674.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ad22e1cf62eaeecde0af90da456f0060aa244c02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346485487, photo 631597674, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d414bdd8580f75f836b452a9a347f0e6f7271d9f5310f342992b04dc194ccb84. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia prolifera agrees with indexed species diaperia-prolifera; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d414bdd8580f75f836b452a9a347f0e6f7271d9f5310f342992b04dc194ccb84"
+      "sha256": "d414bdd8580f75f836b452a9a347f0e6f7271d9f5310f342992b04dc194ccb84",
+      "display_sha256": "93cb88d0a9c49e244cdd2f93de3e00697591dcee718dcbc03bfcc1dcf93be487",
+      "display_blob_sha": "705e90874f6f4a6d18ef0d214dab18a8903711e2",
+      "display_original_site_sha256": "d414bdd8580f75f836b452a9a347f0e6f7271d9f5310f342992b04dc194ccb84",
+      "display_original_blob_sha": "ad22e1cf62eaeecde0af90da456f0060aa244c02",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 719578
     },
     {
       "src": "media/diaperia-prolifera/inat-633255168.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e6a8721889e303848d41c715a10d1b2925fa7e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347320826, photo 633255168, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2753114d3a7518a7e1fa93e483b79db14fd89d817ba478ef9f8edf203c229dd9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia prolifera agrees with indexed species diaperia-prolifera; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2753114d3a7518a7e1fa93e483b79db14fd89d817ba478ef9f8edf203c229dd9"
+      "sha256": "2753114d3a7518a7e1fa93e483b79db14fd89d817ba478ef9f8edf203c229dd9",
+      "display_sha256": "b0a1696296378d27e805c47bc0a18d27cd72c69ca9059b49f69c45b465fdc496",
+      "display_blob_sha": "4c1ceb0793147c2295dc78eca37197cabf1720d4",
+      "display_original_site_sha256": "2753114d3a7518a7e1fa93e483b79db14fd89d817ba478ef9f8edf203c229dd9",
+      "display_original_blob_sha": "2e6a8721889e303848d41c715a10d1b2925fa7e2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1431,
+        1900
+      ],
+      "display_bytes": 674876
     },
     {
       "src": "media/diaperia-prolifera/inat-633298113.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08588d2a6b786a383dea807d31607b739d3b54d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347342803, photo 633298113, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d782560dd02dce57cea7f915edd071a8b821c26635535474f3734482ffb95fff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia prolifera agrees with indexed species diaperia-prolifera; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d782560dd02dce57cea7f915edd071a8b821c26635535474f3734482ffb95fff"
+      "sha256": "d782560dd02dce57cea7f915edd071a8b821c26635535474f3734482ffb95fff",
+      "display_sha256": "0306c8f03d7a065955d08d2fc05a64afd2ffc1cc22ed3f625debf12252048415",
+      "display_blob_sha": "e2c31b39372c5870f7b7f2d958d0c5453604c29c",
+      "display_original_site_sha256": "d782560dd02dce57cea7f915edd071a8b821c26635535474f3734482ffb95fff",
+      "display_original_blob_sha": "08588d2a6b786a383dea807d31607b739d3b54d8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1927,
+        1927
+      ],
+      "display_bytes": 695582
     },
     {
       "src": "media/diaperia-prolifera/inat-634790261.jpg",
@@ -96,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b42a6ea9de68db0807204cf5374c69409a26b650",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348094130, photo 634790261, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf62f532aabcd7a20792aeb2aaeb19dbddab456ca708f5543b0f99868a4e0d15. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia prolifera agrees with indexed species diaperia-prolifera; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bf62f532aabcd7a20792aeb2aaeb19dbddab456ca708f5543b0f99868a4e0d15"
+      "sha256": "bf62f532aabcd7a20792aeb2aaeb19dbddab456ca708f5543b0f99868a4e0d15",
+      "display_sha256": "01ba1204ca11ed513d58623b09a76f749cc3fede79138f99bdd0bdd1c24cdafb",
+      "display_blob_sha": "9244197b582a053f08177016a43cc2150e2ed6cd",
+      "display_original_site_sha256": "bf62f532aabcd7a20792aeb2aaeb19dbddab456ca708f5543b0f99868a4e0d15",
+      "display_original_blob_sha": "b42a6ea9de68db0807204cf5374c69409a26b650",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 663318
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

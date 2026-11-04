@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a6564522d5d6fbd8aaf64ac1e79c177b005ba070",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 82773908, photo 135883351, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3221137c52db2deb2028b8416dbdc82fd7457d1ed3a24798fe2973ea76844b60. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Berlandiera lyrata maps to indexed species berlandiera-lyrata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3221137c52db2deb2028b8416dbdc82fd7457d1ed3a24798fe2973ea76844b60"
+      "sha256": "3221137c52db2deb2028b8416dbdc82fd7457d1ed3a24798fe2973ea76844b60",
+      "display_sha256": "7a726e8770999bc9289595de72a850b3465e9ded7d26390403a7373486fde045",
+      "display_blob_sha": "609d72973563075bb0dca983878e2d53d41b7d79",
+      "display_original_site_sha256": "3221137c52db2deb2028b8416dbdc82fd7457d1ed3a24798fe2973ea76844b60",
+      "display_original_blob_sha": "a6564522d5d6fbd8aaf64ac1e79c177b005ba070",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 485851
     },
     {
       "src": "media/berlandiera-lyrata/inat-624578105.jpg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d88525d2e7d6cddd74fefbccb7f9e64b302ce71b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342932038, photo 624578105, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a294d67fc1eec1558e72136a91fcdb187f445434ddc14d2111ba160afa82949. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Berlandiera lyrata maps to indexed species berlandiera-lyrata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2a294d67fc1eec1558e72136a91fcdb187f445434ddc14d2111ba160afa82949"
+      "sha256": "2a294d67fc1eec1558e72136a91fcdb187f445434ddc14d2111ba160afa82949",
+      "display_sha256": "63f880aa2ba1d7bb7637acf93d495216095eb0a30ea0a49d8ffc774fac23af08",
+      "display_blob_sha": "49f53c9be0a1028e1db26738229cdaac5d721827",
+      "display_original_site_sha256": "2a294d67fc1eec1558e72136a91fcdb187f445434ddc14d2111ba160afa82949",
+      "display_original_blob_sha": "d88525d2e7d6cddd74fefbccb7f9e64b302ce71b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 647974
     },
     {
       "src": "media/berlandiera-lyrata/inat-626934827.jpg",
@@ -130,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5824bbaeb1168c9507ea15e36102f20e86046246",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +160,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345488815, photo 629630418, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee3420bbfd66bfd87c2df9d286134a21b1996e4f83afeee8aa1b5c26c0df1773. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Berlandiera lyrata maps to indexed species berlandiera-lyrata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ee3420bbfd66bfd87c2df9d286134a21b1996e4f83afeee8aa1b5c26c0df1773"
+      "sha256": "ee3420bbfd66bfd87c2df9d286134a21b1996e4f83afeee8aa1b5c26c0df1773",
+      "display_sha256": "1a19ce9d9513ce60241f47941171245989e7a56a2d613b09781b0cf14bd091da",
+      "display_blob_sha": "c1360bb296a1a47d2b133f34ae4ccccdfd8faab3",
+      "display_original_site_sha256": "ee3420bbfd66bfd87c2df9d286134a21b1996e4f83afeee8aa1b5c26c0df1773",
+      "display_original_blob_sha": "5824bbaeb1168c9507ea15e36102f20e86046246",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 523828
     },
     {
       "src": "media/berlandiera-lyrata/inat-629814729.jpg",

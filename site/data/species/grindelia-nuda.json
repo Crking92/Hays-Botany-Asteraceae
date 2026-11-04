@@ -43,7 +43,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2280f709b74ea2d6d22dc3e4a4d7a41bee4100f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -51,7 +51,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275289950, photo 494713579, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ac1d2e5581c08a11104d25a3d21a07e07e5a2df471431ae6143cd11fb8500b49. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia nuda agrees with indexed species grindelia-nuda; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ac1d2e5581c08a11104d25a3d21a07e07e5a2df471431ae6143cd11fb8500b49"
+      "sha256": "ac1d2e5581c08a11104d25a3d21a07e07e5a2df471431ae6143cd11fb8500b49",
+      "display_sha256": "c900d34f87df43dc8704a80bc665375ce0b41131ab4bfe09e343babefdd9778f",
+      "display_blob_sha": "9cca164837144367929d3374c380c5f97583d2df",
+      "display_original_site_sha256": "ac1d2e5581c08a11104d25a3d21a07e07e5a2df471431ae6143cd11fb8500b49",
+      "display_original_blob_sha": "2280f709b74ea2d6d22dc3e4a4d7a41bee4100f1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 695456
     },
     {
       "src": "media/grindelia-nuda/inat-494826957.jpg",
@@ -62,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "137d4dde7b6ab93bc13448bf2791bf75a354d096",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275357124, photo 494826957, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e018a4953879e1964b04f81349450a3241a4d66cd296fcee97db678816f4504. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia nuda agrees with indexed species grindelia-nuda; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9e018a4953879e1964b04f81349450a3241a4d66cd296fcee97db678816f4504"
+      "sha256": "9e018a4953879e1964b04f81349450a3241a4d66cd296fcee97db678816f4504",
+      "display_sha256": "3e98ea16f539453f5a6bb780c194db0b637a78ac1d00b05f876b01456a33c147",
+      "display_blob_sha": "b5721b27b195087c77f081cb3176bd3b23418347",
+      "display_original_site_sha256": "9e018a4953879e1964b04f81349450a3241a4d66cd296fcee97db678816f4504",
+      "display_original_blob_sha": "137d4dde7b6ab93bc13448bf2791bf75a354d096",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 733049
     },
     {
       "src": "media/grindelia-nuda/inat-731503482.jpg",
@@ -81,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63c271f1b6c37d340b0b12c3dd3c53635091bc2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 398745535, photo 731503482, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd0bf6b7d9700a75961a28a521ff1d77e1bc2a68ed4196949676cbefab214f85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia nuda agrees with indexed species grindelia-nuda; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bd0bf6b7d9700a75961a28a521ff1d77e1bc2a68ed4196949676cbefab214f85"
+      "sha256": "bd0bf6b7d9700a75961a28a521ff1d77e1bc2a68ed4196949676cbefab214f85",
+      "display_sha256": "b6b6d8d903135cf48ad95a0b2f180ee2253c5dbf081c4a26ed3d040bdb11654a",
+      "display_blob_sha": "3e6446662c15f8116f5ee41aee58d52dc739492e",
+      "display_original_site_sha256": "bd0bf6b7d9700a75961a28a521ff1d77e1bc2a68ed4196949676cbefab214f85",
+      "display_original_blob_sha": "63c271f1b6c37d340b0b12c3dd3c53635091bc2b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 407619
     },
     {
       "src": "media/grindelia-nuda/inat-89196705.jpg",
@@ -100,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8401367b38ba95bcb6fabb777d3cea3da89ff977",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 55993937, photo 89196705, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f75c541b35b63a28c26d881c9459057d687d1b030456481ddca61b7d834acda9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia nuda agrees with indexed species grindelia-nuda; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f75c541b35b63a28c26d881c9459057d687d1b030456481ddca61b7d834acda9"
+      "sha256": "f75c541b35b63a28c26d881c9459057d687d1b030456481ddca61b7d834acda9",
+      "display_sha256": "757e84fca256818089418c5cd9613dd86a9bf4bc7dd536f06f74f85737743226",
+      "display_blob_sha": "ff519777a4aa5691a5e1f47d702b0e4d5604cc39",
+      "display_original_site_sha256": "f75c541b35b63a28c26d881c9459057d687d1b030456481ddca61b7d834acda9",
+      "display_original_blob_sha": "8401367b38ba95bcb6fabb777d3cea3da89ff977",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1602,
+        1686
+      ],
+      "display_bytes": 581144
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7cfcee55466f9c330adaa7170c3d7263449f2faf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344582830, photo 627868440, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93f531b64a441ca4fc8df45073cf4bd822e6adb239b00118b9ab8004ed12882c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaptalia texana agrees with indexed species chaptalia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "93f531b64a441ca4fc8df45073cf4bd822e6adb239b00118b9ab8004ed12882c"
+      "sha256": "93f531b64a441ca4fc8df45073cf4bd822e6adb239b00118b9ab8004ed12882c",
+      "display_sha256": "e90f2bbcfc7a1dd411657b8fc25a810e7b2318cd56dc0eb8686c27f851e87113",
+      "display_blob_sha": "45497a005330772f63911834d6bfced5db5efea1",
+      "display_original_site_sha256": "93f531b64a441ca4fc8df45073cf4bd822e6adb239b00118b9ab8004ed12882c",
+      "display_original_blob_sha": "7cfcee55466f9c330adaa7170c3d7263449f2faf",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 724844
     },
     {
       "src": "media/chaptalia-texana/inat-633829740.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b3a1b52861255de5a2ea73df1451471b9dc48fc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347610931, photo 633829740, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: acf963393c1a34767fd218c00be908d9180b79d27179390b328c0c88e327fc60. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaptalia texana agrees with indexed species chaptalia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "acf963393c1a34767fd218c00be908d9180b79d27179390b328c0c88e327fc60"
+      "sha256": "acf963393c1a34767fd218c00be908d9180b79d27179390b328c0c88e327fc60",
+      "display_sha256": "948a8faaafb290b3766cc27cf2218561a2308a6cc50f8b6946cb64eb6065b2d7",
+      "display_blob_sha": "590324e149e4a8d97996e83885756d7eabece49c",
+      "display_original_site_sha256": "acf963393c1a34767fd218c00be908d9180b79d27179390b328c0c88e327fc60",
+      "display_original_blob_sha": "3b3a1b52861255de5a2ea73df1451471b9dc48fc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 714235
     },
     {
       "src": "media/chaptalia-texana/inat-635007022.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7aec7a19015fddd490e771e7b175130d73f97d82",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348202835, photo 635007022, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6eaac84ba7fcdcc51ef9d42a9e209e02e78f5d4dc5c003894d716292252d1fc8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaptalia texana agrees with indexed species chaptalia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6eaac84ba7fcdcc51ef9d42a9e209e02e78f5d4dc5c003894d716292252d1fc8"
+      "sha256": "6eaac84ba7fcdcc51ef9d42a9e209e02e78f5d4dc5c003894d716292252d1fc8",
+      "display_sha256": "ffd0e52f36cd772532e966aa7328ea4bc63a9556d52d6baad97fc8f14b307d7c",
+      "display_blob_sha": "86312b53e3b8e1f78be03a5f5bcac3d4cf9e8317",
+      "display_original_site_sha256": "6eaac84ba7fcdcc51ef9d42a9e209e02e78f5d4dc5c003894d716292252d1fc8",
+      "display_original_blob_sha": "7aec7a19015fddd490e771e7b175130d73f97d82",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 710928
     },
     {
       "src": "media/chaptalia-texana/inat-635682554.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "151bd692a19780a5e47437a4ad994085261834b7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348545829, photo 635682554, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b110dce6846c710ed6477738928f8413a32efe19b211d1f4e6ffa327ef54d11. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaptalia texana agrees with indexed species chaptalia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2b110dce6846c710ed6477738928f8413a32efe19b211d1f4e6ffa327ef54d11"
+      "sha256": "2b110dce6846c710ed6477738928f8413a32efe19b211d1f4e6ffa327ef54d11",
+      "display_sha256": "f2d277f99f8ec1fab080712bef74e7aee1f7d379736c2d730d91caa096b5db5f",
+      "display_blob_sha": "b0631d551f80cd48cde60c19b69d945493052e57",
+      "display_original_site_sha256": "2b110dce6846c710ed6477738928f8413a32efe19b211d1f4e6ffa327ef54d11",
+      "display_original_blob_sha": "151bd692a19780a5e47437a4ad994085261834b7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 649227
     },
     {
       "src": "media/chaptalia-texana/inat-636256566.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa885c324b7789578c6a50f94939b531e3f8a953",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348831843, photo 636256566, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11a7c1e3cd52b00d3c906ba6e290658edfc0e96b024ff8b3eb7a7d5f44ae7833. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaptalia texana agrees with indexed species chaptalia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "11a7c1e3cd52b00d3c906ba6e290658edfc0e96b024ff8b3eb7a7d5f44ae7833"
+      "sha256": "11a7c1e3cd52b00d3c906ba6e290658edfc0e96b024ff8b3eb7a7d5f44ae7833",
+      "display_sha256": "edfec774b935dc0e2fbf5772d20e9c581d868c3d6c5b2adbc521562f17ca66be",
+      "display_blob_sha": "6c83b58c01a2eade0d550cd7b136586397341d6c",
+      "display_original_site_sha256": "11a7c1e3cd52b00d3c906ba6e290658edfc0e96b024ff8b3eb7a7d5f44ae7833",
+      "display_original_blob_sha": "fa885c324b7789578c6a50f94939b531e3f8a953",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 505945
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

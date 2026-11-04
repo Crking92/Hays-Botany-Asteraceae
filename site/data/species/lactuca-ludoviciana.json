@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "989e7b0ca444d4771ac0aab53629cb770c296b7c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353946561, photo 645748042, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c15167cdb30e2495696899dc7086feed0510383945496b6285d511e7a1634c6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca ludoviciana agrees with indexed species lactuca-ludoviciana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5c15167cdb30e2495696899dc7086feed0510383945496b6285d511e7a1634c6"
+      "sha256": "5c15167cdb30e2495696899dc7086feed0510383945496b6285d511e7a1634c6",
+      "display_sha256": "eb1cf2a672085c2db7b6dc0faaa6079e921d8aec9c27cb01a17444cca64828c4",
+      "display_blob_sha": "58f0e4860fcb55286c57e7c41da07dfa8f14f04d",
+      "display_original_site_sha256": "5c15167cdb30e2495696899dc7086feed0510383945496b6285d511e7a1634c6",
+      "display_original_blob_sha": "989e7b0ca444d4771ac0aab53629cb770c296b7c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 737052
     },
     {
       "src": "media/lactuca-ludoviciana/inat-645757848.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "135983a3d57a1ba5bb7575f6108aba3302e3fa95",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353951747, photo 645757848, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d08955b012bd77f8e1596ff91e54747a7711109111f8e6b65da277417c689754. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca ludoviciana agrees with indexed species lactuca-ludoviciana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d08955b012bd77f8e1596ff91e54747a7711109111f8e6b65da277417c689754"
+      "sha256": "d08955b012bd77f8e1596ff91e54747a7711109111f8e6b65da277417c689754",
+      "display_sha256": "6d11b2b5c40ec579151782596442290a71a917d9efb2539945ac53d7889358b1",
+      "display_blob_sha": "f604dd49e6ca303ff2e682983c6552e0c4418c3e",
+      "display_original_site_sha256": "d08955b012bd77f8e1596ff91e54747a7711109111f8e6b65da277417c689754",
+      "display_original_blob_sha": "135983a3d57a1ba5bb7575f6108aba3302e3fa95",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 541524
     },
     {
       "src": "media/lactuca-ludoviciana/inat-646859914.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4a6629a6fb37b3ef784b835419d33dc8d61e898",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354607494, photo 646859914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6f95fd0bb7632cd527c6a706e207578a85c24b43e99280293fe8260fdb5d7a05. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca ludoviciana agrees with indexed species lactuca-ludoviciana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6f95fd0bb7632cd527c6a706e207578a85c24b43e99280293fe8260fdb5d7a05"
+      "sha256": "6f95fd0bb7632cd527c6a706e207578a85c24b43e99280293fe8260fdb5d7a05",
+      "display_sha256": "880fe261c17ed96d8fa583bd1768e36ee27b5c537fa127499e15077793c3a4ce",
+      "display_blob_sha": "2a75e6d4ae3fa93fe09bee9ea1df96a2fc34206b",
+      "display_original_site_sha256": "6f95fd0bb7632cd527c6a706e207578a85c24b43e99280293fe8260fdb5d7a05",
+      "display_original_blob_sha": "c4a6629a6fb37b3ef784b835419d33dc8d61e898",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 684020
     },
     {
       "src": "media/lactuca-ludoviciana/inat-646947785.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04e201b5bf1811538a85dfa5542be0c5a04bf1dc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354659502, photo 646947785, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a8b5da778395ac28b0c786799fbc99b9dee7bea15ff16585869605bc132b412b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca ludoviciana agrees with indexed species lactuca-ludoviciana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a8b5da778395ac28b0c786799fbc99b9dee7bea15ff16585869605bc132b412b"
+      "sha256": "a8b5da778395ac28b0c786799fbc99b9dee7bea15ff16585869605bc132b412b",
+      "display_sha256": "bd8bac450f1682b4b9b0f2252f6373d1aabb84be37aa65fc70feedac57b65610",
+      "display_blob_sha": "e4eb86ad7b74f0395e9970119e85dd7f8adc5068",
+      "display_original_site_sha256": "a8b5da778395ac28b0c786799fbc99b9dee7bea15ff16585869605bc132b412b",
+      "display_original_blob_sha": "04e201b5bf1811538a85dfa5542be0c5a04bf1dc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 765347
     },
     {
       "src": "media/lactuca-ludoviciana/inat-647538006.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f89046bf2450612e45f29f1bdc7017da012d33a4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354992651, photo 647538006, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03b4df0d5d1824dfc30b47f8a4be8388ce3b71d7eb8f669c1c0e6eb92f3ba7fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca ludoviciana agrees with indexed species lactuca-ludoviciana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "03b4df0d5d1824dfc30b47f8a4be8388ce3b71d7eb8f669c1c0e6eb92f3ba7fc"
+      "sha256": "03b4df0d5d1824dfc30b47f8a4be8388ce3b71d7eb8f669c1c0e6eb92f3ba7fc",
+      "display_sha256": "ddb97d33641e045910c245684f2ca772365d9294315ecdf9912a085b984243b1",
+      "display_blob_sha": "d1a4197c3fb306180d02e3ae4da43f8d6231ad37",
+      "display_original_site_sha256": "03b4df0d5d1824dfc30b47f8a4be8388ce3b71d7eb8f669c1c0e6eb92f3ba7fc",
+      "display_original_blob_sha": "f89046bf2450612e45f29f1bdc7017da012d33a4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 646836
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

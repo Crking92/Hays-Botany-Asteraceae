@@ -129,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e064dd1c0030b5600d75f00f0a437b30a59a0050",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 153734518, photo 265558958, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d91243f5f3cdb0beaf82dab6e67c21cc98f87622ff5054b8c9f158548a374a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron philadelphicus agrees with indexed species erigeron-philadelphicus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6d91243f5f3cdb0beaf82dab6e67c21cc98f87622ff5054b8c9f158548a374a1"
+      "sha256": "6d91243f5f3cdb0beaf82dab6e67c21cc98f87622ff5054b8c9f158548a374a1",
+      "display_sha256": "e60d3e09190bcbc149fdd3029d99e65ae362ef238d2493201afa3a910a320925",
+      "display_blob_sha": "d009da9d399a1be0838be3bfde00d975accb3e41",
+      "display_original_site_sha256": "6d91243f5f3cdb0beaf82dab6e67c21cc98f87622ff5054b8c9f158548a374a1",
+      "display_original_blob_sha": "e064dd1c0030b5600d75f00f0a437b30a59a0050",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 479553
     },
     {
       "src": "media/erigeron-philadelphicus/inat-64479939.jpeg",
@@ -148,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f71fb0886fcaca8a513ab758bda5064c3368dda2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +167,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 40677005, photo 64479939, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1361d9191f59a1b9f8c456a33f3491cada18d7e2d7c3afdf3bab32a5e6cfb7a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron philadelphicus agrees with indexed species erigeron-philadelphicus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1361d9191f59a1b9f8c456a33f3491cada18d7e2d7c3afdf3bab32a5e6cfb7a7"
+      "sha256": "1361d9191f59a1b9f8c456a33f3491cada18d7e2d7c3afdf3bab32a5e6cfb7a7",
+      "display_sha256": "c1e38af396d2a7af4752f223c5330b18921c73c175b8272d2b7ce2b6e4725b41",
+      "display_blob_sha": "6d12731762b2f3f76e8e87f676cb0484b9a28812",
+      "display_original_site_sha256": "1361d9191f59a1b9f8c456a33f3491cada18d7e2d7c3afdf3bab32a5e6cfb7a7",
+      "display_original_blob_sha": "f71fb0886fcaca8a513ab758bda5064c3368dda2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 285998
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

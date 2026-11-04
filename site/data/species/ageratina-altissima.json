@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85029d6df01e3a90c5ed2a66fac862678c913378",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 98151401, photo 163360119, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4558eda63204b9a4ab4a0efa85af7185a631a82af3feccf769e92b265261cf27. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina altissima maps to indexed species ageratina-altissima (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "4558eda63204b9a4ab4a0efa85af7185a631a82af3feccf769e92b265261cf27"
+      "sha256": "4558eda63204b9a4ab4a0efa85af7185a631a82af3feccf769e92b265261cf27",
+      "display_sha256": "ad6dabf6151ad61d1c29a404e2767f0d8ff77a26bf1d75709a2358f45d8e06d2",
+      "display_blob_sha": "611bede8f28cf86a9c2f28b2c3c6cfe4f3239862",
+      "display_original_site_sha256": "4558eda63204b9a4ab4a0efa85af7185a631a82af3feccf769e92b265261cf27",
+      "display_original_blob_sha": "85029d6df01e3a90c5ed2a66fac862678c913378",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 498766
     },
     {
       "src": "media/ageratina-altissima/inat-166198672.jpg",
@@ -115,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f80244b3c922f74e1a99919231b9be4d9f8c818",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +134,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 99668494, photo 166198672, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ecaeab138bceb5bd9d62bed70bef62b2750f1df5945a529bc8634947bc43813a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina altissima maps to indexed species ageratina-altissima (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ecaeab138bceb5bd9d62bed70bef62b2750f1df5945a529bc8634947bc43813a"
+      "sha256": "ecaeab138bceb5bd9d62bed70bef62b2750f1df5945a529bc8634947bc43813a",
+      "display_sha256": "5b72d047a82033134f4de14fb09b5d4a81267ea4cafd26428d57dbf69616c56b",
+      "display_blob_sha": "ba93c1dfbf7198f8dd4b3c693e8a573fc4b29c47",
+      "display_original_site_sha256": "ecaeab138bceb5bd9d62bed70bef62b2750f1df5945a529bc8634947bc43813a",
+      "display_original_blob_sha": "6f80244b3c922f74e1a99919231b9be4d9f8c818",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 699810
     },
     {
       "src": "media/ageratina-altissima/inat-245976332.jpeg",
@@ -134,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "80de73b9a24ea74063a8059a386ab9ef1b3a3019",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +164,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 143430296, photo 245976332, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec2e08cee01e0ad05a477958d481c3620eff7879cca9b8c34e451c852cf7ab79. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina altissima maps to indexed species ageratina-altissima (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ec2e08cee01e0ad05a477958d481c3620eff7879cca9b8c34e451c852cf7ab79"
+      "sha256": "ec2e08cee01e0ad05a477958d481c3620eff7879cca9b8c34e451c852cf7ab79",
+      "display_sha256": "ee75797788965e006ce8a75350865538d00d8be395085890934c8fb24cf6eaa6",
+      "display_blob_sha": "4f376017623ccf3c183795d92ce8c6fe26fae874",
+      "display_original_site_sha256": "ec2e08cee01e0ad05a477958d481c3620eff7879cca9b8c34e451c852cf7ab79",
+      "display_original_blob_sha": "80de73b9a24ea74063a8059a386ab9ef1b3a3019",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 762652
     },
     {
       "src": "media/ageratina-altissima/inat-442368992.jpeg",
@@ -153,7 +186,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aab4e407c5d5283e0d2cda0da8b0718e7ed06bc6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +194,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 247660333, photo 442368992, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59fe8bdde2c5c9b1bb180bd420f75978059b4622a9a225fea59f81afedf11eee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina altissima maps to indexed species ageratina-altissima (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "59fe8bdde2c5c9b1bb180bd420f75978059b4622a9a225fea59f81afedf11eee"
+      "sha256": "59fe8bdde2c5c9b1bb180bd420f75978059b4622a9a225fea59f81afedf11eee",
+      "display_sha256": "d0a5750c5059ec85dca25a3f7194903b76660789e1c48ba961dec045708b8052",
+      "display_blob_sha": "ed12bedc1b45e8494679065d5703565efbbf1e01",
+      "display_original_site_sha256": "59fe8bdde2c5c9b1bb180bd420f75978059b4622a9a225fea59f81afedf11eee",
+      "display_original_blob_sha": "aab4e407c5d5283e0d2cda0da8b0718e7ed06bc6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 523634
     },
     {
       "src": "media/ageratina-altissima/inat-7169725.jpeg",
@@ -172,7 +216,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f18ee59e3eafaf4a966254250e6fb4501876665e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +224,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 5774380, photo 7169725, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 535f8a401f1cdfcca4b577af7e39aa4801374c49cd24ecc2d2aab32c35455c86. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina altissima maps to indexed species ageratina-altissima (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "535f8a401f1cdfcca4b577af7e39aa4801374c49cd24ecc2d2aab32c35455c86"
+      "sha256": "535f8a401f1cdfcca4b577af7e39aa4801374c49cd24ecc2d2aab32c35455c86",
+      "display_sha256": "c2d8264ec6134ae3e45155ab9efec9b6b76959afad8d98af9eef396f5c550312",
+      "display_blob_sha": "bba74207d41a6323f84ed3e26d3345bbf82eb53e",
+      "display_original_site_sha256": "535f8a401f1cdfcca4b577af7e39aa4801374c49cd24ecc2d2aab32c35455c86",
+      "display_original_blob_sha": "f18ee59e3eafaf4a966254250e6fb4501876665e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 775224
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -47,7 +47,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ce8c4aff1375df9807303f4775c902708483a4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -55,7 +55,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 68712922, photo 111332542, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 935798f8f064454fbfede7cb4bf6dcbd1a58a5d3f1bca1fa67be3c86d1bbe5b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium vulgare agrees with indexed species cirsium-vulgare; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "935798f8f064454fbfede7cb4bf6dcbd1a58a5d3f1bca1fa67be3c86d1bbe5b0"
+      "sha256": "935798f8f064454fbfede7cb4bf6dcbd1a58a5d3f1bca1fa67be3c86d1bbe5b0",
+      "display_sha256": "04946a684f0aea5af463389f848273f688ea8bab25c794c236087ba33ce44aa0",
+      "display_blob_sha": "3c0e0205ff66588213a164d0228a120199cedc6c",
+      "display_original_site_sha256": "935798f8f064454fbfede7cb4bf6dcbd1a58a5d3f1bca1fa67be3c86d1bbe5b0",
+      "display_original_blob_sha": "7ce8c4aff1375df9807303f4775c902708483a4e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1881,
+        1475
+      ],
+      "display_bytes": 740613
     },
     {
       "src": "media/cirsium-vulgare/inat-184327683.jpg",
@@ -66,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd1d5e662d15b048d3b84ca2ebc95b5201ecd2e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -74,7 +85,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 109371221, photo 184327683, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf918b7ff1a7a6f19e660dbe268f67197c81df9b4ad32ec06a78bde2e01e3dd8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium vulgare agrees with indexed species cirsium-vulgare; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cf918b7ff1a7a6f19e660dbe268f67197c81df9b4ad32ec06a78bde2e01e3dd8"
+      "sha256": "cf918b7ff1a7a6f19e660dbe268f67197c81df9b4ad32ec06a78bde2e01e3dd8",
+      "display_sha256": "ae7e767171d07e2484ee19b4469f60fad5666c2d1cad1c5c4987da8e964663dc",
+      "display_blob_sha": "5692ef9e635136b34635a9b6fe6ff45a629ba5e3",
+      "display_original_site_sha256": "cf918b7ff1a7a6f19e660dbe268f67197c81df9b4ad32ec06a78bde2e01e3dd8",
+      "display_original_blob_sha": "fd1d5e662d15b048d3b84ca2ebc95b5201ecd2e3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 638308
     },
     {
       "src": "media/cirsium-vulgare/inat-354107330.jpg",
@@ -85,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ce80ec82bd37f039ce4cf667a67562631a4935f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +115,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 200680252, photo 354107330, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72437ce1053ec085ea1d95b0dfbe6b83371d36f08777a687a53ce9e06e24f767. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium vulgare agrees with indexed species cirsium-vulgare; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "72437ce1053ec085ea1d95b0dfbe6b83371d36f08777a687a53ce9e06e24f767"
+      "sha256": "72437ce1053ec085ea1d95b0dfbe6b83371d36f08777a687a53ce9e06e24f767",
+      "display_sha256": "916d2d146ae6f1f095ba14e2bca206b7da01d2006887f1a6aa967f73267df1a5",
+      "display_blob_sha": "c78d2c64b67ccba0f07997036a0c4ba063b5d000",
+      "display_original_site_sha256": "72437ce1053ec085ea1d95b0dfbe6b83371d36f08777a687a53ce9e06e24f767",
+      "display_original_blob_sha": "5ce80ec82bd37f039ce4cf667a67562631a4935f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1426,
+        1900
+      ],
+      "display_bytes": 759004
     },
     {
       "src": "media/cirsium-vulgare/inat-39117529.jpeg",
@@ -104,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "458012f38e3bb0d91e67b80d099e5efd718dfa09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +145,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 25267016, photo 39117529, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbecca84faad30d4ee29e8f8b3afacdc84a336cddbf8e153394d213dd2ff23b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium vulgare agrees with indexed species cirsium-vulgare; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fbecca84faad30d4ee29e8f8b3afacdc84a336cddbf8e153394d213dd2ff23b7"
+      "sha256": "fbecca84faad30d4ee29e8f8b3afacdc84a336cddbf8e153394d213dd2ff23b7",
+      "display_sha256": "8e4f5dd7caec85b2590925e528263f87fc25e7a48f2afa1f2ed5848523c35327",
+      "display_blob_sha": "14e2ee2cc182f1431c8f7821e8f353f0c8a8d7da",
+      "display_original_site_sha256": "fbecca84faad30d4ee29e8f8b3afacdc84a336cddbf8e153394d213dd2ff23b7",
+      "display_original_blob_sha": "458012f38e3bb0d91e67b80d099e5efd718dfa09",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 704078
     },
     {
       "src": "media/cirsium-vulgare/inat-89955487.jpg",
@@ -123,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b39723e2fbfc1f1495cca5983a29bcd9133d836b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +175,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 56447724, photo 89955487, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53853757966528dd61cac9517c4e4afd223fe989e7576da711a9a0fcbe639377. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium vulgare agrees with indexed species cirsium-vulgare; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "53853757966528dd61cac9517c4e4afd223fe989e7576da711a9a0fcbe639377"
+      "sha256": "53853757966528dd61cac9517c4e4afd223fe989e7576da711a9a0fcbe639377",
+      "display_sha256": "c160a551f60fa0673813380dbcb37a01500ab8e2ee57a2190c60df232cc330ee",
+      "display_blob_sha": "29f51706da35504ff80c05069b7281a60c300407",
+      "display_original_site_sha256": "53853757966528dd61cac9517c4e4afd223fe989e7576da711a9a0fcbe639377",
+      "display_original_blob_sha": "b39723e2fbfc1f1495cca5983a29bcd9133d836b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1519,
+        2025
+      ],
+      "display_bytes": 603482
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

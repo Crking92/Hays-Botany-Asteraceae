@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35c8264d0d4ad8c6ce6d6bb51a40aa51009ebfc6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 265200684, photo 476313372, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 353f707af46d55347bc9418fccbf49ad5aa70befc29ca31a2089fe884c9a990b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia occidentalis agrees with indexed species krigia-occidentalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "353f707af46d55347bc9418fccbf49ad5aa70befc29ca31a2089fe884c9a990b"
+      "sha256": "353f707af46d55347bc9418fccbf49ad5aa70befc29ca31a2089fe884c9a990b",
+      "display_sha256": "80dca4d0ab89d26faa4277c7c4939ddea1f6ca5e21f246b1664c836787fa8ed9",
+      "display_blob_sha": "53062507083e449bd4716055171fcafd81b21bf1",
+      "display_original_site_sha256": "353f707af46d55347bc9418fccbf49ad5aa70befc29ca31a2089fe884c9a990b",
+      "display_original_blob_sha": "35c8264d0d4ad8c6ce6d6bb51a40aa51009ebfc6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 503560
     },
     {
       "src": "media/krigia-occidentalis/inat-633223037.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aef97e289a45e21b133f045e5ecdaf81f108fe47",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347304390, photo 633223037, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bc36a00b50001eea4c72022a65af412a6b92e268223e7b1dac7389d5200ac96. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia occidentalis agrees with indexed species krigia-occidentalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1bc36a00b50001eea4c72022a65af412a6b92e268223e7b1dac7389d5200ac96"
+      "sha256": "1bc36a00b50001eea4c72022a65af412a6b92e268223e7b1dac7389d5200ac96",
+      "display_sha256": "f902903eebb9cf3107032126fab26bfef351ba50834ea40a3342128278037157",
+      "display_blob_sha": "d39a2e4ee1d5ef6e7f43633ba6dc9be7ff691c82",
+      "display_original_site_sha256": "1bc36a00b50001eea4c72022a65af412a6b92e268223e7b1dac7389d5200ac96",
+      "display_original_blob_sha": "aef97e289a45e21b133f045e5ecdaf81f108fe47",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 777319
     },
     {
       "src": "media/krigia-occidentalis/inat-633908479.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a5392c4feccd581f1af6acb4d724fd552289081b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347651846, photo 633908479, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0174b85df8e555632739ed2dc9d11e080d55636e52737e330414a385f06bc7c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia occidentalis agrees with indexed species krigia-occidentalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f0174b85df8e555632739ed2dc9d11e080d55636e52737e330414a385f06bc7c"
+      "sha256": "f0174b85df8e555632739ed2dc9d11e080d55636e52737e330414a385f06bc7c",
+      "display_sha256": "107ba7e40f8f8b5269ded7e5f1366907d00393486af5189ae9349ed48f5e9b42",
+      "display_blob_sha": "3c4ece8d557f07c746c75f0d57ce84c4432b7ef0",
+      "display_original_site_sha256": "f0174b85df8e555632739ed2dc9d11e080d55636e52737e330414a385f06bc7c",
+      "display_original_blob_sha": "a5392c4feccd581f1af6acb4d724fd552289081b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 349356
     },
     {
       "src": "media/krigia-occidentalis/inat-635756621.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "72c81c6c37b4d33f3de5cb22d911d3aca0fb44fb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348596214, photo 635756621, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d01834b84b6dad3d56589f7e62f347d6b05cca009655225a0fbb9c62ff3734e0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia occidentalis agrees with indexed species krigia-occidentalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d01834b84b6dad3d56589f7e62f347d6b05cca009655225a0fbb9c62ff3734e0"
+      "sha256": "d01834b84b6dad3d56589f7e62f347d6b05cca009655225a0fbb9c62ff3734e0",
+      "display_sha256": "8fc57c15d7d6ca48f1b1f9bb3d094b2f3cf5f3abf4e322c1ff4b552e9a9b90e7",
+      "display_blob_sha": "af4fcdc11d425438fd94b6dc66abcec76ae62349",
+      "display_original_site_sha256": "d01834b84b6dad3d56589f7e62f347d6b05cca009655225a0fbb9c62ff3734e0",
+      "display_original_blob_sha": "72c81c6c37b4d33f3de5cb22d911d3aca0fb44fb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 727003
     },
     {
       "src": "media/krigia-occidentalis/inat-636702654.jpg",

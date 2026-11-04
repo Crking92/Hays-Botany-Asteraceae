@@ -110,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9c0118a224f248441695d3e1571f2016f3b06748",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341432638, photo 621560488, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5d02cc268f79497dbf47cc1b42b1d62b2656da50bee325ddb20d48d2d19eeb80. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Engelmannia peristenia agrees with indexed species engelmannia-peristenia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5d02cc268f79497dbf47cc1b42b1d62b2656da50bee325ddb20d48d2d19eeb80"
+      "sha256": "5d02cc268f79497dbf47cc1b42b1d62b2656da50bee325ddb20d48d2d19eeb80",
+      "display_sha256": "e24d08b825c5864e9ad3ee425a482d6d3d96252892c37c74b39b6b56f8f0c61b",
+      "display_blob_sha": "d4708d879867434cbd269b5ddf29c8acb19c8984",
+      "display_original_site_sha256": "5d02cc268f79497dbf47cc1b42b1d62b2656da50bee325ddb20d48d2d19eeb80",
+      "display_original_blob_sha": "9c0118a224f248441695d3e1571f2016f3b06748",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 680325
     },
     {
       "src": "media/engelmannia-peristenia/inat-621967817.jpg",
@@ -129,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c40f495c5f4aa733e1b92366a830c840c79fd5c3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341631200, photo 621967817, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb3a07cc3025b5235d763f0c0ab77be4e78cc86b739391e3f6617e1a279fdcac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Engelmannia peristenia agrees with indexed species engelmannia-peristenia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "eb3a07cc3025b5235d763f0c0ab77be4e78cc86b739391e3f6617e1a279fdcac"
+      "sha256": "eb3a07cc3025b5235d763f0c0ab77be4e78cc86b739391e3f6617e1a279fdcac",
+      "display_sha256": "7f10087145211ac99d57e5927b4c23a805dfed316af4f70bbccc033104b02a7c",
+      "display_blob_sha": "883577d2e84b1a01a1b8c2ef6f02588378f8d948",
+      "display_original_site_sha256": "eb3a07cc3025b5235d763f0c0ab77be4e78cc86b739391e3f6617e1a279fdcac",
+      "display_original_blob_sha": "c40f495c5f4aa733e1b92366a830c840c79fd5c3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 746067
     },
     {
       "src": "media/engelmannia-peristenia/inat-625327654.jpg",
@@ -148,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f79c04449f76976d1eb1077749fc1acb03dc5854",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +178,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343301213, photo 625327654, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0805cab945f968841b92932fa87cf25ab81bdaf89df082139ae626d3893348f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Engelmannia peristenia agrees with indexed species engelmannia-peristenia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d0805cab945f968841b92932fa87cf25ab81bdaf89df082139ae626d3893348f"
+      "sha256": "d0805cab945f968841b92932fa87cf25ab81bdaf89df082139ae626d3893348f",
+      "display_sha256": "828332ecce7631afba1dc9f29419a95460966c43b4d2621b24328d3ed59dcc0b",
+      "display_blob_sha": "ea43913ee891471c63494b0b34cdc9c3120a9a13",
+      "display_original_site_sha256": "d0805cab945f968841b92932fa87cf25ab81bdaf89df082139ae626d3893348f",
+      "display_original_blob_sha": "f79c04449f76976d1eb1077749fc1acb03dc5854",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 741661
     },
     {
       "src": "media/engelmannia-peristenia/inat-630663755.jpg",
@@ -167,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65093d3244e76c6652e060f3300f72a0a3d05f88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +208,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346014172, photo 630663755, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6af88062fcaf4b5889eed0e73a67811f95e450bc099583028d53454d066ec50f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Engelmannia peristenia agrees with indexed species engelmannia-peristenia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6af88062fcaf4b5889eed0e73a67811f95e450bc099583028d53454d066ec50f"
+      "sha256": "6af88062fcaf4b5889eed0e73a67811f95e450bc099583028d53454d066ec50f",
+      "display_sha256": "d6cc7c5e85daf556777f6815357577acf43827af2d5bb4a1c8b0f3d2d6805080",
+      "display_blob_sha": "7a01c9fd4dd1dc06b7907115160904654a6bc9c8",
+      "display_original_site_sha256": "6af88062fcaf4b5889eed0e73a67811f95e450bc099583028d53454d066ec50f",
+      "display_original_blob_sha": "65093d3244e76c6652e060f3300f72a0a3d05f88",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 643868
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

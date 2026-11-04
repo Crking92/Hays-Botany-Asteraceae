@@ -51,7 +51,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "276b3db6aef7cafbb2298db40649a7015e6be713",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -59,7 +59,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341754709, photo 622214352, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 709732b66d1ecdd517dd3b699752e69ea664c5b463d2a0f91c15451f6412a4a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chrysactinia mexicana agrees with indexed species chrysactinia-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "709732b66d1ecdd517dd3b699752e69ea664c5b463d2a0f91c15451f6412a4a5"
+      "sha256": "709732b66d1ecdd517dd3b699752e69ea664c5b463d2a0f91c15451f6412a4a5",
+      "display_sha256": "f6fbd65b5eba0dbd4e24b20d13d5902428e6c4fb831e539c054375bc06156776",
+      "display_blob_sha": "7411c71ffb8ad607253bac5be21e345e4aac7440",
+      "display_original_site_sha256": "709732b66d1ecdd517dd3b699752e69ea664c5b463d2a0f91c15451f6412a4a5",
+      "display_original_blob_sha": "276b3db6aef7cafbb2298db40649a7015e6be713",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 754029
     },
     {
       "src": "media/chrysactinia-mexicana/inat-622240669.jpg",
@@ -70,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b09e13f6788fbe90754f80c966479e463e75464",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -78,7 +89,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341768164, photo 622240669, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da1c910780724f1abc9a242e11937c6ac8bc4957175fbb77b7cfd3f9c777e631. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chrysactinia mexicana agrees with indexed species chrysactinia-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "da1c910780724f1abc9a242e11937c6ac8bc4957175fbb77b7cfd3f9c777e631"
+      "sha256": "da1c910780724f1abc9a242e11937c6ac8bc4957175fbb77b7cfd3f9c777e631",
+      "display_sha256": "3442743d90b595ba2e95b79e137ece9428772f387711db447973975fc59dcc62",
+      "display_blob_sha": "c1faba4c24c0e0724e762fab9ff59202d02dbcc1",
+      "display_original_site_sha256": "da1c910780724f1abc9a242e11937c6ac8bc4957175fbb77b7cfd3f9c777e631",
+      "display_original_blob_sha": "1b09e13f6788fbe90754f80c966479e463e75464",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1151
+      ],
+      "display_bytes": 760134
     },
     {
       "src": "media/chrysactinia-mexicana/inat-622950453.jpg",
@@ -89,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "316e7c0a1bf2933cc7b2997ba1042222876de295",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -97,7 +119,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342118484, photo 622950453, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e0304b75eef6229f1349b1a4e8cd6c9d2afd167faf52d1a5bc205b5c46681eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chrysactinia mexicana agrees with indexed species chrysactinia-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8e0304b75eef6229f1349b1a4e8cd6c9d2afd167faf52d1a5bc205b5c46681eb"
+      "sha256": "8e0304b75eef6229f1349b1a4e8cd6c9d2afd167faf52d1a5bc205b5c46681eb",
+      "display_sha256": "05a805ad44ff0dcc845aeb2c71ea5f4661a0a4d101644708eb96a931781d5d31",
+      "display_blob_sha": "e75207f4a1cc89436e2e92e292916423cf83402e",
+      "display_original_site_sha256": "8e0304b75eef6229f1349b1a4e8cd6c9d2afd167faf52d1a5bc205b5c46681eb",
+      "display_original_blob_sha": "316e7c0a1bf2933cc7b2997ba1042222876de295",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 760594
     },
     {
       "src": "media/chrysactinia-mexicana/inat-625710663.jpg",
@@ -108,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f249845b90c2a971a577d15dae40a8036c52c91f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -116,7 +149,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343490599, photo 625710663, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 23405b7fecf580e55a32056351bb8b4eea91c010fcccae9c435db8bbd5e6b614. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chrysactinia mexicana agrees with indexed species chrysactinia-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "23405b7fecf580e55a32056351bb8b4eea91c010fcccae9c435db8bbd5e6b614"
+      "sha256": "23405b7fecf580e55a32056351bb8b4eea91c010fcccae9c435db8bbd5e6b614",
+      "display_sha256": "50f83f9f2b6b4bed512e335baa067685820eab6e36b8897abbda6864e2bacb43",
+      "display_blob_sha": "12d9d54ad1e4e7424013f1d69675bfccf235ebda",
+      "display_original_site_sha256": "23405b7fecf580e55a32056351bb8b4eea91c010fcccae9c435db8bbd5e6b614",
+      "display_original_blob_sha": "f249845b90c2a971a577d15dae40a8036c52c91f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 750936
     },
     {
       "src": "media/chrysactinia-mexicana/inat-630077978.jpg",
@@ -127,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "61a93bb6e9f0efbf624f8ef660f7a482163b1de4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -135,7 +179,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345713995, photo 630077978, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1967a6d33a8264ff042a06b75307673032574955b5a46052f82bf11fa4b62a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chrysactinia mexicana agrees with indexed species chrysactinia-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f1967a6d33a8264ff042a06b75307673032574955b5a46052f82bf11fa4b62a5"
+      "sha256": "f1967a6d33a8264ff042a06b75307673032574955b5a46052f82bf11fa4b62a5",
+      "display_sha256": "817fc9daf70dba9631fc81a500395779965a931b30b0975115cc6c0056ab9d69",
+      "display_blob_sha": "e7367dc4837fe4db5b064099985094af41b30c46",
+      "display_original_site_sha256": "f1967a6d33a8264ff042a06b75307673032574955b5a46052f82bf11fa4b62a5",
+      "display_original_blob_sha": "61a93bb6e9f0efbf624f8ef660f7a482163b1de4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 690889
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

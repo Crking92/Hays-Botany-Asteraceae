@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79168617cc047b98de60fb9a319fb3776286c714",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 207995448, photo 367965300, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff1216a256c5889f841dfb60a998922ded2580dd2e4e0cb3b7da97de1fffd2b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acmella repens maps to indexed species acmella-repens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ff1216a256c5889f841dfb60a998922ded2580dd2e4e0cb3b7da97de1fffd2b1"
+      "sha256": "ff1216a256c5889f841dfb60a998922ded2580dd2e4e0cb3b7da97de1fffd2b1",
+      "display_sha256": "ff45f1b9c2abecf7e314a235190bdbfafd9dd354977ba0862bff1170e51667e5",
+      "display_blob_sha": "3b27e88d0386a0771ac11bf6f0301d6ece7e6ba2",
+      "display_original_site_sha256": "ff1216a256c5889f841dfb60a998922ded2580dd2e4e0cb3b7da97de1fffd2b1",
+      "display_original_blob_sha": "79168617cc047b98de60fb9a319fb3776286c714",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1426,
+        1900
+      ],
+      "display_bytes": 706364
     },
     {
       "src": "media/acmella-repens/inat-489902156.jpeg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "91c80fb144f29945a7d0c4c015d9afebd6dc5468",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 272312086, photo 489902156, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49d12b213ba491d0087fbcbdd88876812cfe7825cccd234ed50fadd0aeb8f536. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acmella repens maps to indexed species acmella-repens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "49d12b213ba491d0087fbcbdd88876812cfe7825cccd234ed50fadd0aeb8f536"
+      "sha256": "49d12b213ba491d0087fbcbdd88876812cfe7825cccd234ed50fadd0aeb8f536",
+      "display_sha256": "6348f5c4261d5fe0a78911ab8588a7ae75621eaaa2c4846dd8129773944df60e",
+      "display_blob_sha": "bb816ee37b1ace95b531ddbec9744bfd59e41d95",
+      "display_original_site_sha256": "49d12b213ba491d0087fbcbdd88876812cfe7825cccd234ed50fadd0aeb8f536",
+      "display_original_blob_sha": "91c80fb144f29945a7d0c4c015d9afebd6dc5468",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 563342
     },
     {
       "src": "media/acmella-repens/inat-496599204.jpeg",
@@ -111,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd6d031770bfd3467d9c2e678b5794a5f8b9b0d2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 276537131, photo 496599204, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b6ebfa80fdc8d0b03e8c4df745325fb0f58151c340fb11f6fb443b8fd36e5ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acmella repens maps to indexed species acmella-repens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2b6ebfa80fdc8d0b03e8c4df745325fb0f58151c340fb11f6fb443b8fd36e5ef"
+      "sha256": "2b6ebfa80fdc8d0b03e8c4df745325fb0f58151c340fb11f6fb443b8fd36e5ef",
+      "display_sha256": "8807029d8f647e87805d1cf4e7ef8af413d49bce5d060e4e1f0d83ce42721e81",
+      "display_blob_sha": "9e69a9fd763a8bb5bfb6524134255e4aec6817ba",
+      "display_original_site_sha256": "2b6ebfa80fdc8d0b03e8c4df745325fb0f58151c340fb11f6fb443b8fd36e5ef",
+      "display_original_blob_sha": "cd6d031770bfd3467d9c2e678b5794a5f8b9b0d2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 742231
     },
     {
       "src": "media/acmella-repens/inat-689133237.jpg",
@@ -130,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "400983221be0f8cd0adb3504d5d6bfa8d2641d59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 376881737, photo 689133237, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5717194307adebe5d83648db2629c210872548211edde43cd9796a6cbb5e2347. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acmella repens maps to indexed species acmella-repens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5717194307adebe5d83648db2629c210872548211edde43cd9796a6cbb5e2347"
+      "sha256": "5717194307adebe5d83648db2629c210872548211edde43cd9796a6cbb5e2347",
+      "display_sha256": "04e659a9f4f20fdf1e8eadd6dc0530a8e9938ee08c92fe0a77dcaf189098a25b",
+      "display_blob_sha": "2c197e21cee7a4f9885dcd2df4d6c3747fbc0107",
+      "display_original_site_sha256": "5717194307adebe5d83648db2629c210872548211edde43cd9796a6cbb5e2347",
+      "display_original_blob_sha": "400983221be0f8cd0adb3504d5d6bfa8d2641d59",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 654089
     },
     {
       "src": "media/acmella-repens/inat-723756727.jpg",
@@ -149,7 +193,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "1218235ce89e130289f382d907a894c17b7bd7ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +201,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 394768802, photo 723756727, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a4ecab7846c7c87519f98ce8b60ba1ddd215b5680037f33621c555ceddbe8f4. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acmella repens maps to indexed species acmella-repens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8a4ecab7846c7c87519f98ce8b60ba1ddd215b5680037f33621c555ceddbe8f4"
+      "sha256": "8a4ecab7846c7c87519f98ce8b60ba1ddd215b5680037f33621c555ceddbe8f4",
+      "display_sha256": "721bc792b72d6ac858e02453a6fcf3fac1889b4357bef9c282aa8a76d372f7a7",
+      "display_blob_sha": "ef0ee68fead88f3c82239c990d1eaed39e6e69ee",
+      "display_original_site_sha256": "8a4ecab7846c7c87519f98ce8b60ba1ddd215b5680037f33621c555ceddbe8f4",
+      "display_original_blob_sha": "1218235ce89e130289f382d907a894c17b7bd7ca",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 573158
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

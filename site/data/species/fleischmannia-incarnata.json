@@ -124,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c6ef05708f19d998568f77887967e51b93a326d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352831934, photo 643868673, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75e82e9e21ace5851ec9421a5426baf3d22b1b6e2cc2107b6d70da411d467791. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Fleischmannia incarnata agrees with indexed species fleischmannia-incarnata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "75e82e9e21ace5851ec9421a5426baf3d22b1b6e2cc2107b6d70da411d467791"
+      "sha256": "75e82e9e21ace5851ec9421a5426baf3d22b1b6e2cc2107b6d70da411d467791",
+      "display_sha256": "c51d1e420de5d75f073360f2ea6123cd8627401c6e6ed9b670e280c0e7fef239",
+      "display_blob_sha": "d74085beca62c0062e558ea81ec6ef058955deb3",
+      "display_original_site_sha256": "75e82e9e21ace5851ec9421a5426baf3d22b1b6e2cc2107b6d70da411d467791",
+      "display_original_blob_sha": "c6ef05708f19d998568f77887967e51b93a326d1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 471831
     },
     {
       "src": "media/fleischmannia-incarnata/inat-645269092.jpg",
@@ -143,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9df95483c27672b2362e6ab2879cef4fbcebbe97",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -151,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353674428, photo 645269092, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d882fa36ce2be000fc85c7e75406cce008cbf479c7f7dc6fc24f3923c40fd349. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Fleischmannia incarnata agrees with indexed species fleischmannia-incarnata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d882fa36ce2be000fc85c7e75406cce008cbf479c7f7dc6fc24f3923c40fd349"
+      "sha256": "d882fa36ce2be000fc85c7e75406cce008cbf479c7f7dc6fc24f3923c40fd349",
+      "display_sha256": "08ae86530aab289467756dc52901fb1e7a042fcbadac2c432d555c69ed5cf352",
+      "display_blob_sha": "5fa4f97fc91d1eaaafaf7c174f8c11ed136cb049",
+      "display_original_site_sha256": "d882fa36ce2be000fc85c7e75406cce008cbf479c7f7dc6fc24f3923c40fd349",
+      "display_original_blob_sha": "9df95483c27672b2362e6ab2879cef4fbcebbe97",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 750666
     },
     {
       "src": "media/fleischmannia-incarnata/inat-645438248.jpg",
@@ -162,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0af1397b4ac7863e581ea2a48b9d08027385c3d7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -170,7 +192,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353773520, photo 645438248, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b45e393b75a54ebe2ee6c27c4439a7e5e5688a42c1030acbadb45b174edac40f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Fleischmannia incarnata agrees with indexed species fleischmannia-incarnata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b45e393b75a54ebe2ee6c27c4439a7e5e5688a42c1030acbadb45b174edac40f"
+      "sha256": "b45e393b75a54ebe2ee6c27c4439a7e5e5688a42c1030acbadb45b174edac40f",
+      "display_sha256": "589ecf9e2b825e8977195b885c2b7a0f9026a16a0696179b20e1f9b05f9024d7",
+      "display_blob_sha": "f207c40ff5bd1d33c0735787b1de8565c61ed01b",
+      "display_original_site_sha256": "b45e393b75a54ebe2ee6c27c4439a7e5e5688a42c1030acbadb45b174edac40f",
+      "display_original_blob_sha": "0af1397b4ac7863e581ea2a48b9d08027385c3d7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 564649
     },
     {
       "src": "media/fleischmannia-incarnata/inat-646503165.jpg",
@@ -181,7 +214,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "45bae56360508f5d453ef61c20a114706dc2e250",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -189,7 +222,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354386055, photo 646503165, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 61c0c5f7870c826e8bde40121821dbb1220ccbc31204801536ea75a661077f62. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Fleischmannia incarnata agrees with indexed species fleischmannia-incarnata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "61c0c5f7870c826e8bde40121821dbb1220ccbc31204801536ea75a661077f62"
+      "sha256": "61c0c5f7870c826e8bde40121821dbb1220ccbc31204801536ea75a661077f62",
+      "display_sha256": "52245676cb1819b17bf5ba5f3470744294684a420537cd5037e848d402655149",
+      "display_blob_sha": "fcb022eecb5da5b50c99695437425ce77bbc0c84",
+      "display_original_site_sha256": "61c0c5f7870c826e8bde40121821dbb1220ccbc31204801536ea75a661077f62",
+      "display_original_blob_sha": "45bae56360508f5d453ef61c20a114706dc2e250",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 493315
     },
     {
       "src": "media/fleischmannia-incarnata/inat-648154134.jpg",
@@ -200,7 +244,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1dd3f6b3afc39ea109a485e676480545ff82fba1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -208,7 +252,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355389334, photo 648154134, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c51cdb6f7a14a5f4067ae6af89989b292f8cf0872e3b95632a5f3a766a82a6a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Fleischmannia incarnata agrees with indexed species fleischmannia-incarnata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c51cdb6f7a14a5f4067ae6af89989b292f8cf0872e3b95632a5f3a766a82a6a6"
+      "sha256": "c51cdb6f7a14a5f4067ae6af89989b292f8cf0872e3b95632a5f3a766a82a6a6",
+      "display_sha256": "629af8ea32b09eb3e49356a69c99bdcc8b0f0638e232e4852ccdbd86cc5670a9",
+      "display_blob_sha": "6833dbfc668153a6055307270538f15e39201c89",
+      "display_original_site_sha256": "c51cdb6f7a14a5f4067ae6af89989b292f8cf0872e3b95632a5f3a766a82a6a6",
+      "display_original_blob_sha": "1dd3f6b3afc39ea109a485e676480545ff82fba1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 397323
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

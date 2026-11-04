@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b41d97a2c162438a112461ef4e055c44a3e8ca8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 79603678, photo 130399739, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59fbb2906d524159d49852fa0593217d3fca09b09092cdf664df2bc280c249da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus tenuifolius agrees with indexed species hymenopappus-tenuifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "59fbb2906d524159d49852fa0593217d3fca09b09092cdf664df2bc280c249da"
+      "sha256": "59fbb2906d524159d49852fa0593217d3fca09b09092cdf664df2bc280c249da",
+      "display_sha256": "29f1054c474aebc6dc2d8f947aa05366275c086cd033f2a619482b46e1ae8121",
+      "display_blob_sha": "97c3e77b4c5ab60c10f29129387e56cbce5a1b0d",
+      "display_original_site_sha256": "59fbb2906d524159d49852fa0593217d3fca09b09092cdf664df2bc280c249da",
+      "display_original_blob_sha": "b41d97a2c162438a112461ef4e055c44a3e8ca8d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 749877
     },
     {
       "src": "media/hymenopappus-tenuifolius/inat-594835229.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2478b22f0f9aeba342b31dbc07f17b8fb6fbd339",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 328282573, photo 594835229, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14d5458d9a14bba216424a0be26ee804c3e7bf2153d233aa0d327eb980f16260. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus tenuifolius agrees with indexed species hymenopappus-tenuifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "14d5458d9a14bba216424a0be26ee804c3e7bf2153d233aa0d327eb980f16260"
+      "sha256": "14d5458d9a14bba216424a0be26ee804c3e7bf2153d233aa0d327eb980f16260",
+      "display_sha256": "2e9393c7ec0413d8cbbbad35dd9eb272133fcaf0d4a5e555729dcd760dfdff60",
+      "display_blob_sha": "be884174d06306de171f7b1b38c2d4dc5a2b9eb6",
+      "display_original_site_sha256": "14d5458d9a14bba216424a0be26ee804c3e7bf2153d233aa0d327eb980f16260",
+      "display_original_blob_sha": "2478b22f0f9aeba342b31dbc07f17b8fb6fbd339",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 585512
     },
     {
       "src": "media/hymenopappus-tenuifolius/inat-642082327.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "faf5367786d3217730241b28d2cbc626ac3ef24e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351823461, photo 642082327, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 367ecc9cbd7300665fdb565483f2885f307edf9b82852fe9fcbf41d2031e2f69. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus tenuifolius agrees with indexed species hymenopappus-tenuifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "367ecc9cbd7300665fdb565483f2885f307edf9b82852fe9fcbf41d2031e2f69"
+      "sha256": "367ecc9cbd7300665fdb565483f2885f307edf9b82852fe9fcbf41d2031e2f69",
+      "display_sha256": "cd4c001cfeb3cb101ef750657bfcc3cff8ca14d05a42ace9fe0a300b18ea02b8",
+      "display_blob_sha": "e95a12a7ea0a9e421f2ae5f425b3db79e9cc267a",
+      "display_original_site_sha256": "367ecc9cbd7300665fdb565483f2885f307edf9b82852fe9fcbf41d2031e2f69",
+      "display_original_blob_sha": "faf5367786d3217730241b28d2cbc626ac3ef24e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 492610
     },
     {
       "src": "media/hymenopappus-tenuifolius/inat-683494471.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c375ab2ea469aea8c0c186d6bffb70511879bda5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373981979, photo 683494471, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b7452213f8ff568d633cfabc2d40e9f932597f763da8842fee90c82ca35d843b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus tenuifolius agrees with indexed species hymenopappus-tenuifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b7452213f8ff568d633cfabc2d40e9f932597f763da8842fee90c82ca35d843b"
+      "sha256": "b7452213f8ff568d633cfabc2d40e9f932597f763da8842fee90c82ca35d843b",
+      "display_sha256": "a0fffb9661cab9797b55bdf9aefa636b7f273c073a4bcc8260779ebb13d12363",
+      "display_blob_sha": "ceed37eae0e319e50c65b04c9455ab1bdfb75dd2",
+      "display_original_site_sha256": "b7452213f8ff568d633cfabc2d40e9f932597f763da8842fee90c82ca35d843b",
+      "display_original_blob_sha": "c375ab2ea469aea8c0c186d6bffb70511879bda5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 544343
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

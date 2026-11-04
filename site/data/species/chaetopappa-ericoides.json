@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "45b97aeb8820da254f57b4925771788c40569420",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -69,7 +69,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 110215358, photo 185888177, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bac64c3b1726dbac1f550ee31a5c33ecd2f12caaffeb5301d8852dd6d1beb781. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa ericoides agrees with indexed species chaetopappa-ericoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bac64c3b1726dbac1f550ee31a5c33ecd2f12caaffeb5301d8852dd6d1beb781"
+      "sha256": "bac64c3b1726dbac1f550ee31a5c33ecd2f12caaffeb5301d8852dd6d1beb781",
+      "display_sha256": "3d264d5ee870f5945d4de8c2e9f2d488e63b73109523fcafb546b146198a403b",
+      "display_blob_sha": "b143408495d545fad114a061353fd5ced8ed7873",
+      "display_original_site_sha256": "bac64c3b1726dbac1f550ee31a5c33ecd2f12caaffeb5301d8852dd6d1beb781",
+      "display_original_blob_sha": "45b97aeb8820da254f57b4925771788c40569420",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 711093
     },
     {
       "src": "media/chaetopappa-ericoides/inat-627837577.jpg",
@@ -80,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "379370aa39229aa896836853061db2dd950053af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +99,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344568209, photo 627837577, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1daa7cdf79eea69e2741a65b6cd068dc6386d16819f65f1bff781b34a0c903e9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa ericoides agrees with indexed species chaetopappa-ericoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1daa7cdf79eea69e2741a65b6cd068dc6386d16819f65f1bff781b34a0c903e9"
+      "sha256": "1daa7cdf79eea69e2741a65b6cd068dc6386d16819f65f1bff781b34a0c903e9",
+      "display_sha256": "d96b81654499bef26e1e017df7862f3216a619dd2ce723fca0092cbd57f44029",
+      "display_blob_sha": "44a274f47ddb05f2f27137065b20a03347efce68",
+      "display_original_site_sha256": "1daa7cdf79eea69e2741a65b6cd068dc6386d16819f65f1bff781b34a0c903e9",
+      "display_original_blob_sha": "379370aa39229aa896836853061db2dd950053af",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1720,
+        1900
+      ],
+      "display_bytes": 749613
     },
     {
       "src": "media/chaetopappa-ericoides/inat-628205733.jpg",
@@ -99,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3d51f83e32b70a1595d544a40bfeefb92a551607",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +129,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344762179, photo 628205733, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 87c0d22b3357ceb895709612813a18d995f850e9519097ae087ff589f1af1404. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa ericoides agrees with indexed species chaetopappa-ericoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "87c0d22b3357ceb895709612813a18d995f850e9519097ae087ff589f1af1404"
+      "sha256": "87c0d22b3357ceb895709612813a18d995f850e9519097ae087ff589f1af1404",
+      "display_sha256": "69c86b04276036a5eadbd0b44bb806ad1313ef298a136eb7245b45674f9af6ab",
+      "display_blob_sha": "04c9a3f6d59d8ff1396a5a4580a5c31323e8659c",
+      "display_original_site_sha256": "87c0d22b3357ceb895709612813a18d995f850e9519097ae087ff589f1af1404",
+      "display_original_blob_sha": "3d51f83e32b70a1595d544a40bfeefb92a551607",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1362
+      ],
+      "display_bytes": 598097
     },
     {
       "src": "media/chaetopappa-ericoides/inat-628312476.jpg",
@@ -137,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "84a21c9041e0f4b604bf3c2dfced262907d481fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +178,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346054353, photo 630743109, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e945d2ba57be59e28da851429aeddb88312fa1fa0438377285614115ead9be1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa ericoides agrees with indexed species chaetopappa-ericoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7e945d2ba57be59e28da851429aeddb88312fa1fa0438377285614115ead9be1"
+      "sha256": "7e945d2ba57be59e28da851429aeddb88312fa1fa0438377285614115ead9be1",
+      "display_sha256": "7e71b49397a6cb9b513514404aec1baf12c22491d429765bbe6ea12dca2a6a2e",
+      "display_blob_sha": "a20e57d843a7478987e9def6082764ae4e71447a",
+      "display_original_site_sha256": "7e945d2ba57be59e28da851429aeddb88312fa1fa0438377285614115ead9be1",
+      "display_original_blob_sha": "84a21c9041e0f4b604bf3c2dfced262907d481fe",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 659728
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fe7aefc9ae93617aebf98c2256cc445c442ee282",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 156803415, photo 271171055, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 190547507920f90c1f998041885a798441f470ab39aebed21e330059da185c9b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Elephantopus carolinianus agrees with indexed species elephantopus-carolinianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "190547507920f90c1f998041885a798441f470ab39aebed21e330059da185c9b"
+      "sha256": "190547507920f90c1f998041885a798441f470ab39aebed21e330059da185c9b",
+      "display_sha256": "f63debc5046a19069cc7b37f98727b012c206e43b58690a4ee783289ff401ace",
+      "display_blob_sha": "2b3fb1bc61ee8e9a1f2f9388746bc3c7641a09a8",
+      "display_original_site_sha256": "190547507920f90c1f998041885a798441f470ab39aebed21e330059da185c9b",
+      "display_original_blob_sha": "fe7aefc9ae93617aebf98c2256cc445c442ee282",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1600,
+        1200
+      ],
+      "display_bytes": 741531
     },
     {
       "src": "media/elephantopus-carolinianus/inat-273273337.jpeg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d6ff925fbca0c8f8c8c5a04d1a355d7303d5fe0e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 158117668, photo 273273337, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 56ecfdb93983c357dce8ca53724f0c3e86bd0893fb89586125c4a6ea787660b4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Elephantopus carolinianus agrees with indexed species elephantopus-carolinianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "56ecfdb93983c357dce8ca53724f0c3e86bd0893fb89586125c4a6ea787660b4"
+      "sha256": "56ecfdb93983c357dce8ca53724f0c3e86bd0893fb89586125c4a6ea787660b4",
+      "display_sha256": "969f0c978a02dfc88e76cc1bac4343156051689eccc8de2f394667d596f9862d",
+      "display_blob_sha": "b6ca6cda228dcee647c5db4606cdfc039285a4fc",
+      "display_original_site_sha256": "56ecfdb93983c357dce8ca53724f0c3e86bd0893fb89586125c4a6ea787660b4",
+      "display_original_blob_sha": "d6ff925fbca0c8f8c8c5a04d1a355d7303d5fe0e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1600,
+        1200
+      ],
+      "display_bytes": 671939
     },
     {
       "src": "media/elephantopus-carolinianus/inat-395804693.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "083920c43ecafce1f64512e488d1e68478e240d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 223386865, photo 395804693, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad6351e1399b9ebaf79093e8385322c92699dca7dc79ce29836696647f7ba536. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Elephantopus carolinianus agrees with indexed species elephantopus-carolinianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ad6351e1399b9ebaf79093e8385322c92699dca7dc79ce29836696647f7ba536"
+      "sha256": "ad6351e1399b9ebaf79093e8385322c92699dca7dc79ce29836696647f7ba536",
+      "display_sha256": "ed08009f80772dacb529df39ea3dc8d6df9eb9d7d83960a105b0d8bfba520fdb",
+      "display_blob_sha": "962c8551b04681da034e894f1dda84910800209f",
+      "display_original_site_sha256": "ad6351e1399b9ebaf79093e8385322c92699dca7dc79ce29836696647f7ba536",
+      "display_original_blob_sha": "083920c43ecafce1f64512e488d1e68478e240d8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 405679
     },
     {
       "src": "media/elephantopus-carolinianus/inat-395910463.jpg",
@@ -96,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "be8de127d3809fa9bab2ebea248bfac8443759c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 300961888, photo 542302272, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0fbee23de4dfe353aaa94b769c06d7354d1f779bf1d1b48745f9360702bc672d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Elephantopus carolinianus agrees with indexed species elephantopus-carolinianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0fbee23de4dfe353aaa94b769c06d7354d1f779bf1d1b48745f9360702bc672d"
+      "sha256": "0fbee23de4dfe353aaa94b769c06d7354d1f779bf1d1b48745f9360702bc672d",
+      "display_sha256": "7244de40dfebe89501bbe704585bebb3215b3db5fbd4d20ea62db70b14b930bd",
+      "display_blob_sha": "3aba5a14e46bac7cd45d726f00fc5f46700b9843",
+      "display_original_site_sha256": "0fbee23de4dfe353aaa94b769c06d7354d1f779bf1d1b48745f9360702bc672d",
+      "display_original_blob_sha": "be8de127d3809fa9bab2ebea248bfac8443759c0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 748152
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

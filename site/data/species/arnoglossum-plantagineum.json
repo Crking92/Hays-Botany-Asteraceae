@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a093958d4572110f9494ff6c6a93af80515e061",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 3294338, photo 3807728, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e1896ed408395bcaf3d583ae5825efba10f403a68cb50cc061d8851ed9f42fec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Arnoglossum plantagineum maps to indexed species arnoglossum-plantagineum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e1896ed408395bcaf3d583ae5825efba10f403a68cb50cc061d8851ed9f42fec"
+      "sha256": "e1896ed408395bcaf3d583ae5825efba10f403a68cb50cc061d8851ed9f42fec",
+      "display_sha256": "917dd68924f9d5199b99fb03c6d354c044ef4a339abda2b7ee1ec6b7ddb754de",
+      "display_blob_sha": "ca67644a7cb6303e2a1adfc1593db73934f0618f",
+      "display_original_site_sha256": "e1896ed408395bcaf3d583ae5825efba10f403a68cb50cc061d8851ed9f42fec",
+      "display_original_blob_sha": "7a093958d4572110f9494ff6c6a93af80515e061",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1313
+      ],
+      "display_bytes": 671015
     },
     {
       "src": "media/arnoglossum-plantagineum/inat-509322106.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dfcab96886f1d41b6a6f14b839d07993a31f576a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 283452145, photo 509322106, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9caac797563303a4ba8d27c7bfaeb8550511f8c45295d95e80ea8b98c7501b7a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Arnoglossum plantagineum maps to indexed species arnoglossum-plantagineum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9caac797563303a4ba8d27c7bfaeb8550511f8c45295d95e80ea8b98c7501b7a"
+      "sha256": "9caac797563303a4ba8d27c7bfaeb8550511f8c45295d95e80ea8b98c7501b7a",
+      "display_sha256": "6d362c3045a79a9b2a4f7107f8614d1ec1f0cc8b34000f64eb28289b31729774",
+      "display_blob_sha": "9b2594e608170340e33dba04cac0c315ddec373d",
+      "display_original_site_sha256": "9caac797563303a4ba8d27c7bfaeb8550511f8c45295d95e80ea8b98c7501b7a",
+      "display_original_blob_sha": "dfcab96886f1d41b6a6f14b839d07993a31f576a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 562910
     },
     {
       "src": "media/arnoglossum-plantagineum/inat-623991776.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "b0abf6c52d63aa3ce0751877e34908b01a1e101f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342633151, photo 623991776, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1a16259fba0beb2c1e7660ee25ff11d1fba646c03b3d9e1918128e49eaf916e. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Arnoglossum plantagineum maps to indexed species arnoglossum-plantagineum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b1a16259fba0beb2c1e7660ee25ff11d1fba646c03b3d9e1918128e49eaf916e"
+      "sha256": "b1a16259fba0beb2c1e7660ee25ff11d1fba646c03b3d9e1918128e49eaf916e",
+      "display_sha256": "ed711011ee76de6dcee50a85519ff62c0f462beb1a43cebb5c553226ba6e19e6",
+      "display_blob_sha": "d06cb2907ddac596d5f17ecac0949fa59fe21233",
+      "display_original_site_sha256": "b1a16259fba0beb2c1e7660ee25ff11d1fba646c03b3d9e1918128e49eaf916e",
+      "display_original_blob_sha": "b0abf6c52d63aa3ce0751877e34908b01a1e101f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 722056
     },
     {
       "src": "media/arnoglossum-plantagineum/inat-629740511.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "baa7d105ad74821594aa188dab586dbd9ce99a98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345544808, photo 629740511, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: abb9bdc38a76e34d5b55f6305785fd7ef34c64fe4da6651b5082ab48db4745d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Arnoglossum plantagineum maps to indexed species arnoglossum-plantagineum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "abb9bdc38a76e34d5b55f6305785fd7ef34c64fe4da6651b5082ab48db4745d8"
+      "sha256": "abb9bdc38a76e34d5b55f6305785fd7ef34c64fe4da6651b5082ab48db4745d8",
+      "display_sha256": "2f7140987eb444d44ee91e29813f944d9ad1d876a6bdae52ad933aebaab648fe",
+      "display_blob_sha": "be12d61c4146a9429657c5377c44f0b6ca636cd9",
+      "display_original_site_sha256": "abb9bdc38a76e34d5b55f6305785fd7ef34c64fe4da6651b5082ab48db4745d8",
+      "display_original_blob_sha": "baa7d105ad74821594aa188dab586dbd9ce99a98",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 778020
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

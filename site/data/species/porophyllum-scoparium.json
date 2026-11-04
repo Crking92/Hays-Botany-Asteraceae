@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b41aac0879aa57d848de96102e79f4ff07ebd610",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347916712, photo 634429836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5fa4a1a0121ae29769c5e54155a730a08058ca769945c0cbf301609102df1e4b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Porophyllum scoparium maps to indexed species porophyllum-scoparium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "5fa4a1a0121ae29769c5e54155a730a08058ca769945c0cbf301609102df1e4b"
+      "sha256": "5fa4a1a0121ae29769c5e54155a730a08058ca769945c0cbf301609102df1e4b",
+      "display_sha256": "10d0076cd8317355e77cc5fef1e68514e6b94d4c54099c750ad3e56ebeeba685",
+      "display_blob_sha": "c3b77a8a1aa625809fb7395d6f9f3edd6f8233be",
+      "display_original_site_sha256": "5fa4a1a0121ae29769c5e54155a730a08058ca769945c0cbf301609102df1e4b",
+      "display_original_blob_sha": "b41aac0879aa57d848de96102e79f4ff07ebd610",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1586,
+        1278
+      ],
+      "display_bytes": 610597
     },
     {
       "src": "media/porophyllum-scoparium/inat-639710919.jpg",
@@ -58,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08f6731bc615d09421583e084e6bb43fbdb6b059",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +77,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350597939, photo 639710919, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 102c5015ee496bd3a40cee1c7e8f161b52d3e79aa8db3a8e2128178434ed71a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Porophyllum scoparium maps to indexed species porophyllum-scoparium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "102c5015ee496bd3a40cee1c7e8f161b52d3e79aa8db3a8e2128178434ed71a5"
+      "sha256": "102c5015ee496bd3a40cee1c7e8f161b52d3e79aa8db3a8e2128178434ed71a5",
+      "display_sha256": "896f6a0a913707c24af9ecc61378fc8328c8093ea4f394f0a02ae52e8e27ec8a",
+      "display_blob_sha": "53bc584bf51baea2227ed8df8be95aaca40ffe89",
+      "display_original_site_sha256": "102c5015ee496bd3a40cee1c7e8f161b52d3e79aa8db3a8e2128178434ed71a5",
+      "display_original_blob_sha": "08f6731bc615d09421583e084e6bb43fbdb6b059",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1179,
+        1745
+      ],
+      "display_bytes": 567239
     },
     {
       "src": "media/porophyllum-scoparium/inat-640596814.jpg",
@@ -77,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "619bf1177bef17295ef569f3c7dd928368a4862c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +107,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351060438, photo 640596814, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b29ac3386978f774ad0e78b6c5d82ceca29a091c87a7efa51d732fd0ea9bff2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Porophyllum scoparium maps to indexed species porophyllum-scoparium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "b29ac3386978f774ad0e78b6c5d82ceca29a091c87a7efa51d732fd0ea9bff2c"
+      "sha256": "b29ac3386978f774ad0e78b6c5d82ceca29a091c87a7efa51d732fd0ea9bff2c",
+      "display_sha256": "15856f1290e9e53a8bc7eebf72af74830870dcc8ab7a0cb2f4fe80b606fcada1",
+      "display_blob_sha": "88cf9adca9ce27cc58cad4769089cad56d3bf6ab",
+      "display_original_site_sha256": "b29ac3386978f774ad0e78b6c5d82ceca29a091c87a7efa51d732fd0ea9bff2c",
+      "display_original_blob_sha": "619bf1177bef17295ef569f3c7dd928368a4862c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 555245
     },
     {
       "src": "media/porophyllum-scoparium/inat-647971566.jpg",
@@ -96,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9c37a462b66e875d2a1257fee347e148e8842133",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355274374, photo 647971566, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 681dedd8d76fd341925106dc246129423771ef02bc8dbbb4368915fd2c227369. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Porophyllum scoparium maps to indexed species porophyllum-scoparium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "681dedd8d76fd341925106dc246129423771ef02bc8dbbb4368915fd2c227369"
+      "sha256": "681dedd8d76fd341925106dc246129423771ef02bc8dbbb4368915fd2c227369",
+      "display_sha256": "32a05102d8e83cf0f10273c864eba835eb049352a9e4e736fee8fb3b921dcf6a",
+      "display_blob_sha": "f6d9bc7a4a990dab9234c223f0d6307443f7abc7",
+      "display_original_site_sha256": "681dedd8d76fd341925106dc246129423771ef02bc8dbbb4368915fd2c227369",
+      "display_original_blob_sha": "9c37a462b66e875d2a1257fee347e148e8842133",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 753393
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

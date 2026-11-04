@@ -68,12 +68,23 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "source_page": "https://commons.wikimedia.org/wiki/File:Verbesina_virginica_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC09013.jpg",
       "role": "Whole fall-flowering frostweed at Zilker Botanical Garden, Austin Texas; natural height, branching canopy and green foliage",
-      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays",
+      "modified": "Scaled/converted to JPEG, metadata removed; no anatomy overlays; web copy resized and recompressed; archived original unchanged",
       "source_blob_sha": "c3870e1e5417d58ce17da9bdfbf35a2f12a55ce8",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true,
-      "rights_note": ""
+      "rights_note": "",
+      "display_sha256": "dc31626a96237ec0137d8c1414a87afbe144bca3ef7773ab69150d78f795ef9f",
+      "display_blob_sha": "a48d72793f784522d9a20f47a9eb6f971bdaeb1d",
+      "display_original_site_sha256": "e6144b3d22109d2a73c34a5831fff3117a4488d96ef69fddaedb7a812e1482e5",
+      "display_original_blob_sha": "9c410c8e5156d3aa319909af171b702e74bdd255",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        960,
+        1440
+      ],
+      "display_bytes": 734586
     },
     {
       "src": "media/verbesina-virginica/02.jpg",

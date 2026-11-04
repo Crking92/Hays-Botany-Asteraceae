@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35893ff98452950213140a32db1dcf2b3e3b2475",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 269001019, photo 483600046, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ce57017587918cb2aa30d0148252254a9b3402271d0385651ff219156d8d6326. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Mikania scandens maps to indexed species mikania-scandens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "ce57017587918cb2aa30d0148252254a9b3402271d0385651ff219156d8d6326"
+      "sha256": "ce57017587918cb2aa30d0148252254a9b3402271d0385651ff219156d8d6326",
+      "display_sha256": "ad4da2ea4bc6fcc04646cd2b1b68e185a18cf527bbc98a2ef8ab86df4246896a",
+      "display_blob_sha": "09cc71e6b16bd8770abc43cdf1ed7d50d98f798b",
+      "display_original_site_sha256": "ce57017587918cb2aa30d0148252254a9b3402271d0385651ff219156d8d6326",
+      "display_original_blob_sha": "35893ff98452950213140a32db1dcf2b3e3b2475",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1750
+      ],
+      "display_bytes": 678273
     },
     {
       "src": "media/mikania-scandens/inat-484338518.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "86788d5d21caac9b70e0ab648f2df32043efc481",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 269378423, photo 484338518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b8924970408c7be82cbc5b2b1906e3cdc3857390a747b680d34261d564ea491. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Mikania scandens maps to indexed species mikania-scandens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "6b8924970408c7be82cbc5b2b1906e3cdc3857390a747b680d34261d564ea491"
+      "sha256": "6b8924970408c7be82cbc5b2b1906e3cdc3857390a747b680d34261d564ea491",
+      "display_sha256": "c934f268d2075e59e8ba41f5ec4b9082f4fea3dfa831c0216bbf61cdc8ad3eef",
+      "display_blob_sha": "ed3614aa841ede221e1f3b7552bf6e4d603b7e17",
+      "display_original_site_sha256": "6b8924970408c7be82cbc5b2b1906e3cdc3857390a747b680d34261d564ea491",
+      "display_original_blob_sha": "86788d5d21caac9b70e0ab648f2df32043efc481",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 691125
     },
     {
       "src": "media/mikania-scandens/inat-624328813.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f49e1a3e5ce65324c94e72a91ecea16e46ec3f54",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342808374, photo 624328813, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 34fbe2b71661f3cf352cedde6a102b64b5ad515bb1a8c81e4371289594888f70. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Mikania scandens maps to indexed species mikania-scandens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "34fbe2b71661f3cf352cedde6a102b64b5ad515bb1a8c81e4371289594888f70"
+      "sha256": "34fbe2b71661f3cf352cedde6a102b64b5ad515bb1a8c81e4371289594888f70",
+      "display_sha256": "c10384cd25e414a20211ed18b74152d6cc15acd19988bfc70febb8a170f0a1dd",
+      "display_blob_sha": "a36f3b4305d355124377e5b1e1dafdfc637bf449",
+      "display_original_site_sha256": "34fbe2b71661f3cf352cedde6a102b64b5ad515bb1a8c81e4371289594888f70",
+      "display_original_blob_sha": "f49e1a3e5ce65324c94e72a91ecea16e46ec3f54",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 773384
     },
     {
       "src": "media/mikania-scandens/inat-646800987.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "02914323076eadd819ec72551761b4c85728d761",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354572575, photo 646800987, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f9589d80e4b909cb089ade2dcf5c77ada764b6b105bc4ec93efaf5d4d8cd9af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Mikania scandens maps to indexed species mikania-scandens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "4f9589d80e4b909cb089ade2dcf5c77ada764b6b105bc4ec93efaf5d4d8cd9af"
+      "sha256": "4f9589d80e4b909cb089ade2dcf5c77ada764b6b105bc4ec93efaf5d4d8cd9af",
+      "display_sha256": "e8c31930869aad2527e750bee89130727b21ba30641ad1e233f80230b3cdead8",
+      "display_blob_sha": "ad0ccc6cf443aa7627f56d16c7c8da4f1f18983b",
+      "display_original_site_sha256": "4f9589d80e4b909cb089ade2dcf5c77ada764b6b105bc4ec93efaf5d4d8cd9af",
+      "display_original_blob_sha": "02914323076eadd819ec72551761b4c85728d761",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 734920
     },
     {
       "src": "media/mikania-scandens/inat-646828353.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79c1c30310220b9d4b072c2e9e06856344abe155",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354588650, photo 646828353, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a55fc54a9a0f8a5c7ce03c340a59bb153051b1449df388874b4b3e05c2335d3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Mikania scandens maps to indexed species mikania-scandens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "3a55fc54a9a0f8a5c7ce03c340a59bb153051b1449df388874b4b3e05c2335d3"
+      "sha256": "3a55fc54a9a0f8a5c7ce03c340a59bb153051b1449df388874b4b3e05c2335d3",
+      "display_sha256": "0676f817a84ade158e95bf421ab513065cf85e2ca422d5c85c13106ecc3bbce8",
+      "display_blob_sha": "b6f42a90ac154d996ef5e8c5dce90db29e62774f",
+      "display_original_site_sha256": "3a55fc54a9a0f8a5c7ce03c340a59bb153051b1449df388874b4b3e05c2335d3",
+      "display_original_blob_sha": "79c1c30310220b9d4b072c2e9e06856344abe155",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 631706
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

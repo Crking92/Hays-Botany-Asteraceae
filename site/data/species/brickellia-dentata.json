@@ -44,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "226ba93b934fb6da7c014bbe3994b95b2207a794",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -52,7 +52,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 78890325, photo 129157570, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9de65c039b542b314a7eb8a6c064ec3a98d43102139e527511037a970b25a3c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Brickellia dentata maps to indexed species brickellia-dentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e9de65c039b542b314a7eb8a6c064ec3a98d43102139e527511037a970b25a3c"
+      "sha256": "e9de65c039b542b314a7eb8a6c064ec3a98d43102139e527511037a970b25a3c",
+      "display_sha256": "f750868e2e4931fef823ac35179b402fcf6018a687a3f986c7b283a6bc5eaa11",
+      "display_blob_sha": "303af3cb9e11da47e8fe4e623d0d94f6b7863ce5",
+      "display_original_site_sha256": "e9de65c039b542b314a7eb8a6c064ec3a98d43102139e527511037a970b25a3c",
+      "display_original_blob_sha": "226ba93b934fb6da7c014bbe3994b95b2207a794",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 755491
     },
     {
       "src": "media/brickellia-dentata/inat-676605440.jpg",
@@ -63,7 +74,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cdf6c8ed6688fcd5da2278c57cde7081e042467e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +82,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370368800, photo 676605440, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4812fafacbf46964c5c12c9da327037baa09fe330bf6015c647aac982130e841. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Brickellia dentata maps to indexed species brickellia-dentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "4812fafacbf46964c5c12c9da327037baa09fe330bf6015c647aac982130e841"
+      "sha256": "4812fafacbf46964c5c12c9da327037baa09fe330bf6015c647aac982130e841",
+      "display_sha256": "fe5bb994418b18d811d06480eab9849417cba5c597a8336c9f049c2b73b82d06",
+      "display_blob_sha": "3992f1891ba2d3240483b5e05933e2d135dab0bf",
+      "display_original_site_sha256": "4812fafacbf46964c5c12c9da327037baa09fe330bf6015c647aac982130e841",
+      "display_original_blob_sha": "cdf6c8ed6688fcd5da2278c57cde7081e042467e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 756255
     },
     {
       "src": "media/brickellia-dentata/inat-676724049.jpg",
@@ -82,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c304eaca30cb39e5fcea0a383970bd0d1bd94b9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +112,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370439657, photo 676724049, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f60380ca6b8e43740bc2a9b2f2b13bfceadadc91ff10abd495236313ccfe864. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Brickellia dentata maps to indexed species brickellia-dentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5f60380ca6b8e43740bc2a9b2f2b13bfceadadc91ff10abd495236313ccfe864"
+      "sha256": "5f60380ca6b8e43740bc2a9b2f2b13bfceadadc91ff10abd495236313ccfe864",
+      "display_sha256": "1a7f460ff89b093b8700afafdb2a248891a620a0ee305ca03fe81962d94306ec",
+      "display_blob_sha": "b5ba603ed06599d0e8edf60991c85aaca4dc0ee0",
+      "display_original_site_sha256": "5f60380ca6b8e43740bc2a9b2f2b13bfceadadc91ff10abd495236313ccfe864",
+      "display_original_blob_sha": "c304eaca30cb39e5fcea0a383970bd0d1bd94b9a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 777765
     },
     {
       "src": "media/brickellia-dentata/inat-676735425.jpg",
@@ -101,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a135ac355cc5a27b4f80d54804f2943fa3474580",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +142,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370445839, photo 676735425, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77383907f5330b7e5695522ca7760fe7d0f122793e8bc07daa66b8aab5c2f85f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Brickellia dentata maps to indexed species brickellia-dentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "77383907f5330b7e5695522ca7760fe7d0f122793e8bc07daa66b8aab5c2f85f"
+      "sha256": "77383907f5330b7e5695522ca7760fe7d0f122793e8bc07daa66b8aab5c2f85f",
+      "display_sha256": "4a61d501a6db1395cfa6009c222d7b79b72c07a653d831135bcadc2d4df4c1e2",
+      "display_blob_sha": "798c155caa37c9bb4daa242232ea25e056bc7323",
+      "display_original_site_sha256": "77383907f5330b7e5695522ca7760fe7d0f122793e8bc07daa66b8aab5c2f85f",
+      "display_original_blob_sha": "a135ac355cc5a27b4f80d54804f2943fa3474580",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 656741
     },
     {
       "src": "media/brickellia-dentata/inat-676735655.jpg",
@@ -120,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1a6dd7b33e7afa427b592cd934945be6c88345c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +172,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370445926, photo 676735655, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5867b411fe4c3fb2659b2f46d1ae5d0705e0f08bebdb7aa5f92fa7852eeba3ae. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Brickellia dentata maps to indexed species brickellia-dentata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5867b411fe4c3fb2659b2f46d1ae5d0705e0f08bebdb7aa5f92fa7852eeba3ae"
+      "sha256": "5867b411fe4c3fb2659b2f46d1ae5d0705e0f08bebdb7aa5f92fa7852eeba3ae",
+      "display_sha256": "1491f21a34af8f8ef887ab1dc3e19b976c38d8c129a853a068da9f49fb08435e",
+      "display_blob_sha": "2f0d4a5780d8bcfaa9dbbbf680c7adaf8a5a6587",
+      "display_original_site_sha256": "5867b411fe4c3fb2659b2f46d1ae5d0705e0f08bebdb7aa5f92fa7852eeba3ae",
+      "display_original_blob_sha": "b1a6dd7b33e7afa427b592cd934945be6c88345c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1087,
+        1450
+      ],
+      "display_bytes": 671436
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

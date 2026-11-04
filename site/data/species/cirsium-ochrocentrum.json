@@ -43,7 +43,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6dc38c412490b68158d247445e36a5f82c9c90c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -51,7 +51,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356140544, photo 648858026, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium ochrocentrum agrees with indexed species cirsium-ochrocentrum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92"
+      "sha256": "3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92",
+      "display_sha256": "734f6963f5d13b30b2e389e53b37f714846856b5542e3f2d4b8b9695cf23eabe",
+      "display_blob_sha": "653ad3c8a62893eb3f101ed872c54bcd7e8c55b2",
+      "display_original_site_sha256": "3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92",
+      "display_original_blob_sha": "6dc38c412490b68158d247445e36a5f82c9c90c9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 739490
     },
     {
       "src": "media/cirsium-ochrocentrum/inat-649121900.jpg",
@@ -62,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b7f7f27117a5d8a603731150d838bf539a3c518e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355958240, photo 649121900, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium ochrocentrum agrees with indexed species cirsium-ochrocentrum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440"
+      "sha256": "3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440",
+      "display_sha256": "452e878e9667d56f1dd6c34e7d8adad42d40352b2a7099451263d635514db8a0",
+      "display_blob_sha": "f1d465bb6dab41422e2709bc741287b3ab120a7e",
+      "display_original_site_sha256": "3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440",
+      "display_original_blob_sha": "b7f7f27117a5d8a603731150d838bf539a3c518e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1600,
+        1200
+      ],
+      "display_bytes": 718338
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

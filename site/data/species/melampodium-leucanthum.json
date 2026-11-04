@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f152d9e4bec7538faa8efc54854e14df8d50af45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341618541, photo 621941394, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9000d600194a6e95a1e9e58ab7ed1f44ecc1c1a402958375bcb591cf07a52477. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Melampodium leucanthum maps to indexed species melampodium-leucanthum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "9000d600194a6e95a1e9e58ab7ed1f44ecc1c1a402958375bcb591cf07a52477"
+      "sha256": "9000d600194a6e95a1e9e58ab7ed1f44ecc1c1a402958375bcb591cf07a52477",
+      "display_sha256": "5bc1a6ab2a55b37838cea8e65a4ae61a13efeebb8811667e60a23deb036be99c",
+      "display_blob_sha": "c70c259ca116b7b37b6e122a00c28b6c5ca13169",
+      "display_original_site_sha256": "9000d600194a6e95a1e9e58ab7ed1f44ecc1c1a402958375bcb591cf07a52477",
+      "display_original_blob_sha": "f152d9e4bec7538faa8efc54854e14df8d50af45",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 714319
     },
     {
       "src": "media/melampodium-leucanthum/inat-622972598.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bbb107323959765c38d8fa42a840a2f55cc4d44c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342130374, photo 622972598, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2fee1a4dbce5db4981d81e0c6643b22a699587ef91c74dcf8602e2dff4c47979. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Melampodium leucanthum maps to indexed species melampodium-leucanthum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "2fee1a4dbce5db4981d81e0c6643b22a699587ef91c74dcf8602e2dff4c47979"
+      "sha256": "2fee1a4dbce5db4981d81e0c6643b22a699587ef91c74dcf8602e2dff4c47979",
+      "display_sha256": "7173221c2649c34e6aaeb9d1f857bfcd500cd9e9965733c8829338126b4a7f81",
+      "display_blob_sha": "afddd277943f97c46f5a3358ae60de612cbac909",
+      "display_original_site_sha256": "2fee1a4dbce5db4981d81e0c6643b22a699587ef91c74dcf8602e2dff4c47979",
+      "display_original_blob_sha": "bbb107323959765c38d8fa42a840a2f55cc4d44c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 712469
     },
     {
       "src": "media/melampodium-leucanthum/inat-623726901.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ee701ce3a22822743b736b71b9511235a4485388",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342501099, photo 623726901, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9142b327c8fe0dc5beab8b73547a6a7988ef095a1f6a57f93b93d6adfbc866a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Melampodium leucanthum maps to indexed species melampodium-leucanthum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "9142b327c8fe0dc5beab8b73547a6a7988ef095a1f6a57f93b93d6adfbc866a5"
+      "sha256": "9142b327c8fe0dc5beab8b73547a6a7988ef095a1f6a57f93b93d6adfbc866a5",
+      "display_sha256": "b56c2a4b9a1cdfa09b27dbca1d6dba15cc48b31246eca463d396f6f2ffcfd98c",
+      "display_blob_sha": "767405bbb5dcea1e303c8648a0f0eb524d86366f",
+      "display_original_site_sha256": "9142b327c8fe0dc5beab8b73547a6a7988ef095a1f6a57f93b93d6adfbc866a5",
+      "display_original_blob_sha": "ee701ce3a22822743b736b71b9511235a4485388",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 476017
     },
     {
       "src": "media/melampodium-leucanthum/inat-623730258.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e8b2ffb73e24321a5be1d07519f2a62ac486ae4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342502556, photo 623730258, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d7f3d7c97b115dd50c75b496804d46d963eeb2172b7757ddc0facbdacfc6ac6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Melampodium leucanthum maps to indexed species melampodium-leucanthum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "0d7f3d7c97b115dd50c75b496804d46d963eeb2172b7757ddc0facbdacfc6ac6"
+      "sha256": "0d7f3d7c97b115dd50c75b496804d46d963eeb2172b7757ddc0facbdacfc6ac6",
+      "display_sha256": "8f6b7c49b8bd7da77bf3210131135303b5bf0a6337f3252963bb83ef280467b0",
+      "display_blob_sha": "b7d227a3797a3d3bd57dd36fb1e4623e1cac21f3",
+      "display_original_site_sha256": "0d7f3d7c97b115dd50c75b496804d46d963eeb2172b7757ddc0facbdacfc6ac6",
+      "display_original_blob_sha": "1e8b2ffb73e24321a5be1d07519f2a62ac486ae4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 555142
     },
     {
       "src": "media/melampodium-leucanthum/inat-625039144.jpg",
@@ -96,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d374edf3d1e593942e01bf408a5e3611865afd65",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343161666, photo 625039144, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65b3d879769c61d189dca7c4f152c24ddfaea0cf85705f1bdbfca7853ccfdef4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Melampodium leucanthum maps to indexed species melampodium-leucanthum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "65b3d879769c61d189dca7c4f152c24ddfaea0cf85705f1bdbfca7853ccfdef4"
+      "sha256": "65b3d879769c61d189dca7c4f152c24ddfaea0cf85705f1bdbfca7853ccfdef4",
+      "display_sha256": "95929d12aea24692fa13944ce7348235c86e04bd2dd85046b34e8d6246d332ae",
+      "display_blob_sha": "25cc785491fdf9c17f3ceec6ea4553671b9f38b3",
+      "display_original_site_sha256": "65b3d879769c61d189dca7c4f152c24ddfaea0cf85705f1bdbfca7853ccfdef4",
+      "display_original_blob_sha": "d374edf3d1e593942e01bf408a5e3611865afd65",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 710586
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

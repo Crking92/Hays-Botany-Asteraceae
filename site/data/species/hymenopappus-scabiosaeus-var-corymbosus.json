@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48f580c302246d9d144d9e4bb87c90cfaa4fb2d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +61,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 115905160, photo 195613368, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus corymbosus agrees with indexed species hymenopappus-scabiosaeus-var-corymbosus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d"
+      "sha256": "de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d",
+      "display_sha256": "7dabc630de4cb138b492e1a33a7d46d3c96af1715c44f25233fec002bc8abb10",
+      "display_blob_sha": "fd3f72027d08ade7e2265040d2cd62c57ec83fae",
+      "display_original_site_sha256": "de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d",
+      "display_original_blob_sha": "48f580c302246d9d144d9e4bb87c90cfaa4fb2d4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 354571
     },
     {
       "src": "media/hymenopappus-scabiosaeus-var-corymbosus/inat-269966495.jpg",
@@ -72,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3435f63e53b81d0898e966327c356a2d1f09bbb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +91,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 156144672, photo 269966495, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ed17192f36eb003c03d970c109aa7a44c187c183c54c1f5cbd17a20a537b2b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus corymbosus agrees with indexed species hymenopappus-scabiosaeus-var-corymbosus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "4ed17192f36eb003c03d970c109aa7a44c187c183c54c1f5cbd17a20a537b2b0"
+      "sha256": "4ed17192f36eb003c03d970c109aa7a44c187c183c54c1f5cbd17a20a537b2b0",
+      "display_sha256": "33fa5b910815b19b5f8049311d1e708ee83c2b014210da3e78fd4efe136a7b40",
+      "display_blob_sha": "d8138eaae6a7c68af8a71162729255f598366bf7",
+      "display_original_site_sha256": "4ed17192f36eb003c03d970c109aa7a44c187c183c54c1f5cbd17a20a537b2b0",
+      "display_original_blob_sha": "e3435f63e53b81d0898e966327c356a2d1f09bbb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 541902
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

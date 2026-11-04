@@ -59,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c7d79f789873d2d5ccbe2fc83d2f8689989d06c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -67,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348596168, photo 635756403, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 042c7bd94402f16d713e8a822214b001211641d37a5176c76b88bca44cbf5ad0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aphanostephus skirrhobasis maps to indexed species aphanostephus-skirrhobasis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "042c7bd94402f16d713e8a822214b001211641d37a5176c76b88bca44cbf5ad0"
+      "sha256": "042c7bd94402f16d713e8a822214b001211641d37a5176c76b88bca44cbf5ad0",
+      "display_sha256": "6e9f467fcaafac031fd851f76edd761bd490915102bd6501d723a4ac722a72b8",
+      "display_blob_sha": "6c1b7a03d24d0630163a4e6b599b578a93b353fb",
+      "display_original_site_sha256": "042c7bd94402f16d713e8a822214b001211641d37a5176c76b88bca44cbf5ad0",
+      "display_original_blob_sha": "0c7d79f789873d2d5ccbe2fc83d2f8689989d06c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 420521
     },
     {
       "src": "media/aphanostephus-skirrhobasis/inat-636702895.jpg",
@@ -97,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32fa023afac8102a16f9858efb06edb3773bc107",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +116,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352424591, photo 643170334, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f9cf85f1ec8376a76193a87f3bbdba09116a060208fc19ada2ca64c12b213721. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aphanostephus skirrhobasis maps to indexed species aphanostephus-skirrhobasis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f9cf85f1ec8376a76193a87f3bbdba09116a060208fc19ada2ca64c12b213721"
+      "sha256": "f9cf85f1ec8376a76193a87f3bbdba09116a060208fc19ada2ca64c12b213721",
+      "display_sha256": "7ab575408156af23f29f0337dd67ec59da0259df739e1de8b385013de3661474",
+      "display_blob_sha": "dfe0a05ef86859fb68d43f561e68c0c13ba826ed",
+      "display_original_site_sha256": "f9cf85f1ec8376a76193a87f3bbdba09116a060208fc19ada2ca64c12b213721",
+      "display_original_blob_sha": "32fa023afac8102a16f9858efb06edb3773bc107",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 646282
     },
     {
       "src": "media/aphanostephus-skirrhobasis/inat-647721345.jpg",
@@ -116,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b8372f5431d1773b5ea476591b5228aa73fa7e6d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +146,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355100794, photo 647721345, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9d63bf744abccd7875b492286bf8a4fe42abbf536c9373c154d065743585cfd3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aphanostephus skirrhobasis maps to indexed species aphanostephus-skirrhobasis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9d63bf744abccd7875b492286bf8a4fe42abbf536c9373c154d065743585cfd3"
+      "sha256": "9d63bf744abccd7875b492286bf8a4fe42abbf536c9373c154d065743585cfd3",
+      "display_sha256": "9e44bacd543b7ba52b5e300814b079a2d6ca2c3e2260d1f786f53a205b470aea",
+      "display_blob_sha": "0653a02776708984d069e2208bbb1df9b687edef",
+      "display_original_site_sha256": "9d63bf744abccd7875b492286bf8a4fe42abbf536c9373c154d065743585cfd3",
+      "display_original_blob_sha": "b8372f5431d1773b5ea476591b5228aa73fa7e6d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1250,
+        1750
+      ],
+      "display_bytes": 738668
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

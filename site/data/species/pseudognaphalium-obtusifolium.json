@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c3ebadd875ee6d87c1e0fd0ae46ea7a1eea50ad1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347343407, photo 633299212, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af02345b2422d9c6dd116872666498c0fee4002ebfedcee72b303a93d49bc5af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium obtusifolium maps to indexed species pseudognaphalium-obtusifolium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "af02345b2422d9c6dd116872666498c0fee4002ebfedcee72b303a93d49bc5af"
+      "sha256": "af02345b2422d9c6dd116872666498c0fee4002ebfedcee72b303a93d49bc5af",
+      "display_sha256": "9b0883e6ae534f83a40b347f276d0136fbbde33feabb764ef74e626debe6fc8b",
+      "display_blob_sha": "b43f54a3c9edca78e2d9760106bc05c9e5c6053f",
+      "display_original_site_sha256": "af02345b2422d9c6dd116872666498c0fee4002ebfedcee72b303a93d49bc5af",
+      "display_original_blob_sha": "c3ebadd875ee6d87c1e0fd0ae46ea7a1eea50ad1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2048
+      ],
+      "display_bytes": 727850
     },
     {
       "src": "media/pseudognaphalium-obtusifolium/inat-646845475.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cfbb0c3ca342b1b5e427cf186884f3a6f2ec049a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354598662, photo 646845475, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58f12a135e1100864a74f031a59352d18590dd8add2ec326b9f78db761f55d1a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium obtusifolium maps to indexed species pseudognaphalium-obtusifolium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "58f12a135e1100864a74f031a59352d18590dd8add2ec326b9f78db761f55d1a"
+      "sha256": "58f12a135e1100864a74f031a59352d18590dd8add2ec326b9f78db761f55d1a",
+      "display_sha256": "ad8b5a3399b57c4b83510047fcb279dc52397f2937345efd3873570f8de69b0b",
+      "display_blob_sha": "9340da0927ec8f0efe57a0fcd3201c9782c3cfd0",
+      "display_original_site_sha256": "58f12a135e1100864a74f031a59352d18590dd8add2ec326b9f78db761f55d1a",
+      "display_original_blob_sha": "cfbb0c3ca342b1b5e427cf186884f3a6f2ec049a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 738351
     },
     {
       "src": "media/pseudognaphalium-obtusifolium/inat-647525957.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8fb802dd5099b24551f290cb6cf31e40ea240da3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354984941, photo 647525957, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d403860b759ca3f8cf89562c00e3eb5996bc5810d2fad505e01a6febeb36178. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium obtusifolium maps to indexed species pseudognaphalium-obtusifolium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "6d403860b759ca3f8cf89562c00e3eb5996bc5810d2fad505e01a6febeb36178"
+      "sha256": "6d403860b759ca3f8cf89562c00e3eb5996bc5810d2fad505e01a6febeb36178",
+      "display_sha256": "fbe91a2bacf6f2a523074d736d5117294b9c6389109ebc5414fee00331caeea4",
+      "display_blob_sha": "a9e0cb72633c2ba979a8681b7fa15c11c925d8a8",
+      "display_original_site_sha256": "6d403860b759ca3f8cf89562c00e3eb5996bc5810d2fad505e01a6febeb36178",
+      "display_original_blob_sha": "8fb802dd5099b24551f290cb6cf31e40ea240da3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 711984
     },
     {
       "src": "media/pseudognaphalium-obtusifolium/inat-650139993.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f65babb12e2d2bac45e8dea35ea5906325af9868",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356506528, photo 650139993, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a3a92c0d3e73c2b8884c83c7770e6175d3cd3621ba07ecedfedac46b44d3165. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium obtusifolium maps to indexed species pseudognaphalium-obtusifolium (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "1a3a92c0d3e73c2b8884c83c7770e6175d3cd3621ba07ecedfedac46b44d3165"
+      "sha256": "1a3a92c0d3e73c2b8884c83c7770e6175d3cd3621ba07ecedfedac46b44d3165",
+      "display_sha256": "a5b0846cfabd52ce9339dadb986f51dc6263192505a5211216fd7cea131ec7aa",
+      "display_blob_sha": "ae191f5796c5045845a984be83283cb592778e4d",
+      "display_original_site_sha256": "1a3a92c0d3e73c2b8884c83c7770e6175d3cd3621ba07ecedfedac46b44d3165",
+      "display_original_blob_sha": "f65babb12e2d2bac45e8dea35ea5906325af9868",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1313
+      ],
+      "display_bytes": 673141
     },
     {
       "src": "media/pseudognaphalium-obtusifolium/inat-650153095.jpg",

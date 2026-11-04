@@ -94,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "884eefec1e9ba07fddd9b0b8cad52314f45d6183",
       "role": "General botanical reference: Conoclinium dissectum",
-      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
@@ -102,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
       "source_review_evidence": "The historical archive pins exact Git original 884eefec1e9ba07fddd9b0b8cad52314f45d6183 and iNaturalist photo 740687049. Its current individual source https://www.inaturalist.org/observations/403412142 identifies license cc-by-nc and creator (c) Valdez, some rights reserved (CC BY-NC); live source image fingerprint distance 11.",
       "taxon_review_evidence": "Original source archive associates conoclinium-dissectum with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
-      "sha256": "25fd98896316ec08df4355a83fd3f214fe211022cb620138fd13fbbc55163d30"
+      "sha256": "25fd98896316ec08df4355a83fd3f214fe211022cb620138fd13fbbc55163d30",
+      "display_sha256": "829ff58aec51a4c6ac5181a360f86ab5909ee58fc723d9d03ddd6ea969a39aca",
+      "display_blob_sha": "65146a67042d3b5e38b05f1a101481964f670b03",
+      "display_original_site_sha256": "25fd98896316ec08df4355a83fd3f214fe211022cb620138fd13fbbc55163d30",
+      "display_original_blob_sha": "884eefec1e9ba07fddd9b0b8cad52314f45d6183",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        768,
+        1024
+      ],
+      "display_bytes": 235597
     },
     {
       "src": "media/conoclinium-dissectum/inat-628686751.jpg",
@@ -132,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd40d997b4b19a19f2a2d23d310e8460802ceafc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +151,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349309287, photo 637188887, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bdecce23bdb10b6995ed66cb642a928fd4fa742819bef85bbebcc79ba4cabf0a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium dissectum agrees with indexed species conoclinium-dissectum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bdecce23bdb10b6995ed66cb642a928fd4fa742819bef85bbebcc79ba4cabf0a"
+      "sha256": "bdecce23bdb10b6995ed66cb642a928fd4fa742819bef85bbebcc79ba4cabf0a",
+      "display_sha256": "3dc7fde578a38b08509429e8eb9b04eac38d3120335b431312f1912a9a0c8b7f",
+      "display_blob_sha": "edab4524b220079a8558ed532f1f7b398a8a5ec7",
+      "display_original_site_sha256": "bdecce23bdb10b6995ed66cb642a928fd4fa742819bef85bbebcc79ba4cabf0a",
+      "display_original_blob_sha": "fd40d997b4b19a19f2a2d23d310e8460802ceafc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 565552
     },
     {
       "src": "media/conoclinium-dissectum/inat-643721309.jpg",
@@ -151,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a1542377ce2b1bdc82dd4c26c69990f53f438a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +181,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352736413, photo 643721309, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7955679f5a45d445720cf65038c530b0717b465d3539492564a76cf7d7900dd3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium dissectum agrees with indexed species conoclinium-dissectum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7955679f5a45d445720cf65038c530b0717b465d3539492564a76cf7d7900dd3"
+      "sha256": "7955679f5a45d445720cf65038c530b0717b465d3539492564a76cf7d7900dd3",
+      "display_sha256": "0050349f0c8a3241f29f964f159df1211b4c1e621e7ea97877b8174af891deaa",
+      "display_blob_sha": "1794c162ea212c097f0477d0786f1f9411cbe3b8",
+      "display_original_site_sha256": "7955679f5a45d445720cf65038c530b0717b465d3539492564a76cf7d7900dd3",
+      "display_original_blob_sha": "9a1542377ce2b1bdc82dd4c26c69990f53f438a5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 730182
     },
     {
       "src": "media/conoclinium-dissectum/inat-644103053.jpg",
@@ -170,7 +203,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e0068dd855571818c14436159802c91fb35f190",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -178,7 +211,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352973158, photo 644103053, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d35dd6a935a19f9e5a3d4310b7de083c6510c376b5dc4e14a818cdeae95789b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium dissectum agrees with indexed species conoclinium-dissectum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d35dd6a935a19f9e5a3d4310b7de083c6510c376b5dc4e14a818cdeae95789b8"
+      "sha256": "d35dd6a935a19f9e5a3d4310b7de083c6510c376b5dc4e14a818cdeae95789b8",
+      "display_sha256": "e683374f2eeadef6a13c7dc8e90bdef74a0bd8c366397ecb08e195d420937067",
+      "display_blob_sha": "01b4f90eb726ef5dc215102e5c792f5f6eb14b5e",
+      "display_original_site_sha256": "d35dd6a935a19f9e5a3d4310b7de083c6510c376b5dc4e14a818cdeae95789b8",
+      "display_original_blob_sha": "3e0068dd855571818c14436159802c91fb35f190",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 659567
     },
     {
       "src": "media/conoclinium-dissectum/inat-646037275.jpg",
@@ -189,7 +233,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69dd16e810104d58a8900c3be8c9f302711c29b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -197,7 +241,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354104907, photo 646037275, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d7f8526bf0f2121ebe35e52710db7ecbd503c1d098196e9f4493729352a8813. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Conoclinium dissectum agrees with indexed species conoclinium-dissectum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1d7f8526bf0f2121ebe35e52710db7ecbd503c1d098196e9f4493729352a8813"
+      "sha256": "1d7f8526bf0f2121ebe35e52710db7ecbd503c1d098196e9f4493729352a8813",
+      "display_sha256": "13e0261e727a4f8df3bd16a68d974a3ef24c28ec5b7166dea481523ac55c687d",
+      "display_blob_sha": "012b84f14504863a4906d7fa8ccc24a91970e0ba",
+      "display_original_site_sha256": "1d7f8526bf0f2121ebe35e52710db7ecbd503c1d098196e9f4493729352a8813",
+      "display_original_blob_sha": "69dd16e810104d58a8900c3be8c9f302711c29b9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 768996
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

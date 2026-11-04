@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "740aa6f95aa1227c36dfb1b7d377c618a052a071",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346073816, photo 630782081, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d40b979536ae1f1afaaac9ba3079cf95bb5ea41849ab6d3bba57599c861c2303. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus maximiliani agrees with indexed species helianthus-maximiliani; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d40b979536ae1f1afaaac9ba3079cf95bb5ea41849ab6d3bba57599c861c2303"
+      "sha256": "d40b979536ae1f1afaaac9ba3079cf95bb5ea41849ab6d3bba57599c861c2303",
+      "display_sha256": "4e78c660e931e2690da3925f94f591a670159f6bbb23a828caa1c138a3542366",
+      "display_blob_sha": "0b23a7f962857d58aa0b7c27b3c23f7c330917cc",
+      "display_original_site_sha256": "d40b979536ae1f1afaaac9ba3079cf95bb5ea41849ab6d3bba57599c861c2303",
+      "display_original_blob_sha": "740aa6f95aa1227c36dfb1b7d377c618a052a071",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 717555
     },
     {
       "src": "media/helianthus-maximiliani/inat-637014875.jpg",
@@ -99,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4f48eb130837d3470994ccfab2cfa2defaa9be09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349219917, photo 637014875, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 25aae8b5eb787fe65f5655f1191eff2aa73e91fa462c501acaa6baeddc1285ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus maximiliani agrees with indexed species helianthus-maximiliani; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "25aae8b5eb787fe65f5655f1191eff2aa73e91fa462c501acaa6baeddc1285ef"
+      "sha256": "25aae8b5eb787fe65f5655f1191eff2aa73e91fa462c501acaa6baeddc1285ef",
+      "display_sha256": "fdb310c09dec9c31db8973980e08552b66dded770c636dcdf3e617328823b535",
+      "display_blob_sha": "3d73f320d00493ef1bfaa274d4d89712f0c44347",
+      "display_original_site_sha256": "25aae8b5eb787fe65f5655f1191eff2aa73e91fa462c501acaa6baeddc1285ef",
+      "display_original_blob_sha": "4f48eb130837d3470994ccfab2cfa2defaa9be09",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 752492
     },
     {
       "src": "media/helianthus-maximiliani/inat-644147028.jpg",
@@ -118,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "94dea82e97b0aafd9243a8a9fa49c58d21603b19",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352999432, photo 644147028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf262955ab9cfcc2e6896606d1f27979937eec11531fc65954e49744e4906d9f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus maximiliani agrees with indexed species helianthus-maximiliani; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cf262955ab9cfcc2e6896606d1f27979937eec11531fc65954e49744e4906d9f"
+      "sha256": "cf262955ab9cfcc2e6896606d1f27979937eec11531fc65954e49744e4906d9f",
+      "display_sha256": "e23608e1a6f40bbfb9a30fd292143aa524cc8cf68afcb611aa2ad7230d090e54",
+      "display_blob_sha": "6219d58c91b1b9aea1480bcad26a94e64b4d001e",
+      "display_original_site_sha256": "cf262955ab9cfcc2e6896606d1f27979937eec11531fc65954e49744e4906d9f",
+      "display_original_blob_sha": "94dea82e97b0aafd9243a8a9fa49c58d21603b19",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 714915
     },
     {
       "src": "media/helianthus-maximiliani/inat-649655275.jpg",
@@ -137,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "389bb0121b2b13dfc7a4df8f88919a43927bc750",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +178,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356245711, photo 649655275, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6677a7f3d14049c72d2c6d39e42f55d74bf34a95ccaa9d8735287593490e4406. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus maximiliani agrees with indexed species helianthus-maximiliani; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6677a7f3d14049c72d2c6d39e42f55d74bf34a95ccaa9d8735287593490e4406"
+      "sha256": "6677a7f3d14049c72d2c6d39e42f55d74bf34a95ccaa9d8735287593490e4406",
+      "display_sha256": "f09f3965924c51e937c28ada0db56ccf2c7fb5c4ba16c46fa6c63ba73e8367bf",
+      "display_blob_sha": "64e09831e6041bb44b1138e510d639c1ce0c80d4",
+      "display_original_site_sha256": "6677a7f3d14049c72d2c6d39e42f55d74bf34a95ccaa9d8735287593490e4406",
+      "display_original_blob_sha": "389bb0121b2b13dfc7a4df8f88919a43927bc750",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1153,
+        2048
+      ],
+      "display_bytes": 638661
     },
     {
       "src": "media/helianthus-maximiliani/inat-654458383.jpg",
@@ -156,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2033cc843d710f58ab5c34399011955422c738ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +208,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 358752051, photo 654458383, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8de247d0585d185bcfe4c63ca223e3372f0611de0ea377b78fee5296a315db19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helianthus maximiliani agrees with indexed species helianthus-maximiliani; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8de247d0585d185bcfe4c63ca223e3372f0611de0ea377b78fee5296a315db19"
+      "sha256": "8de247d0585d185bcfe4c63ca223e3372f0611de0ea377b78fee5296a315db19",
+      "display_sha256": "5d0bdb382e5deea7934efc15480ec28bbee73c03f22877060d22e58e2f2b6cda",
+      "display_blob_sha": "5b8c395c5c0c8340af6b03cfc3abf46b2288ca51",
+      "display_original_site_sha256": "8de247d0585d185bcfe4c63ca223e3372f0611de0ea377b78fee5296a315db19",
+      "display_original_blob_sha": "2033cc843d710f58ab5c34399011955422c738ca",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1671,
+        2048
+      ],
+      "display_bytes": 753599
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "257a754194a418c65bb0749c770ea675fce4822a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 244026990, photo 435218707, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e6719815a9da40bbb233ff4f9eb6d549d0d596cbab5a4a8e58c1ba22bf3e34e3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gymnosperma glutinosum agrees with indexed species gymnosperma-glutinosum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e6719815a9da40bbb233ff4f9eb6d549d0d596cbab5a4a8e58c1ba22bf3e34e3"
+      "sha256": "e6719815a9da40bbb233ff4f9eb6d549d0d596cbab5a4a8e58c1ba22bf3e34e3",
+      "display_sha256": "270aea2e622a4a4f2bab69c96ae8e49bd4db186880f5228f7c74cdc59ed86c70",
+      "display_blob_sha": "69e51042a5a43f92b9c4255fbf024d0ae70031aa",
+      "display_original_site_sha256": "e6719815a9da40bbb233ff4f9eb6d549d0d596cbab5a4a8e58c1ba22bf3e34e3",
+      "display_original_blob_sha": "257a754194a418c65bb0749c770ea675fce4822a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 415182
     },
     {
       "src": "media/gymnosperma-glutinosum/inat-442489228.jpeg",
@@ -58,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d67992abc123a89612571676a1a4383dd54ac7cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +77,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 247719761, photo 442489228, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5696458da62556c060b66412006800e496cd22dc458334e95d8fef2a4dc8461. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gymnosperma glutinosum agrees with indexed species gymnosperma-glutinosum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e5696458da62556c060b66412006800e496cd22dc458334e95d8fef2a4dc8461"
+      "sha256": "e5696458da62556c060b66412006800e496cd22dc458334e95d8fef2a4dc8461",
+      "display_sha256": "6d1317cdfcc6c0fc2a73dfa4c1c146b8448d0b0fb3ebc39cac88f21da647b072",
+      "display_blob_sha": "0b4254ff4669c470e7ff096aac2e8f238eb6e5ab",
+      "display_original_site_sha256": "e5696458da62556c060b66412006800e496cd22dc458334e95d8fef2a4dc8461",
+      "display_original_blob_sha": "d67992abc123a89612571676a1a4383dd54ac7cb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1264
+      ],
+      "display_bytes": 662943
     },
     {
       "src": "media/gymnosperma-glutinosum/inat-442490380.jpeg",
@@ -96,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e64582c55715544f3bf26dc5945fda9d54046bc2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +126,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 248135543, photo 443300462, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c759b985e4b5fdcd2ed0520cde6c759e14164e59f147038ffd64e38c52eac4f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gymnosperma glutinosum agrees with indexed species gymnosperma-glutinosum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5c759b985e4b5fdcd2ed0520cde6c759e14164e59f147038ffd64e38c52eac4f"
+      "sha256": "5c759b985e4b5fdcd2ed0520cde6c759e14164e59f147038ffd64e38c52eac4f",
+      "display_sha256": "9a1f438b34b29ebe5b6aaf918ca4a58a038fb496fd28056c2353929fcfb210c6",
+      "display_blob_sha": "760e0729af01c07aab58e021281a788c60efb01a",
+      "display_original_site_sha256": "5c759b985e4b5fdcd2ed0520cde6c759e14164e59f147038ffd64e38c52eac4f",
+      "display_original_blob_sha": "e64582c55715544f3bf26dc5945fda9d54046bc2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 632357
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

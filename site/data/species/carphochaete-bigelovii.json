@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0f2615603f7957820343c07471b77ab670646b5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343233289, photo 625187506, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc6d77664fd42620e7a4465be72387b2b66b34b5420f59cb8e67de4e415fb87e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carphochaete bigelovii maps to indexed species carphochaete-bigelovii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "dc6d77664fd42620e7a4465be72387b2b66b34b5420f59cb8e67de4e415fb87e"
+      "sha256": "dc6d77664fd42620e7a4465be72387b2b66b34b5420f59cb8e67de4e415fb87e",
+      "display_sha256": "9eb1f5b24e65972da0573e32e7010422f473a07c3aeceb021004be4ed50c2b03",
+      "display_blob_sha": "5e655ed0b36ebb60030afa7086669651655b5983",
+      "display_original_site_sha256": "dc6d77664fd42620e7a4465be72387b2b66b34b5420f59cb8e67de4e415fb87e",
+      "display_original_blob_sha": "f0f2615603f7957820343c07471b77ab670646b5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 653251
     },
     {
       "src": "media/carphochaete-bigelovii/inat-625703208.jpg",
@@ -86,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b1f911d1bb1417bbc68456b80645d0523ddd1fd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +105,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343486896, photo 625703208, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f8bfa65dfb859c2a4ef8e5ebd579f24c62da79173a5b6810c7db07e61c7aaa07. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carphochaete bigelovii maps to indexed species carphochaete-bigelovii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f8bfa65dfb859c2a4ef8e5ebd579f24c62da79173a5b6810c7db07e61c7aaa07"
+      "sha256": "f8bfa65dfb859c2a4ef8e5ebd579f24c62da79173a5b6810c7db07e61c7aaa07",
+      "display_sha256": "6102e9f18e2657d9d080b212e828d5f7759a9467f244d52c052171e7e3806d32",
+      "display_blob_sha": "9464fd77355381bf7f1db6d5d2730b500b3d524f",
+      "display_original_site_sha256": "f8bfa65dfb859c2a4ef8e5ebd579f24c62da79173a5b6810c7db07e61c7aaa07",
+      "display_original_blob_sha": "7b1f911d1bb1417bbc68456b80645d0523ddd1fd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 774916
     },
     {
       "src": "media/carphochaete-bigelovii/inat-628585276.jpg",
@@ -105,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "499257d66b5c25675db025e38363606eee8d0cda",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344957798, photo 628585276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8fc0918f1139c3abdc8bba163a7754530bb91880a89acf802a056b09329e6baf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carphochaete bigelovii maps to indexed species carphochaete-bigelovii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8fc0918f1139c3abdc8bba163a7754530bb91880a89acf802a056b09329e6baf"
+      "sha256": "8fc0918f1139c3abdc8bba163a7754530bb91880a89acf802a056b09329e6baf",
+      "display_sha256": "fc395a67d9ccb1f6ae8b07c708226710be9c7485ec756edbba0c807fa46f25ae",
+      "display_blob_sha": "4b1242a7b30ba435d6b86c0ffa05a0afca671d9b",
+      "display_original_site_sha256": "8fc0918f1139c3abdc8bba163a7754530bb91880a89acf802a056b09329e6baf",
+      "display_original_blob_sha": "499257d66b5c25675db025e38363606eee8d0cda",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 540166
     },
     {
       "src": "media/carphochaete-bigelovii/inat-628969006.jpg",
@@ -124,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d193d76226f19b428aabe0293aeae666e616fdfe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +165,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345154605, photo 628969006, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b12d92e27759a34eec4a410cf7872d71d71a250bbd7ef7ac14b8048c0247dd3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carphochaete bigelovii maps to indexed species carphochaete-bigelovii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5b12d92e27759a34eec4a410cf7872d71d71a250bbd7ef7ac14b8048c0247dd3"
+      "sha256": "5b12d92e27759a34eec4a410cf7872d71d71a250bbd7ef7ac14b8048c0247dd3",
+      "display_sha256": "e6358b738629eed2bf6511d0425faa4c6aef4c3b1a0a3628783f986062726307",
+      "display_blob_sha": "14cff8244e1130898c9df0d2a56dab2692801bbe",
+      "display_original_site_sha256": "5b12d92e27759a34eec4a410cf7872d71d71a250bbd7ef7ac14b8048c0247dd3",
+      "display_original_blob_sha": "d193d76226f19b428aabe0293aeae666e616fdfe",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1499
+      ],
+      "display_bytes": 763536
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

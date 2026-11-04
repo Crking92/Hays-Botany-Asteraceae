@@ -59,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "19b79b571876ba91fc9feb696aa1066f196ec33c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -67,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353611093, photo 645164862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ab67109ed55f24e4b910a67a269833108420a949d268aa85a510699b503a50d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia psilostachya maps to indexed species ambrosia-psilostachya (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1ab67109ed55f24e4b910a67a269833108420a949d268aa85a510699b503a50d"
+      "sha256": "1ab67109ed55f24e4b910a67a269833108420a949d268aa85a510699b503a50d",
+      "display_sha256": "3c5a85812050e4231fa5dbba9c2d66b6865a6a33a8ddc220e94b78e88f028045",
+      "display_blob_sha": "a0d073a7c4a823e64216e153964b1f7826070eaa",
+      "display_original_site_sha256": "1ab67109ed55f24e4b910a67a269833108420a949d268aa85a510699b503a50d",
+      "display_original_blob_sha": "19b79b571876ba91fc9feb696aa1066f196ec33c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 749113
     },
     {
       "src": "media/ambrosia-psilostachya/inat-645962225.jpg",
@@ -78,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1ea1f5f0079469f084b02e6bd481c2c10f369751",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +97,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354063325, photo 645962225, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f908926aaff17a2bb10833c2dccf5d07c949986db65f59f5b50a71e7a769ee95. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia psilostachya maps to indexed species ambrosia-psilostachya (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f908926aaff17a2bb10833c2dccf5d07c949986db65f59f5b50a71e7a769ee95"
+      "sha256": "f908926aaff17a2bb10833c2dccf5d07c949986db65f59f5b50a71e7a769ee95",
+      "display_sha256": "2ea9e99455a373a212f885b7e8d7cb69b4c51677f432094cd06b1d40f7ba964f",
+      "display_blob_sha": "6e00951a3ec321b82263cddf522c112d73db1417",
+      "display_original_site_sha256": "f908926aaff17a2bb10833c2dccf5d07c949986db65f59f5b50a71e7a769ee95",
+      "display_original_blob_sha": "1ea1f5f0079469f084b02e6bd481c2c10f369751",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 664825
     },
     {
       "src": "media/ambrosia-psilostachya/inat-647282085.jpg",
@@ -97,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb882d5a6b406c87cf39d46732dc33fc4338ae25",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +127,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354850306, photo 647282085, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cabe556ff243f969b256b80566dc81c1f1b980e65f8a8d22e615458df4f0980f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia psilostachya maps to indexed species ambrosia-psilostachya (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cabe556ff243f969b256b80566dc81c1f1b980e65f8a8d22e615458df4f0980f"
+      "sha256": "cabe556ff243f969b256b80566dc81c1f1b980e65f8a8d22e615458df4f0980f",
+      "display_sha256": "85e2864e9acc99b06a9c264e16d8d7620e46c99bc038c27b4a2f21d35fe1c420",
+      "display_blob_sha": "7e8751922c6f3083eb0e0c5539d4c01e9a0ad06f",
+      "display_original_site_sha256": "cabe556ff243f969b256b80566dc81c1f1b980e65f8a8d22e615458df4f0980f",
+      "display_original_blob_sha": "cb882d5a6b406c87cf39d46732dc33fc4338ae25",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 735587
     },
     {
       "src": "media/ambrosia-psilostachya/inat-647298388.jpg",
@@ -116,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2aeee5a6ffa14bb180ee1ff6711de10c71caf8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +157,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354859055, photo 647298388, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: edf96151b8a0a110a69ad779cd3f1ff86527031d78748285350b84ae0f03b7d1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia psilostachya maps to indexed species ambrosia-psilostachya (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "edf96151b8a0a110a69ad779cd3f1ff86527031d78748285350b84ae0f03b7d1"
+      "sha256": "edf96151b8a0a110a69ad779cd3f1ff86527031d78748285350b84ae0f03b7d1",
+      "display_sha256": "629c29ecbf820ddb49cce1be6fb3cf5df366d852b4bee9710cc2919b29abb51f",
+      "display_blob_sha": "3560517413239d36f9cfce48f484b04bc4586833",
+      "display_original_site_sha256": "edf96151b8a0a110a69ad779cd3f1ff86527031d78748285350b84ae0f03b7d1",
+      "display_original_blob_sha": "a2aeee5a6ffa14bb180ee1ff6711de10c71caf8d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 766518
     },
     {
       "src": "media/ambrosia-psilostachya/inat-648965223.jpg",
@@ -135,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "085b9cced2703e7a4ac3ab799f719baaed7f3ecc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +187,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355866372, photo 648965223, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d7cad95243b1a296d35d734b66a877ef951bf616b47667f294f722d99f118972. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia psilostachya maps to indexed species ambrosia-psilostachya (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d7cad95243b1a296d35d734b66a877ef951bf616b47667f294f722d99f118972"
+      "sha256": "d7cad95243b1a296d35d734b66a877ef951bf616b47667f294f722d99f118972",
+      "display_sha256": "4fa96e3f93f18bda6875aeb41a7988faef4c797fc8db3c76022cd285ad228323",
+      "display_blob_sha": "049043df34adc024792c4c25ca34a5492a3b60d8",
+      "display_original_site_sha256": "d7cad95243b1a296d35d734b66a877ef951bf616b47667f294f722d99f118972",
+      "display_original_blob_sha": "085b9cced2703e7a4ac3ab799f719baaed7f3ecc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 710782
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

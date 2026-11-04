@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e462cdad8e39bd0b293f45892de0d1d0ff62c20",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 87876847, photo 144930564, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76c412f12a1a4e7eaa7fffa4c1fec85b9ad8cf9fd233c893cd19981f1cb79582. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva angustifolia agrees with indexed species iva-asperifolia-var-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "76c412f12a1a4e7eaa7fffa4c1fec85b9ad8cf9fd233c893cd19981f1cb79582"
+      "sha256": "76c412f12a1a4e7eaa7fffa4c1fec85b9ad8cf9fd233c893cd19981f1cb79582",
+      "display_sha256": "29666a1cda5cf5134e70a7a62a4066c1df58b904a75a0dd4158a25b304b7fbb6",
+      "display_blob_sha": "073cde90f2c44b67657ddb90b425697ec082cdd3",
+      "display_original_site_sha256": "76c412f12a1a4e7eaa7fffa4c1fec85b9ad8cf9fd233c893cd19981f1cb79582",
+      "display_original_blob_sha": "2e462cdad8e39bd0b293f45892de0d1d0ff62c20",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 466938
     },
     {
       "src": "media/iva-asperifolia-var-angustifolia/inat-150750830.jpeg",
@@ -72,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "52e4ee3e2fd812402c7d16c1a9ea0f6cdca1c0d5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +91,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275182418, photo 494537038, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c99d624949587fe29c3c47244c5cf832d0ba665878823889f8378942f7fb593. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva angustifolia agrees with indexed species iva-asperifolia-var-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2c99d624949587fe29c3c47244c5cf832d0ba665878823889f8378942f7fb593"
+      "sha256": "2c99d624949587fe29c3c47244c5cf832d0ba665878823889f8378942f7fb593",
+      "display_sha256": "b9e2c6de5be987080fb431d23c53f76d3df0e2e4444a87742edead4251c3db72",
+      "display_blob_sha": "cfbe2b44900908f4b771bce0b81ee2d6cd085095",
+      "display_original_site_sha256": "2c99d624949587fe29c3c47244c5cf832d0ba665878823889f8378942f7fb593",
+      "display_original_blob_sha": "52e4ee3e2fd812402c7d16c1a9ea0f6cdca1c0d5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 678058
     },
     {
       "src": "media/iva-asperifolia-var-angustifolia/inat-735662425.jpg",
@@ -91,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fb17d5a5f588458ff4ef785f53a36a5d9cdaefbd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +121,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 400853200, photo 735662425, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0e31a32887112c94948bb91969feb6b32b56d77e5309fc5d9c5a38e4c0f3d4e7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva angustifolia agrees with indexed species iva-asperifolia-var-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0e31a32887112c94948bb91969feb6b32b56d77e5309fc5d9c5a38e4c0f3d4e7"
+      "sha256": "0e31a32887112c94948bb91969feb6b32b56d77e5309fc5d9c5a38e4c0f3d4e7",
+      "display_sha256": "2510afa5c57328cdf951288118502c3d19eb7001f00fcf10e191e9ebe6470b32",
+      "display_blob_sha": "3796fe10c79806bb0e9583f4ebabc7fec9634b4c",
+      "display_original_site_sha256": "0e31a32887112c94948bb91969feb6b32b56d77e5309fc5d9c5a38e4c0f3d4e7",
+      "display_original_blob_sha": "fb17d5a5f588458ff4ef785f53a36a5d9cdaefbd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 650688
     },
     {
       "src": "media/iva-asperifolia-var-angustifolia/inat-9581203.jpg",
@@ -110,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8280c1650afd64a274214d6a648bb7634a3a6070",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +151,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 7383371, photo 9581203, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a460ce0084f83c663d83eec00ef4b57632a3b09f6cb0168069201ed92da09392. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva angustifolia agrees with indexed species iva-asperifolia-var-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a460ce0084f83c663d83eec00ef4b57632a3b09f6cb0168069201ed92da09392"
+      "sha256": "a460ce0084f83c663d83eec00ef4b57632a3b09f6cb0168069201ed92da09392",
+      "display_sha256": "daa6125ce62845679ce40c38d4cd5a3ff4291d4adba24db6e0d37022ce52ab9d",
+      "display_blob_sha": "781266fa3c9abfda51612da03b80d0d6b3c8259d",
+      "display_original_site_sha256": "a460ce0084f83c663d83eec00ef4b57632a3b09f6cb0168069201ed92da09392",
+      "display_original_blob_sha": "8280c1650afd64a274214d6a648bb7634a3a6070",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 718446
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

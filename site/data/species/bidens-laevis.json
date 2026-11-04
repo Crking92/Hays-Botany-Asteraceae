@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b8049735b5572fba3aee6b54df0459712a80165",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 320644375, photo 579766429, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 78f0a5c4c2bf761777a89e61eaf799602cd20a5669f515185ed493c10998d046. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens laevis maps to indexed species bidens-laevis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "78f0a5c4c2bf761777a89e61eaf799602cd20a5669f515185ed493c10998d046"
+      "sha256": "78f0a5c4c2bf761777a89e61eaf799602cd20a5669f515185ed493c10998d046",
+      "display_sha256": "13396066e66d7566775dc4503711bdf43fb86b2a95878e9610587b01b87a8ab6",
+      "display_blob_sha": "e194bda6d57c0c93c28a868ed49a329fbf3f59eb",
+      "display_original_site_sha256": "78f0a5c4c2bf761777a89e61eaf799602cd20a5669f515185ed493c10998d046",
+      "display_original_blob_sha": "6b8049735b5572fba3aee6b54df0459712a80165",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 699431
     },
     {
       "src": "media/bidens-laevis/inat-580677738.jpg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e99f856b0c354c7195aa0c74ecbc40a4d4f4c54b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 321109254, photo 580677738, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ffbe9f055fbb1cbb1bdb12cb5b0119232308dc3fb6a229a548caef1c45456704. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens laevis maps to indexed species bidens-laevis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ffbe9f055fbb1cbb1bdb12cb5b0119232308dc3fb6a229a548caef1c45456704"
+      "sha256": "ffbe9f055fbb1cbb1bdb12cb5b0119232308dc3fb6a229a548caef1c45456704",
+      "display_sha256": "234022eb21fffaa41d0fc056c9bdb3aa5bfea9b8b3f24d316fde44c592d58d6a",
+      "display_blob_sha": "38d7ee05e043f1c1512f6daa973f055e895e2526",
+      "display_original_site_sha256": "ffbe9f055fbb1cbb1bdb12cb5b0119232308dc3fb6a229a548caef1c45456704",
+      "display_original_blob_sha": "e99f856b0c354c7195aa0c74ecbc40a4d4f4c54b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1655,
+        2000
+      ],
+      "display_bytes": 759544
     },
     {
       "src": "media/bidens-laevis/inat-580767068.jpg",
@@ -111,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7acc4677ff54c46055cc92e6af71d1f90a618c3c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 321152991, photo 580767068, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ce3daa9ebe46702d0c47aaed5f44d3a374f966242fa7e14fc66f5f1564ec915f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens laevis maps to indexed species bidens-laevis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ce3daa9ebe46702d0c47aaed5f44d3a374f966242fa7e14fc66f5f1564ec915f"
+      "sha256": "ce3daa9ebe46702d0c47aaed5f44d3a374f966242fa7e14fc66f5f1564ec915f",
+      "display_sha256": "8f32ef0c3c67f9e1c1cf9259a6ed353bb7c3d90aa224b088d9c4daa7d0e76c97",
+      "display_blob_sha": "1118b59aceaa0ba4ddb0ada732db8f5cfd6c8d4c",
+      "display_original_site_sha256": "ce3daa9ebe46702d0c47aaed5f44d3a374f966242fa7e14fc66f5f1564ec915f",
+      "display_original_blob_sha": "7acc4677ff54c46055cc92e6af71d1f90a618c3c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 544947
     },
     {
       "src": "media/bidens-laevis/inat-584000535.jpg",
@@ -130,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "023331cde190daca93f484c56aac74a968fa3a1e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 322793040, photo 584000535, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 811917e6785beb6da9fca00b4185ea49e5a1eca0f88a879e5c6c6b1345111cab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens laevis maps to indexed species bidens-laevis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "811917e6785beb6da9fca00b4185ea49e5a1eca0f88a879e5c6c6b1345111cab"
+      "sha256": "811917e6785beb6da9fca00b4185ea49e5a1eca0f88a879e5c6c6b1345111cab",
+      "display_sha256": "73cd859ac255832c7c1faf0004b09e6c40445c515c1426f50923e315296196e2",
+      "display_blob_sha": "351f1715873716431f7024cfe0eb163e6af399c9",
+      "display_original_site_sha256": "811917e6785beb6da9fca00b4185ea49e5a1eca0f88a879e5c6c6b1345111cab",
+      "display_original_blob_sha": "023331cde190daca93f484c56aac74a968fa3a1e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 309174
     },
     {
       "src": "media/bidens-laevis/inat-584441340.jpg",
@@ -149,7 +193,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6dbe5c5eb9eb0640a85d3a5f1a85f96db52d2455",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +201,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 323019555, photo 584441340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42e5a6f6ebebc940ca3cdc67cf9cb0bb141796a16c843cbb465b87d67368ec7e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens laevis maps to indexed species bidens-laevis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "42e5a6f6ebebc940ca3cdc67cf9cb0bb141796a16c843cbb465b87d67368ec7e"
+      "sha256": "42e5a6f6ebebc940ca3cdc67cf9cb0bb141796a16c843cbb465b87d67368ec7e",
+      "display_sha256": "753db27297c28e8040ec74ccc373d4e44541709f4eb77fc09f8c917631d935bb",
+      "display_blob_sha": "2c822b74ce723ac374bd6eea304b7271985ff7bf",
+      "display_original_site_sha256": "42e5a6f6ebebc940ca3cdc67cf9cb0bb141796a16c843cbb465b87d67368ec7e",
+      "display_original_blob_sha": "6dbe5c5eb9eb0640a85d3a5f1a85f96db52d2455",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 606708
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

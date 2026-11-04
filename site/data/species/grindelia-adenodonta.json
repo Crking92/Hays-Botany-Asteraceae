@@ -48,7 +48,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "12bc6d5b12599839a8d2a34f03420d2cfc09515c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -56,7 +56,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 119614615, photo 202223933, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 243bcc18d74e0301574ee77739352905dc834d29282471405bba6b7bdc4dea90. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia adenodonta agrees with indexed species grindelia-adenodonta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "243bcc18d74e0301574ee77739352905dc834d29282471405bba6b7bdc4dea90"
+      "sha256": "243bcc18d74e0301574ee77739352905dc834d29282471405bba6b7bdc4dea90",
+      "display_sha256": "0c18cd3f1f8feeca1e7ec6ee2190f89319c7d80c76187713dc058a7877e82b81",
+      "display_blob_sha": "84ac16f4ab2237e4662d3821377c246f444ad104",
+      "display_original_site_sha256": "243bcc18d74e0301574ee77739352905dc834d29282471405bba6b7bdc4dea90",
+      "display_original_blob_sha": "12bc6d5b12599839a8d2a34f03420d2cfc09515c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 493574
     },
     {
       "src": "media/grindelia-adenodonta/inat-382649620.jpg",
@@ -67,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8036b78f31ba723d41be02bbff3bc7a9fa49153a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +86,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 216368533, photo 382649620, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19c5c8bbfa7f85b196abcb609d8c2e714431dc0f123a460204c772edc2de54ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia adenodonta agrees with indexed species grindelia-adenodonta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "19c5c8bbfa7f85b196abcb609d8c2e714431dc0f123a460204c772edc2de54ca"
+      "sha256": "19c5c8bbfa7f85b196abcb609d8c2e714431dc0f123a460204c772edc2de54ca",
+      "display_sha256": "db77151a9be317992ada556df79c1452042b5a6cae956fb97b29fa468602f194",
+      "display_blob_sha": "e31e641ce384a8f0add2ac4e1679b38da9f24f80",
+      "display_original_site_sha256": "19c5c8bbfa7f85b196abcb609d8c2e714431dc0f123a460204c772edc2de54ca",
+      "display_original_blob_sha": "8036b78f31ba723d41be02bbff3bc7a9fa49153a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 573178
     },
     {
       "src": "media/grindelia-adenodonta/inat-382742273.jpg",
@@ -105,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "03a44678af1eefa1bdf4a817490b6fbeefbedbad",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 316115200, photo 571087429, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e73d9c98a9117388bb1f3db369bb2031e14388f7909f0e6d8a8039437d203d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia adenodonta agrees with indexed species grindelia-adenodonta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2e73d9c98a9117388bb1f3db369bb2031e14388f7909f0e6d8a8039437d203d0"
+      "sha256": "2e73d9c98a9117388bb1f3db369bb2031e14388f7909f0e6d8a8039437d203d0",
+      "display_sha256": "d34871d9037fab8332713c2b8e641790a78e22da103ca7bb1a8b2a3428d81cb8",
+      "display_blob_sha": "b4bfb06d00df9e82f6040194db173de7bcb84246",
+      "display_original_site_sha256": "2e73d9c98a9117388bb1f3db369bb2031e14388f7909f0e6d8a8039437d203d0",
+      "display_original_blob_sha": "03a44678af1eefa1bdf4a817490b6fbeefbedbad",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2047
+      ],
+      "display_bytes": 713365
     },
     {
       "src": "media/grindelia-adenodonta/inat-571087735.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9ca13e8ac01b49c694fd297fb983ff746d7de70",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 119305228, photo 201662535, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6b74afd7312fe4a11a027ee88c9b02bd875a5e004b79f77598257897585fde7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eclipta prostrata agrees with indexed species eclipta-prostrata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a6b74afd7312fe4a11a027ee88c9b02bd875a5e004b79f77598257897585fde7"
+      "sha256": "a6b74afd7312fe4a11a027ee88c9b02bd875a5e004b79f77598257897585fde7",
+      "display_sha256": "2cb375c35996715b6fb198c06a5aa18b74301903625871c7ce62b98a9240ee7c",
+      "display_blob_sha": "d775086cb2fc49356e30fd8bab6a8ced33294d30",
+      "display_original_site_sha256": "a6b74afd7312fe4a11a027ee88c9b02bd875a5e004b79f77598257897585fde7",
+      "display_original_blob_sha": "a9ca13e8ac01b49c694fd297fb983ff746d7de70",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 520964
     },
     {
       "src": "media/eclipta-prostrata/inat-275200501.jpg",
@@ -58,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed387bbad17ac9897a56f57ba4b64a923f7ad1ba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +77,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 159287378, photo 275200501, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7d09111aaeb2a8e86f75b77713645159c0eccc36c3159cf598c3741153f25b51. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eclipta prostrata agrees with indexed species eclipta-prostrata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7d09111aaeb2a8e86f75b77713645159c0eccc36c3159cf598c3741153f25b51"
+      "sha256": "7d09111aaeb2a8e86f75b77713645159c0eccc36c3159cf598c3741153f25b51",
+      "display_sha256": "1558a1a2166ec603f137f55f18ef3bf52d7a03436df48a1b24b3fd0aefcb9f55",
+      "display_blob_sha": "b02403bb4c6ab0c36ebd2a6deefbe474927264d5",
+      "display_original_site_sha256": "7d09111aaeb2a8e86f75b77713645159c0eccc36c3159cf598c3741153f25b51",
+      "display_original_blob_sha": "ed387bbad17ac9897a56f57ba4b64a923f7ad1ba",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 491504
     },
     {
       "src": "media/eclipta-prostrata/inat-380267708.jpg",
@@ -77,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ce53d68bb97a10bda07fd8877d6af0988733c4db",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +107,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 215105266, photo 380267708, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3fe5147b6d7b02fca395dc509d0cfa8fad68ebe3d4c97c4e57edcf8a6747359d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eclipta prostrata agrees with indexed species eclipta-prostrata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3fe5147b6d7b02fca395dc509d0cfa8fad68ebe3d4c97c4e57edcf8a6747359d"
+      "sha256": "3fe5147b6d7b02fca395dc509d0cfa8fad68ebe3d4c97c4e57edcf8a6747359d",
+      "display_sha256": "38ab2ccbb4cf9f59aa819992939b5e6a0966bdd8aa3553f0a77b263779dd9e2c",
+      "display_blob_sha": "2cc7f742eba481d0cb7de3b8c917072c1d119788",
+      "display_original_site_sha256": "3fe5147b6d7b02fca395dc509d0cfa8fad68ebe3d4c97c4e57edcf8a6747359d",
+      "display_original_blob_sha": "ce53d68bb97a10bda07fd8877d6af0988733c4db",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 731012
     },
     {
       "src": "media/eclipta-prostrata/inat-487614059.jpg",
@@ -96,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08c6185292cd665512d23a944f915c21196293d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271099342, photo 487614059, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6bd1df2ef18efd57fd8e8275d18a03d06a0eb14a9b54b035cb8b442c505951c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eclipta prostrata agrees with indexed species eclipta-prostrata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6bd1df2ef18efd57fd8e8275d18a03d06a0eb14a9b54b035cb8b442c505951c1"
+      "sha256": "6bd1df2ef18efd57fd8e8275d18a03d06a0eb14a9b54b035cb8b442c505951c1",
+      "display_sha256": "07671c204896c8aa5a23128d4a4d31797e18b4ae4279210ec161a01589ba2b0c",
+      "display_blob_sha": "1e555d573876b6e4acd03eacfa05fc03d722c9a2",
+      "display_original_site_sha256": "6bd1df2ef18efd57fd8e8275d18a03d06a0eb14a9b54b035cb8b442c505951c1",
+      "display_original_blob_sha": "08c6185292cd665512d23a944f915c21196293d1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 752441
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

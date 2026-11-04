@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d8e97433a18e29047140101f101e7fac14ceed7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347969943, photo 634546302, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f56f1c2a9f45022a868cdd3e3d2d258e005f0bf4976ab90672bbb4bca0a39ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lygodesmia texana maps to indexed species lygodesmia-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "7f56f1c2a9f45022a868cdd3e3d2d258e005f0bf4976ab90672bbb4bca0a39ca"
+      "sha256": "7f56f1c2a9f45022a868cdd3e3d2d258e005f0bf4976ab90672bbb4bca0a39ca",
+      "display_sha256": "4746b641c5651461b70fc5489ad13400bcf364b3d0afa50a9cdc3fa7db73bd4d",
+      "display_blob_sha": "11574855a55dc01c035d6ada5d809e6cfbaa28c2",
+      "display_original_site_sha256": "7f56f1c2a9f45022a868cdd3e3d2d258e005f0bf4976ab90672bbb4bca0a39ca",
+      "display_original_blob_sha": "3d8e97433a18e29047140101f101e7fac14ceed7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 710724
     },
     {
       "src": "media/lygodesmia-texana/inat-643202769.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "616b7697e22e5faacd2667b00d6c8f1487376157",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352419687, photo 643202769, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa79fbd565e48bac865182d602f43179dfa94645cd192fad3c4001430be53142. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lygodesmia texana maps to indexed species lygodesmia-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "fa79fbd565e48bac865182d602f43179dfa94645cd192fad3c4001430be53142"
+      "sha256": "fa79fbd565e48bac865182d602f43179dfa94645cd192fad3c4001430be53142",
+      "display_sha256": "06cf3792e8b89631a9ab843fafee8c1fa4a168085bb1a1912033db1bdc3c6896",
+      "display_blob_sha": "69d22fe34f81440f957f116b4f89169aac215fe9",
+      "display_original_site_sha256": "fa79fbd565e48bac865182d602f43179dfa94645cd192fad3c4001430be53142",
+      "display_original_blob_sha": "616b7697e22e5faacd2667b00d6c8f1487376157",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1313
+      ],
+      "display_bytes": 681095
     },
     {
       "src": "media/lygodesmia-texana/inat-643995877.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "51e05895ce31dfe375832b880b02486e563b5e83",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352910095, photo 643995877, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45ea2f42d831825fa6c3dd1145adc216f635edc7f817f5f73fa31ea5dc05234c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lygodesmia texana maps to indexed species lygodesmia-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "45ea2f42d831825fa6c3dd1145adc216f635edc7f817f5f73fa31ea5dc05234c"
+      "sha256": "45ea2f42d831825fa6c3dd1145adc216f635edc7f817f5f73fa31ea5dc05234c",
+      "display_sha256": "f02d9d2e8f1dcfd69323024312fdfd6c9ba52a7dac78f81692c27632521315e0",
+      "display_blob_sha": "cd19bf1b7459979d3623bb48f6c374fe05dd0f0c",
+      "display_original_site_sha256": "45ea2f42d831825fa6c3dd1145adc216f635edc7f817f5f73fa31ea5dc05234c",
+      "display_original_blob_sha": "51e05895ce31dfe375832b880b02486e563b5e83",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 545021
     },
     {
       "src": "media/lygodesmia-texana/inat-645300370.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8a5f457ecf50b9e85a5da7d8006483e0cc89f0b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353692576, photo 645300370, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d27da5cd2daabc05d11203c3575cdb7d5052143f9670a497e9260f249886f88f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lygodesmia texana maps to indexed species lygodesmia-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "d27da5cd2daabc05d11203c3575cdb7d5052143f9670a497e9260f249886f88f"
+      "sha256": "d27da5cd2daabc05d11203c3575cdb7d5052143f9670a497e9260f249886f88f",
+      "display_sha256": "305174fe7b2fa65cc4122ea24178b11df42f89608ac60790c63e46acc7f567a5",
+      "display_blob_sha": "01b70c2e9f4de1ffb393d467b31b7dfbe795933f",
+      "display_original_site_sha256": "d27da5cd2daabc05d11203c3575cdb7d5052143f9670a497e9260f249886f88f",
+      "display_original_blob_sha": "e8a5f457ecf50b9e85a5da7d8006483e0cc89f0b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 645279
     },
     {
       "src": "media/lygodesmia-texana/inat-648362317.jpg",
@@ -96,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b7428268eb1c96d7673449c6bcabc5c64c1732d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355521400, photo 648362317, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0aa8669dffe526e3ba7d3be290c506afbbf5e7a203bd6cb861148275ee9795f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lygodesmia texana maps to indexed species lygodesmia-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "0aa8669dffe526e3ba7d3be290c506afbbf5e7a203bd6cb861148275ee9795f5"
+      "sha256": "0aa8669dffe526e3ba7d3be290c506afbbf5e7a203bd6cb861148275ee9795f5",
+      "display_sha256": "b356c14c855872faee2781cffe4c5896ee62391b191136082956568623f8bc33",
+      "display_blob_sha": "9cb7d63ed52591fc16be4a46781c73a0d022b738",
+      "display_original_site_sha256": "0aa8669dffe526e3ba7d3be290c506afbbf5e7a203bd6cb861148275ee9795f5",
+      "display_original_blob_sha": "5b7428268eb1c96d7673449c6bcabc5c64c1732d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 698574
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

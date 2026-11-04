@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5b9b380f3f52ff21668e5fda66d502c1bf434a1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 159313244, photo 275244887, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86b799e7b78d223ab5e83a68faa89328a9ddcd19e404e6ebd8bc8b6f1cd7f1f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis salicifolia maps to indexed species baccharis-salicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "86b799e7b78d223ab5e83a68faa89328a9ddcd19e404e6ebd8bc8b6f1cd7f1f4"
+      "sha256": "86b799e7b78d223ab5e83a68faa89328a9ddcd19e404e6ebd8bc8b6f1cd7f1f4",
+      "display_sha256": "d1b388e2bb539204f4833c27c5b39a3321f27dc086d9edbab9064e0c2f936619",
+      "display_blob_sha": "5e069d29192e1bc20f3a3de7c1009cd8e77e16a8",
+      "display_original_site_sha256": "86b799e7b78d223ab5e83a68faa89328a9ddcd19e404e6ebd8bc8b6f1cd7f1f4",
+      "display_original_blob_sha": "c5b9b380f3f52ff21668e5fda66d502c1bf434a1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 763598
     },
     {
       "src": "media/baccharis-salicifolia/inat-375331810.jpeg",
@@ -106,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "200ff9473e3d40d5eef2de0c310dcc70c09449bb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +125,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 212386897, photo 375331810, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e79ebf105cccac558b934f09a9830be84a58e56f8389dadc0f66d9553283522. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis salicifolia maps to indexed species baccharis-salicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8e79ebf105cccac558b934f09a9830be84a58e56f8389dadc0f66d9553283522"
+      "sha256": "8e79ebf105cccac558b934f09a9830be84a58e56f8389dadc0f66d9553283522",
+      "display_sha256": "8d9bffa7d3c194f9358f7c2eae1d342dd38ca55104cfced4c22290198f965b70",
+      "display_blob_sha": "a740aab64b392213eab21906fed2ad83c1e62d7c",
+      "display_original_site_sha256": "8e79ebf105cccac558b934f09a9830be84a58e56f8389dadc0f66d9553283522",
+      "display_original_blob_sha": "200ff9473e3d40d5eef2de0c310dcc70c09449bb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 395775
     },
     {
       "src": "media/baccharis-salicifolia/inat-476832986.jpg",
@@ -125,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "399d615783efc233d6e92f3c82e3956b12039896",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +155,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 265464729, photo 476832986, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: efa9fa25776110d2de37ba25049b38085bd374e8ffa0a37bb7e7bd20e3621f7c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis salicifolia maps to indexed species baccharis-salicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "efa9fa25776110d2de37ba25049b38085bd374e8ffa0a37bb7e7bd20e3621f7c"
+      "sha256": "efa9fa25776110d2de37ba25049b38085bd374e8ffa0a37bb7e7bd20e3621f7c",
+      "display_sha256": "87c6662abcffc5cab7b6abd1e3e0ff3a3f51b5fc055fc4d048ff356c3e91ef92",
+      "display_blob_sha": "88ce4d2026ae46967603ff8e0d229cc7e38f3c7f",
+      "display_original_site_sha256": "efa9fa25776110d2de37ba25049b38085bd374e8ffa0a37bb7e7bd20e3621f7c",
+      "display_original_blob_sha": "399d615783efc233d6e92f3c82e3956b12039896",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1600,
+        1205
+      ],
+      "display_bytes": 737944
     },
     {
       "src": "media/baccharis-salicifolia/inat-478376726.jpg",
@@ -144,7 +177,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7628c468c271bb759e2633730815e804f199656",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +185,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 266259991, photo 478376726, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3feddbce187095093454da6cbe8d6df7bbfa9924f0e67fef5998a76555a292f7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis salicifolia maps to indexed species baccharis-salicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3feddbce187095093454da6cbe8d6df7bbfa9924f0e67fef5998a76555a292f7"
+      "sha256": "3feddbce187095093454da6cbe8d6df7bbfa9924f0e67fef5998a76555a292f7",
+      "display_sha256": "1887987aa035242fcbf68308c0f1ce7768f2df4ac6092695cafcf2197178c8b7",
+      "display_blob_sha": "48341f2a1bcdf815026416d298e95edd632c39e2",
+      "display_original_site_sha256": "3feddbce187095093454da6cbe8d6df7bbfa9924f0e67fef5998a76555a292f7",
+      "display_original_blob_sha": "d7628c468c271bb759e2633730815e804f199656",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 771076
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

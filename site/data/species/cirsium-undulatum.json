@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8b9252ad9f64965c2ad982ca31fbaee6c54391d3",
       "role": "General botanical reference: Cirsium undulatum",
-      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained.",
+      "modified": "Original archived photograph reused without modification; CC noncommercial restrictions retained; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner-authorized photo-first publication of the individually source-confirmed archived original, subject to noncommercial CC license and full creator credit.",
@@ -57,7 +57,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-original and exact live media-license rechecker",
       "source_review_evidence": "The historical archive pins exact Git original 8b9252ad9f64965c2ad982ca31fbaee6c54391d3 and iNaturalist photo 524259736. Its current individual source https://www.inaturalist.org/taxa/76358 identifies license cc-by-nc and creator (c) Steven Mlodinow, some rights reserved (CC BY-NC), uploaded by Steven Mlodinow; live source image fingerprint distance 0.",
       "taxon_review_evidence": "Original source archive associates cirsium-undulatum with verified specific taxon photo and historical visual photo match. The live source was rechecked for the same photo ID and visibly matching image; specialist morphological determination deferred.",
-      "sha256": "f0d2e21294a9dcaaad7dc7f8400b0908cfa9648deb09239ca60fbe122ce645e1"
+      "sha256": "f0d2e21294a9dcaaad7dc7f8400b0908cfa9648deb09239ca60fbe122ce645e1",
+      "display_sha256": "674e88a68f3bcc5d69d07a0ff76aff87270d26edc624ae3bf5f422ff16e88f21",
+      "display_blob_sha": "3b9f9229c872e4dc70145f77f632bd0eb79168f1",
+      "display_original_site_sha256": "f0d2e21294a9dcaaad7dc7f8400b0908cfa9648deb09239ca60fbe122ce645e1",
+      "display_original_blob_sha": "8b9252ad9f64965c2ad982ca31fbaee6c54391d3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1024,
+        1001
+      ],
+      "display_bytes": 266034
     },
     {
       "src": "media/cirsium-undulatum/inat-620242072.jpg",
@@ -68,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "331b8f6ce8666cf69c4bb6723693396b153a9686",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +87,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340792719, photo 620242072, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 22258907bc49877fd5997289bc6a8cca306eb552743df4368ca8a9d43c753d08. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium undulatum agrees with indexed species cirsium-undulatum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "22258907bc49877fd5997289bc6a8cca306eb552743df4368ca8a9d43c753d08"
+      "sha256": "22258907bc49877fd5997289bc6a8cca306eb552743df4368ca8a9d43c753d08",
+      "display_sha256": "186b6d7c1fb0df3b4c339c950fd08f5473eaa91800fb88248e4760ca99af1dfd",
+      "display_blob_sha": "ae112b04a14275a89d1fc2757608d8901a6b6e74",
+      "display_original_site_sha256": "22258907bc49877fd5997289bc6a8cca306eb552743df4368ca8a9d43c753d08",
+      "display_original_blob_sha": "331b8f6ce8666cf69c4bb6723693396b153a9686",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1314,
+        1750
+      ],
+      "display_bytes": 651381
     },
     {
       "src": "media/cirsium-undulatum/inat-642713682.jpg",
@@ -87,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99e8639d02a2c0708c98c987f44180aa08f80781",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +117,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352146886, photo 642713682, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bf94d341a0bcd6a843d41fe4aead1fde81fa83220b9ae13805860a8319a23b6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium undulatum agrees with indexed species cirsium-undulatum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1bf94d341a0bcd6a843d41fe4aead1fde81fa83220b9ae13805860a8319a23b6"
+      "sha256": "1bf94d341a0bcd6a843d41fe4aead1fde81fa83220b9ae13805860a8319a23b6",
+      "display_sha256": "8ede39f4482d97a5f3545c5748b2d1735dda1be7d4bf60c6a1a6c4674b84cac3",
+      "display_blob_sha": "806fbb221c8447893284ee84c71ef094a08ff92a",
+      "display_original_site_sha256": "1bf94d341a0bcd6a843d41fe4aead1fde81fa83220b9ae13805860a8319a23b6",
+      "display_original_blob_sha": "99e8639d02a2c0708c98c987f44180aa08f80781",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 672330
     },
     {
       "src": "media/cirsium-undulatum/inat-650392366.jpg",
@@ -106,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f3c2a40fff772be724d93c6902061bb76b92b56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +147,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356639429, photo 650392366, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07f85c664f34f4cda1025e6ef46438e8fae48088a780e7cf75b931a72262ccf1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium undulatum agrees with indexed species cirsium-undulatum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "07f85c664f34f4cda1025e6ef46438e8fae48088a780e7cf75b931a72262ccf1"
+      "sha256": "07f85c664f34f4cda1025e6ef46438e8fae48088a780e7cf75b931a72262ccf1",
+      "display_sha256": "ff003fe71d0c0171ffd4958e88b664b96ff33cbcdbcb13351a7ee9cfbb9f0c36",
+      "display_blob_sha": "94ab0c24dc8859a91a7aa06f53f416d72584429a",
+      "display_original_site_sha256": "07f85c664f34f4cda1025e6ef46438e8fae48088a780e7cf75b931a72262ccf1",
+      "display_original_blob_sha": "6f3c2a40fff772be724d93c6902061bb76b92b56",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1575,
+        2048
+      ],
+      "display_bytes": 769236
     },
     {
       "src": "media/cirsium-undulatum/inat-651542658.jpg",
@@ -125,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cb47a8eb2c0e30d23d817d74b5bd1cac8c49bab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +177,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357251574, photo 651542658, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6d8230716aed4053eef8577dd0726b8cc705076866192eb614efe5e850ff960. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium undulatum agrees with indexed species cirsium-undulatum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f6d8230716aed4053eef8577dd0726b8cc705076866192eb614efe5e850ff960"
+      "sha256": "f6d8230716aed4053eef8577dd0726b8cc705076866192eb614efe5e850ff960",
+      "display_sha256": "c4bfdc990a5bf1ffbbde422e4c326fed8e1b905757f6f8b679f6def413331d4b",
+      "display_blob_sha": "c2b4aa3c7a85793718fbcb3465c3739343a056c0",
+      "display_original_site_sha256": "f6d8230716aed4053eef8577dd0726b8cc705076866192eb614efe5e850ff960",
+      "display_original_blob_sha": "9cb47a8eb2c0e30d23d817d74b5bd1cac8c49bab",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 722938
     },
     {
       "src": "media/cirsium-undulatum/inat-653859949.jpg",
@@ -144,7 +199,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b6e87cb399e78cea2d731f46c0b40f4e79813ef5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +207,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 358429069, photo 653859949, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a7a52d299d4a39fffeaf6fad1526a305c68e69efab56765ede4b60e2973e58e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium undulatum agrees with indexed species cirsium-undulatum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a7a52d299d4a39fffeaf6fad1526a305c68e69efab56765ede4b60e2973e58e5"
+      "sha256": "a7a52d299d4a39fffeaf6fad1526a305c68e69efab56765ede4b60e2973e58e5",
+      "display_sha256": "2a09dd6d0f5c31bfdac91465d94f5d9e2777df671510df3a87848388d226e857",
+      "display_blob_sha": "25d9726ac83f8a540da325182a473f700ffb3b46",
+      "display_original_site_sha256": "a7a52d299d4a39fffeaf6fad1526a305c68e69efab56765ede4b60e2973e58e5",
+      "display_original_blob_sha": "b6e87cb399e78cea2d731f46c0b40f4e79813ef5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 736890
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

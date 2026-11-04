@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "203947e7ec74940a6b038dcd4c00177ad48a21d2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348128704, photo 634857995, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dd21aa4b603bd8f5f1078810054490b9379a06d8c87163b57c65d9f1c07cc888. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus agrees with indexed species hymenopappus-scabiosaeus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "dd21aa4b603bd8f5f1078810054490b9379a06d8c87163b57c65d9f1c07cc888"
+      "sha256": "dd21aa4b603bd8f5f1078810054490b9379a06d8c87163b57c65d9f1c07cc888",
+      "display_sha256": "197f042045dacd67bca540e03b89646c275ba6b91d02ea6cbe885db5ece04d9a",
+      "display_blob_sha": "345bafc9bf335b681fe6e6f2d5693e8df21bbfa3",
+      "display_original_site_sha256": "dd21aa4b603bd8f5f1078810054490b9379a06d8c87163b57c65d9f1c07cc888",
+      "display_original_blob_sha": "203947e7ec74940a6b038dcd4c00177ad48a21d2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 443399
     },
     {
       "src": "media/hymenopappus-scabiosaeus/inat-637933545.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d4c97270b626917b19cb8874aa1cd93d1a62158",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349686299, photo 637933545, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 25b210ae4e1f58e57b2196782532041d8bea2fa586f201fa84de5de3c5038305. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus agrees with indexed species hymenopappus-scabiosaeus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "25b210ae4e1f58e57b2196782532041d8bea2fa586f201fa84de5de3c5038305"
+      "sha256": "25b210ae4e1f58e57b2196782532041d8bea2fa586f201fa84de5de3c5038305",
+      "display_sha256": "4f546f4daaef5a78e47678b7fc1ffcf95fb773867221fd8b0bbea56f1d6ce0e7",
+      "display_blob_sha": "722852ac55e291e79829b1f3c94ae63e6c6e2420",
+      "display_original_site_sha256": "25b210ae4e1f58e57b2196782532041d8bea2fa586f201fa84de5de3c5038305",
+      "display_original_blob_sha": "3d4c97270b626917b19cb8874aa1cd93d1a62158",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 724466
     },
     {
       "src": "media/hymenopappus-scabiosaeus/inat-640712292.jpg",
@@ -77,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "73193953653710b510d6e71e2d8be87276f0c74b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +107,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352995822, photo 644140522, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe2883a0e0dfaac1009b7b7aba6d8d63a5205db8a3935c013bb8c956cc165162. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus agrees with indexed species hymenopappus-scabiosaeus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fe2883a0e0dfaac1009b7b7aba6d8d63a5205db8a3935c013bb8c956cc165162"
+      "sha256": "fe2883a0e0dfaac1009b7b7aba6d8d63a5205db8a3935c013bb8c956cc165162",
+      "display_sha256": "64dcb19f58339378808dc403221e40ae3bab6f6f81cc708b2b3240ed843ddf9a",
+      "display_blob_sha": "42a26415a6e3225b4243f93293b0c64493b2adc6",
+      "display_original_site_sha256": "fe2883a0e0dfaac1009b7b7aba6d8d63a5205db8a3935c013bb8c956cc165162",
+      "display_original_blob_sha": "73193953653710b510d6e71e2d8be87276f0c74b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 668223
     },
     {
       "src": "media/hymenopappus-scabiosaeus/inat-648093426.jpg",
@@ -96,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ddf32e8c92744fbbe3b896b795e76456a4c57050",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355348517, photo 648093426, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96547ba3f61326f6c4c2400deaceb6a3b38a696c337dc3367f68512e02f66396. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus agrees with indexed species hymenopappus-scabiosaeus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "96547ba3f61326f6c4c2400deaceb6a3b38a696c337dc3367f68512e02f66396"
+      "sha256": "96547ba3f61326f6c4c2400deaceb6a3b38a696c337dc3367f68512e02f66396",
+      "display_sha256": "0739f642a3a236a4e0a98aabf6ec74f0845fc2f0e8df2ea036c31cedc19f5f7e",
+      "display_blob_sha": "5a4492324b13b237503dd445ae3943fe48dc8ba7",
+      "display_original_site_sha256": "96547ba3f61326f6c4c2400deaceb6a3b38a696c337dc3367f68512e02f66396",
+      "display_original_blob_sha": "ddf32e8c92744fbbe3b896b795e76456a4c57050",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 764855
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

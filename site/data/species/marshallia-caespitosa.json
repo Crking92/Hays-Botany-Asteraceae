@@ -35,7 +35,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4d87296d55a9978aa3b23551c4b85e061b9de5e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -43,7 +43,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344586899, photo 627874042, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f7b2cc8419cea7900b5d05bdda29b1e9b72dfce2f30b7fb5aa685ebb2a2ddaed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Marshallia caespitosa maps to indexed species marshallia-caespitosa (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "f7b2cc8419cea7900b5d05bdda29b1e9b72dfce2f30b7fb5aa685ebb2a2ddaed"
+      "sha256": "f7b2cc8419cea7900b5d05bdda29b1e9b72dfce2f30b7fb5aa685ebb2a2ddaed",
+      "display_sha256": "09465f31da2feeafe62c55c3b091c1284f3fb478cb061b5722730ebd894a6e49",
+      "display_blob_sha": "31e6800756900843428cfec3a86e30fe26d3af65",
+      "display_original_site_sha256": "f7b2cc8419cea7900b5d05bdda29b1e9b72dfce2f30b7fb5aa685ebb2a2ddaed",
+      "display_original_blob_sha": "4d87296d55a9978aa3b23551c4b85e061b9de5e2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 455146
     },
     {
       "src": "media/marshallia-caespitosa/inat-638838489.jpg",
@@ -54,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d7d034dba9db49e1655581fa2a9b76f1cce20d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -62,7 +73,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350151952, photo 638838489, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 31f7d9ab9ff82bb4b7809a02dbfd57ff25c91a21aaeeefbb9cb0e02364bbc775. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Marshallia caespitosa maps to indexed species marshallia-caespitosa (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "31f7d9ab9ff82bb4b7809a02dbfd57ff25c91a21aaeeefbb9cb0e02364bbc775"
+      "sha256": "31f7d9ab9ff82bb4b7809a02dbfd57ff25c91a21aaeeefbb9cb0e02364bbc775",
+      "display_sha256": "db5c9fb0320d1f60324cc6069e69353a196e23819ffccaa07622b7f268ffeda3",
+      "display_blob_sha": "996d3668238db262310d407df5780136d7a664ea",
+      "display_original_site_sha256": "31f7d9ab9ff82bb4b7809a02dbfd57ff25c91a21aaeeefbb9cb0e02364bbc775",
+      "display_original_blob_sha": "9d7d034dba9db49e1655581fa2a9b76f1cce20d0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 395504
     },
     {
       "src": "media/marshallia-caespitosa/inat-641438741.jpg",
@@ -73,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ddb53412b1ecc580247a044b3399368cd7b9d879",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +103,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351491380, photo 641438741, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 83a778b5c8f17f62e2e052507252af8f33259411ce09cc03963db01530148f41. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Marshallia caespitosa maps to indexed species marshallia-caespitosa (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "83a778b5c8f17f62e2e052507252af8f33259411ce09cc03963db01530148f41"
+      "sha256": "83a778b5c8f17f62e2e052507252af8f33259411ce09cc03963db01530148f41",
+      "display_sha256": "7b2ea727a1f80d8e519397e1b00a8b0bfaa47e7f09f7d211798d917246497f9a",
+      "display_blob_sha": "79bd20dbb4a453f761653039562bf336e3144365",
+      "display_original_site_sha256": "83a778b5c8f17f62e2e052507252af8f33259411ce09cc03963db01530148f41",
+      "display_original_blob_sha": "ddb53412b1ecc580247a044b3399368cd7b9d879",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 670318
     },
     {
       "src": "media/marshallia-caespitosa/inat-644251746.jpg",
@@ -92,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "326242e6ff0acb3cc6dee6eaa3ebf845d664a66e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +133,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353059537, photo 644251746, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2569d0086417da79a225601a9f6717f623266042f212a379b21310592376f39d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Marshallia caespitosa maps to indexed species marshallia-caespitosa (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "2569d0086417da79a225601a9f6717f623266042f212a379b21310592376f39d"
+      "sha256": "2569d0086417da79a225601a9f6717f623266042f212a379b21310592376f39d",
+      "display_sha256": "e23dc0adf85f3b0b55609896351afe2394853e24dd0e9573ecd2d9e4aa084681",
+      "display_blob_sha": "da157b41d4b3bee4db5e97781ea2574544fbaca0",
+      "display_original_site_sha256": "2569d0086417da79a225601a9f6717f623266042f212a379b21310592376f39d",
+      "display_original_blob_sha": "326242e6ff0acb3cc6dee6eaa3ebf845d664a66e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 490079
     },
     {
       "src": "media/marshallia-caespitosa/inat-648221917.jpg",
@@ -111,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a020a895e801cbb529fb9ca3a8f4499075c064a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +163,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355432546, photo 648221917, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9ccb831c7aa3e729bb6019d759242acd0d3341db80f44d7b00d2c7d471ddcbfa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Marshallia caespitosa maps to indexed species marshallia-caespitosa (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "9ccb831c7aa3e729bb6019d759242acd0d3341db80f44d7b00d2c7d471ddcbfa"
+      "sha256": "9ccb831c7aa3e729bb6019d759242acd0d3341db80f44d7b00d2c7d471ddcbfa",
+      "display_sha256": "0061d8500f9d3849ba08ccccdab0b4c5ada2220a92c4434b93dc3833df4e41f2",
+      "display_blob_sha": "506fd72fde9de7bfa717e45f8a964817a82cae1e",
+      "display_original_site_sha256": "9ccb831c7aa3e729bb6019d759242acd0d3341db80f44d7b00d2c7d471ddcbfa",
+      "display_original_blob_sha": "4a020a895e801cbb529fb9ca3a8f4499075c064a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 767323
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

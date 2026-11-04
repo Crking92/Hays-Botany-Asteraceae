@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f02a29bb700937ccd51be8fb60ccd022e6e8e1d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 187716749, photo 328346783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5dca21679a43c5a637f3498c17d7908a117ae6a4f24ffdf6b9960eb22ad6f852. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5dca21679a43c5a637f3498c17d7908a117ae6a4f24ffdf6b9960eb22ad6f852"
+      "sha256": "5dca21679a43c5a637f3498c17d7908a117ae6a4f24ffdf6b9960eb22ad6f852",
+      "display_sha256": "13a650789362e4e603e0cd7c585f3b0a3ddf47230365960a27c4c8672f9a203b",
+      "display_blob_sha": "b96fcec22c1dc5bcc0a370f3605181871ac2bd2c",
+      "display_original_site_sha256": "5dca21679a43c5a637f3498c17d7908a117ae6a4f24ffdf6b9960eb22ad6f852",
+      "display_original_blob_sha": "5f02a29bb700937ccd51be8fb60ccd022e6e8e1d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 547602
     },
     {
       "src": "media/laphamia-lindheimeri/inat-328349019.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68e8dbc09bef93ec0577610c48dca2a7d5a2d27b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 187718088, photo 328349019, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0e9c9aadad22b177adc4188ab519e6f9f9e8f2bcee6109e8782e4308297f8d1c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0e9c9aadad22b177adc4188ab519e6f9f9e8f2bcee6109e8782e4308297f8d1c"
+      "sha256": "0e9c9aadad22b177adc4188ab519e6f9f9e8f2bcee6109e8782e4308297f8d1c",
+      "display_sha256": "9b48199316a64eb7ae579c2ca5eac6874859b810b72c3875d9084402e309d2d0",
+      "display_blob_sha": "cde1ba3afa97c4f7b37c5dcc34ba9e668dfb00bf",
+      "display_original_site_sha256": "0e9c9aadad22b177adc4188ab519e6f9f9e8f2bcee6109e8782e4308297f8d1c",
+      "display_original_blob_sha": "68e8dbc09bef93ec0577610c48dca2a7d5a2d27b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 743943
     },
     {
       "src": "media/laphamia-lindheimeri/inat-636482519.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b52b98f6f59e35c77d0170a9b8749f16258af252",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348947184, photo 636482519, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fdae3fcdd444244dfa0765db2d4d842134e908b4a2037c69476a32cfc7fc323f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fdae3fcdd444244dfa0765db2d4d842134e908b4a2037c69476a32cfc7fc323f"
+      "sha256": "fdae3fcdd444244dfa0765db2d4d842134e908b4a2037c69476a32cfc7fc323f",
+      "display_sha256": "67e42e7c1be1d8542b7a0080f862c46e0bb8f4371793059910da55989c2a9a09",
+      "display_blob_sha": "26e2eb8ed6ed6fd3231d06d795854b27d28b4f92",
+      "display_original_site_sha256": "fdae3fcdd444244dfa0765db2d4d842134e908b4a2037c69476a32cfc7fc323f",
+      "display_original_blob_sha": "b52b98f6f59e35c77d0170a9b8749f16258af252",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 693033
     },
     {
       "src": "media/laphamia-lindheimeri/inat-639735508.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "830bf735fca23e27d7929c4d4728723c1bebef0d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350610257, photo 639735508, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5"
+      "sha256": "7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5",
+      "display_sha256": "d1f44aae1a4a5443f95aa626fcd9b857fa6bf0ba4d3a5a2edaa280e33cff2c03",
+      "display_blob_sha": "986a96f41c5a3b8d4f01854789bb40b357e2ee91",
+      "display_original_site_sha256": "7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5",
+      "display_original_blob_sha": "830bf735fca23e27d7929c4d4728723c1bebef0d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 633462
     },
     {
       "src": "media/laphamia-lindheimeri/inat-648997310.jpg",

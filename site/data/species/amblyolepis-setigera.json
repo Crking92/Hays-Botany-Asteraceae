@@ -55,7 +55,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "75bbb79871ae5c0ec7b749cfbf02669496a81234",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -63,7 +63,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341292396, photo 621268388, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a80b5eb91da44b354a84271ffdf2e9baa4c7beb1f37bbc98cc7a345d33520489. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amblyolepis setigera maps to indexed species amblyolepis-setigera (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a80b5eb91da44b354a84271ffdf2e9baa4c7beb1f37bbc98cc7a345d33520489"
+      "sha256": "a80b5eb91da44b354a84271ffdf2e9baa4c7beb1f37bbc98cc7a345d33520489",
+      "display_sha256": "d7560b8e7d8ad724add8836760b1cfbf5597d716aff5257a3a33ec2ed8efa76b",
+      "display_blob_sha": "00c2dccfd4af7234e11362a1528952d62dfb40d2",
+      "display_original_site_sha256": "a80b5eb91da44b354a84271ffdf2e9baa4c7beb1f37bbc98cc7a345d33520489",
+      "display_original_blob_sha": "75bbb79871ae5c0ec7b749cfbf02669496a81234",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 751723
     },
     {
       "src": "media/amblyolepis-setigera/inat-629081665.jpg",
@@ -93,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "171229f2f7ec19402d8b41a780ef2211a14b52ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -101,7 +112,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352066370, photo 642554379, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a7d088d92f65748095ea39c774ff652a30bb1b7c5bea7043b460b7992cc885a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amblyolepis setigera maps to indexed species amblyolepis-setigera (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a7d088d92f65748095ea39c774ff652a30bb1b7c5bea7043b460b7992cc885a7"
+      "sha256": "a7d088d92f65748095ea39c774ff652a30bb1b7c5bea7043b460b7992cc885a7",
+      "display_sha256": "c5d23eab7d1893ea12ce0b63a82f3e49a296f18e4b6af0123698451778ba1196",
+      "display_blob_sha": "b4714065f7665452f238632a1e617d702ff35ec5",
+      "display_original_site_sha256": "a7d088d92f65748095ea39c774ff652a30bb1b7c5bea7043b460b7992cc885a7",
+      "display_original_blob_sha": "171229f2f7ec19402d8b41a780ef2211a14b52ee",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 555274
     },
     {
       "src": "media/amblyolepis-setigera/inat-646907552.jpg",
@@ -112,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5387c47038c9a2634550cbcd4dd55697e00ce29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +142,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354635633, photo 646907552, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9af52de4838db2070aceb0aab8f8152b50cb56485c5b1b83177670868563d210. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amblyolepis setigera maps to indexed species amblyolepis-setigera (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9af52de4838db2070aceb0aab8f8152b50cb56485c5b1b83177670868563d210"
+      "sha256": "9af52de4838db2070aceb0aab8f8152b50cb56485c5b1b83177670868563d210",
+      "display_sha256": "85c44f073bd3f8f16e0c69431119c624bf4c87224517ead658b380d6ed8752b6",
+      "display_blob_sha": "e247557cae2e9662db2368911ba0bcc4bfb3c8fc",
+      "display_original_site_sha256": "9af52de4838db2070aceb0aab8f8152b50cb56485c5b1b83177670868563d210",
+      "display_original_blob_sha": "e5387c47038c9a2634550cbcd4dd55697e00ce29",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 676111
     },
     {
       "src": "media/amblyolepis-setigera/inat-659663254.jpg",

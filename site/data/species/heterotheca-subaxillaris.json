@@ -75,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04ff549812ea2b30639ca2d1056ab039ecc23f60",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +83,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354781616, photo 647164058, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7d7c39bb587caef584b7bf0eed452b60d323fe5713925c1dcb7d601135eb255c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca subaxillaris agrees with indexed species heterotheca-subaxillaris; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7d7c39bb587caef584b7bf0eed452b60d323fe5713925c1dcb7d601135eb255c"
+      "sha256": "7d7c39bb587caef584b7bf0eed452b60d323fe5713925c1dcb7d601135eb255c",
+      "display_sha256": "1fc0c88be86c8d6fe45eb577c3d46027111cb4ecade36d2f81cc7172d3688312",
+      "display_blob_sha": "8adcd645b1b117ed831591cba7bc3c806adf7720",
+      "display_original_site_sha256": "7d7c39bb587caef584b7bf0eed452b60d323fe5713925c1dcb7d601135eb255c",
+      "display_original_blob_sha": "04ff549812ea2b30639ca2d1056ab039ecc23f60",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 605761
     },
     {
       "src": "media/heterotheca-subaxillaris/inat-655136298.jpg",
@@ -94,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a98959ea94d113219106bdd0b305df8f6f69fe7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +113,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359090837, photo 655136298, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8edbc18539193dc5095ce199540c59abd6cb826a3484e6e0dc9145d9d2d76b50. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca subaxillaris agrees with indexed species heterotheca-subaxillaris; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8edbc18539193dc5095ce199540c59abd6cb826a3484e6e0dc9145d9d2d76b50"
+      "sha256": "8edbc18539193dc5095ce199540c59abd6cb826a3484e6e0dc9145d9d2d76b50",
+      "display_sha256": "d8c50e04dc3bf3d37b90abd4a2a1548ef07dc4df7a52222be2382a4ea502b417",
+      "display_blob_sha": "f255cc4b115066c9512ce7dc61feda44be1a5797",
+      "display_original_site_sha256": "8edbc18539193dc5095ce199540c59abd6cb826a3484e6e0dc9145d9d2d76b50",
+      "display_original_blob_sha": "7a98959ea94d113219106bdd0b305df8f6f69fe7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 740229
     },
     {
       "src": "media/heterotheca-subaxillaris/inat-662730868.jpg",
@@ -113,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d74dd455c9e7416ba06166f0759da0512614901",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +143,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363077592, photo 662730868, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff646fe2a6f21745eb0ade2e2a5f863ed722cdb0b712c92e322c34ed0bec8ae3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca subaxillaris agrees with indexed species heterotheca-subaxillaris; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ff646fe2a6f21745eb0ade2e2a5f863ed722cdb0b712c92e322c34ed0bec8ae3"
+      "sha256": "ff646fe2a6f21745eb0ade2e2a5f863ed722cdb0b712c92e322c34ed0bec8ae3",
+      "display_sha256": "a39887901863e105124c01f4b75b3321e8e79e53fdb8ea7466bf7f17bd60cc1f",
+      "display_blob_sha": "939503006075493ad8a858c6c99c695d1bfae526",
+      "display_original_site_sha256": "ff646fe2a6f21745eb0ade2e2a5f863ed722cdb0b712c92e322c34ed0bec8ae3",
+      "display_original_blob_sha": "7d74dd455c9e7416ba06166f0759da0512614901",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 778030
     },
     {
       "src": "media/heterotheca-subaxillaris/inat-665564713.jpg",
@@ -132,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1ded53109617df27ecec3644e3e2255d0ea60a60",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +173,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 364574626, photo 665564713, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da85b33df83fc83b79575e31a313de185138ff6d32a9b87a9e81a0712fae394e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca subaxillaris agrees with indexed species heterotheca-subaxillaris; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "da85b33df83fc83b79575e31a313de185138ff6d32a9b87a9e81a0712fae394e"
+      "sha256": "da85b33df83fc83b79575e31a313de185138ff6d32a9b87a9e81a0712fae394e",
+      "display_sha256": "8feaa9941f126bc3d9bbdabcaa9a946db43306cc51bca52687f70f8dde80fe2f",
+      "display_blob_sha": "41faf3362e15a192b8a4ecb901fff967b00ebeb4",
+      "display_original_site_sha256": "da85b33df83fc83b79575e31a313de185138ff6d32a9b87a9e81a0712fae394e",
+      "display_original_blob_sha": "1ded53109617df27ecec3644e3e2255d0ea60a60",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 565278
     },
     {
       "src": "media/heterotheca-subaxillaris/inat-667638403.jpg",
@@ -151,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "49ce2809166734450415bc41359f4d393fd28c1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +203,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365663348, photo 667638403, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52c52c87bf71dee6d592a99d1b9167d2894e4eca9438a4fdeed9d30c44dff177. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca subaxillaris agrees with indexed species heterotheca-subaxillaris; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "52c52c87bf71dee6d592a99d1b9167d2894e4eca9438a4fdeed9d30c44dff177"
+      "sha256": "52c52c87bf71dee6d592a99d1b9167d2894e4eca9438a4fdeed9d30c44dff177",
+      "display_sha256": "37bc0db6728452e319ab4f1db03740c257640cdd1ea00e099fc4c64b695497fd",
+      "display_blob_sha": "2375103aa97c34d11f8705d909d40bb5b8cd9b40",
+      "display_original_site_sha256": "52c52c87bf71dee6d592a99d1b9167d2894e4eca9438a4fdeed9d30c44dff177",
+      "display_original_blob_sha": "49ce2809166734450415bc41359f4d393fd28c1c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 632477
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "689d996e04b2aece1b7786be969772f2e76ba708",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208028559, photo 368027395, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ce18d64b81aa602c1825f9906def9ac49118865358ee5042b030eb9130ae06b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bradburia hirtella maps to indexed species bradburia-hirtella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5ce18d64b81aa602c1825f9906def9ac49118865358ee5042b030eb9130ae06b"
+      "sha256": "5ce18d64b81aa602c1825f9906def9ac49118865358ee5042b030eb9130ae06b",
+      "display_sha256": "2f45072d55a7beb9f36e7fed058c2b4b876abfec0f238d7778283f4555aef06a",
+      "display_blob_sha": "48720914a9846d40db0328cc41f70c8e3a8db989",
+      "display_original_site_sha256": "5ce18d64b81aa602c1825f9906def9ac49118865358ee5042b030eb9130ae06b",
+      "display_original_blob_sha": "689d996e04b2aece1b7786be969772f2e76ba708",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 331900
     },
     {
       "src": "media/bradburia-hirtella/inat-368034722.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8bddb2ed144b261d70bc03c395bd22d79cf967f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208033338, photo 368034722, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7de70e75e3e48b3dc25c64a7477dbb0975b8978aa018e7aad93e3be4af690445. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bradburia hirtella maps to indexed species bradburia-hirtella (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "7de70e75e3e48b3dc25c64a7477dbb0975b8978aa018e7aad93e3be4af690445"
+      "sha256": "7de70e75e3e48b3dc25c64a7477dbb0975b8978aa018e7aad93e3be4af690445",
+      "display_sha256": "af64ae3632463d7b8b92b68fe5d9253b9bbd98ea001c50b17b6a7acf0e02b407",
+      "display_blob_sha": "2844bd1629d632eb30f40920858a8707b70ed4ba",
+      "display_original_site_sha256": "7de70e75e3e48b3dc25c64a7477dbb0975b8978aa018e7aad93e3be4af690445",
+      "display_original_blob_sha": "8bddb2ed144b261d70bc03c395bd22d79cf967f4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 365807
     },
     {
       "src": "media/bradburia-hirtella/inat-368034850.jpeg",
