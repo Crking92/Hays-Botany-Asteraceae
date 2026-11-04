@@ -1,0 +1,168 @@
+{
+  "batch_id": "asteraceae-005-2026-11-04",
+  "repo": "Crking92/Hays-Botany-Asteraceae",
+  "zip_sha256": "0574d40c49ca08a33daeb113d1b2804ff1e83a5b9fdaea9977e37e00667b9c2e",
+  "review_status": "CANDIDATE_PHOTO_SOURCE_VERIFICATION_REQUIRED",
+  "photos": [
+    {
+      "species_id": "silphium-laciniatum",
+      "scientific_name": "Silphium laciniatum",
+      "photographer": "Cody Stricker",
+      "observation_id": 223839794,
+      "photo_id": 396649377,
+      "sha256": "c901a614d9e7f4e8e8301306f1856d89eb659386df299682531b83efdfe8aea0",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396649377/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "silphium-laciniatum",
+      "scientific_name": "Silphium laciniatum",
+      "photographer": "Craig Hensley",
+      "observation_id": 171246740,
+      "photo_id": 302237245,
+      "sha256": "eb2f5d28a982b7a56b50e704ca0efa636dae12a995d012426e0a0cafd84a7319",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302237245/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "silphium-laciniatum",
+      "scientific_name": "Silphium laciniatum",
+      "photographer": "Craig Hensley",
+      "observation_id": 171246626,
+      "photo_id": 297133097,
+      "sha256": "d5f36dcb4f5a75c812d143b83f4c4385a7b9a3d389368c3cf2fad65793161617",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297133097/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "solidago-juliae",
+      "scientific_name": "Solidago juliae",
+      "photographer": "Reid Hardin",
+      "observation_id": 347408649,
+      "photo_id": 633424534,
+      "sha256": "b34380da8e81dae7f0498a046d9b4b0ca4924d8a6c701871ced8a7f4c78a5dc8",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633424534/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "solidago-radula",
+      "scientific_name": "Solidago radula",
+      "photographer": "Reid Hardin",
+      "observation_id": 190435278,
+      "photo_id": 333833673,
+      "sha256": "9d23ee5725ce38e80a77f79d14e3b71f84aed9af6f457430ddce2cb154f78f39",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333833673/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-divaricatum",
+      "scientific_name": "Symphyotrichum divaricatum",
+      "photographer": "Bonnie Semmling",
+      "observation_id": 126292304,
+      "photo_id": 214270243,
+      "sha256": "3a670bda25752bd8438d235be5198e7e210d782bdfcc7f18653ae3779d0f2d79",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214270243/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-divaricatum",
+      "scientific_name": "Symphyotrichum divaricatum",
+      "photographer": "Alison Northup",
+      "observation_id": 85529837,
+      "photo_id": 140737077,
+      "sha256": "2ef5a9ef50045bb0ca109946ea96534e91d421c57e77192e99755f039244731f",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140737077/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-divaricatum",
+      "scientific_name": "Symphyotrichum divaricatum",
+      "photographer": "Eric Knight",
+      "observation_id": 7400603,
+      "photo_id": 9609262,
+      "sha256": "13fee9eeaf13c36dc1513dff0577a72e8803b87f347a3c116a8ed96a70b7fb8d",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9609262/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-drummondii",
+      "scientific_name": "Symphyotrichum drummondii",
+      "photographer": "W Rao",
+      "observation_id": 346177386,
+      "photo_id": 630979270,
+      "sha256": "01d080fe6c682d0f682de48cc373cdf461b0c26d102507b5a6c9876ef7932f96",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630979270/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-eulae",
+      "scientific_name": "Symphyotrichum eulae",
+      "photographer": "Michelle W. （鍾偉瑋）",
+      "observation_id": 252973295,
+      "photo_id": 452891594,
+      "sha256": "3eba34ef534b69b1fa3ca40c6f1540f98f946a0e2d2a5cd6f49e7679b721d6cd",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452891594/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-patens",
+      "scientific_name": "Symphyotrichum patens",
+      "photographer": "Morgan Hay",
+      "observation_id": 76632216,
+      "photo_id": 125329488,
+      "sha256": "142cd7d703940f06f8a5f5859777bf5d5d2e6821db256498f526711c84d57f36",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125329488/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-sericeum",
+      "scientific_name": "Symphyotrichum sericeum",
+      "photographer": "Michelle W. （鍾偉瑋）",
+      "observation_id": 208185478,
+      "photo_id": 368316229,
+      "sha256": "af44666f0e5e22cb26c8c72a90a16cba50acd2e0ba09229500217b0fede4eeff",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368316229/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "symphyotrichum-sericeum",
+      "scientific_name": "Symphyotrichum sericeum",
+      "photographer": "Clifton Ladd, C.W.B.",
+      "observation_id": 209020822,
+      "photo_id": 369871391,
+      "sha256": "de8fbdd96d1c868bd9e4e1bba86eb9187f1526fe15d90bc4310108f5fe276de8",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369871391/original.jpeg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "tetraneuris-acaulis",
+      "scientific_name": "Tetraneuris acaulis",
+      "photographer": "Anders Hastings",
+      "observation_id": 349083972,
+      "photo_id": 636728403,
+      "sha256": "656343777d61e958c958174c200d9261d94b73a48e75045a92c7571f44b0cd84",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636728403/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "tetraneuris-acaulis",
+      "scientific_name": "Tetraneuris acaulis",
+      "photographer": "Nathan Aaron",
+      "observation_id": 356081657,
+      "photo_id": 649117507,
+      "sha256": "a20c8d09d19a72b94239a9394a63b36a23ecb5536d3f1e0a318faf5ea622354e",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649117507/original.jpg",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species_id": "tetraneuris-acaulis",
+      "scientific_name": "Tetraneuris acaulis",
+      "photographer": "Nathan Aaron",
+      "observation_id": 356081583,
+      "photo_id": 649098406,
+      "sha256": "1a65c109e044c76d24b4dde3afdcb00c0bf7c80ea65df55f6e72b994706badd2",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649098406/original.jpg",
+      "license": "CC BY 4.0"
+    }
+  ]
+}
