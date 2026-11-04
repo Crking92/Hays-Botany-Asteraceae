@@ -95,3 +95,5 @@ jobs:
           PY
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/smoke-public-asteraceae-gallery.yml/dispatches" -f ref=main >/dev/null
           echo "Triggered complete byte-for-byte live image verification."
+
+# Trigger initial safe website display optimization run.
