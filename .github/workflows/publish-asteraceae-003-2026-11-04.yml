@@ -11,7 +11,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: asteraceae-002-2026-11-04-source-publish
+  group: asteraceae-003-2026-11-04-source-publish
   cancel-in-progress: false
 jobs:
   source-verify-and-publish:
