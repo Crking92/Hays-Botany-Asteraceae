@@ -32,13 +32,13 @@ for row in idx["entries"]:
     assert isinstance(photos,list) and row["photo_count"]==len(photos),sid
     for photo in photos:
         relative=photo.get("src","")
-        assert re.fullmatch(r"media/"+re.escape(sid)+r"/[A-Za-z0-9_.-]+\\.(?:jpg|jpeg|png|webp)",relative),sid
+        assert re.fullmatch(r"media/"+re.escape(sid)+r"/[A-Za-z0-9_.-]+\.(?:jpg|jpeg|png|webp)",relative),sid
         assert relative not in all_paths,relative
         all_paths.add(relative)
         path=SITE/relative
         assert path.is_file() and not path.is_symlink(),relative
         original=path.read_bytes()
-        blob=hashlib.sha1(b"blob "+str(len(original)).encode()+b"\\0"+original).hexdigest()
+        blob=hashlib.sha1(b"blob "+str(len(original)).encode()+b"\0"+original).hexdigest()
         assert blob==photo.get("source_blob_sha"),relative
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),relative
         assert photo.get("license_url","").startswith("https://"),relative
@@ -53,5 +53,5 @@ for row in idx["entries"]:
 existing={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file()}
 assert existing==all_paths,{"orphan":sorted(existing-all_paths)[:5],"missing":sorted(all_paths-existing)[:5]}
 out={"schema_version":1,"status":gallery["status"],"species":180,"photo_species":represented,"photo_count":total,"entries":data}
-gallery_path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\\n")
+gallery_path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
 print("ASTERACEAE_GROWING_GALLERY_INDEX_PASS",json.dumps({"species":180,"photos":total,"photographed_species":represented}))
