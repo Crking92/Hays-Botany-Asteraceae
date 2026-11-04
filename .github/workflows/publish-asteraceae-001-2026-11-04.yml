@@ -1,0 +1,72 @@
+name: Publish original source-verified Asteraceae 001 photos to public learner
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-asteraceae-001-2026-11-04.yml'
+      - 'scripts/publish_verified_asteraceae_001_zip.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: asteraceae-001-2026-11-04-source-publish
+  cancel-in-progress: false
+jobs:
+  source-verify-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Image integrity dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify source rights and install four conflict-safe exact-original waves
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          publish_wave() {
+            local wave="$1"
+            local cleared="$RUNNER_TEMP/asteraceae-001-approved-$wave"
+            local report="$RUNNER_TEMP/asteraceae-001-rights-$wave.json"
+            python3 scripts/publish_verified_asteraceae_001_zip.py \
+              --manifest photo-intake/remote-photo-manifests/asteraceae-001-2026-11-04.json \
+              --wave "$wave" --source-root "$cleared" --report "$report"
+            for attempt in $(seq 1 16); do
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+              python3 scripts/normalize_nc_flags.py
+              python3 scripts/verify_automatic_gallery.py --site-root site
+              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+              if git diff --cached --quiet; then
+                echo "ASTERACEAE_ALREADY_PUBLISHED wave=$wave"
+                return 0
+              fi
+              git diff --cached --check
+              git commit -m "Publish licensed original Asteraceae ZIP photos (wave $wave)"
+              if git push origin HEAD:main; then
+                echo "ASTERACEAE_GITHUB_PUBLISHED wave=$wave"
+                return 0
+              fi
+              echo "Concurrent update; refreshing current main and re-applying only new approved originals ($attempt)"
+              git fetch origin main
+              git reset --hard origin/main
+            done
+            echo "Asteraceae publication blocked after repeated concurrent repository updates" >&2
+            return 1
+          }
+          publish_wave 1
+          publish_wave 2
+          publish_wave 3
+          publish_wave 4
+      - name: Preserve exact-photo license and identification audit reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-001-exact-original-rights-audit
+          path: "${{ runner.temp }}/asteraceae-001-rights-*.json"
+          if-no-files-found: warn
+          retention-days: 30
