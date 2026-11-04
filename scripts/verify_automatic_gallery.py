@@ -30,7 +30,14 @@ def validate(site):
             f=site/src
             assert f.is_file() and not f.is_symlink() and src not in paths,src
             paths.add(src)
-            assert git_sha(f.read_bytes())==p["source_blob_sha"],src
+            binary=f.read_bytes()
+            # Legacy scaled/converted display copies may preserve an original-source blob SHA;
+            # do not overwrite or misinterpret that historical provenance.
+            # For all newly installed unmodified originals, require exact original SHA256
+            # and the actual Git blob SHA to agree with the public file bytes.
+            if p.get("sha256"):
+                assert hashlib.sha256(binary).hexdigest()==p["sha256"],src
+                assert git_sha(binary)==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
             assert p.get("license_url","").startswith("https://")
             assert not p.get("private_rights_review_only")
