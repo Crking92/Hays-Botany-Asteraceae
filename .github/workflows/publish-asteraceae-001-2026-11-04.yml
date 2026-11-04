@@ -1,4 +1,5 @@
 name: Publish original source-verified Asteraceae 001 photos to public learner
+# 2026-11-04: retain transformed historical photos; exact SHA256 checks apply to newly verified originals.
 on:
   push:
     branches: [main]
