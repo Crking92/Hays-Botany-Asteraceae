@@ -10,7 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/gamochaeta-purpurea/inat-188658534.jpg",
+      "creator": "(c) Beth Pickett, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/188658534",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "763966cf2a9e84a30d80b7059efefdb30ab419fb",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 111734790, photo 188658534, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4b89cafd5a991883a796dbdb4c64eb42bd08b21b817cc1e790d54b8782290e25. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gamochaeta purpurea agrees with indexed species gamochaeta-purpurea; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "4b89cafd5a991883a796dbdb4c64eb42bd08b21b817cc1e790d54b8782290e25"
+    },
+    {
+      "src": "media/gamochaeta-purpurea/inat-73084293.jpeg",
+      "creator": "(c) Miriam Vaughn, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/73084293",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b6ed54049cbfb92eb98e23b4444360c011e14f23",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 46080930, photo 73084293, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37aec5bc874236ac3cf44382d7fd06a751c6c9bccf15cfc5b165cba0cb975434. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gamochaeta purpurea agrees with indexed species gamochaeta-purpurea; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "37aec5bc874236ac3cf44382d7fd06a751c6c9bccf15cfc5b165cba0cb975434"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 159,
-  "photo_count": 600,
+  "photo_species": 161,
+  "photo_count": 640,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -266,7 +266,7 @@
       "first_src": "media/erigeron-philadelphicus/01.jpg"
     },
     "erigeron-strigosus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/erigeron-strigosus/01.jpg"
     },
     "eriophyllum-lanatum": {
@@ -274,35 +274,35 @@
       "first_src": "media/eriophyllum-lanatum/01.jpg"
     },
     "eupatorium-serotinum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/eupatorium-serotinum/01.jpg"
     },
     "fleischmannia-incarnata": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/fleischmannia-incarnata/01.jpg"
     },
     "gaillardia-aestivalis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/gaillardia-aestivalis/01.jpg"
     },
     "gaillardia-amblyodon": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/gaillardia-amblyodon/01.jpg"
     },
     "gaillardia-pulchella": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/gaillardia-pulchella/historical-nc-01-curated-reference.jpg"
     },
     "gaillardia-suavis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/gaillardia-suavis/inat-492583545.jpg"
     },
     "gamochaeta-purpurea": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/gamochaeta-purpurea/inat-188658534.jpg"
     },
     "grindelia-adenodonta": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/grindelia-adenodonta/01.jpg"
     },
     "grindelia-ciliata": {

@@ -661,7 +661,7 @@
       "genus": "Erigeron",
       "path": "content/taxa/Asteraceae/Erigeron/erigeron-strigosus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 8
     },
     {
       "id": "eriophyllum-lanatum",
@@ -681,7 +681,7 @@
       "genus": "Eupatorium",
       "path": "content/taxa/Asteraceae/Eupatorium/eupatorium-serotinum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "fleischmannia-incarnata",
@@ -691,7 +691,7 @@
       "genus": "Fleischmannia",
       "path": "content/taxa/Asteraceae/Fleischmannia/fleischmannia-incarnata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 4
+      "photo_count": 9
     },
     {
       "id": "gaillardia-aestivalis",
@@ -701,7 +701,7 @@
       "genus": "Gaillardia",
       "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-aestivalis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "gaillardia-amblyodon",
@@ -711,7 +711,7 @@
       "genus": "Gaillardia",
       "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-amblyodon/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "gaillardia-pulchella",
@@ -721,7 +721,7 @@
       "genus": "Gaillardia",
       "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-pulchella/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "gaillardia-suavis",
@@ -730,8 +730,8 @@
       "family": "Asteraceae",
       "genus": "Gaillardia",
       "path": "content/taxa/Asteraceae/Gaillardia/gaillardia-suavis/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "gamochaeta-purpurea",
@@ -740,8 +740,8 @@
       "family": "Asteraceae",
       "genus": "Gamochaeta",
       "path": "content/taxa/Asteraceae/Gamochaeta/gamochaeta-purpurea/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 2
     },
     {
       "id": "grindelia-adenodonta",
@@ -751,7 +751,7 @@
       "genus": "Grindelia",
       "path": "content/taxa/Asteraceae/Grindelia/grindelia-adenodonta/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "grindelia-ciliata",
