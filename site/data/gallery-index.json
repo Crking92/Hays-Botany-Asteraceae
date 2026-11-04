@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 144,
-  "photo_count": 313,
+  "photo_count": 335,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -118,23 +118,23 @@
       "first_src": "media/brickellia-eupatorioides/source-24014f5c4121.jpg"
     },
     "calyptocarpus-vialis": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/calyptocarpus-vialis/01.jpg"
     },
     "carphochaete-bigelovii": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/carphochaete-bigelovii/01.jpg"
     },
     "carthamus-tinctorius": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/carthamus-tinctorius/source-81139425ef47.jpg"
     },
     "centaurea-cyanus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/centaurea-cyanus/01.jpg"
     },
     "centaurea-melitensis": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/centaurea-melitensis/01.jpg"
     },
     "chaetopappa-bellidifolia": {

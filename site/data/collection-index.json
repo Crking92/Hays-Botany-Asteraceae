@@ -291,7 +291,7 @@
       "genus": "Calyptocarpus",
       "path": "content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 7
     },
     {
       "id": "carphochaete-bigelovii",
@@ -301,7 +301,7 @@
       "genus": "Carphochaete",
       "path": "content/taxa/Asteraceae/Carphochaete/carphochaete-bigelovii/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "carthamus-tinctorius",
@@ -311,7 +311,7 @@
       "genus": "Carthamus",
       "path": "content/taxa/Asteraceae/Carthamus/carthamus-tinctorius/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "centaurea-cyanus",
@@ -321,7 +321,7 @@
       "genus": "Centaurea",
       "path": "content/taxa/Asteraceae/Centaurea/centaurea-cyanus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "centaurea-melitensis",
@@ -331,7 +331,7 @@
       "genus": "Centaurea",
       "path": "content/taxa/Asteraceae/Centaurea/centaurea-melitensis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 5
     },
     {
       "id": "chaetopappa-bellidifolia",
