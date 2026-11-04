@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 153,
-  "photo_count": 506,
+  "photo_species": 154,
+  "photo_count": 543,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -178,40 +178,40 @@
       "first_src": "media/cirsium-ochrocentrum/source-6675156b54cd.jpg"
     },
     "cirsium-texanum": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/cirsium-texanum/historical-nc-01-curated-reference.jpg"
     },
     "cirsium-undulatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cirsium-undulatum/historical-nc-01-curated-reference.jpg"
     },
     "cirsium-vulgare": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cirsium-vulgare/01.jpg"
     },
     "conoclinium-coelestinum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/conoclinium-coelestinum/01.jpg"
     },
     "conoclinium-dissectum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/conoclinium-dissectum/source-afd69752e969.jpg"
     },
     "coreopsis-basalis": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/coreopsis-basalis/historical-nc-01-curated-reference.jpg"
     },
     "coreopsis-lanceolata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/coreopsis-lanceolata/01.jpg"
     },
     "coreopsis-tinctoria": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/coreopsis-tinctoria/historical-nc-01-curated-reference.jpg"
     },
     "coreopsis-wrightii": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/coreopsis-wrightii/inat-659845135.jpg"
     },
     "diaperia-candida": {
       "count": 1,

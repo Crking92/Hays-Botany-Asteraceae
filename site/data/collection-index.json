@@ -441,7 +441,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-texanum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 4
+      "photo_count": 6
     },
     {
       "id": "cirsium-undulatum",
@@ -451,7 +451,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-undulatum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "cirsium-vulgare",
@@ -461,7 +461,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-vulgare/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "conoclinium-coelestinum",
@@ -471,7 +471,7 @@
       "genus": "Conoclinium",
       "path": "content/taxa/Asteraceae/Conoclinium/conoclinium-coelestinum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 8
     },
     {
       "id": "conoclinium-dissectum",
@@ -481,7 +481,7 @@
       "genus": "Conoclinium",
       "path": "content/taxa/Asteraceae/Conoclinium/conoclinium-dissectum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 8
     },
     {
       "id": "coreopsis-basalis",
@@ -491,7 +491,7 @@
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-basalis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "coreopsis-lanceolata",
@@ -501,7 +501,7 @@
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-lanceolata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "coreopsis-tinctoria",
@@ -511,7 +511,7 @@
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-tinctoria/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "coreopsis-wrightii",
@@ -520,8 +520,8 @@
       "family": "Asteraceae",
       "genus": "Coreopsis",
       "path": "content/taxa/Asteraceae/Coreopsis/coreopsis-wrightii/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 2
     },
     {
       "id": "diaperia-candida",

@@ -22,7 +22,47 @@
     ],
     "differences": "Compared with C. basalis, C. wrightii is generally narrower-leaved and often more slender, with the classic yellow rays carrying basal reddish-brown marks. Because older floras merge the taxa, final ID should use a full character set rather than ray color alone."
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/coreopsis-wrightii/inat-659845135.jpg",
+      "creator": "(c) milosmith, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/659845135",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "912d59246bcb7bfc27a0c840a524aaa322c4fd83",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 361554353, photo 659845135, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis wrightii agrees with indexed species coreopsis-wrightii; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac"
+    },
+    {
+      "src": "media/coreopsis-wrightii/inat-660474076.jpg",
+      "creator": "(c) Ryan Hernandez, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/660474076",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2a6c731164920dbc4f1e8d3d16c8a05eb0828bad",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 361885260, photo 660474076, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis wrightii agrees with indexed species coreopsis-wrightii; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }
