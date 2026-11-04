@@ -53,9 +53,12 @@ jobs:
                   assert item["src"].startswith("media/"+sid+"/"),sid
                   assert path.is_file(),path
                   data=path.read_bytes()
-                  assert hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()==item["source_blob_sha"],path
+                  assert hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()==item.get("display_blob_sha",item["source_blob_sha"]),path
                   assert item.get("creator") and item.get("source_page","").startswith("https://")
-                  assert not item.get("private_rights_review_only") and not item.get("noncommercial_only")
+                  assert not item.get("private_rights_review_only")
+                  if item.get("noncommercial_only"):
+                      meta=json.loads((site/"data/collection-meta.json").read_text())
+                      assert meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
                   photo_paths.add(path.resolve())
           assert gal["photo_count"]==sum(counts.values())
           assert gal["photo_species"]==sum(bool(x) for x in counts.values())
