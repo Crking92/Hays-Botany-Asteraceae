@@ -209,7 +209,7 @@ def main():
             record["display_original_site_sha256"]=sha256
             record["display_original_intake_path"]="photo-intake/approved/"+sid+"/"+image.name
             record["display_modifications"]="Resized and recompressed for website viewing; original source hash remains unchanged"
-            record["modified"]=record["modified"].rstrip(". ")+"; resized/recompressed website copy"
+            record["modified"]="Resized and recompressed website display copy from credited source; source note: "+record["modified"]
         photos.append(record)
         if dest.exists():fail("File already in site media but not referenced in the species lesson: " + src)
         writes.append((dest,display_payload))
