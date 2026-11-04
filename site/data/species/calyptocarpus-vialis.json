@@ -109,8 +109,28 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/calyptocarpus-vialis/inat-620865865.jpg",
+      "creator": "(c) carolynhelsel, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/620865865",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0d53d121ad6aebfc0fd77e3a5111f011ca0ada27",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 341095791, photo 620865865, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

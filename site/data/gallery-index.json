@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 142,
-  "photo_count": 273,
+  "photo_species": 144,
+  "photo_count": 313,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -82,43 +82,43 @@
       "first_src": "media/baccharis-salicifolia/historical-nc-01-curated-reference.jpg"
     },
     "berlandiera-betonicifolia": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/berlandiera-betonicifolia/01.jpg"
     },
     "berlandiera-lyrata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/berlandiera-lyrata/01.jpg"
     },
     "bidens-frondosa": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/bidens-frondosa/01.jpg"
     },
     "bidens-laevis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/bidens-laevis/01.jpg"
     },
     "boltonia-diffusa": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/boltonia-diffusa/inat-411960294.jpg"
     },
     "bradburia-hirtella": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/bradburia-hirtella/01.jpg"
     },
     "brickellia-cylindracea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/brickellia-cylindracea/01.jpg"
     },
     "brickellia-dentata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/brickellia-dentata/inat-129157570.jpg"
     },
     "brickellia-eupatorioides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/brickellia-eupatorioides/source-24014f5c4121.jpg"
     },
     "calyptocarpus-vialis": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/calyptocarpus-vialis/01.jpg"
     },
     "carphochaete-bigelovii": {

@@ -10,7 +10,66 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
+  "verified_photos": [
+    {
+      "src": "media/boltonia-diffusa/inat-411960294.jpg",
+      "creator": "(c) Beth Pickett, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/411960294",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d057c586938365dd36b4574885dea0e99cf06e29",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 231922809, photo 411960294, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d92ed371dfef3ccb46ca79e955c0443d806a14463ad79628524aadfc3931fee8. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Boltonia diffusa maps to indexed species boltonia-diffusa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "d92ed371dfef3ccb46ca79e955c0443d806a14463ad79628524aadfc3931fee8"
+    },
+    {
+      "src": "media/boltonia-diffusa/inat-555728436.jpg",
+      "creator": "(c) meganphillipslowery, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/555728436",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8162d5fd2733517cf613143156d2f8dd30d2ec49",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 308067559, photo 555728436, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Boltonia diffusa maps to indexed species boltonia-diffusa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237"
+    },
+    {
+      "src": "media/boltonia-diffusa/inat-571695154.jpg",
+      "creator": "(c) Meredith Lovelace, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/571695154",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fed19c20c0af0d8a7bbc3872e33c08e54250371b",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 316423227, photo 571695154, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Boltonia diffusa maps to indexed species boltonia-diffusa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
+      "sha256": "3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2"
+    }
+  ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

@@ -201,7 +201,7 @@
       "genus": "Berlandiera",
       "path": "content/taxa/Asteraceae/Berlandiera/berlandiera-betonicifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "berlandiera-lyrata",
@@ -211,7 +211,7 @@
       "genus": "Berlandiera",
       "path": "content/taxa/Asteraceae/Berlandiera/berlandiera-lyrata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "bidens-frondosa",
@@ -221,7 +221,7 @@
       "genus": "Bidens",
       "path": "content/taxa/Asteraceae/Bidens/bidens-frondosa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "bidens-laevis",
@@ -231,7 +231,7 @@
       "genus": "Bidens",
       "path": "content/taxa/Asteraceae/Bidens/bidens-laevis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "boltonia-diffusa",
@@ -240,8 +240,8 @@
       "family": "Asteraceae",
       "genus": "Boltonia",
       "path": "content/taxa/Asteraceae/Boltonia/boltonia-diffusa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 3
     },
     {
       "id": "bradburia-hirtella",
@@ -251,7 +251,7 @@
       "genus": "Bradburia",
       "path": "content/taxa/Asteraceae/Bradburia/bradburia-hirtella/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "brickellia-cylindracea",
@@ -261,7 +261,7 @@
       "genus": "Brickellia",
       "path": "content/taxa/Asteraceae/Brickellia/brickellia-cylindracea/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "brickellia-dentata",
@@ -270,8 +270,8 @@
       "family": "Asteraceae",
       "genus": "Brickellia",
       "path": "content/taxa/Asteraceae/Brickellia/brickellia-dentata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "brickellia-eupatorioides",
@@ -281,7 +281,7 @@
       "genus": "Brickellia",
       "path": "content/taxa/Asteraceae/Brickellia/brickellia-eupatorioides/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "calyptocarpus-vialis",
@@ -291,7 +291,7 @@
       "genus": "Calyptocarpus",
       "path": "content/taxa/Asteraceae/Calyptocarpus/calyptocarpus-vialis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 3
     },
     {
       "id": "carphochaete-bigelovii",
