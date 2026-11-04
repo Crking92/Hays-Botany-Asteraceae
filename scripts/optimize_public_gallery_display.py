@@ -80,6 +80,10 @@ def main():
     previous_report = site / "data/web-display-optimization.json"
     if previous_report.is_file():
         previous = json.loads(previous_report.read_text())
+        if previous.get("display_image_count") != gallery["photo_count"]:
+            prior = site / "data/web-display-optimization-first-pass.json"
+            if not prior.exists():
+                prior.write_bytes(previous_report.read_bytes())
         if previous.get("display_image_count") == gallery["photo_count"]:
             print("ASTERACEAE_WEB_DISPLAY_ALREADY_OPTIMIZED " +
                   json.dumps({"photos": gallery["photo_count"],
