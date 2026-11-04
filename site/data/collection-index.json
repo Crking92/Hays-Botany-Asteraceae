@@ -531,7 +531,7 @@
       "genus": "Diaperia",
       "path": "content/taxa/Asteraceae/Diaperia/diaperia-candida/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "diaperia-prolifera",
@@ -540,8 +540,8 @@
       "family": "Asteraceae",
       "genus": "Diaperia",
       "path": "content/taxa/Asteraceae/Diaperia/diaperia-prolifera/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "diaperia-verna",
@@ -550,8 +550,8 @@
       "family": "Asteraceae",
       "genus": "Diaperia",
       "path": "content/taxa/Asteraceae/Diaperia/diaperia-verna/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "dysodiopsis-tagetoides",
@@ -560,8 +560,8 @@
       "family": "Asteraceae",
       "genus": "Dysodiopsis",
       "path": "content/taxa/Asteraceae/Dysodiopsis/dysodiopsis-tagetoides/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 4
     },
     {
       "id": "echinacea-angustifolia",
@@ -571,7 +571,7 @@
       "genus": "Echinacea",
       "path": "content/taxa/Asteraceae/Echinacea/echinacea-angustifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "eclipta-prostrata",
@@ -580,8 +580,8 @@
       "family": "Asteraceae",
       "genus": "Eclipta",
       "path": "content/taxa/Asteraceae/Eclipta/eclipta-prostrata/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "elephantopus-carolinianus",
@@ -590,8 +590,8 @@
       "family": "Asteraceae",
       "genus": "Elephantopus",
       "path": "content/taxa/Asteraceae/Elephantopus/elephantopus-carolinianus/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "engelmannia-peristenia",
@@ -601,7 +601,7 @@
       "genus": "Engelmannia",
       "path": "content/taxa/Asteraceae/Engelmannia/engelmannia-peristenia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 7
     },
     {
       "id": "ericameria-nauseosa",

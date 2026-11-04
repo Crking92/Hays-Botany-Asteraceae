@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 154,
-  "photo_count": 543,
+  "photo_species": 159,
+  "photo_count": 581,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -214,35 +214,35 @@
       "first_src": "media/coreopsis-wrightii/inat-659845135.jpg"
     },
     "diaperia-candida": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/diaperia-candida/01.jpg"
     },
     "diaperia-prolifera": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/diaperia-prolifera/inat-630929721.jpg"
     },
     "diaperia-verna": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/diaperia-verna/inat-625394293.jpg"
     },
     "dysodiopsis-tagetoides": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/dysodiopsis-tagetoides/inat-208563224.jpeg"
     },
     "echinacea-angustifolia": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/echinacea-angustifolia/01.jpg"
     },
     "eclipta-prostrata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/eclipta-prostrata/inat-130195759.jpg"
     },
     "elephantopus-carolinianus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/elephantopus-carolinianus/inat-271171055.jpeg"
     },
     "engelmannia-peristenia": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/engelmannia-peristenia/01.jpg"
     },
     "ericameria-nauseosa": {
