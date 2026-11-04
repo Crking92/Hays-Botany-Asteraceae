@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "78dbd92d4460afacec3770e556e79c3a727ccb29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 243216187, photo 433658307, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0205d0858960802cefa5d6a143773c78e88647d88bab03885315c353b65ff603. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amphiachyris dracunculoides maps to indexed species amphiachyris-dracunculoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0205d0858960802cefa5d6a143773c78e88647d88bab03885315c353b65ff603"
+      "sha256": "0205d0858960802cefa5d6a143773c78e88647d88bab03885315c353b65ff603",
+      "display_sha256": "98dd254647e3d69ff236d75feda2bc0ae69e028d193a989f6a7b2cf41595f122",
+      "display_blob_sha": "b38a54a698fb735367814ed49a30321aa04b71df",
+      "display_original_site_sha256": "0205d0858960802cefa5d6a143773c78e88647d88bab03885315c353b65ff603",
+      "display_original_blob_sha": "78dbd92d4460afacec3770e556e79c3a727ccb29",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 757578
     },
     {
       "src": "media/amphiachyris-dracunculoides/inat-443717582.jpeg",
@@ -71,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dd1b6e996ad6e90459919638f0594e24a8b5047e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +90,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 248346691, photo 443717582, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c7bc4f609e77883275f6034184fe2dfabc43196415f221ee87f8e4ec8ab41c16. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amphiachyris dracunculoides maps to indexed species amphiachyris-dracunculoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c7bc4f609e77883275f6034184fe2dfabc43196415f221ee87f8e4ec8ab41c16"
+      "sha256": "c7bc4f609e77883275f6034184fe2dfabc43196415f221ee87f8e4ec8ab41c16",
+      "display_sha256": "b44af854b92b5fed32336067618419dc63c2378b6ab671d6684d915bfddc57ae",
+      "display_blob_sha": "b92d62c1c20a6677dc01231fa2a4ebf523aebd2e",
+      "display_original_site_sha256": "c7bc4f609e77883275f6034184fe2dfabc43196415f221ee87f8e4ec8ab41c16",
+      "display_original_blob_sha": "dd1b6e996ad6e90459919638f0594e24a8b5047e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 572302
     },
     {
       "src": "media/amphiachyris-dracunculoides/inat-547486134.jpg",
@@ -90,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c86244676e85d5c6c43260eef2ea3a6844a192c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +120,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 303736547, photo 547486134, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 274eedd9a1e72919ac33f21a95d9d6628ac6d4ee2c203f8ebc9e33e957f2cca8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amphiachyris dracunculoides maps to indexed species amphiachyris-dracunculoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "274eedd9a1e72919ac33f21a95d9d6628ac6d4ee2c203f8ebc9e33e957f2cca8"
+      "sha256": "274eedd9a1e72919ac33f21a95d9d6628ac6d4ee2c203f8ebc9e33e957f2cca8",
+      "display_sha256": "4669309fb476afd26de0b85ff09455b4e127aff3fbc3a33edeb49a6e732ab3ae",
+      "display_blob_sha": "236221da8e180cfdc98f6313f8328913f8e10d48",
+      "display_original_site_sha256": "274eedd9a1e72919ac33f21a95d9d6628ac6d4ee2c203f8ebc9e33e957f2cca8",
+      "display_original_blob_sha": "c86244676e85d5c6c43260eef2ea3a6844a192c7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 535844
     },
     {
       "src": "media/amphiachyris-dracunculoides/inat-555177058.jpg",
@@ -109,7 +142,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4921e7db4aefe8f612dad8f03da5805586cf7b30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +150,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 307770816, photo 555177058, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e3c280609e3726e5c11312328864e9ca76359e084ec08108de1e825a822e20b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Amphiachyris dracunculoides maps to indexed species amphiachyris-dracunculoides (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5e3c280609e3726e5c11312328864e9ca76359e084ec08108de1e825a822e20b"
+      "sha256": "5e3c280609e3726e5c11312328864e9ca76359e084ec08108de1e825a822e20b",
+      "display_sha256": "89832e7993e6ba649a871a6424f6375cf6622a0e4315b98c95a2319594b49d50",
+      "display_blob_sha": "1bc31ee211438d00cc2f689241d94cf2d82d77b4",
+      "display_original_site_sha256": "5e3c280609e3726e5c11312328864e9ca76359e084ec08108de1e825a822e20b",
+      "display_original_blob_sha": "4921e7db4aefe8f612dad8f03da5805586cf7b30",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1542
+      ],
+      "display_bytes": 452704
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

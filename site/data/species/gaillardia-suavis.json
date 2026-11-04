@@ -29,7 +29,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c474a6da3b5e23004874c8b0b6cfff08fabf2f5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -37,7 +37,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 273797456, photo 492583545, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f5ccb37d91df3827de73578078ccfb4e908968ca8df437d7edbe0cccb94935d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia suavis agrees with indexed species gaillardia-suavis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3f5ccb37d91df3827de73578078ccfb4e908968ca8df437d7edbe0cccb94935d"
+      "sha256": "3f5ccb37d91df3827de73578078ccfb4e908968ca8df437d7edbe0cccb94935d",
+      "display_sha256": "487c15a8433de4768f2fecae093ade02e84e8093b1571971658d15b39579e579",
+      "display_blob_sha": "d314b364bbe8a49fad298937980426e7c8b0ac6d",
+      "display_original_site_sha256": "3f5ccb37d91df3827de73578078ccfb4e908968ca8df437d7edbe0cccb94935d",
+      "display_original_blob_sha": "c474a6da3b5e23004874c8b0b6cfff08fabf2f5b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 428474
     },
     {
       "src": "media/gaillardia-suavis/inat-493221155.jpeg",
@@ -48,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "82e16c4bf0bbf913e4f9977300016798387c63aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -56,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274340268, photo 493221155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5cbab5ecaee2ac6631ae00d715957d129bfccca5592812c0af79b9ee7f73598e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia suavis agrees with indexed species gaillardia-suavis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5cbab5ecaee2ac6631ae00d715957d129bfccca5592812c0af79b9ee7f73598e"
+      "sha256": "5cbab5ecaee2ac6631ae00d715957d129bfccca5592812c0af79b9ee7f73598e",
+      "display_sha256": "d8dd9cd358f809356a02830332324c8c9a301ac91f99f9a6a9f8eb780a6423e4",
+      "display_blob_sha": "843bc36367439fd3ff9b94830862f3222c9ff7af",
+      "display_original_site_sha256": "5cbab5ecaee2ac6631ae00d715957d129bfccca5592812c0af79b9ee7f73598e",
+      "display_original_blob_sha": "82e16c4bf0bbf913e4f9977300016798387c63aa",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 705662
     },
     {
       "src": "media/gaillardia-suavis/inat-493775577.jpg",
@@ -67,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c946bb569b9109f760790927757928163d2c5dd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +97,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274696381, photo 493775577, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8504da0bfc01a7458e87aeb1ed43d59688654261c9d5fa1c88622f098a391b85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia suavis agrees with indexed species gaillardia-suavis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8504da0bfc01a7458e87aeb1ed43d59688654261c9d5fa1c88622f098a391b85"
+      "sha256": "8504da0bfc01a7458e87aeb1ed43d59688654261c9d5fa1c88622f098a391b85",
+      "display_sha256": "1adb84d6e7f6c347206ce0de4d96d5549953f2ad982e1b68e628ada68210d9dd",
+      "display_blob_sha": "0c1dbcfd4fd08d594cae1b6e7288284d1ea58008",
+      "display_original_site_sha256": "8504da0bfc01a7458e87aeb1ed43d59688654261c9d5fa1c88622f098a391b85",
+      "display_original_blob_sha": "c946bb569b9109f760790927757928163d2c5dd7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 724090
     },
     {
       "src": "media/gaillardia-suavis/inat-494824460.jpg",
@@ -86,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "322b9a1587b0aa812db8a46d81f6ba18165d26ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +127,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275355681, photo 494824460, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb12a310511d53b305bcc9429bfb1a5784b259f608e2ef09389b8f651ea9a42b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia suavis agrees with indexed species gaillardia-suavis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cb12a310511d53b305bcc9429bfb1a5784b259f608e2ef09389b8f651ea9a42b"
+      "sha256": "cb12a310511d53b305bcc9429bfb1a5784b259f608e2ef09389b8f651ea9a42b",
+      "display_sha256": "2721e4ea61bdec96c575f49af0d5723d327370dfa08395e5ab9b8e653e9b88f8",
+      "display_blob_sha": "19a25a850a5c6f5a78e5476df98cfdd865832c1a",
+      "display_original_site_sha256": "cb12a310511d53b305bcc9429bfb1a5784b259f608e2ef09389b8f651ea9a42b",
+      "display_original_blob_sha": "322b9a1587b0aa812db8a46d81f6ba18165d26ce",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 773514
     },
     {
       "src": "media/gaillardia-suavis/inat-649675330.jpg",
@@ -105,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c751873cf2a66d0d286a94f7d6925f6a065d221b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +157,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356256903, photo 649675330, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 066be7cd5f0bb34c26f0898bc15859fdbaf2189dc77a2749e075d45574371998. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia suavis agrees with indexed species gaillardia-suavis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "066be7cd5f0bb34c26f0898bc15859fdbaf2189dc77a2749e075d45574371998"
+      "sha256": "066be7cd5f0bb34c26f0898bc15859fdbaf2189dc77a2749e075d45574371998",
+      "display_sha256": "da0be67aace1dce4edc6fd78ef0a217cc8b792fe1376930e4260d7dbed849cf9",
+      "display_blob_sha": "293f5ef15f0e11a30cea43a89457e64ddc3cbcf9",
+      "display_original_site_sha256": "066be7cd5f0bb34c26f0898bc15859fdbaf2189dc77a2749e075d45574371998",
+      "display_original_blob_sha": "c751873cf2a66d0d286a94f7d6925f6a065d221b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 761242
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

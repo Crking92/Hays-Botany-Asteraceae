@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b238fa8f4dd3bc16f55d16920458b76f5445221",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343872582, photo 626477670, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 777948bdc41b2f5049b1f06f8a789d11a7eff67f4326be275cbd3a3d12d477a4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium texanum agrees with indexed species cirsium-texanum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "777948bdc41b2f5049b1f06f8a789d11a7eff67f4326be275cbd3a3d12d477a4"
+      "sha256": "777948bdc41b2f5049b1f06f8a789d11a7eff67f4326be275cbd3a3d12d477a4",
+      "display_sha256": "95815a33df678fca956b33510b7c387bc8cb4ae92951df045baf11bd9a61805b",
+      "display_blob_sha": "d2fdc1cd2e2fe27928808d828e4f656be772e912",
+      "display_original_site_sha256": "777948bdc41b2f5049b1f06f8a789d11a7eff67f4326be275cbd3a3d12d477a4",
+      "display_original_blob_sha": "4b238fa8f4dd3bc16f55d16920458b76f5445221",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 507324
     },
     {
       "src": "media/cirsium-texanum/inat-633276082.jpg",
@@ -91,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b16009a4253f188b086025b2f131a2cbfbd5229",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +110,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347331749, photo 633276082, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 005c50f17d08571e65d99fe3da10dfe1c490460093246ce5e427a54660ca15bb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium texanum agrees with indexed species cirsium-texanum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "005c50f17d08571e65d99fe3da10dfe1c490460093246ce5e427a54660ca15bb"
+      "sha256": "005c50f17d08571e65d99fe3da10dfe1c490460093246ce5e427a54660ca15bb",
+      "display_sha256": "420d94c3d4f2d81859b85b7265272802ec1214bde1c6363dd33fa6bd95ec680e",
+      "display_blob_sha": "6d5f41a91855e233d03146f40ac34740637b6173",
+      "display_original_site_sha256": "005c50f17d08571e65d99fe3da10dfe1c490460093246ce5e427a54660ca15bb",
+      "display_original_blob_sha": "5b16009a4253f188b086025b2f131a2cbfbd5229",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 737247
     },
     {
       "src": "media/cirsium-texanum/inat-634007609.jpg",
@@ -110,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ce9ee53d82b0a9fa4b241a9557b991501c0c4b5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +140,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347700225, photo 634007609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad735c4850ce46eaf7fa694fe66317028764c1325afd76dec91c61d69ba1a6c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium texanum agrees with indexed species cirsium-texanum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ad735c4850ce46eaf7fa694fe66317028764c1325afd76dec91c61d69ba1a6c1"
+      "sha256": "ad735c4850ce46eaf7fa694fe66317028764c1325afd76dec91c61d69ba1a6c1",
+      "display_sha256": "46a219c23841bbb3b837d04bb428f86aa2be23fa04087139b46c2d3b69787e61",
+      "display_blob_sha": "51b5c844cc40347fcc2c53b80d0934079951c678",
+      "display_original_site_sha256": "ad735c4850ce46eaf7fa694fe66317028764c1325afd76dec91c61d69ba1a6c1",
+      "display_original_blob_sha": "3ce9ee53d82b0a9fa4b241a9557b991501c0c4b5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 662609
     },
     {
       "src": "media/cirsium-texanum/inat-635429489.jpg",
@@ -129,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "204961c08aad8a2ed57c2e1204f8e89e3577cb15",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +170,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348416296, photo 635429489, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c8ccde7dcc892027389fbbbc530cecdbbbef3c404bdde3aa5f25deeaa4e0260a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium texanum agrees with indexed species cirsium-texanum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c8ccde7dcc892027389fbbbc530cecdbbbef3c404bdde3aa5f25deeaa4e0260a"
+      "sha256": "c8ccde7dcc892027389fbbbc530cecdbbbef3c404bdde3aa5f25deeaa4e0260a",
+      "display_sha256": "9e0727e55682d690a0bd36bff9b6960e7e883e69ae0f7d432b826ebc785f20cb",
+      "display_blob_sha": "cc2814dd1b4b4518971ab4b83d393faa07c3a058",
+      "display_original_site_sha256": "c8ccde7dcc892027389fbbbc530cecdbbbef3c404bdde3aa5f25deeaa4e0260a",
+      "display_original_blob_sha": "204961c08aad8a2ed57c2e1204f8e89e3577cb15",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 513267
     },
     {
       "src": "media/cirsium-texanum/inat-646907406.jpg",
@@ -148,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e81c7892fe666d7cf559eca910497c3084b96794",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +200,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354635458, photo 646907406, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 343b68ab75b7a1d1b33b610cead9edd103fa241ec9028c06b4ef14f43d68f994. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium texanum agrees with indexed species cirsium-texanum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "343b68ab75b7a1d1b33b610cead9edd103fa241ec9028c06b4ef14f43d68f994"
+      "sha256": "343b68ab75b7a1d1b33b610cead9edd103fa241ec9028c06b4ef14f43d68f994",
+      "display_sha256": "8be2bbf72b1613dc4bbae30af97a9d83923f640eb125ec655a768b6bd42c2ef6",
+      "display_blob_sha": "3371aed6720c15a0decd90dfcb9b97f95d34dabe",
+      "display_original_site_sha256": "343b68ab75b7a1d1b33b610cead9edd103fa241ec9028c06b4ef14f43d68f994",
+      "display_original_blob_sha": "e81c7892fe666d7cf559eca910497c3084b96794",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 522510
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

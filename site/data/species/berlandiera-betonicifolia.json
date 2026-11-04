@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "996d8033e9a0e516dbb2899b374985a8e927ec50",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 25784417, photo 39973307, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c7b64ae30e5e0062766c358847853146419edb6098428c9356162aaaf7600972. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Berlandiera betonicifolia maps to indexed species berlandiera-betonicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c7b64ae30e5e0062766c358847853146419edb6098428c9356162aaaf7600972"
+      "sha256": "c7b64ae30e5e0062766c358847853146419edb6098428c9356162aaaf7600972",
+      "display_sha256": "4befd00ba0c23408deeb3b992a1a1e1f3456f5997fa2295e3740a943ff94fccf",
+      "display_blob_sha": "f63ce90e0c4b76bd3c9f1484f58d87e36e5c7244",
+      "display_original_site_sha256": "c7b64ae30e5e0062766c358847853146419edb6098428c9356162aaaf7600972",
+      "display_original_blob_sha": "996d8033e9a0e516dbb2899b374985a8e927ec50",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 513527
     },
     {
       "src": "media/berlandiera-betonicifolia/inat-4093719.jpg",
@@ -72,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "918e46d2f86e67a89e0a2d998dc2f491edd7f479",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +91,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 57492448, photo 91708792, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a5fbf0c8df8246857a2fc47dce51f90f5fa9a741d7ec0625a0f551d922c3422. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Berlandiera betonicifolia maps to indexed species berlandiera-betonicifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5a5fbf0c8df8246857a2fc47dce51f90f5fa9a741d7ec0625a0f551d922c3422"
+      "sha256": "5a5fbf0c8df8246857a2fc47dce51f90f5fa9a741d7ec0625a0f551d922c3422",
+      "display_sha256": "3a2ad882b07e7cbd65aab19628ef024a58a40c39572ce7b9b2425f67354831c3",
+      "display_blob_sha": "aac94de5bbb6b6621d1b6675c1aed3415ad1939e",
+      "display_original_site_sha256": "5a5fbf0c8df8246857a2fc47dce51f90f5fa9a741d7ec0625a0f551d922c3422",
+      "display_original_blob_sha": "918e46d2f86e67a89e0a2d998dc2f491edd7f479",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 355104
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

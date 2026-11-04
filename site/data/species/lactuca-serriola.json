@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1f643deefda237390ac550a5573d1905e6644ec7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344524739, photo 627752380, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8911c482cd7578aaab1141c41d5fd4c88bd437a3b3dce0dcf4b5fbdd009d7a44. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca serriola agrees with indexed species lactuca-serriola; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8911c482cd7578aaab1141c41d5fd4c88bd437a3b3dce0dcf4b5fbdd009d7a44"
+      "sha256": "8911c482cd7578aaab1141c41d5fd4c88bd437a3b3dce0dcf4b5fbdd009d7a44",
+      "display_sha256": "de99418f63fca2b3c6117a3122bfa8394862073632ed23b2e62b421b9ef8cea3",
+      "display_blob_sha": "5c21c30b76ee83484a300100e809976bab37b141",
+      "display_original_site_sha256": "8911c482cd7578aaab1141c41d5fd4c88bd437a3b3dce0dcf4b5fbdd009d7a44",
+      "display_original_blob_sha": "1f643deefda237390ac550a5573d1905e6644ec7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 767157
     },
     {
       "src": "media/lactuca-serriola/inat-628461636.jpg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b25e7a302044f35bbaa638431036b092cd3eeac5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344893564, photo 628461636, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 55551137094842d1b81051a7f504f2ef5473fbfeb698202df861144f1eeb80d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca serriola agrees with indexed species lactuca-serriola; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "55551137094842d1b81051a7f504f2ef5473fbfeb698202df861144f1eeb80d2"
+      "sha256": "55551137094842d1b81051a7f504f2ef5473fbfeb698202df861144f1eeb80d2",
+      "display_sha256": "60d3d12bc74ceb21e094edddf80383ef89f84ada3673f460680706144b28e6d9",
+      "display_blob_sha": "4a44f63ac966f75229da46a6b5b9f60e2fc91b8d",
+      "display_original_site_sha256": "55551137094842d1b81051a7f504f2ef5473fbfeb698202df861144f1eeb80d2",
+      "display_original_blob_sha": "b25e7a302044f35bbaa638431036b092cd3eeac5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 589893
     },
     {
       "src": "media/lactuca-serriola/inat-643758620.jpg",
@@ -111,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b94c2b20f4e02510cd66814ad0c32aed8ede8ce2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352759982, photo 643758620, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53b734715365235c4bb84bd7c80b969509f96d05038f8b0125012703ce63a01e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca serriola agrees with indexed species lactuca-serriola; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "53b734715365235c4bb84bd7c80b969509f96d05038f8b0125012703ce63a01e"
+      "sha256": "53b734715365235c4bb84bd7c80b969509f96d05038f8b0125012703ce63a01e",
+      "display_sha256": "99ac187e4801ad1e5aa3608a717553aecbd7d1d3173a64b13429286e56e66dfa",
+      "display_blob_sha": "380ffc8610bf26485b94a326a4af85fb14d84609",
+      "display_original_site_sha256": "53b734715365235c4bb84bd7c80b969509f96d05038f8b0125012703ce63a01e",
+      "display_original_blob_sha": "b94c2b20f4e02510cd66814ad0c32aed8ede8ce2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 773465
     },
     {
       "src": "media/lactuca-serriola/inat-646781501.jpg",
@@ -130,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4d12ddfb2ba27358eaa06675ce53886cf8ac9352",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354560855, photo 646781501, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5df6fe8cfbf9438d3555a0f854a33d4cb6a0ca3e9df3bd07395288181e0e70d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca serriola agrees with indexed species lactuca-serriola; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f5df6fe8cfbf9438d3555a0f854a33d4cb6a0ca3e9df3bd07395288181e0e70d"
+      "sha256": "f5df6fe8cfbf9438d3555a0f854a33d4cb6a0ca3e9df3bd07395288181e0e70d",
+      "display_sha256": "ce0d33e228ac7c3755783e6a9a07e837002711a85f3503bf4ed96e72fbf704af",
+      "display_blob_sha": "41dbe9e4747dfe255e7017d595b9868889c0b33e",
+      "display_original_site_sha256": "f5df6fe8cfbf9438d3555a0f854a33d4cb6a0ca3e9df3bd07395288181e0e70d",
+      "display_original_blob_sha": "4d12ddfb2ba27358eaa06675ce53886cf8ac9352",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 754117
     },
     {
       "src": "media/lactuca-serriola/inat-646904555.jpg",
@@ -149,7 +193,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "492583db7feb2e8cdf461ebcb484e4992309c313",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +201,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354633987, photo 646904555, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c1de5d567601b5ebc62cf46cde37bb5aca1175255a13374f6c778dd5ff760f1e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Lactuca serriola agrees with indexed species lactuca-serriola; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c1de5d567601b5ebc62cf46cde37bb5aca1175255a13374f6c778dd5ff760f1e"
+      "sha256": "c1de5d567601b5ebc62cf46cde37bb5aca1175255a13374f6c778dd5ff760f1e",
+      "display_sha256": "a9f1b8566587a31719cd13dac5aec4d36ed2d3b742fa84d998197b377a2f791d",
+      "display_blob_sha": "23e45ba47b96ad7ec2b913bcfe926834f3a221d7",
+      "display_original_site_sha256": "c1de5d567601b5ebc62cf46cde37bb5aca1175255a13374f6c778dd5ff760f1e",
+      "display_original_blob_sha": "492583db7feb2e8cdf461ebcb484e4992309c313",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 588438
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

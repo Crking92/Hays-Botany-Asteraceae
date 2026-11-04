@@ -63,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9070b7fcaa5cc8ec2358f22cc434ffba721a9fb7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +71,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 157626795, photo 272511229, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 749c38270e4d2e63e755ac8ccfb08dc09a1aa9f4c3539bdd488e170903b7c66d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia artemisiifolia maps to indexed species ambrosia-artemisiifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "749c38270e4d2e63e755ac8ccfb08dc09a1aa9f4c3539bdd488e170903b7c66d"
+      "sha256": "749c38270e4d2e63e755ac8ccfb08dc09a1aa9f4c3539bdd488e170903b7c66d",
+      "display_sha256": "596ebcc182f238223ebdd6b7515f5f026912d4dbf36478efcfcd44a1573113c2",
+      "display_blob_sha": "96a0022cdcf4a58810be4530016deeb16ab3b14b",
+      "display_original_site_sha256": "749c38270e4d2e63e755ac8ccfb08dc09a1aa9f4c3539bdd488e170903b7c66d",
+      "display_original_blob_sha": "9070b7fcaa5cc8ec2358f22cc434ffba721a9fb7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 771617
     },
     {
       "src": "media/ambrosia-artemisiifolia/inat-277517762.jpg",
@@ -82,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "13653deeef1882b4dfa3f9872dd2582102d03025",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +101,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 160595309, photo 277517762, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc1c951230129892484e593b490de36da01e9fbb1abe22972246ff742761e635. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia artemisiifolia maps to indexed species ambrosia-artemisiifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "bc1c951230129892484e593b490de36da01e9fbb1abe22972246ff742761e635"
+      "sha256": "bc1c951230129892484e593b490de36da01e9fbb1abe22972246ff742761e635",
+      "display_sha256": "23d11d11a64632c6148662756a84537f1451927616b586a3d58f8cdedec1ac25",
+      "display_blob_sha": "c02296ec6a1d0de896bbe0489bbf27e0bd6a2537",
+      "display_original_site_sha256": "bc1c951230129892484e593b490de36da01e9fbb1abe22972246ff742761e635",
+      "display_original_blob_sha": "13653deeef1882b4dfa3f9872dd2582102d03025",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 610647
     },
     {
       "src": "media/ambrosia-artemisiifolia/inat-536853885.jpg",
@@ -101,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "58443b5a7c3a4cbdbaeac29023e0b98eae357cc1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +131,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 298063338, photo 536853885, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6f199072fe45f38de1cf5e970816602d84d66df6a7a689c2d99f78a137b01d32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia artemisiifolia maps to indexed species ambrosia-artemisiifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6f199072fe45f38de1cf5e970816602d84d66df6a7a689c2d99f78a137b01d32"
+      "sha256": "6f199072fe45f38de1cf5e970816602d84d66df6a7a689c2d99f78a137b01d32",
+      "display_sha256": "b14273d219d2f9adfdc794a68c483aa3626f8a20cb238327d24626bbbd953b4c",
+      "display_blob_sha": "a1399bf0c3cc199305cc662edfd71b5b6155dfa1",
+      "display_original_site_sha256": "6f199072fe45f38de1cf5e970816602d84d66df6a7a689c2d99f78a137b01d32",
+      "display_original_blob_sha": "58443b5a7c3a4cbdbaeac29023e0b98eae357cc1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 677285
     },
     {
       "src": "media/ambrosia-artemisiifolia/inat-645427274.jpg",
@@ -120,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "24c9dfda7ca2dd00e40dbc6672d0942942aba632",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +161,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353767126, photo 645427274, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6633e6546de0d6c8105558109651eb93d2d761d14cd034dba2176fa4231cb692. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia artemisiifolia maps to indexed species ambrosia-artemisiifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6633e6546de0d6c8105558109651eb93d2d761d14cd034dba2176fa4231cb692"
+      "sha256": "6633e6546de0d6c8105558109651eb93d2d761d14cd034dba2176fa4231cb692",
+      "display_sha256": "d6f4ea21d4d7c56e48f9669eab0492db371f382e05a12ea4442b6e8f737bebc5",
+      "display_blob_sha": "89111cc7f0e53419b22ad2a9d3315d24ea11e8d0",
+      "display_original_site_sha256": "6633e6546de0d6c8105558109651eb93d2d761d14cd034dba2176fa4231cb692",
+      "display_original_blob_sha": "24c9dfda7ca2dd00e40dbc6672d0942942aba632",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 747903
     },
     {
       "src": "media/ambrosia-artemisiifolia/inat-92740789.jpg",
@@ -139,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3539a05190eba5c78e3f751dac92d5b020067510",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +191,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 58107749, photo 92740789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d831fd77d2a478c3a747c7d4463eda33d7d6b10155efd0f3227978894f61a722. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ambrosia artemisiifolia maps to indexed species ambrosia-artemisiifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d831fd77d2a478c3a747c7d4463eda33d7d6b10155efd0f3227978894f61a722"
+      "sha256": "d831fd77d2a478c3a747c7d4463eda33d7d6b10155efd0f3227978894f61a722",
+      "display_sha256": "06a08dd1c3184df741c45e0bafaa77dbda40534c18fa7e9fa7b1fa999e9ca01c",
+      "display_blob_sha": "ad94fb7bab007e1f3e8b16c42bc9ba6a57a3dc2a",
+      "display_original_site_sha256": "d831fd77d2a478c3a747c7d4463eda33d7d6b10155efd0f3227978894f61a722",
+      "display_original_blob_sha": "3539a05190eba5c78e3f751dac92d5b020067510",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 761002
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6284ca8a24c02ebaf98e36b22e816b3cb6150ccb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 299290663, photo 539194589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7a2ef887c112d1efc0d39aa966d0c2ca861e85481bee48ae3f710d1845cdd5a2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium confertum maps to indexed species parthenium-confertum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "7a2ef887c112d1efc0d39aa966d0c2ca861e85481bee48ae3f710d1845cdd5a2"
+      "sha256": "7a2ef887c112d1efc0d39aa966d0c2ca861e85481bee48ae3f710d1845cdd5a2",
+      "display_sha256": "0f6f41094c03068b3f54f923264948f943cac0f04d2636f19923d6f3e7ddf81f",
+      "display_blob_sha": "6a5c56ba3697ece45c05ea17ce8a8f29c0143f0f",
+      "display_original_site_sha256": "7a2ef887c112d1efc0d39aa966d0c2ca861e85481bee48ae3f710d1845cdd5a2",
+      "display_original_blob_sha": "6284ca8a24c02ebaf98e36b22e816b3cb6150ccb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 740692
     },
     {
       "src": "media/parthenium-confertum/inat-567308358.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "046e61e2196aefd99a4b7a84420b431cd905020c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 314109117, photo 567308358, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ca4c05781ca82c2139ab229439d85d61aca16495d9bab61ba292a3488d75d26. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium confertum maps to indexed species parthenium-confertum (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "8ca4c05781ca82c2139ab229439d85d61aca16495d9bab61ba292a3488d75d26"
+      "sha256": "8ca4c05781ca82c2139ab229439d85d61aca16495d9bab61ba292a3488d75d26",
+      "display_sha256": "0d297c8a6c5487b4359784469658536bf94d79e6577308f0ca8dfdfa77bb3ae8",
+      "display_blob_sha": "d6c63ee22742c8b3f70830eb635c744d8756d4b8",
+      "display_original_site_sha256": "8ca4c05781ca82c2139ab229439d85d61aca16495d9bab61ba292a3488d75d26",
+      "display_original_blob_sha": "046e61e2196aefd99a4b7a84420b431cd905020c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 658810
     },
     {
       "src": "media/parthenium-confertum/inat-98611453.jpg",

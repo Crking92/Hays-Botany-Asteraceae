@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "274ce79d94e9d1d2287bdaa81aa04335562cf650",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 11950050, photo 17111125, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d91c0be5381fb10693b9e1731893cecc7e01a3c81385e31af750cf5246b3e96c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium canescens maps to indexed species pseudognaphalium-canescens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "d91c0be5381fb10693b9e1731893cecc7e01a3c81385e31af750cf5246b3e96c"
+      "sha256": "d91c0be5381fb10693b9e1731893cecc7e01a3c81385e31af750cf5246b3e96c",
+      "display_sha256": "3896e9fc6f73008471b6a7f4fde810c34550b7ad5c3e3cc535aab089419c75b7",
+      "display_blob_sha": "382ace5195e38ac50cfe843e69b4cdb609a281c0",
+      "display_original_site_sha256": "d91c0be5381fb10693b9e1731893cecc7e01a3c81385e31af750cf5246b3e96c",
+      "display_original_blob_sha": "274ce79d94e9d1d2287bdaa81aa04335562cf650",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 671204
     },
     {
       "src": "media/pseudognaphalium-canescens/inat-484216814.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09f5cb7fd7ba5f05f40f9ac0e237ff9b710fefaa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 269315956, photo 484216814, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89ae81cf62da7071d484166e7c59ed61d037e586a53f31238f1a0aea4c041240. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium canescens maps to indexed species pseudognaphalium-canescens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "89ae81cf62da7071d484166e7c59ed61d037e586a53f31238f1a0aea4c041240"
+      "sha256": "89ae81cf62da7071d484166e7c59ed61d037e586a53f31238f1a0aea4c041240",
+      "display_sha256": "14c9e0b06e22afc75b742235b4392ec989b79af366bfe687b6c554042f641657",
+      "display_blob_sha": "4aff50118575f172a3c7894bf9fd9811e5835bec",
+      "display_original_site_sha256": "89ae81cf62da7071d484166e7c59ed61d037e586a53f31238f1a0aea4c041240",
+      "display_original_blob_sha": "09f5cb7fd7ba5f05f40f9ac0e237ff9b710fefaa",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 663068
     },
     {
       "src": "media/pseudognaphalium-canescens/inat-497152873.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5d0d9bafd31822f104c7c57f5d10fc122517161",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 276859331, photo 497152873, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d15dc201d3627b48a3a1b3e221f92e83393d81d1f6caf55e60738e13f369ea3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium canescens maps to indexed species pseudognaphalium-canescens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "6d15dc201d3627b48a3a1b3e221f92e83393d81d1f6caf55e60738e13f369ea3"
+      "sha256": "6d15dc201d3627b48a3a1b3e221f92e83393d81d1f6caf55e60738e13f369ea3",
+      "display_sha256": "11382fab6fe41c952694ee9a273a22451ad080736670a3d027d352f87e140aec",
+      "display_blob_sha": "62c1707a352ec098bdfd0fe5ddea092d8bbc0667",
+      "display_original_site_sha256": "6d15dc201d3627b48a3a1b3e221f92e83393d81d1f6caf55e60738e13f369ea3",
+      "display_original_blob_sha": "e5d0d9bafd31822f104c7c57f5d10fc122517161",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 678769
     },
     {
       "src": "media/pseudognaphalium-canescens/inat-624222751.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "812acb86ae1d641e02274fdf9ec0c2b596d24236",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342755899, photo 624222751, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 33358270337a8fa233e7aead7edf0c72a03407afb4537e0fa6ffcca1824c7848. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium canescens maps to indexed species pseudognaphalium-canescens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "33358270337a8fa233e7aead7edf0c72a03407afb4537e0fa6ffcca1824c7848"
+      "sha256": "33358270337a8fa233e7aead7edf0c72a03407afb4537e0fa6ffcca1824c7848",
+      "display_sha256": "7163295196dbc2d2b72b332b2a61a28bb7404f2791bd5a747499ea5ba02a49f5",
+      "display_blob_sha": "c23a5446943efe8de2fd3542ce4ad1a428a4714b",
+      "display_original_site_sha256": "33358270337a8fa233e7aead7edf0c72a03407afb4537e0fa6ffcca1824c7848",
+      "display_original_blob_sha": "812acb86ae1d641e02274fdf9ec0c2b596d24236",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1431,
+        1900
+      ],
+      "display_bytes": 706697
     },
     {
       "src": "media/pseudognaphalium-canescens/inat-675991641.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0007a6b1e587ac6cc7c51be3e74fbc8a1c9243a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370047536, photo 675991641, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b8aed00dcbcea6504ce366ae229da920c1f557e33b0579b7e1bdbf61a870e104. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pseudognaphalium canescens maps to indexed species pseudognaphalium-canescens (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "b8aed00dcbcea6504ce366ae229da920c1f557e33b0579b7e1bdbf61a870e104"
+      "sha256": "b8aed00dcbcea6504ce366ae229da920c1f557e33b0579b7e1bdbf61a870e104",
+      "display_sha256": "c730f6b18c76437b397f23d0d26630d493d9c4916d63a77c61122d307a0e065b",
+      "display_blob_sha": "e785c0eb3a5a8b51b322a023817d4ee282f104ff",
+      "display_original_site_sha256": "b8aed00dcbcea6504ce366ae229da920c1f557e33b0579b7e1bdbf61a870e104",
+      "display_original_blob_sha": "0007a6b1e587ac6cc7c51be3e74fbc8a1c9243a9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 605516
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

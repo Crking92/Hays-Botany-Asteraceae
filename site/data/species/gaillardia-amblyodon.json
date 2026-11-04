@@ -43,7 +43,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a30ce39f1b3f02d513c2c48e75259856edbba4d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -51,7 +51,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 10793426, photo 15105216, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d35d742a3db02b235229ff1450569f7cbb1a2a3b339cb0b188c60b35b6c12183. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia amblyodon agrees with indexed species gaillardia-amblyodon; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d35d742a3db02b235229ff1450569f7cbb1a2a3b339cb0b188c60b35b6c12183"
+      "sha256": "d35d742a3db02b235229ff1450569f7cbb1a2a3b339cb0b188c60b35b6c12183",
+      "display_sha256": "566ab164b0d6e7f11c7c010c8f473ff911418806805341250dc443789e0b2f1d",
+      "display_blob_sha": "3b4673f1fec215d668db96b18deb0bd6fe203a85",
+      "display_original_site_sha256": "d35d742a3db02b235229ff1450569f7cbb1a2a3b339cb0b188c60b35b6c12183",
+      "display_original_blob_sha": "a30ce39f1b3f02d513c2c48e75259856edbba4d8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 631344
     },
     {
       "src": "media/gaillardia-amblyodon/inat-289483457.jpg",
@@ -62,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c41d520d823fabe45ec63e08c8c80b2342b63504",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 167127447, photo 289483457, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6408088f7dc8318dc9c9f538c94bad452a31e1de1c07b5a4c50ec529648d77a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia amblyodon agrees with indexed species gaillardia-amblyodon; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c6408088f7dc8318dc9c9f538c94bad452a31e1de1c07b5a4c50ec529648d77a"
+      "sha256": "c6408088f7dc8318dc9c9f538c94bad452a31e1de1c07b5a4c50ec529648d77a",
+      "display_sha256": "be774c469e8890545f46f1e5807c1893ad832d568c81fb1dd28ab74cd6dbba33",
+      "display_blob_sha": "60061aa682a6f9280451aaeec754b2adb18754aa",
+      "display_original_site_sha256": "c6408088f7dc8318dc9c9f538c94bad452a31e1de1c07b5a4c50ec529648d77a",
+      "display_original_blob_sha": "c41d520d823fabe45ec63e08c8c80b2342b63504",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 634232
     },
     {
       "src": "media/gaillardia-amblyodon/inat-313583903.jpg",
@@ -81,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c809e65abe028385720e1bf24c98f499574bcdcb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 180060475, photo 313583903, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a08507fa0b1390e6170d8fc40a6a7a22ae46cdec4e49e94e6f67dee11e6abaa3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia amblyodon agrees with indexed species gaillardia-amblyodon; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a08507fa0b1390e6170d8fc40a6a7a22ae46cdec4e49e94e6f67dee11e6abaa3"
+      "sha256": "a08507fa0b1390e6170d8fc40a6a7a22ae46cdec4e49e94e6f67dee11e6abaa3",
+      "display_sha256": "f8b2163b5a75bdf79ae9a685263fcbd74630cb8ba22a35e5466f35b04539de7d",
+      "display_blob_sha": "d405bbd9b04700cbeec2536be3ca36b3b1e82f6a",
+      "display_original_site_sha256": "a08507fa0b1390e6170d8fc40a6a7a22ae46cdec4e49e94e6f67dee11e6abaa3",
+      "display_original_blob_sha": "c809e65abe028385720e1bf24c98f499574bcdcb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 610663
     },
     {
       "src": "media/gaillardia-amblyodon/inat-36225477.jpeg",
@@ -100,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2d338d85a90d83cb22cda7740674525f1c98e1b1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 23388922, photo 36225477, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 85f80a63a71c6a64acd093d2538e351656434debabcf8375ccb707a0affb6447. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia amblyodon agrees with indexed species gaillardia-amblyodon; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "85f80a63a71c6a64acd093d2538e351656434debabcf8375ccb707a0affb6447"
+      "sha256": "85f80a63a71c6a64acd093d2538e351656434debabcf8375ccb707a0affb6447",
+      "display_sha256": "195d1d8f361a7275a6b4356d973f088a0d461ae47b476b3447578dc9894c6680",
+      "display_blob_sha": "f7fc7bff90549e2c17fbe0dbc128429d0dfb93d3",
+      "display_original_site_sha256": "85f80a63a71c6a64acd093d2538e351656434debabcf8375ccb707a0affb6447",
+      "display_original_blob_sha": "2d338d85a90d83cb22cda7740674525f1c98e1b1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 691897
     },
     {
       "src": "media/gaillardia-amblyodon/inat-624599095.jpg",
@@ -119,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "81b8951d1b40175a0628b0c255f5b247eed2804d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342942475, photo 624599095, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1aa06f629ca7904295b0169b063a93630778d509b40afb3f154be16c956adfc8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia amblyodon agrees with indexed species gaillardia-amblyodon; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1aa06f629ca7904295b0169b063a93630778d509b40afb3f154be16c956adfc8"
+      "sha256": "1aa06f629ca7904295b0169b063a93630778d509b40afb3f154be16c956adfc8",
+      "display_sha256": "87083c73fa0975ee3bcb2232bb5d55c9c237242b1a60d941211fbd26f5da43f0",
+      "display_blob_sha": "00ee3a26e4248cc597cdee5f5d08398791ecd8ea",
+      "display_original_site_sha256": "1aa06f629ca7904295b0169b063a93630778d509b40afb3f154be16c956adfc8",
+      "display_original_blob_sha": "81b8951d1b40175a0628b0c255f5b247eed2804d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1939,
+        2048
+      ],
+      "display_bytes": 686737
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

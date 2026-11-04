@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c23ab23cdd1771c4e3acdb71f5fab82d2c98a9a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 118053547, photo 199419783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ec972dce84ccacf52764ffcff75f9d7d1cbe4ed072b60ab0e3e474ebca2fc69. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus carolinianus maps to indexed species pyrrhopappus-carolinianus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "4ec972dce84ccacf52764ffcff75f9d7d1cbe4ed072b60ab0e3e474ebca2fc69"
+      "sha256": "4ec972dce84ccacf52764ffcff75f9d7d1cbe4ed072b60ab0e3e474ebca2fc69",
+      "display_sha256": "ff3249e9bf4840a3d61586ea2d77fa7b4d2c43880528233507137c4afc729449",
+      "display_blob_sha": "575d95149ea580841b2f93aba04e5723adb7f618",
+      "display_original_site_sha256": "4ec972dce84ccacf52764ffcff75f9d7d1cbe4ed072b60ab0e3e474ebca2fc69",
+      "display_original_blob_sha": "c23ab23cdd1771c4e3acdb71f5fab82d2c98a9a0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 315958
     },
     {
       "src": "media/pyrrhopappus-carolinianus/inat-284511296.jpg",
@@ -72,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c26e6ea73801fd5bde04cfa0cdc5d7469bdf6767",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +91,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 206469969, photo 365168272, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dde4994e0170e2bbe3039aebaed14774833d98dfeb6c7972b42382e3b1bacb19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus carolinianus maps to indexed species pyrrhopappus-carolinianus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "dde4994e0170e2bbe3039aebaed14774833d98dfeb6c7972b42382e3b1bacb19"
+      "sha256": "dde4994e0170e2bbe3039aebaed14774833d98dfeb6c7972b42382e3b1bacb19",
+      "display_sha256": "e1599bb1324bbff62109846e5f5e043445395293c8d8f93a8054e33e1870694c",
+      "display_blob_sha": "302deb53b82c911c69c9f0d666fe8e04fc92fd41",
+      "display_original_site_sha256": "dde4994e0170e2bbe3039aebaed14774833d98dfeb6c7972b42382e3b1bacb19",
+      "display_original_blob_sha": "c26e6ea73801fd5bde04cfa0cdc5d7469bdf6767",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 746564
     },
     {
       "src": "media/pyrrhopappus-carolinianus/inat-482424532.jpg",
@@ -91,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e75c0365aaa44e442f51cc4d814e27a39e055ea5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +121,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268389476, photo 482424532, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d8bb322b8f7abbc48c70364f6328cf06158e8590bfaf914bfe390eccf2b13158. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus carolinianus maps to indexed species pyrrhopappus-carolinianus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "d8bb322b8f7abbc48c70364f6328cf06158e8590bfaf914bfe390eccf2b13158"
+      "sha256": "d8bb322b8f7abbc48c70364f6328cf06158e8590bfaf914bfe390eccf2b13158",
+      "display_sha256": "a5b5ce93b6e615103e51eae49d9ea09f6b1c0ac48e0fd618de2e22e7d8b38842",
+      "display_blob_sha": "ef3957547eabcad8063f175d834b2a04ce3e9ddf",
+      "display_original_site_sha256": "d8bb322b8f7abbc48c70364f6328cf06158e8590bfaf914bfe390eccf2b13158",
+      "display_original_blob_sha": "e75c0365aaa44e442f51cc4d814e27a39e055ea5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 485649
     },
     {
       "src": "media/pyrrhopappus-carolinianus/inat-650481290.jpg",

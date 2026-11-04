@@ -48,7 +48,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60eacbc26cc37a5961023cc3adc79476ea88281f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -56,7 +56,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350812877, photo 640131950, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65a7631c4f2eed9f6c02d1a0a5e8ac9153366e9c0a9ffb9b35ee35a8268f7625. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea melitensis maps to indexed species centaurea-melitensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "65a7631c4f2eed9f6c02d1a0a5e8ac9153366e9c0a9ffb9b35ee35a8268f7625"
+      "sha256": "65a7631c4f2eed9f6c02d1a0a5e8ac9153366e9c0a9ffb9b35ee35a8268f7625",
+      "display_sha256": "be84a19ef02f3ae50f243f2e10ac14cfa6e1fdf1c46d22cb691015f2d4cff3d7",
+      "display_blob_sha": "c30d24b591035575bd589ddff0eab54f417d4242",
+      "display_original_site_sha256": "65a7631c4f2eed9f6c02d1a0a5e8ac9153366e9c0a9ffb9b35ee35a8268f7625",
+      "display_original_blob_sha": "60eacbc26cc37a5961023cc3adc79476ea88281f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 379893
     },
     {
       "src": "media/centaurea-melitensis/inat-645201024.jpg",
@@ -67,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46d5b54dff1248b09e024b3bbfc891f08a43095b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +86,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353633423, photo 645201024, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 995bae360686c5da3a1cb446612c43adb5f9bdbd10a74eb26edc83af62ed370d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea melitensis maps to indexed species centaurea-melitensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "995bae360686c5da3a1cb446612c43adb5f9bdbd10a74eb26edc83af62ed370d"
+      "sha256": "995bae360686c5da3a1cb446612c43adb5f9bdbd10a74eb26edc83af62ed370d",
+      "display_sha256": "a22f5944c36b4a811c5e0a2b38fa9b2b89b3b5ae92634c2f6660380204a64622",
+      "display_blob_sha": "70b289ae07043f9ded9ab1f1a12652467eb93e40",
+      "display_original_site_sha256": "995bae360686c5da3a1cb446612c43adb5f9bdbd10a74eb26edc83af62ed370d",
+      "display_original_blob_sha": "46d5b54dff1248b09e024b3bbfc891f08a43095b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 577654
     },
     {
       "src": "media/centaurea-melitensis/inat-646818580.jpg",
@@ -86,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4ebb1c3bb76af4e93211b82a39752d4dd52931d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +116,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354583110, photo 646818580, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 57acf7eab1db8ad0fb0533074b7cef81785e72bfb7c63bfe7aae6b0f7021c3bf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea melitensis maps to indexed species centaurea-melitensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "57acf7eab1db8ad0fb0533074b7cef81785e72bfb7c63bfe7aae6b0f7021c3bf"
+      "sha256": "57acf7eab1db8ad0fb0533074b7cef81785e72bfb7c63bfe7aae6b0f7021c3bf",
+      "display_sha256": "bb9740dd77e6adef02730a5277769bab5d95c839aa75c0401d35c88c0f29a353",
+      "display_blob_sha": "97cc5c0ed4fa4b3ef8ea9fa817b59eeefce7b394",
+      "display_original_site_sha256": "57acf7eab1db8ad0fb0533074b7cef81785e72bfb7c63bfe7aae6b0f7021c3bf",
+      "display_original_blob_sha": "4ebb1c3bb76af4e93211b82a39752d4dd52931d8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1425
+      ],
+      "display_bytes": 735380
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

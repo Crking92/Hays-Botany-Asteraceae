@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08d78681254ca85cba42aaa013786f787939508a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +100,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345677432, photo 630007253, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2803640705fd35ab2b95300760cce62e6bc799674d22fce4c0018c8fb0c2c68. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Achillea millefolium maps to indexed species achillea-millefolium (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a2803640705fd35ab2b95300760cce62e6bc799674d22fce4c0018c8fb0c2c68"
+      "sha256": "a2803640705fd35ab2b95300760cce62e6bc799674d22fce4c0018c8fb0c2c68",
+      "display_sha256": "6b16a08e3d4b60d3ebbe5228ee2498b9f8992408502fec6ed36fd0e68ad11a53",
+      "display_blob_sha": "4783f1f9dd8451f8a80d32d6e850c663961667e7",
+      "display_original_site_sha256": "a2803640705fd35ab2b95300760cce62e6bc799674d22fce4c0018c8fb0c2c68",
+      "display_original_blob_sha": "08d78681254ca85cba42aaa013786f787939508a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 738721
     },
     {
       "src": "media/achillea-millefolium/inat-630663324.jpg",
@@ -111,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f693fa1364b122deaed26d53428d4f595d96f5df",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +130,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346013954, photo 630663324, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9267af02be0347f94b0925d88a20a132d771ab5383a62f9b6f1eb7df6ef0d14b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Achillea millefolium maps to indexed species achillea-millefolium (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9267af02be0347f94b0925d88a20a132d771ab5383a62f9b6f1eb7df6ef0d14b"
+      "sha256": "9267af02be0347f94b0925d88a20a132d771ab5383a62f9b6f1eb7df6ef0d14b",
+      "display_sha256": "8e40872aaa14a9e951ba5339a5155149aec515dd3ce3da8ec9fa22b395aabbff",
+      "display_blob_sha": "2ae7d01dcd78e0f86f9d2bb2145a5d61504d625a",
+      "display_original_site_sha256": "9267af02be0347f94b0925d88a20a132d771ab5383a62f9b6f1eb7df6ef0d14b",
+      "display_original_blob_sha": "f693fa1364b122deaed26d53428d4f595d96f5df",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 671931
     },
     {
       "src": "media/achillea-millefolium/inat-630702562.jpg",
@@ -130,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b52807732edaa9e768342294496e85ee8cdb975a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +160,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346033828, photo 630702562, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bdbfdd9a59c62cee1262e2bc4cf6893ae0fafef118cda0963ece2f672646e6cb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Achillea millefolium maps to indexed species achillea-millefolium (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "bdbfdd9a59c62cee1262e2bc4cf6893ae0fafef118cda0963ece2f672646e6cb"
+      "sha256": "bdbfdd9a59c62cee1262e2bc4cf6893ae0fafef118cda0963ece2f672646e6cb",
+      "display_sha256": "f69754d9e4cb2c5a94aabbd2620aee4cb9cd852dac6c0a39eb6535c23c87bee5",
+      "display_blob_sha": "e9aa6376cfe834d187cb06413adc9df8e6b5f968",
+      "display_original_site_sha256": "bdbfdd9a59c62cee1262e2bc4cf6893ae0fafef118cda0963ece2f672646e6cb",
+      "display_original_blob_sha": "b52807732edaa9e768342294496e85ee8cdb975a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 694471
     },
     {
       "src": "media/achillea-millefolium/inat-673548675.jpg",
@@ -149,7 +182,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6056882d7dab0629ca512b8ced8afdc57573b9dc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +190,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 368760722, photo 673548675, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d204f3815d842ef15613eaf73fc40f4d93a586a74dbe4c8ebb382b3a2129c033. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Achillea millefolium maps to indexed species achillea-millefolium (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d204f3815d842ef15613eaf73fc40f4d93a586a74dbe4c8ebb382b3a2129c033"
+      "sha256": "d204f3815d842ef15613eaf73fc40f4d93a586a74dbe4c8ebb382b3a2129c033",
+      "display_sha256": "ce1a6fe1278f0c28d11b772774bc41621450a9ed94df06dd7e6567e8c99b3040",
+      "display_blob_sha": "e5bcfdfce0b72e46820c48213daea403a69aa892",
+      "display_original_site_sha256": "d204f3815d842ef15613eaf73fc40f4d93a586a74dbe4c8ebb382b3a2129c033",
+      "display_original_blob_sha": "6056882d7dab0629ca512b8ced8afdc57573b9dc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 762178
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

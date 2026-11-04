@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cee82cfcef6c072b258bd821d0113f4c503c5b4d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340779575, photo 620215505, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f98b5840053dea2163d365300911ff9068028ca210cdeed66e894500e3cfe51. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis neglecta maps to indexed species baccharis-neglecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5f98b5840053dea2163d365300911ff9068028ca210cdeed66e894500e3cfe51"
+      "sha256": "5f98b5840053dea2163d365300911ff9068028ca210cdeed66e894500e3cfe51",
+      "display_sha256": "28d0580b4e6e78a2c968746202e7eda6212417705b4283dc9b82b0f7fa29bfd2",
+      "display_blob_sha": "950a471d854ce320fdde8b87e88f63272adea493",
+      "display_original_site_sha256": "5f98b5840053dea2163d365300911ff9068028ca210cdeed66e894500e3cfe51",
+      "display_original_blob_sha": "cee82cfcef6c072b258bd821d0113f4c503c5b4d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 738386
     },
     {
       "src": "media/baccharis-neglecta/inat-626701743.jpg",
@@ -87,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d3d152f561e959882ec42acdd28574da5a71c62d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +106,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343984034, photo 626701743, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d166bdf4529ffefdaab97bffc93c4ea2d57564eb4269a3f138b2e0dd3094f27b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis neglecta maps to indexed species baccharis-neglecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d166bdf4529ffefdaab97bffc93c4ea2d57564eb4269a3f138b2e0dd3094f27b"
+      "sha256": "d166bdf4529ffefdaab97bffc93c4ea2d57564eb4269a3f138b2e0dd3094f27b",
+      "display_sha256": "c1c23d9382ed85e4a3393a6732542db13e1dd0bc86f0837cce6ee06496acf09e",
+      "display_blob_sha": "48368679a26b3be85ab09cb02794c2185cd3db4b",
+      "display_original_site_sha256": "d166bdf4529ffefdaab97bffc93c4ea2d57564eb4269a3f138b2e0dd3094f27b",
+      "display_original_blob_sha": "d3d152f561e959882ec42acdd28574da5a71c62d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 750898
     },
     {
       "src": "media/baccharis-neglecta/inat-627135602.jpg",
@@ -106,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "23c10dba5f0ff0f8056dd438e4f82eac38533405",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +136,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344209268, photo 627135602, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 592d21d16e4ef69e76ed130d12561d69d6eef90238235d114ae693441b92c362. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis neglecta maps to indexed species baccharis-neglecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "592d21d16e4ef69e76ed130d12561d69d6eef90238235d114ae693441b92c362"
+      "sha256": "592d21d16e4ef69e76ed130d12561d69d6eef90238235d114ae693441b92c362",
+      "display_sha256": "1239c64e5bbfc58487d0fb3edcb4beb0027901996680f6cd92477d0d6bbed5ce",
+      "display_blob_sha": "caf4edd0425b6b1aabfef3dc925483e715fd3ebe",
+      "display_original_site_sha256": "592d21d16e4ef69e76ed130d12561d69d6eef90238235d114ae693441b92c362",
+      "display_original_blob_sha": "23c10dba5f0ff0f8056dd438e4f82eac38533405",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 677490
     },
     {
       "src": "media/baccharis-neglecta/inat-628348453.jpg",
@@ -125,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "422d5adeb4985b54223f9ee7c4db9ebea669a77c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +166,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344835020, photo 628348453, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2585b424e0e20c6487ed4f1615cb73bc4b0557c1f4530ad7a6234853d92ed87. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis neglecta maps to indexed species baccharis-neglecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c2585b424e0e20c6487ed4f1615cb73bc4b0557c1f4530ad7a6234853d92ed87"
+      "sha256": "c2585b424e0e20c6487ed4f1615cb73bc4b0557c1f4530ad7a6234853d92ed87",
+      "display_sha256": "afcdcad5c9062fa833580214418478ec3546b8a06974018ba1f6d572c36b58c4",
+      "display_blob_sha": "b510724b2bf065aba74ea49e33590475761c938d",
+      "display_original_site_sha256": "c2585b424e0e20c6487ed4f1615cb73bc4b0557c1f4530ad7a6234853d92ed87",
+      "display_original_blob_sha": "422d5adeb4985b54223f9ee7c4db9ebea669a77c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 742152
     },
     {
       "src": "media/baccharis-neglecta/inat-633262775.jpg",
@@ -144,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0202a6f6a0f92f14ae8c9fe93fad3bb1d9ff095",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +196,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343202913, photo 633262775, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4cc7c381b17240e57ae8c3f7dc5144994632a0612e54bab5fd0766ffb32208e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Baccharis neglecta maps to indexed species baccharis-neglecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "4cc7c381b17240e57ae8c3f7dc5144994632a0612e54bab5fd0766ffb32208e6"
+      "sha256": "4cc7c381b17240e57ae8c3f7dc5144994632a0612e54bab5fd0766ffb32208e6",
+      "display_sha256": "0286d56307441b2ff85f74e7be965cd399aedef5b7d4d8fa24e4899f1a3ad865",
+      "display_blob_sha": "2436f51f586623d3f66827f816a5abf4f3a1e076",
+      "display_original_site_sha256": "4cc7c381b17240e57ae8c3f7dc5144994632a0612e54bab5fd0766ffb32208e6",
+      "display_original_blob_sha": "b0202a6f6a0f92f14ae8c9fe93fad3bb1d9ff095",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 731222
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

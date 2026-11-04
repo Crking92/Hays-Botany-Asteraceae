@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abd95dc97a5fdee191ad99c66cf35948801d1ca9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 80284683, photo 131574331, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 50e7f4b8970070ecd355b6b61d64ca16a0056332265a1e8db5a020dae5502709. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carthamus tinctorius maps to indexed species carthamus-tinctorius (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "50e7f4b8970070ecd355b6b61d64ca16a0056332265a1e8db5a020dae5502709"
+      "sha256": "50e7f4b8970070ecd355b6b61d64ca16a0056332265a1e8db5a020dae5502709",
+      "display_sha256": "15c9b86ae42a492a4c7af220c3cde2b04e733b78e6301856aac680a7849b9f48",
+      "display_blob_sha": "906d5ef5c4a4c13a057f89dcea7b1357cee1814c",
+      "display_original_site_sha256": "50e7f4b8970070ecd355b6b61d64ca16a0056332265a1e8db5a020dae5502709",
+      "display_original_blob_sha": "abd95dc97a5fdee191ad99c66cf35948801d1ca9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        996,
+        2048
+      ],
+      "display_bytes": 547927
     },
     {
       "src": "media/carthamus-tinctorius/inat-507085944.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "66e8163109659909518ac56cf044713607c834be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 282251475, photo 507085944, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b80d584b2b694de0ccf092a86271e6f5ab1d140927a4c8299e5fe49e0900f8b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carthamus tinctorius maps to indexed species carthamus-tinctorius (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b80d584b2b694de0ccf092a86271e6f5ab1d140927a4c8299e5fe49e0900f8b1"
+      "sha256": "b80d584b2b694de0ccf092a86271e6f5ab1d140927a4c8299e5fe49e0900f8b1",
+      "display_sha256": "1499fc118f246f85d61ad8e0b7348fa5728d397d070c3fc215cec454fcf47c11",
+      "display_blob_sha": "29cad9c5b5950183e5b8c907d0ec1e104f4964e0",
+      "display_original_site_sha256": "b80d584b2b694de0ccf092a86271e6f5ab1d140927a4c8299e5fe49e0900f8b1",
+      "display_original_blob_sha": "66e8163109659909518ac56cf044713607c834be",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        946,
+        2048
+      ],
+      "display_bytes": 471802
     },
     {
       "src": "media/carthamus-tinctorius/inat-643765210.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd7e66fae540826c7e8b0be696f3fa2c80ce2469",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352765137, photo 643765210, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9020615fff804e40caaf7e5cd89da0ece57c88048ace06e5ccd032613744ebdd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carthamus tinctorius maps to indexed species carthamus-tinctorius (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9020615fff804e40caaf7e5cd89da0ece57c88048ace06e5ccd032613744ebdd"
+      "sha256": "9020615fff804e40caaf7e5cd89da0ece57c88048ace06e5ccd032613744ebdd",
+      "display_sha256": "0f5b299ef7cf06e77499b4c98a945ef1916516ad15272a4dee2eaff34061c094",
+      "display_blob_sha": "a0386c57957efe31a06c452aa185115ae9b76da2",
+      "display_original_site_sha256": "9020615fff804e40caaf7e5cd89da0ece57c88048ace06e5ccd032613744ebdd",
+      "display_original_blob_sha": "fd7e66fae540826c7e8b0be696f3fa2c80ce2469",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 434869
     },
     {
       "src": "media/carthamus-tinctorius/inat-678734306.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fded6eaddb322ba40e2206d22c0092d2ec8c1cdc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 371483785, photo 678734306, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc4909006f1b9748418fbcd6c28644d1d428f85ce52c35e26f312ec03dc1b5f6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carthamus tinctorius maps to indexed species carthamus-tinctorius (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "fc4909006f1b9748418fbcd6c28644d1d428f85ce52c35e26f312ec03dc1b5f6"
+      "sha256": "fc4909006f1b9748418fbcd6c28644d1d428f85ce52c35e26f312ec03dc1b5f6",
+      "display_sha256": "e739a2adb2c65fc17dc52c61a69d7545f841ab29e588d49d1cbee34ef3f32f17",
+      "display_blob_sha": "b9a4fb5ef01e5207b8bd1d6280a803b7c75742ca",
+      "display_original_site_sha256": "fc4909006f1b9748418fbcd6c28644d1d428f85ce52c35e26f312ec03dc1b5f6",
+      "display_original_blob_sha": "fded6eaddb322ba40e2206d22c0092d2ec8c1cdc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 478995
     },
     {
       "src": "media/carthamus-tinctorius/inat-680384658.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f3c90f9a64d54d261123167a77d129de4257b86",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 372345258, photo 680384658, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a82615121a0085b0caea199af5cd452ffdafaee4bbe0878e4bcf3ed3ee15e227. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Carthamus tinctorius maps to indexed species carthamus-tinctorius (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a82615121a0085b0caea199af5cd452ffdafaee4bbe0878e4bcf3ed3ee15e227"
+      "sha256": "a82615121a0085b0caea199af5cd452ffdafaee4bbe0878e4bcf3ed3ee15e227",
+      "display_sha256": "012b656b6b9afc3f5f45473031f84afa060572b82d9f614e50328d5a8ba468bb",
+      "display_blob_sha": "c741211d06da311683b7a9850347f81572862177",
+      "display_original_site_sha256": "a82615121a0085b0caea199af5cd452ffdafaee4bbe0878e4bcf3ed3ee15e227",
+      "display_original_blob_sha": "8f3c90f9a64d54d261123167a77d129de4257b86",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 688313
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

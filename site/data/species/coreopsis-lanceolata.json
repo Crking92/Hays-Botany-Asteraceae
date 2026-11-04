@@ -47,7 +47,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70d6047d80c93366deff7f54c201a3b16ce568a2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -55,7 +55,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 273240120, photo 491474863, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3e601e6aaf08d5605fcbdad8e8b737dfbd3cd82915e23c60e4732174cae94313. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis lanceolata agrees with indexed species coreopsis-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3e601e6aaf08d5605fcbdad8e8b737dfbd3cd82915e23c60e4732174cae94313"
+      "sha256": "3e601e6aaf08d5605fcbdad8e8b737dfbd3cd82915e23c60e4732174cae94313",
+      "display_sha256": "6798fa7f09ba8a53c37a7a1da9ffd5070097edfa7779976ab98b4ed7f58828bc",
+      "display_blob_sha": "2face0bb9eecd54ac4e5b4fe966867ff87d7cfcc",
+      "display_original_site_sha256": "3e601e6aaf08d5605fcbdad8e8b737dfbd3cd82915e23c60e4732174cae94313",
+      "display_original_blob_sha": "70d6047d80c93366deff7f54c201a3b16ce568a2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 639121
     },
     {
       "src": "media/coreopsis-lanceolata/inat-495861032.jpg",
@@ -66,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f1ad52335e9a37f900f7e919c85069e9f126823",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -74,7 +85,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 276065499, photo 495861032, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 430c98196091d06e5e07f4db1248c425f6f27d344d910e4ece14754e7a47df6d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis lanceolata agrees with indexed species coreopsis-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "430c98196091d06e5e07f4db1248c425f6f27d344d910e4ece14754e7a47df6d"
+      "sha256": "430c98196091d06e5e07f4db1248c425f6f27d344d910e4ece14754e7a47df6d",
+      "display_sha256": "cd53711a6a901705d97612d30b109dbdd69f5550108153f980159c74447e5ef8",
+      "display_blob_sha": "ba12116f11cd2d506ffc004700bf7765634cb1ea",
+      "display_original_site_sha256": "430c98196091d06e5e07f4db1248c425f6f27d344d910e4ece14754e7a47df6d",
+      "display_original_blob_sha": "7f1ad52335e9a37f900f7e919c85069e9f126823",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 359345
     },
     {
       "src": "media/coreopsis-lanceolata/inat-643760604.jpg",
@@ -85,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "61961dc7a5e923537b2acc5a8a04bef752d276e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +115,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352761473, photo 643760604, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43c812b7c0ec86e259f94f81ee035511e419af99cbf42d0682e3a5030b0192a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis lanceolata agrees with indexed species coreopsis-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "43c812b7c0ec86e259f94f81ee035511e419af99cbf42d0682e3a5030b0192a8"
+      "sha256": "43c812b7c0ec86e259f94f81ee035511e419af99cbf42d0682e3a5030b0192a8",
+      "display_sha256": "5ea9793453f83f99640d0f9bddec6cf8e549f015d05b6781685fe8148d3794ba",
+      "display_blob_sha": "7c94a6a526996d1300464db599274b6c9b7f1d52",
+      "display_original_site_sha256": "43c812b7c0ec86e259f94f81ee035511e419af99cbf42d0682e3a5030b0192a8",
+      "display_original_blob_sha": "61961dc7a5e923537b2acc5a8a04bef752d276e9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 749282
     },
     {
       "src": "media/coreopsis-lanceolata/inat-646883003.jpg",
@@ -104,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "36865e1a8bfd11867bcb326db0d75e3b4453eafc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +145,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354621371, photo 646883003, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b8cda5d1001ef3a84af5ba9f4278f71db1799a047bab8e03aa4a7164f23080f2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis lanceolata agrees with indexed species coreopsis-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b8cda5d1001ef3a84af5ba9f4278f71db1799a047bab8e03aa4a7164f23080f2"
+      "sha256": "b8cda5d1001ef3a84af5ba9f4278f71db1799a047bab8e03aa4a7164f23080f2",
+      "display_sha256": "7152e45ef393a774b13e5e5cd779166a68f0b85222709a438f1f30c1d93e420c",
+      "display_blob_sha": "f7d86f3a1c4e014a21124206e7d0e524670135d2",
+      "display_original_site_sha256": "b8cda5d1001ef3a84af5ba9f4278f71db1799a047bab8e03aa4a7164f23080f2",
+      "display_original_blob_sha": "36865e1a8bfd11867bcb326db0d75e3b4453eafc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 600876
     },
     {
       "src": "media/coreopsis-lanceolata/inat-647601418.jpg",
@@ -123,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "522d601b291c439ec201d4b88fd19b09a0717eac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +175,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355027326, photo 647601418, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6ae3021bfed20443fd5ff938054b2e6ada81493624bb0543a550ad0bcf31132. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis lanceolata agrees with indexed species coreopsis-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f6ae3021bfed20443fd5ff938054b2e6ada81493624bb0543a550ad0bcf31132"
+      "sha256": "f6ae3021bfed20443fd5ff938054b2e6ada81493624bb0543a550ad0bcf31132",
+      "display_sha256": "17b825d15ca62e000fb8eb44a40c6b63aee6403e69d94e12550b7ff314f41404",
+      "display_blob_sha": "d7a5d6d45f6e5b85a1b7eb87958fd74ed35114d3",
+      "display_original_site_sha256": "f6ae3021bfed20443fd5ff938054b2e6ada81493624bb0543a550ad0bcf31132",
+      "display_original_blob_sha": "522d601b291c439ec201d4b88fd19b09a0717eac",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 439962
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

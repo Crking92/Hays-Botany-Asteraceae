@@ -44,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7c2d205b0adc56b0cccf86a7978e4f2f7d1f5470",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -52,7 +52,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 125257486, photo 212404403, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f98ffe04b59edac0d5401d4f4560940b3c87dee32a680edcab67f038109ad415. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia ciliata agrees with indexed species grindelia-ciliata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f98ffe04b59edac0d5401d4f4560940b3c87dee32a680edcab67f038109ad415"
+      "sha256": "f98ffe04b59edac0d5401d4f4560940b3c87dee32a680edcab67f038109ad415",
+      "display_sha256": "892df04628f82d21e430e0c869b86c3b7cc10e978605222f95c40e36c028d24d",
+      "display_blob_sha": "cd998f82c94f320d5653266f66280ec44b9da28b",
+      "display_original_site_sha256": "f98ffe04b59edac0d5401d4f4560940b3c87dee32a680edcab67f038109ad415",
+      "display_original_blob_sha": "7c2d205b0adc56b0cccf86a7978e4f2f7d1f5470",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 478231
     },
     {
       "src": "media/grindelia-ciliata/inat-309125708.jpg",
@@ -63,7 +74,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5cd0fe9cfbdea0c99d26af648c48920ddfc7b6af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +82,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 177714979, photo 309125708, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76334af9c84838b6f958861198990080df6b118a3fabc6970c311923a20a8747. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia ciliata agrees with indexed species grindelia-ciliata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "76334af9c84838b6f958861198990080df6b118a3fabc6970c311923a20a8747"
+      "sha256": "76334af9c84838b6f958861198990080df6b118a3fabc6970c311923a20a8747",
+      "display_sha256": "b3078c4faeb5a7cbd8fa95a0f3164558adca182baa6edc166ebd0efce364ec92",
+      "display_blob_sha": "16c641548671a34ea320aa931c0ba5d8773268d5",
+      "display_original_site_sha256": "76334af9c84838b6f958861198990080df6b118a3fabc6970c311923a20a8747",
+      "display_original_blob_sha": "5cd0fe9cfbdea0c99d26af648c48920ddfc7b6af",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 421512
     },
     {
       "src": "media/grindelia-ciliata/inat-49725134.jpg",
@@ -82,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8021686a2cabb0bbe1b6ad4b2b0aae65606306c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +112,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 31669792, photo 49725134, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 124517ea617bbe93167d82448dfe013bf1fd9c927bda3333065dad4290ef56b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia ciliata agrees with indexed species grindelia-ciliata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "124517ea617bbe93167d82448dfe013bf1fd9c927bda3333065dad4290ef56b1"
+      "sha256": "124517ea617bbe93167d82448dfe013bf1fd9c927bda3333065dad4290ef56b1",
+      "display_sha256": "f9d43798daaf954d51f99a34f9b28f1d1ad86dd403af2de0c1d5de4611c1588a",
+      "display_blob_sha": "11243a014f75008430e44a52f6da87cd5b55aaf8",
+      "display_original_site_sha256": "124517ea617bbe93167d82448dfe013bf1fd9c927bda3333065dad4290ef56b1",
+      "display_original_blob_sha": "8021686a2cabb0bbe1b6ad4b2b0aae65606306c1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 433155
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

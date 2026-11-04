@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c2e7dc8e38cbf10de924bc4e16652c4d4400435f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352838862, photo 643879846, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 345894aa641f91a13bda139b125bf4fe8063020a2b41aabaa41335425e302da2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis tinctoria agrees with indexed species coreopsis-tinctoria; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "345894aa641f91a13bda139b125bf4fe8063020a2b41aabaa41335425e302da2"
+      "sha256": "345894aa641f91a13bda139b125bf4fe8063020a2b41aabaa41335425e302da2",
+      "display_sha256": "111822c9c9d84740a7fca56659464133f50973e49464924935dccb0fcbe22cd0",
+      "display_blob_sha": "b67a255b9acf361457e04595695077d30934d6bb",
+      "display_original_site_sha256": "345894aa641f91a13bda139b125bf4fe8063020a2b41aabaa41335425e302da2",
+      "display_original_blob_sha": "c2e7dc8e38cbf10de924bc4e16652c4d4400435f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 461956
     },
     {
       "src": "media/coreopsis-tinctoria/inat-645114836.jpg",
@@ -87,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a4b75d7a4b3e27adb0dfc5d9397f2610709ced1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +106,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353579878, photo 645114836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db0e5a40c75edf7748e28de0c0d17b0c992b4d2f101701a0e3fa1fcd2837a385. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis tinctoria agrees with indexed species coreopsis-tinctoria; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "db0e5a40c75edf7748e28de0c0d17b0c992b4d2f101701a0e3fa1fcd2837a385"
+      "sha256": "db0e5a40c75edf7748e28de0c0d17b0c992b4d2f101701a0e3fa1fcd2837a385",
+      "display_sha256": "64e1cf464986bc52b8ea2fe9958fa61d00346e2ab01e93ee5556f4d44ac615b6",
+      "display_blob_sha": "34ea7bb9f789572d8f254fc4a8b521d6523a0c26",
+      "display_original_site_sha256": "db0e5a40c75edf7748e28de0c0d17b0c992b4d2f101701a0e3fa1fcd2837a385",
+      "display_original_blob_sha": "1a4b75d7a4b3e27adb0dfc5d9397f2610709ced1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 525221
     },
     {
       "src": "media/coreopsis-tinctoria/inat-648454945.jpg",
@@ -106,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0fd77e2e21a97604fb93b68889a69336bdeffedc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +136,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355576561, photo 648454945, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a56c87b78eefd41d4422e1489be73039d7a176afd755a3920c96cd776eaba76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis tinctoria agrees with indexed species coreopsis-tinctoria; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8a56c87b78eefd41d4422e1489be73039d7a176afd755a3920c96cd776eaba76"
+      "sha256": "8a56c87b78eefd41d4422e1489be73039d7a176afd755a3920c96cd776eaba76",
+      "display_sha256": "0b92594aea553c9bdcf7588917588ab5dbca705e12e9f856e48e95614d4e29f2",
+      "display_blob_sha": "7d81923e3c18e1e1125e740b3e7d39866e95f86f",
+      "display_original_site_sha256": "8a56c87b78eefd41d4422e1489be73039d7a176afd755a3920c96cd776eaba76",
+      "display_original_blob_sha": "0fd77e2e21a97604fb93b68889a69336bdeffedc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 330222
     },
     {
       "src": "media/coreopsis-tinctoria/inat-649841372.jpg",
@@ -125,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc3f60104dfda6abde7f1d1abe29348c5ac48e7b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +166,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356344487, photo 649841372, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec07bebf33f7bfd330ec27fa188738b231257840a837e77589bdd5fc6160540d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis tinctoria agrees with indexed species coreopsis-tinctoria; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ec07bebf33f7bfd330ec27fa188738b231257840a837e77589bdd5fc6160540d"
+      "sha256": "ec07bebf33f7bfd330ec27fa188738b231257840a837e77589bdd5fc6160540d",
+      "display_sha256": "278a56ad34b4783e367e9ceef5518ad1d7787a83d92ad270ab18ec15be1d5925",
+      "display_blob_sha": "ff176eec67be6b81a2dcda188a92256ab0ce0f65",
+      "display_original_site_sha256": "ec07bebf33f7bfd330ec27fa188738b231257840a837e77589bdd5fc6160540d",
+      "display_original_blob_sha": "cc3f60104dfda6abde7f1d1abe29348c5ac48e7b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 435554
     },
     {
       "src": "media/coreopsis-tinctoria/inat-653296872.jpg",
@@ -144,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "edc9da57287454e92ab0cbe3438ecdd0a0f61655",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +196,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 358140614, photo 653296872, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c90a37865af7b6e6b92b053943c09a19c3e8654b9c92f90761e19e53b6da5ec0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis tinctoria agrees with indexed species coreopsis-tinctoria; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c90a37865af7b6e6b92b053943c09a19c3e8654b9c92f90761e19e53b6da5ec0"
+      "sha256": "c90a37865af7b6e6b92b053943c09a19c3e8654b9c92f90761e19e53b6da5ec0",
+      "display_sha256": "1a0ad4ed99a1087cf30175f0fcb3f6ec1e1f98be6306ae6a0c2ee21c1030e6b6",
+      "display_blob_sha": "41ab41a63d118282c5a4ee092b13e96d4c45de85",
+      "display_original_site_sha256": "c90a37865af7b6e6b92b053943c09a19c3e8654b9c92f90761e19e53b6da5ec0",
+      "display_original_blob_sha": "edc9da57287454e92ab0cbe3438ecdd0a0f61655",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 427478
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

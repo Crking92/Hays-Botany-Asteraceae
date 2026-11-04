@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "95c5136748e794b4b91d463997bd86e6532ab8de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341158690, photo 620993609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 12f0f6e275d951b097475312daed9a1e514cb550a4d297eb95fd7deaacc45653. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia pulchella agrees with indexed species gaillardia-pulchella; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "12f0f6e275d951b097475312daed9a1e514cb550a4d297eb95fd7deaacc45653"
+      "sha256": "12f0f6e275d951b097475312daed9a1e514cb550a4d297eb95fd7deaacc45653",
+      "display_sha256": "4dabe7be10fa27aa6b9a96f07dd344b0e07e98eb8f1b5d27d8f31e4b9ff86c66",
+      "display_blob_sha": "d01e13b9dacca098c210d7eba7c798ce2dec4e27",
+      "display_original_site_sha256": "12f0f6e275d951b097475312daed9a1e514cb550a4d297eb95fd7deaacc45653",
+      "display_original_blob_sha": "95c5136748e794b4b91d463997bd86e6532ab8de",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 773132
     },
     {
       "src": "media/gaillardia-pulchella/inat-622689883.jpg",
@@ -91,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c9fffca873bbb5ebad9b020816d824326a34e58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +110,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341989546, photo 622689883, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 751a3ea636101c1f95515796c59ae9080672e570308426725bd1b4bd9f00700d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia pulchella agrees with indexed species gaillardia-pulchella; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "751a3ea636101c1f95515796c59ae9080672e570308426725bd1b4bd9f00700d"
+      "sha256": "751a3ea636101c1f95515796c59ae9080672e570308426725bd1b4bd9f00700d",
+      "display_sha256": "2a51949d9bd14f2b2d44f5025b23713a47500eef0eeeda2d92d29da1c5d24780",
+      "display_blob_sha": "9d50594e584c8c5dfac05d8f3bf1fd897280fd7c",
+      "display_original_site_sha256": "751a3ea636101c1f95515796c59ae9080672e570308426725bd1b4bd9f00700d",
+      "display_original_blob_sha": "8c9fffca873bbb5ebad9b020816d824326a34e58",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 347630
     },
     {
       "src": "media/gaillardia-pulchella/inat-623460243.jpg",
@@ -110,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "008341c9ab59565b24b7d6cc58471f148c6768b4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +140,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342369459, photo 623460243, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3722074dce7e897fae2eabb4275ef9ccce5ef8eaf6e4c4cfc28f09d7d652945d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia pulchella agrees with indexed species gaillardia-pulchella; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3722074dce7e897fae2eabb4275ef9ccce5ef8eaf6e4c4cfc28f09d7d652945d"
+      "sha256": "3722074dce7e897fae2eabb4275ef9ccce5ef8eaf6e4c4cfc28f09d7d652945d",
+      "display_sha256": "4b3d695f1c392891e761d675a1714531e3f26b477005a6dc5517ffce76267a5d",
+      "display_blob_sha": "f3bb9069bbb0098bbf2ee12413ac77883ebe6454",
+      "display_original_site_sha256": "3722074dce7e897fae2eabb4275ef9ccce5ef8eaf6e4c4cfc28f09d7d652945d",
+      "display_original_blob_sha": "008341c9ab59565b24b7d6cc58471f148c6768b4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 503275
     },
     {
       "src": "media/gaillardia-pulchella/inat-623793613.jpg",
@@ -129,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5005e7eb71278f2bba6f962b44d0403ea90f1717",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +170,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342533210, photo 623793613, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e6d26769b8305041f8ce4fd9a73028660bced34df5b330d2784b94ccb6bb5aa7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia pulchella agrees with indexed species gaillardia-pulchella; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e6d26769b8305041f8ce4fd9a73028660bced34df5b330d2784b94ccb6bb5aa7"
+      "sha256": "e6d26769b8305041f8ce4fd9a73028660bced34df5b330d2784b94ccb6bb5aa7",
+      "display_sha256": "8bc8ff1ab028d56c4fcc35e7209c78c64269da5ed1d6ed54f316655235a5df28",
+      "display_blob_sha": "e944916b2ee2d4efc5328269bfc44457d23514c0",
+      "display_original_site_sha256": "e6d26769b8305041f8ce4fd9a73028660bced34df5b330d2784b94ccb6bb5aa7",
+      "display_original_blob_sha": "5005e7eb71278f2bba6f962b44d0403ea90f1717",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 670011
     },
     {
       "src": "media/gaillardia-pulchella/inat-624361287.jpg",
@@ -148,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d75ee5035cc89799e5f34d645b533e485b53d87d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +200,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342843707, photo 624361287, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3d8947625eeba49ab3b9c819f2d233b3d4cd60cd8440c9aa02f1bbab2bbf8207. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gaillardia pulchella agrees with indexed species gaillardia-pulchella; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3d8947625eeba49ab3b9c819f2d233b3d4cd60cd8440c9aa02f1bbab2bbf8207"
+      "sha256": "3d8947625eeba49ab3b9c819f2d233b3d4cd60cd8440c9aa02f1bbab2bbf8207",
+      "display_sha256": "3322cfbbdc92c12bc438ba68890aca4213214b76819d971de212495acaee6604",
+      "display_blob_sha": "be3b5da4136924c01177b3d153234d05b1ebd76c",
+      "display_original_site_sha256": "3d8947625eeba49ab3b9c819f2d233b3d4cd60cd8440c9aa02f1bbab2bbf8207",
+      "display_original_blob_sha": "d75ee5035cc89799e5f34d645b533e485b53d87d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 335497
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

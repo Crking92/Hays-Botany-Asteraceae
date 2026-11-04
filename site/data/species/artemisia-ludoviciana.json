@@ -59,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b684fb37b9eb0864f4e0a174ae04d355ac33dfd0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -67,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274224802, photo 493028760, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 30dab13db440bfb343b130b03fdb281e5972b3427e662ab6e782cd7f54858e71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia ludoviciana maps to indexed species artemisia-ludoviciana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "30dab13db440bfb343b130b03fdb281e5972b3427e662ab6e782cd7f54858e71"
+      "sha256": "30dab13db440bfb343b130b03fdb281e5972b3427e662ab6e782cd7f54858e71",
+      "display_sha256": "45c7c1aaf62e1a4bfae5ac4294ed71fe0814c7b6f5b31318796f56573a2d07c9",
+      "display_blob_sha": "cd7cb587e352998c5b6d9b900a7e9b7afda57168",
+      "display_original_site_sha256": "30dab13db440bfb343b130b03fdb281e5972b3427e662ab6e782cd7f54858e71",
+      "display_original_blob_sha": "b684fb37b9eb0864f4e0a174ae04d355ac33dfd0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 691710
     },
     {
       "src": "media/artemisia-ludoviciana/inat-493262334.jpg",
@@ -78,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "01d843e53d1afdd43d2ee3415e91ffa6b9c249ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +97,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274364184, photo 493262334, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0968d4e3c71313ff382233bf1116de1c2116fba0a80e471b76811d1490315b00. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia ludoviciana maps to indexed species artemisia-ludoviciana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0968d4e3c71313ff382233bf1116de1c2116fba0a80e471b76811d1490315b00"
+      "sha256": "0968d4e3c71313ff382233bf1116de1c2116fba0a80e471b76811d1490315b00",
+      "display_sha256": "a65953372500fc856255d5b1a4e6470719030e6e158fffc521d09fe0927c727b",
+      "display_blob_sha": "d458bde1dc4f88293ec9814f041882670330c9c1",
+      "display_original_site_sha256": "0968d4e3c71313ff382233bf1116de1c2116fba0a80e471b76811d1490315b00",
+      "display_original_blob_sha": "01d843e53d1afdd43d2ee3415e91ffa6b9c249ef",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 754026
     },
     {
       "src": "media/artemisia-ludoviciana/inat-513200862.jpg",
@@ -97,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca266156554352d317655667d9e981668e9693ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +127,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 285512976, photo 513200862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f48513e8e74c10ae3e940cb5aba1c3ccaa1a13cdf0d81e2a285682a94f719f6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia ludoviciana maps to indexed species artemisia-ludoviciana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f48513e8e74c10ae3e940cb5aba1c3ccaa1a13cdf0d81e2a285682a94f719f6a"
+      "sha256": "f48513e8e74c10ae3e940cb5aba1c3ccaa1a13cdf0d81e2a285682a94f719f6a",
+      "display_sha256": "be4a2fc554deacefc4e142bcf555c5a3fa5ec0ece87d60cf7eb2c064f5d1b5c3",
+      "display_blob_sha": "b568c3e360117affc87ce865c31a25401e0724ed",
+      "display_original_site_sha256": "f48513e8e74c10ae3e940cb5aba1c3ccaa1a13cdf0d81e2a285682a94f719f6a",
+      "display_original_blob_sha": "ca266156554352d317655667d9e981668e9693ff",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 746679
     },
     {
       "src": "media/artemisia-ludoviciana/inat-648072978.jpg",
@@ -116,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8eb04e8deef93414b4a5e17eaabe764595cead2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +157,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355335987, photo 648072978, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e5433c0412b1be2efc010dee096eb8bbcd074bf263042bcb00b12537d0555e4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia ludoviciana maps to indexed species artemisia-ludoviciana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6e5433c0412b1be2efc010dee096eb8bbcd074bf263042bcb00b12537d0555e4"
+      "sha256": "6e5433c0412b1be2efc010dee096eb8bbcd074bf263042bcb00b12537d0555e4",
+      "display_sha256": "4022714977eb2508296ec0c13648f3cd4fd09c3e5a543ea11ecab6d7bb6cf700",
+      "display_blob_sha": "bf886bd83862294ed0f15c42abd2e1df97b99a80",
+      "display_original_site_sha256": "6e5433c0412b1be2efc010dee096eb8bbcd074bf263042bcb00b12537d0555e4",
+      "display_original_blob_sha": "c8eb04e8deef93414b4a5e17eaabe764595cead2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 473230
     },
     {
       "src": "media/artemisia-ludoviciana/inat-667442407.jpg",
@@ -135,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8889eb92f7f5f1ad90d02ba46226d14d2191168e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +187,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365563197, photo 667442407, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a197fdf973614e6d96a8280af12c2f25022cd7302a3d0598b3b23fbf6245375. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Artemisia ludoviciana maps to indexed species artemisia-ludoviciana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5a197fdf973614e6d96a8280af12c2f25022cd7302a3d0598b3b23fbf6245375"
+      "sha256": "5a197fdf973614e6d96a8280af12c2f25022cd7302a3d0598b3b23fbf6245375",
+      "display_sha256": "124ebf61b7e4072b3b172c4ed97ffabb7282e0724475d0b59092a23012438962",
+      "display_blob_sha": "ca9502399bba2ca37b405e3e57219381b7402d8f",
+      "display_original_site_sha256": "5a197fdf973614e6d96a8280af12c2f25022cd7302a3d0598b3b23fbf6245375",
+      "display_original_blob_sha": "8889eb92f7f5f1ad90d02ba46226d14d2191168e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 565501
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "77bd1671729af90a02e0059dbe0f5b8448ee767a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -57,7 +57,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 131769305, photo 224290500, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b77df27f8dceab3bd0b2cf2b3449d3fc77238c92cf7f4db9d96f837fe60f9692. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pluchea camphorata maps to indexed species pluchea-camphorata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "b77df27f8dceab3bd0b2cf2b3449d3fc77238c92cf7f4db9d96f837fe60f9692"
+      "sha256": "b77df27f8dceab3bd0b2cf2b3449d3fc77238c92cf7f4db9d96f837fe60f9692",
+      "display_sha256": "9388cfdae61dccaa9e5d0b6fe326bc84c69dd0a28236af68a94cfaf63895d01d",
+      "display_blob_sha": "5aeb57c10527baff75d53f62a06f2e141bf1ddf8",
+      "display_original_site_sha256": "b77df27f8dceab3bd0b2cf2b3449d3fc77238c92cf7f4db9d96f837fe60f9692",
+      "display_original_blob_sha": "77bd1671729af90a02e0059dbe0f5b8448ee767a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 684693
     },
     {
       "src": "media/pluchea-camphorata/inat-242564271.jpg",
@@ -87,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70d2e80238f962626c0b2dc82c2cb78cd6ad4f71",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +106,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 186990048, photo 326905812, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f8ff8029890de89eaa6c643ceb0e63847c227403984ae0309afb2730b05f0cda. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pluchea camphorata maps to indexed species pluchea-camphorata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "f8ff8029890de89eaa6c643ceb0e63847c227403984ae0309afb2730b05f0cda"
+      "sha256": "f8ff8029890de89eaa6c643ceb0e63847c227403984ae0309afb2730b05f0cda",
+      "display_sha256": "fa87a53b6fa7c84e5a144c20e4307d5ada2b16bc11a079d865b98b4da8bcba90",
+      "display_blob_sha": "e729b988eb69dd28dfeee12076c10a2bc43aa530",
+      "display_original_site_sha256": "f8ff8029890de89eaa6c643ceb0e63847c227403984ae0309afb2730b05f0cda",
+      "display_original_blob_sha": "70d2e80238f962626c0b2dc82c2cb78cd6ad4f71",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2048
+      ],
+      "display_bytes": 754774
     },
     {
       "src": "media/pluchea-camphorata/inat-442130248.jpeg",
@@ -106,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b818c82f519a62b687e69938daf86cab267c5c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +136,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 247540628, photo 442130248, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: afff4d133157ef967359638f18a2911d50d769165b2103df92718f5bcd696034. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pluchea camphorata maps to indexed species pluchea-camphorata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "afff4d133157ef967359638f18a2911d50d769165b2103df92718f5bcd696034"
+      "sha256": "afff4d133157ef967359638f18a2911d50d769165b2103df92718f5bcd696034",
+      "display_sha256": "ef6c93f918da97bc59a23066bdc7d4a6063bf66e607bafc31691274468b3acc7",
+      "display_blob_sha": "47335eb1e9f4d86f888a5b301588271d1f96a87f",
+      "display_original_site_sha256": "afff4d133157ef967359638f18a2911d50d769165b2103df92718f5bcd696034",
+      "display_original_blob_sha": "6b818c82f519a62b687e69938daf86cab267c5c2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 627129
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd383c9e1ff05573af1923a481e3bba5a78dc198",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -69,7 +69,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343253720, photo 625230518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 988e9618cfd085bec1c5693544b608e35cc95b5e45a5223cca8d26909a333357. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa effusa agrees with indexed species chaetopappa-effusa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "988e9618cfd085bec1c5693544b608e35cc95b5e45a5223cca8d26909a333357"
+      "sha256": "988e9618cfd085bec1c5693544b608e35cc95b5e45a5223cca8d26909a333357",
+      "display_sha256": "c7788ccc4f568f8daa1f8c7a6b205d69a2b156e37461a91337131a322c1b4845",
+      "display_blob_sha": "4f975e6347c301a409233a6bd76a4df28897846c",
+      "display_original_site_sha256": "988e9618cfd085bec1c5693544b608e35cc95b5e45a5223cca8d26909a333357",
+      "display_original_blob_sha": "bd383c9e1ff05573af1923a481e3bba5a78dc198",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 622724
     },
     {
       "src": "media/chaetopappa-effusa/inat-635878761.jpg",
@@ -80,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99364065826c653d97fd410f8614fb8425d18fb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +99,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348642175, photo 635878761, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b6f019f1a182b541f3850148a41769a5222063e7edfe0432bb7eaa74121e5890. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa effusa agrees with indexed species chaetopappa-effusa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b6f019f1a182b541f3850148a41769a5222063e7edfe0432bb7eaa74121e5890"
+      "sha256": "b6f019f1a182b541f3850148a41769a5222063e7edfe0432bb7eaa74121e5890",
+      "display_sha256": "5be80f93a2084be7cd085f15d8cddf63cf0b6bb74870fb15366d83f0b9865f63",
+      "display_blob_sha": "5a0901f9d8037c13c592d5f045824c964e952406",
+      "display_original_site_sha256": "b6f019f1a182b541f3850148a41769a5222063e7edfe0432bb7eaa74121e5890",
+      "display_original_blob_sha": "99364065826c653d97fd410f8614fb8425d18fb5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 748447
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

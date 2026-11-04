@@ -119,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d53d121ad6aebfc0fd77e3a5111f011ca0ada27",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +127,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341095791, photo 620865865, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077"
+      "sha256": "551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077",
+      "display_sha256": "8ffe8f9c4d01909d6dac4a2d3b4ced19aac0829ef6920c803f6074a107474e3d",
+      "display_blob_sha": "96ab36646e6bd68079c8dc7ca1f7334d44ee9600",
+      "display_original_site_sha256": "551f51327b15968b005a6c98e6a497c134ce770d492722059a1cd4bb84d63077",
+      "display_original_blob_sha": "0d53d121ad6aebfc0fd77e3a5111f011ca0ada27",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 744564
     },
     {
       "src": "media/calyptocarpus-vialis/inat-621010704.jpg",
@@ -138,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d2604e6afd03513a432a50c873b66c2e553209c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +157,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341166904, photo 621010704, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53d098bcbed7c78baf2b7a27a0ccb5aba92b6cca74b2a0469172832bb08b1308. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "53d098bcbed7c78baf2b7a27a0ccb5aba92b6cca74b2a0469172832bb08b1308"
+      "sha256": "53d098bcbed7c78baf2b7a27a0ccb5aba92b6cca74b2a0469172832bb08b1308",
+      "display_sha256": "68d7a2aae55422dd5063a70c47560aed1d94664d5499e6093058dd4879f53067",
+      "display_blob_sha": "6e008b53f70858ea9ddf4281f9c99de88d3d406f",
+      "display_original_site_sha256": "53d098bcbed7c78baf2b7a27a0ccb5aba92b6cca74b2a0469172832bb08b1308",
+      "display_original_blob_sha": "d2604e6afd03513a432a50c873b66c2e553209c0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 759481
     },
     {
       "src": "media/calyptocarpus-vialis/inat-623734103.jpg",
@@ -157,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "afa961d48ca1975d292d9f18a4c47128a9e330e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -165,7 +187,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342504412, photo 623734103, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d34894aa6b6dc293fd0108994ed4bb8895890030265628d6c5d4a28d5805e21. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0d34894aa6b6dc293fd0108994ed4bb8895890030265628d6c5d4a28d5805e21"
+      "sha256": "0d34894aa6b6dc293fd0108994ed4bb8895890030265628d6c5d4a28d5805e21",
+      "display_sha256": "b3cea86f4f1db815e1ec19e9bde56ac737231c5bd94f5bc4e13dfce432efa8f9",
+      "display_blob_sha": "5c6e020b2fa5dc1d56b122a5b09074fd2d6c2244",
+      "display_original_site_sha256": "0d34894aa6b6dc293fd0108994ed4bb8895890030265628d6c5d4a28d5805e21",
+      "display_original_blob_sha": "afa961d48ca1975d292d9f18a4c47128a9e330e4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 771168
     },
     {
       "src": "media/calyptocarpus-vialis/inat-624106616.jpg",
@@ -176,7 +209,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e18733e6eac0725218d6d856db84f5109a9009d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -184,7 +217,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342690039, photo 624106616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8b8b166bbcdac3c9ecb7ccbabaf7523f6e8d9ac966f2e6fd54bdf426f59d8453. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8b8b166bbcdac3c9ecb7ccbabaf7523f6e8d9ac966f2e6fd54bdf426f59d8453"
+      "sha256": "8b8b166bbcdac3c9ecb7ccbabaf7523f6e8d9ac966f2e6fd54bdf426f59d8453",
+      "display_sha256": "304793b152f326d349813cda1ce46f0678b102734dca11829ea4599e4e7c42b8",
+      "display_blob_sha": "ac96908cf9db20d4be1acac7e31f20f941765c53",
+      "display_original_site_sha256": "8b8b166bbcdac3c9ecb7ccbabaf7523f6e8d9ac966f2e6fd54bdf426f59d8453",
+      "display_original_blob_sha": "4e18733e6eac0725218d6d856db84f5109a9009d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 776240
     },
     {
       "src": "media/calyptocarpus-vialis/inat-625165981.jpg",
@@ -195,7 +239,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e17cf5d25fc48ebc98c18ed662e398a61d6acaf5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -203,7 +247,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343222917, photo 625165981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 067c4db9f05ab3f54c6e3b7f7a717deff072e8b96eedb3ef0dd2bb9066f018be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Calyptocarpus vialis maps to indexed species calyptocarpus-vialis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "067c4db9f05ab3f54c6e3b7f7a717deff072e8b96eedb3ef0dd2bb9066f018be"
+      "sha256": "067c4db9f05ab3f54c6e3b7f7a717deff072e8b96eedb3ef0dd2bb9066f018be",
+      "display_sha256": "e099b2dabd42b1d50b2f0eb974957e68fe1a87b11c94cf771f3f9ed73ede4d99",
+      "display_blob_sha": "1288b9aa9f3d95e03db7be002f9f386dcd85bab0",
+      "display_original_site_sha256": "067c4db9f05ab3f54c6e3b7f7a717deff072e8b96eedb3ef0dd2bb9066f018be",
+      "display_original_blob_sha": "e17cf5d25fc48ebc98c18ed662e398a61d6acaf5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 513509
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

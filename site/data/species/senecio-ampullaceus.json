@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "49237dab33700d4cb9a8e08f3c041ce71aaa9a03",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +61,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 266000251, photo 477882969, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e616d0703e99d2c6a84b4178828fca7e93f348d8cd19f64008a5489659bd43ee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Senecio ampullaceus maps to indexed species senecio-ampullaceus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e616d0703e99d2c6a84b4178828fca7e93f348d8cd19f64008a5489659bd43ee"
+      "sha256": "e616d0703e99d2c6a84b4178828fca7e93f348d8cd19f64008a5489659bd43ee",
+      "display_sha256": "3718447b4ca0bbc01da07073d935f74cd03534cc7cbb9437576f6eba07e632c3",
+      "display_blob_sha": "30714817edb234c5f2686d319d914e90c560ee3b",
+      "display_original_site_sha256": "e616d0703e99d2c6a84b4178828fca7e93f348d8cd19f64008a5489659bd43ee",
+      "display_original_blob_sha": "49237dab33700d4cb9a8e08f3c041ce71aaa9a03",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 356601
     },
     {
       "src": "media/senecio-ampullaceus/inat-480145620.jpg",
@@ -72,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "44a5ab82e19574f5c881f65bae739733452ccffd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +91,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 267194357, photo 480145620, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 50cb05f6551ccc0221a13b9761405c2d643bba227d0a7383b6a31e4ef2fc3dd7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Senecio ampullaceus maps to indexed species senecio-ampullaceus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "50cb05f6551ccc0221a13b9761405c2d643bba227d0a7383b6a31e4ef2fc3dd7"
+      "sha256": "50cb05f6551ccc0221a13b9761405c2d643bba227d0a7383b6a31e4ef2fc3dd7",
+      "display_sha256": "f2ad0228b8ddcaaebd322d6bc27a728db0adc9572859548c8998e85520b5b47d",
+      "display_blob_sha": "5b5c6731d5ab0261721921ecea430fe21471f2f2",
+      "display_original_site_sha256": "50cb05f6551ccc0221a13b9761405c2d643bba227d0a7383b6a31e4ef2fc3dd7",
+      "display_original_blob_sha": "44a5ab82e19574f5c881f65bae739733452ccffd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 604520
     },
     {
       "src": "media/senecio-ampullaceus/inat-484962659.jpeg",
@@ -110,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eacf14f157d46189e56a0e5077cfd70fbd1608f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +140,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 281654915, photo 505970556, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 588874f0191f088765902b2504e2c410b2d41482f0e09b20d880d8a653ba5e8c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Senecio ampullaceus maps to indexed species senecio-ampullaceus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "588874f0191f088765902b2504e2c410b2d41482f0e09b20d880d8a653ba5e8c"
+      "sha256": "588874f0191f088765902b2504e2c410b2d41482f0e09b20d880d8a653ba5e8c",
+      "display_sha256": "8eacf892f4d3cf5818ef80268eb94bdb43759940d744f0127bfd426e3557a71f",
+      "display_blob_sha": "310b0dcde471765fb5a6bb9cf3f98acc6ccbc21a",
+      "display_original_site_sha256": "588874f0191f088765902b2504e2c410b2d41482f0e09b20d880d8a653ba5e8c",
+      "display_original_blob_sha": "eacf14f157d46189e56a0e5077cfd70fbd1608f8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 545962
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -90,7 +90,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a1b15b98c4b3f679494c62bbddb18895e027c4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +98,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 294613538, photo 530299690, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3db0f584a28acdc90ca2e10d9fa472ea62ae31b7f551b72ec8a289e700758f25. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gutierrezia texana agrees with indexed species gutierrezia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3db0f584a28acdc90ca2e10d9fa472ea62ae31b7f551b72ec8a289e700758f25"
+      "sha256": "3db0f584a28acdc90ca2e10d9fa472ea62ae31b7f551b72ec8a289e700758f25",
+      "display_sha256": "acf763d83f0f0797aef54e0ef046c58d170ada3f58cff4d08bb4d8e3e2d18e12",
+      "display_blob_sha": "6001d46035e781f1e8993bbba727ba4c2015f1c8",
+      "display_original_site_sha256": "3db0f584a28acdc90ca2e10d9fa472ea62ae31b7f551b72ec8a289e700758f25",
+      "display_original_blob_sha": "7a1b15b98c4b3f679494c62bbddb18895e027c4b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 488725
     },
     {
       "src": "media/gutierrezia-texana/inat-551598219.jpg",
@@ -109,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "35e140d34fc159df499117abe94e8d21c51e3de2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +128,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 305902507, photo 551598219, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26f2e50ffcda7588cc0a31b0b2aa4d551133a3e1ef1f4b534494f8cc5ab4437a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gutierrezia texana agrees with indexed species gutierrezia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "26f2e50ffcda7588cc0a31b0b2aa4d551133a3e1ef1f4b534494f8cc5ab4437a"
+      "sha256": "26f2e50ffcda7588cc0a31b0b2aa4d551133a3e1ef1f4b534494f8cc5ab4437a",
+      "display_sha256": "2bf11d23455f9c2b5bc6a7edbf768d5fd0ae58def39307d697f63f02cbbd8008",
+      "display_blob_sha": "c43941ff4bcb3369e05fa1b95574e2b87110c603",
+      "display_original_site_sha256": "26f2e50ffcda7588cc0a31b0b2aa4d551133a3e1ef1f4b534494f8cc5ab4437a",
+      "display_original_blob_sha": "35e140d34fc159df499117abe94e8d21c51e3de2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 584361
     },
     {
       "src": "media/gutierrezia-texana/inat-705482685.jpg",
@@ -128,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c6c59c4f3dd166a8019494c828be5eea0c9a5d11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +158,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 385362698, photo 705482685, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19d5a0c4e516fccdfe3584d50154c104a4eed42cdf179ad7d9e9d9a35009c7b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gutierrezia texana agrees with indexed species gutierrezia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "19d5a0c4e516fccdfe3584d50154c104a4eed42cdf179ad7d9e9d9a35009c7b9"
+      "sha256": "19d5a0c4e516fccdfe3584d50154c104a4eed42cdf179ad7d9e9d9a35009c7b9",
+      "display_sha256": "15c90b0a44bb48f9f18a3b0161f782222c3fac1ed2070d13cac4de5e87adc3b1",
+      "display_blob_sha": "377c3dbe31f94c2cb50a40ce69ec2cd1398e945b",
+      "display_original_site_sha256": "19d5a0c4e516fccdfe3584d50154c104a4eed42cdf179ad7d9e9d9a35009c7b9",
+      "display_original_blob_sha": "c6c59c4f3dd166a8019494c828be5eea0c9a5d11",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 594799
     },
     {
       "src": "media/gutierrezia-texana/inat-719650882.jpg",
@@ -166,7 +199,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3089d2b88cabaeec234197e5185d0407b55d343",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -174,7 +207,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 395555315, photo 725304563, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52da3c71428d7a0f86ad338c2d7d932393ca9363baa560181d680574a94904c7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Gutierrezia texana agrees with indexed species gutierrezia-texana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "52da3c71428d7a0f86ad338c2d7d932393ca9363baa560181d680574a94904c7"
+      "sha256": "52da3c71428d7a0f86ad338c2d7d932393ca9363baa560181d680574a94904c7",
+      "display_sha256": "629a7e16da58be7ae7921abf7639503c2ddf0e7d8946ec9bc85900b30d1f992e",
+      "display_blob_sha": "8be2448dcd940358780785c24b5fed05840185ca",
+      "display_original_site_sha256": "52da3c71428d7a0f86ad338c2d7d932393ca9363baa560181d680574a94904c7",
+      "display_original_blob_sha": "f3089d2b88cabaeec234197e5185d0407b55d343",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 647335
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

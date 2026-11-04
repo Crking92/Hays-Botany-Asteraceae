@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "24b1c5aeb943cbeb9ba8b15031e43894f65009ae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350094070, photo 638723535, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe1f12eb7e3353c4f98bc4ff403330209417570f13441d285c7237b5951b8e40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Plectocephalus americanus maps to indexed species plectocephalus-americanus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "fe1f12eb7e3353c4f98bc4ff403330209417570f13441d285c7237b5951b8e40"
+      "sha256": "fe1f12eb7e3353c4f98bc4ff403330209417570f13441d285c7237b5951b8e40",
+      "display_sha256": "3250efc9384c213052f400a11123511a72f17b134eca0bb60917d9d776cbec44",
+      "display_blob_sha": "7e04fa65ff98de25f48dc5f38746367902f41970",
+      "display_original_site_sha256": "fe1f12eb7e3353c4f98bc4ff403330209417570f13441d285c7237b5951b8e40",
+      "display_original_blob_sha": "24b1c5aeb943cbeb9ba8b15031e43894f65009ae",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 560450
     },
     {
       "src": "media/plectocephalus-americanus/inat-645194633.jpg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abff6512e5489af722baad6c69908b3b9faddaf4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353629560, photo 645194633, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 263ec202f3f3016dcf0c63c5cd805b93ebca1c924825efc34f27078399c1d9fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Plectocephalus americanus maps to indexed species plectocephalus-americanus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "263ec202f3f3016dcf0c63c5cd805b93ebca1c924825efc34f27078399c1d9fa"
+      "sha256": "263ec202f3f3016dcf0c63c5cd805b93ebca1c924825efc34f27078399c1d9fa",
+      "display_sha256": "f24e9e6eea68c1d195a9a9fc20a9cca867a0dee787d7c2ce3e1b1e206a56a2cb",
+      "display_blob_sha": "066337c16f34f116f8da2bb0f14d6363317815d2",
+      "display_original_site_sha256": "263ec202f3f3016dcf0c63c5cd805b93ebca1c924825efc34f27078399c1d9fa",
+      "display_original_blob_sha": "abff6512e5489af722baad6c69908b3b9faddaf4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 755904
     },
     {
       "src": "media/plectocephalus-americanus/inat-645708180.jpg",
@@ -111,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d61d64a792f8858c73491209dbc68b63a92c7221",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353924761, photo 645708180, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48ce8fb34446f7812822b3b3aa3b9ff6f8f29004a926d6ec0c7521a47787ec48. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Plectocephalus americanus maps to indexed species plectocephalus-americanus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "48ce8fb34446f7812822b3b3aa3b9ff6f8f29004a926d6ec0c7521a47787ec48"
+      "sha256": "48ce8fb34446f7812822b3b3aa3b9ff6f8f29004a926d6ec0c7521a47787ec48",
+      "display_sha256": "ea2c1d1f9025f301a96af538bb98fc8ff10110f54660a25af3174c478d148316",
+      "display_blob_sha": "5611c3ebc1da0de0ae8cf1b3172f1ee056546e2f",
+      "display_original_site_sha256": "48ce8fb34446f7812822b3b3aa3b9ff6f8f29004a926d6ec0c7521a47787ec48",
+      "display_original_blob_sha": "d61d64a792f8858c73491209dbc68b63a92c7221",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 395249
     },
     {
       "src": "media/plectocephalus-americanus/inat-649065937.jpg",
@@ -130,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "466aeebae631c41d2f458654f66b972dcc3e183f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355921370, photo 649065937, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6298f180453343b9667a72845fc09cb349055e5a66743adbcca79ef61c6a543. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Plectocephalus americanus maps to indexed species plectocephalus-americanus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "c6298f180453343b9667a72845fc09cb349055e5a66743adbcca79ef61c6a543"
+      "sha256": "c6298f180453343b9667a72845fc09cb349055e5a66743adbcca79ef61c6a543",
+      "display_sha256": "7cebb490f8052b62e2fae54299044544ebaa20c289f84e4dc4c8525f17eb7cba",
+      "display_blob_sha": "dea4c954a577fae1f9cb1d00666052a121030f03",
+      "display_original_site_sha256": "c6298f180453343b9667a72845fc09cb349055e5a66743adbcca79ef61c6a543",
+      "display_original_blob_sha": "466aeebae631c41d2f458654f66b972dcc3e183f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 655440
     },
     {
       "src": "media/plectocephalus-americanus/inat-649701666.jpg",
@@ -149,7 +193,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c37bf5beabc440495a1333b0faf320ae7a879128",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +201,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356271655, photo 649701666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eef02fc381b6ee1cffd6ac833d762f43851b378b0fffc2b52e258366b9f95868. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Plectocephalus americanus maps to indexed species plectocephalus-americanus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "eef02fc381b6ee1cffd6ac833d762f43851b378b0fffc2b52e258366b9f95868"
+      "sha256": "eef02fc381b6ee1cffd6ac833d762f43851b378b0fffc2b52e258366b9f95868",
+      "display_sha256": "84529407ee02683f5ab5791e929269115d26b99607cab44e5f87d10266d447e4",
+      "display_blob_sha": "ff4a75d23308fe86c4391d42f32df692ee3046a1",
+      "display_original_site_sha256": "eef02fc381b6ee1cffd6ac833d762f43851b378b0fffc2b52e258366b9f95868",
+      "display_original_blob_sha": "c37bf5beabc440495a1333b0faf320ae7a879128",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 743199
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "000b8d8612a6c160af96eaed322461350bebdcfb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 223840362, photo 396650300, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0229fa2a5bfb775f8930ecedebbf113af90ddf06c859a54922409b2910d5f8b3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia lanceolata agrees with indexed species grindelia-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0229fa2a5bfb775f8930ecedebbf113af90ddf06c859a54922409b2910d5f8b3"
+      "sha256": "0229fa2a5bfb775f8930ecedebbf113af90ddf06c859a54922409b2910d5f8b3",
+      "display_sha256": "b602cecb4d5ba054fe57afe36b2fae371427654901b9e8e05a40fce9cad08809",
+      "display_blob_sha": "7c36c21cb62271c19434f3d50c55ca758df6834d",
+      "display_original_site_sha256": "0229fa2a5bfb775f8930ecedebbf113af90ddf06c859a54922409b2910d5f8b3",
+      "display_original_blob_sha": "000b8d8612a6c160af96eaed322461350bebdcfb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 449604
     },
     {
       "src": "media/grindelia-lanceolata/inat-494523452.jpg",
@@ -87,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "769e944cd45027273659a8d656f3850a08e44de1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +106,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275173642, photo 494523452, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0a8e0504ebf7ecc669f380d67486fc0da755647a60dc089bbf4a9bac0b0b375. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia lanceolata agrees with indexed species grindelia-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d0a8e0504ebf7ecc669f380d67486fc0da755647a60dc089bbf4a9bac0b0b375"
+      "sha256": "d0a8e0504ebf7ecc669f380d67486fc0da755647a60dc089bbf4a9bac0b0b375",
+      "display_sha256": "c0f145c2c726f7041055ce9d4143d171ed1689d3044b2d4f09ae1397dae494d8",
+      "display_blob_sha": "6d859518e747a5802de9d2955a1d257d20749508",
+      "display_original_site_sha256": "d0a8e0504ebf7ecc669f380d67486fc0da755647a60dc089bbf4a9bac0b0b375",
+      "display_original_blob_sha": "769e944cd45027273659a8d656f3850a08e44de1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 775067
     },
     {
       "src": "media/grindelia-lanceolata/inat-494560886.jpg",
@@ -106,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2781d60159779e01761d6a5208f2a8e6a32917a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +136,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275197122, photo 494560886, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a4bd62aeaafe37ac5485b78cad5c9e9edd46a51efadca2817f2ef0e698693172. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia lanceolata agrees with indexed species grindelia-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a4bd62aeaafe37ac5485b78cad5c9e9edd46a51efadca2817f2ef0e698693172"
+      "sha256": "a4bd62aeaafe37ac5485b78cad5c9e9edd46a51efadca2817f2ef0e698693172",
+      "display_sha256": "6da4465f8cec8cf322fcdf95dad48f4d1db51dace74e35f2ec52c87c1a572c57",
+      "display_blob_sha": "d5014ce47b799dda97a07326d6e50ec495b5d712",
+      "display_original_site_sha256": "a4bd62aeaafe37ac5485b78cad5c9e9edd46a51efadca2817f2ef0e698693172",
+      "display_original_blob_sha": "2781d60159779e01761d6a5208f2a8e6a32917a0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 765849
     },
     {
       "src": "media/grindelia-lanceolata/inat-539657001.jpg",
@@ -125,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a16545573a71be6237b1f15f37504e00d5dd92de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +166,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 299320600, photo 539657001, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0fc89aad08c80921e6607e1299c68ec1f4ae59124ec6cc19a0251967b855a535. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia lanceolata agrees with indexed species grindelia-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0fc89aad08c80921e6607e1299c68ec1f4ae59124ec6cc19a0251967b855a535"
+      "sha256": "0fc89aad08c80921e6607e1299c68ec1f4ae59124ec6cc19a0251967b855a535",
+      "display_sha256": "43f5fabee589714883dd935d32829c5e939f54c1b1a00e4dbf09029ddea9e5a8",
+      "display_blob_sha": "da042b54aeba9386671324b717d559ba1052b673",
+      "display_original_site_sha256": "0fc89aad08c80921e6607e1299c68ec1f4ae59124ec6cc19a0251967b855a535",
+      "display_original_blob_sha": "a16545573a71be6237b1f15f37504e00d5dd92de",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 546409
     },
     {
       "src": "media/grindelia-lanceolata/inat-714249405.jpg",
@@ -144,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85ef7aa7cdbc996b6e34ee47712e27480fb7c6c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +196,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 389899791, photo 714249405, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 186b3000d16319b8eba93e66b6239cc825a21ed17a93f949ae49cbbbaac195b3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Grindelia lanceolata agrees with indexed species grindelia-lanceolata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "186b3000d16319b8eba93e66b6239cc825a21ed17a93f949ae49cbbbaac195b3"
+      "sha256": "186b3000d16319b8eba93e66b6239cc825a21ed17a93f949ae49cbbbaac195b3",
+      "display_sha256": "6a23186878f04d7bbabc9a43bbe04ecd8df3f7df07396c131c66019e7714dc32",
+      "display_blob_sha": "d60241d43b6dc8f1300dd4cd1229205ab8970384",
+      "display_original_site_sha256": "186b3000d16319b8eba93e66b6239cc825a21ed17a93f949ae49cbbbaac195b3",
+      "display_original_blob_sha": "85ef7aa7cdbc996b6e34ee47712e27480fb7c6c5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 751387
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

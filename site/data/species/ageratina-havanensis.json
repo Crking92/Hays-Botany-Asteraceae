@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d92b4e0bba6dcf669fd0298fdf5d7cdbf3235382",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343016577, photo 624746683, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80b590d7915b3810bf835ddf5471689fcc39d5ab1a0b361fbb3a40a6e183821a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina havanensis maps to indexed species ageratina-havanensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "80b590d7915b3810bf835ddf5471689fcc39d5ab1a0b361fbb3a40a6e183821a"
+      "sha256": "80b590d7915b3810bf835ddf5471689fcc39d5ab1a0b361fbb3a40a6e183821a",
+      "display_sha256": "f2b1dbf62dc2bdf9419c9f0e46a2174f53b7657948f434b8a228804b11e7583d",
+      "display_blob_sha": "0c77d10a7cfe991cfeb03af03c578c1ce295897f",
+      "display_original_site_sha256": "80b590d7915b3810bf835ddf5471689fcc39d5ab1a0b361fbb3a40a6e183821a",
+      "display_original_blob_sha": "d92b4e0bba6dcf669fd0298fdf5d7cdbf3235382",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 676056
     },
     {
       "src": "media/ageratina-havanensis/inat-629090452.jpg",
@@ -118,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0d30340f2b244c25b489979e69fa3a98b8c35d34",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345774721, photo 630194211, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2d14ccda28269a181bf95af6bb39146bd0696dfb4968a1a49654f8a36ebc10ab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina havanensis maps to indexed species ageratina-havanensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2d14ccda28269a181bf95af6bb39146bd0696dfb4968a1a49654f8a36ebc10ab"
+      "sha256": "2d14ccda28269a181bf95af6bb39146bd0696dfb4968a1a49654f8a36ebc10ab",
+      "display_sha256": "d72913096a5fa30601289d18db327b0ca46d2363bed25bd69b9a173a7b16dcf5",
+      "display_blob_sha": "9195625f09623867525bf4dcfe107d55e179e6f0",
+      "display_original_site_sha256": "2d14ccda28269a181bf95af6bb39146bd0696dfb4968a1a49654f8a36ebc10ab",
+      "display_original_blob_sha": "0d30340f2b244c25b489979e69fa3a98b8c35d34",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 744167
     },
     {
       "src": "media/ageratina-havanensis/inat-630250749.jpg",
@@ -137,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0ba0f62fa10d5368a11d3c7fb427e88dddb75c35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +167,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345803507, photo 630250749, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ce9ffcc877dd4bfb0d99d91233a66fdda16c5d12e5d9df1d75750222c27d02f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina havanensis maps to indexed species ageratina-havanensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2ce9ffcc877dd4bfb0d99d91233a66fdda16c5d12e5d9df1d75750222c27d02f"
+      "sha256": "2ce9ffcc877dd4bfb0d99d91233a66fdda16c5d12e5d9df1d75750222c27d02f",
+      "display_sha256": "3b324c93bae9197eed76231c5c76688e295b500ca95aeb54a14f33c00c7cda22",
+      "display_blob_sha": "07c634db857f79410a74476ffdaa6299799370ca",
+      "display_original_site_sha256": "2ce9ffcc877dd4bfb0d99d91233a66fdda16c5d12e5d9df1d75750222c27d02f",
+      "display_original_blob_sha": "0ba0f62fa10d5368a11d3c7fb427e88dddb75c35",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 738129
     },
     {
       "src": "media/ageratina-havanensis/inat-630290026.jpg",
@@ -156,7 +189,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f62aa8af4176d4ecb614e797be60f2f9d20a8cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +197,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345822591, photo 630290026, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0962d33256b72d0ce4ac39aaf3aad49fe2eaf619d0ed64ffee42cb9569507a8d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ageratina havanensis maps to indexed species ageratina-havanensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0962d33256b72d0ce4ac39aaf3aad49fe2eaf619d0ed64ffee42cb9569507a8d"
+      "sha256": "0962d33256b72d0ce4ac39aaf3aad49fe2eaf619d0ed64ffee42cb9569507a8d",
+      "display_sha256": "a961bec9c70690f57471ef0d196f96a16576dd259e7812beeb661c152e361fba",
+      "display_blob_sha": "c6dbbc9516dade229fb701100fbd5dd5dbb7a898",
+      "display_original_site_sha256": "0962d33256b72d0ce4ac39aaf3aad49fe2eaf619d0ed64ffee42cb9569507a8d",
+      "display_original_blob_sha": "5f62aa8af4176d4ecb614e797be60f2f9d20a8cf",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 706101
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

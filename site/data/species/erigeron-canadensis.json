@@ -123,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15102359cc9e583e53009b675e7f181ab46d885c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +131,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347000754, photo 632620138, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d01fb352df089e76997d44369232dd8a385da27e4f95e47466ef00d9ddc94a0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron canadensis agrees with indexed species erigeron-canadensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0d01fb352df089e76997d44369232dd8a385da27e4f95e47466ef00d9ddc94a0"
+      "sha256": "0d01fb352df089e76997d44369232dd8a385da27e4f95e47466ef00d9ddc94a0",
+      "display_sha256": "dde8f8edd2ad7852e414bdf1b69d374287269fc14640a002866c3a204a3e0e7f",
+      "display_blob_sha": "40ebe927f92a4e30458b2a1912ec37d8fc666e04",
+      "display_original_site_sha256": "0d01fb352df089e76997d44369232dd8a385da27e4f95e47466ef00d9ddc94a0",
+      "display_original_blob_sha": "15102359cc9e583e53009b675e7f181ab46d885c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 693950
     },
     {
       "src": "media/erigeron-canadensis/inat-639105468.jpg",
@@ -142,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "450eddbf6cf5ed7307146b48b1a0232362970407",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +161,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350287534, photo 639105468, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e6d6a99860eb56dc118e8e259d8a2c1d6d1603ffc6e2697083b8f7445f5b168. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron canadensis agrees with indexed species erigeron-canadensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5e6d6a99860eb56dc118e8e259d8a2c1d6d1603ffc6e2697083b8f7445f5b168"
+      "sha256": "5e6d6a99860eb56dc118e8e259d8a2c1d6d1603ffc6e2697083b8f7445f5b168",
+      "display_sha256": "3105bf5ec2561cb442c13fd25d96d759c84a4abf89c1c410371fdd30ca4fc6fd",
+      "display_blob_sha": "e058a2798efc71fde9ad37fbca5a4e42a4b4e281",
+      "display_original_site_sha256": "5e6d6a99860eb56dc118e8e259d8a2c1d6d1603ffc6e2697083b8f7445f5b168",
+      "display_original_blob_sha": "450eddbf6cf5ed7307146b48b1a0232362970407",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 572924
     },
     {
       "src": "media/erigeron-canadensis/inat-643764702.jpg",
@@ -161,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "45176ec807aebeaef4987a164579ed90f001ebcd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +191,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352764820, photo 643764702, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8088246a0f15f3bdc5ec08972294ba2fcdc83271c5308eb9facb53a523ed925a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron canadensis agrees with indexed species erigeron-canadensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8088246a0f15f3bdc5ec08972294ba2fcdc83271c5308eb9facb53a523ed925a"
+      "sha256": "8088246a0f15f3bdc5ec08972294ba2fcdc83271c5308eb9facb53a523ed925a",
+      "display_sha256": "e6db072ad8eb3465b58e8b7d4760c64520bae5c9f34fc899dd408980307e4370",
+      "display_blob_sha": "4fa0b0b6e018933675b8ddddcfe7bb626d5beccf",
+      "display_original_site_sha256": "8088246a0f15f3bdc5ec08972294ba2fcdc83271c5308eb9facb53a523ed925a",
+      "display_original_blob_sha": "45176ec807aebeaef4987a164579ed90f001ebcd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 716742
     },
     {
       "src": "media/erigeron-canadensis/inat-645647650.jpg",
@@ -180,7 +213,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c3d57fcc4d1532b83c0b77c84fd2f882d81bbf12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +221,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353891738, photo 645647650, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5587d9ff501d75091323342ffe8b5ad798c79a0f426e034785da3be7bbb3a696. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron canadensis agrees with indexed species erigeron-canadensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5587d9ff501d75091323342ffe8b5ad798c79a0f426e034785da3be7bbb3a696"
+      "sha256": "5587d9ff501d75091323342ffe8b5ad798c79a0f426e034785da3be7bbb3a696",
+      "display_sha256": "268ab935ba715598eed147f1c7b5f7dd9dbc4359a6eece47f060208f3e74d672",
+      "display_blob_sha": "125f1ba863e28afd2b07626c06a238c4ba3afe5d",
+      "display_original_site_sha256": "5587d9ff501d75091323342ffe8b5ad798c79a0f426e034785da3be7bbb3a696",
+      "display_original_blob_sha": "c3d57fcc4d1532b83c0b77c84fd2f882d81bbf12",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 719696
     },
     {
       "src": "media/erigeron-canadensis/inat-646425946.jpg",
@@ -199,7 +243,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cffd6a5ecdd89cdf3c255c884d41595c214bbc21",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -207,7 +251,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354342405, photo 646425946, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d390af403eac3e2ab1e55256dd72313442536a54513e82a9087e8074e3a426c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron canadensis agrees with indexed species erigeron-canadensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8d390af403eac3e2ab1e55256dd72313442536a54513e82a9087e8074e3a426c"
+      "sha256": "8d390af403eac3e2ab1e55256dd72313442536a54513e82a9087e8074e3a426c",
+      "display_sha256": "facffeb2a992d1593b6e7ec3b403286782cb642e43ff86ed904887077c7124a1",
+      "display_blob_sha": "2258f0a7bc448d4b2f9c7f1d3174af230879d571",
+      "display_original_site_sha256": "8d390af403eac3e2ab1e55256dd72313442536a54513e82a9087e8074e3a426c",
+      "display_original_blob_sha": "cffd6a5ecdd89cdf3c255c884d41595c214bbc21",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 752528
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

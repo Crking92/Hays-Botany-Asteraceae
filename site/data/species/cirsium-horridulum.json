@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "762f7c38239529c20518db15090822145ba36be1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +79,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343983580, photo 626701361, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63442bfa5fb20d607a95a9498cff06f4374677387ca681194287fb89b1e70746. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium horridulum agrees with indexed species cirsium-horridulum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "63442bfa5fb20d607a95a9498cff06f4374677387ca681194287fb89b1e70746"
+      "sha256": "63442bfa5fb20d607a95a9498cff06f4374677387ca681194287fb89b1e70746",
+      "display_sha256": "8df6c27637726cd9219ef9d3bc291b5e9d7f47f4e4333076b7e944bd590887c6",
+      "display_blob_sha": "eecf1a31cbc102aa4bfd0c81e10bf359ba4c1df4",
+      "display_original_site_sha256": "63442bfa5fb20d607a95a9498cff06f4374677387ca681194287fb89b1e70746",
+      "display_original_blob_sha": "762f7c38239529c20518db15090822145ba36be1",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1290,
+        1600
+      ],
+      "display_bytes": 668985
     },
     {
       "src": "media/cirsium-horridulum/inat-630563997.jpg",
@@ -90,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0a8a5fd293f829b429f9adb8a761ab8b06386d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +109,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345964125, photo 630563997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aac59ea2d2a5ee8aefc9f96b54f0a57b86ef9d02e6cba1f4bbf60cef739e92cd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium horridulum agrees with indexed species cirsium-horridulum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "aac59ea2d2a5ee8aefc9f96b54f0a57b86ef9d02e6cba1f4bbf60cef739e92cd"
+      "sha256": "aac59ea2d2a5ee8aefc9f96b54f0a57b86ef9d02e6cba1f4bbf60cef739e92cd",
+      "display_sha256": "ee761339a279e212f755877ffa6707470c38060477eea51bb70ffe34aadbe7f9",
+      "display_blob_sha": "2378b63dfeedf54a3d2df66b37c13a9bd17de08f",
+      "display_original_site_sha256": "aac59ea2d2a5ee8aefc9f96b54f0a57b86ef9d02e6cba1f4bbf60cef739e92cd",
+      "display_original_blob_sha": "b0a8a5fd293f829b429f9adb8a761ab8b06386d8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1318,
+        1600
+      ],
+      "display_bytes": 761483
     },
     {
       "src": "media/cirsium-horridulum/inat-632760076.jpg",
@@ -109,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6bba36acd92915f0861f3f4193497b0f1988a095",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +139,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347070571, photo 632760076, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42a286ef84f52a5f42ae44e4d3e3f1dc843d404df100413ffd39155eb02ac49f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium horridulum agrees with indexed species cirsium-horridulum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "42a286ef84f52a5f42ae44e4d3e3f1dc843d404df100413ffd39155eb02ac49f"
+      "sha256": "42a286ef84f52a5f42ae44e4d3e3f1dc843d404df100413ffd39155eb02ac49f",
+      "display_sha256": "e03a40700f4e6f4beaa45be74a2d4ac0bd80ccf04b03f22f7775165ca7d7e129",
+      "display_blob_sha": "7368333a93a6a7e4f7f668833b4f686d5ac50094",
+      "display_original_site_sha256": "42a286ef84f52a5f42ae44e4d3e3f1dc843d404df100413ffd39155eb02ac49f",
+      "display_original_blob_sha": "6bba36acd92915f0861f3f4193497b0f1988a095",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 748354
     },
     {
       "src": "media/cirsium-horridulum/inat-634473445.jpg",
@@ -128,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d995b1155a49652f0345495e768ac821d59ceab6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +169,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347935064, photo 634473445, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 90b9cff2e1e52680dca9083bb8da6fe1de76fe174286e604b35aac1add5a4b76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium horridulum agrees with indexed species cirsium-horridulum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "90b9cff2e1e52680dca9083bb8da6fe1de76fe174286e604b35aac1add5a4b76"
+      "sha256": "90b9cff2e1e52680dca9083bb8da6fe1de76fe174286e604b35aac1add5a4b76",
+      "display_sha256": "295b7fad66e8eb699da57ebee1bc38d3b68c6894380261639483633c3eea1351",
+      "display_blob_sha": "fa9c044310516d46a1ccf66ac99a0ff684c18932",
+      "display_original_site_sha256": "90b9cff2e1e52680dca9083bb8da6fe1de76fe174286e604b35aac1add5a4b76",
+      "display_original_blob_sha": "d995b1155a49652f0345495e768ac821d59ceab6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        900,
+        1600
+      ],
+      "display_bytes": 717819
     },
     {
       "src": "media/cirsium-horridulum/inat-634473602.jpg",
@@ -147,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "946b3b4576b234c405772c13da14a7385a174eff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +199,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347935130, photo 634473602, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 67254a733882071fabb057c1bf9fe71b4d91edfaf554d69c0fcba57c6d416a7c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium horridulum agrees with indexed species cirsium-horridulum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "67254a733882071fabb057c1bf9fe71b4d91edfaf554d69c0fcba57c6d416a7c"
+      "sha256": "67254a733882071fabb057c1bf9fe71b4d91edfaf554d69c0fcba57c6d416a7c",
+      "display_sha256": "1cb8c064a1c323708e88d5701d4cf55d9d9bc1641b24f1d6e99db7a954103a78",
+      "display_blob_sha": "46a281ff3bda65b8d283b1124a2ec9e578eb6604",
+      "display_original_site_sha256": "67254a733882071fabb057c1bf9fe71b4d91edfaf554d69c0fcba57c6d416a7c",
+      "display_original_blob_sha": "946b3b4576b234c405772c13da14a7385a174eff",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 722487
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c9165ded809f4ca995f91d341a0310f34a4e785",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -69,7 +69,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 109326470, photo 184241526, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a144341e4d75c3490cc89c4895d4ec79b101faf7042c0645109e550302a765d1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa bellidifolia agrees with indexed species chaetopappa-bellidifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a144341e4d75c3490cc89c4895d4ec79b101faf7042c0645109e550302a765d1"
+      "sha256": "a144341e4d75c3490cc89c4895d4ec79b101faf7042c0645109e550302a765d1",
+      "display_sha256": "0a1487a33a1f4aaed90f3d83b3a72cefdb44207e13346c89d1598e1ecff7456b",
+      "display_blob_sha": "b24aad0b814e187262a0ea7a36b0b4d5fefd6d6c",
+      "display_original_site_sha256": "a144341e4d75c3490cc89c4895d4ec79b101faf7042c0645109e550302a765d1",
+      "display_original_blob_sha": "8c9165ded809f4ca995f91d341a0310f34a4e785",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 319842
     },
     {
       "src": "media/chaetopappa-bellidifolia/inat-184248836.jpeg",
@@ -80,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f9865a995a4b614ace041b3346e81c039360d3f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +99,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 109330437, photo 184248836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bde7d1476d79407693ee8b61f3104b464d77ec3bd20c7e647a9e6243fbfa4fb5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa bellidifolia agrees with indexed species chaetopappa-bellidifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bde7d1476d79407693ee8b61f3104b464d77ec3bd20c7e647a9e6243fbfa4fb5"
+      "sha256": "bde7d1476d79407693ee8b61f3104b464d77ec3bd20c7e647a9e6243fbfa4fb5",
+      "display_sha256": "0c821f8fe4ecdea8168a93b5290bdbda9a53ef0a6dfc75dc61c15b08495d3335",
+      "display_blob_sha": "fa7e4702cf28b385be767915e41c8e121977a7f5",
+      "display_original_site_sha256": "bde7d1476d79407693ee8b61f3104b464d77ec3bd20c7e647a9e6243fbfa4fb5",
+      "display_original_blob_sha": "7f9865a995a4b614ace041b3346e81c039360d3f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 359587
     },
     {
       "src": "media/chaetopappa-bellidifolia/inat-262272559.jpeg",
@@ -99,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2adc05b63891bf796da421fd17aedc275c8a9a7c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +129,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 151959067, photo 262272559, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 944b78a2216596f1053eea0a1f4b3bd157ab7c25e26d9925d49727aa1ca9ac91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chaetopappa bellidifolia agrees with indexed species chaetopappa-bellidifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "944b78a2216596f1053eea0a1f4b3bd157ab7c25e26d9925d49727aa1ca9ac91"
+      "sha256": "944b78a2216596f1053eea0a1f4b3bd157ab7c25e26d9925d49727aa1ca9ac91",
+      "display_sha256": "90a78d8ea5ea3bae68c8b29f57741245cbf8ebe708e340adfa8344b0bb29a58d",
+      "display_blob_sha": "c51eb41b8761687271a3f143e3aa5835f4794725",
+      "display_original_site_sha256": "944b78a2216596f1053eea0a1f4b3bd157ab7c25e26d9925d49727aa1ca9ac91",
+      "display_original_blob_sha": "2adc05b63891bf796da421fd17aedc275c8a9a7c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 320042
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

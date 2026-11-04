@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8162d5fd2733517cf613143156d2f8dd30d2ec49",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 308067559, photo 555728436, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Boltonia diffusa maps to indexed species boltonia-diffusa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237"
+      "sha256": "5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237",
+      "display_sha256": "93d8dcc5ac642a3249bc51f2a147713c718141aea84e4942e110e3fe2b5b7eec",
+      "display_blob_sha": "2404eb2a00098853d51dab34c007059011f55965",
+      "display_original_site_sha256": "5a25ebc7221c0fbebb48024d4a9b2783f48025a69c0933f3a94620395225e237",
+      "display_original_blob_sha": "8162d5fd2733517cf613143156d2f8dd30d2ec49",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 731804
     },
     {
       "src": "media/boltonia-diffusa/inat-571695154.jpg",
@@ -58,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fed19c20c0af0d8a7bbc3872e33c08e54250371b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +77,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 316423227, photo 571695154, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Boltonia diffusa maps to indexed species boltonia-diffusa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2"
+      "sha256": "3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2",
+      "display_sha256": "d31dfc51af46fe0e75d77dc9d5eb3d56bde14bf747d54bc6084b6d00446143b7",
+      "display_blob_sha": "2d819cc51129e350485a7928dd0bfad8947707e6",
+      "display_original_site_sha256": "3e073529784e6be4c297f7d6859014f073ffeba68ccdf562c74263b5a9f39dc2",
+      "display_original_blob_sha": "fed19c20c0af0d8a7bbc3872e33c08e54250371b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 490083
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

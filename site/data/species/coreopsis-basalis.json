@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d38d1f078ec4a9dffd143b9e947f83849ccb290",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352082008, photo 642584932, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b03d90a52299934b9ca42c8b17c2c02e2bffc99c99388a2e14c0beada15bf7bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis basalis agrees with indexed species coreopsis-basalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b03d90a52299934b9ca42c8b17c2c02e2bffc99c99388a2e14c0beada15bf7bd"
+      "sha256": "b03d90a52299934b9ca42c8b17c2c02e2bffc99c99388a2e14c0beada15bf7bd",
+      "display_sha256": "9dffb51307b7bb6448dbf1063f0a91518d2234c6d9c46827478867e477e04bb5",
+      "display_blob_sha": "8dceab09f3e5ab03956874007696d0f9fc22da56",
+      "display_original_site_sha256": "b03d90a52299934b9ca42c8b17c2c02e2bffc99c99388a2e14c0beada15bf7bd",
+      "display_original_blob_sha": "9d38d1f078ec4a9dffd143b9e947f83849ccb290",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 607720
     },
     {
       "src": "media/coreopsis-basalis/inat-657434252.jpg",
@@ -91,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1ff3f6d7385a71943f72f2ebd11b1aa849017fb6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +110,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 360298140, photo 657434252, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c06a3eee6354582c4b83e65fd0ecf394c379e17841b654e6d7c8a614f782eee6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis basalis agrees with indexed species coreopsis-basalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c06a3eee6354582c4b83e65fd0ecf394c379e17841b654e6d7c8a614f782eee6"
+      "sha256": "c06a3eee6354582c4b83e65fd0ecf394c379e17841b654e6d7c8a614f782eee6",
+      "display_sha256": "67d44ab0d54660e8850111979d044ba9d4b93c1fb1beb3e9bbfd2940fdddd053",
+      "display_blob_sha": "c8c87d388ad1daca8746df44a930a3f0bd296b48",
+      "display_original_site_sha256": "c06a3eee6354582c4b83e65fd0ecf394c379e17841b654e6d7c8a614f782eee6",
+      "display_original_blob_sha": "1ff3f6d7385a71943f72f2ebd11b1aa849017fb6",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 689196
     },
     {
       "src": "media/coreopsis-basalis/inat-657713415.jpg",
@@ -110,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d6823942c40a94cb56692267e7dbf788d5a0304",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +140,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 360444848, photo 657713415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f40f2f2b78e348f75d4477e11b8f0294f8eb3a1f8c9936539090f82d49ec6f55. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis basalis agrees with indexed species coreopsis-basalis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f40f2f2b78e348f75d4477e11b8f0294f8eb3a1f8c9936539090f82d49ec6f55"
+      "sha256": "f40f2f2b78e348f75d4477e11b8f0294f8eb3a1f8c9936539090f82d49ec6f55",
+      "display_sha256": "e9c689aaa98f2718c52cc0c5d112f5b9b8172d2bb33f928f617de6d4adcc59aa",
+      "display_blob_sha": "39fec1cf56a9a5dced21057bde06b5c055a3b5b8",
+      "display_original_site_sha256": "f40f2f2b78e348f75d4477e11b8f0294f8eb3a1f8c9936539090f82d49ec6f55",
+      "display_original_blob_sha": "8d6823942c40a94cb56692267e7dbf788d5a0304",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 358919
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

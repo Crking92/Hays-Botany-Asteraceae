@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9bb909c922869ac30c380e40361af7983f3ca6b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -77,7 +77,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 174087219, photo 302400160, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1dfe00c6ebf4498e1a7de70e4cba9cffa4c6406ea7b7149f402450689fc2a53. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chromolaena odorata agrees with indexed species chromolaena-odorata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a1dfe00c6ebf4498e1a7de70e4cba9cffa4c6406ea7b7149f402450689fc2a53"
+      "sha256": "a1dfe00c6ebf4498e1a7de70e4cba9cffa4c6406ea7b7149f402450689fc2a53",
+      "display_sha256": "b0526593802b5df74accd2e7b2c2298e742998aebf421124672d0a2943843962",
+      "display_blob_sha": "efd1b59404a37a61aafca3bd4e376f61db191381",
+      "display_original_site_sha256": "a1dfe00c6ebf4498e1a7de70e4cba9cffa4c6406ea7b7149f402450689fc2a53",
+      "display_original_blob_sha": "9bb909c922869ac30c380e40361af7983f3ca6b0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 553365
     },
     {
       "src": "media/chromolaena-odorata/inat-444935862.jpeg",
@@ -88,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c5147e4e2f36b73b4c08eb4b9b319d1f927a41b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +107,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 248884667, photo 444935862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a10947da82f347a7167091c3b2767e8d5815b2ff911d9ac2ce0db90b82c99949. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chromolaena odorata agrees with indexed species chromolaena-odorata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a10947da82f347a7167091c3b2767e8d5815b2ff911d9ac2ce0db90b82c99949"
+      "sha256": "a10947da82f347a7167091c3b2767e8d5815b2ff911d9ac2ce0db90b82c99949",
+      "display_sha256": "aba5bcead0cd4cabbca0e46cbf638e9dcf4024cebed3e787f8a22e7858e6f749",
+      "display_blob_sha": "586b40fdb46d68f5defccb15eb26d0a455b14e2c",
+      "display_original_site_sha256": "a10947da82f347a7167091c3b2767e8d5815b2ff911d9ac2ce0db90b82c99949",
+      "display_original_blob_sha": "6c5147e4e2f36b73b4c08eb4b9b319d1f927a41b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 660906
     },
     {
       "src": "media/chromolaena-odorata/inat-448868888.jpeg",
@@ -107,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db43789fe4334a217852de69cc255b8ec545f834",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +137,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 250922609, photo 448868888, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c475ce61e330e7b9418b77ef38206691ebad3a77649889edc11cd8cadebf2db3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chromolaena odorata agrees with indexed species chromolaena-odorata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c475ce61e330e7b9418b77ef38206691ebad3a77649889edc11cd8cadebf2db3"
+      "sha256": "c475ce61e330e7b9418b77ef38206691ebad3a77649889edc11cd8cadebf2db3",
+      "display_sha256": "eeba0d5f56b950e9ddc0ac862ce21f63a8a32462c40f44d45e0fc8143cae54cc",
+      "display_blob_sha": "8c1f4993054e81dfd58606dbe2f0aafe7ce2aee5",
+      "display_original_site_sha256": "c475ce61e330e7b9418b77ef38206691ebad3a77649889edc11cd8cadebf2db3",
+      "display_original_blob_sha": "db43789fe4334a217852de69cc255b8ec545f834",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 748114
     },
     {
       "src": "media/chromolaena-odorata/inat-582327116.jpg",
@@ -126,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4952b51cd2957ac21aa86682877ff3664f38313d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +167,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 321952086, photo 582327116, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9adeb1e046fb314f83483c4e28407b9c0c31fabb940e43ebd02af604643be104. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chromolaena odorata agrees with indexed species chromolaena-odorata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9adeb1e046fb314f83483c4e28407b9c0c31fabb940e43ebd02af604643be104"
+      "sha256": "9adeb1e046fb314f83483c4e28407b9c0c31fabb940e43ebd02af604643be104",
+      "display_sha256": "1bdb6b33df22e714ecea4cf6116e071e4bc959a1104374026cb48a2b512025a7",
+      "display_blob_sha": "fc81e96a6935a10aff4e473d9336a84eab21f459",
+      "display_original_site_sha256": "9adeb1e046fb314f83483c4e28407b9c0c31fabb940e43ebd02af604643be104",
+      "display_original_blob_sha": "4952b51cd2957ac21aa86682877ff3664f38313d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 664776
     },
     {
       "src": "media/chromolaena-odorata/inat-742525415.jpg",
@@ -145,7 +189,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eef1e8c5da0e246f44b7debbc4137ac256daed3e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +197,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 404340618, photo 742525415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7930f739b7bb3ec693d3aafc06a08b51aa8bff772e0768f233c2ae6ab672366a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chromolaena odorata agrees with indexed species chromolaena-odorata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7930f739b7bb3ec693d3aafc06a08b51aa8bff772e0768f233c2ae6ab672366a"
+      "sha256": "7930f739b7bb3ec693d3aafc06a08b51aa8bff772e0768f233c2ae6ab672366a",
+      "display_sha256": "d84728e0d4309b61eabce83d2bdc231acb123954f8f16f69c4ea39ba8584d9e5",
+      "display_blob_sha": "3e67cf2346c274be9318868974eed3e92791c961",
+      "display_original_site_sha256": "7930f739b7bb3ec693d3aafc06a08b51aa8bff772e0768f233c2ae6ab672366a",
+      "display_original_blob_sha": "eef1e8c5da0e246f44b7debbc4137ac256daed3e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 747190
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

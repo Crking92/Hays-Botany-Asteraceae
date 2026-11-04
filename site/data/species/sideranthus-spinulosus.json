@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ed2d5f5ec7fdae11f8943423aa66583fb3847d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 207938553, photo 367857467, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Sideranthus spinulosus maps to indexed species sideranthus-spinulosus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354"
+      "sha256": "8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354",
+      "display_sha256": "ab224660861389dd9ff065f59c3447b286ace9421325ff7d9112bc37b16886f0",
+      "display_blob_sha": "f550ec1020312bf019f4d92b6df9f930838a4d3d",
+      "display_original_site_sha256": "8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354",
+      "display_original_blob_sha": "7ed2d5f5ec7fdae11f8943423aa66583fb3847d9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 669790
     },
     {
       "src": "media/sideranthus-spinulosus/inat-376718521.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7dff5e899aebd9940e5149805d1ef9cb69f33266",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 213168498, photo 376718521, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Sideranthus spinulosus maps to indexed species sideranthus-spinulosus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5"
+      "sha256": "3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5",
+      "display_sha256": "9ff993cc0605704d4151a7f033a884ce66fb4d667faef13d04ba121529bdacb8",
+      "display_blob_sha": "eb56f3ce49965f7eaa4453172913643e5d977041",
+      "display_original_site_sha256": "3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5",
+      "display_original_blob_sha": "7dff5e899aebd9940e5149805d1ef9cb69f33266",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 756401
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

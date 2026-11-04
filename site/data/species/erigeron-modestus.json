@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "731f7736e8dcbe1061aeefb83d4776f58da3e651",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -57,7 +57,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342841944, photo 624396940, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 297262bfb2e439ef347c107cc5d854cab8be60e189fe33e4832c3797d189fd41. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron modestus agrees with indexed species erigeron-modestus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "297262bfb2e439ef347c107cc5d854cab8be60e189fe33e4832c3797d189fd41"
+      "sha256": "297262bfb2e439ef347c107cc5d854cab8be60e189fe33e4832c3797d189fd41",
+      "display_sha256": "81dd508b3c77d077eec5b14d2858d5e7ff600ed0dd6c0e35f1606aea0f657930",
+      "display_blob_sha": "29936f1155a2a20fd12fa6ddec29cab3715dfdd4",
+      "display_original_site_sha256": "297262bfb2e439ef347c107cc5d854cab8be60e189fe33e4832c3797d189fd41",
+      "display_original_blob_sha": "731f7736e8dcbe1061aeefb83d4776f58da3e651",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 775929
     },
     {
       "src": "media/erigeron-modestus/inat-627262286.jpg",
@@ -68,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0eae069d41aeb0c67a6d89789bbc6401e1ce92cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +87,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344277008, photo 627262286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e3201bd121a85b86f61eaa5ffff4043a1fdc42114ac4ec749925a0098adb489. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron modestus agrees with indexed species erigeron-modestus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5e3201bd121a85b86f61eaa5ffff4043a1fdc42114ac4ec749925a0098adb489"
+      "sha256": "5e3201bd121a85b86f61eaa5ffff4043a1fdc42114ac4ec749925a0098adb489",
+      "display_sha256": "5b8e6b4e1eb42eb264484c0225c725409ba16770985273fcc8920817ccf4d6c4",
+      "display_blob_sha": "b092fe627b8f44adc322a4c0ea100e61f1df9505",
+      "display_original_site_sha256": "5e3201bd121a85b86f61eaa5ffff4043a1fdc42114ac4ec749925a0098adb489",
+      "display_original_blob_sha": "0eae069d41aeb0c67a6d89789bbc6401e1ce92cd",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 506058
     },
     {
       "src": "media/erigeron-modestus/inat-634936662.jpg",
@@ -87,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b3afa9303ce1b0decfbd28ca03722c3bbdd7c70",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +117,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348168656, photo 634936662, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2455fa1fb6c7fcc2526297b3a54e8f72b4f31648b96e6936e8aad09b720befe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron modestus agrees with indexed species erigeron-modestus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f2455fa1fb6c7fcc2526297b3a54e8f72b4f31648b96e6936e8aad09b720befe"
+      "sha256": "f2455fa1fb6c7fcc2526297b3a54e8f72b4f31648b96e6936e8aad09b720befe",
+      "display_sha256": "09668c41c9c21d62dd20178396fe6124fcc1e3af57554d988963e26700b644e9",
+      "display_blob_sha": "723e87c1845bbf53d0459c3b8d46c3a5fb84e776",
+      "display_original_site_sha256": "f2455fa1fb6c7fcc2526297b3a54e8f72b4f31648b96e6936e8aad09b720befe",
+      "display_original_blob_sha": "9b3afa9303ce1b0decfbd28ca03722c3bbdd7c70",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 696481
     },
     {
       "src": "media/erigeron-modestus/inat-635792303.jpg",
@@ -125,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04fe6e3702b67cd323a598bc11c296b7b9a2a5cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +166,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355825892, photo 648896761, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf08f006d6b38b6afff6543bc29d23deb44c88590b8eec88ae6357cbbe0e0841. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Erigeron modestus agrees with indexed species erigeron-modestus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cf08f006d6b38b6afff6543bc29d23deb44c88590b8eec88ae6357cbbe0e0841"
+      "sha256": "cf08f006d6b38b6afff6543bc29d23deb44c88590b8eec88ae6357cbbe0e0841",
+      "display_sha256": "c62237b012473429bf5fad2b86fd6766ded3be9e8a2cc1a92b8ebdc97034a3e4",
+      "display_blob_sha": "fd50a8d7c25fdbe07367b0f7b9e51a7ea70efa8b",
+      "display_original_site_sha256": "cf08f006d6b38b6afff6543bc29d23deb44c88590b8eec88ae6357cbbe0e0841",
+      "display_original_blob_sha": "04fe6e3702b67cd323a598bc11c296b7b9a2a5cb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 668078
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

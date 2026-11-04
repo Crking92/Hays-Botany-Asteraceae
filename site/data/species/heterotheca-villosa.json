@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69584e0949f71d6bc7c9a54b899b310aadf64f27",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 124196700, photo 210484608, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03702840274932303ecf8938b95a29495845e1c946307b757ffaf50489db6ad6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca villosa agrees with indexed species heterotheca-villosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "03702840274932303ecf8938b95a29495845e1c946307b757ffaf50489db6ad6"
+      "sha256": "03702840274932303ecf8938b95a29495845e1c946307b757ffaf50489db6ad6",
+      "display_sha256": "89223313ad719b429c2ccd716098e6f3961514037ea07455a02562c46324478b",
+      "display_blob_sha": "f00e2a109fa6405f3fe075e8ba8cb889cc0750fc",
+      "display_original_site_sha256": "03702840274932303ecf8938b95a29495845e1c946307b757ffaf50489db6ad6",
+      "display_original_blob_sha": "69584e0949f71d6bc7c9a54b899b310aadf64f27",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 729959
     },
     {
       "src": "media/heterotheca-villosa/inat-3733997.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dd3fda7a826bbfa7af2a8ec85c0d465d205f9d6e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 3225782, photo 3733997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4fa56b31cc7ed43a42f5a0a1c00c166d14cf0f81e534faf6f22c090afbd6a87. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca villosa agrees with indexed species heterotheca-villosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d4fa56b31cc7ed43a42f5a0a1c00c166d14cf0f81e534faf6f22c090afbd6a87"
+      "sha256": "d4fa56b31cc7ed43a42f5a0a1c00c166d14cf0f81e534faf6f22c090afbd6a87",
+      "display_sha256": "70f30ad571a3c5fc342c20c87f2eb7c97b8f6409a254a848268f8f586936d44d",
+      "display_blob_sha": "9d18b3da75fc5179ce8417670b7a22683a605d9e",
+      "display_original_site_sha256": "d4fa56b31cc7ed43a42f5a0a1c00c166d14cf0f81e534faf6f22c090afbd6a87",
+      "display_original_blob_sha": "dd3fda7a826bbfa7af2a8ec85c0d465d205f9d6e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 670850
     },
     {
       "src": "media/heterotheca-villosa/inat-3735998.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8031d2b41b9bbcca865143398c3849320aae3af4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 3227819, photo 3735998, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ccc5a5e5d4b37c20627462d26c7f2686075b0e0c1fb3b48cf616cbc96f9c01dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca villosa agrees with indexed species heterotheca-villosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ccc5a5e5d4b37c20627462d26c7f2686075b0e0c1fb3b48cf616cbc96f9c01dc"
+      "sha256": "ccc5a5e5d4b37c20627462d26c7f2686075b0e0c1fb3b48cf616cbc96f9c01dc",
+      "display_sha256": "02983833b12810c03a769b67117cbc80b94735157d7806ed617b211b02519fd7",
+      "display_blob_sha": "8a290866f99735243a60ebbfd6a3aeba5d105ae3",
+      "display_original_site_sha256": "ccc5a5e5d4b37c20627462d26c7f2686075b0e0c1fb3b48cf616cbc96f9c01dc",
+      "display_original_blob_sha": "8031d2b41b9bbcca865143398c3849320aae3af4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 671543
     },
     {
       "src": "media/heterotheca-villosa/inat-539228097.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "29b24015ce31ce2bbed4c559992cea9cb98eaf0f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 299308378, photo 539228097, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e26352fd735b3f49b2f3f88bf33ad8c646175b31cb447c5ea486b4b3f2148461. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca villosa agrees with indexed species heterotheca-villosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e26352fd735b3f49b2f3f88bf33ad8c646175b31cb447c5ea486b4b3f2148461"
+      "sha256": "e26352fd735b3f49b2f3f88bf33ad8c646175b31cb447c5ea486b4b3f2148461",
+      "display_sha256": "789c02d6065669f684934847e989fc0d356841788760a62e678d61df402d94c8",
+      "display_blob_sha": "11494b8cbef9b8af19259251cb5bc266da46ea4e",
+      "display_original_site_sha256": "e26352fd735b3f49b2f3f88bf33ad8c646175b31cb447c5ea486b4b3f2148461",
+      "display_original_blob_sha": "29b24015ce31ce2bbed4c559992cea9cb98eaf0f",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1620,
+        1080
+      ],
+      "display_bytes": 769152
     },
     {
       "src": "media/heterotheca-villosa/inat-692629597.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff53a45f8eabb579aa88d0ea3233ac0a9d91b628",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 378693356, photo 692629597, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 05888ba28e46327ed29f28c64734f3483a48f3b158e9a7e69a80faf11d8a381d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca villosa agrees with indexed species heterotheca-villosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "05888ba28e46327ed29f28c64734f3483a48f3b158e9a7e69a80faf11d8a381d"
+      "sha256": "05888ba28e46327ed29f28c64734f3483a48f3b158e9a7e69a80faf11d8a381d",
+      "display_sha256": "7db798b12a133eed4ca475640b58953e869b7894dff04bbfab304a03555c4527",
+      "display_blob_sha": "77ffc4387ad4476f860bef988dd614f86ebc2727",
+      "display_original_site_sha256": "05888ba28e46327ed29f28c64734f3483a48f3b158e9a7e69a80faf11d8a381d",
+      "display_original_blob_sha": "ff53a45f8eabb579aa88d0ea3233ac0a9d91b628",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1425
+      ],
+      "display_bytes": 719846
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

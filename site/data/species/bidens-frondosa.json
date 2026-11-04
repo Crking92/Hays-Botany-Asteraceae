@@ -59,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4982f83285a3f270f75cf7547ff35188e84916f7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -67,7 +67,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 172200939, photo 298902596, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dd346104f71befdba3ca2bbca34fb20b9afa2bde49fb99c5c8a6586782557139. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens frondosa maps to indexed species bidens-frondosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "dd346104f71befdba3ca2bbca34fb20b9afa2bde49fb99c5c8a6586782557139"
+      "sha256": "dd346104f71befdba3ca2bbca34fb20b9afa2bde49fb99c5c8a6586782557139",
+      "display_sha256": "04b54306d6a8787bb558aff8344dd8cb6b2a394bc270f9c49be1488b1d10c1b9",
+      "display_blob_sha": "29d4d1c4807cb347347adb17a379e59b7161c3f6",
+      "display_original_site_sha256": "dd346104f71befdba3ca2bbca34fb20b9afa2bde49fb99c5c8a6586782557139",
+      "display_original_blob_sha": "4982f83285a3f270f75cf7547ff35188e84916f7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 701886
     },
     {
       "src": "media/bidens-frondosa/inat-436508546.jpeg",
@@ -78,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a93ead7a8f0132a88daffc8f5fabe390e446668",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +97,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 244687944, photo 436508546, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11b4a4899226380b9da57671c51095e951ea7101769f0fdfc559666dcd1b10b6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens frondosa maps to indexed species bidens-frondosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "11b4a4899226380b9da57671c51095e951ea7101769f0fdfc559666dcd1b10b6"
+      "sha256": "11b4a4899226380b9da57671c51095e951ea7101769f0fdfc559666dcd1b10b6",
+      "display_sha256": "55f4d66ce03193b339cf8b187bbb8a62846d5da15f98e88b68c7a51350240ba9",
+      "display_blob_sha": "67114fcb286cd352bbb6468f88bd1a6ca06e0e02",
+      "display_original_site_sha256": "11b4a4899226380b9da57671c51095e951ea7101769f0fdfc559666dcd1b10b6",
+      "display_original_blob_sha": "8a93ead7a8f0132a88daffc8f5fabe390e446668",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 627343
     },
     {
       "src": "media/bidens-frondosa/inat-442730456.jpeg",
@@ -116,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a61cfa270c2311e5282d04fe79e996017fe547c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +146,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 317327029, photo 573392867, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6798934ac4e98ab4e191beb0c6648a7b7fc11bbf258c4f64bc9c03cdc3a1900. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bidens frondosa maps to indexed species bidens-frondosa (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c6798934ac4e98ab4e191beb0c6648a7b7fc11bbf258c4f64bc9c03cdc3a1900"
+      "sha256": "c6798934ac4e98ab4e191beb0c6648a7b7fc11bbf258c4f64bc9c03cdc3a1900",
+      "display_sha256": "dac0ccaa35424e269648779fc55f99d9857ffeebcc3c968603f569eb9a171d00",
+      "display_blob_sha": "ffaa20fb974708daaf687f0028927cdb47b430b7",
+      "display_original_site_sha256": "c6798934ac4e98ab4e191beb0c6648a7b7fc11bbf258c4f64bc9c03cdc3a1900",
+      "display_original_blob_sha": "8a61cfa270c2311e5282d04fe79e996017fe547c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 492591
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

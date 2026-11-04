@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4f00711fc14d7a01c9865e74838a0c9656789e03",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340905707, photo 620473342, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a725d1c37b86dc6d289c9fa47d558b8f96fb0d379b7a50e163e3181ac92c74a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Ericameria nauseosa agrees with indexed species ericameria-nauseosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a725d1c37b86dc6d289c9fa47d558b8f96fb0d379b7a50e163e3181ac92c74a8"
+      "sha256": "a725d1c37b86dc6d289c9fa47d558b8f96fb0d379b7a50e163e3181ac92c74a8",
+      "display_sha256": "12c671edd2083a13f3600657912b862c094984cb3d03313f23bda7442e6b5b79",
+      "display_blob_sha": "4c734581b0ea0f8542bfaf115c96ff03996b398e",
+      "display_original_site_sha256": "a725d1c37b86dc6d289c9fa47d558b8f96fb0d379b7a50e163e3181ac92c74a8",
+      "display_original_blob_sha": "4f00711fc14d7a01c9865e74838a0c9656789e03",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 709034
     },
     {
       "src": "media/ericameria-nauseosa/inat-623893202.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5bfe39cde0b4a831dda02213c1de51a5f9d3415d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342582702, photo 623893202, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc1fea5f01368278cca99817428828952de821ec143f7b399fc593f6b87a2302. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Ericameria nauseosa agrees with indexed species ericameria-nauseosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cc1fea5f01368278cca99817428828952de821ec143f7b399fc593f6b87a2302"
+      "sha256": "cc1fea5f01368278cca99817428828952de821ec143f7b399fc593f6b87a2302",
+      "display_sha256": "5687f6d67dd465b55da6e0ea893ad2d199e8bfe38be64c95ac7d43f8d6335f0c",
+      "display_blob_sha": "2965142806be28fcd8058be9f7198e6a2ca7e2be",
+      "display_original_site_sha256": "cc1fea5f01368278cca99817428828952de821ec143f7b399fc593f6b87a2302",
+      "display_original_blob_sha": "5bfe39cde0b4a831dda02213c1de51a5f9d3415d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 700701
     },
     {
       "src": "media/ericameria-nauseosa/inat-625467866.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a75927bbf9dda29a10303ff25674ad5812308a3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343370924, photo 625467866, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 080b4deba333143104e96e2693432f5f84c8d1f9808807996b9fee5e4e562438. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Ericameria nauseosa agrees with indexed species ericameria-nauseosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "080b4deba333143104e96e2693432f5f84c8d1f9808807996b9fee5e4e562438"
+      "sha256": "080b4deba333143104e96e2693432f5f84c8d1f9808807996b9fee5e4e562438",
+      "display_sha256": "fef1faefed3661b626c32cbd6314aa6ef2d258c821d3a2d6b7b9daff24f9227f",
+      "display_blob_sha": "b0f2bc09d063720fdb56641cd24c4fdabe7fe46b",
+      "display_original_site_sha256": "080b4deba333143104e96e2693432f5f84c8d1f9808807996b9fee5e4e562438",
+      "display_original_blob_sha": "a75927bbf9dda29a10303ff25674ad5812308a3a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 735243
     },
     {
       "src": "media/ericameria-nauseosa/inat-626113561.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b2bc34de5b72886205f6563efedcf4dd186f56c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343687699, photo 626113561, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b074912bd14f409552478315b2876a3afa278aeecafce186b8011e50c265375. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Ericameria nauseosa agrees with indexed species ericameria-nauseosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0b074912bd14f409552478315b2876a3afa278aeecafce186b8011e50c265375"
+      "sha256": "0b074912bd14f409552478315b2876a3afa278aeecafce186b8011e50c265375",
+      "display_sha256": "e7eae257a4503b33f0ba5b5dad7bc72a9a7f252cde62944aaa1af5fa334b73e8",
+      "display_blob_sha": "d6757a4d159254d50c8e33e7c1dfb4de13502ade",
+      "display_original_site_sha256": "0b074912bd14f409552478315b2876a3afa278aeecafce186b8011e50c265375",
+      "display_original_blob_sha": "9b2bc34de5b72886205f6563efedcf4dd186f56c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1537,
+        2048
+      ],
+      "display_bytes": 416297
     },
     {
       "src": "media/ericameria-nauseosa/inat-626238556.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1ee0688ec1a81e9b4e0cd6c6cf33841b472bd79c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343749266, photo 626238556, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 73b9c8f3cd676a833d6cc7c604a6a1002fa010fc70724c68c83131ef2ded3a3e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Ericameria nauseosa agrees with indexed species ericameria-nauseosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "73b9c8f3cd676a833d6cc7c604a6a1002fa010fc70724c68c83131ef2ded3a3e"
+      "sha256": "73b9c8f3cd676a833d6cc7c604a6a1002fa010fc70724c68c83131ef2ded3a3e",
+      "display_sha256": "9df8d6a1f68b40026e4184535cc5d99665a66c92476e94f2bb95cac4782ead37",
+      "display_blob_sha": "65f4d6ef6e43075e560f73434ca6c2c860ca8a9b",
+      "display_original_site_sha256": "73b9c8f3cd676a833d6cc7c604a6a1002fa010fc70724c68c83131ef2ded3a3e",
+      "display_original_blob_sha": "1ee0688ec1a81e9b4e0cd6c6cf33841b472bd79c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1318,
+        1750
+      ],
+      "display_bytes": 704725
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

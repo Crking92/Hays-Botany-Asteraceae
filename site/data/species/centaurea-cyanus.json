@@ -78,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb67de15cba81a1accc55b7139d5ebf9df664f2a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +86,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345687222, photo 630039528, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbf66eefef129b5a890c3e7db2d4f1026d3b04de91d963758bbbb279b1c0a34a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea cyanus maps to indexed species centaurea-cyanus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "fbf66eefef129b5a890c3e7db2d4f1026d3b04de91d963758bbbb279b1c0a34a"
+      "sha256": "fbf66eefef129b5a890c3e7db2d4f1026d3b04de91d963758bbbb279b1c0a34a",
+      "display_sha256": "a815574d50bf8a9c524ce38cd7cd67d6441bc6e28af77ef1e5debb527690e81d",
+      "display_blob_sha": "f363416d5a27a5f9175202e038011921002ee1a8",
+      "display_original_site_sha256": "fbf66eefef129b5a890c3e7db2d4f1026d3b04de91d963758bbbb279b1c0a34a",
+      "display_original_blob_sha": "eb67de15cba81a1accc55b7139d5ebf9df664f2a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 762079
     },
     {
       "src": "media/centaurea-cyanus/inat-639089797.jpg",
@@ -116,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3fad78c4216601e9a380d26d13ebf4ed855c22e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355415551, photo 648196433, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7081bf4feaaedc21b0d9cfbf497164529c0866996ea85948845e4adb403da6bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea cyanus maps to indexed species centaurea-cyanus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "7081bf4feaaedc21b0d9cfbf497164529c0866996ea85948845e4adb403da6bc"
+      "sha256": "7081bf4feaaedc21b0d9cfbf497164529c0866996ea85948845e4adb403da6bc",
+      "display_sha256": "85c668c2da1c219ac897677c4eca026616c2c516ed98472305950357e6f2e49d",
+      "display_blob_sha": "7917293c6818096c87de98a12c051a766436bc3d",
+      "display_original_site_sha256": "7081bf4feaaedc21b0d9cfbf497164529c0866996ea85948845e4adb403da6bc",
+      "display_original_blob_sha": "3fad78c4216601e9a380d26d13ebf4ed855c22e3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 615792
     },
     {
       "src": "media/centaurea-cyanus/inat-650517314.jpg",
@@ -135,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27a7c102c61372cb2eb11b688300591513a55137",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +165,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356704723, photo 650517314, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f1a1556b81827a95ad0b0a1cb489f8d8c197b8d1a32da14afe9e39eb94d7c31. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centaurea cyanus maps to indexed species centaurea-cyanus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9f1a1556b81827a95ad0b0a1cb489f8d8c197b8d1a32da14afe9e39eb94d7c31"
+      "sha256": "9f1a1556b81827a95ad0b0a1cb489f8d8c197b8d1a32da14afe9e39eb94d7c31",
+      "display_sha256": "75fc69b664bf0c9c8566ffe8ea41ed69fe631ba75b70f1c2cc9fda3772f2b86e",
+      "display_blob_sha": "e1108046538a4198de6340935f124ab3997f8abf",
+      "display_original_site_sha256": "9f1a1556b81827a95ad0b0a1cb489f8d8c197b8d1a32da14afe9e39eb94d7c31",
+      "display_original_blob_sha": "27a7c102c61372cb2eb11b688300591513a55137",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 688095
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

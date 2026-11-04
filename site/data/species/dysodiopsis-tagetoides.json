@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "92b9344dd750e47023bb2b9cf185a52e8be5b5f3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 123133237, photo 208563224, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8dcef174e2fc6d648f2835cab9bac9f931e359c6e9ea1bd612aa0a33bc718e4a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dysodiopsis tagetoides agrees with indexed species dysodiopsis-tagetoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8dcef174e2fc6d648f2835cab9bac9f931e359c6e9ea1bd612aa0a33bc718e4a"
+      "sha256": "8dcef174e2fc6d648f2835cab9bac9f931e359c6e9ea1bd612aa0a33bc718e4a",
+      "display_sha256": "f93e386d18ba598bbec296ea47a3d9f1d706e6fd7ca8a9bf03da600f5089da1d",
+      "display_blob_sha": "e0e103112c8d5c09b82c72d3124be74049b4f7c3",
+      "display_original_site_sha256": "8dcef174e2fc6d648f2835cab9bac9f931e359c6e9ea1bd612aa0a33bc718e4a",
+      "display_original_blob_sha": "92b9344dd750e47023bb2b9cf185a52e8be5b5f3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 411250
     },
     {
       "src": "media/dysodiopsis-tagetoides/inat-384487223.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "763891c6a81d897f496dbc3379b9c4e6c5e8df79",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 217345006, photo 384487223, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a33856ece0ac9d0261c5d11c8424fed87ee307b143f82859b040f3c2ba84b44f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dysodiopsis tagetoides agrees with indexed species dysodiopsis-tagetoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a33856ece0ac9d0261c5d11c8424fed87ee307b143f82859b040f3c2ba84b44f"
+      "sha256": "a33856ece0ac9d0261c5d11c8424fed87ee307b143f82859b040f3c2ba84b44f",
+      "display_sha256": "c87fcfb05268951cd2788db60c304ea19c0e2569e7e5920acbc62c94cf51a667",
+      "display_blob_sha": "4588a1969f0a309eb8121f4af03b8a5d326f3ee5",
+      "display_original_site_sha256": "a33856ece0ac9d0261c5d11c8424fed87ee307b143f82859b040f3c2ba84b44f",
+      "display_original_blob_sha": "763891c6a81d897f496dbc3379b9c4e6c5e8df79",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 496663
     },
     {
       "src": "media/dysodiopsis-tagetoides/inat-515777456.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c641a90c26b34feae071813df7caeb655836f62",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 286842695, photo 515777456, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79fc1e7fa4618638ea7e27f32bb75607db34e9df6b116d10fa201875fa05a153. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dysodiopsis tagetoides agrees with indexed species dysodiopsis-tagetoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "79fc1e7fa4618638ea7e27f32bb75607db34e9df6b116d10fa201875fa05a153"
+      "sha256": "79fc1e7fa4618638ea7e27f32bb75607db34e9df6b116d10fa201875fa05a153",
+      "display_sha256": "44b1628bf0814a653c29b9df464c7a4e0a4bed6975d1049e9bc24645e0f0ca06",
+      "display_blob_sha": "ddafe6449ed8f520e1d3e2f02a4e413827d7b039",
+      "display_original_site_sha256": "79fc1e7fa4618638ea7e27f32bb75607db34e9df6b116d10fa201875fa05a153",
+      "display_original_blob_sha": "6c641a90c26b34feae071813df7caeb655836f62",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1431,
+        1900
+      ],
+      "display_bytes": 701291
     },
     {
       "src": "media/dysodiopsis-tagetoides/inat-648809241.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e70542d3989bb65f92e6a01b5a0b5d93b9061c48",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355777552, photo 648809241, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca19890ce64e9b39115f7416dc625c1d252550825061e227d8eebc337774d32e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dysodiopsis tagetoides agrees with indexed species dysodiopsis-tagetoides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ca19890ce64e9b39115f7416dc625c1d252550825061e227d8eebc337774d32e"
+      "sha256": "ca19890ce64e9b39115f7416dc625c1d252550825061e227d8eebc337774d32e",
+      "display_sha256": "529c0d4d0c71a6834e18c94704944b65db23fad5b8e6d620342c3a54648e3152",
+      "display_blob_sha": "4f3bbe362ff0d8f8c024facc18203c96b2aba425",
+      "display_original_site_sha256": "ca19890ce64e9b39115f7416dc625c1d252550825061e227d8eebc337774d32e",
+      "display_original_blob_sha": "e70542d3989bb65f92e6a01b5a0b5d93b9061c48",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 697027
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8d3bfc882dfe8379cbdfcc4ca8a428b3c6f48b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343334718, photo 625394293, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5cc2c8b4509a2ff230a6af10de223e636d26f1ddb2c9212875817a995ba724ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia verna agrees with indexed species diaperia-verna; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5cc2c8b4509a2ff230a6af10de223e636d26f1ddb2c9212875817a995ba724ca"
+      "sha256": "5cc2c8b4509a2ff230a6af10de223e636d26f1ddb2c9212875817a995ba724ca",
+      "display_sha256": "5ae75ed435b2b71a89c7b1578fa95e87de334977db0a2ed526bd2f01e702b6b0",
+      "display_blob_sha": "3165662f7f1dcb4fcedda9e5892ef047eaa838f9",
+      "display_original_site_sha256": "5cc2c8b4509a2ff230a6af10de223e636d26f1ddb2c9212875817a995ba724ca",
+      "display_original_blob_sha": "e8d3bfc882dfe8379cbdfcc4ca8a428b3c6f48b0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 656452
     },
     {
       "src": "media/diaperia-verna/inat-626496794.jpg",
@@ -39,7 +50,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65f20c22ae54a817540b52800981f494e639f62d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +58,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343883818, photo 626496794, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea98ba350ed3d5e360b6d537998b714dc587e7013355c5d32361f5c6fbdd5edb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia verna agrees with indexed species diaperia-verna; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ea98ba350ed3d5e360b6d537998b714dc587e7013355c5d32361f5c6fbdd5edb"
+      "sha256": "ea98ba350ed3d5e360b6d537998b714dc587e7013355c5d32361f5c6fbdd5edb",
+      "display_sha256": "499d2e200731f29519e7ebeba000432d937a06834d76941a38d0b1b518281957",
+      "display_blob_sha": "6c1c087f20854a753735e6ae55741d79fd516bde",
+      "display_original_site_sha256": "ea98ba350ed3d5e360b6d537998b714dc587e7013355c5d32361f5c6fbdd5edb",
+      "display_original_blob_sha": "65f20c22ae54a817540b52800981f494e639f62d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 651912
     },
     {
       "src": "media/diaperia-verna/inat-629818975.jpg",
@@ -58,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f7b9d8c1882ea067514a6e9733eadd4c636ce8f9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +88,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345582589, photo 629818975, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1991d973d800e40409c550953c946049b374d9274543e6ef624db6a50e8b4143. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia verna agrees with indexed species diaperia-verna; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1991d973d800e40409c550953c946049b374d9274543e6ef624db6a50e8b4143"
+      "sha256": "1991d973d800e40409c550953c946049b374d9274543e6ef624db6a50e8b4143",
+      "display_sha256": "6b0b864dda8478dfdb27fc04caf43c170077a4f54abb4f6ecf07265df0aa57d7",
+      "display_blob_sha": "edf00ff493246750dc6983d809f3daad769ac0c4",
+      "display_original_site_sha256": "1991d973d800e40409c550953c946049b374d9274543e6ef624db6a50e8b4143",
+      "display_original_blob_sha": "f7b9d8c1882ea067514a6e9733eadd4c636ce8f9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 655879
     },
     {
       "src": "media/diaperia-verna/inat-634009457.jpg",
@@ -77,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dda3a56e090872ae751268f5db83a9e2c4e35923",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +118,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347701135, photo 634009457, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9621ae36cc79b82741e4816c3ace5399c5b170b237503f24dac92e4cf9393e43. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia verna agrees with indexed species diaperia-verna; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9621ae36cc79b82741e4816c3ace5399c5b170b237503f24dac92e4cf9393e43"
+      "sha256": "9621ae36cc79b82741e4816c3ace5399c5b170b237503f24dac92e4cf9393e43",
+      "display_sha256": "47d9c7fdbcb4959248c8a216fc872f0c9dc4c36b7d0bbb9c0fb409239c6a7217",
+      "display_blob_sha": "5d6a84ea5d62c42666b4c20dd984b1ebf0751481",
+      "display_original_site_sha256": "9621ae36cc79b82741e4816c3ace5399c5b170b237503f24dac92e4cf9393e43",
+      "display_original_blob_sha": "dda3a56e090872ae751268f5db83a9e2c4e35923",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 695601
     },
     {
       "src": "media/diaperia-verna/inat-639549659.jpg",
@@ -96,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f91626de69681a7f4bca70aedd1bfdeaab2b59f7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +148,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350513675, photo 639549659, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9bcd48668e5b58399124e33e27ae446309951f27e61c99c92050d3dd5e9e72f7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia verna agrees with indexed species diaperia-verna; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9bcd48668e5b58399124e33e27ae446309951f27e61c99c92050d3dd5e9e72f7"
+      "sha256": "9bcd48668e5b58399124e33e27ae446309951f27e61c99c92050d3dd5e9e72f7",
+      "display_sha256": "70316df52aecfaa31d5c5fbd1b372d34fbd087bb8d6ca42d0b0f11b269e213a7",
+      "display_blob_sha": "6f5d653d83fc1a2ecee9c454dcf14091fe780efa",
+      "display_original_site_sha256": "9bcd48668e5b58399124e33e27ae446309951f27e61c99c92050d3dd5e9e72f7",
+      "display_original_blob_sha": "f91626de69681a7f4bca70aedd1bfdeaab2b59f7",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 651045
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

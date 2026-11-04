@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a510fe57af179747b86f46afc2cba2d254f7bda2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342504557, photo 623734378, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 445cf94627e348b22d9e8977dff4b83a06b8c5f8bbb48f2e6d2fbc33b5aac2fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium hysterophorus maps to indexed species parthenium-hysterophorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "445cf94627e348b22d9e8977dff4b83a06b8c5f8bbb48f2e6d2fbc33b5aac2fd"
+      "sha256": "445cf94627e348b22d9e8977dff4b83a06b8c5f8bbb48f2e6d2fbc33b5aac2fd",
+      "display_sha256": "9a7bc8b5c6573dde90e759718ce319f2989821f491f2c336131dfd0e1fafe100",
+      "display_blob_sha": "312085dd947aef7eac627e27d0e5dab79f98c4ea",
+      "display_original_site_sha256": "445cf94627e348b22d9e8977dff4b83a06b8c5f8bbb48f2e6d2fbc33b5aac2fd",
+      "display_original_blob_sha": "a510fe57af179747b86f46afc2cba2d254f7bda2",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 624480
     },
     {
       "src": "media/parthenium-hysterophorus/inat-637211346.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd532212ab99579fdc090183691fe3ac7e471391",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349320554, photo 637211346, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 66ba87334fc7bf1394db07ace633cedeaa03aac3c39888baa1190964a48cd206. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium hysterophorus maps to indexed species parthenium-hysterophorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "66ba87334fc7bf1394db07ace633cedeaa03aac3c39888baa1190964a48cd206"
+      "sha256": "66ba87334fc7bf1394db07ace633cedeaa03aac3c39888baa1190964a48cd206",
+      "display_sha256": "32523d26b7cc1e6969487abd8264bc2a4192bcf67435c9930360ec16834e430d",
+      "display_blob_sha": "99af30d33f30496a51b3254a4c4561ffe3db2d5a",
+      "display_original_site_sha256": "66ba87334fc7bf1394db07ace633cedeaa03aac3c39888baa1190964a48cd206",
+      "display_original_blob_sha": "fd532212ab99579fdc090183691fe3ac7e471391",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 694262
     },
     {
       "src": "media/parthenium-hysterophorus/inat-644492778.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3a2b9aa19d7236603f5893992f999e028667982",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353195223, photo 644492778, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7bbe2af8af0af92b0b7b8f4e22c8767c8954429e1f166ab006171c21059b8e93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium hysterophorus maps to indexed species parthenium-hysterophorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "7bbe2af8af0af92b0b7b8f4e22c8767c8954429e1f166ab006171c21059b8e93"
+      "sha256": "7bbe2af8af0af92b0b7b8f4e22c8767c8954429e1f166ab006171c21059b8e93",
+      "display_sha256": "58e96c29f65eff4cb3d7e82eb691ad909845da861da8a2be966479da04eb2b5e",
+      "display_blob_sha": "890284a049282fffff91646324560a7c892b990e",
+      "display_original_site_sha256": "7bbe2af8af0af92b0b7b8f4e22c8767c8954429e1f166ab006171c21059b8e93",
+      "display_original_blob_sha": "f3a2b9aa19d7236603f5893992f999e028667982",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 614567
     },
     {
       "src": "media/parthenium-hysterophorus/inat-646795949.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2cb679c49c00a64f8d70b1c79159524ceac74d90",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354569694, photo 646795949, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 220137e9976879dea4aee70b2b928a821cf054889780460f01bee70d9c735a70. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium hysterophorus maps to indexed species parthenium-hysterophorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "220137e9976879dea4aee70b2b928a821cf054889780460f01bee70d9c735a70"
+      "sha256": "220137e9976879dea4aee70b2b928a821cf054889780460f01bee70d9c735a70",
+      "display_sha256": "ec1ebdc21feabcd4f981e4c79911812788b888f9775532ee3359a84b713dd575",
+      "display_blob_sha": "45c2ba14b1567e5523476c9b09cb310cd6561a64",
+      "display_original_site_sha256": "220137e9976879dea4aee70b2b928a821cf054889780460f01bee70d9c735a70",
+      "display_original_blob_sha": "2cb679c49c00a64f8d70b1c79159524ceac74d90",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 760539
     },
     {
       "src": "media/parthenium-hysterophorus/inat-646819299.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2326f76b74fbc3315e909084997050b22be1215b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354583488, photo 646819299, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da2da4aa1d7bf55e605ac06463c45638e550482942f4c0213bcc7a032d2fb3fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Parthenium hysterophorus maps to indexed species parthenium-hysterophorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "da2da4aa1d7bf55e605ac06463c45638e550482942f4c0213bcc7a032d2fb3fc"
+      "sha256": "da2da4aa1d7bf55e605ac06463c45638e550482942f4c0213bcc7a032d2fb3fc",
+      "display_sha256": "0f0d956c181a2a51dd7fa0ed5308e274cd3b02d9076ab4e20408e207c118dc52",
+      "display_blob_sha": "93c5e24dbe45b63d0e696771e4b8e1854afeeaf0",
+      "display_original_site_sha256": "da2da4aa1d7bf55e605ac06463c45638e550482942f4c0213bcc7a032d2fb3fc",
+      "display_original_blob_sha": "2326f76b74fbc3315e909084997050b22be1215b",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 757116
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a19012530c0a3001381694b3aa319fdb5fa7410",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341545154, photo 621789166, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45c7354a9b1258d4049d8b63ad7bfd1de4d3356cacc012119b296d3f6a749a87. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera obovata maps to indexed species packera-obovata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "45c7354a9b1258d4049d8b63ad7bfd1de4d3356cacc012119b296d3f6a749a87"
+      "sha256": "45c7354a9b1258d4049d8b63ad7bfd1de4d3356cacc012119b296d3f6a749a87",
+      "display_sha256": "a40483d64f74a6588e4e46e570fbd1fc15cf9789ac488cb3ba4932dd2c38ac9c",
+      "display_blob_sha": "15c1b39bed98c31c6fd14ef694ea8cba5ed0216b",
+      "display_original_site_sha256": "45c7354a9b1258d4049d8b63ad7bfd1de4d3356cacc012119b296d3f6a749a87",
+      "display_original_blob_sha": "1a19012530c0a3001381694b3aa319fdb5fa7410",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 478337
     },
     {
       "src": "media/packera-obovata/inat-622546235.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8e64eab5e7d4b63a6372ec38777052b1032b556",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341917932, photo 622546235, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75dcfeb619086274543e4703f08d4679c78ea583175822cd791a6181191f8f22. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera obovata maps to indexed species packera-obovata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "75dcfeb619086274543e4703f08d4679c78ea583175822cd791a6181191f8f22"
+      "sha256": "75dcfeb619086274543e4703f08d4679c78ea583175822cd791a6181191f8f22",
+      "display_sha256": "804973b032ed8988bf626fafb37d081fb4bdb7ecc38d2d594919e71d3f56a619",
+      "display_blob_sha": "0e3e659c4c13b7ea439ec81ee6fa2ea8bd41cc58",
+      "display_original_site_sha256": "75dcfeb619086274543e4703f08d4679c78ea583175822cd791a6181191f8f22",
+      "display_original_blob_sha": "e8e64eab5e7d4b63a6372ec38777052b1032b556",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 726891
     },
     {
       "src": "media/packera-obovata/inat-625043753.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6ba56425a4930d83175be19b2648d9bf5a949397",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343163833, photo 625043753, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 980e522f7b5069e20d0b03688580ed4de5d77d2f7c781ea0472ece6d21cacc58. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera obovata maps to indexed species packera-obovata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "980e522f7b5069e20d0b03688580ed4de5d77d2f7c781ea0472ece6d21cacc58"
+      "sha256": "980e522f7b5069e20d0b03688580ed4de5d77d2f7c781ea0472ece6d21cacc58",
+      "display_sha256": "ea82228130f820495f9aa8a87baba0a53d68b588a40c595e21e9ab7240bc828d",
+      "display_blob_sha": "569641bcf700cad4917d82dca581d8fd14fd6c12",
+      "display_original_site_sha256": "980e522f7b5069e20d0b03688580ed4de5d77d2f7c781ea0472ece6d21cacc58",
+      "display_original_blob_sha": "6ba56425a4930d83175be19b2648d9bf5a949397",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 758071
     },
     {
       "src": "media/packera-obovata/inat-625115657.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e13a36f58c3522a3bb5025e2fe1314b0e0fcbb9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343199020, photo 625115657, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 776acac1adc8374c78eba54ab9f353e93a0f44c9a3b52000e8575b39c1d39ac8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera obovata maps to indexed species packera-obovata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "776acac1adc8374c78eba54ab9f353e93a0f44c9a3b52000e8575b39c1d39ac8"
+      "sha256": "776acac1adc8374c78eba54ab9f353e93a0f44c9a3b52000e8575b39c1d39ac8",
+      "display_sha256": "93b3784206f41f54c266d6d897671d47364601a93e57e04df10a7f68120d4952",
+      "display_blob_sha": "3eba3680aee133b6f90442605f3d853cfa2ed3e5",
+      "display_original_site_sha256": "776acac1adc8374c78eba54ab9f353e93a0f44c9a3b52000e8575b39c1d39ac8",
+      "display_original_blob_sha": "1e13a36f58c3522a3bb5025e2fe1314b0e0fcbb9",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 458827
     },
     {
       "src": "media/packera-obovata/inat-630292322.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "161510b42d06e37e31067e357e969b349b903b51",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345823583, photo 630292322, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a18a8fe597e2b6e976ebb8ef81cfb24f5602544788d7786bcfc128f824bae8a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Packera obovata maps to indexed species packera-obovata (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "a18a8fe597e2b6e976ebb8ef81cfb24f5602544788d7786bcfc128f824bae8a1"
+      "sha256": "a18a8fe597e2b6e976ebb8ef81cfb24f5602544788d7786bcfc128f824bae8a1",
+      "display_sha256": "79b1f68ab803d2308fca244c578061ec5d94def00e2baafbeceee6a67fe398ba",
+      "display_blob_sha": "20d58bb31cc3afcb4fe4f5ff554b69124dbc631c",
+      "display_original_site_sha256": "a18a8fe597e2b6e976ebb8ef81cfb24f5602544788d7786bcfc128f824bae8a1",
+      "display_original_blob_sha": "161510b42d06e37e31067e357e969b349b903b51",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 733115
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

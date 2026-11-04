@@ -97,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "378f10b3acd4304b2fba1922cc51811c0445099a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +105,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 168121228, photo 291320085, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 925a7e1fc82392f82b8b28c07749372d0f4ef43ec3c5bb0eabb7844f87ba5e6c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acourtia wrightii maps to indexed species acourtia-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "925a7e1fc82392f82b8b28c07749372d0f4ef43ec3c5bb0eabb7844f87ba5e6c"
+      "sha256": "925a7e1fc82392f82b8b28c07749372d0f4ef43ec3c5bb0eabb7844f87ba5e6c",
+      "display_sha256": "f3342b67788ce691a0772cd4e325eea710ad42769cfdee508c7c2efa2de8ba00",
+      "display_blob_sha": "ee6bb60583ac54357c53c5089961705f6178502f",
+      "display_original_site_sha256": "925a7e1fc82392f82b8b28c07749372d0f4ef43ec3c5bb0eabb7844f87ba5e6c",
+      "display_original_blob_sha": "378f10b3acd4304b2fba1922cc51811c0445099a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 413402
     },
     {
       "src": "media/acourtia-wrightii/inat-574709450.jpg",
@@ -116,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "74e262391403456a42fab8bc21dc5d05851e29aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 318015170, photo 574709450, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a342d491e177aed5bb7e67ed6074032d54f3510ea21a95173dbaedf1e7ed0e4c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Acourtia wrightii maps to indexed species acourtia-wrightii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a342d491e177aed5bb7e67ed6074032d54f3510ea21a95173dbaedf1e7ed0e4c"
+      "sha256": "a342d491e177aed5bb7e67ed6074032d54f3510ea21a95173dbaedf1e7ed0e4c",
+      "display_sha256": "ade319bffd6ec6132d70cc0b84d6a46be793fe7f509ce49e2cd8fd16f62b3712",
+      "display_blob_sha": "4a1aaa606ecacd27ad8e1d06a1955c51c9bbb486",
+      "display_original_site_sha256": "a342d491e177aed5bb7e67ed6074032d54f3510ea21a95173dbaedf1e7ed0e4c",
+      "display_original_blob_sha": "74e262391403456a42fab8bc21dc5d05851e29aa",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 762127
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

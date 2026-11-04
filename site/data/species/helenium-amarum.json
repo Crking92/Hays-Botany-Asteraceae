@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c9e43591005ac30bad25085d62bc38781ad6f24",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349336610, photo 637241583, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a0b6f35853ae9cb930b379822bd81142d233cfa46d3c8a27cc43fe96711bd2d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium amarum agrees with indexed species helenium-amarum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3a0b6f35853ae9cb930b379822bd81142d233cfa46d3c8a27cc43fe96711bd2d"
+      "sha256": "3a0b6f35853ae9cb930b379822bd81142d233cfa46d3c8a27cc43fe96711bd2d",
+      "display_sha256": "7f7237551aa8f6a436e5497517c8b07da799e99315482f57a5d6af480441eb4b",
+      "display_blob_sha": "46e62d5e1a353e275b42ca131780b034155d0390",
+      "display_original_site_sha256": "3a0b6f35853ae9cb930b379822bd81142d233cfa46d3c8a27cc43fe96711bd2d",
+      "display_original_blob_sha": "3c9e43591005ac30bad25085d62bc38781ad6f24",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 542554
     },
     {
       "src": "media/helenium-amarum/inat-644293589.jpg",
@@ -86,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "75b6cc45091468ecb018410781219a88f429ae70",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +105,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353114750, photo 644293589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b90e9aab82567d516a2a6da092c8c994d9685ce54b10d746c5b432bcf69a3745. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium amarum agrees with indexed species helenium-amarum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b90e9aab82567d516a2a6da092c8c994d9685ce54b10d746c5b432bcf69a3745"
+      "sha256": "b90e9aab82567d516a2a6da092c8c994d9685ce54b10d746c5b432bcf69a3745",
+      "display_sha256": "ea3ac6bb06bedbeefaa0347eaf87bde74ce24abdad3e1dc0f8a95c9c99f498e6",
+      "display_blob_sha": "d653c7ed549b1b18406dc123ed3f3942418a58bb",
+      "display_original_site_sha256": "b90e9aab82567d516a2a6da092c8c994d9685ce54b10d746c5b432bcf69a3745",
+      "display_original_blob_sha": "75b6cc45091468ecb018410781219a88f429ae70",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 620007
     },
     {
       "src": "media/helenium-amarum/inat-646476682.jpg",
@@ -105,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8080d629628a8a3b2b36862d31cf44da0db6e74",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +135,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354373709, photo 646476682, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 74372d6f7af60198e8fa91ee911c45fae178335caa444fe79b4bcf38844a4d64. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium amarum agrees with indexed species helenium-amarum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "74372d6f7af60198e8fa91ee911c45fae178335caa444fe79b4bcf38844a4d64"
+      "sha256": "74372d6f7af60198e8fa91ee911c45fae178335caa444fe79b4bcf38844a4d64",
+      "display_sha256": "9fa5c85d4545c6b1ca8609f5a31f5144aa4f7a9f8952232ea3caca5838f19dc2",
+      "display_blob_sha": "010e4bb74acb25229a33fe15259c0f76dc27f9e6",
+      "display_original_site_sha256": "74372d6f7af60198e8fa91ee911c45fae178335caa444fe79b4bcf38844a4d64",
+      "display_original_blob_sha": "c8080d629628a8a3b2b36862d31cf44da0db6e74",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 735432
     },
     {
       "src": "media/helenium-amarum/inat-648102522.jpg",
@@ -124,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff9a6fa0e0cce625d5b47bee34f00aca5439163a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +165,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355356249, photo 648102522, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2bbba29118d05945f41bb9b0a4d94aed36eb6004cbdb3efe33f01d553fe96548. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium amarum agrees with indexed species helenium-amarum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2bbba29118d05945f41bb9b0a4d94aed36eb6004cbdb3efe33f01d553fe96548"
+      "sha256": "2bbba29118d05945f41bb9b0a4d94aed36eb6004cbdb3efe33f01d553fe96548",
+      "display_sha256": "263f4b1a6df1d9142f5d7a204f3ae335c7a73548cba8cb463d406f2eb2e95279",
+      "display_blob_sha": "16d81799ee6bff43420dcb2d783c15d191ee08ed",
+      "display_original_site_sha256": "2bbba29118d05945f41bb9b0a4d94aed36eb6004cbdb3efe33f01d553fe96548",
+      "display_original_blob_sha": "ff9a6fa0e0cce625d5b47bee34f00aca5439163a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 735254
     },
     {
       "src": "media/helenium-amarum/inat-660168555.jpg",
@@ -143,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7935e970a56a5883e69629c4b4ab938471334522",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -151,7 +195,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 361723598, photo 660168555, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4753ad4e3af2e438a85b96f9b3ab5fe95ce0b849cfe1a05f255da2e53fc5c6a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium amarum agrees with indexed species helenium-amarum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "4753ad4e3af2e438a85b96f9b3ab5fe95ce0b849cfe1a05f255da2e53fc5c6a6"
+      "sha256": "4753ad4e3af2e438a85b96f9b3ab5fe95ce0b849cfe1a05f255da2e53fc5c6a6",
+      "display_sha256": "88b4c070b4147f2953f21ee484af69ad17aa7711dbfa1002ce2408ad96b7e30a",
+      "display_blob_sha": "bd2d6563acc2977214fbef04a8f6cb6a4d439bd8",
+      "display_original_site_sha256": "4753ad4e3af2e438a85b96f9b3ab5fe95ce0b849cfe1a05f255da2e53fc5c6a6",
+      "display_original_blob_sha": "7935e970a56a5883e69629c4b4ab938471334522",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 679444
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "459b2e1c41e3b21e50057ede0fe93c0d08d0823a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 201475031, photo 355660456, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96a118a934b2a41aaf98cdb78aa39ce5f5b5287bb9599140c4eee77a4e8ea49e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia candida agrees with indexed species diaperia-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "96a118a934b2a41aaf98cdb78aa39ce5f5b5287bb9599140c4eee77a4e8ea49e"
+      "sha256": "96a118a934b2a41aaf98cdb78aa39ce5f5b5287bb9599140c4eee77a4e8ea49e",
+      "display_sha256": "688279935f2178a735a6971020a414e5c5360e103d4c38b42c71580b35d534fb",
+      "display_blob_sha": "9cd8732b79d265e96b51b61c592a2cc307cea5ef",
+      "display_original_site_sha256": "96a118a934b2a41aaf98cdb78aa39ce5f5b5287bb9599140c4eee77a4e8ea49e",
+      "display_original_blob_sha": "459b2e1c41e3b21e50057ede0fe93c0d08d0823a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 650045
     },
     {
       "src": "media/diaperia-candida/inat-484943705.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "73b1ce0ecc6f8045bba4fded002f478eb0ba2888",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 269696717, photo 484943705, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b3b50ebf055a99b32654b8e2ce7a100fde98e28451b841ce5d429dec30d235e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia candida agrees with indexed species diaperia-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b3b50ebf055a99b32654b8e2ce7a100fde98e28451b841ce5d429dec30d235e6"
+      "sha256": "b3b50ebf055a99b32654b8e2ce7a100fde98e28451b841ce5d429dec30d235e6",
+      "display_sha256": "68d5d2380322e904283e3d4acb0bac13de610553f4e5ab15bf861ecaa75b6f28",
+      "display_blob_sha": "1fe167dbb224fc8fb9a0e34465bcb6c31ca97dd5",
+      "display_original_site_sha256": "b3b50ebf055a99b32654b8e2ce7a100fde98e28451b841ce5d429dec30d235e6",
+      "display_original_blob_sha": "73b1ce0ecc6f8045bba4fded002f478eb0ba2888",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1539
+      ],
+      "display_bytes": 409854
     },
     {
       "src": "media/diaperia-candida/inat-486544240.jpg",
@@ -91,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a8d8404c7143df111ddbceddef46fd79c42d7a3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +121,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348596231, photo 635756702, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4c5686938641391094cd71d3ace691d84e169814cb5d03070dd084b1313c380. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia candida agrees with indexed species diaperia-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d4c5686938641391094cd71d3ace691d84e169814cb5d03070dd084b1313c380"
+      "sha256": "d4c5686938641391094cd71d3ace691d84e169814cb5d03070dd084b1313c380",
+      "display_sha256": "6687d84dcfcab0590efba921f63f4ea7e47ab17d5188ea15b45dd06f8831acaf",
+      "display_blob_sha": "ee80a6ab4b187c80e8b129b97f5b07f1571cea3c",
+      "display_original_site_sha256": "d4c5686938641391094cd71d3ace691d84e169814cb5d03070dd084b1313c380",
+      "display_original_blob_sha": "1a8d8404c7143df111ddbceddef46fd79c42d7a3",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 388779
     },
     {
       "src": "media/diaperia-candida/inat-647505220.jpg",
@@ -110,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "096fec1e288511ca78c0f4e376d1f36d9329b007",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +151,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354973540, photo 647505220, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: fb40911d6f84b0e13734bfb88895638729a73829f32aaea609c43524dce8dd54. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Diaperia candida agrees with indexed species diaperia-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fb40911d6f84b0e13734bfb88895638729a73829f32aaea609c43524dce8dd54"
+      "sha256": "fb40911d6f84b0e13734bfb88895638729a73829f32aaea609c43524dce8dd54",
+      "display_sha256": "eb8fcb2696f83967ff2c0751965e8b455b5d593f6f98fa445dae585b5db4a4fb",
+      "display_blob_sha": "c439c5bd702bbc18c48493c7b52bca0fce88d290",
+      "display_original_site_sha256": "fb40911d6f84b0e13734bfb88895638729a73829f32aaea609c43524dce8dd54",
+      "display_original_blob_sha": "096fec1e288511ca78c0f4e376d1f36d9329b007",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 771431
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

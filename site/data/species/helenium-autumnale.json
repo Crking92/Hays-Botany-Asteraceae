@@ -75,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7ff4f29c53628823a0892b7e12cdf0030cd00779",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +83,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 234506932, photo 416905727, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f29b7b16a381b73527a65730bd6d029929b83c8ded7de4e8a312d940759b8979. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium autumnale agrees with indexed species helenium-autumnale; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "f29b7b16a381b73527a65730bd6d029929b83c8ded7de4e8a312d940759b8979"
+      "sha256": "f29b7b16a381b73527a65730bd6d029929b83c8ded7de4e8a312d940759b8979",
+      "display_sha256": "fed25dd2e1c0a8fab6fc099314bb31d5d4368c273ce3edb67cd333e8f33782f0",
+      "display_blob_sha": "d999fca845b9dcc0ae30fd8730243008c4df6938",
+      "display_original_site_sha256": "f29b7b16a381b73527a65730bd6d029929b83c8ded7de4e8a312d940759b8979",
+      "display_original_blob_sha": "7ff4f29c53628823a0892b7e12cdf0030cd00779",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 778215
     },
     {
       "src": "media/helenium-autumnale/inat-567547774.jpg",
@@ -94,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b72c94aa0ec0ba706f042419d575b6aff021a359",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +113,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 314233485, photo 567547774, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0688f9cfd4c3332e6312bfe75f8f18f609b6d23df59562532b1a1e8e7e1bc9c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium autumnale agrees with indexed species helenium-autumnale; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0688f9cfd4c3332e6312bfe75f8f18f609b6d23df59562532b1a1e8e7e1bc9c3"
+      "sha256": "0688f9cfd4c3332e6312bfe75f8f18f609b6d23df59562532b1a1e8e7e1bc9c3",
+      "display_sha256": "9aa80d733fbb5e160b2bcf85485b5d5390a31bdd22b93b8704defc0cecc2fe19",
+      "display_blob_sha": "71c7e8a85365927ea4fc4af2bef0d453d984f907",
+      "display_original_site_sha256": "0688f9cfd4c3332e6312bfe75f8f18f609b6d23df59562532b1a1e8e7e1bc9c3",
+      "display_original_blob_sha": "b72c94aa0ec0ba706f042419d575b6aff021a359",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 761836
     },
     {
       "src": "media/helenium-autumnale/inat-69224151.jpg",
@@ -113,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ea6d7ee6fec7a4684331605e453072f2620ebe17",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +143,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 43637386, photo 69224151, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 97a42eef2fd2c67ddced1d73d680ddc81acb54b573300a44aaa70f8d4251d668. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium autumnale agrees with indexed species helenium-autumnale; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "97a42eef2fd2c67ddced1d73d680ddc81acb54b573300a44aaa70f8d4251d668"
+      "sha256": "97a42eef2fd2c67ddced1d73d680ddc81acb54b573300a44aaa70f8d4251d668",
+      "display_sha256": "a61978f30b89a252f136442633d41377f8b745cfb7155e03c32556ae35acb2ab",
+      "display_blob_sha": "a023badde28f1e8b7392ba569fd778b5fbd376cd",
+      "display_original_site_sha256": "97a42eef2fd2c67ddced1d73d680ddc81acb54b573300a44aaa70f8d4251d668",
+      "display_original_blob_sha": "ea6d7ee6fec7a4684331605e453072f2620ebe17",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 661953
     },
     {
       "src": "media/helenium-autumnale/inat-726595525.jpg",
@@ -132,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63350a320379402f78c2f93207bc708cbc27196c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +173,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 396214901, photo 726595525, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf61f425df675d6d8447fcd70fbf01c302a5ea0ff5ef318afaf7f526e0d15ddd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium autumnale agrees with indexed species helenium-autumnale; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "cf61f425df675d6d8447fcd70fbf01c302a5ea0ff5ef318afaf7f526e0d15ddd"
+      "sha256": "cf61f425df675d6d8447fcd70fbf01c302a5ea0ff5ef318afaf7f526e0d15ddd",
+      "display_sha256": "9ffde45d2fcbfdf2a5d475381afcad59e0f9ac88a794fe228c29a06d5bb290f0",
+      "display_blob_sha": "fe8c2d56d36efd46458e8d51dcd10c8e85bf764d",
+      "display_original_site_sha256": "cf61f425df675d6d8447fcd70fbf01c302a5ea0ff5ef318afaf7f526e0d15ddd",
+      "display_original_blob_sha": "63350a320379402f78c2f93207bc708cbc27196c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 654272
     },
     {
       "src": "media/helenium-autumnale/inat-728416282.jpg",
@@ -151,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "153322d5d8e31a5738f5b535eae43104476fbe31",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +203,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 397164779, photo 728416282, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 938cd47b469eb2fba29fefd054a3a26c458521d3aa672b0170b46a8aef1c001b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Helenium autumnale agrees with indexed species helenium-autumnale; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "938cd47b469eb2fba29fefd054a3a26c458521d3aa672b0170b46a8aef1c001b"
+      "sha256": "938cd47b469eb2fba29fefd054a3a26c458521d3aa672b0170b46a8aef1c001b",
+      "display_sha256": "b18480050668e755d390859f418097b1e637f29cdfe6e51d8a2db64773407d6c",
+      "display_blob_sha": "b395726c224ee3790ed3a2f7a681062bb7703baf",
+      "display_original_site_sha256": "938cd47b469eb2fba29fefd054a3a26c458521d3aa672b0170b46a8aef1c001b",
+      "display_original_blob_sha": "153322d5d8e31a5738f5b535eae43104476fbe31",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 744269
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

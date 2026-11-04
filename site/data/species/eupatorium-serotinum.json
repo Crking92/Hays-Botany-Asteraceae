@@ -85,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9286d725c379fbf2ad40f951c57f37ea918780ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +93,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 73037743, photo 119190026, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bcb0109ca16479a224befd67c3561c1b0458de02c50c071de3fedbab6bf2c400. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eupatorium serotinum agrees with indexed species eupatorium-serotinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "bcb0109ca16479a224befd67c3561c1b0458de02c50c071de3fedbab6bf2c400"
+      "sha256": "bcb0109ca16479a224befd67c3561c1b0458de02c50c071de3fedbab6bf2c400",
+      "display_sha256": "938c3093777c6ff0110acb0f125fa0da6d59a1742c8694262859c020436979df",
+      "display_blob_sha": "f1bb313a262f94941a3545bba8e86f014fff9d63",
+      "display_original_site_sha256": "bcb0109ca16479a224befd67c3561c1b0458de02c50c071de3fedbab6bf2c400",
+      "display_original_blob_sha": "9286d725c379fbf2ad40f951c57f37ea918780ce",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1586,
+        2048
+      ],
+      "display_bytes": 754367
     },
     {
       "src": "media/eupatorium-serotinum/inat-264742108.jpg",
@@ -104,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6397af87e50cab2f514eeee6d1054e5083c17630",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +123,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 153291405, photo 264742108, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b05dfad853a2f3b7e4a66c712f0043653368d91e233a20286daebd221281bbbb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eupatorium serotinum agrees with indexed species eupatorium-serotinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b05dfad853a2f3b7e4a66c712f0043653368d91e233a20286daebd221281bbbb"
+      "sha256": "b05dfad853a2f3b7e4a66c712f0043653368d91e233a20286daebd221281bbbb",
+      "display_sha256": "1a0f5212be0cd386c3203ea12156ca1f826b94c4bc4652cc5f27f2702a2580be",
+      "display_blob_sha": "ff3c35b5ac8619cebd493ddf137f778d88bb3d6e",
+      "display_original_site_sha256": "b05dfad853a2f3b7e4a66c712f0043653368d91e233a20286daebd221281bbbb",
+      "display_original_blob_sha": "6397af87e50cab2f514eeee6d1054e5083c17630",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 521556
     },
     {
       "src": "media/eupatorium-serotinum/inat-278308017.jpg",
@@ -123,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c549fd97e612c7d154b1119e96358cc319b0b8a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +153,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 161027595, photo 278308017, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a936d52bc43cb9091127ae3fb023ee7d89222dc7bdf7934794146db76b68e52e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eupatorium serotinum agrees with indexed species eupatorium-serotinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a936d52bc43cb9091127ae3fb023ee7d89222dc7bdf7934794146db76b68e52e"
+      "sha256": "a936d52bc43cb9091127ae3fb023ee7d89222dc7bdf7934794146db76b68e52e",
+      "display_sha256": "d2cead15ab04a10cd892c8c32c619465ca2fa12e9b38701250daff812915bca9",
+      "display_blob_sha": "0bce88b8c903bca9ad311d6da72415ecb1e766f6",
+      "display_original_site_sha256": "a936d52bc43cb9091127ae3fb023ee7d89222dc7bdf7934794146db76b68e52e",
+      "display_original_blob_sha": "4c549fd97e612c7d154b1119e96358cc319b0b8a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 592967
     },
     {
       "src": "media/eupatorium-serotinum/inat-376979631.jpg",
@@ -142,7 +175,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e4a38bc6a24a67ee50e74ee7c876ef412889644a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +183,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 213312688, photo 376979631, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98f230b0596fe59f4c3893cc9f07b82fd48a3056e4655625b613bc7a81580962. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eupatorium serotinum agrees with indexed species eupatorium-serotinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "98f230b0596fe59f4c3893cc9f07b82fd48a3056e4655625b613bc7a81580962"
+      "sha256": "98f230b0596fe59f4c3893cc9f07b82fd48a3056e4655625b613bc7a81580962",
+      "display_sha256": "27549c9766a02219f1d4637b03ede3f5d22a0cbdfe85f9f333ef0b9dfcc10f37",
+      "display_blob_sha": "bd958b03e0a2e74b40a09f571154683a0e7b4210",
+      "display_original_site_sha256": "98f230b0596fe59f4c3893cc9f07b82fd48a3056e4655625b613bc7a81580962",
+      "display_original_blob_sha": "e4a38bc6a24a67ee50e74ee7c876ef412889644a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 760531
     },
     {
       "src": "media/eupatorium-serotinum/inat-646800228.jpg",
@@ -161,7 +205,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f473d7ceddbe7c40964ea03b5db9af777536a3ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +213,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354572219, photo 646800228, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee478d5fa098e647cff77c9202a178ecd2a06a57141f34bc352eba12a784fe46. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Eupatorium serotinum agrees with indexed species eupatorium-serotinum; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ee478d5fa098e647cff77c9202a178ecd2a06a57141f34bc352eba12a784fe46"
+      "sha256": "ee478d5fa098e647cff77c9202a178ecd2a06a57141f34bc352eba12a784fe46",
+      "display_sha256": "1529c4392ebc36f9d7f3b63b7c25aa3a099c8b232284b4d7683b20a29a153157",
+      "display_blob_sha": "8dcd9b27bedaf1886e51c3583eb39772a713d616",
+      "display_original_site_sha256": "ee478d5fa098e647cff77c9202a178ecd2a06a57141f34bc352eba12a784fe46",
+      "display_original_blob_sha": "f473d7ceddbe7c40964ea03b5db9af777536a3ec",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 709100
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

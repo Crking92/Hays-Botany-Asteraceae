@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c1e2ace9534a91b3677f7a1193c4c234fb1f73fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354851017, photo 647282956, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 604af506c8fe8ca3be86bca97ff9ac94712dbe35e8395fa9e1fc2afc29b5f816. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva annua agrees with indexed species iva-annua; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "604af506c8fe8ca3be86bca97ff9ac94712dbe35e8395fa9e1fc2afc29b5f816"
+      "sha256": "604af506c8fe8ca3be86bca97ff9ac94712dbe35e8395fa9e1fc2afc29b5f816",
+      "display_sha256": "53c99d935c8f7f6c9e417ebe68a33e8781f3ffd584775bba2c7586650f2dfb91",
+      "display_blob_sha": "dfd551fdac740ea3177ff40f17e55d6a2a8e1f6a",
+      "display_original_site_sha256": "604af506c8fe8ca3be86bca97ff9ac94712dbe35e8395fa9e1fc2afc29b5f816",
+      "display_original_blob_sha": "c1e2ace9534a91b3677f7a1193c4c234fb1f73fe",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 776171
     },
     {
       "src": "media/iva-annua/inat-676888996.jpg",
@@ -77,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e92edd90a66db80ee5572df28852e01a2a720375",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +96,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370521800, photo 676888996, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea69829a5221ecf7f0e246ac226976f87f7b367a9b42b919562527e59e3ba010. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva annua agrees with indexed species iva-annua; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ea69829a5221ecf7f0e246ac226976f87f7b367a9b42b919562527e59e3ba010"
+      "sha256": "ea69829a5221ecf7f0e246ac226976f87f7b367a9b42b919562527e59e3ba010",
+      "display_sha256": "fcf733a4e5435acf33cade6677f18dfa9dfae80554d2023e039d9fe86c404152",
+      "display_blob_sha": "5a7fd1baa2ea6275ef1cd00601136136d9463d58",
+      "display_original_site_sha256": "ea69829a5221ecf7f0e246ac226976f87f7b367a9b42b919562527e59e3ba010",
+      "display_original_blob_sha": "e92edd90a66db80ee5572df28852e01a2a720375",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 440296
     },
     {
       "src": "media/iva-annua/inat-704683595.jpg",
@@ -96,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4139860e831a262deb5a8ecd9fca8445a484b174",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +126,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 384437850, photo 704683595, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79355c4b993ab5e2cdd40eddb38267c9c7d53821a3c747e00e6a23619e6104fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Iva annua agrees with indexed species iva-annua; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "79355c4b993ab5e2cdd40eddb38267c9c7d53821a3c747e00e6a23619e6104fd"
+      "sha256": "79355c4b993ab5e2cdd40eddb38267c9c7d53821a3c747e00e6a23619e6104fd",
+      "display_sha256": "7be7f616971b37f95a25b5d03df4516eb732ed51f66c6c0e19a95382fdb372ba",
+      "display_blob_sha": "3725e0c1db752b98765b9880dfde1bef3205c4b7",
+      "display_original_site_sha256": "79355c4b993ab5e2cdd40eddb38267c9c7d53821a3c747e00e6a23619e6104fd",
+      "display_original_blob_sha": "4139860e831a262deb5a8ecd9fca8445a484b174",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 575222
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

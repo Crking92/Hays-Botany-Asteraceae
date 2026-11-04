@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3b120cf841c0bd3b5994d0ac1fb34389444e1991",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340828622, photo 620314468, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 504c7af8f4836c0b545d94e74059930ade218bd71924a38f940af966c67b5407. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lindheimera texana maps to indexed species lindheimera-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "504c7af8f4836c0b545d94e74059930ade218bd71924a38f940af966c67b5407"
+      "sha256": "504c7af8f4836c0b545d94e74059930ade218bd71924a38f940af966c67b5407",
+      "display_sha256": "8946c45c53cf1113cdb1df1626b817253edca4d9a5473816a37e15cbd5594adc",
+      "display_blob_sha": "6a9f37c40ab3fc44ee5145c37dc95ffae5e872b4",
+      "display_original_site_sha256": "504c7af8f4836c0b545d94e74059930ade218bd71924a38f940af966c67b5407",
+      "display_original_blob_sha": "3b120cf841c0bd3b5994d0ac1fb34389444e1991",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1542
+      ],
+      "display_bytes": 675742
     },
     {
       "src": "media/lindheimera-texana/inat-628673919.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9001fd45abee756de9c700723e2aec6644ed58e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345002856, photo 628673919, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7351577ef634d45f9fcf794067df99c28a065cae8573c358f38333757582747a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lindheimera texana maps to indexed species lindheimera-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "7351577ef634d45f9fcf794067df99c28a065cae8573c358f38333757582747a"
+      "sha256": "7351577ef634d45f9fcf794067df99c28a065cae8573c358f38333757582747a",
+      "display_sha256": "b0b075a1c58797efe4eb4639ae0022d6edd4ac2f56187b4d9f922f5660321fba",
+      "display_blob_sha": "5e8832f7c553e5355eda594463e1983611f6f71c",
+      "display_original_site_sha256": "7351577ef634d45f9fcf794067df99c28a065cae8573c358f38333757582747a",
+      "display_original_blob_sha": "a9001fd45abee756de9c700723e2aec6644ed58e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1570,
+        2048
+      ],
+      "display_bytes": 508387
     },
     {
       "src": "media/lindheimera-texana/inat-629498771.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "a1c1ecc7c71f2bbd423d806e4c4a726be63000cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345418501, photo 629498771, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44c615c98c4121f1c7bbbdf93e4eca9f76dd6b4f8fc84a34165af37567c5dc68. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lindheimera texana maps to indexed species lindheimera-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "44c615c98c4121f1c7bbbdf93e4eca9f76dd6b4f8fc84a34165af37567c5dc68"
+      "sha256": "44c615c98c4121f1c7bbbdf93e4eca9f76dd6b4f8fc84a34165af37567c5dc68",
+      "display_sha256": "2d440dc20cf6429d745ce95ae8d64e4579fd21b097093ba4f01cfabd176fa79a",
+      "display_blob_sha": "bba3ddf50d3911c773036e58dc4e4d87e0f0fb91",
+      "display_original_site_sha256": "44c615c98c4121f1c7bbbdf93e4eca9f76dd6b4f8fc84a34165af37567c5dc68",
+      "display_original_blob_sha": "a1c1ecc7c71f2bbd423d806e4c4a726be63000cb",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 471814
     },
     {
       "src": "media/lindheimera-texana/inat-630675344.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eda5e26b72fbce93b59742a43c9644d03e64c00e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346020257, photo 630675344, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b90270fc96bd1c4d7e47b274d2415a20b2e4b7bdda9572f032082cc6ed2337fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lindheimera texana maps to indexed species lindheimera-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "b90270fc96bd1c4d7e47b274d2415a20b2e4b7bdda9572f032082cc6ed2337fc"
+      "sha256": "b90270fc96bd1c4d7e47b274d2415a20b2e4b7bdda9572f032082cc6ed2337fc",
+      "display_sha256": "ee54c9de6824572f9f03f321caafa814c818e53d79ae1a00e1799584f77bb3c9",
+      "display_blob_sha": "0e6a12b87ed487693f0abedfdfc030bead963227",
+      "display_original_site_sha256": "b90270fc96bd1c4d7e47b274d2415a20b2e4b7bdda9572f032082cc6ed2337fc",
+      "display_original_blob_sha": "eda5e26b72fbce93b59742a43c9644d03e64c00e",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 737656
     },
     {
       "src": "media/lindheimera-texana/inat-631053648.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0024807e018e04bdeda97fcbe5608f8ecc57f07",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346211159, photo 631053648, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d60d65930f52d8fdd95619a3d5ebb4e2b0e8ed9496194bf883fcc994ec789982. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Lindheimera texana maps to indexed species lindheimera-texana (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "d60d65930f52d8fdd95619a3d5ebb4e2b0e8ed9496194bf883fcc994ec789982"
+      "sha256": "d60d65930f52d8fdd95619a3d5ebb4e2b0e8ed9496194bf883fcc994ec789982",
+      "display_sha256": "10d43f1c95062a56298c9d8f377751a156fc6ad3d21aaa09a2d21682d742f204",
+      "display_blob_sha": "752fc354a2309340514b6e5d5e9782e8e43746df",
+      "display_original_site_sha256": "d60d65930f52d8fdd95619a3d5ebb4e2b0e8ed9496194bf883fcc994ec789982",
+      "display_original_blob_sha": "f0024807e018e04bdeda97fcbe5608f8ecc57f07",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 698069
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -32,7 +32,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "912d59246bcb7bfc27a0c840a524aaa322c4fd83",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -40,7 +40,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 361554353, photo 659845135, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis wrightii agrees with indexed species coreopsis-wrightii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac"
+      "sha256": "2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac",
+      "display_sha256": "97d6ef6624b572ca3ae5842f2ec4f0497350408d77c74e922f00ca94244949ec",
+      "display_blob_sha": "135ad9c8f86937658bbe5587779e510fb8224ccc",
+      "display_original_site_sha256": "2a59949f2e31e6acb5e5f7ce1849d00e00746575e40a4cdc6458335d518b95ac",
+      "display_original_blob_sha": "912d59246bcb7bfc27a0c840a524aaa322c4fd83",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 763894
     },
     {
       "src": "media/coreopsis-wrightii/inat-660474076.jpg",
@@ -51,7 +62,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a6c731164920dbc4f1e8d3d16c8a05eb0828bad",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -59,7 +70,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 361885260, photo 660474076, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Coreopsis wrightii agrees with indexed species coreopsis-wrightii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1"
+      "sha256": "c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1",
+      "display_sha256": "a5c54473bdd0a09e678f2542b48dcc4be4a452abc5359b2829708e64f1f05663",
+      "display_blob_sha": "343f2cf7b800ddebecba9caf01ca2325866a5f72",
+      "display_original_site_sha256": "c649256a4c0cab8eb5c4a7c25d28f89eeacaeb87609f83890f74c53c8ac178e1",
+      "display_original_blob_sha": "2a6c731164920dbc4f1e8d3d16c8a05eb0828bad",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1776,
+        1776
+      ],
+      "display_bytes": 406043
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

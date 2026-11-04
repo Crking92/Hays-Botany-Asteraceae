@@ -48,7 +48,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1bf9d9e58fc9c4f318f49072cea0ad7173bd41c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -56,7 +56,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 259446051, photo 465734241, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc0913b6e613116df651ca3e46b2060126fc5849487e8bfbba990ecc105e46be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus artemisiifolius agrees with indexed species hymenopappus-artemisiifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fc0913b6e613116df651ca3e46b2060126fc5849487e8bfbba990ecc105e46be"
+      "sha256": "fc0913b6e613116df651ca3e46b2060126fc5849487e8bfbba990ecc105e46be",
+      "display_sha256": "99d6f87172408ae1add19a26432f963d9cb80a64680c69754da6c73a5564d1b3",
+      "display_blob_sha": "cea6f05596fe8c8e47069a832158817b97d2ac9c",
+      "display_original_site_sha256": "fc0913b6e613116df651ca3e46b2060126fc5849487e8bfbba990ecc105e46be",
+      "display_original_blob_sha": "1bf9d9e58fc9c4f318f49072cea0ad7173bd41c0",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 677487
     },
     {
       "src": "media/hymenopappus-artemisiifolius/inat-483162976.jpg",
@@ -67,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d994b325ce14bac1dafb79bc893bf34c944d7742",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +86,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268775499, photo 483162976, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b8a483106625cd90327e1fc6f317f9b12474a8a8b541733a106b772654b71272. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus artemisiifolius agrees with indexed species hymenopappus-artemisiifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b8a483106625cd90327e1fc6f317f9b12474a8a8b541733a106b772654b71272"
+      "sha256": "b8a483106625cd90327e1fc6f317f9b12474a8a8b541733a106b772654b71272",
+      "display_sha256": "56cd8ebfb0db72d98d8df75ee8548604512f2f30fe7be193aa29eae28e258c9a",
+      "display_blob_sha": "0fcf4685a0e88f0c70eecdc6e82e7103feb234fa",
+      "display_original_site_sha256": "b8a483106625cd90327e1fc6f317f9b12474a8a8b541733a106b772654b71272",
+      "display_original_blob_sha": "d994b325ce14bac1dafb79bc893bf34c944d7742",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 692680
     },
     {
       "src": "media/hymenopappus-artemisiifolius/inat-651703668.jpg",
@@ -86,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c08259621d009bbfd9a4d88dbe365e94e4430f7c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +116,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357322728, photo 651703668, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aff64cd561a25c3feeb7eb61fec25ad0baa1bf3bdd9d1f2091a8a58d072cfe02. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus artemisiifolius agrees with indexed species hymenopappus-artemisiifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "aff64cd561a25c3feeb7eb61fec25ad0baa1bf3bdd9d1f2091a8a58d072cfe02"
+      "sha256": "aff64cd561a25c3feeb7eb61fec25ad0baa1bf3bdd9d1f2091a8a58d072cfe02",
+      "display_sha256": "cd786f1bdad1a17dc6ee78db49734e060490cc59e4ec499b461550b134b9c5a9",
+      "display_blob_sha": "569b1859aa297563c762636b1756ea420d2fd519",
+      "display_original_site_sha256": "aff64cd561a25c3feeb7eb61fec25ad0baa1bf3bdd9d1f2091a8a58d072cfe02",
+      "display_original_blob_sha": "c08259621d009bbfd9a4d88dbe365e94e4430f7c",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 339733
     },
     {
       "src": "media/hymenopappus-artemisiifolius/inat-81307901.jpg",
@@ -105,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "50e215cfe7755be14e0c1a84d4843cf2d2b1290a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +146,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 51185008, photo 81307901, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e8e05b5dc45790517bb08d9d8fe79b07ddccb224101f3f143725dac9a7a49d7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus artemisiifolius agrees with indexed species hymenopappus-artemisiifolius; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "8e8e05b5dc45790517bb08d9d8fe79b07ddccb224101f3f143725dac9a7a49d7"
+      "sha256": "8e8e05b5dc45790517bb08d9d8fe79b07ddccb224101f3f143725dac9a7a49d7",
+      "display_sha256": "d5b61e0e1c152b551a59cb423d06705d6d47b55bd54cdeaded56d7dbd4e7573c",
+      "display_blob_sha": "5bd94d9052790133c69a44e0ed191f0b7a6ad8e8",
+      "display_original_site_sha256": "8e8e05b5dc45790517bb08d9d8fe79b07ddccb224101f3f143725dac9a7a49d7",
+      "display_original_blob_sha": "50e215cfe7755be14e0c1a84d4843cf2d2b1290a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 731355
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

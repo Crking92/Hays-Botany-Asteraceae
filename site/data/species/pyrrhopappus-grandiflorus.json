@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f6d9e70b75c33ccc7826f4d44a7537a2293b516",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354925202, photo 647415750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus grandiflorus maps to indexed species pyrrhopappus-grandiflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0"
+      "sha256": "e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0",
+      "display_sha256": "c274c06c784e0af4c521df8cfde26ec5e105713f4e592241f9124c5406cb9ff8",
+      "display_blob_sha": "ebfe68b3c24b3998e827830360be4ac206f0bf05",
+      "display_original_site_sha256": "e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0",
+      "display_original_blob_sha": "2f6d9e70b75c33ccc7826f4d44a7537a2293b516",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        739,
+        2048
+      ],
+      "display_bytes": 423646
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

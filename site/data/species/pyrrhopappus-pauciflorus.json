@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ca1e68b9920d25db3caec021fa3e274a2842d09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340992210, photo 620649736, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c703724b4299d6fee5beee3662bf68880a2d2abe3d86638f998f154f0a17080b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus pauciflorus maps to indexed species pyrrhopappus-pauciflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "c703724b4299d6fee5beee3662bf68880a2d2abe3d86638f998f154f0a17080b"
+      "sha256": "c703724b4299d6fee5beee3662bf68880a2d2abe3d86638f998f154f0a17080b",
+      "display_sha256": "ce3c97f6e1f28ca20acc81c38b345c4766ff26d73c9c7db7d2556978f8c3b73e",
+      "display_blob_sha": "9c196e368a2df454797bc123cd60588b96b29231",
+      "display_original_site_sha256": "c703724b4299d6fee5beee3662bf68880a2d2abe3d86638f998f154f0a17080b",
+      "display_original_blob_sha": "3ca1e68b9920d25db3caec021fa3e274a2842d09",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 738851
     },
     {
       "src": "media/pyrrhopappus-pauciflorus/inat-630924542.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32dd03e0d5f546c059eeed7cc1c55b2d48bad873",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346145155, photo 630924542, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03235ad1c16828d6d22f91359bc23d404b3d7fa05174ece90c0eb478034cf7b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus pauciflorus maps to indexed species pyrrhopappus-pauciflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "03235ad1c16828d6d22f91359bc23d404b3d7fa05174ece90c0eb478034cf7b8"
+      "sha256": "03235ad1c16828d6d22f91359bc23d404b3d7fa05174ece90c0eb478034cf7b8",
+      "display_sha256": "6b5335ab39261b871098e8f932d742adbf3a82ed3d4c191f42e54b318e4207d1",
+      "display_blob_sha": "a3b147819f287084936a50983c22de498ce0d84d",
+      "display_original_site_sha256": "03235ad1c16828d6d22f91359bc23d404b3d7fa05174ece90c0eb478034cf7b8",
+      "display_original_blob_sha": "32dd03e0d5f546c059eeed7cc1c55b2d48bad873",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 456455
     },
     {
       "src": "media/pyrrhopappus-pauciflorus/inat-635203135.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8499374a037fd657f726aeb8bb6c872d79132638",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348301886, photo 635203135, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80a3a451979e360365e84c360de5f4063f44dfe407b75ee2a53980b36cb870bb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus pauciflorus maps to indexed species pyrrhopappus-pauciflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "80a3a451979e360365e84c360de5f4063f44dfe407b75ee2a53980b36cb870bb"
+      "sha256": "80a3a451979e360365e84c360de5f4063f44dfe407b75ee2a53980b36cb870bb",
+      "display_sha256": "6ec6fb9ba74af05f183795dc0eebf51dbf2e919d2eb8387fa2f097013ba6170f",
+      "display_blob_sha": "fe99517aae5fd97e5e305bb7f409a10f0f88b6a4",
+      "display_original_site_sha256": "80a3a451979e360365e84c360de5f4063f44dfe407b75ee2a53980b36cb870bb",
+      "display_original_blob_sha": "8499374a037fd657f726aeb8bb6c872d79132638",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 725523
     },
     {
       "src": "media/pyrrhopappus-pauciflorus/inat-636117864.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd261052a3e7886b788d970920f5296b496167c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348763191, photo 636117864, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c0da5393b62543d4946aa25aaca75b88c37e822a26df3bc982128aeaf8b4b475. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus pauciflorus maps to indexed species pyrrhopappus-pauciflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "c0da5393b62543d4946aa25aaca75b88c37e822a26df3bc982128aeaf8b4b475"
+      "sha256": "c0da5393b62543d4946aa25aaca75b88c37e822a26df3bc982128aeaf8b4b475",
+      "display_sha256": "e49fdeaa7af3f5428d2b13b6281439109a8a0803f44c27e0a0d93378d72a5eb9",
+      "display_blob_sha": "de304db52c224c4e7bc976b823f689450e4beebf",
+      "display_original_site_sha256": "c0da5393b62543d4946aa25aaca75b88c37e822a26df3bc982128aeaf8b4b475",
+      "display_original_blob_sha": "cd261052a3e7886b788d970920f5296b496167c5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 574487
     },
     {
       "src": "media/pyrrhopappus-pauciflorus/inat-641335607.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48c3a564523ca5f3268e184b1b7c3caeca900bbc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351436552, photo 641335607, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e37ad55abf83b92c8135c3a5b2bbdb273c415ce153449eaa691d802c0008d12a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus pauciflorus maps to indexed species pyrrhopappus-pauciflorus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e37ad55abf83b92c8135c3a5b2bbdb273c415ce153449eaa691d802c0008d12a"
+      "sha256": "e37ad55abf83b92c8135c3a5b2bbdb273c415ce153449eaa691d802c0008d12a",
+      "display_sha256": "49fef91ad39331f8e0d3396c5942613352216115ca63853eaf598c82bc6e7e89",
+      "display_blob_sha": "1c189bedc730556aa6734634f6ad608c76a46781",
+      "display_original_site_sha256": "e37ad55abf83b92c8135c3a5b2bbdb273c415ce153449eaa691d802c0008d12a",
+      "display_original_blob_sha": "48c3a564523ca5f3268e184b1b7c3caeca900bbc",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 699414
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

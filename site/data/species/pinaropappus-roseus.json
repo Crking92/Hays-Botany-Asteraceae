@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "83edf24a00846f987a5d6b6a89e1f847ae19aaa5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353755537, photo 645407231, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 323630af19458455d81cd7f4aa68519813da7c556ff0c9b2f68213a791f9d81d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pinaropappus roseus maps to indexed species pinaropappus-roseus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "323630af19458455d81cd7f4aa68519813da7c556ff0c9b2f68213a791f9d81d"
+      "sha256": "323630af19458455d81cd7f4aa68519813da7c556ff0c9b2f68213a791f9d81d",
+      "display_sha256": "8dc07a59574994911273bb117e471cf8b975b2114c25877f642b9ced22e824e9",
+      "display_blob_sha": "bcca4caf5b15ad2f6628a9b662518e1acf1081c7",
+      "display_original_site_sha256": "323630af19458455d81cd7f4aa68519813da7c556ff0c9b2f68213a791f9d81d",
+      "display_original_blob_sha": "83edf24a00846f987a5d6b6a89e1f847ae19aaa5",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 754894
     },
     {
       "src": "media/pinaropappus-roseus/inat-646651667.jpg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57d2d5ab6ca7018b5277e844c996920ecc18a3b4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354481469, photo 646651667, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: df1364439c34358b508951202f8e8e774e3bd27b7f5a1a19b6204d35ac15ba27. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pinaropappus roseus maps to indexed species pinaropappus-roseus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "df1364439c34358b508951202f8e8e774e3bd27b7f5a1a19b6204d35ac15ba27"
+      "sha256": "df1364439c34358b508951202f8e8e774e3bd27b7f5a1a19b6204d35ac15ba27",
+      "display_sha256": "6754e0d54d576271fb1e8d60b973bf5efaddaad50664a0031ff6533fa5404c9d",
+      "display_blob_sha": "c78e2f9602591f2118771ee47186bd98f6378550",
+      "display_original_site_sha256": "df1364439c34358b508951202f8e8e774e3bd27b7f5a1a19b6204d35ac15ba27",
+      "display_original_blob_sha": "57d2d5ab6ca7018b5277e844c996920ecc18a3b4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 358227
     },
     {
       "src": "media/pinaropappus-roseus/inat-648173800.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae49aa987de8c51f180aea72944d1146f799f751",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355393318, photo 648173800, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d7802ebc8a4150bbae8fefa24d28ad863c2a82ecaa71b96f6cc56c2d55e15544. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pinaropappus roseus maps to indexed species pinaropappus-roseus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "d7802ebc8a4150bbae8fefa24d28ad863c2a82ecaa71b96f6cc56c2d55e15544"
+      "sha256": "d7802ebc8a4150bbae8fefa24d28ad863c2a82ecaa71b96f6cc56c2d55e15544",
+      "display_sha256": "931b84d96926db1e6678600505b6068ce7166b716539861902313e60e2e6ed9b",
+      "display_blob_sha": "058d0cd7234f3b7a2a3b4c07898e47814657b7c1",
+      "display_original_site_sha256": "d7802ebc8a4150bbae8fefa24d28ad863c2a82ecaa71b96f6cc56c2d55e15544",
+      "display_original_blob_sha": "ae49aa987de8c51f180aea72944d1146f799f751",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 773425
     },
     {
       "src": "media/pinaropappus-roseus/inat-649329722.jpg",
@@ -91,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb28b1d0da078ccfd96b504b7dd06285528c0057",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +132,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356069367, photo 649329722, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3321a50cf03abac79bfa7f726f6ce3d28b50311b727aa88074201640a6e2546. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pinaropappus roseus maps to indexed species pinaropappus-roseus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "e3321a50cf03abac79bfa7f726f6ce3d28b50311b727aa88074201640a6e2546"
+      "sha256": "e3321a50cf03abac79bfa7f726f6ce3d28b50311b727aa88074201640a6e2546",
+      "display_sha256": "a2bf81f356a23ef510199a1543abd31654687c42ea8b972946532814351325dd",
+      "display_blob_sha": "ee80ae430c6742a44e3d114f38241e0873f81774",
+      "display_original_site_sha256": "e3321a50cf03abac79bfa7f726f6ce3d28b50311b727aa88074201640a6e2546",
+      "display_original_blob_sha": "bb28b1d0da078ccfd96b504b7dd06285528c0057",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 757834
     },
     {
       "src": "media/pinaropappus-roseus/inat-649590358.jpg",
@@ -110,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "12bbe02f0361fc99a591fc6d0cf813a0c7525980",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +162,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356209747, photo 649590358, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24485b72f0032d6094567a6acd73241ce1b0650dc1dd40db26c6657e33a51a43. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pinaropappus roseus maps to indexed species pinaropappus-roseus (verified source taxon); specialist morphology and BONAP range deferred.",
-      "sha256": "24485b72f0032d6094567a6acd73241ce1b0650dc1dd40db26c6657e33a51a43"
+      "sha256": "24485b72f0032d6094567a6acd73241ce1b0650dc1dd40db26c6657e33a51a43",
+      "display_sha256": "24aa020f31cb53508db0016a9e1c5e8fe498833a62455607b681360e701ffe19",
+      "display_blob_sha": "68fd469bf0224be91d3ca0380f55e6e78081c165",
+      "display_original_site_sha256": "24485b72f0032d6094567a6acd73241ce1b0650dc1dd40db26c6657e33a51a43",
+      "display_original_blob_sha": "12bbe02f0361fc99a591fc6d0cf813a0c7525980",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 345744
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

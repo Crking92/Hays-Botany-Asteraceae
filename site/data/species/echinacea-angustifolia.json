@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5955a62f55c3d8b3b39009a21c96f21beb23ab32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 220152903, photo 389746321, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5df00587673efcedce4cfd566917261cbeeed2f2f38f654bb16fc38dc65b1f45. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Echinacea angustifolia agrees with indexed species echinacea-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5df00587673efcedce4cfd566917261cbeeed2f2f38f654bb16fc38dc65b1f45"
+      "sha256": "5df00587673efcedce4cfd566917261cbeeed2f2f38f654bb16fc38dc65b1f45",
+      "display_sha256": "505dba3f3f02b3ef5d1f2def43d73525535eda100448d1ad871bceb0e0b41b74",
+      "display_blob_sha": "7d9c888aa3d6d21e8b4ce4895caea8e6f96608a1",
+      "display_original_site_sha256": "5df00587673efcedce4cfd566917261cbeeed2f2f38f654bb16fc38dc65b1f45",
+      "display_original_blob_sha": "5955a62f55c3d8b3b39009a21c96f21beb23ab32",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 347257
     },
     {
       "src": "media/echinacea-angustifolia/inat-39328702.jpeg",
@@ -92,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6434eb2524789045f35aa64b6e9e168867e16a0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +111,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 25397351, photo 39328702, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6abb7980fc8ede4c308c063e1e39f50f432a8ea86f2128b6d7f89cfc4450455. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Echinacea angustifolia agrees with indexed species echinacea-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c6abb7980fc8ede4c308c063e1e39f50f432a8ea86f2128b6d7f89cfc4450455"
+      "sha256": "c6abb7980fc8ede4c308c063e1e39f50f432a8ea86f2128b6d7f89cfc4450455",
+      "display_sha256": "7600ad06f488496c80b30ed05d92765d2664b74ba921d5d7ca7abf93412d7846",
+      "display_blob_sha": "5b3c821b888b4d2308d70b0c8edc250c08046fad",
+      "display_original_site_sha256": "c6abb7980fc8ede4c308c063e1e39f50f432a8ea86f2128b6d7f89cfc4450455",
+      "display_original_blob_sha": "6434eb2524789045f35aa64b6e9e168867e16a0a",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 682365
     },
     {
       "src": "media/echinacea-angustifolia/inat-40034340.jpg",
@@ -111,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bbafc82cb1206a9c2f5475872e418d71b0853627",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +141,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 25821082, photo 40034340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 21951067029f9ac9ea44f1ab12c88b54e40e16dcca9af6172a102ce5379969b5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Echinacea angustifolia agrees with indexed species echinacea-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "21951067029f9ac9ea44f1ab12c88b54e40e16dcca9af6172a102ce5379969b5"
+      "sha256": "21951067029f9ac9ea44f1ab12c88b54e40e16dcca9af6172a102ce5379969b5",
+      "display_sha256": "77bf092f265a0f545f3b0f28c6984127a7ad15ffc35c89288baae86cb08b9a22",
+      "display_blob_sha": "780a0d0f2de222d0b3c51e70055da2839cfa64f6",
+      "display_original_site_sha256": "21951067029f9ac9ea44f1ab12c88b54e40e16dcca9af6172a102ce5379969b5",
+      "display_original_blob_sha": "bbafc82cb1206a9c2f5475872e418d71b0853627",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 745817
     },
     {
       "src": "media/echinacea-angustifolia/inat-636545680.jpg",
@@ -130,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11fe2b2e6b9cc097707a3d1dc4c8c70dbe6123f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +171,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348980020, photo 636545680, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24381cc943b911a9efc6d33ed5d9741b840cda4f1521274deaef7377748186c7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Echinacea angustifolia agrees with indexed species echinacea-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "24381cc943b911a9efc6d33ed5d9741b840cda4f1521274deaef7377748186c7"
+      "sha256": "24381cc943b911a9efc6d33ed5d9741b840cda4f1521274deaef7377748186c7",
+      "display_sha256": "6fc47ce2e9a3210054095152def515d5a46ed6c4d87fcee5c6b06b7f295ca14e",
+      "display_blob_sha": "ee15dc37fa9ad58a1471aef91ee3bcb74cea808a",
+      "display_original_site_sha256": "24381cc943b911a9efc6d33ed5d9741b840cda4f1521274deaef7377748186c7",
+      "display_original_blob_sha": "11fe2b2e6b9cc097707a3d1dc4c8c70dbe6123f4",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 769621
     },
     {
       "src": "media/echinacea-angustifolia/inat-649023316.jpg",
@@ -149,7 +193,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba32be66317af7152104fbbdba567b3ac6eb6bb8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +201,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355898079, photo 649023316, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e41437524226d5781697673af87b2475d6f7e8cc61fce8c9e1882948d0b9057d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Echinacea angustifolia agrees with indexed species echinacea-angustifolia; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e41437524226d5781697673af87b2475d6f7e8cc61fce8c9e1882948d0b9057d"
+      "sha256": "e41437524226d5781697673af87b2475d6f7e8cc61fce8c9e1882948d0b9057d",
+      "display_sha256": "b97978a65c5497143580173ce113462399db9df205dd908fac008e557b58baf7",
+      "display_blob_sha": "57d96b24e39f420dfaeb9c2b6c20a4acc37601cc",
+      "display_original_site_sha256": "e41437524226d5781697673af87b2475d6f7e8cc61fce8c9e1882948d0b9057d",
+      "display_original_blob_sha": "ba32be66317af7152104fbbdba567b3ac6eb6bb8",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1900,
+        1425
+      ],
+      "display_bytes": 740298
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

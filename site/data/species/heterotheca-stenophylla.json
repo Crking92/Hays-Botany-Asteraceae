@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7bcd018de3b1b87332f955a16ce597861cfd8a50",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 138382084, photo 236512501, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a63fd048f3cf0dd249e065ad4487bac07fa1a01473af8669329cfae254789d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca stenophylla agrees with indexed species heterotheca-stenophylla; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5a63fd048f3cf0dd249e065ad4487bac07fa1a01473af8669329cfae254789d8"
+      "sha256": "5a63fd048f3cf0dd249e065ad4487bac07fa1a01473af8669329cfae254789d8",
+      "display_sha256": "593f46b47fcef1284ca7d76a9c0dfc56c582ecd9f45d2511c024b685427351fe",
+      "display_blob_sha": "98bc57a27895c49ff161e5750a54fd99a39a9166",
+      "display_original_site_sha256": "5a63fd048f3cf0dd249e065ad4487bac07fa1a01473af8669329cfae254789d8",
+      "display_original_blob_sha": "7bcd018de3b1b87332f955a16ce597861cfd8a50",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 676064
     },
     {
       "src": "media/heterotheca-stenophylla/inat-504307396.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6ed567dd58e3c4367a32c023ceac549d09a00f31",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 280769385, photo 504307396, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0dca00dd254c0d60a4819c1994139805ac5bcc124ae9150a15f1048ecfb6ccbe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca stenophylla agrees with indexed species heterotheca-stenophylla; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0dca00dd254c0d60a4819c1994139805ac5bcc124ae9150a15f1048ecfb6ccbe"
+      "sha256": "0dca00dd254c0d60a4819c1994139805ac5bcc124ae9150a15f1048ecfb6ccbe",
+      "display_sha256": "fa1f3bf222cc5586ab053847df2bc1280f152c6ebb146c8b973460d7e143da3c",
+      "display_blob_sha": "746ae8418b33536039ea9f98946ed5c178c940f9",
+      "display_original_site_sha256": "0dca00dd254c0d60a4819c1994139805ac5bcc124ae9150a15f1048ecfb6ccbe",
+      "display_original_blob_sha": "6ed567dd58e3c4367a32c023ceac549d09a00f31",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 712719
     },
     {
       "src": "media/heterotheca-stenophylla/inat-505411536.jpg",
@@ -72,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "939eae17ad00d4d83effa0886ac5bc701f81a164",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +102,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 281361976, photo 505411536, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e12d39f82d55ee2a3e854bfe3b2a2cc7c35a58c1080f024bfe5d8448eccdada. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca stenophylla agrees with indexed species heterotheca-stenophylla; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5e12d39f82d55ee2a3e854bfe3b2a2cc7c35a58c1080f024bfe5d8448eccdada"
+      "sha256": "5e12d39f82d55ee2a3e854bfe3b2a2cc7c35a58c1080f024bfe5d8448eccdada",
+      "display_sha256": "c21e1d127f1e63164d7360f2824f880e6edd5502c38ddd13cdd5c30ee4b32928",
+      "display_blob_sha": "5c8c68b2f347f67c83fe73b94e5898a2faa62054",
+      "display_original_site_sha256": "5e12d39f82d55ee2a3e854bfe3b2a2cc7c35a58c1080f024bfe5d8448eccdada",
+      "display_original_blob_sha": "939eae17ad00d4d83effa0886ac5bc701f81a164",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 564799
     },
     {
       "src": "media/heterotheca-stenophylla/inat-599835157.jpg",
@@ -110,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "cb92c055951cdebea780b2ca333b20b24dd68454",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +151,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363795369, photo 664093972, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77601caa5d21ac540cd2f56fa2990564f953da0adb500699ef25d1dd983ec7cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Heterotheca stenophylla agrees with indexed species heterotheca-stenophylla; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "77601caa5d21ac540cd2f56fa2990564f953da0adb500699ef25d1dd983ec7cc"
+      "sha256": "77601caa5d21ac540cd2f56fa2990564f953da0adb500699ef25d1dd983ec7cc",
+      "display_sha256": "974bcb26e61a247c212eedbf1654999374981d19b4fccb46a03ad99a00cd457d",
+      "display_blob_sha": "3a4baee6875437d3f05bcf8beefd6ed7180ad03d",
+      "display_original_site_sha256": "77601caa5d21ac540cd2f56fa2990564f953da0adb500699ef25d1dd983ec7cc",
+      "display_original_blob_sha": "cb92c055951cdebea780b2ca333b20b24dd68454",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2048
+      ],
+      "display_bytes": 774517
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -34,7 +34,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a3fb849da413fe64a2c3ab2d914e772ba7ca038d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -42,7 +42,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208895274, photo 369642650, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b067bebf07409636835fde3c2ad973cf044210efd19cfa097cc1015c907cab14. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia cespitosa agrees with indexed species krigia-cespitosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b067bebf07409636835fde3c2ad973cf044210efd19cfa097cc1015c907cab14"
+      "sha256": "b067bebf07409636835fde3c2ad973cf044210efd19cfa097cc1015c907cab14",
+      "display_sha256": "f981db59de6b4b3927be904f8413c67db05cf7073b62bdcde2cc44cdeb7d7e99",
+      "display_blob_sha": "a2a2cd75b5d9e20fb98511393ed779b29413c883",
+      "display_original_site_sha256": "b067bebf07409636835fde3c2ad973cf044210efd19cfa097cc1015c907cab14",
+      "display_original_blob_sha": "a3fb849da413fe64a2c3ab2d914e772ba7ca038d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 765275
     },
     {
       "src": "media/krigia-cespitosa/inat-371458550.jpeg",
@@ -53,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3b0984ca5bfd3c89556b75bda34270b993f9a3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +72,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 209961393, photo 371458550, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9860956744f357688f02f1c88b599774643aabc949e79bc20a648099de00b020. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia cespitosa agrees with indexed species krigia-cespitosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9860956744f357688f02f1c88b599774643aabc949e79bc20a648099de00b020"
+      "sha256": "9860956744f357688f02f1c88b599774643aabc949e79bc20a648099de00b020",
+      "display_sha256": "6148702e0db3724db4bdebe79db730a40b7ea49fe491ed6eba90429348b28576",
+      "display_blob_sha": "ff61fb255f32cbf4c21689409afc7b822a11d032",
+      "display_original_site_sha256": "9860956744f357688f02f1c88b599774643aabc949e79bc20a648099de00b020",
+      "display_original_blob_sha": "e3b0984ca5bfd3c89556b75bda34270b993f9a3d",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 776375
     },
     {
       "src": "media/krigia-cespitosa/inat-376002663.jpeg",
@@ -91,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1144168d645e2e96a9dca009b9108a22434cf838",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Original source photo, no edits; web copy resized and recompressed; archived original unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +121,18 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 273190588, photo 491396077, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 948b0259e4262a8fe77e6aab212965752fc74972a1ab604aea7e5f0dedc2b0e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Krigia cespitosa agrees with indexed species krigia-cespitosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "948b0259e4262a8fe77e6aab212965752fc74972a1ab604aea7e5f0dedc2b0e8"
+      "sha256": "948b0259e4262a8fe77e6aab212965752fc74972a1ab604aea7e5f0dedc2b0e8",
+      "display_sha256": "9bf5719c70e36497537597be6355d12324adccf03d4b5abad2d04949c9e2f676",
+      "display_blob_sha": "8f4a57fe4e22e2ddb1f363dd4ca6bf420425cb82",
+      "display_original_site_sha256": "948b0259e4262a8fe77e6aab212965752fc74972a1ab604aea7e5f0dedc2b0e8",
+      "display_original_blob_sha": "1144168d645e2e96a9dca009b9108a22434cf838",
+      "display_original_archive_commit": "b8c02a95fb695960d5b55d6c63c77c2ec4ad9182",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 161938
     },
     {
       "src": "media/krigia-cespitosa/inat-503611804.jpeg",
