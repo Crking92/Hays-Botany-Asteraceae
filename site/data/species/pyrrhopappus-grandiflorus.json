@@ -38,8 +38,47 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/pyrrhopappus-grandiflorus/inat-36132417.jpeg",
+      "creator": "(c) Minnette Marr, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/36132417",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "e1d5e299bc532cbac40f7a4362eb8a40ffdcf051",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 23320486, photo 36132417, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8b0824875988407431978844e61e546bab85d68e2884031fb338ba055a2f7fbb. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus grandiflorus maps to indexed species pyrrhopappus-grandiflorus (verified source taxon); specialist morphology and BONAP range deferred.",
+      "sha256": "8b0824875988407431978844e61e546bab85d68e2884031fb338ba055a2f7fbb"
+    },
+    {
+      "src": "media/pyrrhopappus-grandiflorus/inat-647415750.jpg",
+      "creator": "(c) WoodyCreekTX, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/647415750",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2f6d9e70b75c33ccc7826f4d44a7537a2293b516",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 354925202, photo 647415750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Pyrrhopappus grandiflorus maps to indexed species pyrrhopappus-grandiflorus (verified source taxon); specialist morphology and BONAP range deferred.",
+      "sha256": "e3d74ea9336d277917bddb4e721a275bd1f875197f094b087fbf5f3fd9745ad0"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

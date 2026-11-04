@@ -1211,7 +1211,7 @@
       "genus": "Porophyllum",
       "path": "content/taxa/Asteraceae/Porophyllum/porophyllum-scoparium/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "pseudognaphalium-canescens",
@@ -1221,7 +1221,7 @@
       "genus": "Pseudognaphalium",
       "path": "content/taxa/Asteraceae/Pseudognaphalium/pseudognaphalium-canescens/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "pseudognaphalium-obtusifolium",
@@ -1231,7 +1231,7 @@
       "genus": "Pseudognaphalium",
       "path": "content/taxa/Asteraceae/Pseudognaphalium/pseudognaphalium-obtusifolium/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "pyrrhopappus-carolinianus",
@@ -1241,7 +1241,7 @@
       "genus": "Pyrrhopappus",
       "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-carolinianus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "pyrrhopappus-grandiflorus",
@@ -1251,7 +1251,7 @@
       "genus": "Pyrrhopappus",
       "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-grandiflorus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 4
     },
     {
       "id": "pyrrhopappus-pauciflorus",
@@ -1261,7 +1261,7 @@
       "genus": "Pyrrhopappus",
       "path": "content/taxa/Asteraceae/Pyrrhopappus/pyrrhopappus-pauciflorus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "ratibida-columnifera",
@@ -1271,7 +1271,7 @@
       "genus": "Ratibida",
       "path": "content/taxa/Asteraceae/Ratibida/ratibida-columnifera/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 7
     },
     {
       "id": "rudbeckia-amplexicaulis",
@@ -1281,7 +1281,7 @@
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-amplexicaulis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "rudbeckia-hirta",
@@ -1291,7 +1291,7 @@
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 2
+      "photo_count": 6
     },
     {
       "id": "rudbeckia-maxima",
