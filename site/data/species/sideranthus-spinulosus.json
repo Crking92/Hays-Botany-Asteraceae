@@ -24,8 +24,47 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/sideranthus-spinulosus/inat-367857467.jpg",
+      "creator": "(c) 🌱 Aaron Lincoln 🌱, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/367857467",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7ed2d5f5ec7fdae11f8943423aa66583fb3847d9",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 207938553, photo 367857467, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Sideranthus spinulosus maps to indexed species sideranthus-spinulosus (verified source taxon); specialist morphology and BONAP range deferred.",
+      "sha256": "8e54d35106b90d43c1d3f0c092fb157ce2a0799a1bff3e56a40b6ea7b0e90354"
+    },
+    {
+      "src": "media/sideranthus-spinulosus/inat-376718521.jpeg",
+      "creator": "(c) J Jenkins, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/376718521",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7dff5e899aebd9940e5149805d1ef9cb69f33266",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 213168498, photo 376718521, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Sideranthus spinulosus maps to indexed species sideranthus-spinulosus (verified source taxon); specialist morphology and BONAP range deferred.",
+      "sha256": "3ee4d036a382b65ec6ed7d18e79d93086caa21efe9890634bc77446df9c386c5"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

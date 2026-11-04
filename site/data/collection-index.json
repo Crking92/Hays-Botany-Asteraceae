@@ -1291,7 +1291,7 @@
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-hirta/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 6
+      "photo_count": 7
     },
     {
       "id": "rudbeckia-maxima",
@@ -1301,7 +1301,7 @@
       "genus": "Rudbeckia",
       "path": "content/taxa/Asteraceae/Rudbeckia/rudbeckia-maxima/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "senecio-ampullaceus",
@@ -1311,7 +1311,7 @@
       "genus": "Senecio",
       "path": "content/taxa/Asteraceae/Senecio/senecio-ampullaceus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "sideranthus-spinulosus",
@@ -1321,7 +1321,7 @@
       "genus": "Sideranthus",
       "path": "content/taxa/Asteraceae/Sideranthus/sideranthus-spinulosus/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "sidneya-tenuifolia",

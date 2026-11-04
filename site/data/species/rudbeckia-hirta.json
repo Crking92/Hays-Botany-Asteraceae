@@ -147,6 +147,25 @@
       "source_review_evidence": "Live iNaturalist observation 344021568, photo 626771530, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d52a3fde909b7a9c50a724891c3248da6ae66ae026a598bb5048d15f5ebaef97. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia hirta maps to indexed species rudbeckia-hirta (verified source taxon); specialist morphology and BONAP range deferred.",
       "sha256": "d52a3fde909b7a9c50a724891c3248da6ae66ae026a598bb5048d15f5ebaef97"
+    },
+    {
+      "src": "media/rudbeckia-hirta/inat-628809796.jpg",
+      "creator": "(c) Meredith Lovelace, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/628809796",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f82216715685a0ea33274abcbc51382dfcba386d",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 345070439, photo 628809796, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ddccadfeee70c11a218bdc95bfe7a8d5ccaf540a0e4a9020aa1926f7e3f3a233. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four actual original ZIP contact sheets reviewed for basic botanical identity and useful field-photo coverage; institutional herbarium and uncredited images held. Live source name Rudbeckia hirta maps to indexed species rudbeckia-hirta (verified source taxon); specialist morphology and BONAP range deferred.",
+      "sha256": "ddccadfeee70c11a218bdc95bfe7a8d5ccaf540a0e4a9020aa1926f7e3f3a233"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

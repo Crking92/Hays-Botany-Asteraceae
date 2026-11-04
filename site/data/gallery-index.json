@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 153,
-  "photo_count": 493,
+  "photo_count": 506,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -518,19 +518,19 @@
       "first_src": "media/rudbeckia-amplexicaulis/01.jpg"
     },
     "rudbeckia-hirta": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/rudbeckia-hirta/source-944290b83195.jpg"
     },
     "rudbeckia-maxima": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/rudbeckia-maxima/01.jpg"
     },
     "senecio-ampullaceus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/senecio-ampullaceus/01.jpg"
     },
     "sideranthus-spinulosus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/sideranthus-spinulosus/01.jpg"
     },
     "sidneya-tenuifolia": {
