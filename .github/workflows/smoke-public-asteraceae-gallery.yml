@@ -7,6 +7,9 @@ on:
       - 'site/data/gallery-index.json'
       - '.github/workflows/smoke-public-asteraceae-gallery.yml'
   workflow_dispatch:
+  workflow_run:
+    workflows: ['Publish original source-verified Asteraceae 002 original-source photos to public learner']
+    types: [completed]
 permissions:
   contents: read
 concurrency:
