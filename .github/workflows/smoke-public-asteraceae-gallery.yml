@@ -1,5 +1,5 @@
 name: Verify live Asteraceae source-credited gallery and original bytes
-# 2026-11-04 001 ZIP: 141 exact licensed originals installed, 335 gallery photos, 144 photographed species; Pages retries protect against transient 503.
+# Growing photo-first gallery; verify expected media against live Pages, accepting further licensed additions from concurrent batches.
 on:
   push:
     branches: [main]
@@ -14,13 +14,15 @@ permissions:
   contents: read
 concurrency:
   group: asteraceae-public-gallery-image-smoke
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   images:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Verify published 180 cards, photo provenance and each rendered JPEG
         run: |
           python3 - <<'PY'
@@ -29,6 +31,15 @@ jobs:
           BASE="https://crking92.github.io/Hays-Botany-Asteraceae/site/"
           expected=json.loads((SITE/"data/gallery-index.json").read_text())
           assert expected["species"]==180
+          expected_photos={}
+          for item in json.loads((SITE/"data/collection-index.json").read_text())["entries"]:
+              sid=item["id"]
+              card=json.loads((SITE/"data/species"/(sid+".json")).read_text())
+              for photo in card.get("verified_photos",[]):
+                  assert photo["src"] not in expected_photos
+                  expected_photos[photo["src"]]=(photo.get("creator"),photo.get("license"),photo.get("source_page"))
+          local={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file() and p.suffix.lower() in {".jpg",".jpeg",".png",".webp"}}
+          assert set(expected_photos)==local and len(local)==expected["photo_count"]
           def fetch(url):
               request=urllib.request.Request(url,headers={"User-Agent":"Hays-Botany-Asteraceae-Existing-Photo-Verify"})
               for retry in range(6):
@@ -45,8 +56,10 @@ jobs:
           for attempt in range(56):
               try:
                   live=json.loads(fetch(BASE+"data/gallery-index.json"))
-                  if (live.get("photo_count")==expected["photo_count"] and
-                      live.get("photo_species")==expected["photo_species"]):
+                  if (live.get("photo_count",0)>=expected["photo_count"] and
+                      live.get("photo_species",0)>=expected["photo_species"] and
+                      all(live["entries"][sid]["count"]>=e["count"]
+                          for sid,e in expected["entries"].items())):
                       break
                   print("Waiting for current Pages build",attempt+1,live.get("photo_count"),flush=True)
               except Exception as ex:
@@ -74,21 +87,26 @@ jobs:
                   assert "ND" not in p.get("license","").upper()
                   if not p.get("noncommercial_only"):
                       assert "NC" not in p.get("license","").upper()
-                  refs.add(p["src"])
-          assert total==expected["photo_count"]
-          assert with_photos==expected["photo_species"]
+                  src=p["src"]
+                  if src in expected_photos:
+                      assert (p.get("creator"),p.get("license"),p.get("source_page"))==expected_photos[src],src
+                  assert src not in refs,src
+                  refs.add(src)
+          assert total==live["photo_count"]
+          assert with_photos==live["photo_species"]
           local={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file() and p.suffix.lower() in {".jpg",".jpeg",".png",".webp"}}
-          assert refs==local,(len(refs),len(local))
+          assert local.issubset(refs),(len(refs),len(local))
           def check(path):
               image=fetch(urllib.parse.urljoin(BASE,path))
-              assert image==((SITE/path).read_bytes()),path
+              if path in local: assert image==((SITE/path).read_bytes()),path
               return path
           with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
               checked=list(pool.map(check,sorted(refs)))
-          assert len(checked)==expected["photo_count"]
+          assert len(checked)==live["photo_count"]
           print("ASTERACEAE_PUBLIC_GALLERY_LIVE_IMAGE_PASS",json.dumps({
               "species":180,"photographed_species":with_photos,
-              "published_photos_byte_identical":len(checked),
+              "published_photos_byte_identical":len(local),
+              "live_images_http_200":len(checked),
               "all_sources_present":True,"new_photos_collected":0
           },sort_keys=True),flush=True)
           PY
