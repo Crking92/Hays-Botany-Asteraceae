@@ -1,0 +1,12 @@
+name: Review Asteraceae 005 intake
+on:
+  push:
+    branches: [staging/asteraceae-metadata]
+    paths:
+      - photo-intake/remote-photo-manifests/asteraceae-005-2026-11-04.json
+jobs:
+  source-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Asteraceae 005 remote intake needs exact photo verification"
