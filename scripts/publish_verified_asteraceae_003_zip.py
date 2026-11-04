@@ -13,8 +13,15 @@ LICENSES={
  "cc-by-nc-sa":("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/")
 }
 RECORD_SIZE=42
-# Source names must match the precise Asteraceae species card; no unverified aliases.
-SYNONYMS={}
+# Exact named taxon concepts cross-checked against Kew POWO (2026-11-04).
+# These aliases reflect an omitted infraspecific rank or a documented synonym;
+# never generalize them to unrelated species or extrapolate local nativity.
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1022446-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30361801-2
+SYNONYMS={
+ "hymenopappus-scabiosaeus-var-corymbosus":{"Hymenopappus scabiosaeus corymbosus"},
+ "iva-asperifolia-var-angustifolia":{"Iva angustifolia"},
+}
 
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
