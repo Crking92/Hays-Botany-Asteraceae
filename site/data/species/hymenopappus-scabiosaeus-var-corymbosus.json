@@ -24,8 +24,47 @@
       "private_rights_review_only": false,
       "source_page_is_exact": true,
       "rights_note": ""
+    },
+    {
+      "src": "media/hymenopappus-scabiosaeus-var-corymbosus/inat-16766612.jpeg",
+      "creator": "(c) Minnette Marr, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/16766612",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f5691f7c7e11a1b74d0456a101daf20dc2efe301",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 11725608, photo 16766612, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ef7c545c5a62234c02cbf1305c35e9f27f53feb8e094d7edeef1b9ea0fabffe. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus corymbosus agrees with indexed species hymenopappus-scabiosaeus-var-corymbosus; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "5ef7c545c5a62234c02cbf1305c35e9f27f53feb8e094d7edeef1b9ea0fabffe"
+    },
+    {
+      "src": "media/hymenopappus-scabiosaeus-var-corymbosus/inat-195613368.jpeg",
+      "creator": "(c) plateauville, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/195613368",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "48f580c302246d9d144d9e4bb87c90cfaa4fb2d4",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 115905160, photo 195613368, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Hymenopappus scabiosaeus corymbosus agrees with indexed species hymenopappus-scabiosaeus-var-corymbosus; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "de3ea89c5b64a97a327066c6460c5144f34b155e3cd4dbb36fe917cff2750d7d"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 165,
-  "photo_count": 751,
+  "photo_count": 753,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -374,7 +374,7 @@
       "first_src": "media/hymenopappus-scabiosaeus/inat-634857995.jpg"
     },
     "hymenopappus-scabiosaeus-var-corymbosus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/hymenopappus-scabiosaeus-var-corymbosus/01.jpg"
     },
     "hymenopappus-tenuifolius": {
