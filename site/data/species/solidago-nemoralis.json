@@ -50,7 +50,7 @@
       "source_blob_sha": "768461841f2a1caee1deedd258dc051f8f2db776",
       "sha256": "ccdbc20ec6cb5756239b401af347f3f2d049dbb437ed14449a0f1e255c9ed54a",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447677769/original.jpeg",
       "provider_photo_id": 447677769,
       "provider_attribution": "(c) Susan Sommer, some rights reserved (CC BY-NC)",
@@ -59,7 +59,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "7447caa63d2fe07bcdc054f57158f828f96df0724c279bc23f6cddb0800082a7",
+      "display_blob_sha": "a1a08df66880b6d0380630096e0d66edbce4504d",
+      "display_original_site_sha256": "ccdbc20ec6cb5756239b401af347f3f2d049dbb437ed14449a0f1e255c9ed54a",
+      "display_original_blob_sha": "768461841f2a1caee1deedd258dc051f8f2db776",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 494902
     },
     {
       "src": "media/solidago-nemoralis/inat-331443353.jpg",
@@ -71,7 +82,7 @@
       "source_blob_sha": "47b9cbdd9d932b0ffdc2f97e831e835b2b562042",
       "sha256": "c67d9840c2b9fcdc7fb610d57307ad439f701ce4e5178ffd4f21524f4ea3a04c",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331443353/original.jpg",
       "provider_photo_id": 331443353,
       "provider_attribution": "(c) barnowl66, some rights reserved (CC BY-NC)",
@@ -80,7 +91,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b8914cfa131ae140429377ff8e92eec6b895f3b0b926c8271153b41e1f2ce677",
+      "display_blob_sha": "86bdc14a4e7b09e8a8e031723981b00d1cccd407",
+      "display_original_site_sha256": "c67d9840c2b9fcdc7fb610d57307ad439f701ce4e5178ffd4f21524f4ea3a04c",
+      "display_original_blob_sha": "47b9cbdd9d932b0ffdc2f97e831e835b2b562042",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 777003
     },
     {
       "src": "media/solidago-nemoralis/inat-161085220.jpeg",
@@ -92,7 +114,7 @@
       "source_blob_sha": "3a018e108bf534b757b05c6862905414c92cdc08",
       "sha256": "1e3595484a64f74ad526d8696b3dfdce7dae37e466c3706714472ac456344fb9",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161085220/original.jpeg",
       "provider_photo_id": 161085220,
       "provider_attribution": "(c) Andy Blair, some rights reserved (CC BY-NC)",
@@ -101,7 +123,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "18750abec664f457ba83483f666077bf2979c80ae6f83722b992bd691844a364",
+      "display_blob_sha": "d6c2e5c5252fb1403532eb63731fa6a7c67b816b",
+      "display_original_site_sha256": "1e3595484a64f74ad526d8696b3dfdce7dae37e466c3706714472ac456344fb9",
+      "display_original_blob_sha": "3a018e108bf534b757b05c6862905414c92cdc08",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 656181
     },
     {
       "src": "media/solidago-nemoralis/inat-5124842.jpeg",
@@ -113,7 +146,7 @@
       "source_blob_sha": "7e007dae310a3690aa55df2975ff674454d4b173",
       "sha256": "f8f185fe2292ba21bc276301c6e78d4a604e251ff565ea5d1a18474b93629518",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5124842/original.jpeg",
       "provider_photo_id": 5124842,
       "provider_attribution": "(c) tcurry, some rights reserved (CC BY-NC)",
@@ -122,7 +155,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "297d9143aa3f8b3a3c4340f456f7b2640e86bebadcd591bb022e34ac254fa3f7",
+      "display_blob_sha": "4de52cf0e65d5a7b88d1c1f3a13df224cb00482c",
+      "display_original_site_sha256": "f8f185fe2292ba21bc276301c6e78d4a604e251ff565ea5d1a18474b93629518",
+      "display_original_blob_sha": "7e007dae310a3690aa55df2975ff674454d4b173",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 553128
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -28,7 +28,7 @@
       "source_blob_sha": "40152e40119d472bbe3a3680252072a80d97f656",
       "sha256": "2f97dcd6182ba175df4633e3652bc4d5866d2aba36880ffe91d6e936472309a6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624387224/original.jpg",
       "provider_photo_id": 624387224,
       "provider_attribution": "(c) Danielle Murray, some rights reserved (CC BY-NC)",
@@ -37,7 +37,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "597fa54bcb8aaee279bac0d75f7be89f05cbadf3ac3b4c43383bc98ab9ae1b04",
+      "display_blob_sha": "049dc69703e2e96e21b67c4f0fcaf1d04375c5c1",
+      "display_original_site_sha256": "2f97dcd6182ba175df4633e3652bc4d5866d2aba36880ffe91d6e936472309a6",
+      "display_original_blob_sha": "40152e40119d472bbe3a3680252072a80d97f656",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 671523
     },
     {
       "src": "media/symphyotrichum-drummondii/inat-621194401.jpg",
@@ -49,7 +60,7 @@
       "source_blob_sha": "94dac56812ef0efef0065d67eb2a1017d6f043c9",
       "sha256": "88f04e342e811a7a3824f6659fb632a319527c8187fc086449b6a6b98d07745f",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621194401/original.jpg",
       "provider_photo_id": 621194401,
       "provider_attribution": "(c) Erinn (Ren), some rights reserved (CC BY-NC)",
@@ -58,7 +69,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "6688a5279a0a2d2fc44f5f90fa21f75983f0d29c41dd1ac6f5a861e9d2a41e13",
+      "display_blob_sha": "5c0b5618cc396b98cf682820164022209277ecae",
+      "display_original_site_sha256": "88f04e342e811a7a3824f6659fb632a319527c8187fc086449b6a6b98d07745f",
+      "display_original_blob_sha": "94dac56812ef0efef0065d67eb2a1017d6f043c9",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 714071
     },
     {
       "src": "media/symphyotrichum-drummondii/inat-622675748.jpg",
@@ -70,7 +92,7 @@
       "source_blob_sha": "8e88aa230a874a22406e94cc2190edd83c4ec8fd",
       "sha256": "ca15f4c59184cf991ad0ac401a05be4103cce50d15f13859ed419864d2cc801d",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622675748/original.jpg",
       "provider_photo_id": 622675748,
       "provider_attribution": "(c) adanortega_12, some rights reserved (CC BY-NC)",
@@ -79,7 +101,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1174516dae74a406ca1fc2330f1c2f433a3ea32d623981daff5d005495ba7ff3",
+      "display_blob_sha": "c5f3d17da55db57c1a76ace75fd1f8a93a81356e",
+      "display_original_site_sha256": "ca15f4c59184cf991ad0ac401a05be4103cce50d15f13859ed419864d2cc801d",
+      "display_original_blob_sha": "8e88aa230a874a22406e94cc2190edd83c4ec8fd",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 765364
     },
     {
       "src": "media/symphyotrichum-drummondii/inat-630094958.jpg",
@@ -91,7 +124,7 @@
       "source_blob_sha": "8b25d6fcd9e9f4e3c49d8c6684015950a64c3903",
       "sha256": "259a02a16b298ab143b7fac15d923093ca8a218541e81b6eb8c67f02ac01a2f6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630094958/original.jpg",
       "provider_photo_id": 630094958,
       "provider_attribution": "(c) Ashley Shepherd, some rights reserved (CC BY-NC)",
@@ -100,7 +133,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "077392bfb16ca37d0397028fbc69724d6d2617a27d6df09f62e7beab4d028640",
+      "display_blob_sha": "b76cb53cfe202b47d6a87951ed660756241c927c",
+      "display_original_site_sha256": "259a02a16b298ab143b7fac15d923093ca8a218541e81b6eb8c67f02ac01a2f6",
+      "display_original_blob_sha": "8b25d6fcd9e9f4e3c49d8c6684015950a64c3903",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 468184
     },
     {
       "src": "media/symphyotrichum-drummondii/inat-630979270.jpg",

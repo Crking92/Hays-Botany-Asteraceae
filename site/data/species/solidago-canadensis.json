@@ -69,7 +69,7 @@
       "source_blob_sha": "6b13647507293bbad007ec1f9ac415fef117bfe6",
       "sha256": "3288a66b2433e66ce3a09eb20d734609fa49f714bb0397fa1de3c8154c0bac85",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657694951/original.jpg",
       "provider_photo_id": 657694951,
       "provider_attribution": "(c) lan, some rights reserved (CC BY-NC)",
@@ -78,7 +78,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "f3e1a1b29e3172a6d3cdaff39e9d2596fa4c963d42983699b74e19f572ee0f9a",
+      "display_blob_sha": "36bd0a0dc93469ab975e479da0b2edcd1eea3ed8",
+      "display_original_site_sha256": "3288a66b2433e66ce3a09eb20d734609fa49f714bb0397fa1de3c8154c0bac85",
+      "display_original_blob_sha": "6b13647507293bbad007ec1f9ac415fef117bfe6",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 762587
     },
     {
       "src": "media/solidago-canadensis/inat-319963621.jpg",
@@ -90,7 +101,7 @@
       "source_blob_sha": "57b06fb25b5c1dd8cdaa25aa5f4421f2cdf3e3d0",
       "sha256": "cf23f1e7a8eb65f434dd898dfa252728478cb11c3657fe635433063ff3b3d9d5",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319963621/original.jpg",
       "provider_photo_id": 319963621,
       "provider_attribution": "(c) jrovens, some rights reserved (CC BY-NC)",
@@ -99,7 +110,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1b24b97796d1b72de79b21a66c060f9fda42d07241fb2808ed8d02d428c8f323",
+      "display_blob_sha": "c14953c73d072badfa976ede8b1db28c24a96937",
+      "display_original_site_sha256": "cf23f1e7a8eb65f434dd898dfa252728478cb11c3657fe635433063ff3b3d9d5",
+      "display_original_blob_sha": "57b06fb25b5c1dd8cdaa25aa5f4421f2cdf3e3d0",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 641562
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

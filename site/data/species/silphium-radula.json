@@ -44,7 +44,7 @@
       "source_blob_sha": "bb34dd3b4eaadeddc7286ae21ff70d68df7a926c",
       "sha256": "1d8ddf32749bc32343a51d1d33705fba57300bc9fd11e85c1678a3a69fc7dae1",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260693757/original.jpg",
       "provider_photo_id": 260693757,
       "provider_attribution": "(c) James Bailey, some rights reserved (CC BY-NC)",
@@ -53,7 +53,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "03483f64f6ff4d8ac38952e3a5aad9c4eac9e4f97b8d59f39bf722172609d565",
+      "display_blob_sha": "dc86e35a2da7bace783d5ec871c88ae45d11040c",
+      "display_original_site_sha256": "1d8ddf32749bc32343a51d1d33705fba57300bc9fd11e85c1678a3a69fc7dae1",
+      "display_original_blob_sha": "bb34dd3b4eaadeddc7286ae21ff70d68df7a926c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 759030
     },
     {
       "src": "media/silphium-radula/inat-527688964.jpg",
@@ -65,7 +76,7 @@
       "source_blob_sha": "d98b2d739166a7301b81ee75d416eb0ce825ef5c",
       "sha256": "844f9e784ca3e8cca4addd8d8582e8abc60a293312235bbedb69d8aa70c10f80",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527688964/original.jpg",
       "provider_photo_id": 527688964,
       "provider_attribution": "(c) Caleb Helsel, some rights reserved (CC BY-NC)",
@@ -74,7 +85,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "4b758e3162b958f3459e31f8661c5f59df22e4e7566db74d59ce6dc228f2a878",
+      "display_blob_sha": "24b184b87a2efd962ce6e1b03e4f004b0ef47259",
+      "display_original_site_sha256": "844f9e784ca3e8cca4addd8d8582e8abc60a293312235bbedb69d8aa70c10f80",
+      "display_original_blob_sha": "d98b2d739166a7301b81ee75d416eb0ce825ef5c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1087,
+        1450
+      ],
+      "display_bytes": 671544
     },
     {
       "src": "media/silphium-radula/inat-541785199.jpg",
@@ -86,7 +108,7 @@
       "source_blob_sha": "f3bb0928376ed7a1bcf3e4034f39c72b413b715b",
       "sha256": "3bf7c5e2e9bd7bdcc1a23314960903906472e62560287dfc79b0ae53394ee8b1",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541785199/original.jpg",
       "provider_photo_id": 541785199,
       "provider_attribution": "(c) scottliu317, some rights reserved (CC BY-NC)",
@@ -95,7 +117,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "92afd539c2326aa9a3f82e3196e2152c5ee75f0546d7c8a494a7a076f7192cfc",
+      "display_blob_sha": "73eb7448629980d79cbd1a3a4294deb53580b992",
+      "display_original_site_sha256": "3bf7c5e2e9bd7bdcc1a23314960903906472e62560287dfc79b0ae53394ee8b1",
+      "display_original_blob_sha": "f3bb0928376ed7a1bcf3e4034f39c72b413b715b",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 762505
     },
     {
       "src": "media/silphium-radula/inat-547485230.jpg",
@@ -107,7 +140,7 @@
       "source_blob_sha": "8c283f13b423c19f1bd03c4fa22a57bc7d1f2bf9",
       "sha256": "7cda3cff4d1b62141b0cda6c894f67ba26439b9d74c054a9124878ef3e00f1e5",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547485230/original.jpg",
       "provider_photo_id": 547485230,
       "provider_attribution": "(c) derbyslinger, some rights reserved (CC BY-NC)",
@@ -116,7 +149,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "387e9cb77276736a8e3abcf8d1fb4fdc0387842b3a8129d291733b67a786b4c3",
+      "display_blob_sha": "c1789c5b709672ca8733272a9ebf58f483de5e43",
+      "display_original_site_sha256": "7cda3cff4d1b62141b0cda6c894f67ba26439b9d74c054a9124878ef3e00f1e5",
+      "display_original_blob_sha": "8c283f13b423c19f1bd03c4fa22a57bc7d1f2bf9",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 529523
     },
     {
       "src": "media/silphium-radula/inat-408786518.jpeg",
@@ -128,7 +172,7 @@
       "source_blob_sha": "1a6c6abdd0e284a5f37abc63576a43a1e7143308",
       "sha256": "3464bc8d63206e72d5d5045050dcd7a15f1faca1e1880d1ee2cf5848cc4466ce",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408786518/original.jpeg",
       "provider_photo_id": 408786518,
       "provider_attribution": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
@@ -137,7 +181,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "8ebe3e6bd689f4d99c58ebea55785a620721723d8dfbb96a1a543caa97e137ac",
+      "display_blob_sha": "ceb5cbb6bdedf83fb1018ac6ef01e6e51d0304ef",
+      "display_original_site_sha256": "3464bc8d63206e72d5d5045050dcd7a15f1faca1e1880d1ee2cf5848cc4466ce",
+      "display_original_blob_sha": "1a6c6abdd0e284a5f37abc63576a43a1e7143308",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 579971
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

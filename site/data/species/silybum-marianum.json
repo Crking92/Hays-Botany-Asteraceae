@@ -21,7 +21,7 @@
       "source_blob_sha": "bb8ca518f1a7add347b15858386561e04aba8507",
       "sha256": "bee30946c4e9da8ed85d87ccd129e2f1e66356e81c16953339e2ab51b42d4c9d",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636044439/original.jpg",
       "provider_photo_id": 636044439,
       "provider_attribution": "(c) juliannarobles, some rights reserved (CC BY-NC)",
@@ -30,7 +30,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "2c08798eb49f4c80fa7a6f9b1419e41fcdecacc5181c1ca8c706a74a1054a8c1",
+      "display_blob_sha": "0ee834410235ec0d14a364fdcfef56d9970f617f",
+      "display_original_site_sha256": "bee30946c4e9da8ed85d87ccd129e2f1e66356e81c16953339e2ab51b42d4c9d",
+      "display_original_blob_sha": "bb8ca518f1a7add347b15858386561e04aba8507",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 434363
     },
     {
       "src": "media/silybum-marianum/inat-636044389.jpg",
@@ -42,7 +53,7 @@
       "source_blob_sha": "c4adcfac02e7d1d2c30769a5178ed63813d2b24c",
       "sha256": "9e4989d728041c5defa9b32078aa1a0f560111aca7b85110b6365c1b8afc93dd",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636044389/original.jpg",
       "provider_photo_id": 636044389,
       "provider_attribution": "(c) juliannarobles, some rights reserved (CC BY-NC)",
@@ -51,7 +62,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "fce9367676f69999749dc25df38c737cee512d3b42b02943e7a9009949fe50f4",
+      "display_blob_sha": "0d36e56e17e011adc4638ef7a4ad8ccdb6feab51",
+      "display_original_site_sha256": "9e4989d728041c5defa9b32078aa1a0f560111aca7b85110b6365c1b8afc93dd",
+      "display_original_blob_sha": "c4adcfac02e7d1d2c30769a5178ed63813d2b24c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 478483
     },
     {
       "src": "media/silybum-marianum/inat-640097629.jpg",
@@ -63,7 +85,7 @@
       "source_blob_sha": "96996f977225753c19696eb58c588671f9a04aa9",
       "sha256": "a5b62df25e0a40fd83ca001394fe4695eabd40550ab3e0600883a19fd1e09b2a",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640097629/original.jpg",
       "provider_photo_id": 640097629,
       "provider_attribution": "(c) kac721, some rights reserved (CC BY-NC)",
@@ -72,7 +94,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "573c4ad2d3d9b7ffaa8b0c95b0727e83ee7374d23654d103bc16f2150bcbff12",
+      "display_blob_sha": "1de3830656bc310cccc7a311b66e78136577d2c7",
+      "display_original_site_sha256": "a5b62df25e0a40fd83ca001394fe4695eabd40550ab3e0600883a19fd1e09b2a",
+      "display_original_blob_sha": "96996f977225753c19696eb58c588671f9a04aa9",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 493595
     },
     {
       "src": "media/silybum-marianum/inat-647151238.jpg",
@@ -84,7 +117,7 @@
       "source_blob_sha": "a4485b593057867cec82e6ad0618692f959ff8ba",
       "sha256": "85722bad85ca377cc167b3cee001be37d5029c6382717efa504589dc79809d50",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647151238/original.jpg",
       "provider_photo_id": 647151238,
       "provider_attribution": "(c) Charles Franks, some rights reserved (CC BY-NC)",
@@ -93,7 +126,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "7637a31f3e9877c18fd4b81c381e12c9bdbd8fa46cc669106df5be367c60a6ef",
+      "display_blob_sha": "9db6c3d8dd72985d0364ccade00d5d115a4d03c1",
+      "display_original_site_sha256": "85722bad85ca377cc167b3cee001be37d5029c6382717efa504589dc79809d50",
+      "display_original_blob_sha": "a4485b593057867cec82e6ad0618692f959ff8ba",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 747387
     },
     {
       "src": "media/silybum-marianum/inat-638374260.jpg",
@@ -105,7 +149,7 @@
       "source_blob_sha": "277752af1768dd23aeb6865fb9dad4c8818d6938",
       "sha256": "deb19b4c82dac3c6326eb7f370ac9fba1da7900f107e9cf27cc6cbd139faf997",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638374260/original.jpg",
       "provider_photo_id": 638374260,
       "provider_attribution": "(c) Griffin, some rights reserved (CC BY-NC)",
@@ -114,7 +158,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "20b40f56c76d60a5991aec0e489cf16c575ea1666748949915082e372576a682",
+      "display_blob_sha": "dabe757608f4225fb8d6cbd83466496fc2a72fd1",
+      "display_original_site_sha256": "deb19b4c82dac3c6326eb7f370ac9fba1da7900f107e9cf27cc6cbd139faf997",
+      "display_original_blob_sha": "277752af1768dd23aeb6865fb9dad4c8818d6938",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 531564
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

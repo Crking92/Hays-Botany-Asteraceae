@@ -57,7 +57,7 @@
       "source_blob_sha": "64849acf91765e6ed8fdc7dd11c2956648b06f77",
       "sha256": "e872e323c53339429322498858f92df5c46cae1a6501e61abf915411f20c3d40",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55832856/original.jpg",
       "provider_photo_id": 55832856,
       "provider_attribution": "(c) aliceceil, some rights reserved (CC BY-NC)",
@@ -66,7 +66,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "32b484b2d5684cd000610dd80994feff3276c2eef8cda15e612e3f6964910c8d",
+      "display_blob_sha": "23914f5c7cd0379360ef100405a46fa9ae6c4b1f",
+      "display_original_site_sha256": "e872e323c53339429322498858f92df5c46cae1a6501e61abf915411f20c3d40",
+      "display_original_blob_sha": "64849acf91765e6ed8fdc7dd11c2956648b06f77",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 744188
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

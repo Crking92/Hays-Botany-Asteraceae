@@ -61,7 +61,7 @@
       "source_blob_sha": "6b3f6e8a1add742efc9dfedfdd5ab6b90ade2dfa",
       "sha256": "60d0cd01817578a01bce538bd5c905799d5f8d8c8ecfb479d684dab195e1bf43",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654730466/original.jpg",
       "provider_photo_id": 654730466,
       "provider_attribution": "(c) David Willis, some rights reserved (CC BY-NC)",
@@ -70,7 +70,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "74b25bda537a803de1559b53cac4621350018c6c92e333a0bbf33e892aa527e2",
+      "display_blob_sha": "084e5b434e468d5e46883f9e4a766bb3b0c1a3fd",
+      "display_original_site_sha256": "60d0cd01817578a01bce538bd5c905799d5f8d8c8ecfb479d684dab195e1bf43",
+      "display_original_blob_sha": "6b3f6e8a1add742efc9dfedfdd5ab6b90ade2dfa",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2048
+      ],
+      "display_bytes": 577177
     },
     {
       "src": "media/symphyotrichum-patens/inat-487615506.jpeg",
@@ -82,7 +93,7 @@
       "source_blob_sha": "107bb16aa945c9703c1071c803e6b6f28c48f770",
       "sha256": "b21b570c9789c4aaeb59baf2a08561e83fca5ffdd8043267bac8d1fb88f9da68",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487615506/original.jpeg",
       "provider_photo_id": 487615506,
       "provider_attribution": "(c) meganphillipslowery, some rights reserved (CC BY-NC)",
@@ -91,7 +102,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "d1d0fc412e47408eddf74ddf9b5964683bbadd26b1fbda60de29463bba123df3",
+      "display_blob_sha": "b83e0d61f83facd028bdc8b385c696ff069a50e8",
+      "display_original_site_sha256": "b21b570c9789c4aaeb59baf2a08561e83fca5ffdd8043267bac8d1fb88f9da68",
+      "display_original_blob_sha": "107bb16aa945c9703c1071c803e6b6f28c48f770",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1538
+      ],
+      "display_bytes": 388784
     },
     {
       "src": "media/symphyotrichum-patens/inat-126267585.jpeg",
@@ -124,7 +146,7 @@
       "source_blob_sha": "776762e3c969feb08e3f837d3df0e604f3426509",
       "sha256": "142cd7d703940f06f8a5f5859777bf5d5d2e6821db256498f526711c84d57f36",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125329488/original.jpeg",
       "provider_photo_id": 125329488,
       "provider_attribution": "(c) Morgan Hay, some rights reserved (CC BY)",
@@ -133,7 +155,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a8e5ee478a8bc8ae4853e390911beb57b2941a41e067953cd524cb88144d64ff",
+      "display_blob_sha": "c5df3dc497a3eb4736194d77c0e912a02c593b01",
+      "display_original_site_sha256": "142cd7d703940f06f8a5f5859777bf5d5d2e6821db256498f526711c84d57f36",
+      "display_original_blob_sha": "776762e3c969feb08e3f837d3df0e604f3426509",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 468486
     },
     {
       "src": "media/symphyotrichum-patens/inat-36011827.jpg",

@@ -48,7 +48,7 @@
       "source_blob_sha": "606da08678447ef81f9663577f45f6041e2b87ff",
       "sha256": "5ab9cf46985c35357ebf36942212d26878d06217dbf4cf6602a8a153c49a227d",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559201932/original.jpg",
       "provider_photo_id": 559201932,
       "provider_attribution": "(c) Walter Flocke, some rights reserved (CC BY-NC)",
@@ -57,7 +57,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "3a09bdf0e6c9b04f8167ef4418c390c12e04a852e9a6f6c9458b560c95a80092",
+      "display_blob_sha": "c869e853eb3bbe05572fa2878a7ea64a962a481b",
+      "display_original_site_sha256": "5ab9cf46985c35357ebf36942212d26878d06217dbf4cf6602a8a153c49a227d",
+      "display_original_blob_sha": "606da08678447ef81f9663577f45f6041e2b87ff",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 604104
     },
     {
       "src": "media/silphium-laciniatum/inat-396649377.jpg",
@@ -69,7 +80,7 @@
       "source_blob_sha": "477add42694070bc3ac7d631636472f2b306eb95",
       "sha256": "c901a614d9e7f4e8e8301306f1856d89eb659386df299682531b83efdfe8aea0",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396649377/original.jpg",
       "provider_photo_id": 396649377,
       "provider_attribution": "(c) Cody Stricker, some rights reserved (CC BY)",
@@ -78,7 +89,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c99a68b3113f3112e603b5ed48ab56b22c01183cdbe8dca011554ef33c62f6b6",
+      "display_blob_sha": "5535ba48f5fc68867b56800d98b57fbf25cb5af9",
+      "display_original_site_sha256": "c901a614d9e7f4e8e8301306f1856d89eb659386df299682531b83efdfe8aea0",
+      "display_original_blob_sha": "477add42694070bc3ac7d631636472f2b306eb95",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 543860
     },
     {
       "src": "media/silphium-laciniatum/inat-302237245.jpg",
@@ -90,7 +112,7 @@
       "source_blob_sha": "9920e7d4cc0e3404b2abf7ccc08e592e317bea51",
       "sha256": "eb2f5d28a982b7a56b50e704ca0efa636dae12a995d012426e0a0cafd84a7319",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302237245/original.jpg",
       "provider_photo_id": 302237245,
       "provider_attribution": "(c) Craig Hensley, some rights reserved (CC BY)",
@@ -99,7 +121,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "308774a5aef1cbbde58d52ca326eacde100bf7c26e33e416bfe9110e626efc77",
+      "display_blob_sha": "bed19c0ec1e524a34d7ef3e7b1c9ddc39054ab33",
+      "display_original_site_sha256": "eb2f5d28a982b7a56b50e704ca0efa636dae12a995d012426e0a0cafd84a7319",
+      "display_original_blob_sha": "9920e7d4cc0e3404b2abf7ccc08e592e317bea51",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 643405
     },
     {
       "src": "media/silphium-laciniatum/inat-297133097.jpg",
@@ -111,7 +144,7 @@
       "source_blob_sha": "c58495e59f335cf56435a66f75f9a03cd93dc860",
       "sha256": "d5f36dcb4f5a75c812d143b83f4c4385a7b9a3d389368c3cf2fad65793161617",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297133097/original.jpg",
       "provider_photo_id": 297133097,
       "provider_attribution": "(c) Craig Hensley, some rights reserved (CC BY)",
@@ -120,7 +153,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "4002f591895258712197a9a5bb8e1d60dfb1e651189c65537508832f22f8daa4",
+      "display_blob_sha": "3cfd01514d49b28286be6f9b1878defd98cd0013",
+      "display_original_site_sha256": "d5f36dcb4f5a75c812d143b83f4c4385a7b9a3d389368c3cf2fad65793161617",
+      "display_original_blob_sha": "c58495e59f335cf56435a66f75f9a03cd93dc860",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 689165
     },
     {
       "src": "media/silphium-laciniatum/inat-139566227.jpeg",
@@ -132,7 +176,7 @@
       "source_blob_sha": "dbda8c4c58bdc5a2340890a6700b3fcdfd7b2949",
       "sha256": "79dea3b772b46d1b3cc86d31a659af0ef330a1c594105fffdef7c0dfea2a6429",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139566227/original.jpeg",
       "provider_photo_id": 139566227,
       "provider_attribution": "(c) blake hendon, some rights reserved (CC BY-NC)",
@@ -141,7 +185,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "e72eeb505bf902f5aad340bdbde571926f75ea196bef4898f222e0563a61ed6c",
+      "display_blob_sha": "6ab2f69f51d4d5767095c63cc35912aaac26fc5c",
+      "display_original_site_sha256": "79dea3b772b46d1b3cc86d31a659af0ef330a1c594105fffdef7c0dfea2a6429",
+      "display_original_blob_sha": "dbda8c4c58bdc5a2340890a6700b3fcdfd7b2949",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1266,
+        1900
+      ],
+      "display_bytes": 666851
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -45,7 +45,7 @@
       "source_blob_sha": "5808c61645b025ac8b2100af7fc91bf1fc32e88d",
       "sha256": "e844598128941a8efc694900561f793ce5e33dfe5c6ab4eb0c2e913c1259f00f",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628990984/original.jpg",
       "provider_photo_id": 628990984,
       "provider_attribution": "(c) gloriamarkiewicz, some rights reserved (CC BY-NC)",
@@ -54,7 +54,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "5a817b970188e6d0a6b9e63969169ff7c2aeef9dd78c24c065b61bbbbb55ccca",
+      "display_blob_sha": "8705e3fa1fb223d4a321e28f299b7d06c41d7e6f",
+      "display_original_site_sha256": "e844598128941a8efc694900561f793ce5e33dfe5c6ab4eb0c2e913c1259f00f",
+      "display_original_blob_sha": "5808c61645b025ac8b2100af7fc91bf1fc32e88d",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 681265
     },
     {
       "src": "media/solidago-mexicana/inat-626184489.jpg",
@@ -66,7 +77,7 @@
       "source_blob_sha": "ca00264799de8073ee3a974560be5efbb8fd6a9a",
       "sha256": "cfb37efd10a311300d6adbded890b91a7729ec9b9c067e63b5f74a81252240e4",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626184489/original.jpg",
       "provider_photo_id": 626184489,
       "provider_attribution": "(c) Mary Spolyar, some rights reserved (CC BY-NC)",
@@ -75,7 +86,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b8bb0f4d06964e3e848c9a948b3857a7e92da2d499ea310951d04479c8714eb6",
+      "display_blob_sha": "c64ba204dd22eb2db2c77aa8784a1ff78e5764d4",
+      "display_original_site_sha256": "cfb37efd10a311300d6adbded890b91a7729ec9b9c067e63b5f74a81252240e4",
+      "display_original_blob_sha": "ca00264799de8073ee3a974560be5efbb8fd6a9a",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 738976
     },
     {
       "src": "media/solidago-mexicana/inat-623656593.jpg",
@@ -87,7 +109,7 @@
       "source_blob_sha": "4efe2add13e8cee496dad828c1946fcd6cf574b0",
       "sha256": "ba3e1f3d8ad436d7b337072d2388e1ba1e9104567810f0c495aae6f48db04173",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623656593/original.jpg",
       "provider_photo_id": 623656593,
       "provider_attribution": "(c) Shannon @DirtNKids, some rights reserved (CC BY-NC)",
@@ -96,7 +118,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "8d595ed5ebbc47fa49bee7fec67f7ccc05bec17f4a31de428e7c9f1d117386a7",
+      "display_blob_sha": "2c6080e2d7370c9569c0eeb4142203b544e43190",
+      "display_original_site_sha256": "ba3e1f3d8ad436d7b337072d2388e1ba1e9104567810f0c495aae6f48db04173",
+      "display_original_blob_sha": "4efe2add13e8cee496dad828c1946fcd6cf574b0",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 491997
     },
     {
       "src": "media/solidago-mexicana/inat-631903824.jpg",
@@ -108,7 +141,7 @@
       "source_blob_sha": "3c9ac9a8855ceba91fb542344c7697aac146b8fc",
       "sha256": "a433100ce40ba1fe17f01c594d615f05e82552a417f090fda26dcc50593ce257",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631903824/original.jpg",
       "provider_photo_id": 631903824,
       "provider_attribution": "(c) Christoph Meinardus, some rights reserved (CC BY-NC)",
@@ -117,7 +150,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "edf5bb999f3c748a13351b6d77fc2be91e05f441e2474fe2d4bc16344f62bb87",
+      "display_blob_sha": "650fc51ec84d92d1223a6ea770a3e7d2ba7f7f75",
+      "display_original_site_sha256": "a433100ce40ba1fe17f01c594d615f05e82552a417f090fda26dcc50593ce257",
+      "display_original_blob_sha": "3c9ac9a8855ceba91fb542344c7697aac146b8fc",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 651284
     },
     {
       "src": "media/solidago-mexicana/inat-631904814.jpg",
@@ -129,7 +173,7 @@
       "source_blob_sha": "16a1907e0fa31a02d5f4c105ccd6abb9c76d19ce",
       "sha256": "e4a4cced5bd38294040e39691a3985e9cba014b2cda7831f656250b655159ca6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631904814/original.jpg",
       "provider_photo_id": 631904814,
       "provider_attribution": "(c) Christoph Meinardus, some rights reserved (CC BY-NC)",
@@ -138,7 +182,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "bb4258ac4b31e9599dab89bf9dff17f91cacfffc7456c2133314a79615bd6001",
+      "display_blob_sha": "d5d2761b50fdeca347e319a45a51900111258814",
+      "display_original_site_sha256": "e4a4cced5bd38294040e39691a3985e9cba014b2cda7831f656250b655159ca6",
+      "display_original_blob_sha": "16a1907e0fa31a02d5f4c105ccd6abb9c76d19ce",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 697900
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -73,7 +73,7 @@
       "source_blob_sha": "0a67daac6d269cdd648eedd7dbac5199b4feb4a6",
       "sha256": "15faab17bf2f85625480b18b84edebeb986cc67c62309764f14b28d3a89fbe79",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644363817/original.jpg",
       "provider_photo_id": 644363817,
       "provider_attribution": "(c) Carlos/Giancarla Ross (AnimeBirder), some rights reserved (CC BY-NC)",
@@ -82,7 +82,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "0ef02768ffa937dc2a6a27d47b775ae300b119d6edd6aa4f8e747c39cd91eff9",
+      "display_blob_sha": "f9d03d3e57e37b1eb41382937a18928d579f349d",
+      "display_original_site_sha256": "15faab17bf2f85625480b18b84edebeb986cc67c62309764f14b28d3a89fbe79",
+      "display_original_blob_sha": "0a67daac6d269cdd648eedd7dbac5199b4feb4a6",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 744269
     },
     {
       "src": "media/solidago-altissima/inat-648927053.jpg",
@@ -94,7 +105,7 @@
       "source_blob_sha": "b75d8f096180e9dcd91071da29e2b68a7409cf52",
       "sha256": "9cfce918ebe675666d1ef750bc8a982ec4950bc72c3be02ee4008faa057d308b",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648927053/original.jpg",
       "provider_photo_id": 648927053,
       "provider_attribution": "(c) twoldham, some rights reserved (CC BY-NC)",
@@ -103,7 +114,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b13aa526e3b979afcd9dc67883ff0a86a54f494de42611d4aa1e091da8389398",
+      "display_blob_sha": "b82c2f71b38fe91ac64c91b93935f4a5f3507409",
+      "display_original_site_sha256": "9cfce918ebe675666d1ef750bc8a982ec4950bc72c3be02ee4008faa057d308b",
+      "display_original_blob_sha": "b75d8f096180e9dcd91071da29e2b68a7409cf52",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1087,
+        1450
+      ],
+      "display_bytes": 653578
     },
     {
       "src": "media/solidago-altissima/inat-492884558.jpg",
@@ -115,7 +137,7 @@
       "source_blob_sha": "240e4703f1436c6b249b518a486baf6b86925e00",
       "sha256": "f2818e2ecab0bdbd54a79891bc39741f5efa1d28636c2ac0371e8adcb7dea290",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492884558/original.jpg",
       "provider_photo_id": 492884558,
       "provider_attribution": "(c) John Davis, some rights reserved (CC BY-NC)",
@@ -124,7 +146,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b618be274aa2ca0fd0b38ca242f24625248e9d8d56dea26cb9c4fe33b0351792",
+      "display_blob_sha": "799e0a4f1355806cf2a984101c0a346f28808f64",
+      "display_original_site_sha256": "f2818e2ecab0bdbd54a79891bc39741f5efa1d28636c2ac0371e8adcb7dea290",
+      "display_original_blob_sha": "240e4703f1436c6b249b518a486baf6b86925e00",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 650193
     },
     {
       "src": "media/solidago-altissima/inat-494628957.jpg",
@@ -136,7 +169,7 @@
       "source_blob_sha": "4434ee7a0c999d5228400617fe6efce5cf16237d",
       "sha256": "3bc1dc5e4c1ac994d5f2d261891e6f9e8ee10067ee8c4f71e758da3576506f9e",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494628957/original.jpg",
       "provider_photo_id": 494628957,
       "provider_attribution": "(c) Martha, some rights reserved (CC BY-NC)",
@@ -145,7 +178,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "e1b5a07f5f2da659ab8fdcf2b4e1a49253d5644f0b4e152e262155e2130cca3b",
+      "display_blob_sha": "f1eb24dc82ff6fc68f9fa83367246a987c2fc184",
+      "display_original_site_sha256": "3bc1dc5e4c1ac994d5f2d261891e6f9e8ee10067ee8c4f71e758da3576506f9e",
+      "display_original_blob_sha": "4434ee7a0c999d5228400617fe6efce5cf16237d",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 671966
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

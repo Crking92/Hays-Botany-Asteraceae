@@ -66,7 +66,7 @@
       "source_blob_sha": "cf8e0044182181fb81b3d660c3d01bba4bada2a6",
       "sha256": "c9ffc3df9b67f5ddc198b70ef1b47880b10c61221ed5cfe4be7ac2c271173ebe",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624746967/original.jpg",
       "provider_photo_id": 624746967,
       "provider_attribution": "(c) wmirshell, some rights reserved (CC BY-NC)",
@@ -75,7 +75,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1cbaf53868e8c68b5218328103dc9eedfa7f97c8d17784cba03a03996f4362db",
+      "display_blob_sha": "4aee008f60c4c90ae3e822440edad5729a6d69af",
+      "display_original_site_sha256": "c9ffc3df9b67f5ddc198b70ef1b47880b10c61221ed5cfe4be7ac2c271173ebe",
+      "display_original_blob_sha": "cf8e0044182181fb81b3d660c3d01bba4bada2a6",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 762417
     },
     {
       "src": "media/tetraneuris-linearifolia/inat-621614758.jpg",
@@ -87,7 +98,7 @@
       "source_blob_sha": "88ca27b5be792a53d892e48a2db104517a64f575",
       "sha256": "0586a82ba522b363b7a8500fb7d7f9cd34d908db09361e91ca81482fd4d6dfc5",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621614758/original.jpg",
       "provider_photo_id": 621614758,
       "provider_attribution": "(c) Meredith Lovelace, some rights reserved (CC BY-NC)",
@@ -96,7 +107,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "819fda84a2329c3681c61f8dd59626b39aadc51e65f7d9424dd4551294a31db3",
+      "display_blob_sha": "3fb290c4b78b00267792884d2a265b49042bfd6c",
+      "display_original_site_sha256": "0586a82ba522b363b7a8500fb7d7f9cd34d908db09361e91ca81482fd4d6dfc5",
+      "display_original_blob_sha": "88ca27b5be792a53d892e48a2db104517a64f575",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 358067
     },
     {
       "src": "media/tetraneuris-linearifolia/inat-627261325.jpg",
@@ -108,7 +130,7 @@
       "source_blob_sha": "77ca4a1c38cb7176182ae111fd8fa74cae1b730c",
       "sha256": "e9d951ed52789d88646de96af1eeff30be5b838b8c92981efad2840f961c795a",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627261325/original.jpg",
       "provider_photo_id": 627261325,
       "provider_attribution": "(c) nightmarenewt, some rights reserved (CC BY-NC)",
@@ -117,7 +139,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "adf0733e5429cc8ce748f4c5cd111e37c65bbb4a81723cb86968e6c0eece5a86",
+      "display_blob_sha": "db51fe75499e420318e3dc9cf2873269269e423d",
+      "display_original_site_sha256": "e9d951ed52789d88646de96af1eeff30be5b838b8c92981efad2840f961c795a",
+      "display_original_blob_sha": "77ca4a1c38cb7176182ae111fd8fa74cae1b730c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 293648
     },
     {
       "src": "media/tetraneuris-linearifolia/inat-625512145.jpg",
@@ -129,7 +162,7 @@
       "source_blob_sha": "c55fd7ba888eef582c9a37f1fccb4a2c538df69c",
       "sha256": "74f68ad4697d1cee408f8ddae148fd225eeec9ab2da1de85b07132316c9f4168",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625512145/original.jpg",
       "provider_photo_id": 625512145,
       "provider_attribution": "(c) rmorrow009, some rights reserved (CC BY-NC)",
@@ -138,7 +171,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "66bbb45feb7b12fbfdf8174f90305b123e0f78979a2a202b4f78ab8f1999c08f",
+      "display_blob_sha": "9b7cccb83687623101adc107ccbc92865ad57c30",
+      "display_original_site_sha256": "74f68ad4697d1cee408f8ddae148fd225eeec9ab2da1de85b07132316c9f4168",
+      "display_original_blob_sha": "c55fd7ba888eef582c9a37f1fccb4a2c538df69c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 622222
     },
     {
       "src": "media/tetraneuris-linearifolia/inat-629624118.jpg",
@@ -150,7 +194,7 @@
       "source_blob_sha": "dd786c0e03eddd2dd6f5a808de849c6ca2490edb",
       "sha256": "3bb37fc0c7d4cea14a22e943b31ad732cc1cebf74e4528746e0d320dd0f09c81",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629624118/original.jpg",
       "provider_photo_id": 629624118,
       "provider_attribution": "(c) kathybf, some rights reserved (CC BY-NC)",
@@ -159,7 +203,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a261c0c745dc3bc7f22ba7198cdde3c82f9b2edb602ea2c1baa450587633d78c",
+      "display_blob_sha": "bce9ef0aae8801388b631583b34f3cd8b2da6fba",
+      "display_original_site_sha256": "3bb37fc0c7d4cea14a22e943b31ad732cc1cebf74e4528746e0d320dd0f09c81",
+      "display_original_blob_sha": "dd786c0e03eddd2dd6f5a808de849c6ca2490edb",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        984,
+        1750
+      ],
+      "display_bytes": 708075
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

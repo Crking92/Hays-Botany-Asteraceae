@@ -62,7 +62,7 @@
       "source_blob_sha": "de86c622601f38223535767c3c471d60f787ccee",
       "sha256": "db54500c3b6686c8369395bc0783a23cb22a21e2cbe14d72a4b90b673edb43c3",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509956272/original.jpg",
       "provider_photo_id": 509956272,
       "provider_attribution": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
@@ -71,7 +71,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "37d4a52ca54f5aaa61111c79baec94441840fac4255b4ce84a900902bfa97bc2",
+      "display_blob_sha": "651a1c6218e75bc9bb9bbc88d63bb28be25f0d91",
+      "display_original_site_sha256": "db54500c3b6686c8369395bc0783a23cb22a21e2cbe14d72a4b90b673edb43c3",
+      "display_original_blob_sha": "de86c622601f38223535767c3c471d60f787ccee",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1313
+      ],
+      "display_bytes": 671169
     },
     {
       "src": "media/silphium-albiflorum/inat-521989511.jpg",
@@ -83,7 +94,7 @@
       "source_blob_sha": "a114bc9e00d4f75a89110c35e304e9af0c7595e5",
       "sha256": "4df1b164e8a5a94a5ad1856a73c399a086d13367baa9398e1bce7ff40f0a7a1a",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521989511/original.jpg",
       "provider_photo_id": 521989511,
       "provider_attribution": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
@@ -92,7 +103,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1d043f1057c70e53859c8f41b99152249012a6b146dfcb961c9a292ed1f338c1",
+      "display_blob_sha": "1874be8a70a32feccaa3403059897e47b49c53c0",
+      "display_original_site_sha256": "4df1b164e8a5a94a5ad1856a73c399a086d13367baa9398e1bce7ff40f0a7a1a",
+      "display_original_blob_sha": "a114bc9e00d4f75a89110c35e304e9af0c7595e5",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 593339
     },
     {
       "src": "media/silphium-albiflorum/inat-521989285.jpg",
@@ -125,7 +147,7 @@
       "source_blob_sha": "da4dcfeaf4afdfee54d405d44e142fa499dd274e",
       "sha256": "4d1fb12872306bd653e8ef6fbc2e7da54b9b30070c5db1a99753d5eea7b666e9",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199679942/original.jpg",
       "provider_photo_id": 199679942,
       "provider_attribution": "(c) aoshea3, some rights reserved (CC BY-NC)",
@@ -134,7 +156,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b561d05b54df3574aca7da8fdfc68b9d90eb9b271003e39754fe5e2e94de4468",
+      "display_blob_sha": "78b02259f081c1b59e304817ce4210d9700426bd",
+      "display_original_site_sha256": "4d1fb12872306bd653e8ef6fbc2e7da54b9b30070c5db1a99753d5eea7b666e9",
+      "display_original_blob_sha": "da4dcfeaf4afdfee54d405d44e142fa499dd274e",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 708982
     },
     {
       "src": "media/silphium-albiflorum/inat-42048443.jpg",
@@ -146,7 +179,7 @@
       "source_blob_sha": "8cb2958ac9943c2e933cb027bf1f3f0bddf8d46a",
       "sha256": "6fcda942f3efbc64bce769f68f51284c50da5187c705c2d88f448795d44033ea",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42048443/original.jpg",
       "provider_photo_id": 42048443,
       "provider_attribution": "(c) Matt, some rights reserved (CC BY-NC)",
@@ -155,7 +188,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "5f3d6441fac00d88e9279100e362205bc1dca55cccbe8d964c189c44c358bd69",
+      "display_blob_sha": "18395d43f884c33be7a1eb20710288604544cd2f",
+      "display_original_site_sha256": "6fcda942f3efbc64bce769f68f51284c50da5187c705c2d88f448795d44033ea",
+      "display_original_blob_sha": "8cb2958ac9943c2e933cb027bf1f3f0bddf8d46a",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 700302
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -52,7 +52,7 @@
       "source_blob_sha": "f0bf355e3ec0e053bf9f5dd12571a297d37ead95",
       "sha256": "3bedd139126eb8ae84ae0d3eb8f899f11fa87592c60458022c732f64934216ad",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629605263/original.jpg",
       "provider_photo_id": 629605263,
       "provider_attribution": "(c) Eric Seaberg, some rights reserved (CC BY-NC)",
@@ -61,7 +61,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a66a9d5d4cf27282f876baf23f620f0bc2aa8f0f7ee4e6fdd7b046416a966bd4",
+      "display_blob_sha": "ad3816f87fcdeaf7abc244264724ce35880524ba",
+      "display_original_site_sha256": "3bedd139126eb8ae84ae0d3eb8f899f11fa87592c60458022c732f64934216ad",
+      "display_original_blob_sha": "f0bf355e3ec0e053bf9f5dd12571a297d37ead95",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1542,
+        2048
+      ],
+      "display_bytes": 692664
     },
     {
       "src": "media/tetragonotheca-texana/inat-636690761.jpg",
@@ -94,7 +105,7 @@
       "source_blob_sha": "455efd856fbc9903686a9fa597b75a1d4d0a7abd",
       "sha256": "d9bb6b5679017141c8c9dff24cb816c4cd65d713468fc8b3f4c3a13271a74e32",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634928570/original.jpg",
       "provider_photo_id": 634928570,
       "provider_attribution": "(c) Curren Frasch, some rights reserved (CC BY-NC)",
@@ -103,7 +114,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "4f35c391185114649737a421da6c7a91cc836760ad5fc6bdce419a4fb2e9b811",
+      "display_blob_sha": "eb6df671d70025abca2f26d29b8e2cc0690e7ba8",
+      "display_original_site_sha256": "d9bb6b5679017141c8c9dff24cb816c4cd65d713468fc8b3f4c3a13271a74e32",
+      "display_original_blob_sha": "455efd856fbc9903686a9fa597b75a1d4d0a7abd",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 575422
     },
     {
       "src": "media/tetragonotheca-texana/inat-638830153.jpg",
@@ -115,7 +137,7 @@
       "source_blob_sha": "bfd88af4efbd1baee6badcdafde9a73ca2e06741",
       "sha256": "ce7093c6e640162f002aa4ba46cd4e48cc620f3630684439acd7ec4638f4c203",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638830153/original.jpg",
       "provider_photo_id": 638830153,
       "provider_attribution": "(c) charlottereemts, some rights reserved (CC BY-NC)",
@@ -124,7 +146,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "20c8d5c90f6f09de125bdf736954268ebf1fcad045ba840ca59f95a423534a07",
+      "display_blob_sha": "4f4c5e971ac4b93151ed75cb5120d3dde6325364",
+      "display_original_site_sha256": "ce7093c6e640162f002aa4ba46cd4e48cc620f3630684439acd7ec4638f4c203",
+      "display_original_blob_sha": "bfd88af4efbd1baee6badcdafde9a73ca2e06741",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 353662
     },
     {
       "src": "media/tetragonotheca-texana/inat-646628009.jpg",
@@ -136,7 +169,7 @@
       "source_blob_sha": "ec3a6294bd13d0ab196e86a8c570367c6556146f",
       "sha256": "454bc1bdb1b8dc699831b0710706e93790fb25d6d033d81e1f463c174942e503",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646628009/original.jpg",
       "provider_photo_id": 646628009,
       "provider_attribution": "(c) magicmeg, some rights reserved (CC BY-NC)",
@@ -145,7 +178,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "46ad123615f2157c7bda31be17cc0a6d59993a3636ab86001e09a5d6dbbcc90f",
+      "display_blob_sha": "5d92661e17f026adad48e64f739dc1085fbbcd13",
+      "display_original_site_sha256": "454bc1bdb1b8dc699831b0710706e93790fb25d6d033d81e1f463c174942e503",
+      "display_original_blob_sha": "ec3a6294bd13d0ab196e86a8c570367c6556146f",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 696480
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

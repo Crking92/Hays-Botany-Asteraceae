@@ -43,7 +43,7 @@
       "source_blob_sha": "4400590fec8a8da7f65bfd85084150e9dfc4fc1a",
       "sha256": "b16a2ea932c56b9c1a561c8ab2bf11287dbe6a8f9a2e2d8a9bed107a82cc7053",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626836524/original.jpg",
       "provider_photo_id": 626836524,
       "provider_attribution": "(c) Joanne Toler, some rights reserved (CC BY-NC)",
@@ -52,7 +52,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "862474c7704bcacc906148ac241263993c2a9f78724e176ee7880785e60ef96b",
+      "display_blob_sha": "422642b256ada0bac751cdfeb21799bb0fd3718b",
+      "display_original_site_sha256": "b16a2ea932c56b9c1a561c8ab2bf11287dbe6a8f9a2e2d8a9bed107a82cc7053",
+      "display_original_blob_sha": "4400590fec8a8da7f65bfd85084150e9dfc4fc1a",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1371
+      ],
+      "display_bytes": 769678
     },
     {
       "src": "media/tetraneuris-acaulis/inat-626836302.jpg",
@@ -64,7 +75,7 @@
       "source_blob_sha": "3fef6df2f3a7c7b792cb1dcb46785e0f4e417c3d",
       "sha256": "cd07702cad442c28a424aab4210ed57bea96f5802046739a6b18e4e5fa20fe3f",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626836302/original.jpg",
       "provider_photo_id": 626836302,
       "provider_attribution": "(c) Joanne Toler, some rights reserved (CC BY-NC)",
@@ -73,7 +84,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "db256fec9d9f8d745fccc4a37c390910ed4a94b6972ba2b576ac11836140b9bc",
+      "display_blob_sha": "af073b90a2b6d6fdecb06e5dc9caf09f0aba7ace",
+      "display_original_site_sha256": "cd07702cad442c28a424aab4210ed57bea96f5802046739a6b18e4e5fa20fe3f",
+      "display_original_blob_sha": "3fef6df2f3a7c7b792cb1dcb46785e0f4e417c3d",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1371
+      ],
+      "display_bytes": 777295
     },
     {
       "src": "media/tetraneuris-acaulis/inat-636728403.jpg",
@@ -106,7 +128,7 @@
       "source_blob_sha": "321b1d4e8bcffeb6216cee5173c6154bac3da2a9",
       "sha256": "a20c8d09d19a72b94239a9394a63b36a23ecb5536d3f1e0a318faf5ea622354e",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649117507/original.jpg",
       "provider_photo_id": 649117507,
       "provider_attribution": "(c) Nathan Aaron, some rights reserved (CC BY)",
@@ -115,7 +137,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "6e2ea86a33931bbd31a78385b01110cb5286138e6e257fde58d4d580f56fd6e3",
+      "display_blob_sha": "f245f486d711614828c32cfd0b95e7e8f118a8a8",
+      "display_original_site_sha256": "a20c8d09d19a72b94239a9394a63b36a23ecb5536d3f1e0a318faf5ea622354e",
+      "display_original_blob_sha": "321b1d4e8bcffeb6216cee5173c6154bac3da2a9",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1267,
+        1900
+      ],
+      "display_bytes": 724521
     },
     {
       "src": "media/tetraneuris-acaulis/inat-649098406.jpg",
@@ -127,7 +160,7 @@
       "source_blob_sha": "4ed9d2be8f4a433949626a5b30d2c51f44494e9c",
       "sha256": "1a65c109e044c76d24b4dde3afdcb00c0bf7c80ea65df55f6e72b994706badd2",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649098406/original.jpg",
       "provider_photo_id": 649098406,
       "provider_attribution": "(c) Nathan Aaron, some rights reserved (CC BY)",
@@ -136,7 +169,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a19aed286fbb02ff7ecdb517acac7b01417adec68753b13efc9f9bf1259d7aba",
+      "display_blob_sha": "3deb6470328b9cc2f54fbf51f76e0afed91351aa",
+      "display_original_site_sha256": "1a65c109e044c76d24b4dde3afdcb00c0bf7c80ea65df55f6e72b994706badd2",
+      "display_original_blob_sha": "4ed9d2be8f4a433949626a5b30d2c51f44494e9c",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1266,
+        1900
+      ],
+      "display_bytes": 685517
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -46,7 +46,7 @@
       "source_blob_sha": "839f6c60d934f1b84da938dbc052e5b766c4c414",
       "sha256": "b34380da8e81dae7f0498a046d9b4b0ca4924d8a6c701871ced8a7f4c78a5dc8",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633424534/original.jpg",
       "provider_photo_id": 633424534,
       "provider_attribution": "(c) Reid Hardin, some rights reserved (CC BY)",
@@ -55,7 +55,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a5bfd7255041c395393912b4417ac828125a9f1684cb9bd29c174135c38b9833",
+      "display_blob_sha": "a3d7269f26aaf3286d6da483251afec652963279",
+      "display_original_site_sha256": "b34380da8e81dae7f0498a046d9b4b0ca4924d8a6c701871ced8a7f4c78a5dc8",
+      "display_original_blob_sha": "839f6c60d934f1b84da938dbc052e5b766c4c414",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1365
+      ],
+      "display_bytes": 380903
     },
     {
       "src": "media/solidago-juliae/inat-326296471.jpg",
@@ -67,7 +78,7 @@
       "source_blob_sha": "6f23de77c7efb77afc2746e31a72566979807d7a",
       "sha256": "c8b5d917882571abce8900e0788d93feae579e4df3c067d5ec0bfbbeb37b5b46",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326296471/original.jpg",
       "provider_photo_id": 326296471,
       "provider_attribution": "(c) csteigerwald, some rights reserved (CC BY-NC)",
@@ -76,7 +87,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "91acabb2fd9a19bdd293f12d2cf2dc80c01fb03c172215fc874255ee644bfd61",
+      "display_blob_sha": "7041b494e2419a9faf5eab7e82ef366c595d8611",
+      "display_original_site_sha256": "c8b5d917882571abce8900e0788d93feae579e4df3c067d5ec0bfbbeb37b5b46",
+      "display_original_blob_sha": "6f23de77c7efb77afc2746e31a72566979807d7a",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 707885
     },
     {
       "src": "media/solidago-juliae/inat-328815674.jpg",
@@ -88,7 +110,7 @@
       "source_blob_sha": "6339046e4f84400eda83f539ca25fc84b944fbd2",
       "sha256": "8450022efb0d19ca8462ba750fb6d43148ab119d7d8d36b7a7e16774689eae83",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/328815674/original.jpg",
       "provider_photo_id": 328815674,
       "provider_attribution": "(c) mochabonsai, some rights reserved (CC BY-NC)",
@@ -97,7 +119,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "0c4057d8a691ccc0417aa7ab984c30f91d30a656b82f008fbe4f1bb95ae563d2",
+      "display_blob_sha": "24833dbec216adf3df3e4af275e5b2d34d1563ea",
+      "display_original_site_sha256": "8450022efb0d19ca8462ba750fb6d43148ab119d7d8d36b7a7e16774689eae83",
+      "display_original_blob_sha": "6339046e4f84400eda83f539ca25fc84b944fbd2",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 774103
     },
     {
       "src": "media/solidago-juliae/inat-625353410.jpg",
@@ -109,7 +142,7 @@
       "source_blob_sha": "649a08da9c5ec86d2bcc04837849ec499ee14bb1",
       "sha256": "c4d8698ec4e256e650b9b179b0f9393b4d6304fa7cf1d9a98abf619c3a1b8609",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625353410/original.jpg",
       "provider_photo_id": 625353410,
       "provider_attribution": "(c) Saunders Drukker, some rights reserved (CC BY-NC)",
@@ -118,7 +151,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "0106da67da36066882073868780d5b751b0aa71fd60ab19670480a941188ab36",
+      "display_blob_sha": "a1e9cae0f40a19d0f88185a622ed868e5756dd63",
+      "display_original_site_sha256": "c4d8698ec4e256e650b9b179b0f9393b4d6304fa7cf1d9a98abf619c3a1b8609",
+      "display_original_blob_sha": "649a08da9c5ec86d2bcc04837849ec499ee14bb1",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 715652
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

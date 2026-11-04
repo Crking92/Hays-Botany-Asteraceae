@@ -56,7 +56,7 @@
       "source_blob_sha": "356bef56b985e38f74247fdd990cd3cac8159708",
       "sha256": "de8fbdd96d1c868bd9e4e1bba86eb9187f1526fe15d90bc4310108f5fe276de8",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369871391/original.jpeg",
       "provider_photo_id": 369871391,
       "provider_attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
@@ -65,7 +65,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "9e1b12a1073465f412296ce757d147ce7e6c1edd5c019beabca0123a6636ae24",
+      "display_blob_sha": "0892c2c81a864568ddf90dc220f717dea046d7bb",
+      "display_original_site_sha256": "de8fbdd96d1c868bd9e4e1bba86eb9187f1526fe15d90bc4310108f5fe276de8",
+      "display_original_blob_sha": "356bef56b985e38f74247fdd990cd3cac8159708",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 582242
     },
     {
       "src": "media/symphyotrichum-sericeum/inat-301407373.jpg",
@@ -77,7 +88,7 @@
       "source_blob_sha": "58b34845e91255dc46aa1219add7bd7897190cd0",
       "sha256": "92060d4557ea69c36606c509776262bbd12387435e6335cc532ca8922148936b",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301407373/original.jpg",
       "provider_photo_id": 301407373,
       "provider_attribution": "(c) Matt Reala, some rights reserved (CC BY-NC)",
@@ -86,7 +97,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c64b45e9efc64484f9e8811843c119ae9702bee579e0541adf4484321babde5a",
+      "display_blob_sha": "ccf87886e60e7ed8985ee082861e5df3ed6a2128",
+      "display_original_site_sha256": "92060d4557ea69c36606c509776262bbd12387435e6335cc532ca8922148936b",
+      "display_original_blob_sha": "58b34845e91255dc46aa1219add7bd7897190cd0",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 699183
     },
     {
       "src": "media/symphyotrichum-sericeum/inat-70455578.jpeg",
@@ -119,7 +141,7 @@
       "source_blob_sha": "44a172682e5ac838575d0f6449165b6d1e0c2f52",
       "sha256": "32c41e625379d1adbc0fa3b97ba9fdfbcb4b9bbe2b25dbe6ea389ff362d9b50b",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7286164/original.jpg",
       "provider_photo_id": 7286164,
       "provider_attribution": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
@@ -128,7 +150,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "56377807cfddce7a83a0fb3d6ffd208e50abe038c6c05b9f6fd44a436eec7233",
+      "display_blob_sha": "3f3499dbf4b0e9cb5409ba4a53fc4a17cf880a8f",
+      "display_original_site_sha256": "32c41e625379d1adbc0fa3b97ba9fdfbcb4b9bbe2b25dbe6ea389ff362d9b50b",
+      "display_original_blob_sha": "44a172682e5ac838575d0f6449165b6d1e0c2f52",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "display_bytes": 265776
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

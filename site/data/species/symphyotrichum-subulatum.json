@@ -33,7 +33,7 @@
       "source_blob_sha": "f4cc66f29adf6f943ee81a446b1d6a9157ccc1c5",
       "sha256": "f276200ed994a3fde3c35645833a1e0fb69ed6fadc7ce0a19b9c3235358d4eb8",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653237286/original.jpg",
       "provider_photo_id": 653237286,
       "provider_attribution": "(c) dpechal, some rights reserved (CC BY-NC)",
@@ -42,7 +42,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "dcecdb9ddac2d81bdc43b911d62a09e848a077df5448b9bb88b4637267444f80",
+      "display_blob_sha": "2e9037a94e5f42f926396a4f16aeb3c75551acfb",
+      "display_original_site_sha256": "f276200ed994a3fde3c35645833a1e0fb69ed6fadc7ce0a19b9c3235358d4eb8",
+      "display_original_blob_sha": "f4cc66f29adf6f943ee81a446b1d6a9157ccc1c5",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 696359
     },
     {
       "src": "media/symphyotrichum-subulatum/inat-654057329.jpg",
@@ -54,7 +65,7 @@
       "source_blob_sha": "e03821c10acd2d382fdc4833d868027cb8b31d5f",
       "sha256": "5c49905113ed784433355e39881d1d7aeb4ecd7bf93bf4b2c95245bf09ad59f8",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654057329/original.jpg",
       "provider_photo_id": 654057329,
       "provider_attribution": "(c) blanchegarde, some rights reserved (CC BY-NC)",
@@ -63,7 +74,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "186b2eecd0403bc74e15cc4036c9e7d9cf856391ddd8cff03584cf7118b116d7",
+      "display_blob_sha": "14ed82750838972ffb5d29ac1b0e25d953bcb29f",
+      "display_original_site_sha256": "5c49905113ed784433355e39881d1d7aeb4ecd7bf93bf4b2c95245bf09ad59f8",
+      "display_original_blob_sha": "e03821c10acd2d382fdc4833d868027cb8b31d5f",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 565040
     },
     {
       "src": "media/symphyotrichum-subulatum/inat-266530946.jpeg",
@@ -117,7 +139,7 @@
       "source_blob_sha": "52050f3519955ec855cb5fdb38940c92b903c960",
       "sha256": "61795cb23044fb6e80c8f69ddde5a4dfe7e90ff502f69af7eeb492ba592de1a8",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/213317618/original.jpg",
       "provider_photo_id": 213317618,
       "provider_attribution": "(c) Craig Bruska, some rights reserved (CC BY-NC)",
@@ -126,7 +148,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "e4232562f28418303eb51bd3b41949de1525bce645e5b5cc4833d27b072f9aaa",
+      "display_blob_sha": "4e1643096e72faec124a7a51c2a22655f692ff98",
+      "display_original_site_sha256": "61795cb23044fb6e80c8f69ddde5a4dfe7e90ff502f69af7eeb492ba592de1a8",
+      "display_original_blob_sha": "52050f3519955ec855cb5fdb38940c92b903c960",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 756324
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

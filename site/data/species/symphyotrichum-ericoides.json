@@ -49,7 +49,7 @@
       "source_blob_sha": "dadf333e0078fff8f571f64ddcdbc21a1a617b66",
       "sha256": "78f5170d9b46a3230ccb584d3da3978c976228fe6bc8eb1453f8e72e8e34b096",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662957104/original.jpg",
       "provider_photo_id": 662957104,
       "provider_attribution": "(c) David Willis, some rights reserved (CC BY-NC)",
@@ -58,7 +58,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c9b86674ceccd88fde34372c6fe8551df1b02cc73db225ecb730805ce781fd83",
+      "display_blob_sha": "eedccc79a1111232b219291696574d45f6d62373",
+      "display_original_site_sha256": "78f5170d9b46a3230ccb584d3da3978c976228fe6bc8eb1453f8e72e8e34b096",
+      "display_original_blob_sha": "dadf333e0078fff8f571f64ddcdbc21a1a617b66",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        2048
+      ],
+      "display_bytes": 569222
     },
     {
       "src": "media/symphyotrichum-ericoides/inat-667434897.jpg",
@@ -70,7 +81,7 @@
       "source_blob_sha": "07d3cab764567881c0f898b4c647ff0baf107b36",
       "sha256": "79eb1620d6094e3dd26c1b8d64cbc1b015eab9617f09c8d83d10d0f20ba48d3c",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667434897/original.jpg",
       "provider_photo_id": 667434897,
       "provider_attribution": "(c) milosmith, some rights reserved (CC BY-NC)",
@@ -79,7 +90,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c5c3eb9c11f31996e24df0717261b0d09d0feb2096abf983fbcbf1eb9f9f0f1a",
+      "display_blob_sha": "3bb92bd9d7c824ba40be46056aa7d469f2b0ef2c",
+      "display_original_site_sha256": "79eb1620d6094e3dd26c1b8d64cbc1b015eab9617f09c8d83d10d0f20ba48d3c",
+      "display_original_blob_sha": "07d3cab764567881c0f898b4c647ff0baf107b36",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 739680
     },
     {
       "src": "media/symphyotrichum-ericoides/inat-584682569.jpg",
@@ -91,7 +113,7 @@
       "source_blob_sha": "0ca0cfe3cc32943cb53d618819051886b387beee",
       "sha256": "110f88dc0836c106cc4fe3ffb577032624e2852b891cef351922d975c5130414",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584682569/original.jpg",
       "provider_photo_id": 584682569,
       "provider_attribution": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
@@ -100,7 +122,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "3f00e53a10cb37c40c2eca3d6a53e7e615db4aca2551c92cf0022a058e1eb204",
+      "display_blob_sha": "343b40e02a2b3ff8faac82ddb47d30870d2641bf",
+      "display_original_site_sha256": "110f88dc0836c106cc4fe3ffb577032624e2852b891cef351922d975c5130414",
+      "display_original_blob_sha": "0ca0cfe3cc32943cb53d618819051886b387beee",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 670805
     },
     {
       "src": "media/symphyotrichum-ericoides/inat-586472849.jpg",
@@ -112,7 +145,7 @@
       "source_blob_sha": "5933513444798e7f074a3cc5f54e1333d4ad846b",
       "sha256": "8962aff4ced74975de6b19244e02c13535df42e896c75b288671a57dafb75c4b",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586472849/original.jpg",
       "provider_photo_id": 586472849,
       "provider_attribution": "(c) John Davis, some rights reserved (CC BY-NC)",
@@ -121,7 +154,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a6b50564e0cfe0059add20c5cc3bec0d2a32b0ed5e9a451ace1fcab1fbe7e2ae",
+      "display_blob_sha": "9056b26032a0e8be4572c53b2b3bbea4fdb17b07",
+      "display_original_site_sha256": "8962aff4ced74975de6b19244e02c13535df42e896c75b288671a57dafb75c4b",
+      "display_original_blob_sha": "5933513444798e7f074a3cc5f54e1333d4ad846b",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 517071
     },
     {
       "src": "media/symphyotrichum-ericoides/inat-585381216.jpg",
@@ -133,7 +177,7 @@
       "source_blob_sha": "e497312d33b1a4666f0f34c49b66371c348d7e6a",
       "sha256": "c3665260ac7a219f04bec720a49160ef4a29857d2736fac06405b8bd3a847275",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585381216/original.jpg",
       "provider_photo_id": 585381216,
       "provider_attribution": "(c) Amanda Laboy, some rights reserved (CC BY-NC)",
@@ -142,7 +186,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "3a21f22805bde01037baa9bfb482c507780d20866cd55e13e006d84b48f8bf2c",
+      "display_blob_sha": "7f9c2f446f12c375c151c1f2efd94cd250511cb8",
+      "display_original_site_sha256": "c3665260ac7a219f04bec720a49160ef4a29857d2736fac06405b8bd3a847275",
+      "display_original_blob_sha": "e497312d33b1a4666f0f34c49b66371c348d7e6a",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 639887
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

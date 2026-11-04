@@ -58,7 +58,7 @@
       "source_blob_sha": "9d00da55bc610e9653f65e3c1db5dd8b5003b8d2",
       "sha256": "1cede58d3c841d5268e4546e03180be2edef78fbd9d62a35de361e81a7942ca4",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571674479/original.jpg",
       "provider_photo_id": 571674479,
       "provider_attribution": "(c) raemonadae, some rights reserved (CC BY-NC)",
@@ -67,7 +67,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "2b74af5e325d84172948aa9b2bd5e627f6c78531f0cc3987e3fb295f203a4148",
+      "display_blob_sha": "7f4a79f403122d027d49c913b31954d72da6cf39",
+      "display_original_site_sha256": "1cede58d3c841d5268e4546e03180be2edef78fbd9d62a35de361e81a7942ca4",
+      "display_original_blob_sha": "9d00da55bc610e9653f65e3c1db5dd8b5003b8d2",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 682711
     },
     {
       "src": "media/solidago-gigantea/inat-242075271.jpg",
@@ -79,7 +90,7 @@
       "source_blob_sha": "1659b40465deeff06a3892894fcb488f3e2a769b",
       "sha256": "166323cdc8ae4216778303516205e0ee3c08a7efd31a9ac6f939bb6b4b4d4fad",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242075271/original.jpg",
       "provider_photo_id": 242075271,
       "provider_attribution": "(c) kimkennedysa, some rights reserved (CC BY-NC)",
@@ -88,7 +99,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b322eb0a4a0617d9b6cfbe45229618fb13968739a86f0529336c3b2a824fdae5",
+      "display_blob_sha": "ece28ca09ce0d6eca6c7c0d4ab3894b9d092b428",
+      "display_original_site_sha256": "166323cdc8ae4216778303516205e0ee3c08a7efd31a9ac6f939bb6b4b4d4fad",
+      "display_original_blob_sha": "1659b40465deeff06a3892894fcb488f3e2a769b",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 761553
     },
     {
       "src": "media/solidago-gigantea/inat-479394511.jpeg",
@@ -100,7 +122,7 @@
       "source_blob_sha": "74f49e0ce68ec3f6f7a3ed5e21a5a70ecc623063",
       "sha256": "e5b2c708e10911341577c24147d1a6044011033dfc0ad9801e9795c97ddfe3ff",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479394511/original.jpeg",
       "provider_photo_id": 479394511,
       "provider_attribution": "(c) Michelle Goerdel, some rights reserved (CC BY-NC)",
@@ -109,7 +131,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "8433c907860d1498b0a814d4d8e2bd0f238e9b2ecea43eeaf8e2cbe97ad223c9",
+      "display_blob_sha": "c58c22a2fec92bd72c2a5e0e51e90493f8943f54",
+      "display_original_site_sha256": "e5b2c708e10911341577c24147d1a6044011033dfc0ad9801e9795c97ddfe3ff",
+      "display_original_blob_sha": "74f49e0ce68ec3f6f7a3ed5e21a5a70ecc623063",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1750,
+        1750
+      ],
+      "display_bytes": 674933
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

@@ -35,7 +35,7 @@
       "source_blob_sha": "91c29bfc7de224c6fa01c992d3b4339114246497",
       "sha256": "5b27d48ebf8193152c9a4db4fdf22175d53b4890f4ba2cd7a736ea68b31b7d8a",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371442989/original.jpg",
       "provider_photo_id": 371442989,
       "provider_attribution": "(c) Madison Gover, some rights reserved (CC BY-NC)",
@@ -44,7 +44,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b75a4e177252ddc189ba9d99ddde29dac10608fae5e685eff31a9763eee95db5",
+      "display_blob_sha": "8d40cb07247d184a8f956bf7f7518aee44dfcfbe",
+      "display_original_site_sha256": "5b27d48ebf8193152c9a4db4fdf22175d53b4890f4ba2cd7a736ea68b31b7d8a",
+      "display_original_blob_sha": "91c29bfc7de224c6fa01c992d3b4339114246497",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 735280
     },
     {
       "src": "media/sidneya-tenuifolia/inat-595840572.jpg",
@@ -56,7 +67,7 @@
       "source_blob_sha": "820ff7562971fd2448e096102b469fd46d78a687",
       "sha256": "930f337ef766b8ac0a5eb933170da33c048ee6b3de70eec6cbc999ba09fb5160",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595840572/original.jpg",
       "provider_photo_id": 595840572,
       "provider_attribution": "(c) cheeky2213, some rights reserved (CC BY-NC)",
@@ -65,7 +76,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "6a26ec44f804509e17df10b1ed9df59b4ffae0051540039ae27dc7b37f3272e1",
+      "display_blob_sha": "2173984adc4792fff31b55325034e277c0e80640",
+      "display_original_site_sha256": "930f337ef766b8ac0a5eb933170da33c048ee6b3de70eec6cbc999ba09fb5160",
+      "display_original_blob_sha": "820ff7562971fd2448e096102b469fd46d78a687",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1200,
+        1600
+      ],
+      "display_bytes": 665140
     },
     {
       "src": "media/sidneya-tenuifolia/inat-644889422.jpg",
@@ -77,7 +99,7 @@
       "source_blob_sha": "50d5652be0ac5c6b2fd836a99ce74072da3a51cb",
       "sha256": "77e345916a1aaf134621a1597de8573d8f3dfd1799c50d5478948d0798ea2358",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644889422/original.jpg",
       "provider_photo_id": 644889422,
       "provider_attribution": "(c) beth smith, some rights reserved (CC BY-NC)",
@@ -86,7 +108,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "4b56461625879470cad45e5b49bdd0f4cf924d8de8effc62d8cda7f5ae42f23f",
+      "display_blob_sha": "41aced011a232b33bc3589b02cb8fe4251e07c08",
+      "display_original_site_sha256": "77e345916a1aaf134621a1597de8573d8f3dfd1799c50d5478948d0798ea2358",
+      "display_original_blob_sha": "50d5652be0ac5c6b2fd836a99ce74072da3a51cb",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 459426
     },
     {
       "src": "media/sidneya-tenuifolia/inat-645042812.jpg",
@@ -98,7 +131,7 @@
       "source_blob_sha": "eeb495e96824677e41bd98f00ea137316c57d408",
       "sha256": "167bf78cf56410d8887cc1fbc28e11230875b640b338f46f53bd07c96ab2b1ca",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645042812/original.jpg",
       "provider_photo_id": 645042812,
       "provider_attribution": "(c) dayman_78, some rights reserved (CC BY-NC)",
@@ -107,7 +140,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "9ac04be560f181a2f11d4cb2122bee9279497257adcf4371346305a6bb8cc0d6",
+      "display_blob_sha": "87085f2a567d8dc6a43ca644396fbb5ed3a04945",
+      "display_original_site_sha256": "167bf78cf56410d8887cc1fbc28e11230875b640b338f46f53bd07c96ab2b1ca",
+      "display_original_blob_sha": "eeb495e96824677e41bd98f00ea137316c57d408",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 509204
     },
     {
       "src": "media/sidneya-tenuifolia/inat-375082227.jpg",

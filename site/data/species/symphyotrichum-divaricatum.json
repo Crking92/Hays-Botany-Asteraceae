@@ -102,7 +102,7 @@
       "source_blob_sha": "2aeb42b1864728f3685d340aed0a9aa0ca2e35ce",
       "sha256": "2ef5a9ef50045bb0ca109946ea96534e91d421c57e77192e99755f039244731f",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140737077/original.jpeg",
       "provider_photo_id": 140737077,
       "provider_attribution": "(c) Alison Northup, some rights reserved (CC BY)",
@@ -111,7 +111,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "889c982ee865897bebbae9246a48a077a8a6c4c1169cdd4bb7351644f03df76f",
+      "display_blob_sha": "02133c5c6d76d4ea7c9f93ca7dd5b7526e3987e3",
+      "display_original_site_sha256": "2ef5a9ef50045bb0ca109946ea96534e91d421c57e77192e99755f039244731f",
+      "display_original_blob_sha": "2aeb42b1864728f3685d340aed0a9aa0ca2e35ce",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 430972
     },
     {
       "src": "media/symphyotrichum-divaricatum/inat-9609262.jpg",
@@ -123,7 +134,7 @@
       "source_blob_sha": "668ca9647cb0611ca94ef963047b5cd7365f3dde",
       "sha256": "13fee9eeaf13c36dc1513dff0577a72e8803b87f347a3c116a8ed96a70b7fb8d",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9609262/original.jpg",
       "provider_photo_id": 9609262,
       "provider_attribution": "(c) Eric Knight, some rights reserved (CC BY)",
@@ -132,7 +143,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "5cba4bcbd17ffe3d9aa7ee30631ee31c9aa0af0b825b2e0f3efc8f0cdf7c9e6a",
+      "display_blob_sha": "504d66f1eaef2211624c519b43bac78f5f12af14",
+      "display_original_site_sha256": "13fee9eeaf13c36dc1513dff0577a72e8803b87f347a3c116a8ed96a70b7fb8d",
+      "display_original_blob_sha": "668ca9647cb0611ca94ef963047b5cd7365f3dde",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1361
+      ],
+      "display_bytes": 313283
     },
     {
       "src": "media/symphyotrichum-divaricatum/inat-740968662.jpg",
@@ -144,7 +166,7 @@
       "source_blob_sha": "47ba173d00905e9bf2d34d851d60acf04c44d3db",
       "sha256": "3bcd51b0f6af4176f1018f4bf52901cb2290f2ca304c8c0d10f13c43fdf224df",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740968662/original.jpg",
       "provider_photo_id": 740968662,
       "provider_attribution": "(c) Jacob Eickstead, some rights reserved (CC BY-NC)",
@@ -153,7 +175,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "299c1d5caa8ed614082050819a9d1f26c353f431dfb54613595f4f1ce396d754",
+      "display_blob_sha": "6037964d85cc9038a5da5fe7be2f9b2c4d8a57ce",
+      "display_original_site_sha256": "3bcd51b0f6af4176f1018f4bf52901cb2290f2ca304c8c0d10f13c43fdf224df",
+      "display_original_blob_sha": "47ba173d00905e9bf2d34d851d60acf04c44d3db",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 752372
     },
     {
       "src": "media/symphyotrichum-divaricatum/inat-743931924.jpg",
@@ -165,7 +198,7 @@
       "source_blob_sha": "bced500238892b48847abbc122b8f3883cd59f65",
       "sha256": "d5b2c843b070979a289b8e7217379da9c035cd315963ee4221c9f2fba5ef05d6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/743931924/original.jpg",
       "provider_photo_id": 743931924,
       "provider_attribution": "(c) milosmith, some rights reserved (CC BY-NC)",
@@ -174,7 +207,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "4a9995237aad3653c0aa0771f1745e45c043fae8251a9499ff370e115a88b159",
+      "display_blob_sha": "e59c3b26293201cd691b236756ca5408f5a5d343",
+      "display_original_site_sha256": "d5b2c843b070979a289b8e7217379da9c035cd315963ee4221c9f2fba5ef05d6",
+      "display_original_blob_sha": "bced500238892b48847abbc122b8f3883cd59f65",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 466203
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

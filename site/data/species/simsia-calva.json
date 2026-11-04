@@ -60,7 +60,7 @@
       "source_blob_sha": "783562be2d67f23576d6b4302f4c940322c16fae",
       "sha256": "b2ac40a7603b79f6a5cc3bc0e07d4e9b8808e63d8b9cb17dff38c339b66c3ff5",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636055368/original.jpg",
       "provider_photo_id": 636055368,
       "provider_attribution": "(c) naturemedley, some rights reserved (CC BY-NC)",
@@ -69,7 +69,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c93cd84cd7fc6edb06280b72f0c8af9b6fa1f935932942a368efde1879258d25",
+      "display_blob_sha": "c7eeb6a93636df1bf2cb59f88344b686f360a773",
+      "display_original_site_sha256": "b2ac40a7603b79f6a5cc3bc0e07d4e9b8808e63d8b9cb17dff38c339b66c3ff5",
+      "display_original_blob_sha": "783562be2d67f23576d6b4302f4c940322c16fae",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 743482
     },
     {
       "src": "media/simsia-calva/inat-645072638.jpg",
@@ -81,7 +92,7 @@
       "source_blob_sha": "a6924a4821b816dcbc6f807f09529c46f36e9e28",
       "sha256": "da388f767e91a902850306db2ee65f6ab78c05527550e3765825eaf3d5e32145",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645072638/original.jpg",
       "provider_photo_id": 645072638,
       "provider_attribution": "(c) caitlin edwards, some rights reserved (CC BY-NC)",
@@ -90,7 +101,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "a267b9bdf0e3fbc61c9fe819c095167c22a5c84402574964ac5ffd7314b6ccc2",
+      "display_blob_sha": "d59480c61ffef0802812c0aeb4bbef53b6be2c93",
+      "display_original_site_sha256": "da388f767e91a902850306db2ee65f6ab78c05527550e3765825eaf3d5e32145",
+      "display_original_blob_sha": "a6924a4821b816dcbc6f807f09529c46f36e9e28",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1152
+      ],
+      "display_bytes": 720357
     },
     {
       "src": "media/simsia-calva/inat-645171072.jpg",
@@ -102,7 +124,7 @@
       "source_blob_sha": "ed92da42b46d0ca24309ffd7c65a7a045ce69163",
       "sha256": "906a4f91da189605d70c84bb5494db2e9c200d1b669080a0b77bde1c8d0ceedf",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645171072/original.jpg",
       "provider_photo_id": 645171072,
       "provider_attribution": "(c) Charles Franks, some rights reserved (CC BY-NC)",
@@ -111,7 +133,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "5084bb84fae3894cda392b14389d431c30c3557e9ef8b3006e4290ba1d2fb7cf",
+      "display_blob_sha": "4d7f60aef3769a48e5185955e91da099eaf330cb",
+      "display_original_site_sha256": "906a4f91da189605d70c84bb5494db2e9c200d1b669080a0b77bde1c8d0ceedf",
+      "display_original_blob_sha": "ed92da42b46d0ca24309ffd7c65a7a045ce69163",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 689526
     },
     {
       "src": "media/simsia-calva/inat-642615356.jpg",
@@ -123,7 +156,7 @@
       "source_blob_sha": "dedf82bb533f9dcf175dd0023b8bb54935e161b7",
       "sha256": "0a4b71638a3ee9087880d77d4b4cb40cefe8a0ac2c481578274f58aff3f8a55c",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642615356/original.jpg",
       "provider_photo_id": 642615356,
       "provider_attribution": "(c) lisastoll, some rights reserved (CC BY-NC)",
@@ -132,7 +165,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "32d22f496fb568fcd163d2474a8c553b6d7fb30a5c2e3ae6ae739b5132b6411f",
+      "display_blob_sha": "4905716e24e671dafa10469b4a122d8ea2c32916",
+      "display_original_site_sha256": "0a4b71638a3ee9087880d77d4b4cb40cefe8a0ac2c481578274f58aff3f8a55c",
+      "display_original_blob_sha": "dedf82bb533f9dcf175dd0023b8bb54935e161b7",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 702898
     },
     {
       "src": "media/simsia-calva/inat-644258150.jpg",
@@ -144,7 +188,7 @@
       "source_blob_sha": "d7a43a33fed85a6f06ec9db054da224178445248",
       "sha256": "e135f9651d374e77ef8a23911363757451b58fd757a380c79e45af28138d1061",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644258150/original.jpg",
       "provider_photo_id": 644258150,
       "provider_attribution": "(c) charlottereemts, some rights reserved (CC BY-NC)",
@@ -153,7 +197,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "e7e2720d934036e41e7a4f22bf11f973ff06849c505717c2558e8f83573bcd37",
+      "display_blob_sha": "79ff4b4b56f4a397c7419ba0ffefe32a3de9ac74",
+      "display_original_site_sha256": "e135f9651d374e77ef8a23911363757451b58fd757a380c79e45af28138d1061",
+      "display_original_blob_sha": "d7a43a33fed85a6f06ec9db054da224178445248",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 399744
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

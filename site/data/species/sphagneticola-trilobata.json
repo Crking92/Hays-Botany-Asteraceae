@@ -21,7 +21,7 @@
       "source_blob_sha": "92f2ac02a51babac24399390ab3d4ade52302266",
       "sha256": "6417ca6ebc447e8167e6438d3601011ccb0b431d7b59c32bbe18def6cc1a8c36",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648785537/original.jpg",
       "provider_photo_id": 648785537,
       "provider_attribution": "(c) yngadendabiologist, some rights reserved (CC BY-NC)",
@@ -30,7 +30,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "145c4f906f812aa90939bb36ca0a8bb790ec26d1731d170da5410b88b63dee36",
+      "display_blob_sha": "8ba093843d6c88b9d49fbf6ac8544c536aa5fc68",
+      "display_original_site_sha256": "6417ca6ebc447e8167e6438d3601011ccb0b431d7b59c32bbe18def6cc1a8c36",
+      "display_original_blob_sha": "92f2ac02a51babac24399390ab3d4ade52302266",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1425,
+        1900
+      ],
+      "display_bytes": 677109
     },
     {
       "src": "media/sphagneticola-trilobata/inat-648273623.jpg",
@@ -42,7 +53,7 @@
       "source_blob_sha": "68c6db3bafb132b632280a5a10ea0c1d508f1b79",
       "sha256": "2ef71275c73b1af17a870bc80783ad0088d2e9c4e64da99b1f11d9b2412b256e",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648273623/original.jpg",
       "provider_photo_id": 648273623,
       "provider_attribution": "(c) gomezrebeca, some rights reserved (CC BY-NC)",
@@ -51,7 +62,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "3f9b7dcf52fdab5d94936b662a7cb1038d59f329a0e1c2d01b2a4f68a0ca16e1",
+      "display_blob_sha": "3e251c7c9e6df9b93500cb746b4f9b75f38f04e3",
+      "display_original_site_sha256": "2ef71275c73b1af17a870bc80783ad0088d2e9c4e64da99b1f11d9b2412b256e",
+      "display_original_blob_sha": "68c6db3bafb132b632280a5a10ea0c1d508f1b79",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 694527
     },
     {
       "src": "media/sphagneticola-trilobata/inat-490211337.jpg",
@@ -63,7 +85,7 @@
       "source_blob_sha": "fb2d6e9e973fa789400da0c0d6688bbce2e431b4",
       "sha256": "2e23da09a8260197d79c74db3551954f75045c43c5bf18b2c97cd9d37039f3b6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490211337/original.jpg",
       "provider_photo_id": 490211337,
       "provider_attribution": "(c) laeltillman, some rights reserved (CC BY-NC)",
@@ -72,7 +94,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "b110a65f804cf1a599c6e922aa8288c4ab06b2b354ab18ca09a5e4791fe8c0b4",
+      "display_blob_sha": "fdd1a02d5b6f9f7d0a1e5a2912e0bae331817c99",
+      "display_original_site_sha256": "2e23da09a8260197d79c74db3551954f75045c43c5bf18b2c97cd9d37039f3b6",
+      "display_original_blob_sha": "fb2d6e9e973fa789400da0c0d6688bbce2e431b4",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 537545
     },
     {
       "src": "media/sphagneticola-trilobata/inat-486770283.jpg",
@@ -84,7 +117,7 @@
       "source_blob_sha": "11880a437a545534b689cdf9ad3dad823eff0bd4",
       "sha256": "004a3567332c81bc01fc30b2f40f3cb4b320827d4205bc7b6d23c9fa02c555eb",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486770283/original.jpg",
       "provider_photo_id": 486770283,
       "provider_attribution": "(c) susanconway, some rights reserved (CC BY-NC)",
@@ -93,7 +126,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "089b0fd6f6dca76612b6bc54421f2d3b228893c1234034681144f81fe766e802",
+      "display_blob_sha": "c725ae8d9e23d472b7b75aa30574bbbcd97808a6",
+      "display_original_site_sha256": "004a3567332c81bc01fc30b2f40f3cb4b320827d4205bc7b6d23c9fa02c555eb",
+      "display_original_blob_sha": "11880a437a545534b689cdf9ad3dad823eff0bd4",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1312,
+        1750
+      ],
+      "display_bytes": 702372
     },
     {
       "src": "media/sphagneticola-trilobata/inat-510532417.jpg",
@@ -105,7 +149,7 @@
       "source_blob_sha": "9b57ced4262d5bb568dffaf63cacf5a156961934",
       "sha256": "aa847f2af948ce9509e809a3bd81b04cabc0e9b42123c9a47f04a459298c9c9e",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510532417/original.jpg",
       "provider_photo_id": 510532417,
       "provider_attribution": "(c) Charles Franks, some rights reserved (CC BY-NC)",
@@ -114,7 +158,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "c43bef321691b757164036bea980b0a4806ea6732218758e3db242761a2672ab",
+      "display_blob_sha": "f6e6eb46587917c109ae3c91be65c3fdd9dd967a",
+      "display_original_site_sha256": "aa847f2af948ce9509e809a3bd81b04cabc0e9b42123c9a47f04a459298c9c9e",
+      "display_original_blob_sha": "9b57ced4262d5bb568dffaf63cacf5a156961934",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 770936
     }
   ],
   "media_status": "SOURCE_PHOTO_RIGHTS_HELD",

@@ -46,7 +46,7 @@
       "source_blob_sha": "f5a3691db70e90c099961a8c2f76d5cde5683538",
       "sha256": "f7fc79299d5cbaab62fa4482bbea73414a61ea35514e8f61ee036ced6a7e7071",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654863465/original.jpg",
       "provider_photo_id": 654863465,
       "provider_attribution": "(c) TgarrisonPlateau, some rights reserved (CC BY-NC)",
@@ -55,7 +55,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1c5a5c4f2f2b478101e92f9d960fea3a7fa311164f2de516d777f2f240807fe8",
+      "display_blob_sha": "b272312f87f544e4971a20b1a41cb77cfaf132ab",
+      "display_original_site_sha256": "f7fc79299d5cbaab62fa4482bbea73414a61ea35514e8f61ee036ced6a7e7071",
+      "display_original_blob_sha": "f5a3691db70e90c099961a8c2f76d5cde5683538",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1365,
+        2048
+      ],
+      "display_bytes": 552539
     },
     {
       "src": "media/solidago-rugosa/inat-664483433.jpg",
@@ -88,7 +99,7 @@
       "source_blob_sha": "cf414f417d33a303fb58a221178128be27150fcf",
       "sha256": "b940ed1573481afb3b6ee633a4ed5b6cb94577a0490f64042f09de32f3a1c8d6",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501045491/original.jpg",
       "provider_photo_id": 501045491,
       "provider_attribution": "(c) graciegold, some rights reserved (CC BY-NC)",
@@ -97,7 +108,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "24844eef8035781ab99dea0c2d2239159abf435620712e6eb3d79ff42dff7af1",
+      "display_blob_sha": "a8f888c1449cb932d94f1546e9504e5abc54db11",
+      "display_original_site_sha256": "b940ed1573481afb3b6ee633a4ed5b6cb94577a0490f64042f09de32f3a1c8d6",
+      "display_original_blob_sha": "cf414f417d33a303fb58a221178128be27150fcf",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 754091
     },
     {
       "src": "media/solidago-rugosa/inat-370927665.jpg",
@@ -109,7 +131,7 @@
       "source_blob_sha": "88b82884e4fdf530dc7c566eced86be0d0b649fc",
       "sha256": "eaee0ba47967ff4e9cf274ec5f44208ddb1e05c55f348b8e1700bbb9bd4965fc",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370927665/original.jpg",
       "provider_photo_id": 370927665,
       "provider_attribution": "(c) embrenhar, some rights reserved (CC BY-NC)",
@@ -118,7 +140,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "86cc4b3a374dc6c1892a51097945c5049a07bfb484e532b7bec5a9d592313a6f",
+      "display_blob_sha": "4b945d91a21b7fa4c4244dfeac8133f6cb9f6b84",
+      "display_original_site_sha256": "eaee0ba47967ff4e9cf274ec5f44208ddb1e05c55f348b8e1700bbb9bd4965fc",
+      "display_original_blob_sha": "88b82884e4fdf530dc7c566eced86be0d0b649fc",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 536363
     },
     {
       "src": "media/solidago-rugosa/inat-370927125.jpg",
@@ -130,7 +163,7 @@
       "source_blob_sha": "1baeaa5c8d947b53c1af2af964fe52ba15d52453",
       "sha256": "88eaf9dc97453ece7b3ca6eef738c5ba4d543b1b1d6901e1a928507a59d484db",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370927125/original.jpg",
       "provider_photo_id": 370927125,
       "provider_attribution": "(c) embrenhar, some rights reserved (CC BY-NC)",
@@ -139,7 +172,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "7c16672b5580b4a913770cf6dff68bb2a28195a079fee4d37fa532d5fd69c616",
+      "display_blob_sha": "8c68471d451e95033dc8fd6ed2c21df1a208d24a",
+      "display_original_site_sha256": "88eaf9dc97453ece7b3ca6eef738c5ba4d543b1b1d6901e1a928507a59d484db",
+      "display_original_blob_sha": "1baeaa5c8d947b53c1af2af964fe52ba15d52453",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 562033
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",

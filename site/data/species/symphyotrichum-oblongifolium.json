@@ -43,7 +43,7 @@
       "source_blob_sha": "75bc196d9110dfee6ac90ed60c509f9b9cb8910e",
       "sha256": "cb37b67929521a572c07ae970782eb3a651b956af2082ad5eed7712cea25b53d",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578843757/original.jpg",
       "provider_photo_id": 578843757,
       "provider_attribution": "(c) ibyx, some rights reserved (CC BY-NC)",
@@ -52,7 +52,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "23a523ae5cb904ed062c5f034d6ea44321a57bfebf5b77af3954256f7af905e3",
+      "display_blob_sha": "ee6a7523d263d52e20bb73068ab8f1a094f3951f",
+      "display_original_site_sha256": "cb37b67929521a572c07ae970782eb3a651b956af2082ad5eed7712cea25b53d",
+      "display_original_blob_sha": "75bc196d9110dfee6ac90ed60c509f9b9cb8910e",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 746409
     },
     {
       "src": "media/symphyotrichum-oblongifolium/inat-584049153.jpg",
@@ -64,7 +75,7 @@
       "source_blob_sha": "eeabe6e73b9464648e70ea89b1d763b631d45cc6",
       "sha256": "64178eea4722aebfc8e1d3853be7713eb57a62087b42fd7b4a0dea457099d433",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584049153/original.jpg",
       "provider_photo_id": 584049153,
       "provider_attribution": "(c) Alex Miller, some rights reserved (CC BY-NC)",
@@ -73,7 +84,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "dc6512c6980d4570dfb780e0f033238383bab3799953715893ed3d75b3a92767",
+      "display_blob_sha": "f57f8529c621f36bd3bb67f51424318e16c4cfec",
+      "display_original_site_sha256": "64178eea4722aebfc8e1d3853be7713eb57a62087b42fd7b4a0dea457099d433",
+      "display_original_blob_sha": "eeabe6e73b9464648e70ea89b1d763b631d45cc6",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1536,
+        2048
+      ],
+      "display_bytes": 737333
     },
     {
       "src": "media/symphyotrichum-oblongifolium/inat-585824607.jpg",
@@ -85,7 +107,7 @@
       "source_blob_sha": "7285535506e57bdd5cf124831adc5b6eed3a4a68",
       "sha256": "c640753e7a79642f20e469bc316191a732c8515649ae086465a5d28fec5037d2",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585824607/original.jpg",
       "provider_photo_id": 585824607,
       "provider_attribution": "(c) alexisbritton, some rights reserved (CC BY-NC)",
@@ -94,7 +116,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "6f7173f8ef91473b8e7b45756d076ed58a5f319fe177dacbcd1f481379ca4cc8",
+      "display_blob_sha": "69fcaeb0d67dcd5ed4b2f0c0fcf2796b14f94edd",
+      "display_original_site_sha256": "c640753e7a79642f20e469bc316191a732c8515649ae086465a5d28fec5037d2",
+      "display_original_blob_sha": "7285535506e57bdd5cf124831adc5b6eed3a4a68",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1069,
+        1900
+      ],
+      "display_bytes": 706317
     },
     {
       "src": "media/symphyotrichum-oblongifolium/inat-583739593.jpg",
@@ -106,7 +139,7 @@
       "source_blob_sha": "9e2c9c993d8c49b5d9b5ca2762575f13616d11e0",
       "sha256": "b396b08f05a83d6a3ca0b6e7ce0218c6b9f957263b691bebf36f4f25223b49ab",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583739593/original.jpg",
       "provider_photo_id": 583739593,
       "provider_attribution": "(c) Vel Jimenez, some rights reserved (CC BY-NC)",
@@ -115,7 +148,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "73d8798230f2d2ba6e38d0d37eeb7278596a158aea4c1edc272d2fe6d0f7cb8c",
+      "display_blob_sha": "ea536276b6b08e99e3c14058cf945b3f50e0575f",
+      "display_original_site_sha256": "b396b08f05a83d6a3ca0b6e7ce0218c6b9f957263b691bebf36f4f25223b49ab",
+      "display_original_blob_sha": "9e2c9c993d8c49b5d9b5ca2762575f13616d11e0",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        2048,
+        1536
+      ],
+      "display_bytes": 757691
     },
     {
       "src": "media/symphyotrichum-oblongifolium/inat-590708323.jpg",
@@ -127,7 +171,7 @@
       "source_blob_sha": "be6e68c21474af8dab8a0f679d3273dd82b71c98",
       "sha256": "ee689140ea3c57bf2d1ed1cbb18557e03a4adfe8d661ca13e93c18ca68b39bab",
       "role": "Species photograph",
-      "modified": "Original source image; not altered",
+      "modified": "Original source image; not altered; web copy resized and recompressed; archived original unchanged",
       "original_photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590708323/original.jpg",
       "provider_photo_id": 590708323,
       "provider_attribution": "(c) hojin2002, some rights reserved (CC BY-NC)",
@@ -136,7 +180,18 @@
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing policy, individually checked automated source record",
       "source_review_evidence": "Exact iNaturalist photo ID, specific CC BY or CC BY-NC 4.0 license and attribution checked against API; downloaded bytes match supplied ZIP SHA-256",
-      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial"
+      "taxon_review_evidence": "General-image contact sheet sanity check and exact observation taxon checked against site binomial",
+      "display_sha256": "1bfa7c4d48dd09090b8be9d661e82bf672885afd84aec274aaab002736ccbb87",
+      "display_blob_sha": "a86b0deb1e98ab0d6ef9f5fe8511cf6a283d70d6",
+      "display_original_site_sha256": "ee689140ea3c57bf2d1ed1cbb18557e03a4adfe8d661ca13e93c18ca68b39bab",
+      "display_original_blob_sha": "be6e68c21474af8dab8a0f679d3273dd82b71c98",
+      "display_original_archive_commit": "c7a13aae557493dbd1544ebd3d7e0b911aa4cfbb",
+      "display_modifications": "Resized and JPEG-compressed for web display; exact original preserved in archive branch.",
+      "display_dimensions": [
+        1152,
+        2048
+      ],
+      "display_bytes": 767267
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
