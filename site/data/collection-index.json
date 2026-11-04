@@ -91,7 +91,7 @@
       "genus": "Ambrosia",
       "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-psilostachya/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 6
     },
     {
       "id": "ambrosia-trifida",
@@ -101,7 +101,7 @@
       "genus": "Ambrosia",
       "path": "content/taxa/Asteraceae/Ambrosia/ambrosia-trifida/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "amphiachyris-amoena",
@@ -120,8 +120,8 @@
       "family": "Asteraceae",
       "genus": "Amphiachyris",
       "path": "content/taxa/Asteraceae/Amphiachyris/amphiachyris-dracunculoides/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 4
     },
     {
       "id": "aphanostephus-riddellii",
@@ -141,7 +141,7 @@
       "genus": "Aphanostephus",
       "path": "content/taxa/Asteraceae/Aphanostephus/aphanostephus-skirrhobasis/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "arnoglossum-plantagineum",
@@ -151,7 +151,7 @@
       "genus": "Arnoglossum",
       "path": "content/taxa/Asteraceae/Arnoglossum/arnoglossum-plantagineum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "artemisia-ludoviciana",
@@ -161,7 +161,7 @@
       "genus": "Artemisia",
       "path": "content/taxa/Asteraceae/Artemisia/artemisia-ludoviciana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "artemisia-tridentata",
@@ -171,7 +171,7 @@
       "genus": "Artemisia",
       "path": "content/taxa/Asteraceae/Artemisia/artemisia-tridentata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 5
     },
     {
       "id": "baccharis-neglecta",
@@ -181,7 +181,7 @@
       "genus": "Baccharis",
       "path": "content/taxa/Asteraceae/Baccharis/baccharis-neglecta/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "baccharis-salicifolia",
@@ -191,7 +191,7 @@
       "genus": "Baccharis",
       "path": "content/taxa/Asteraceae/Baccharis/baccharis-salicifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "berlandiera-betonicifolia",

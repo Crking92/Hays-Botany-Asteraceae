@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 141,
-  "photo_count": 234,
+  "photo_species": 142,
+  "photo_count": 273,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -38,11 +38,11 @@
       "first_src": "media/ambrosia-artemisiifolia/01.jpg"
     },
     "ambrosia-psilostachya": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/ambrosia-psilostachya/01.jpg"
     },
     "ambrosia-trifida": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ambrosia-trifida/historical-nc-01-curated-reference.jpg"
     },
     "amphiachyris-amoena": {
@@ -50,35 +50,35 @@
       "first_src": "media/amphiachyris-amoena/01.jpg"
     },
     "amphiachyris-dracunculoides": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/amphiachyris-dracunculoides/inat-433658307.jpeg"
     },
     "aphanostephus-riddellii": {
       "count": 0,
       "first_src": null
     },
     "aphanostephus-skirrhobasis": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/aphanostephus-skirrhobasis/01.jpg"
     },
     "arnoglossum-plantagineum": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/arnoglossum-plantagineum/01.jpg"
     },
     "artemisia-ludoviciana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/artemisia-ludoviciana/01.jpg"
     },
     "artemisia-tridentata": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/artemisia-tridentata/01.jpg"
     },
     "baccharis-neglecta": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/baccharis-neglecta/historical-nc-01-curated-reference.jpg"
     },
     "baccharis-salicifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/baccharis-salicifolia/historical-nc-01-curated-reference.jpg"
     },
     "berlandiera-betonicifolia": {
