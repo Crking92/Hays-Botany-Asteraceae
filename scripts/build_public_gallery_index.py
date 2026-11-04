@@ -42,7 +42,13 @@ for row in idx["entries"]:
         # Some historical Commons photos were resized before release: preserve
         # their source hash without falsely treating it as the display blob.
         # Original unmodified photos have an explicit SHA256 that must match.
-        if photo.get("sha256"):
+        if photo.get("display_sha256"):
+            # Optimized public bytes have their own hash; original hashes remain
+            # intact in source records and the immutable archive commit.
+            assert hashlib.sha256(original).hexdigest()==photo["display_sha256"],relative
+            assert blob==photo.get("display_blob_sha"),relative
+            assert photo.get("display_original_archive_commit"),relative
+        elif photo.get("sha256"):
             assert hashlib.sha256(original).hexdigest()==photo["sha256"],relative
             assert blob==photo.get("source_blob_sha"),relative
         assert photo.get("creator") and photo.get("source_page","").startswith("https://"),relative
