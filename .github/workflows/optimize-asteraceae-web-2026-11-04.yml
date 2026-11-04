@@ -6,9 +6,6 @@ on:
       - 'scripts/optimize_public_gallery_display.py'
       - '.github/workflows/optimize-asteraceae-web-2026-11-04.yml'
   workflow_dispatch:
-  workflow_run:
-    workflows: ['Review Asteraceae 005 intake']
-    types: [completed]
 permissions:
   contents: write
   actions: write
@@ -34,12 +31,18 @@ jobs:
           ARCHIVE_BRANCH=archive/asteraceae-pre-web-optimization-2026-11-04
           git fetch origin main
           git checkout -B web-display-optimize origin/main
+          if test -f site/data/web-display-optimization.json; then
+            echo "Already optimized at current main; skipping repeat run."
+            echo "SKIP_OPT=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
           git fetch origin refs/heads/$ARCHIVE_BRANCH:refs/remotes/origin/$ARCHIVE_BRANCH
           git merge-base --is-ancestor origin/$ARCHIVE_BRANCH HEAD
           git push origin HEAD:refs/heads/$ARCHIVE_BRANCH
           echo "ARCHIVE_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
           echo "ARCHIVE_BRANCH=$ARCHIVE_BRANCH" >> "$GITHUB_ENV"
       - name: Optimize JPEG display copies and validate gallery
+        if: env.SKIP_OPT != '1'
         shell: bash
         run: |
           set -euo pipefail
@@ -53,6 +56,7 @@ jobs:
           print("ASTERACEAE_SITE_BYTES_AFTER",size,flush=True)
           PY
       - name: Publish smaller website copies without touching archived originals
+        if: env.SKIP_OPT != '1'
         shell: bash
         run: |
           set -euo pipefail
@@ -65,11 +69,26 @@ jobs:
             exit 0
           fi
           git commit -m "Optimize Asteraceae website JPEGs; retain original provenance in pinned archive"
-          git fetch origin main
-          git rebase origin/main
-          python3 scripts/verify_automatic_gallery.py --site-root site
-          git push origin HEAD:main
+          for attempt in $(seq 1 20); do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo "Photo/metadata conflict from simultaneous publishing; refusing to overwrite."
+              exit 1
+            fi
+            python3 scripts/verify_automatic_gallery.py --site-root site
+            if git push origin HEAD:main; then
+              echo "ASTERACEAE_WEB_DISPLAY_COMMITTED_TO_MAIN"
+              break
+            fi
+            if [ "$attempt" -eq 20 ]; then
+              echo "Concurrent writes prevented safe fast-forward after 20 attempts."
+              exit 1
+            fi
+            sleep 4
+          done
       - name: Request Pages deployment and full public-gallery image verification
+        if: env.SKIP_OPT != '1'
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
