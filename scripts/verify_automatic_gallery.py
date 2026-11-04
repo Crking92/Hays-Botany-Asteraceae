@@ -35,7 +35,14 @@ def validate(site):
             # do not overwrite or misinterpret that historical provenance.
             # For all newly installed unmodified originals, require exact original SHA256
             # and the actual Git blob SHA to agree with the public file bytes.
-            if p.get("sha256"):
+            if p.get("display_sha256"):
+                # The original hashes refer to the immutable archived source.
+                # Display hashes refer to the web-size derivative currently served.
+                assert hashlib.sha256(binary).hexdigest()==p["display_sha256"],src
+                assert git_sha(binary)==p["display_blob_sha"],src
+                assert p.get("display_original_archive_commit"),src
+                assert p.get("display_original_site_sha256"),src
+            elif p.get("sha256"):
                 assert hashlib.sha256(binary).hexdigest()==p["sha256"],src
                 assert git_sha(binary)==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
