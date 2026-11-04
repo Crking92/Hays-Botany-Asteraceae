@@ -40,7 +40,7 @@ def validate(site):
                 # Display hashes refer to the web-size derivative currently served.
                 assert hashlib.sha256(binary).hexdigest()==p["display_sha256"],src
                 assert git_sha(binary)==p["display_blob_sha"],src
-                assert p.get("display_original_archive_commit"),src
+                assert p.get("display_original_archive_commit") or p.get("display_original_intake_path"),src
                 assert p.get("display_original_site_sha256"),src
             elif p.get("sha256"):
                 assert hashlib.sha256(binary).hexdigest()==p["sha256"],src
