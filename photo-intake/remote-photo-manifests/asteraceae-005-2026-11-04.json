@@ -2,7 +2,7 @@
   "batch_id": "asteraceae-005-2026-11-04",
   "repo": "Crking92/Hays-Botany-Asteraceae",
   "zip_sha256": "0574d40c49ca08a33daeb113d1b2804ff1e83a5b9fdaea9977e37e00667b9c2e",
-  "review_status": "SOURCE_VERIFICATION_AND_RELEASE_REQUESTED",
+  "review_status": "RETRY_AFTER_HISTORICAL_SOURCE_SHA_QA_CORRECTION",
   "photos": [
     {
       "species_id": "silphium-laciniatum",
