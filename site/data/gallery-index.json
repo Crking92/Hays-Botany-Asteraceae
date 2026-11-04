@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
-  "photo_species": 144,
-  "photo_count": 335,
+  "photo_species": 145,
+  "photo_count": 375,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -138,47 +138,47 @@
       "first_src": "media/centaurea-melitensis/01.jpg"
     },
     "chaetopappa-bellidifolia": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/chaetopappa-bellidifolia/01.jpg"
     },
     "chaetopappa-effusa": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/chaetopappa-effusa/source-d7e6bfc20a8d.jpg"
     },
     "chaetopappa-ericoides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/chaetopappa-ericoides/01.jpg"
     },
     "chaptalia-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/chaptalia-texana/01.jpg"
     },
     "chloracantha-spinosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/chloracantha-spinosa/inat-368921201.jpeg"
     },
     "chondrilla-juncea": {
       "count": 1,
       "first_src": "media/chondrilla-juncea/01.jpg"
     },
     "chromolaena-odorata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/chromolaena-odorata/01.jpg"
     },
     "chrysactinia-mexicana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/chrysactinia-mexicana/01.jpg"
     },
     "cirsium-horridulum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cirsium-horridulum/01.jpg"
     },
     "cirsium-ochrocentrum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cirsium-ochrocentrum/source-6675156b54cd.jpg"
     },
     "cirsium-texanum": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/cirsium-texanum/historical-nc-01-curated-reference.jpg"
     },
     "cirsium-undulatum": {

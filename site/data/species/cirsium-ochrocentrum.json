@@ -33,8 +33,47 @@
       "source_blob_sha": "6675156b54cdfaacdfaa759db515e67292c8a116",
       "modified": "Original archived source photograph copied without alteration",
       "rights_note": "Photographer/source-specific public-domain evidence; original archived source photo, not general license for third-party photos."
+    },
+    {
+      "src": "media/cirsium-ochrocentrum/inat-648858026.jpg",
+      "creator": "(c) Cait Lippitt, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/648858026",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "6dc38c412490b68158d247445e36a5f82c9c90c9",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 356140544, photo 648858026, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium ochrocentrum agrees with indexed species cirsium-ochrocentrum; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "3fd2a2297aee8410eb903db0850499f8f9947649501a76023dabf9865b08be92"
+    },
+    {
+      "src": "media/cirsium-ochrocentrum/inat-649121900.jpg",
+      "creator": "(c) Barry Keith, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/649121900",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b7f7f27117a5d8a603731150d838bf539a3c518e",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 355958240, photo 649121900, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cirsium ochrocentrum agrees with indexed species cirsium-ochrocentrum; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "3204848875fab793606a29d38ce8acb3b5c8de994cb58fbd9e4c5fc01a9b1440"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
-  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3"
+  "source_snapshot_sha": "034f385e44cec18e8c29be96f83e22aaf78fe3f3",
+  "photo_status": "RELEASED_CC_GALLERY"
 }

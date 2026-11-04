@@ -341,7 +341,7 @@
       "genus": "Chaetopappa",
       "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-bellidifolia/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "chaetopappa-effusa",
@@ -351,7 +351,7 @@
       "genus": "Chaetopappa",
       "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-effusa/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "chaetopappa-ericoides",
@@ -361,7 +361,7 @@
       "genus": "Chaetopappa",
       "path": "content/taxa/Asteraceae/Chaetopappa/chaetopappa-ericoides/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "chaptalia-texana",
@@ -371,7 +371,7 @@
       "genus": "Chaptalia",
       "path": "content/taxa/Asteraceae/Chaptalia/chaptalia-texana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "chloracantha-spinosa",
@@ -380,8 +380,8 @@
       "family": "Asteraceae",
       "genus": "Chloracantha",
       "path": "content/taxa/Asteraceae/Chloracantha/chloracantha-spinosa/species.json",
-      "photo_publication_status": "NO_CC_PHOTOS_RELEASED",
-      "photo_count": 0
+      "photo_publication_status": "RELEASED_CC_GALLERY",
+      "photo_count": 5
     },
     {
       "id": "chondrilla-juncea",
@@ -401,7 +401,7 @@
       "genus": "Chromolaena",
       "path": "content/taxa/Asteraceae/Chromolaena/chromolaena-odorata/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "chrysactinia-mexicana",
@@ -411,7 +411,7 @@
       "genus": "Chrysactinia",
       "path": "content/taxa/Asteraceae/Chrysactinia/chrysactinia-mexicana/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 6
     },
     {
       "id": "cirsium-horridulum",
@@ -421,7 +421,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-horridulum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 3
+      "photo_count": 8
     },
     {
       "id": "cirsium-ochrocentrum",
@@ -431,7 +431,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-ochrocentrum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 3
     },
     {
       "id": "cirsium-texanum",
@@ -441,7 +441,7 @@
       "genus": "Cirsium",
       "path": "content/taxa/Asteraceae/Cirsium/cirsium-texanum/species.json",
       "photo_publication_status": "RELEASED_CC_GALLERY",
-      "photo_count": 1
+      "photo_count": 4
     },
     {
       "id": "cirsium-undulatum",
