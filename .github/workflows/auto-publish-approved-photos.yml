@@ -4,6 +4,7 @@ on:
     branches: [staging/asteraceae-metadata]
     paths:
       - 'photo-intake/approved/**'
+      - 'photo-intake/remote-photo-manifests/asteraceae-005-2026-11-04.json'
   workflow_dispatch:
 permissions:
   contents: write
@@ -14,7 +15,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - name: Checkout approved family source branch
         uses: actions/checkout@v4
@@ -25,6 +26,11 @@ jobs:
         run: |
           git fetch origin main
           git worktree add "$RUNNER_TEMP/asteraceae-family-release" origin/main
+      - name: Verify Asteraceae 005 individual photo rights and original ZIP hashes
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          git show origin/staging/asteraceae-metadata:photo-intake/remote-photo-manifests/asteraceae-005-2026-11-04.json > "$RUNNER_TEMP/asteraceae-005.json"
+          python3 "$RUNNER_TEMP/asteraceae-family-release/scripts/publish_remote_verified_asteraceae.py" "$RUNNER_TEMP/asteraceae-005.json" "$RUNNER_TEMP/asteraceae-family-release/site" "$RUNNER_TEMP/asteraceae-005-report.json"
       - name: Verify licenses, exact species, original image bytes, and manual approval
         run: |
           python3 -m pip install --disable-pip-version-check Pillow==11.3.0
@@ -55,7 +61,10 @@ jobs:
                   data=path.read_bytes()
                   assert hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()==item["source_blob_sha"],path
                   assert item.get("creator") and item.get("source_page","").startswith("https://")
-                  assert not item.get("private_rights_review_only") and not item.get("noncommercial_only")
+                  assert not item.get("private_rights_review_only")
+                  if item.get("noncommercial_only"):
+                      assert item.get("license") in ("CC BY-NC 4.0", "CC BY-NC-SA 4.0")
+                      assert json.loads((site/"data/collection-meta.json").read_text()).get("photo_license_policy",{}).get("noncommercial_educational_use") is True
                   photo_paths.add(path.resolve())
           assert gal["photo_count"]==sum(counts.values())
           assert gal["photo_species"]==sum(bool(x) for x in counts.values())
@@ -79,6 +88,13 @@ jobs:
           git commit -m "Publish newly approved Asteraceae species photographs"
           git push origin HEAD:main
           echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Save exact Asteraceae 005 source checks and holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: asteraceae-005-individual-photo-license-and-source-report
+          path: ${{ runner.temp }}/asteraceae-005-report.json
+          if-no-files-found: warn
       - name: Request GitHub Pages rebuild even for a bot-authored commit
         if: steps.release.outputs.published == 'true'
         env:
