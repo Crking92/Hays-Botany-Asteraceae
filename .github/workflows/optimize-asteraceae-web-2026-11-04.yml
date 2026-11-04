@@ -6,6 +6,9 @@ on:
       - 'scripts/optimize_public_gallery_display.py'
       - '.github/workflows/optimize-asteraceae-web-2026-11-04.yml'
   workflow_dispatch:
+  workflow_run:
+    workflows: ['Review Asteraceae 005 intake']
+    types: [completed]
 permissions:
   contents: write
   actions: write
