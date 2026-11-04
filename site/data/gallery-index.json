@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 180,
   "photo_species": 165,
-  "photo_count": 750,
+  "photo_count": 751,
   "entries": {
     "achillea-millefolium": {
       "count": 7,
@@ -406,7 +406,7 @@
       "first_src": "media/lactuca-serriola/01.jpg"
     },
     "laphamia-lindheimeri": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/laphamia-lindheimeri/01.jpg"
     },
     "leontodon-rhagadioloides": {

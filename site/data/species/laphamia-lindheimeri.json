@@ -100,6 +100,25 @@
       "source_review_evidence": "Live iNaturalist observation 350610257, photo 639735508, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
       "sha256": "7b5f051c0803315a7d99ae51e05cb06b4755cae19629b5cabd728164e246c5e5"
+    },
+    {
+      "src": "media/laphamia-lindheimeri/inat-648997310.jpg",
+      "creator": "(c) Cody Stricker, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/648997310",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "7bd0de5959b57d8c0e28780d4326037557ce983a",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Asteraceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 355883667, photo 648997310, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf0d2438bd1b563b4d60436d8655c9c2540f9783c41706fa357393aeb842d0ea. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Laphamia lindheimeri agrees with indexed species laphamia-lindheimeri; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "bf0d2438bd1b563b4d60436d8655c9c2540f9783c41706fa357393aeb842d0ea"
     }
   ],
   "media_status": "VERIFIED_PUBLIC_STRICT_CC_ONLY",
