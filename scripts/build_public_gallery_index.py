@@ -1,50 +1,57 @@
 #!/usr/bin/env python3
-"""Build a photo count/thumbnail catalog only from existing public rights-cleared species cards.
-Never imports archived, quarantined, NC or unreviewed images.
+"""Rebuild growing Asteraceae gallery counts from genuinely published credited originals.
+
+No frozen preview-summary counts, no strict-CC-only assumption: the
+owner's noncommercial educational family site may display individually
+verified CC BY-NC and CC BY-NC-SA originals with their true restriction.
+Never import archives, holds or staged/unreviewed photos.
 """
-import json
-import re
+import hashlib,json,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/"site"
-INDEX=json.loads((SITE/"data/collection-index.json").read_text(encoding="utf-8"))
-assert INDEX["collection_id"]=="asteraceae" and len(INDEX["entries"])==180
+DATA=SITE/"data"
+idx=json.loads((DATA/"collection-index.json").read_text())
+gallery_path=DATA/"gallery-index.json"
+gallery=json.loads(gallery_path.read_text())
+meta=json.loads((DATA/"collection-meta.json").read_text())
+assert meta["repository_full_name"]=="Crking92/Hays-Botany-Asteraceae"
+assert idx["collection_id"]=="asteraceae" and len(idx["entries"])==180
+assert gallery["status"]=="ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES"
+ids=[r["id"] for r in idx["entries"]]
+assert len(ids)==len(set(ids))==180
+assert {p.stem for p in (DATA/"species").glob("*.json")}==set(ids)
 data={}
-photo_count=0
-with_photos=0
-seen=set()
-for row in INDEX["entries"]:
-    id=row["id"]
-    assert id not in seen
-    seen.add(id)
-    path=SITE/"data/species"/(id+".json")
-    assert path.is_file(),id
-    card=json.loads(path.read_text(encoding="utf-8"))
-    assert card["id"]==id and card["family"]==row["family"]
+all_paths=set()
+total=represented=0
+for row in idx["entries"]:
+    sid=row["id"]
+    card=json.loads((DATA/"species"/(sid+".json")).read_text())
+    assert card["id"]==sid and card["family"]==row["family"]=="Asteraceae"
     photos=card.get("verified_photos",[])
-    assert isinstance(photos,list)
+    assert isinstance(photos,list) and row["photo_count"]==len(photos),sid
     for photo in photos:
-        assert photo.get("private_rights_review_only") is False and photo.get("noncommercial_only") is False,id
-        license_name=photo.get("license","").upper()
-        assert license_name and "NC" not in license_name and "ND" not in license_name,id
-        assert photo.get("creator") and photo.get("source_page","").startswith("https://"),id
-        license_url=photo.get("license_url","")
-        assert license_url.startswith(("https://creativecommons.org/licenses/","https://creativecommons.org/publicdomain/zero/","https://creativecommons.org/publicdomain/mark/")) and "/nc/" not in license_url and "/nd/" not in license_url,id
         relative=photo.get("src","")
-        assert re.fullmatch(r"media/[a-z0-9-]+/[A-Za-z0-9_-]+\.jpg",relative),id
-        assert relative.startswith("media/"+id+"/")
-        file=SITE/relative
-        assert file.is_file() and file.stat().st_size>500,id+": "+relative
-    data[id]={"count":len(photos),"first_src":photos[0]["src"] if photos else None}
-    photo_count+=len(photos)
-    with_photos+=int(bool(photos))
-summary=json.loads((SITE/"data/preview-summary.json").read_text(encoding="utf-8"))
-assert photo_count==summary["verified_photo_copies"],("Photo release differs from summary",photo_count,summary["verified_photo_copies"])
-assert with_photos==summary["species_with_cc_photos"]
-out={"schema_version":1,"status":"ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
-     "species":len(data),"photo_species":with_photos,"photo_count":photo_count,"entries":data}
-destination=SITE/"data/gallery-index.json"
-destination.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-print("ASTERACEAE_APPROVED_GALLERY_INDEX_PASS",json.dumps(
-  {"species":len(data),"photographed_species":with_photos,"photos":photo_count,"rights_held_added":0},
-  sort_keys=True))
+        assert re.fullmatch(r"media/"+re.escape(sid)+r"/[A-Za-z0-9_.-]+\\.(?:jpg|jpeg|png|webp)",relative),sid
+        assert relative not in all_paths,relative
+        all_paths.add(relative)
+        path=SITE/relative
+        assert path.is_file() and not path.is_symlink(),relative
+        original=path.read_bytes()
+        blob=hashlib.sha1(b"blob "+str(len(original)).encode()+b"\\0"+original).hexdigest()
+        assert blob==photo.get("source_blob_sha"),relative
+        assert photo.get("creator") and photo.get("source_page","").startswith("https://"),relative
+        assert photo.get("license_url","").startswith("https://"),relative
+        assert not photo.get("private_rights_review_only"),relative
+        nc=photo.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
+        assert photo.get("noncommercial_only") is nc,relative
+        if nc: assert meta["photo_license_policy"]["noncommercial_educational_use"] is True
+    count=len(photos)
+    data[sid]={"count":count,"first_src":photos[0]["src"] if photos else None}
+    total+=count
+    represented+=bool(photos)
+existing={p.relative_to(SITE).as_posix() for p in (SITE/"media").rglob("*") if p.is_file()}
+assert existing==all_paths,{"orphan":sorted(existing-all_paths)[:5],"missing":sorted(all_paths-existing)[:5]}
+out={"schema_version":1,"status":gallery["status"],"species":180,"photo_species":represented,"photo_count":total,"entries":data}
+gallery_path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\\n")
+print("ASTERACEAE_GROWING_GALLERY_INDEX_PASS",json.dumps({"species":180,"photos":total,"photographed_species":represented}))
