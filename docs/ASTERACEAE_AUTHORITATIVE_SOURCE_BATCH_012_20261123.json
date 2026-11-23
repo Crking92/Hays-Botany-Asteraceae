@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "012",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_records": 107,
+  "new_records": 12,
+  "cumulative_records": 119,
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "page_notation": "printed book pages, not PDF leaf indices",
+  "policy": "Append source-specific research only, preserve originals and photo credits; BONAP deferred.",
+  "records": [
+    {
+      "current_name": "Pyrrhopappus carolinianus",
+      "flora_treatment": 399,
+      "printed_page": "Pyrrhopappus carolinianus (Walter) DC.",
+      "morphology": {
+        "habit": "Taprooted annual or biennial, stems 30–100 cm, mostly unbranched near base and glabrous per key",
+        "leaves": "Basal rosette often deciduous; 3–9 stem leaves, uppermost entire/toothed or with one pair of lobes",
+        "heads": "Large all-yellow ligulate heads; outer phyllaries 1/3–2/3 length of inner, principal phyllaries 15–25 mm",
+        "fruit": "Beaked cypselae 14–17 mm including beak; genus capillary pappus 7–12 mm",
+        "habitat": "Sandy woods and fields",
+        "phenology": "Apr–Jul, sporadically Sep"
+      },
+      "historical_synonyms": [
+        "Pyrrhopappus georgianus Shinners",
+        "P. carolinianus var. georgianus (Shinners) Ahles"
+      ],
+      "qa_notes": [
+        "Can hybridize with P. pauciflorus where soils are mixed along roadsides; do not identify solely from flower color."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Pyrrhopappus grandiflorus",
+      "flora_treatment": 399,
+      "printed_page": "Pyrrhopappus grandiflorus (Nutt.) Nutt.",
+      "morphology": {
+        "habit": "Perennial with tuber 5–20 mm thick, located 2–15 cm underground, producing shallow rhizomes; stems 10–30(–40) cm",
+        "stems": "Usually curly-pubescent, 0–2 stem leaves or bracts",
+        "leaves": "Basal rosette; stem mostly leafless",
+        "heads": "Yellow, entirely ligulate, principal phyllaries 15–20 mm",
+        "fruit": "Beaked cypselae 10–13 mm and capillary pappus (genus)",
+        "habitat": "Rocky, clayey or sandy prairies",
+        "phenology": "Apr–May"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Tuberous rootstock distinguishes from taprooted annual congeners; do not infer a tuber from an aboveground photograph."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Pyrrhopappus pauciflorus",
+      "flora_treatment": 399,
+      "printed_page": "Pyrrhopappus pauciflorus (D.Don) DC.",
+      "morphology": {
+        "habit": "Taprooted annual 20–60 cm, stems mostly branching from base, with curly hairs",
+        "leaves": "Basal rosette, 1–5 stem leaves, uppermost deeply several-lobed",
+        "heads": "Yellow entirely ligulate heads, principal phyllaries 16–20 mm, outer phyllaries usually ≤1/3 inner length",
+        "fruit": "Beaked cypselae 12–14 mm; capillary pappus 7–12 mm (genus)",
+        "habitat": "Clay prairie and roadsides",
+        "phenology": "Mar–Jun"
+      },
+      "historical_synonyms": [
+        "Pyrrhopappus geiseri Shinners",
+        "P. multicaulis DC.",
+        "P. multicaulis var. geiseri (Shinners) North."
+      ],
+      "qa_notes": [
+        "Regional flora reports occasional hybridization with P. carolinianus in disturbed mixed soil settings."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Ratibida columnifera",
+      "flora_treatment": 400,
+      "printed_page": "Ratibida columnifera (Nutt.) Wooton & Standl.",
+      "morphology": {
+        "habit": "Perennial often flowering first year, stems 0.2–1.2 m, finely scabrous pubescent",
+        "leaves": "Alternate, compound/deeply lobed with narrow linear or lanceolate terminal segments",
+        "heads": "Long peduncles; elongated column-like receptacle 1.5–4.5 cm",
+        "rays": "3–7 functionally infertile, 10–20(–35) mm, yellow or yellow-orange, bases sometimes reddish-brown, spreading/reflexed",
+        "disk": "Perfect fertile yellow-brown flowers; receptacular scales gray pubescent",
+        "fruit": "Pappus one minute awn ca. 0.6 mm, sometimes second shorter awn",
+        "habitat": "Sandy, silty or rocky open sites",
+        "phenology": "May–Oct"
+      },
+      "historical_synonyms": [
+        "Ratibida columnaris (Sims) D.Don"
+      ],
+      "qa_notes": [
+        "Flower color varies within species; elongated receptacle is more reliable."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Rudbeckia amplexicaulis",
+      "flora_treatment": 346,
+      "printed_page": "Dracopis amplexicaulis (Vahl) Cass.",
+      "morphology": {
+        "habit": "Almost glabrous annual 0.3–0.7 m",
+        "leaves": "Alternate, oblong to ovate with distinctly heart-shaped clasping bases, margins entire or toothed",
+        "heads": "Peduncled, short cylindrical composite heads; elongated chaffy receptacle with green-tipped paleae",
+        "rays": "5–10 infertile, 10–25 mm yellow ligules, sometimes brown-purple blotched at base",
+        "disks": "Perfect fertile florets with brownish/purple tubular corollas",
+        "fruit": "Cylindric to club-shaped cypselae, pappus absent",
+        "habitat": "Disturbed sites particularly wet ground",
+        "phenology": "May"
+      },
+      "historical_synonyms": [
+        "Dracopis amplexicaulis (Vahl) Cass."
+      ],
+      "qa_notes": [
+        "Historic transfer to Dracopis is explicit, not an arbitrary name match.",
+        "Species usually treated with Rudbeckia now; modern accepted-name validation separate."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Rudbeckia hirta",
+      "flora_treatment": 402,
+      "printed_page": "Rudbeckia hirta L. var. pulcherrima Farw.",
+      "morphology": {
+        "habit": "Coarsely hairy annual to short-lived perennial (regional variety description)",
+        "leaves": "Alternate, basal and cauline blades narrowed to bases, subsessile/sessile, rough hairy",
+        "heads": "Large yellow-orange radiate heads, sometimes reddish/purple at ray base",
+        "receptacle": "Disk receptacular paleae bear apical bristles; style branches elongate and awl-like per key",
+        "rays": "Infertile yellow/orange ligules",
+        "disks": "Perfect fertile dark disk florets",
+        "fruit": "Pappus absent per regional key",
+        "habitat": "Disturbed open ground",
+        "phenology": "May–Jul, sometimes Sep"
+      },
+      "historical_synonyms": [
+        "Rudbeckia hirta var. pulcherrima Farw."
+      ],
+      "qa_notes": [
+        "Regional flora gives variety pulcherrima, not blanket species-level morphology for all varieties; keep variety provenance."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Rudbeckia maxima",
+      "flora_treatment": 402,
+      "printed_page": "Rudbeckia maxima Nutt.",
+      "morphology": {
+        "habit": "Robust 1–3 m glaucous perennial, sometimes in beds/colonies",
+        "leaves": "Blue-green glabrous broad ovate to oblong blades, upper ones sessile and partly clasping",
+        "heads": "Large terminal yellow-rayed heads; dark disks elongate strikingly in fruit to 4–8 cm",
+        "rays": "Yellow to orange-yellow 3–8 cm × ≤12 mm, infertile",
+        "disk": "Perfect fertile florets, chaff tips pubescent",
+        "habitat": "Low sandy or silty soils",
+        "phenology": "May–Jun"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Long ripening disk and glaucous leaves distinguish from R. hirta."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Senecio ampullaceus",
+      "flora_treatment": 403,
+      "printed_page": "Senecio ampullaceus Hook.",
+      "morphology": {
+        "habit": "Loosely woolly to nearly glabrous annual 30–80 cm",
+        "leaves": "Alternate, low leaves narrowing to small petiolar base but clasping at node; upper leaves truncate-clasping; mostly entire/shallowly toothed",
+        "heads": "Cymose terminal yellow radiate heads, involucres 7–11 mm; main and accessory phyllaries green-tipped",
+        "rays": "Conspicuous fertile yellow ligules (regional key)",
+        "disks": "Fertile yellow tubes",
+        "fruit": "Cylindrical cypselae, white capillary pappus per genus",
+        "habitat": "Sandy open woods, fields and roadsides",
+        "phenology": "Mar–May"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Genus key contrasts black-tipped phyllaries and inconspicuous rays of introduced S. vulgaris; do not confuse."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Silphium albiflorum",
+      "flora_treatment": 404,
+      "printed_page": "Silphium albiflorum A.Gray",
+      "morphology": {
+        "habit": "Coarse woody-crowned perennial (0.2–)0.4–1 m",
+        "leaves": "Alternate, deeply pinnatifid, rigid and very scabrous; blades nearly as wide as long, often vertically oriented",
+        "heads": "Large heads in raceme-like grouping, WHITE rays 25 mm per key",
+        "reproductive": "Fertile ray florets produce flattened winged fruits; central disk florets staminate/infertile (genus)",
+        "fruit": "Cypselae puberulent, wings extending beyond body into V-notch ~3–5 mm deep",
+        "habitat": "Calcareous prairie, open ground",
+        "phenology": "May–Jul"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Compare S. laciniatum yellow rays, taller habit, less-deep fruit-wing notch."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Silphium laciniatum",
+      "flora_treatment": 404,
+      "printed_page": "Silphium laciniatum L.",
+      "morphology": {
+        "habit": "Coarse perennial 1–3 m from woody crown/taproot",
+        "leaves": "Alternate very stiff, vertically held, deeply pinnatifid, usually longer than wide",
+        "heads": "Raceme-like yellow-rayed heads, rays 25–40 mm in flora key",
+        "reproductive": "Ray florets fertile, disk florets functionally staminate and do not set seed",
+        "fruit": "Glabrous or nearly glabrous winged cypselae, V-shaped apical notch 1–3 mm deep",
+        "habitat": "Calcareous or sandy prairie",
+        "phenology": "Jun–Aug"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Leaf orientation is variable and not enough by itself for identification."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Silphium radula",
+      "flora_treatment": 406,
+      "printed_page": "Silphium radula Nutt.",
+      "morphology": {
+        "habit": "Rough perennial 0.3–1.2+ m",
+        "leaves": "Usually broad sessile entire or slightly toothed, alternating or opposite within populations; well-developed upper leaves near heads",
+        "heads": "Solitary/few in corymb-like array with relatively short peduncles; yellow rays",
+        "reproductive": "Fertile ray florets yield winged cypselae; disk florets functionally staminate",
+        "pubescence": "Coarse stem hairs can be ~1 mm or longer, but regional flora notes substantial overlap with related taxa",
+        "habitat": "Calcareous/sandy ground",
+        "phenology": "Jun–Jul"
+      },
+      "historical_synonyms": [
+        "Silphium asperrimum Hook."
+      ],
+      "qa_notes": [
+        "Flora documents ambiguity with S. integrifolium and intergradation with S. gracile; do not key by hairs or alternate/opposite alone."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Silybum marianum",
+      "flora_treatment": 406,
+      "printed_page": "Silybum marianum (L.) Gaertn.",
+      "morphology": {
+        "habit": "Introduced Mediterranean coarse annual/biennial (rarely perennial) 0.6–1.8+ m",
+        "leaves": "Alternate striking white-mottled green, spiny-lobed; cauline leaves ear-clasping but NOT decurrent down the stem",
+        "heads": "Large terminal 2.5–6 cm heads; involucre bracts to 5 cm with very broad base and spiny tapering tips",
+        "florets": "Rayless; purple tubular disk florets",
+        "fruit": "White non-plumose pappus bristles 15–20 mm, shed together as ring",
+        "habitat": "Roadsides and pastures",
+        "phenology": "May–Jun"
+      },
+      "historical_synonyms": [],
+      "qa_notes": [
+        "Regionally introduced; avoid nativity inference from Texas occurrence."
+      ],
+      "status": "regional_species_or_key_source_extracted; secondary_taxonomic_review_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Rudbeckia amplexicaulis",
+      "issue": "Flora treatment under Dracopis; transfer checked within source but independent modern nomenclatural reconciliation outstanding."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "issue": "Flora species treatment is at var. pulcherrima, not full species concept."
+    }
+  ]
+}
