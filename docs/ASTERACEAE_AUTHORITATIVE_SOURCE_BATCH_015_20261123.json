@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "015",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_researched_inventory_entries": 137,
+  "new_researched_inventory_entries": 13,
+  "cumulative_researched_inventory_entries": 150,
+  "source": "Diggs, Lipscomb & O'Kennon, 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_document": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_page_type": "printed pages",
+  "method": "Additive source-specific transcription/paraphrase; genus-key traits labeled, historical rank concept cautions retained. No species gallery changes or BONAP.",
+  "records": [
+    {
+      "current_name": "Taraxacum erythrospermum",
+      "original_name": "Taraxacum laevigatum (Willd.) DC.",
+      "printed_pages": [
+        418
+      ],
+      "morphology": {
+        "habit": "Small taprooted perennial behaving often as winter annual, milky latex",
+        "leaves": "Basal rosette, usually deeply lobed along blade, terminal lobe often no larger than lateral lobes, triangular with straight or concave sides",
+        "heads": "Solitary head per hollow scape, all yellow ligulate florets, outer phyllaries spreading/reflexed",
+        "fruit": "Mature cypselae reddish/purplish or brownish-red; some inner phyllary tips may have a small abaxial knob in fresh specimens, difficult to see",
+        "pappus": "Numerous white capillary bristles borne at tip of elongated beak",
+        "habitat": "Lawns, urban disturbed areas, under trees",
+        "phenology": "Dec–Jun, sporadically later"
+      },
+      "historical_names": [
+        "Taraxacum erythrospermum Andrz. ex Besser"
+      ],
+      "notes": [
+        "1999 source uses T. laevigatum, synonym T. erythrospermum; verify contemporary taxon limits before canonical transfer.",
+        "Source says introduced from Europe/west Asia."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Tetragonotheca texana",
+      "original_name": "Tetragonotheca texana Engelm. & A.Gray ex A.Gray",
+      "printed_pages": [
+        420
+      ],
+      "morphology": {
+        "habit": "Herbaceous perennial with stems 0.2–0.5(–0.7) m in original key",
+        "leaves": "Opposite to connate-perfoliate, narrowly ovate, elliptic or oblong in overall outline, deeply pinnatifid, 3–10 cm long and to 4.5 cm wide (usually narrower)",
+        "heads": "Radiate heads 2–4 cm wide including rays (genus), conspicuous four outer foliaceous phyllaries creating square-like bud",
+        "flowers": "Yellow fertile pistillate ray florets and fertile yellow bisexual disk florets",
+        "fruits": "Four-angled cypselae with scales or no pappus (genus)",
+        "habitat": "Calcareous uplands",
+        "phenology": "Apr–Sep"
+      },
+      "historical_names": [],
+      "notes": [
+        "Distinguish T. ludoviciana by much broader, more clearly connate-perfoliate and toothed rather than pinnatifid leaves."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Tetraneuris linearifolia",
+      "original_name": "Tetraneuris linearifolia (Hook.) Greene",
+      "printed_pages": [
+        420
+      ],
+      "morphology": {
+        "habit": "Annual, leafy, branching stems to ca. 40(–60) cm; pilose to glabrate",
+        "leaves": "Early rosette sometimes deciduous; cauline persistent narrowly linear 3–6(–8) cm long by 3–10 mm wide, foliage minutely resin-dotted (genus)",
+        "heads": "Solitary long-peduncled yellow-rayed heads, phyllaries 2.5–4(–4.5) mm per key",
+        "rays": "6–22, ligules 5–10 mm according to historical key",
+        "fruits": "Cypselae ~2 mm, awn-tipped pappus scales ~2 mm",
+        "habitat": "Calcareous prairie clay/rock",
+        "phenology": "Mar–May, secondary smaller heads to Jul"
+      },
+      "historical_names": [
+        "Hymenoxys linearifolia Hook."
+      ],
+      "notes": [
+        "Do not assign T. linearifolia var. linearifolia to a species-level photograph by default."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Tetraneuris scaposa var. scaposa",
+      "original_name": "Tetraneuris scaposa (DC.) Greene [species-level original treatment]",
+      "printed_pages": [
+        420
+      ],
+      "morphology": {
+        "habit": "Perennial 10–30+ cm with nearly basal leaves and mostly unbranched leafless scapes",
+        "leaves": "Linear to linear-lanceolate basal blades 2–10 cm × 1.5–9(–11) mm, petioles 0.5–1.5 mm broad with clasping base, long hair in axils",
+        "heads": "One yellow/orange-yellow radiate head on each leafless scape; phyllaries 4.5–6 mm per historical key",
+        "rays": "12–31 yellow rays, 8–22 mm ligules in key",
+        "fruits": "Cypselae 2–3.5 mm, awn-tipped scales 1–~3 mm",
+        "habitat": "Rocky limestone prairie",
+        "phenology": "Mar–May; occasional summer and Sep–Oct repeat"
+      },
+      "historical_names": [
+        "Hymenoxys scaposa (DC.) K.L.Parker"
+      ],
+      "notes": [
+        "Original flora covers species T. scaposa, not var. scaposa as a separate diagnostic entity; retain species measurements as source only and avoid claiming varietal confirmation."
+      ],
+      "source_status": "historic_rank_crosswalk_pending"
+    },
+    {
+      "current_name": "Thelesperma filifolium",
+      "original_name": "Thelesperma filifolium (Hook.) A.Gray",
+      "printed_pages": [
+        421,
+        422
+      ],
+      "morphology": {
+        "habit": "Annual or short-lived perennial, first-year flowering; 20–70 cm",
+        "leaves": "Opposite and finely compound/dissected with many thin divisions, commonly spread up stem",
+        "heads": "Radiate greenthread heads on naked stalks; outer phyllaries 3–12 mm and generally at least 1/2 inner length",
+        "rays": "Ligules yellow to gold, sometimes red-brown at base, ~9–22 mm long × 9–17 mm wide with 3 apical lobes",
+        "disks": "Yellow or dark reddish-brown corollas, lobes often long (genus)",
+        "fruits": "Cypselae 3.5–6.5 mm; genus 2(–3) awns or absent, variable",
+        "habitat": "Prairie, roadsides, disturbed sites",
+        "phenology": "Apr–Jun; occasionally Sep"
+      },
+      "historical_names": [
+        "Thelesperma trifidum (Poir.) Britton [var. filifolium]"
+      ],
+      "notes": [
+        "Historic flora recognizes var. filifolium and var. intermedium, and measurements must not be assumed for a particular variety without evidence."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Thelesperma megapotamicum var. ambiguum",
+      "original_name": "Thelesperma ambiguum A.Gray [treated at species rank]",
+      "printed_pages": [
+        421
+      ],
+      "morphology": {
+        "habit": "Perennial 22–50 cm",
+        "leaves": "Typically concentrated near base/basal third (key); opposite, compound or deeply cut with narrow segments (genus)",
+        "heads": "Solitary terminal head, ray florets yellow, usually present but occasionally absent",
+        "phyllaries": "Outer phyllaries only about 1–2 mm, less than 1/4 inner length (key)",
+        "disks": "Dark red-brown tubular florets with deeply divided lobes",
+        "fruit": "Linear-oblong cypselae; genus pappus of small awns or reduced"
+      },
+      "historical_names": [
+        "Thelesperma ambiguum A.Gray"
+      ],
+      "notes": [
+        "1999 book treats T. ambiguum as species and puts T. megapotamicum var. ambiguum in brackets; current accepted rank and relationship require verification.",
+        "Do not substitute characteristics of rayless T. megapotamicum species description for this variety."
+      ],
+      "source_status": "historic_rank_crosswalk_pending"
+    },
+    {
+      "current_name": "Thelesperma simplicifolium",
+      "original_name": "Thelesperma simplicifolium A.Gray",
+      "printed_pages": [
+        422
+      ],
+      "morphology": {
+        "habit": "Glabrous, frequently glaucous perennial 30–70 cm with few stem leaves",
+        "leaves": "Opposite, upper third often 1–3 narrow segments, sparsely leafy",
+        "heads": "Terminal golden/yellow radiate heads; inner phyllaries fused at basal 1/4–1/2 (genus)",
+        "disks": "Yellow corollas with relatively shallow lobes, about 1/5 of limb length",
+        "fruit": "Pappus absent or just two minute tooth-like awns",
+        "habitat": "Limestone outcrops",
+        "phenology": "May–Sep"
+      },
+      "historical_names": [],
+      "notes": [
+        "Historic flora states T. curvicarpum is likely rare fruit form of T. simplicifolium or T. filifolium rather than separate species; do not create another inventory species."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Thymophylla pentachaeta",
+      "original_name": "Thymophylla pentachaeta (DC.) Small",
+      "printed_pages": [
+        422
+      ],
+      "morphology": {
+        "habit": "Short-lived aromatic perennial 10–20 cm",
+        "leaves": "Opposite, deeply divided into approximately 5–7 narrow linear lobes, scattered oil glands",
+        "heads": "Solitary heads with peduncles 5–10 cm; involucres 4–6 mm high",
+        "phyllaries": "Joined up to approximately half their length; free tips each have one or more narrow glands",
+        "rays": "8–13 yellow to orange-yellow ligules 2–8 mm",
+        "disks": "Dull yellow",
+        "fruit": "Cypsela 2–3 mm, about 10 alternating awned/awnless pappus scales",
+        "habitat": "Sandy often calcareous soils",
+        "phenology": "Mar–Jul and Sep–Nov"
+      },
+      "historical_names": [
+        "Dyssodia pentachaeta (DC.) B.L.Rob."
+      ],
+      "notes": [
+        "The opposite leaves and phyllary fusion/gland placement separate it from T. tenuiloba."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Thymophylla tenuiloba",
+      "original_name": "Thymophylla tenuiloba (DC.) Small var. tenuiloba",
+      "printed_pages": [
+        422,
+        424
+      ],
+      "morphology": {
+        "habit": "Annual or short-lived aromatic perennial 10–30 cm, occasionally dense clumps",
+        "leaves": "Mostly alternate and cut into 7–15 linear segments, gland-dotted",
+        "heads": "Peduncles 3–8 cm, involucres 5–7 mm",
+        "phyllaries": "Fused almost to apex with short triangular exposed tips and an apical ring of oil glands",
+        "rays": "Golden-yellow to yellow-orange ligules 4–10 mm",
+        "disks": "Yellow-orange",
+        "fruit": "Cypsela 2–3.2 mm, pappus 10–12 scales 2–3.4 mm, each carrying 3–5 awns",
+        "habitat": "Sandy, often calcareous soils",
+        "phenology": "May–Oct"
+      },
+      "historical_names": [
+        "Dyssodia tenuiloba (DC.) B.L.Rob."
+      ],
+      "notes": [
+        "1999 species treatment explicitly var. tenuiloba; var. wrightii has different leaves, do not propagate all dimensions to species without secondary check."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Tragopogon dubius",
+      "original_name": "Tragopogon dubius Scop.",
+      "printed_pages": [
+        424
+      ],
+      "morphology": {
+        "habit": "Introduced Eurasian biennial with stout taproot, milky sap, 0.3–1 m",
+        "leaves": "Alternate, clasping, grasslike narrow blades to 30 cm, long-tapering entire margins",
+        "heads": "One head per swollen-tipped peduncle, opening in morning; typical ~13 phyllaries about 2.4–4 cm long",
+        "flowers": "All ligulate lemon-yellow florets, no central disk florets",
+        "fruit": "Cypselae 2–5 cm including long beak, pappus large plumose bristles, spherical seedheads",
+        "habitat": "Disturbed open roadsides and fields",
+        "phenology": "Apr–Jun"
+      },
+      "historical_names": [
+        "Tragopogon major Jacq."
+      ],
+      "notes": [
+        "Distinct from T. porrifolius purple corollas and ~8 phyllaries."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Verbesina encelioides",
+      "original_name": "Verbesina encelioides (Cav.) Benth. & Hook.f. ex A.Gray",
+      "printed_pages": [
+        426,
+        427
+      ],
+      "morphology": {
+        "habit": "Taprooted annual 0.1–0.9 m, stems NOT winged",
+        "leaves": "Opposite lower, alternate above; triangular-ovate toothed grayish/canescent underneath; winged petioles often ear-like at base",
+        "heads": "One to three showy terminal heads",
+        "rays": "10–15 yellow rays, ligules ca. 1–2.5 cm, tips prominently three-lobed",
+        "disk": "Yellow perfect fertile florets",
+        "fruit": "Usually winged flat cypselae",
+        "habitat": "Disturbed, often sandy soils",
+        "phenology": "May–Nov"
+      },
+      "historical_names": [
+        "Ximenesia encelioides Cav."
+      ],
+      "notes": [
+        "Stems wingless unlike many perennial Verbesina; winged LEAF PETIOLE must not be confused with stem wings."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Verbesina lindheimeri",
+      "original_name": "Verbesina lindheimeri B.L.Rob. & Greenm.",
+      "printed_pages": [
+        426,
+        427
+      ],
+      "morphology": {
+        "habit": "Perennial (0.2–)0.4–0.6(–1) m, roots fibrous",
+        "leaves": "Mostly opposite, ovate-deltoid with cuneate base, harshly scabrous",
+        "stems": "Usually not winged",
+        "heads": "Few, often 1–10(–20); phyllaries broadly oblong/ovate with rounded tips",
+        "rays": "8–15+ spreading yellow rays 10–30 mm per genus key",
+        "disks": "Yellow fertile tubular florets",
+        "fruit": "Flattened winged cypselae",
+        "habitat": "Limestone juniper-oak woodlands, shaded slopes",
+        "phenology": "Late summer–fall"
+      },
+      "historical_names": [],
+      "notes": [
+        "Regional key explicitly notes rare winglessness within otherwise mostly winged genus, so not a universal character for Verbesina."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Verbesina virginica",
+      "original_name": "Verbesina virginica L.",
+      "printed_pages": [
+        427
+      ],
+      "morphology": {
+        "habit": "Coarse fibrous-rooted perennial to 2 m",
+        "leaves": "Alternate, typically toothed, some extended down stem as wings",
+        "stems": "Four- or five-winged, sometimes splitting with first freezing conditions and exuding water that forms ice ribbons",
+        "heads": "Numerous heads in cymose clusters",
+        "rays": "One to five short WHITE rays, ligules to 10 mm",
+        "disks": "White fertile disk corollas",
+        "fruit": "Flattened, sometimes winged cypselae, 2 awns or absent (genus)",
+        "habitat": "Disturbed woods",
+        "phenology": "Aug–Oct"
+      },
+      "historical_names": [],
+      "notes": [
+        "Freeze-triggered stem ice is a phenological trait, not reliable for identifying green-season plants."
+      ],
+      "source_status": "1999_original_species_or_key_extracted_secondary_review_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Tetraneuris acaulis",
+      "reason": "No matching 1999 local flora species paragraph: needs Flora of North America."
+    },
+    {
+      "name": "Thelesperma megapotamicum var. ambiguum",
+      "reason": "1999 flora treats T. ambiguum at species rank; modern variety concept pending."
+    },
+    {
+      "name": "Tetraneuris scaposa var. scaposa",
+      "reason": "Species-level historic source verified but modern diagnostic variety still needs source."
+    }
+  ]
+}
