@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "collection_id": "asteraceae",
+  "batch": "004",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "previous_extracted": 26,
+  "cumulative_researched": 36,
+  "source_policy": "Additive audit only. Existing species.json, photo/gallery metadata and BONAP evidence untouched. Morphology attributed to 1999 flora, FNA, or prior verified record explicitly.",
+  "records": [
+    {
+      "current_name": "Bradburia hirtella",
+      "historical_flora_name": "Chrysopsis texana G.L.Nesom",
+      "printed_flora_page": 336,
+      "character_source": "FNA volume 20, Bradburia hirtella",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220001896",
+      "morphology": {
+        "habit": "Annual, rarely perennial, 15–80 cm; woody taprooted caudex",
+        "stems": "Erect, few branches at mid/distal nodes, sparsely pilose",
+        "leaves": "Alternate; basal 30–60 × 3–8 mm, often withered; stem leaves narrow, hispid/pilose, sometimes stipitate-glandular",
+        "heads": "1–15(–50), peduncles 1.5–10 cm",
+        "phyllaries": "4–5 series, strongly unequal, scarious-margined",
+        "rays": "(7–)10(–14) fertile pistillate yellow rays, blades 6–13 × 1–2 mm",
+        "disc": "11–25 functionally staminate (sterile) florets",
+        "fruits": "Ray cypselae triangular in section and densely strigose; pappus 2–3 series with bristles outer 1–2.5 mm and inner 2–3 mm",
+        "habitat": "Open sandy/gravelly soils, pine-oak-juniper woods, roadsides",
+        "phenology": "Late spring–early summer"
+      },
+      "unresolved_notes": [
+        "1999 regional flora treated this under Chrysopsis texana, p.336; FNA treats it as Bradburia hirtella.",
+        "Existing species card lacks morphology_keys; do not replace original content."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Brickellia dentata",
+      "historical_flora_name": "No matching species treatment located",
+      "printed_flora_page": null,
+      "character_source": "FNA vol. 21, Brickellia dentata",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066254",
+      "morphology": {
+        "habit": "Shrub with woody branched stems, ~60–120 cm (existing source-backed species record)",
+        "leaves": "Alternate, short-petiolate 1–2 mm, lanceolate to lance-ovate 5–40 × 3.5–12 mm; teeth variable",
+        "heads": "Narrow paniculiform group of disk-only heads",
+        "phyllaries": "18–22 in 5–6 series, involucres 7–11 mm",
+        "disc": "13–20 pale yellow/greenish tubular florets",
+        "fruits": "Cypselae ca. 3.5–4 mm, usually glabrous; pappus 30–35 tawny bristles"
+      },
+      "unresolved_notes": [
+        "No matching regional-flora species paragraph confirmed; morphology quoted from existing carefully researched species record and flagged for secondary-source recheck.",
+        "Original source records not modified."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Calyptocarpus vialis",
+      "historical_flora_name": "Calyptocarpus vialis Less.",
+      "printed_flora_page": 329,
+      "character_source": "1999 flora",
+      "source_url": null,
+      "morphology": {
+        "habit": "Small trailing pubescent perennial 5–30 cm",
+        "leaves": "Opposite, petioled; ovate to ovate-lanceolate or deltoid, 1–3(–4) cm, toothed",
+        "heads": "Small solitary heads on short axillary peduncles",
+        "phyllaries": "4–5, obtuse and laterally overlapping",
+        "rays": "3–8 yellow/yellow-orange, ray limbs 1–4 mm",
+        "disc": "Yellow/yellow-orange",
+        "fruits": "Pappus two awns, sometimes 1–3 additional rudimentary awns",
+        "habitat": "Lawn weed or deliberately planted shady cover",
+        "phenology": "Apr–Jul"
+      },
+      "unresolved_notes": [
+        "Regional source says April–July; do not generalize year-round flowering from other geographic treatments."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Carthamus tinctorius",
+      "historical_flora_name": "Carthamus tinctorius L.",
+      "printed_flora_page": 330,
+      "character_source": "1999 flora",
+      "source_url": null,
+      "morphology": {
+        "habit": "Mostly glabrous taprooted annual, 0.3–1 m",
+        "stems": "Erect, cymose flowering arrangement",
+        "leaves": "Alternate, sometimes nearly opposite above, elliptic to ovate/oblong, usually simple with few spine teeth",
+        "heads": "Terminal, phyllaries spine-tipped, outer phyllaries leafy and spreading",
+        "receptacle": "Scaly/chaffy",
+        "rays": "Absent",
+        "disc": "Bright orange to yellow-orange tubular florets",
+        "fruits": "Ivory white glabrous achenes ~6 × 4 mm, pappus normally absent, rarely rudimentary/well-developed bristle scales",
+        "habitat": "Garden escapes and ruderal sites",
+        "phenology": "Summer"
+      },
+      "unresolved_notes": [
+        "Regional flora reports very limited Texas collections as of 1999; don't translate to present-day frequency."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Centaurea cyanus",
+      "historical_flora_name": "Centaurea cyanus L.",
+      "printed_flora_page": 334,
+      "character_source": "1999 flora",
+      "source_url": null,
+      "morphology": {
+        "habit": "Annual 0.2–1 m",
+        "leaves": "Alternate; lower oblanceolate and toothed/lobed; upper narrow oblanceolate, often white-woolly beneath, decurrent onto stem",
+        "heads": "Centaurea: terminal solitary/corymbose, no true ray florets, outer disk florets enlarged to resemble rays",
+        "phyllaries": "Margins with many tiny often dark teeth, without terminal sharp spines",
+        "disc": "Blue, purple, pink or white; outer sterile showy florets",
+        "fruits": "Pappus 0.2–3.5 mm",
+        "habitat": "Cultivated, escaped on roadsides/disturbed ground",
+        "phenology": "Apr–Jun"
+      },
+      "unresolved_notes": [
+        "Do not describe outer enlarged florets as true ray florets."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Centaurea melitensis",
+      "historical_flora_name": "Centaurea melitensis L.",
+      "printed_flora_page": 334,
+      "character_source": "1999 flora",
+      "source_url": null,
+      "morphology": {
+        "habit": "Annual, sometimes biennial, 0.1–0.8 m",
+        "leaves": "Lower pinnately lobed with rounded lobes; upper linear, decurrent onto stems",
+        "heads": "Small heads, involucres about 1 cm excluding spines",
+        "phyllaries": "Terminal sharp spine 3–9 mm, often darker than body",
+        "rays": "Absent, outer disk florets may appear radiate per genus",
+        "disc": "Yellow",
+        "fruits": "Pappus 2–6 mm",
+        "habitat": "Disturbed calcareous ground",
+        "phenology": "Not specified in species paragraph"
+      },
+      "unresolved_notes": [
+        "Phenology is absent from source's species paragraph; do not invent season.",
+        "European origin documented in 1999 flora; keep separated from BONAP county evidence."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Chaetopappa bellidifolia",
+      "historical_flora_name": "No verified matching species paragraph in 1999 flora",
+      "printed_flora_page": null,
+      "character_source": "FNA vol. 20, Chaetopappa key",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=106357",
+      "morphology": {
+        "habit": "Taprooted annual",
+        "leaves": "Alternate, flat herbaceous basal/cauline leaves, rather than crowded leathery ones",
+        "heads": "Solitary terminal small radiate heads, pale rays and yellow discs",
+        "phyllaries": "Unequal with sharply delimited whitish-scarious margins (genus-level)",
+        "fruits": "Minute thickened pappus ring distinguishing from C. effusa's perennial rootstock and tiny erose crown"
+      },
+      "unresolved_notes": [
+        "Do not conflate the 1999 C. asteroides treatment with this species.",
+        "FNA genus key used; species-level dimensions await full account review."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Chaetopappa effusa",
+      "historical_flora_name": "No verified matching species paragraph in 1999 flora",
+      "printed_flora_page": null,
+      "character_source": "FNA vol. 20, Chaetopappa key",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=106357",
+      "morphology": {
+        "habit": "Rhizomatous perennial without distinct taproot",
+        "leaves": "Alternate, flat; proximal stem blades oblong to lanceolate-oblong, 6–12 mm wide, bases truncate to subcordate; distal leaves reduced",
+        "heads": "Solitary terminal radiate with pale rays and yellow discs per genus",
+        "fruits": "Pappus minute erose crown or thickened ring <0.1 mm"
+      },
+      "unresolved_notes": [
+        "Separate from taprooted annual C. bellidifolia; both may have tiny pappus."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Chaetopappa ericoides",
+      "historical_flora_name": "Chaetopappa ericoides (Torr.) G.L.Nesom",
+      "printed_flora_page": 334,
+      "character_source": "1999 flora + FNA",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066324",
+      "morphology": {
+        "habit": "Tufted perennial, 10–15(–20) cm, forming patches from creeping roots; FNA key notes short stems 6–12 cm",
+        "leaves": "Alternate, crowded, narrow oblanceolate, 2–12(–15) mm long, ≤2 mm wide, entire, firm; FNA notes strong raised midrib and longitudinal grooves above",
+        "heads": "Solitary terminal heads on numerous branches; involucres 5–7 mm high",
+        "rays": "White to rosy with age, 2–3 mm; curl under at night/age",
+        "disc": "Yellow",
+        "fruits": "Achenes 2–3 mm; FNA: 1 series of (20–)24–26(–30) barbellate pappus bristles",
+        "habitat": "Sandy or gravelly prairie/rock outcrops",
+        "phenology": "Apr–Sep"
+      },
+      "unresolved_notes": [
+        "1999 flora lists Aster arenosus and Leucelene ericoides as synonyms.",
+        "FNA key separates it from other Chaetopappa using densely overlapping grooved leaves and true bristle pappus."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    },
+    {
+      "current_name": "Chaptalia texana",
+      "historical_flora_name": "Chaptalia texana Greene",
+      "printed_flora_page": 335,
+      "character_source": "1999 flora",
+      "source_url": null,
+      "morphology": {
+        "habit": "Stemless rosette perennial",
+        "leaves": "Oblanceolate to obovate-lyrate, 6–15 × 2.4–4 cm, underside conspicuously white-tomentose",
+        "stems": "Leafless peduncles 10–60 cm, sometimes 1–2 tiny bracts",
+        "heads": "Solitary, nodding in flower but erect in fruit, roughly 150 flowers",
+        "phyllaries": "White-tomentose, tips often dark and nearly glabrous",
+        "florets": "Peripheral pistillate ray-like cream turning crimson; inner pistillate filiform; central perfect",
+        "fruits": "Achenes 9–16 mm including a filiform beak making up about 2/3 of length; pappus buff-white bristles 13–14 mm",
+        "habitat": "Calcareous areas",
+        "phenology": "Sep–Nov"
+      },
+      "unresolved_notes": [
+        "1999 synonym Chaptalia nutans var. texana; verify modern placement before making taxonomy edits."
+      ],
+      "review_status": "source_treatment_documented_secondary_reconciliation_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Carphochaete bigelovii",
+      "reason": "FNA genus key and POWO accepted name found; species-level diagnostic account not fully corroborated; not counted."
+    }
+  ],
+  "references": [
+    "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "FNA volumes 20 and 21 (species/genus-key links when available)"
+  ]
+}
