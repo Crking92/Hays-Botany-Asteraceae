@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "006",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_researched": 43,
+  "cumulative_researched": 51,
+  "research_method": "Source-preserving, additive extraction. Regional flora pages are printed page numbers. Explicitly distinguish FNA genus/key vs full species accounts and note source-access gaps.",
+  "source_files": [
+    "Flora of North Central Texas-Acanth-Euph.pdf",
+    "FNA Asteraceae volumes 19, 20 and 21"
+  ],
+  "records": [
+    {
+      "current_name": "Chondrilla juncea",
+      "original_flora_name": null,
+      "printed_page": null,
+      "source": "FNA vol.19 species account and genus account",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220002818",
+      "morphology": {
+        "habit": "Introduced Eurasian taprooted perennial with rush-like, stiff, much-branched stems, ca. 40–150 cm (genus)",
+        "stems": "Coarsely bristly at base, upper flowering stems nearly glabrous",
+        "leaves": "Basal rosette blades 5–13 × 1.5–3 cm, runcinate-pinnatifid, often withered when flowering; upper stem leaves reduced, linear",
+        "heads": "Many solitary or grouped axillary/terminal ligulate heads, about 7–15 yellow florets per head (genus)",
+        "involucres": "Genus cylindrical, 2.5–5 mm diameter, 5–9 major phyllaries",
+        "fruits": "Beaked cylindrical ribbed cypsela, about 3–4 mm body, a white bristle pappus; source descriptions vary in whether beak counted",
+        "habitat": "Disturbed roadsides, grasslands, waste land"
+      },
+      "flags": [
+        "Source genus measurements tagged rather than asserted as exclusive species measurements.",
+        "FNA full species page was intermittently unavailable, so phenology excluded.",
+        "Do not mark locally native."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Chromolaena odorata",
+      "original_flora_name": null,
+      "printed_page": null,
+      "source": "FNA vol.21 Chromolaena genus and identification key; existing species record for supplementary details",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=106935",
+      "morphology": {
+        "habit": "Perennial or subshrub; flowering growth often erect to sprawling (genus)",
+        "leaves": "Opposite, petioles 5–20 mm; large blades mostly (3.5–)5–10 cm, generally deltate to ovate-lanceolate with toothed margins and 3 basal veins",
+        "heads": "Disk-only heads in groups of 5–50+ in corymbiform clusters",
+        "involucres": "Cylindric, usually (7–)8–10 mm in the FNA key; phyllaries many imbricate in ≥4 series (genus)",
+        "flowers": "Tubular disk florets whitish, pinkish, pale purple; no rays",
+        "fruits": "Genus prismatic (3–)5-ribbed cypsela, scabrellous, ~40 barbellate pappus bristles"
+      },
+      "flags": [
+        "FNA genus and key verified; narrower species-specific metrics are from the established species record and require separate citation.",
+        "No regional Diggs species treatment established."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Chrysactinia mexicana",
+      "original_flora_name": null,
+      "printed_page": null,
+      "source": "FNA vol.21 Chrysactinia (monotypic in U.S. flora) genus account",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=106947",
+      "morphology": {
+        "habit": "Evergreen aromatic subshrub/shrub, usually 10–40 cm (occasionally taller)",
+        "leaves": "Alternate narrow entire blades, linear to club-shaped or needlelike, conspicuous marginal/submarginal oil glands",
+        "heads": "Single yellow radiate heads on branches; no calyculus",
+        "involucres": "Turbinate/hemispheric ~3.5–5 mm across, 8–14 carinate phyllaries in ca. 2 series, each with 1–5 oil glands",
+        "rays": "Usually 8 fertile yellow ray florets",
+        "discs": "About 15–70 fertile yellow-orange disk florets",
+        "receptacle": "Convex to hemispheric, pitted, usually naked",
+        "fruits": "Cylindrical to spindle-shaped cypselae; ~30–40 persistent pappus bristles"
+      },
+      "flags": [
+        "Numbers are genus-level FNA characters; genus has only one member in the FNA flora, not necessarily global genus-exclusive.",
+        "Specific flowering months not verified."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Conoclinium dissectum",
+      "original_flora_name": null,
+      "printed_page": null,
+      "source": "FNA vol.21 Conoclinium genus key; UT Austin Wildflower Center synonym crosswalk",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066412",
+      "morphology": {
+        "habit": "Rhizomatous colony-forming herbaceous perennial (genus)",
+        "leaves": "Opposite, petiolate; blades deeply lobed or dissected with toothed lobes, unlike entire-to-dentate C. coelestinum",
+        "heads": "Conical naked receptacle, disk-only corymbiform clusters; tubular blue-violet florets",
+        "involucres": "Genus hemispherical, 3–6 mm diameter; about 25 phyllaries in 2–3 series",
+        "florets": "Genus 35–70+ per head, no ray florets",
+        "fruits": "Genus 5-ribbed cypsela, pappus ~30 barbellate bristles"
+      },
+      "historical_synonyms": [
+        "Conoclinium greggii (A.Gray) Small",
+        "Eupatorium greggii A.Gray"
+      ],
+      "flags": [
+        "Genus-level measurements separated from species-level leaf character.",
+        "UT Austin and POWO support Conoclinium greggii as historical synonym; 1999 regional account not found."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Coreopsis basalis",
+      "original_flora_name": "Coreopsis basalis (A.Dietr.) S.F.Blake",
+      "printed_page": 342,
+      "source": "Diggs, Lipscomb & O'Kennon (1999) comparative note under Coreopsis wrightii",
+      "morphology": {
+        "habit": "Annual, per Coreopsis basalis/wrightii key grouping; independent life-cycle account still to confirm",
+        "leaves": "Middle/upper leaves broadly segmented; terminal leaflet on middle leaf generally <3 times as long as broad and about 5–15 mm wide",
+        "heads": "Genus ca. 8 sterile yellow rays and brownish-red disk corollas in the C. basalis/wrightii group",
+        "phyllaries": "Genus inner phyllaries fused basally into cup; outer distinct",
+        "fruits": "Flattened cypsela with 2 awns varying across genus"
+      },
+      "flags": [
+        "Flora account is comparative and explicitly says distribution just east/south of north-central-Texas study region.",
+        "Do not assign C. wrightii's narrower 1–3 mm terminal leaflets to basalis.",
+        "Species-level fruit and dimensions beyond comparative note withheld."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Coreopsis lanceolata",
+      "original_flora_name": "Coreopsis lanceolata L.",
+      "printed_page": 342,
+      "source": "Diggs, Lipscomb & O'Kennon (1999) full species account + genus key",
+      "morphology": {
+        "habit": "Perennial 0.3–0.7 m, foliage crowded on lower stem with flowering peduncles commonly >15 cm",
+        "leaves": "Usually simple or with 1–2 lobes, divisions 5–30 mm wide; distal stems largely leafless",
+        "heads": "Radiate yellow flowerheads, about 8 rays per genus; ligules 15–30 mm, 4–5 toothed",
+        "phyllaries": "Outer lanceolate phyllaries shorter than/equal inner, 5–10 mm",
+        "discs": "Yellow, corollas 5-lobed and 5 anthers",
+        "fruits": "Flat thin-winged achenes; 2 awns or reduced pappus per genus",
+        "habitat": "1999 flora noted planted/spreading along highways",
+        "flowering": "Apr–May"
+      },
+      "flags": [
+        "Regional account concerns its 1999 area and introduction along highways; do not infer current BONAP local nativity."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Coreopsis tinctoria",
+      "original_flora_name": "Coreopsis tinctoria Nutt.",
+      "printed_page": 342,
+      "source": "Diggs, Lipscomb & O'Kennon (1999) full species account + genus key",
+      "morphology": {
+        "habit": "Annual, 0.6–1.2 m",
+        "leaves": "Opposite per genus; pinnately compound, lower terminal leaflets linear, upper divisions becoming threadlike",
+        "heads": "Yellow ligules with brown/red basal marks, 10–15 mm long; disk corollas reddish-brown above",
+        "phyllaries": "Outer phyllaries much shorter than inner, around 2 mm, linear-oblong to triangular",
+        "florets": "Ray ligules bluntly 3-toothed; disk corollas 4-lobed with 4 anthers (key)",
+        "fruits": "Flattened achenes winged or wingless",
+        "habitat": "Low moist often sandy places, cultivated as ornamental",
+        "flowering": "May–Sep"
+      },
+      "historical_synonyms": [
+        "Coreopsis cardaminaefolia (DC.) Torr. & A.Gray"
+      ],
+      "flags": [
+        "Compare C. wrightii: 5-lobed disk corollas, 5 anthers, and outer phyllaries longer."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    },
+    {
+      "current_name": "Coreopsis wrightii",
+      "original_flora_name": "Coreopsis wrightii (A.Gray) H.M.Parker",
+      "printed_page": 342,
+      "source": "Diggs, Lipscomb & O'Kennon (1999) full species account + genus key",
+      "morphology": {
+        "habit": "Annual herb",
+        "leaves": "Pinnately compound, middle/upper leaflets narrow; middle terminal leaflet >3× long as wide, only 1–3 mm wide",
+        "heads": "Yellow ligules usually brown-red at base, 4–5-toothed; reddish-brown disk corollas",
+        "phyllaries": "Outer linear phyllaries about 4–11 mm, equal to or longer than inner",
+        "florets": "Disk corollas 5-lobed, anthers 5",
+        "fruits": "Cypselae wingless, pappus of 2 awns sometimes reduced per genus",
+        "habitat": "Calcareous prairie soils",
+        "flowering": "May–Jun"
+      },
+      "historical_synonyms": [
+        "Coreopsis basalis var. wrightii (A.Gray) S.F.Blake"
+      ],
+      "flags": [
+        "Do not merge historical Coreopsis basalis var. wrightii with modern Coreopsis basalis; this variety is synonym of C. wrightii in 1999 treatment."
+      ],
+      "status": "extracted_source_specific_comparison_secondary_verification_pending"
+    }
+  ],
+  "holds": []
+}
