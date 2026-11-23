@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "018",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_inventory_entries_with_initial_records": 162,
+  "added_inventory_entries": 6,
+  "cumulative_inventory_entries_with_initial_records": 168,
+  "source_method": "Modern Flora of North America, Flora of China and botanical institutional treatments; genus-level, historical and variety-level evidence distinguished and uncertainty held.",
+  "records": [
+    {
+      "current_name": "Helenium quadridentatum",
+      "sources": [
+        {
+          "reference": "Flora of North America, Helenium genus key",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114856",
+          "scope": "key-to-species character contrast; not full species account"
+        }
+      ],
+      "morphology": {
+        "life_cycle": "Annual in FNA genus-key branch",
+        "stems": "Winged from decurrent leaf bases (genus key branch)",
+        "leaves": "Distal blades entire, contrasted with serrate distal blades of H. microcephalum",
+        "heads": "Heads radiate, 10–15 yellow-to-variegated rays in FNA key",
+        "disk": "Disk-floret corolla lobes four, versus often five in H. microcephalum",
+        "fruit": "Pappus non-aristate scales by keyed lineage; specific dimensions unconfirmed"
+      },
+      "holds": [
+        "Modern species-specific height, involucral measurements and geography not confirmed; preserve field descriptions as provisional.",
+        "Existing learner description calls disk elongated; not newly verified by genus key."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    },
+    {
+      "current_name": "Heterotheca villosa",
+      "sources": [
+        {
+          "reference": "Flora of North America, Heterotheca genus key and sect. Phyllotheca",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=115371",
+          "scope": "genus key characters specific to H. villosa"
+        },
+        {
+          "reference": "Lady Bird Johnson Wildflower Center, Heterotheca villosa",
+          "url": "https://www.wildflower.org/plants/result.php?id_plant=HEVI4",
+          "scope": "species habit photo-description"
+        }
+      ],
+      "morphology": {
+        "life_cycle": "Perennial",
+        "height": "FNA key (5–)16–40(–70) cm, not invariant across varieties",
+        "stems": "Ascending or spreading leafy branches, short-strigose/hispid",
+        "leaves": "Mid/distal alternate leaves usually lanceolate to oblanceolate/oblong, sparsely to densely hispido-strigose, may be glandular",
+        "heads": "Yellow radiate heads, 1–20(–70) per plant in FNA key; disk also yellow",
+        "rays": "Ray ligules (3.5–)5–11(–20) mm across keyed close species group",
+        "fruit": "Ray and disc cypselae with pappus bristles (sect. Phyllotheca); inner pappus bristles at least as long as corollas"
+      },
+      "holds": [
+        "FNA explicitly describes large infraspecific variation; keyed measurements not guaranteed for each variety.",
+        "Texas county range not verified."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    },
+    {
+      "current_name": "Solidago juliae",
+      "sources": [
+        {
+          "reference": "Flora of North America, Solidago juliae treatment",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067548",
+          "scope": "species account; accessible indexed opening and repository prior FNA-derived characteristics"
+        }
+      ],
+      "morphology": {
+        "life_cycle": "Perennial, usually 1–5 stems",
+        "height": "50–250 cm in existing documented FNA-derived source record",
+        "stem": "Uniform dense soft white villoso-tomentose hairs with crisped/thin hairs, distinctive against glabrate S. gigantea",
+        "leaves": "Alternate narrow lanceolate 3-veined leaves 50–80(–120) × 5–10(–12) mm, with sparse/moderate dentition and bilateral hairs",
+        "inflorescence": "Narrow pyramidal panicle about 3–4× as long as wide, 80–950 heads, involucres about 3–4 mm",
+        "habitat": "Edwards Plateau/Trans-Pecos streams/lakes, grassland and woodland; not solely xeric"
+      },
+      "holds": [
+        "Numeric traits are supported by preexisting repository FNA-provenanced morphology and indexed FNA source; full FNA page fetch failed in this pass.",
+        "Do not mistake damp stream sites for excluding S. juliae."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    },
+    {
+      "current_name": "Sphagneticola trilobata",
+      "sources": [
+        {
+          "reference": "Flora of China, Sphagneticola trilobata species treatment",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242435001",
+          "scope": "species-level morphology"
+        },
+        {
+          "reference": "Flora of North America, Sphagneticola trilobata",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242435001",
+          "scope": "taxonomy and New World origin"
+        },
+        {
+          "reference": "Royal Botanic Gardens Kew POWO Sphagneticola trilobata",
+          "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1093589-2/general-information",
+          "scope": "accepted-name and global distribution background"
+        }
+      ],
+      "morphology": {
+        "habit": "Creeping mat-forming perennial, stems rooting at nodes, with ascending flowering shoots",
+        "leaves": "Opposite, somewhat thick/succulent, sessile or petiole <5 mm; elliptic/lanceolate, frequently 3-lobed and toothed, up to 18 cm in flora treatment",
+        "heads": "Solitary heads on long stalks, involucral phyllaries lanceolate approximately 10–15 mm",
+        "rays": "Four to eight conspicuous fertile yellow rays, ligules 15–20 mm with 3–4 teeth",
+        "disk": "Numerous bisexual yellow disk florets; tubular corollas 5–6 mm",
+        "fruit": "Dark angled club-shaped cypsela about 5 mm, pappus fused scale-like crown"
+      },
+      "holds": [
+        "Native in tropical Americas but widely introduced elsewhere; do not infer native status in Hays County.",
+        "Source reports 'disk florets ca. 2 cm' ambiguously; avoid this likely head-size confusion and keep only confirmed corolla 5–6 mm."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    },
+    {
+      "current_name": "Tetraneuris acaulis",
+      "sources": [
+        {
+          "reference": "Flora of North America Tetraneuris acaulis species treatment replicated in World Flora Online",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000130316",
+          "scope": "full species morphology; four varieties"
+        },
+        {
+          "reference": "Flora of North America Tetraneuris acaulis variety key",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220013384",
+          "scope": "varietal limits"
+        }
+      ],
+      "morphology": {
+        "habit": "Perennial 2–30+ cm from usually branched thickening caudices",
+        "leaves": "All basal in rosette, spatulate/oblanceolate to narrow linear-oblanceolate, entire, variably hairy and gland-dotted",
+        "stems": "1–35(–60) mostly unbranched head-bearing scapes, peduncles 0.5–30 cm",
+        "heads": "Single yellow radiate head per scape, involucre 7–12 × 8–16 mm",
+        "phyllaries": "6–12 outer bracts ~3.9–9(–11.5) mm",
+        "rays": "8–15(–21) rays, corollas 9–19 mm",
+        "disk": "25–200+ disk florets, yellow tubular corollas 2.7–4.3 mm",
+        "fruit": "Cypselae 2–4 mm, pappus of five to eight aristate scales 2.2–3.7 mm"
+      },
+      "holds": [
+        "Four varieties recognized by FNA; do not identify var. acaulis from the broad species description.",
+        "County-level BONAP nativity deferred, existing learner cautions Panhandle emphasis."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    },
+    {
+      "current_name": "Trixis californica",
+      "sources": [
+        {
+          "reference": "Flora of North America Trixis californica var. californica",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068892",
+          "scope": "infraspecific measurements, not entire species"
+        },
+        {
+          "reference": "Flora of North America, Trixis genus and species key",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=133845",
+          "scope": "genus and species distinction"
+        }
+      ],
+      "morphology": {
+        "habit": "Shrub, 20–200 cm for FNA var. californica, glandular and pubescent",
+        "leaves": "Cauline, ascending nearly parallel to stems; winged petiole 1.5–5 mm and narrow lanceolate blades 2–11 cm, entire to faintly toothed/revolute in var. californica",
+        "heads": "Quasi-radiate, in corymbiform/paniculiform arrays, phyllaries usually 8 and 8–14 mm long for var. californica",
+        "florets": "Eleven to 25 florets in var. californica, yellow bilateral 2-lipped corollas with outer 3-lobed lip; unlike ordinary ray/disk Asteraceae pattern",
+        "fruits": "Cypselae 6–10.5 mm with mucilage-forming papilla-like hairs when wet, pappus 7.5–12 mm in var. californica",
+        "habitat": "Dry rocky slopes, washes and thorn scrub in southwestern US/Mexico",
+        "phenology": "Jan–Nov for var. californica"
+      },
+      "holds": [
+        "Most numeric metrics are variety californica only; species-level learner must retain varietal scope.",
+        "County-level nativity not established."
+      ],
+      "status": "source_linked_research_initial; unresolved_taxon_or_diagnostic_QA_not_approved"
+    }
+  ],
+  "photo_policy": "No photos reviewed, published or modified in this batch",
+  "distribution_policy": "BONAP county-level determination deferred",
+  "holds": [
+    "Hymenopappus scabiosaeus",
+    "Iva asperifolia var. angustifolia",
+    "Wedelia acapulcensis"
+  ]
+}
