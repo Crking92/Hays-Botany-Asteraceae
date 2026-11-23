@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "project": "Hays Botany",
+  "family": "Asteraceae",
+  "phase": "targeted_botanical_reconciliation_and_finalization",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Asteraceae",
+  "branch": "staging/asteraceae-metadata",
+  "scope": "Target only documented conflicts from existing batch 001–018 and current species files. No full re-extraction, general audit, BONAP, or county distribution work. Existing photographs and species JSON not changed.",
+  "baseline": {
+    "inventory_entries": 180,
+    "prior_research_entries": 168,
+    "prior_batch_files": 18,
+    "missing_initial_source_entries": 12,
+    "existing_publication_authority": "STAGING_ONLY",
+    "status_note": "README remains starter/staging; collection-index authority STAGING_ONLY. Research record is not an approved species."
+  },
+  "resolved_conflicts": [
+    {
+      "taxon": "Grindelia ciliata",
+      "kind": "accepted name and historical synonyms",
+      "resolution": "Keep accepted Grindelia ciliata (Nutt.) Spreng. Kew recognizes Grindelia papposa G.L.Nesom & Y.B.Suh and Prionopsis ciliata (Nutt.) Nutt. as homotypic synonyms; 1999 flora's G. papposa p.362 account may be used as historic concept with explicit original name and note that 1999 authors excluded an older application of Grindelia ciliata Spreng.",
+      "original_flora": {
+        "name": "Grindelia papposa G.L.Nesom & Y.B.Suh",
+        "printed_page": 362
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1202587-2",
+          "status": "opened, exact synonyms confirmed"
+        },
+        {
+          "source": "Diggs et al. 1999 original PDF",
+          "printed_page": 362,
+          "status": "inspected original account"
+        }
+      ],
+      "resolution_scope": "nomenclature only; species-wide morphology finalization pending",
+      "status": "resolved_nomenclature"
+    },
+    {
+      "taxon": "Iva asperifolia var. angustifolia",
+      "kind": "accepted variety and old name",
+      "resolution": "Keep Iva asperifolia var. angustifolia (Nutt. ex DC.) B.L.Turner; the original flora's Iva angustifolia Nutt. ex DC. is a homotypic synonym. Original species treatment p.378 is linked explicitly to modern variety but not extrapolated to I. asperifolia broadly.",
+      "original_flora": {
+        "name": "Iva angustifolia Nutt. ex DC.",
+        "printed_page": 378,
+        "diagnostic": "Phyllaries united into toothed cup, linear-lanceolate leaves 2–5 cm by 2–12 mm; fruit black 2–2.8 mm, involucral width 2–3 mm."
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60451320-2",
+          "status": "opened, accepted variety and synonym confirmed"
+        },
+        {
+          "source": "Diggs et al. 1999 original PDF",
+          "printed_page": 378,
+          "status": "inspected original account"
+        }
+      ],
+      "resolution_scope": "nomenclatural identity and regionally described traits",
+      "status": "resolved_nomenclature"
+    },
+    {
+      "taxon": "Rudbeckia amplexicaulis",
+      "kind": "historic genus",
+      "resolution": "Keep current Rudbeckia amplexicaulis Vahl; historical Dracopis amplexicaulis (Vahl) Cass. is a synonym. Preserve the 1999 Dracopis morphological treatment with its page provenance.",
+      "original_flora": {
+        "name": "Dracopis amplexicaulis",
+        "printed_page": 346
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/202167-1",
+          "status": "accepted-name synonym result verified"
+        },
+        {
+          "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=14673",
+          "status": "GRIN accepted name corroboration"
+        }
+      ],
+      "status": "resolved_nomenclature"
+    },
+    {
+      "taxon": "Liatris punctata",
+      "kind": "historic species vs modern variety",
+      "resolution": "Keep accepted Liatris punctata Hook. at species level. Historical Liatris mucronata DC. belongs to Liatris punctata var. mucronata (DC.) B.L.Turner; old 1999 L. mucronata p.384 description must be variety-scoped, not propagated to all L. punctata.",
+      "original_flora": {
+        "name": "Liatris mucronata DC.",
+        "printed_page": 384
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327206-2",
+          "status": "synonym accepted variety verified"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:230622-1",
+          "status": "species with multiple varieties verified"
+        }
+      ],
+      "status": "resolved_nomenclature_with_variety_scope"
+    },
+    {
+      "taxon": "Solidago altissima",
+      "kind": "historic Solidago canadensis var. scabra",
+      "resolution": "Keep modern Solidago altissima distinct from modern Solidago canadensis. The original flora's S. canadensis var. scabra at p.410 maps specifically to Solidago altissima subsp. altissima per Kew/FNA, not to all S. altissima and not to subsp. gilvocanescens.",
+      "original_flora": {
+        "name": "Solidago canadensis var. scabra",
+        "printed_page": 410
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:240167-2",
+          "status": "opened, synonym of Solidago altissima subsp. altissima confirmed"
+        },
+        {
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068749",
+          "status": "FNA indexed taxon synonym confirmed"
+        }
+      ],
+      "status": "resolved_nomenclature_with_infraspecific_scope"
+    },
+    {
+      "taxon": "Wedelia acapulcensis var. hispida",
+      "kind": "historical Wedelia texana name versus modern accepted variety",
+      "resolution": "Retain Wedelia acapulcensis var. hispida (Kunth) Strother as accepted Kew taxon. Kew lists Wedelia texana (Torr. & A.Gray) B.L.Turner and Zexmenia texana A.Gray in its synonymy. Preserve the 1999 Flora p.430 note that its use of Wedelia texana was not equivalent to some older misapplications of W. acapulcensis var. hispida; synonymy does not approve every historic photo/specimen concept.",
+      "original_flora": {
+        "name": "Wedelia texana",
+        "printed_page": 430
+      },
+      "evidence": [
+        {
+          "url": "https://powo.science.kew.org/taxon/967065-1",
+          "status": "opened: accepted variety and older names confirmed"
+        },
+        {
+          "source": "Diggs et al. 1999 original PDF",
+          "printed_page": 430,
+          "status": "original misapplication caution inspected"
+        }
+      ],
+      "status": "resolved_modern_name_historical_concept_caveat_retained"
+    },
+    {
+      "taxon": "Grindelia lanceolata",
+      "kind": "phyllary position conflicts with learner",
+      "resolution": "Replace claimed categorical 'strongly recurved phyllaries' with source-specific 'weakly spreading to appressed; apices straight, incurved, or only slightly recurved'. Keep strongly recurved phyllaries out of definitive diagnostic teaching for this species.",
+      "original_flora": {
+        "name": "Grindelia lanceolata",
+        "printed_page": 360,
+        "note": "Phyllaries ascending to spreading, not squarrose/reflexed in regional key"
+      },
+      "evidence": [
+        {
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416607",
+          "status": "FNA indexed species text verified; full page unavailable"
+        },
+        {
+          "source": "Diggs et al. 1999 original PDF",
+          "printed_page": 360,
+          "status": "original key inspected"
+        }
+      ],
+      "status": "resolved_character_description_research_only"
+    }
+  ],
+  "outstanding_conflicts": [
+    {
+      "taxon": "Grindelia adenodonta",
+      "issue": "Original 1999 flora says glandular pubescence usually absent, whereas learner says glandular-hairy stems; FNA reports often hirtellous/scabridulous and gland-pitted leaves and variable phyllaries. Different organ/indumentum definitions may explain part; specimen-level hair assertions not yet resolved.",
+      "sources": [
+        "1999 printed p.360",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066805"
+      ],
+      "hold": "Do not approve stem glandular-hair as definitive until organ-specific evidence."
+    },
+    {
+      "taxon": "Gaillardia amblyodon",
+      "issue": "FNA states species may not be distinct from G. pulchella at species rank.",
+      "sources": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066783"
+      ],
+      "hold": "Accepted species rank and photo identity not finalized."
+    },
+    {
+      "taxon": "Symphyotrichum eulae",
+      "issue": "Original 1999 Aster eulae p.320–322 discusses hybrid versus separate species and resemblance to S. praealtum.",
+      "sources": [
+        "1999 printed pp.320–322"
+      ],
+      "hold": "Taxon rank/parentage and diagnostic photos not finalized."
+    },
+    {
+      "taxon": "Thelesperma megapotamicum var. ambiguum",
+      "issue": "1999 flora recognizes T. ambiguum as species and brackets variety combination; modern variety-level traits not independently verified.",
+      "sources": [
+        "1999 printed p.421"
+      ],
+      "hold": "Keep rank and infraspecific metrics provisional."
+    },
+    {
+      "taxon": "Tetraneuris scaposa var. scaposa",
+      "issue": "1999 T. scaposa p.420 account is species-level and not separately diagnostic for var. scaposa.",
+      "sources": [
+        "1999 printed p.420"
+      ],
+      "hold": "Do not characterize modern variety as measured by species-level original account."
+    },
+    {
+      "taxon": "Solidago mexicana",
+      "issue": "1999 p.415 only notes S. sempervirens var. mexicana under broad species; modern S. mexicana species morphology not established from it.",
+      "sources": [
+        "1999 printed p.415"
+      ],
+      "hold": "Keep original broad-source dimensions provisional."
+    },
+    {
+      "taxon": "Heterotheca subaxillaris",
+      "issue": "Seasonal morphology and FNA subspecies phyllary tuft overlap; spring plants of subsp. subaxillaris may lack tuft, so a tuft-absent photo cannot reliably assign subsp. latifolia.",
+      "sources": [
+        "1999 printed p.372",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068489"
+      ],
+      "hold": "Subspecies identification from general images."
+    },
+    {
+      "taxon": "Grindelia ciliata",
+      "issue": "Although accepted-name synonymy is established, historical 1999 p.362 explicitly includes an exclusion 'not Grindelia ciliata Spreng.'; authorship/use needs nomenclatural interpretation before reusing older labeled imagery without specimen verification.",
+      "sources": [
+        "1999 printed p.362",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1202587-2"
+      ],
+      "hold": "Historic photograph re-labeling/specimen identity only; not synonym validity."
+    }
+  ],
+  "remaining_initial_source_gaps": [
+    "Grindelia ciliata",
+    "Hymenopappus scabiosaeus",
+    "Iva asperifolia var. angustifolia",
+    "Leontodon rhagadioloides",
+    "Pectis angustifolia",
+    "Plectocephalus americanus",
+    "Porophyllum scoparium",
+    "Pseudognaphalium canescens",
+    "Sideranthus spinulosus",
+    "Sidneya tenuifolia",
+    "Symphyotrichum divaricatum",
+    "Wedelia acapulcensis"
+  ],
+  "status": {
+    "resolved_issue_count": 7,
+    "unresolved_conflict_count": 8,
+    "remaining_initial_source_gaps_count": 12,
+    "new_full_species_finalizations": 0,
+    "reason_no_full_species_finalizations": "Previous 168 source extractions were not full character-by-character approved audits; targeted name and trait corrections are verified but no complete record has been certified across all requested morphological fields and image identity.",
+    "completed_scope": "Only documented conflict cases were reconciled. No ungrounded 180-record finalization, no full extraction or BONAP.",
+    "photo_site_publication_count": 0
+  },
+  "preservation": "No existing research batches, content/taxa species.json, photograph metadata, credits, or published galleries changed.",
+  "next_action": "Keep research status staging and request a coordinated integrator to apply only proven character/nomenclature corrections to learner after qualified review; do not run another general audit."
+}
