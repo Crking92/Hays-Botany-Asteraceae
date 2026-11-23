@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "007",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_unique_records": 51,
+  "cumulative_unique_records": 62,
+  "original_reference": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "original_pdf": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "notes": "All morphologies are extracted from inspected 1999 species accounts plus keyed genus characters explicitly indicated as such. Additive, no photos or source data changed. BONAP distribution deferred.",
+  "records": [
+    {
+      "current_name": "Dysodiopsis tagetoides",
+      "flora_original_name": "Dysodiopsis tagetoides (Torr. & A.Gray) Rydb.",
+      "flora_printed_page": 346,
+      "flora_morphology": {
+        "growth": "Glabrous annual or short-lived perennial 0.4–0.9 m",
+        "leaves": "Mostly alternate, linear, 2–6 mm wide; coarsely toothed edges and conspicuous yellow-brown/orange glands; aromatic",
+        "heads": "Radiate heads; involucres 9–12 mm high",
+        "rays": "7–12, bright yellow, ligules 10–15 mm",
+        "discs": "Brownish-yellow corollas",
+        "cypsela": "3–3.5 mm; pappus 10–12 scales, each with 1–3 awns",
+        "habitat": "Calcareous soils",
+        "flowering": "Jun–Aug"
+      },
+      "floral_synonyms": [
+        "Dyssodia tagetoides Torr. & A.Gray",
+        "Hymenatherum tagetoides (Torr. & A.Gray) A.Gray"
+      ],
+      "source_conflicts_or_qa": [
+        "Genus monotypic in original flora; oil glands and pappus structure key targets."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Echinacea angustifolia",
+      "flora_original_name": "Echinacea angustifolia DC.",
+      "flora_printed_page": 347,
+      "flora_morphology": {
+        "growth": "Perennial, stems 0.2–0.7 m per key",
+        "leaves": "Basal and lower narrow lanceolate, usually >5 times as long as wide and 1–4+ cm wide, tapering to petiole; entire",
+        "heads": "Large terminal solitary heads with pointed stiff receptacular chaff",
+        "rays": "Light pink/purplish or white, typically 2–4 cm and spreading, not strongly reflexed; ray limbs sterile",
+        "discs": "Fertile, pollen yellow; disk with rigid spiny scales",
+        "fruit": "Pappus short crown",
+        "habitat": "Gravelly or rocky limestone prairies",
+        "flowering": "May–Jun"
+      },
+      "floral_synonyms": [
+        "Echinacea pallida var. angustifolia (DC.) Cronquist"
+      ],
+      "source_conflicts_or_qa": [
+        "Flora recognizes species despite intergradation with E. pallida; var. strigosa not separated here.",
+        "E. pallida generally drooping longer rays 4–9 cm and white pollen per flora key."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Eclipta prostrata",
+      "flora_original_name": "Eclipta prostrata (L.) L.",
+      "flora_printed_page": 347,
+      "flora_morphology": {
+        "growth": "Low annual, prostrate to upright, freely branched, appressed-scabrous pubescence",
+        "leaves": "Opposite, sessile or short-petiolate, lanceolate/narrow elliptic, nearly entire to slightly toothed",
+        "heads": "Small short-peduncled terminal and upper-axillary heads",
+        "rays": "Numerous fertile rays with narrow ~1 mm white ligules",
+        "discs": "Perfect whitish minute florets",
+        "fruit": "Achenes 2–2.5 mm, pappus absent or inconspicuous",
+        "habitat": "Ditches, shoreline and stream banks",
+        "flowering": "Jun–Nov"
+      },
+      "floral_synonyms": [
+        "Eclipta alba (L.) Hassk."
+      ],
+      "source_conflicts_or_qa": [
+        "Source supports white tiny ray florets; do not label purely discoid."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Elephantopus carolinianus",
+      "flora_original_name": "Elephantopus carolinianus Raeusch.",
+      "flora_printed_page": 348,
+      "flora_morphology": {
+        "growth": "Pubescent perennial herb 30–90 cm",
+        "leaves": "Alternate, oblanceolate-elliptic 5–18 cm long, up to 9 cm wide; basal leaves typically gone by flowering",
+        "inflorescence": "Glomerules of heads subtended by approximately three ovate acute leafy bracts",
+        "involucre": "Subcylindric, phyllaries straw-colored",
+        "rays": "Absent",
+        "discs": "3–4 pinkish-white/lavender 5-lobed florets per head",
+        "fruit": "Cylindrical achenes with forward-pointing pubescence; persistent pappus bristles dilated and hardened at base",
+        "habitat": "Low woods",
+        "flowering": "Aug–Oct"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "Three leafy bracts subtend head clusters, not individual florets."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Engelmannia peristenia",
+      "flora_original_name": "Engelmannia peristenia (Raf.) Goodman & C.A.Lawson",
+      "flora_printed_page": 348,
+      "flora_morphology": {
+        "growth": "Densely hispid perennial from woody taproot, spreading to erect, 0.2–1 m",
+        "leaves": "8–30 cm, deeply pinnately divided almost to midrib, lobes further lobed or toothed",
+        "heads": "Several long-peduncled radiate heads; involucre 6–10 mm high",
+        "rays": "Yellow ligules around 10 mm, curl under during daytime and open late afternoon through midmorning",
+        "discs": "Numerous dark-yellow corollas",
+        "fruit": "Pappus few scales",
+        "habitat": "Clayey and occasionally sandy prairies; limestone outcrops",
+        "flowering": "Apr–Jul, rarely later"
+      },
+      "floral_synonyms": [
+        "Engelmannia pinnatifida Torr. & A.Gray"
+      ],
+      "source_conflicts_or_qa": [
+        "Historical name priority per original flora: peristenia published 1832; pinnatifida 1840.",
+        "Existing species card calls phyllaries multiple series; source treatment lacks this count, so not overwritten."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Erigeron canadensis",
+      "flora_original_name": "Conyza canadensis (L.) Cronquist",
+      "flora_printed_page": 341,
+      "flora_morphology": {
+        "growth": "Annual per Conyza genus account, erect (30–)100–200+ cm in key",
+        "leaves": "Numerous alternate subsessile narrow-lanceolate/oblanceolate blades ≤14 mm wide, entire or toothed",
+        "heads": "Numerous tiny heads in narrow terminal paniculiform array; involucres 3–4 mm high, phyllaries four imbricated series per genus",
+        "rays": "20–40 very inconspicuous whitish/cream/pinkish pistillate rays with limbs shorter than tube/pappus",
+        "discs": "Fertile cream/yellowish/pinkish",
+        "fruit": "Two-ribbed hairy achenes, capillary pappus",
+        "habitat": "Eroding/disturbed ground on various soils",
+        "flowering": "May–Oct"
+      },
+      "floral_synonyms": [
+        "Conyza canadensis (L.) Cronquist",
+        "Leptilon canadense (L.) Britton"
+      ],
+      "source_conflicts_or_qa": [
+        "Var. canadensis has spreading stem hairs and pilose leaf margins; var. glabrata glabrous stems; varieties not assumed for species-level photos.",
+        "Not to be confused with Conyza ramosissima (now Erigeron divaricatus)."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Erigeron geiseri",
+      "flora_original_name": "Erigeron geiseri Shinners",
+      "flora_printed_page": 350,
+      "flora_morphology": {
+        "growth": "Taprooted annual, 7–30 cm, spring peduncles <4 cm per key",
+        "leaves": "Alternate, narrow within Erigeron genus; detailed species blade measurements not given in 1999 paragraph",
+        "rays": "White to rosy/lavender; numerous narrow ray florets per genus",
+        "disc": "Yellow disk florets",
+        "fruit": "Pappus two whorls, 10 scabrous bristles and about 10 short scales",
+        "habitat": "Sandy prairies",
+        "flowering": "Late Mar–Jun"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "Regional flora spells E. geiserii in the key and E. geiseri in the paragraph; preserve original printed variation.",
+        "Compare E. modestus with woody enlarged taproot and spring peduncles 4–12 cm."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Erigeron modestus",
+      "flora_original_name": "Erigeron modestus A.Gray",
+      "flora_printed_page": 350,
+      "flora_morphology": {
+        "growth": "Often grayish pubescent perennial 10–20(–30) cm, enlarged woody taproot",
+        "leaves": "Early deeply lobed crowded basal leaves; later narrow oblanceolate to linear-lanceolate foliage",
+        "heads": "Long bare flowering stems in earliest spring, followed by bushy much-branched late-season growth with shorter peduncles",
+        "rays": "Ligules about 4–8 mm (ray flowers pistillate fertile per genus)",
+        "discs": "Yellow per genus",
+        "fruit": "Pappus two whorls: longer bristles and shorter bristles/scales",
+        "habitat": "Gravelly or rocky limestone",
+        "flowering": "Apr–Oct, spring and fall shoot forms differ"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "Multiple seasonal growth forms are explicitly described in original flora; useful for crew training.",
+        "Compare E. geiseri annual sandy-ground plant with unenlarged taproot."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Erigeron philadelphicus",
+      "flora_original_name": "Erigeron philadelphicus L.",
+      "flora_printed_page": 352,
+      "flora_morphology": {
+        "growth": "Perennial without rhizomes, 15–70 cm (regional flora)",
+        "leaves": "Mid/upper leaves clasping, 4–20 mm wide, 2–4× as long as wide; lower leaves with broadly winged petioles",
+        "heads": "Involucres 4–6 mm high, disks 6–15 mm wide",
+        "rays": "Numerous white to pale-pink ligules about 5–10 mm",
+        "disc": "Yellow per genus",
+        "fruit": "Disk pappus a single whorl of roughly 20–30 bristles",
+        "habitat": "Low prairies, stream banks, calcareous clay",
+        "flowering": "Mar–May"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "Existing learner record says annual/biennial/short-lived perennial (from FNA); regional flora states perennial. Retain source difference.",
+        "Clasping stem leaves most useful against E. strigosus, but requires close leaf node photograph."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Erigeron strigosus",
+      "flora_original_name": "Erigeron strigosus Muhl. ex Willd.",
+      "flora_printed_page": 352,
+      "flora_morphology": {
+        "growth": "Usually biennial, sometimes annual or occasionally perennial; regional key stems 30–70 cm",
+        "leaves": "Middle/upper leaves narrower than E. philadelphicus and not markedly clasping; linear-lanceolate, rounded teeth when present",
+        "stems": "Upper stem hairs mostly appressed or incurved per key",
+        "rays": "White (rarely bluish) ligules ≤6 mm, pistillate fertile",
+        "fruit": "Disk pappus two whorls (inner 10–15 bristles, outer minute scales); ray pappus minute",
+        "habitat": "Prairies, open woods, pastures, roadsides",
+        "flowering": "Apr–Jun, sometimes to Oct",
+        "taxa": "Var. beyrichii: diffuse scant-leaved inflorescence with 2–3 mm involucres; var. strigosus: fuller leafy inflorescence and (2–)2.5–5 mm involucres"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "Regional flora reports varieties difficult to distinguish; do not assign varieties to unidentified photos.",
+        "Compare E. annuus spreading upper hairs and more conspicuously toothed leaves."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    },
+    {
+      "current_name": "Eupatorium serotinum",
+      "flora_original_name": "Eupatorium serotinum Michx.",
+      "flora_printed_page": 354,
+      "flora_morphology": {
+        "growth": "Rhizomatous perennial herb",
+        "leaves": "Mostly opposite, narrowly ovate, petioles 10–30 mm",
+        "heads": "Corymbose disk-only heads per genus",
+        "phyllaries": "Linear, involucres 3–5 mm high",
+        "flowers": "Whitish disk florets; no rays",
+        "fruit": "Genus Eupatorium s.l.: blackish five-ribbed cypselae with persistent bristle pappus",
+        "habitat": "Open disturbed sites",
+        "flowering": "Aug–Nov"
+      },
+      "floral_synonyms": [],
+      "source_conflicts_or_qa": [
+        "1999 genus circumscription broad; use species name unchanged but record original generic limits.",
+        "Compare Ageratina altissima (Eupatorium rugosum) with less evidently resin-dotted phyllaries."
+      ],
+      "record_status": "regional_flora_species_or_key_verified; external_reconciliation_pending"
+    }
+  ]
+}
