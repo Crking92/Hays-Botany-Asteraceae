@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "011",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_researched": 96,
+  "new_researched": 11,
+  "cumulative_researched": 107,
+  "reference": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "original_document": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_page_kind": "printed pagination",
+  "scope": "Additive source extraction only, no change to live galleries, prior species files, licenses, BONAP evidence.",
+  "records": [
+    {
+      "current_name": "Packera glabella",
+      "original_name": 390,
+      "printed_flora_page": "Packera glabella (Poir.) C.Jeffrey",
+      "morphology": {
+        "habit": "Annual 10–80(–100) cm, fibrous-rooted tuft, persistent taproot absent",
+        "leaves": "Basal and cauline deeply lobed/pinnate; terminal segments suborbicular to obovate, commonly wavy",
+        "heads": "Radiate yellow heads; phyllaries ca. 5 mm and ray ligules ca. 4.5 mm",
+        "fruits": "Cypselae ca. 1.7 mm with fine hairs, rarely glabrous; genus capillary pappus",
+        "habitat": "Moist disturbed, often sandy and partly shaded places",
+        "phenology": "Mar–May"
+      },
+      "historical_synonyms": [
+        "Senecio glabellus Poir."
+      ],
+      "notes": [
+        "Flora warns basal leaf-lobe attachment does not always reliably distinguish P. glabella from P. tampicana."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Packera obovata",
+      "original_name": 390,
+      "printed_flora_page": "Packera obovata (Muhl. ex Willd.) W.A.Weber & Á.Löve",
+      "morphology": {
+        "habit": "Rhizomatous and usually stoloniferous perennial 20–50(–70) cm, fibrous-rooted",
+        "leaves": "Basal blades ovate to orbicular, less than 1.5× as long as broad; often purplish beneath; upper leaves reduced",
+        "pubescence": "Mostly glabrous except leaf axils",
+        "heads": "Yellow radiate heads; phyllaries 3–7 mm, ligules 5–10 mm",
+        "fruits": "Cypselae ca. 2.3 mm, usually glabrous; pappus bristles up to 6 mm",
+        "habitat": "Wooded stream bottoms",
+        "phenology": "Feb–Apr"
+      },
+      "historical_synonyms": [
+        "Senecio obovatus Muhl. ex Willd."
+      ],
+      "notes": [
+        "Early-season blooming and basal leaf shape are useful; do not substitute flowering season for fruit confirmation."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Packera tampicana",
+      "original_name": 392,
+      "printed_flora_page": "Packera tampicana (DC.) C.Jeffrey",
+      "morphology": {
+        "habit": "Glabrous low taprooted annual 10–40(–80) cm; taproot can be weak and obscured by laterals",
+        "leaves": "Deeply lobed basal and stem leaves with subreniform toothed terminal segment, some anthocyanic coloration below",
+        "heads": "Yellow radiate, phyllaries 3–7 mm",
+        "fruit": "Pappus white capillary bristles per genus",
+        "habitat": "Low open prairies, roadsides and disturbed sites",
+        "phenology": "Apr–May"
+      },
+      "historical_synonyms": [
+        "Senecio tampicanus DC.",
+        "Senecio imparipinnatus Klatt",
+        "Senecio greggii Rydb."
+      ],
+      "notes": [
+        "1999 regional key separates from P. glabella by taproot and often slender narrow-based leaf lobes, explicitly warns the lobes aren't wholly reliable."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Palafoxia callosa",
+      "original_name": 392,
+      "printed_flora_page": "Palafoxia callosa (Nutt.) Torr. & A.Gray",
+      "morphology": {
+        "habit": "Glandular scabrous annual 20–60 cm",
+        "leaves": "Alternate, linear blades 1–4 mm wide, glandular-based hairs",
+        "heads": "Discoid; no ray florets; narrow linear phyllaries 0.6–1.2 mm wide and about 3–5 mm long",
+        "stems": "Peduncles densely stalked-glandular",
+        "flowers": "Tubular pink/purple disk florets, anthers brownish to reddish purple; genus corolla lobes deeply divided",
+        "fruits": "Cypselae 3–5 mm, pappus 7–10 scales (genus), scales 0.5–2 mm for key branch",
+        "habitat": "Calcareous disturbed soils",
+        "phenology": "Aug–Nov"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Do not confuse rayless P. callosa with showy-rayed P. reverchonii or P. hookeriana."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Parthenium hysterophorus",
+      "original_name": 393,
+      "printed_flora_page": "Parthenium hysterophorus L.",
+      "morphology": {
+        "habit": "Slightly glandular pubescent annual 0.3–1 m",
+        "leaves": "Lower blades deeply once or twice pinnatifid; upper leaves reduced",
+        "heads": "Numerous small heads 3–4 mm wide in open branching array",
+        "rays": "Minute white ray limbs under 1 mm, pistillate and fertile",
+        "discs": "White, morphologically perfect but functionally staminate/infertile",
+        "fruits": "Black cypselae (2–)2.5(–3.5) mm, pappus 2 petaloid scales",
+        "habitat": "Farmyards, settlements and disturbed areas",
+        "phenology": "Summer–fall"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Source warns of dermatitis caused by sesquiterpene lactones; no manipulation/field handling advice implied.",
+        "Ray fertility is unusual and important for learner anatomy."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Pectis angustifolia var. fastigiata",
+      "original_name": 394,
+      "printed_flora_page": "Pectis angustifolia Torr. var. fastigiata (A.Gray) D.J.Keil",
+      "morphology": {
+        "habit": "Strongly fragrant, much-branched perennial or occasional annual, fibrous roots and sometimes woody stem base; stems 5–15 cm",
+        "leaves": "Linear 10–40 × 1–2 mm, revolute, glabrous except 1–2 mm bristles at basal margins; conspicuously oil gland-punctate",
+        "heads": "Clustered near branch tips, peduncles 3–30 mm",
+        "phyllaries": "Single series of subequal 2.5–4.5 mm keeled bracts, each with conspicuous subterminal gland 0.5–1 mm and small additional glands",
+        "rays": "8 yellow fertile rays, corollas 4–6 mm",
+        "discs": "8–21 yellow fertile florets, corollas 2.7–4 mm",
+        "fruits": "Cypselae 2.5–3.5 mm; pappus 0–4 short scales 0.5–1(–2) mm",
+        "habitat": "Dry limestone uplands",
+        "phenology": "Sep–Nov"
+      },
+      "historical_synonyms": [
+        "Pectis fastigiata A.Gray",
+        "Pectis texana Cory"
+      ],
+      "notes": [
+        "Variety treatment: do not propagate diagnostic counts to unverified P. angustifolia records."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Laphamia lindheimeri",
+      "original_name": 394,
+      "printed_flora_page": "Perityle lindheimeri (A.Gray) Shinners",
+      "morphology": {
+        "habit": "Woody-based perennial (10–)18–45(–60) cm",
+        "leaves": "Opposite low on stems, alternate above; blades ovate/lance-ovate 2–5 cm, punctate, essentially glabrous, coarsely serrate/small-lobed; petioles 4–10 mm",
+        "heads": "Cymose, involucres 4–5 mm",
+        "rays": "3–5 short fertile yellow rays; ligules 2.5–3 mm",
+        "discs": "Yellow corollas 3–3.5 mm",
+        "fruits": "Cypselae 2–2.8 mm, pappus usually a single 0.5–1.8 mm bristle with vestigial scales",
+        "habitat": "Limestone bluff crevices",
+        "phenology": "Spring–fall"
+      },
+      "historical_synonyms": [
+        "Perityle lindheimeri (A.Gray) Shinners"
+      ],
+      "notes": [
+        "Crosswalk from current Laphamia lindheimeri to historical Perityle lindheimeri requires nomenclatural confirmation; source character extraction kept as provisional concept."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Pinaropappus roseus",
+      "original_name": 395,
+      "printed_flora_page": "Pinaropappus roseus (Less.) Less.",
+      "morphology": {
+        "habit": "Small perennial 10–30 cm, slender to stout woody branching root",
+        "leaves": "Mostly basal, oblong-lanceolate to linear, entire, toothed or lobed",
+        "heads": "Single large terminal head 15–25 mm high including corollas, overlapping semi-scarious phyllaries with dark tips",
+        "florets": "All ligulate, upper side pale/white and lower side pink to deep lavender-rose, innermost sometimes yellowish",
+        "fruits": "Cypsela pappus of abundant capillary bristles (specific fruit body length unreported)",
+        "habitat": "Limestone outcrops",
+        "phenology": "Apr–May"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Do not describe central disk florets: heads are entirely ligulate."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Pluchea camphorata",
+      "original_name": 398,
+      "printed_flora_page": "Pluchea camphorata (L.) DC.",
+      "morphology": {
+        "habit": "Aromatic herb, annual or perennial, reaching 2 m",
+        "leaves": "Alternate, elliptic to oblong elliptic, entire to serrate, petiolate, puberulent below with resin globules on both faces",
+        "heads": "Numerous pink/rose-purple disciform heads in elongated panicle, terminal central axis matures before shorter laterals",
+        "phyllaries": "Minutes sessile resin globules, inner/middle nearly glabrous except glands, outer sparse hairs",
+        "florets": "Peripheral fertile pistillate and central perfect infertile florets; no rays",
+        "fruits": "Cylinder cypsela below 1 mm with fine barbellate bristles (genus)",
+        "habitat": "Low drainage ground",
+        "phenology": "Summer–fall"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Existing learner describes rounded corymbiform mass; regional key emphasizes elongated panicle and shorter lateral axes."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Pluchea odorata",
+      "original_name": 398,
+      "printed_flora_page": "Pluchea odorata (L.) Cass.",
+      "morphology": {
+        "habit": "Aromatic annual up to 1.5 m",
+        "leaves": "Alternate, ovate, lanceolate or elliptic, entire to serrate, nearly glabrous through tomentose, resin globules sometimes present",
+        "heads": "Many rose/purple disciform heads, cymose lateral branches eventually overtake central axis, making flattened/layered flowering arrays",
+        "phyllaries": "Outermost and median copiously puberulent and ciliate; inner hairs mainly tips",
+        "florets": "Peripheral fertile pistillate, central perfect infertile; ray florets absent",
+        "fruits": "Cylindric cypsela under 1 mm, capillary bristle pappus per genus",
+        "habitat": "Low drainage areas",
+        "phenology": "Summer–fall"
+      },
+      "historical_synonyms": [
+        "Conyza odorata L.",
+        "Pluchea purpurascens (Sw.) DC."
+      ],
+      "notes": [
+        "Regional source distinguishes P. camphorata by involucral pubescence, arrangement of flowering axes; scent shared by both."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    },
+    {
+      "current_name": "Pseudognaphalium obtusifolium",
+      "original_name": 398,
+      "printed_flora_page": "Pseudognaphalium obtusifolium (L.) Hilliard & Burtt",
+      "morphology": {
+        "habit": "Aromatic annual, upright 0.1–1 m, white-woolly to nearly glabrous",
+        "leaves": "Basal oblanceolate/spatulate; stem alternate, narrow 3–10 cm × 2–10 mm, green or sparsely glandular above and white woolly below, not decurrent",
+        "heads": "Numerous closely clustered disciform heads, involucres 5–7 mm, phyllaries whitish with rusty tint at maturity",
+        "florets": "No rays; all disk-like florets fertile in original genus circumscription",
+        "fruits": "Cypselae 0.8–1.2 mm; pappus of bristles dispersed individually/in clusters",
+        "habitat": "Sandy prairie/wood edges/roadsides",
+        "phenology": "(Jul–)Sep–Nov"
+      },
+      "historical_synonyms": [
+        "Gnaphalium obtusifolium L."
+      ],
+      "notes": [
+        "Differentiate woolly-both-sides decurrent-leaved P. stramineum from green-above P. obtusifolium."
+      ],
+      "status": "regional_flora_extracted; secondary_nomenclature_review_pending"
+    }
+  ],
+  "holds": [
+    {
+      "current_name": "Parthenium confertum",
+      "reason": "1999 regional flora lacks matching species treatment; needs FNA or western flora."
+    },
+    {
+      "current_name": "Pectis angustifolia",
+      "reason": "Variety fastigiata documented separately; species-wide account not assumed."
+    },
+    {
+      "current_name": "Iva asperifolia var. angustifolia",
+      "reason": "Earlier variety versus historic Iva angustifolia crosswalk remains unresolved."
+    }
+  ]
+}
