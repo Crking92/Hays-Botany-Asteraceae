@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "001",
+  "inventory_confirmed": 180,
+  "repository_branch": "staging/asteraceae-metadata",
+  "date": "2026-11-23",
+  "source": {
+    "citation": "Diggs, G.M., Lipscomb, B.L. & O'Kennon, R.J. (1999). Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "pdf_section": "Acanthaceae–Euphorbiaceae",
+    "page_basis": "Printed page in original flora; PDF leaf number equals printed page minus 209",
+    "source_access": "Uploaded source PDF, page text inspected"
+  },
+  "method": "Additive source-specific transcription/paraphrase only; untouched existing species.json, photos and BONAP distributions; null/omitted fields not stated by source",
+  "records": [
+    {
+      "current_name": "Achillea millefolium",
+      "flora_original_name": "Achillea millefolium L.",
+      "flora_printed_page": 308,
+      "flora_morphology": {
+        "habit": "Aromatic woolly-pubescent rhizomatous perennial; 35–100 cm; flowering stem usually unbranched below inflorescence",
+        "leaves": "Alternate, sessile, lanceolate, 2–3 times pinnately compound; crowded narrow leaflets finely toothed or lobed",
+        "heads": "Small heads in dense terminal corymb",
+        "rays": "5–12 white, rarely pinkish rays; ligules ca. 2 mm",
+        "discs": "White, creamy white, or pinkish",
+        "pappus": "Absent",
+        "habitat": "Roadsides and disturbed ground",
+        "phenology": "Apr–May",
+        "roots": "Rhizomatous"
+      },
+      "disagreements_or_notes": [
+        "Flora 5–12 rays versus FNA (3–)5–8 rays; both source-specific ranges retained",
+        "Native versus introduced lineages unresolved; no BONAP inference"
+      ],
+      "external_crosscheck": {
+        "source": "Flora of North America",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200023010",
+        "finding": "Ray florets (3–)5–8; literature describes variable complex; differs from regional flora's 5–12"
+      },
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Acmella repens",
+      "flora_original_name": "Acmella oppositifolia (Lam.) R.K. Jansen var. repens (Walter) R.K. Jansen",
+      "flora_printed_page": 308,
+      "flora_morphology": {
+        "habit": "Rhizomatous perennial, creeping and rooting at nodes; ascending flowering branches",
+        "leaves": "Opposite, petiolate; blades ovate, rhombic to deltoid, 20–40 mm, serrate",
+        "heads": "Few solitary heads on axillary peduncles 5–15 cm",
+        "phyllaries": "Linear in 2 series",
+        "rays": "Few, yellow, pistillate but infertile; ligules ca. 5 mm",
+        "discs": "Yellow, perfect and fertile",
+        "receptacle": "Paleae about equaling disc florets; elongate conic receptacle 8–10 mm in fruit",
+        "fruits": "Black achenes; pappus absent or rarely 1–2 awns",
+        "habitat": "Low moist areas, ditches, ponds",
+        "phenology": "May–Nov"
+      },
+      "disagreements_or_notes": [
+        "Original name at varietal rank; species-level matching supported by FNA; authorship spelling differs between current record and FNA, review before renaming"
+      ],
+      "external_crosscheck": {
+        "source": "Flora of North America",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242434785",
+        "finding": "FNA recognizes species as Acmella repens; historical regional name at varietal rank"
+      },
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Amblyolepis setigera",
+      "flora_original_name": "Amblyolepis setigera DC.",
+      "flora_printed_page": 308,
+      "flora_morphology": {
+        "habit": "Annual, 10–50 cm; sweet hay-like odor",
+        "stems": "Long spreading cottony hairs on stems and leaf margins",
+        "leaves": "Sessile, entire; lowest oblanceolate; upper ovate and clasping",
+        "heads": "Large, long-peduncled; hemispherical-ovoid disk",
+        "involucre": "7–11 mm high",
+        "phyllaries": "Approximately 2 slightly unequal rows, lanceolate, subappressed",
+        "rays": "Yellow",
+        "discs": "Yellow",
+        "fruits": "Achenes with cage-like exterior of stout separate ribs",
+        "habitat": "Sandy or rocky open ground",
+        "phenology": "Mar–Jul"
+      },
+      "disagreements_or_notes": [
+        "Original flora lists Helenium setigerum as synonym; existing learner mentions short papery pappus but flora account does not document it: do not attribute that assertion to Diggs"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Ambrosia artemisiifolia",
+      "flora_original_name": "Ambrosia artemisiifolia L.",
+      "flora_printed_page": 309,
+      "flora_morphology": {
+        "habit": "Taprooted annual; stems 0.3–1 m",
+        "leaves": "Opposite, sometimes uppermost alternate; pinnatifid to bipinnatifid, petioles usually 10–30 mm",
+        "heads": "Staminate short-stalked heads above separate pistillate heads",
+        "fruits": "Burr-like pistillate involucres ca. 3 mm, obovoid, subulate spines; key: 5–7 short spines",
+        "habitat": "Disturbed areas",
+        "phenology": "Aug–Nov",
+        "pappus": "Absent; Ambrosia genus description"
+      },
+      "disagreements_or_notes": [
+        "Record says upper leaves alternate generally; flora qualifies uppermost as sometimes alternate. Preserve variable character"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Ambrosia psilostachya",
+      "flora_original_name": "Ambrosia psilostachya DC.",
+      "flora_printed_page": 310,
+      "flora_morphology": {
+        "habit": "Perennial forming colonies via creeping rootstocks; stems 0.3–0.6(–1+) m",
+        "leaves": "Sessile, pinnatifid; key contrasts with petiolate annual ragweed",
+        "heads": "Short-stalked staminate heads",
+        "fruits": "Burr-like fruits ca. 2.5 mm, obovoid, acute or blunt tubercles; key: 4–6 short stout tubercles",
+        "habitat": "Disturbed areas",
+        "phenology": "Aug–Nov",
+        "pappus": "Absent; Ambrosia genus description"
+      },
+      "disagreements_or_notes": [
+        "Older A. cumanensis usage is explicitly 'of authors, not Kunth', not an unconditional synonym"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Ambrosia trifida",
+      "flora_original_name": "Ambrosia trifida L. var. texana Scheele",
+      "flora_printed_page": 310,
+      "flora_morphology": {
+        "habit": "Coarse annual with often red sap; stems 1–3(–5) m",
+        "leaves": "Usually opposite, petiolate; palmately 3(–5)-lobed, uppermost occasionally unlobed; both faces scabrous, especially upper",
+        "heads": "Stalked staminate heads",
+        "fruits": "Burr-like fruits ca. 4 mm, obovoid, with 4–8 small to obsolete tubercles",
+        "habitat": "Disturbed areas",
+        "phenology": "Aug–Nov",
+        "pappus": "Absent; Ambrosia genus description"
+      },
+      "disagreements_or_notes": [
+        "1999 flora describes var. texana, whereas current inventory uses species A. trifida; do not assume all species-level material has identical varietal characters",
+        "Existing learner says 4–5 spines; flora states 4–8 small/obsolete tubercles"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Aphanostephus riddellii",
+      "flora_original_name": "Aphanostephus riddellii Torr. & A. Gray",
+      "flora_printed_page": 314,
+      "flora_morphology": {
+        "habit": "Hispid-pubescent perennial from branched woody root; stems 10–50 cm",
+        "leaves": "Genus: alternate with narrowed petiolar bases, linear to oblong-oblanceolate, entire to pinnately lobed",
+        "heads": "Numerous, large, long-peduncled; involucral height 4.5–6.2 mm, width 9–14 mm",
+        "rays": "Usually 40–85 rays by key (sometimes 25 at second flowering); white ligules 7–10 mm",
+        "discs": "Yellow (genus)",
+        "pappus": "Minute, ≤0.2 mm",
+        "habitat": "Rocky or sandy ground, chiefly limestone",
+        "phenology": "Apr–Jun (sometimes Jul–Oct)",
+        "roots": "Branched woody perennial root"
+      },
+      "disagreements_or_notes": [
+        "Ray counts and root morphology from genus key must remain distinguished from species paragraph"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    },
+    {
+      "current_name": "Arnoglossum plantagineum",
+      "flora_original_name": "Arnoglossum plantagineum Raf.",
+      "flora_printed_page": 314,
+      "flora_morphology": {
+        "habit": "Glabrous coarse perennial, 0.5–1(–1.5) m",
+        "roots": "Fleshy-fibrous",
+        "stems": "Striate-angled, often dark purple",
+        "leaves": "Basal blades elliptic/ovate, 5–15+ × 2–8 cm, entire or rarely toothed, thick, with 7–9 prominent longitudinal converging nerves; upper alternate stem leaves few and much smaller",
+        "heads": "Numerous in broad terminal corymb",
+        "phyllaries": "5, 7–10 mm, sharply keeled",
+        "rays": "Absent",
+        "discs": "5 creamy-white disk corollas",
+        "fruits": "Achenes 4–5 mm; pappus numerous slender bristles",
+        "habitat": "Prairies, fields, open woods",
+        "phenology": "Apr–Jun, rarely late Sep–Nov"
+      },
+      "disagreements_or_notes": [
+        "Flora cites Cacalia plantaginea as historical synonym; distinguish from A. ovatum with lanceolate leaves and unkeeled phyllaries"
+      ],
+      "external_crosscheck": null,
+      "review_status": "flora_extracted_secondary_review_pending"
+    }
+  ]
+}
