@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "008",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_unique": 62,
+  "cumulative_unique": 73,
+  "reference": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "pdf": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_page_type": "original printed folio",
+  "method": "Only actual original flora species paragraphs/key characters recorded; historic genus names matched to existing modern names; no photos or species JSON touched; FNA taxonomic QA outstanding.",
+  "records": [
+    {
+      "current_name": "Diaperia candida",
+      "flora_name": "Evax candida (Torr. & A.Gray) A.Gray",
+      "printed_flora_page": 356,
+      "morphology": {
+        "habit": "Tiny taprooted annual, generally under 10–15 cm; white- or gray-woolly and branched (Evax genus treatment)",
+        "leaves": "Small 2–15 mm, linear to oblanceolate, entire, alternate or appearing whorled at tips",
+        "heads": "Tiny woolly almost sessile heads clustered chiefly in leaf axils along elongated stems, unlike terminally concentrated D. verna and D. prolifera",
+        "involucre": "True involucre absent in the historical generic circumscription",
+        "florets": "No rays; central florets usually fertile according to original key",
+        "pappus": "Absent",
+        "habitat": "Sandy open woodland, prairie, fields, roadsides",
+        "phenology": "Apr–May"
+      },
+      "original_flora_synonyms": [
+        "Filago candida (Torr. & A.Gray) Shinners"
+      ],
+      "conflicts": [
+        "1999 flora uses Evax candida; current Diaperia combination needs accepted-name crosswalk verification before propagation to the learner."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Diaperia prolifera",
+      "flora_name": "Evax prolifera Nutt. ex DC.",
+      "printed_flora_page": 356,
+      "morphology": {
+        "habit": "Tiny taprooted annual under roughly 10–15 cm, strongly woolly (original Evax genus)",
+        "leaves": "Alternate, small and entire; uppermost leaves 6–12 mm simulating an involucre",
+        "heads": "Dense terminal clusters with intervening bracts LONGER than heads and visibly projecting above wool",
+        "florets": "No rays; central florets usually infertile in original key",
+        "pappus": "Absent",
+        "habitat": "Clay or rocky limestone sites",
+        "phenology": "Apr–Jun"
+      },
+      "original_flora_synonyms": [
+        "Filago prolifera (Nutt. ex DC.) Britton"
+      ],
+      "conflicts": [
+        "Critical comparison with D. verna: bracts protrude beyond woolly terminal heads here, whereas shorter or equal bracts are concealed in verna."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Diaperia verna",
+      "flora_name": "Evax verna Raf.",
+      "printed_flora_page": 356,
+      "morphology": {
+        "habit": "Densely whitish woolly annual less than 10–15 cm from taproot (Evax genus)",
+        "leaves": "Alternate linear/oblanceolate entire; terminal bract-like leaves 3–10 mm",
+        "heads": "Terminal woolly clusters; bracts between heads no longer than the heads and typically hidden in pubescence",
+        "florets": "No rays; central florets usually infertile per historic key",
+        "pappus": "Absent",
+        "habitat": "Sandy, eroding silty or rocky sites",
+        "phenology": "Apr–Jun"
+      },
+      "original_flora_synonyms": [
+        "Evax multicaulis DC.",
+        "Filago verna (Raf.) Shinners"
+      ],
+      "conflicts": [
+        "Historical Evax name; current Diaperia accepted-name verification retained as source crosswalk."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Fleischmannia incarnata",
+      "flora_name": "Eupatorium incarnatum Walter",
+      "printed_flora_page": 354,
+      "morphology": {
+        "habit": "Perennial from fibrous crown, weak sprawling or scandent stems up to 2 m",
+        "leaves": "Opposite, deltate, distinctly petiolate ≥2 mm",
+        "heads": "Corymbose discoid arrays (generic Eupatorium), ray florets absent",
+        "phyllaries": "Lanceolate-subulate, involucres 5–6 mm high",
+        "florets": "White-pink with pink/lilac distal corolla tips",
+        "fruit": "Blackish 5-ribbed achenes and persistent bristle pappus per historical broad genus",
+        "habitat": "Bottomlands and woodlands",
+        "phenology": "Oct–Nov"
+      },
+      "original_flora_synonyms": [
+        "Kyrstenia incarnata (Walter) Greene"
+      ],
+      "conflicts": [
+        "1999 flora explicitly notes modern segregate Fleischmannia incarnata; avoid confusing with Ageratina/Eupatorium white-flowered lookalikes."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Gaillardia aestivalis",
+      "flora_name": "Gaillardia aestivalis (Walter) H.Rock",
+      "printed_flora_page": 358,
+      "morphology": {
+        "habit": "Taprooted annual or short-lived perennial 12–65 cm, often single-stemmed",
+        "leaves": "Cauline, mostly sessile, alternate; not confined to basal rosette",
+        "heads": "Large radiate heads; disk 15–25 mm across; rays sometimes absent",
+        "rays": "When present, yellow or red at base, (8–)10–15 mm; infertile",
+        "discs": "Yellow or purple-brown varying by variety; long narrow corolla lobes ca. half of tube or longer",
+        "receptacle": "Naked or nearly so, unlike G. pulchella's prominent bristles",
+        "fruit": "Cypselae ca. 2 mm, pappus 5–6 mm scales each with slightly longer awn",
+        "habitat": "Sandy woodland and prairie, disturbed sites",
+        "phenology": "May–Oct"
+      },
+      "original_flora_synonyms": [
+        "Gaillardia lanceolata Michx. [historic var. aestivalis]"
+      ],
+      "conflicts": [
+        "Var. aestivalis disks purple-brown; var. flavovirens disks yellow: do not assume a single disk color for species."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Gaillardia pulchella",
+      "flora_name": "Gaillardia pulchella Foug.",
+      "printed_flora_page": 358,
+      "morphology": {
+        "habit": "Pubescent/hispid sprawling-branched annual, 10–60 cm",
+        "leaves": "Alternate along stems, upper clasping, oblong/ovate-lanceolate, entire or lower leaves toothed/lobed",
+        "heads": "Large radiate heads, red-yellow rays and dark red-brown disk (sometimes color variants)",
+        "rays": "Usually 10–20 mm ligules reddish toward base and yellow-tipped, infertile",
+        "discs": "Dark red-brown, occasionally yellow; corolla lobes short, much less than half tube",
+        "receptacle": "Well-developed bristles about as long as cypselae, unlike G. aestivalis",
+        "fruit": "Achenes about 2 mm, pappus 5–6 mm scales and similar-length awns",
+        "habitat": "Prairies and roadsides/disturbed areas",
+        "phenology": "May–Jun, sporadic later"
+      },
+      "original_flora_synonyms": [],
+      "conflicts": [
+        "Reliable differentiation from G. aestivalis depends on receptacle bristles and disc lobe shape, not solely ray coloration."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Gaillardia suavis",
+      "flora_name": "Gaillardia suavis (A.Gray & Engelm.) Britton & Rusby",
+      "printed_flora_page": 359,
+      "morphology": {
+        "habit": "Perennial 30–80 cm, forming patches from obliquely branching roots",
+        "leaves": "Mostly basal, somewhat fleshy, oblanceolate/obovate, entire to deeply lobed",
+        "heads": "Scapose long-peduncled mostly rayless heads; disk very fragrant",
+        "rays": "Absent or very short orange-brown and inconspicuous",
+        "discs": "Sweet scented rounded head",
+        "fruit": "Cypselae ca. 2.5 mm; pappus scales 4–5 mm with equally long awn",
+        "habitat": "Sandy or rocky prairies, roadsides",
+        "phenology": "Apr–May, sporadically later"
+      },
+      "original_flora_synonyms": [],
+      "conflicts": [
+        "Repository uses authority E.Hall, older flora Britton & Rusby: authorship conflict needs formal nomenclatural review.",
+        "Keep rayless as 'usually rayless' because short rays are possible."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Gamochaeta purpurea",
+      "flora_name": "Gamochaeta purpurea (L.) Cabrera",
+      "printed_flora_page": 359,
+      "morphology": {
+        "habit": "White/gray felted annual 10–30 cm",
+        "leaves": "Alternate obovate/spatulate to oblanceolate; conspicuously bicolored, greenish sparsely hairy above and silver tight-woolly beneath; 5–20 mm wide from key",
+        "heads": "Nearly sessile disciform axillary heads in mostly uninterrupted spike-like inflorescences",
+        "involucres": "4–6 mm high; wool concentrated at base; scarious phyllaries",
+        "pappus": "Bristles united at base and shed as one ring",
+        "habitat": "Sandy woodland and roadsides",
+        "phenology": "Apr–May"
+      },
+      "original_flora_synonyms": [
+        "Gnaphalium purpureum L."
+      ],
+      "conflicts": [
+        "Separate G. pensylvanica with loose wool all over involucres and less bicolored leaves."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Grindelia adenodonta",
+      "flora_name": "Grindelia adenodonta (Steyerm.) G.L.Nesom",
+      "printed_flora_page": 360,
+      "morphology": {
+        "habit": "Taprooted annual 1–1.5 m; glandular pubescence usually absent",
+        "leaves": "Alternate sessile, oblong, not substantially reduced toward heads; 25–60 small teeth per leaf side",
+        "heads": "Resinous radiate yellow heads, ray florets present",
+        "phyllaries": "Narrow, ascending or spreading but not rigidly recurved in 1999 key",
+        "receptacle": "Naked",
+        "fruit": "Mature achenes approximately as wide as long; 2–8 separate readily shed pappus awns per key",
+        "habitat": "Clay soils",
+        "phenology": "Jun–Nov"
+      },
+      "original_flora_synonyms": [
+        "Grindelia microcephala var. adenodonta Steyerm."
+      ],
+      "conflicts": [
+        "Existing learner record describes glandular-hairy stems, whereas 1999 flora states glandular pubescence usually absent: preserve conflict."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Grindelia lanceolata",
+      "flora_name": "Grindelia lanceolata Nutt.",
+      "printed_flora_page": 360,
+      "morphology": {
+        "habit": "Biennial/perennial from woody crown, 0.3–1.5 m",
+        "leaves": "Alternate sessile, lanceolate to triangular, 4–10 × 1–3 cm, 7–15 teeth per side; tapering apically and reduced toward heads",
+        "heads": "Radiate, yellow rays 20–30 with ligules 10–16 mm",
+        "phyllaries": "Linear, ascending/spreading, not squarrose/reflexed as in G. squarrosa",
+        "fruit": "Achenes 2–5 mm, longer than wide; 2–8 readily detachable pappus bristles/awns per key",
+        "habitat": "Calcareous soils",
+        "phenology": "Summer, sometimes fall"
+      },
+      "original_flora_synonyms": [],
+      "conflicts": [
+        "Project's previous note claims strongly recurved phyllaries; regional key explicitly says NOT squarrose/reflexed: high-priority photo caption conflict."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    },
+    {
+      "current_name": "Grindelia nuda",
+      "flora_name": "Grindelia nuda A.W.Wood",
+      "printed_flora_page": 360,
+      "morphology": {
+        "habit": "Taprooted annual; superficially resembles G. squarrosa",
+        "leaves": "Alternate, sessile, oblong middle leaves with 13–30 teeth per side, becoming smaller upwards",
+        "heads": "Discoid/rayless heads with resinous involucre",
+        "phyllaries": "Usually spreading, squarrose or reflexed",
+        "fruit": "Oblong achenes longer than wide, 2.3–3 mm; genus glabrous cypselae",
+        "habitat": "Disturbed open sites, especially plains",
+        "phenology": "Summer–fall"
+      },
+      "original_flora_synonyms": [
+        "Grindelia squarrosa var. nuda (A.W.Wood) A.Gray"
+      ],
+      "conflicts": [
+        "Existing learner habit claims biennial/short-lived subshrub, whereas 1999 flora says taprooted annual; preserve as source disagreement."
+      ],
+      "status": "regional_flora_extracted; taxonomic_secondary_check_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Grindelia ciliata",
+      "issue": "Do not equate current Grindelia ciliata with older Prionopsis ciliata/Grindelia papposa without author-concept verification."
+    },
+    {
+      "name": "Gaillardia amblyodon",
+      "issue": "No distinct original 1999 species paragraph matched; needs secondary flora."
+    },
+    {
+      "name": "Carphochaete bigelovii",
+      "issue": "Prior hold persists: diagnostic species-specific reference needed."
+    }
+  ]
+}
