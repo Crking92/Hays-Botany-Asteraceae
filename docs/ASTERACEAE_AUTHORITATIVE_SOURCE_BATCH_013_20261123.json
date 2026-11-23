@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "013",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_extracted": 119,
+  "new_entries": 9,
+  "cumulative_extracted": 128,
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "page_type": "printed book pagination",
+  "scope": "Additive source extraction only. No learner/species.json or photo changes, and no BONAP review.",
+  "records": [
+    {
+      "current_name": "Simsia calva",
+      "printed_page_start": 406,
+      "printed_page_end": 407,
+      "original_treatment": "Simsia calva (Engelm. & A.Gray) A.Gray",
+      "morphology": {
+        "habit": "Woody-based coarsely pubescent herbaceous perennial, fusiform/woody roots",
+        "leaves": "Opposite, petiolate with some auriculate petioles; deltoid, often lobed, serrate blades; stipules toothed and often united",
+        "heads": "Solitary on long peduncles; several phyllary series",
+        "rays": "15–30 infertile pistillate rays, yellow to orange-yellow, sometimes purple/red marked beneath",
+        "disks": "Perfect fertile florets, yellow-orange, sometimes purple-lined, bases gibbous",
+        "fruits": "Flattened, notched and apparently winged cypselae; two short awns usually missing at maturity",
+        "habitat": "Calcareous soil",
+        "phenology": "May–Nov"
+      },
+      "original_names": [],
+      "qa": [
+        "Nodal stipules/petiole auricles valuable macro photo targets."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Solidago altissima",
+      "printed_page_start": 410,
+      "printed_page_end": 410,
+      "original_treatment": "Solidago canadensis var. scabra Torr. & A.Gray",
+      "morphology": {
+        "habit": "Perennial goldenrod in historical 1999 S. canadensis broad concept",
+        "leaves": "The original flora's var. scabra comparison describes usually >0.8 m plants and thin green leaves generally >7 cm long with upper surface less densely hairy than underside; not a species-wide contemporary measurement",
+        "heads": "Historical treatment under triangular secund-headed S. canadensis; genus yellow rays and disks",
+        "involucres": "1999 broad S. canadensis 2–5 mm, not independently verified for modern S. altissima",
+        "phenology": "Source broad group (Jun–)Aug–Nov"
+      },
+      "original_names": [
+        "Solidago canadensis var. scabra (sensu regional flora)"
+      ],
+      "qa": [
+        "This is a HISTORICAL NAME CROSSWALK ONLY. Do not assert modern S. altissima and S. canadensis are taxonomically synonymous or move var. scabra morphology to modern S. altissima.",
+        "Original flora p410 explicitly puts S. altissima in brackets after var. scabra; FNA/modern source needed to finalize concept."
+      ],
+      "source_verification": "historic_name_note_only_modern_treatment_needed"
+    },
+    {
+      "current_name": "Solidago canadensis",
+      "printed_page_start": 410,
+      "printed_page_end": "Solidago canadensis L.",
+      "original_treatment": {
+        "habit": "Herbaceous perennial up to 1.5(–2) m, pubescent stems",
+        "leaves": "Alternate lanceolate, three prominent nerves, hairy on both sides, mostly cauline",
+        "heads": "Triangular inflorescence, one-sided/secondarily secund heads; involucres 2–5 mm",
+        "fruits": "Short-hairy ribbed cypselae with many capillary white pappus bristles (genus)",
+        "phenology": "(Jun–)Aug–Nov",
+        "infraspecific": "1999 var. gilvocanescens usually <0.7 m gray-green thick leaves <7 cm; var. scabra >0.8 m thinner green leaves >7 cm; wide intermediates noted"
+      },
+      "morphology": [
+        "Solidago gilvocanescens (Rydb.) Smyth [variety concept]"
+      ],
+      "original_names": [
+        "The flora's broad S. canadensis circumscription includes names now treated differently; do not apply all varieties' traits to modern S. canadensis s.s."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Solidago gigantea",
+      "printed_page_start": 410,
+      "printed_page_end": "Solidago gigantea Aiton",
+      "original_treatment": {
+        "habit": "Large herbaceous perennial ≥1.5 m; main stems glabrous, commonly reddish",
+        "leaves": "Lanceolate, mostly smooth, toothed on much of edge, three strong veins (key)",
+        "heads": "Broad, triangular panicle with recurved branches, secund yellow heads; involucres about 2.5–4 mm",
+        "fruits": "Short-hairy ribbed cypselae, white capillary pappus",
+        "habitat": "Wet or mesic low ground, pond/stream edges, roadsides",
+        "phenology": "Mid-summer to late fall"
+      },
+      "morphology": [
+        "Solidago gigantea var. serotina (Kuntze) Cronquist"
+      ],
+      "original_names": [
+        "Contrast pubescent primary stems of historical S. canadensis."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Solidago mexicana",
+      "printed_page_start": 415,
+      "printed_page_end": "Solidago sempervirens L. var. mexicana (L.) Fernald [mentioned, no full treatment]",
+      "original_treatment": {
+        "habit": "Genus Solidago perennial, specific habit not documented in 1999 flora",
+        "leaves": "1999 comparative note for broad S. sempervirens: glabrous primary stems and leaves; rosette blades linear-lanceolate, stem leaves narrow and entire",
+        "heads": "Inflorescence racemose/paniculate and pubescent in broad S. sempervirens note",
+        "florets": "Genus yellow rays and disks, cypsela pappus capillary"
+      },
+      "morphology": [
+        "Solidago sempervirens var. mexicana (L.) Fernald"
+      ],
+      "original_names": [
+        "Source NOTE ONLY: p415 authors mention var. mexicana but state seaside forms generally south of their regional study. These characters are not confirmed species-specific for currently recognized S. mexicana.",
+        "Requires FNA/POWO modern circumscription before serving to learner."
+      ],
+      "source_verification": "historic_name_note_only_modern_treatment_needed"
+    },
+    {
+      "current_name": "Solidago nemoralis",
+      "printed_page_start": 412,
+      "printed_page_end": "Solidago nemoralis Aiton",
+      "original_treatment": {
+        "habit": "Herbaceous perennial to 1(–1.3) m, pubescent stems and basal rosette with persistent lower leaves",
+        "leaves": "Alternate, spatulate and one prominent vein, generally entire, hairy; becoming smaller above",
+        "heads": "Longer-than-wide secund panicle of yellow heads",
+        "fruits": "Short-hairy cypselae with capillary pappus",
+        "phenology": "Aug–Nov",
+        "varieties": "Historical var. longipetiolata: main leaves 7–10× long as wide, involucres 4.5–6.5 mm; var. nemoralis: leaves 3–6× long as wide, involucres 3–4.5 mm",
+        "habitat": "Dry uplands"
+      },
+      "morphology": [
+        "Solidago nemoralis var. decemflora Fernald [historical variety]"
+      ],
+      "original_names": [
+        "Existing species record cautions modern split Solidago decemflora; historical variety measurements must not automatically assign to modern S. nemoralis s.s."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Solidago radula",
+      "printed_page_start": 414,
+      "printed_page_end": "Solidago radula Nutt.",
+      "original_treatment": {
+        "habit": "Perennial 0.4–1.2 m with pubescent stems",
+        "leaves": "Alternate, rough; small elliptic leaves <1 cm on lower flowering branches",
+        "heads": "Dense to open panicles with long flower-bearing branches, heads NOT one-sided in field (may appear secund when pressed)",
+        "involucres": "To 5.5 mm high",
+        "fruits": "Short-hairy cypselae with pappus bristles",
+        "habitat": "Dry bluffs and xeric uplands",
+        "phenology": "Aug–Nov"
+      },
+      "morphology": [],
+      "original_names": [
+        "Unpressed versus pressed head orientation matters; source expressly cautions against herbarium-only secund appearance."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Solidago rugosa",
+      "printed_page_start": 414,
+      "printed_page_end": "Solidago rugosa Mill.",
+      "original_treatment": {
+        "habit": "Pubescent perennial usually below 1 m",
+        "leaves": "Mostly ovate to lanceolate, serrate; underleaf with long venal hairs, often wrinkled reticulation and dominant midvein",
+        "heads": "Triangular recurving panicle with one-sided heads; involucres ~4 mm",
+        "fruits": "Short-hairy cypselae, white hairlike pappus",
+        "habitat": "Moist oak-hickory woods, stream banks and roadside ditches",
+        "phenology": "Sep–Nov",
+        "varieties": "var. aspera broadly lanceolate/ovate and conspicuously rugose underside; var. rugosa lanceolate with less conspicuous venation"
+      },
+      "morphology": [
+        "Solidago rugosa var. aspera (Aiton) Fernald"
+      ],
+      "original_names": [
+        "Variety character should not be assumed for all examples."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    },
+    {
+      "current_name": "Sonchus asper",
+      "printed_page_start": 416,
+      "printed_page_end": "Sonchus asper (L.) Hill",
+      "original_treatment": {
+        "habit": "Introduced Eurasian taprooted annual, stems 0.1–1(–1.5) m; milky sap",
+        "leaves": "Alternate, conspicuously stiff and painfully spiny, middle/upper blades clasping with usually rounded auricles",
+        "heads": "Clusters of all-yellow ligulate florets, narrow green phyllaries in several unequal series",
+        "flowers": "Corolla tubes longer than ray-like ligules (species); no separate central disk",
+        "fruits": "Flattened cypsela 2–3 mm with several longitudinal nerves but NO cross wrinkles, white 5–9 mm capillary pappus (genus)",
+        "habitat": "Gardens, roadsides, disturbed areas",
+        "phenology": "Mar–Jun and sporadically year-round"
+      },
+      "morphology": [],
+      "original_names": [
+        "Compare softer S. oleraceus pointed triangular auricles and transversely wrinkled fruits."
+      ],
+      "source_verification": "regional_flora_species_or_key_extracted"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Solidago juliae",
+      "reason": "Not treated in 1999 flora; use FNA targeted source."
+    },
+    {
+      "name": "Solidago altissima",
+      "reason": "1999 broad S. canadensis var. scabra is historical crosswalk, not enough modern S. altissima morphology."
+    },
+    {
+      "name": "Solidago mexicana",
+      "reason": "Only historical S. sempervirens var. mexicana mention in regional flora; need modern species account."
+    }
+  ]
+}
