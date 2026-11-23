@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "005",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_completed": 36,
+  "cumulative_researched": 44,
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_document": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "method": "Additive verbatim-provenance-linked paraphrase. No species JSON or photos changed. Only source-extracted species counted.",
+  "records": [
+    {
+      "current_name": "Chloracantha spinosa",
+      "flora_original_name": "Chloracantha spinosa (Benth.) G.L.Nesom",
+      "flora_printed_page": 335,
+      "morphology": {
+        "habit": "Nearly leafless rhizomatous perennial forming clumps, rushlike",
+        "stems": "Glabrous/glabrate, glaucous photosynthetic erect, 0.5–1.5(–2.5) m, freely branched, lasting up to about four growing seasons",
+        "spines": "Some branchlets become thorns 10–20 mm long",
+        "leaves": "Often early-deciduous or minute/subulate",
+        "heads": "Numerous radiate heads, involucres 3.5–7.5 mm",
+        "rays": "Approximately 10–33 white, sometimes bluish, ligules ≤5.5 mm",
+        "habitat": "Low disturbed/weedy sites, roadsides",
+        "flowering": "Jun–Oct"
+      },
+      "historical_synonyms": [
+        "Aster spinosus Benth.",
+        "Leucosyris spinosa (Benth.) Greene"
+      ],
+      "diagnostic_or_conflict_notes": [
+        "Distinctive nearly leafless photosynthetic stems; could be mistaken for a rush in habit."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Cirsium horridulum",
+      "flora_original_name": "Cirsium horridulum Michx.",
+      "flora_printed_page": 340,
+      "morphology": {
+        "habit": "Coarse winter annual or biennial, flowers from ~25 cm to 2 m",
+        "foliage": "Green on both surfaces, thinly pubescent to glabrous, spiny-margined",
+        "heads": "Usually solitary terminal heads; involucres wider than long, 4–8 cm broad",
+        "false_involucre": "Approximately 10–12 prominently spiny leafy bracts directly under involucre",
+        "florets": "Only disk florets, rosy-lavender; rarely yellow in southeast Texas",
+        "pappus": "Plumose bristles united at base, per genus",
+        "habitat": "Damp open woods and lowland sites",
+        "flowering": "Mar–May"
+      },
+      "historical_synonyms": [],
+      "diagnostic_or_conflict_notes": [
+        "Regional author called this bull thistle, but also uses that common name for introduced C. vulgare: scientific characters avoid common-name ambiguity.",
+        "Regional flora's 4–8 cm figure is involucre width, not height."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Cirsium ochrocentrum",
+      "flora_original_name": "Cirsium ochrocentrum A.Gray",
+      "flora_printed_page": 340,
+      "morphology": {
+        "habit": "Strongly spiny biennial or perennial 0.2–1(–1.5) m",
+        "foliage": "Whitish tomentose below; upper grayish woolly and usually somewhat darker",
+        "leaf_attachment": "Uniformly deep-pinnatifid mid/upper leaves, decurrent into spiny stem wings >1 cm in 1999 flora key",
+        "heads": "Oblong involucres 2.5–4.5 cm high per key, initially taller than broad",
+        "phyllaries": "Mid/outer tips (5–)7–15 mm long per key",
+        "florets": "Rosy lavender/purple, rarely white, disk only",
+        "pappus": "Plumose as genus",
+        "habitat": "Sandy/rocky prairies and roadsides",
+        "flowering": "May–Oct"
+      },
+      "historical_synonyms": [],
+      "diagnostic_or_conflict_notes": [
+        "Leaf-wing and phyllary spine contrasts versus C. undulatum are tendencies in this regional key; FNA may vary geographically."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Cirsium texanum",
+      "flora_original_name": "Cirsium texanum Buckley",
+      "flora_printed_page": 340,
+      "morphology": {
+        "habit": "Deep-taprooted biennial or perennial 0.5–2 m",
+        "foliage": "Upper green glabrous to lightly tomentose; undersides thinly grayish/whitish tomentose; upper sessile and slightly clasping",
+        "stems": "Long erect/ascending branches",
+        "heads": "Involucres relatively small, 1.4–2.2 cm tall, approximately as wide as tall when flowering; no false leafy spiny basal whorl",
+        "florets": "Pink to deep rosy-lavender disk flowers; no true ray",
+        "pappus": "Plumose bristles, per genus",
+        "habitat": "Prairies and roadsides",
+        "flowering": "May–Jun"
+      },
+      "historical_synonyms": [],
+      "diagnostic_or_conflict_notes": [
+        "Regional 0.5–2 m stature wider than existing learner simplification 'under about 1m'; preserve broad source measurement.",
+        "Upper stem wings can occur; do not use wing presence alone to diagnose introduced thistles."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Cirsium undulatum",
+      "flora_original_name": "Cirsium undulatum (Nutt.) Spreng.",
+      "flora_printed_page": 340,
+      "morphology": {
+        "habit": "Rhizomatous perennial 0.2–1(–2) m",
+        "foliage": "Leaves can be nearly as tomentose above as below; leaf edges sometimes wavy, generally shallowly pinnatifid per key",
+        "stem_attachment": "Clasping, decurrent by ≤1 cm or not decurrent in 1999 flora key",
+        "heads": "Involucres 2.5–4.5 cm high, oblong/urnlike, longer than broad while flowering",
+        "phyllaries": "Prickle tips of mid/outer phyllaries 1–5 mm",
+        "florets": "Disk-only, purple/lavender/white",
+        "pappus": "Plumose as genus",
+        "habitat": "Prairies, pastures and roadsides",
+        "flowering": "May–Jul"
+      },
+      "historical_synonyms": [],
+      "diagnostic_or_conflict_notes": [
+        "Wavy leaf margins variable, not diagnostic on their own.",
+        "Compare C. ochrocentrum phyllary spine lengths and leaf dissection; account for overlap."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Cirsium vulgare",
+      "flora_original_name": "Cirsium vulgare (Savi) Ten.",
+      "flora_printed_page": 340,
+      "morphology": {
+        "habit": "Introduced Eurasian biennial, 0.5–2 m",
+        "foliage": "Upper blade with numerous short yellowish appressed prickles, distinct from long marginal spines; green upper surface, sometimes gray pubescent underside",
+        "stem_attachment": "Decurrent spiny leaf bases form wings",
+        "heads": "Involucres 2–3 cm high",
+        "florets": "Disk-only, dark purple corollas 27–35 mm",
+        "pappus": "Plumose bristles, per genus",
+        "habitat": "Roadsides, pastures, waste areas",
+        "flowering": "Jul–Sep"
+      },
+      "historical_synonyms": [],
+      "diagnostic_or_conflict_notes": [
+        "1999 flora documents early Texas invasion history; historic date is not current abundance.",
+        "Leaf-surface prickles, not just winged stems, are emphasized by the regional diagnostic key."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "current_name": "Conoclinium coelestinum",
+      "flora_original_name": "Eupatorium coelestinum L.",
+      "flora_printed_page": 353,
+      "morphology": {
+        "habit": "Rhizomatous perennial forming colonies",
+        "leaves": "Opposite, deltoid blades, petioles 3–20 mm",
+        "heads": "Corymbose clusters of disk-only blue/purplish-blue florets; no rays",
+        "involucres": "3–5 mm; phyllaries linear-subulate",
+        "fruits": "5-ribbed dark cypselae with bristle pappus per broad Eupatorium generic account",
+        "habitat": "Moist often wooded sandy or calcareous places",
+        "flowering": "Aug–Nov"
+      },
+      "historical_synonyms": [
+        "Eupatorium coelestinum L."
+      ],
+      "diagnostic_or_conflict_notes": [
+        "1999 flora explicitly mentions transfer to Conoclinium; no concept conflict in this account."
+      ],
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    },
+    {
+      "review_status": "regional_flora_extracted_secondary_verification_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Chondrilla juncea",
+      "reason": "No species-specific 1999 regional flora paragraph located; defer FNA account."
+    },
+    {
+      "name": "Chromolaena odorata",
+      "reason": "No source-specific 1999 treatment verified; postpone to FNA."
+    },
+    {
+      "name": "Chrysactinia mexicana",
+      "reason": "No source-specific 1999 treatment verified; postpone to FNA."
+    },
+    {
+      "name": "Conoclinium dissectum",
+      "reason": "No source-specific 1999 treatment verified; existing learner morphology preserved."
+    }
+  ]
+}
