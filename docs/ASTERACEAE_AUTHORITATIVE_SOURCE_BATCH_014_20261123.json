@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "014",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Asteraceae",
+  "branch": "staging/asteraceae-metadata",
+  "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "printed_pages": [
+    316,
+    318,
+    319,
+    320,
+    322
+  ],
+  "prior_inventory_entries_researched": 128,
+  "added_inventory_entries": 9,
+  "cumulative_inventory_entries_researched": 137,
+  "inventory_total": 180,
+  "scope": "Additive source records only; BONAP deferred; no photo publication, species.json, or attribution modifications",
+  "records": [
+    {
+      "current_name": "Symphyotrichum drummondii",
+      "flora_original_name": "Aster drummondii Lindl. var. texanus (E.S.Burgess) A.G.Jones",
+      "printed_flora_pages": [
+        318
+      ],
+      "morphology": {
+        "habit": "Short-rhizomatous perennial",
+        "leaves": "Cauline leaves ovate to cordate with broad winged petioles, blades 6–12(–15) × 3–5(–6) cm, sharp serrations; upper leaves smaller",
+        "heads": "Involucres 5–6 mm high; 10–20 ray florets",
+        "ray": "Usually dark purple to blue-lavender, rarely white",
+        "disk": "Cream-yellow, aging purple",
+        "habitat": "Open woodland and prairie",
+        "flowering": "Mostly Oct–Nov, rarely spring"
+      },
+      "historical_names": [
+        "Aster texanus E.S.Burgess",
+        "Symphyotrichum drummondii var. texanum (E.S.Burgess) G.L.Nesom"
+      ],
+      "qa_notes": [
+        "1999 flora treats var. texanus; species-wide traits of modern S. drummondii require FNA check."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum ericoides",
+      "flora_original_name": "Aster ericoides L.",
+      "printed_flora_pages": [
+        318
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial, strongly branched",
+        "leaves": "Stem leaves sessile, linear to oblong, usually lost before flowering; persistent branch leaves 2–3 mm × around 1 mm",
+        "heads": "Crowded, small; involucres 4–7 mm across",
+        "ray": "White short ligules, just exceeding pappus",
+        "fruit": "Flattened cypsela and white hairlike pappus (historical Aster genus)",
+        "habitat": "Open and disturbed ground",
+        "flowering": "Sep–Oct(–Nov)"
+      },
+      "historical_names": [],
+      "qa_notes": [
+        "Species source direct; compare glandular S. oblongifolium and minute ciliate phyllary tips of S. ericoides."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum eulae",
+      "flora_original_name": "Aster ×eulae Shinners [historical disputed hybrid]",
+      "printed_flora_pages": [
+        320,
+        322
+      ],
+      "morphology": {
+        "habit": "No reliable life-cycle distinction given beyond broad perennial Aster-group characters",
+        "leaves": "Historical Mahler comparison: stem leaves elliptic to oblanceolate rather than narrowly elliptic S. praealtum",
+        "heads": "Outer phyllaries 1/3–1/4 as long as inner, involucres 4–5 mm in historical key",
+        "conflict": "1999 authors note specimens may resemble S. praealtum; sources disagree whether hybrid or separate species"
+      },
+      "historical_names": [
+        "Aster ×eulae Shinners",
+        "Aster eulae Shinners"
+      ],
+      "qa_notes": [
+        "HOLD: Historical 1999 text explicitly disputes taxon; never assert hybrid parentage or species concept from this reference alone.",
+        "Current accepted S. eulae requires modern FNA/nomenclatural review."
+      ],
+      "verification": "historic_comparison_taxon_hold"
+    },
+    {
+      "current_name": "Symphyotrichum lanceolatum subsp. lanceolatum",
+      "flora_original_name": "Aster lanceolatus Willd. subsp. lanceolatus",
+      "printed_flora_pages": [
+        318,
+        319
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial with early-deciduous basal and large cauline leaves",
+        "leaves": "Main leaves elliptic/oblanceolate to linear-lanceolate (4–)6–15 cm × (0.5–)1–2(–3.5) cm; not auriculate-clasping",
+        "heads": "White rays, rarely pink; the historical key: 20–40 rays; involucre dimensions unreported at species paragraph",
+        "phyllaries": "Outer phyllaries ~1/3–2/3 as long as inner in subsp. lanceolatus; large leafy head bracts usually absent",
+        "fruit": "Gray mature cypselae in comparison to brown/purple S. praealtum; historical key",
+        "habitat": "Lowland sites",
+        "flowering": "Aug–Nov"
+      },
+      "historical_names": [
+        "Aster simplex Willd.",
+        "Aster lanceolatus var. simplex (Willd.) A.G.Jones"
+      ],
+      "qa_notes": [
+        "Historical authors report intergradation/hybridization with S. praealtum; keep subspecies treatment explicit."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum oblongifolium",
+      "flora_original_name": "Aster oblongifolius Nutt.",
+      "printed_flora_pages": [
+        319
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial",
+        "leaves": "Numerous persistent oblong to linear-lanceolate cauline blades, often subclasping; branch leaves 3–10 × 1–2 mm",
+        "heads": "Involucres 8–12 mm wide, heads relatively open/not tightly crowded",
+        "phyllaries": "Apically glandular-pubescent (use lens)",
+        "rays": "Usually blue to purple ligules",
+        "habitat": "Calcareous prairie",
+        "flowering": "Sep–Nov"
+      },
+      "historical_names": [],
+      "qa_notes": [
+        "Distinctly glandular head stalks and phyllaries are more decisive than flower color."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum patens",
+      "flora_original_name": "Aster patens Aiton",
+      "printed_flora_pages": [
+        319,
+        320
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial",
+        "leaves": "Stem leaves obovate/spatulate, grayish-green and conspicuously auriculate-clasping; branch leaves smaller and appressed",
+        "heads": "Showy, 20–35 mm diameter with rays spread; involucres 7–15 mm broad",
+        "rays": "Blue or purple (occasionally pink/white), ligules 10–15(–17) mm",
+        "phyllaries": "Tips often glandular; infraspecific phyllary dimensions/pilosity vary",
+        "habitat": "Sandy open or disturbed places",
+        "flowering": "Aug–Nov"
+      },
+      "historical_names": [
+        "Symphyotrichum patens var. gracile (Hook.) G.L.Nesom",
+        "S. patens var. patentissimum (Lindl. ex DC.) G.L.Nesom"
+      ],
+      "qa_notes": [
+        "Historic key warns three varieties intergrade; no assignment from species-level photo."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum praealtum",
+      "flora_original_name": "Aster praealtus Poir.",
+      "printed_flora_pages": [
+        320
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial",
+        "leaves": "Mid-stem sessile, linear to narrow elliptic 4–12(–15) cm × 0.3–1.5 cm, lower leaves falling early; tiny awl-shaped branch leaves",
+        "heads": "Diameter ~15–20(–25) mm when rays spread; involucres ~4–8 mm high",
+        "rays": "Usually bluish-white to lavender, rarely white",
+        "habitat": "Low disturbed ground",
+        "flowering": "Oct–Nov"
+      },
+      "historical_names": [
+        "Aster salicifolius Aiton",
+        "Aster coerulescens DC."
+      ],
+      "qa_notes": [
+        "Historical flora does not find firm distinctions among purported varieties; S. eulae and S. lanceolatum difficult to distinguish in some material."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum sericeum",
+      "flora_original_name": "Aster sericeus Vent.",
+      "printed_flora_pages": [
+        320
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial",
+        "leaves": "Most stem leaves falling before flowering; persistent elliptic leaves of head-bearing branches not reduced just below heads",
+        "phyllaries": "Outer 1.3–2 mm wide with forward appressed whitish pubescence and no prominent marginal cilia (historic key)",
+        "heads": "Involucres 7–12 mm across; rays purple/violet, occasionally pink/white",
+        "habitat": "Rocky calcareous open ground",
+        "flowering": "Aug–Oct"
+      },
+      "historical_names": [],
+      "qa_notes": [
+        "Compare Aster pratensis treated separately in the historic source: wider glabrous-to-slightly-hairy outer phyllaries with ciliate margins; preserve circumscription caveat."
+      ],
+      "verification": "1999_source_extracted_modern_taxon_QA_pending"
+    },
+    {
+      "current_name": "Symphyotrichum subulatum",
+      "flora_original_name": "Aster subulatus Michx. var. ligulatus Shinners",
+      "printed_flora_pages": [
+        320
+      ],
+      "morphology": {
+        "habit": "Glabrous taprooted annual, much branched",
+        "leaves": "Linear to subulate 1–10(–20) cm × 2–4(–7) mm, shrinking upward, mostly deciduous by flowering",
+        "heads": "Open heads 10–12(–15) mm diameter; involucres 3–5(–7) mm high",
+        "rays": "Ligules blue, purple, violet, pink or white",
+        "habitat": "Lawns, ditches, moist disturbed ground",
+        "flowering": "Aug–Nov"
+      },
+      "historical_names": [
+        "Aster exilis Elliott",
+        "Aster divaricatus (Nutt.) Torr. & A.Gray [nom. illeg.]"
+      ],
+      "qa_notes": [
+        "The 1999 record is specifically var. ligulatus; taxon concepts of modern S. subulatum and S. divaricatum require secondary verification before traits are propagated."
+      ],
+      "verification": "historical_variety_extracted_modern_concept_hold"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Symphyotrichum divaricatum",
+      "reason": "Historical Aster subulatus var. ligulatus note mentions Aster divaricatus illegitimate name, but no direct species-level source treatment for current S. divaricatum. Requires FNA."
+    },
+    {
+      "name": "Symphyotrichum eulae",
+      "reason": "Taxon appears as a disputed historical hybrid/difficult species; preserve partial description, no final rank or ancestry assertion."
+    }
+  ]
+}
