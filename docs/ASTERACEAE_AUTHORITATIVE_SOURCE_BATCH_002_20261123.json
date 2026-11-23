@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "002",
+  "date": "2026-11-23",
+  "inventory_confirmed": 180,
+  "cumulative_flora_extracted": 17,
+  "source": {
+    "name": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "pdf": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "pages": "Printed pagination, original source inspected"
+  },
+  "method": "Additive source-specific morphology extracted from printed regional flora; no changes to existing species cards, image credits, BONAP or website. Secondary treatments flagged, not automatically adopted.",
+  "records": [
+    {
+      "current_name": "Aphanostephus skirrhobasis",
+      "flora_original_name": "Aphanostephus skirrhobasis (DC.) Trel.",
+      "flora_printed_page": 314,
+      "morphology": {
+        "habit": "Gray soft-pubescent taprooted annual; to 50 cm",
+        "leaves": "Genus: alternate, narrowing into petiolar bases, linear to oblong-oblanceolate; entire to pinnately lobed",
+        "heads": "Rather large; involucres 6–8 mm high and 7–13 mm wide",
+        "rays": "20–44; ligules 8–15 mm, white with reddish/rosy streaks beneath",
+        "discs": "Yellow per genus treatment; disk corolla bases swell and harden at maturity per species key",
+        "pappus": "Minute, 0.25–1 mm; key describes uneven crown of ca. five acute scales",
+        "habitat": "Sandy open woods, fields, prairies and roadsides",
+        "phenology": "Apr–Jun, sporadically later"
+      },
+      "source_disagreements": [
+        "Compare A. riddellii: latter perennial from woody roots with 40–85 rays and pappus ≤0.2 mm."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Artemisia ludoviciana",
+      "flora_original_name": "Artemisia ludoviciana Nutt. subsp. mexicana (Willd. ex Spreng.) D.D. Keck",
+      "flora_printed_page": 315,
+      "morphology": {
+        "habit": "Perennial, rarely slightly subshrubby; 20–90(–150) cm",
+        "leaves": "Alternate; variable from entire to lobed/dissected; young leaves white woolly both sides, older upper surfaces sometimes dark green and nearly hairless while lower surface stays white woolly",
+        "heads": "In compact to diffuse panicles",
+        "involucres": "Grayish to white woolly, 2.5–4+ mm high",
+        "florets": "Genus: minute yellowish-white heads; ray and disk florets, disk florets fertile in the described taxon",
+        "fruits": "Genus: achenes approximately ≤1 mm, pappus absent",
+        "habitat": "Prairies, disturbed places",
+        "phenology": "Oct–Nov"
+      },
+      "source_disagreements": [
+        "Flora's record is specifically subsp. mexicana; do not attribute all varietal characters to species-level A. ludoviciana.",
+        "Older flora claims subsp. ludoviciana absent from TX; modern regional occurrences require independent validation."
+      ],
+      "secondary_sources_checked": [
+        [
+          "Flora of North America",
+          "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416100"
+        ],
+        [
+          "FNA subsp. mexicana",
+          "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068072"
+        ]
+      ],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Baccharis neglecta",
+      "flora_original_name": "Baccharis neglecta Britton",
+      "flora_printed_page": 324,
+      "morphology": {
+        "habit": "Dioecious shrub, 1–3 m",
+        "leaves": "Sessile to shortly petiolate; blades punctate, upper leaves entire and lower entire to serrate, 1-nerved with obscure lateral nerves; key: linear or very narrowly elliptic, generally 2–4(–5) mm wide",
+        "heads": "Dioecious, in paniculate/corymbose clusters; no rays",
+        "involucres": "Female (pistillate) involucres ≤5 mm per key",
+        "fruits": "Achenes ca. 1.2 mm; key says 8–10 ribs; pistillate pappus 7–12 mm",
+        "habitat": "Calcareous soils",
+        "phenology": "Sep–Nov"
+      },
+      "source_disagreements": [
+        "Pistillate plants required for definitive determination per genus treatment; compare B. salicina's 6–8 mm pistillate involucre."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Baccharis salicifolia",
+      "flora_original_name": "Baccharis salicina Torr. & A. Gray",
+      "flora_printed_page": 324,
+      "morphology": {
+        "habit": "Dioecious shrub, 1–3 m",
+        "leaves": "Nearly sessile; serrate, wider blades 3-nerved; key: oblanceolate, 4–8(–15) mm wide",
+        "involucres": "Female (pistillate) involucres 6–8 mm",
+        "heads": "Dioecious, disk-flowered (no rays) per genus",
+        "fruits": "Achenes 1.2–2 mm; pistillate pappus to 12 mm",
+        "habitat": "Alluvial, often sandy or saline soils",
+        "phenology": "Sep–Nov"
+      },
+      "source_disagreements": [
+        "Critical nomenclatural ambiguity: repository Baccharis salicifolia lacks authorship; POWO considers Baccharis salicifolia Nutt. a synonym of B. salicina but also accepts distinct Baccharis salicifolia (Ruiz & Pav.) Pers. Do not automatically equate all 'B. salicifolia' usages. Taxon-concept verification required before applying historic morphology to species card."
+      ],
+      "secondary_sources_checked": [
+        [
+          "POWO B. salicina",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:183706-1"
+        ],
+        [
+          "POWO B. salicifolia (Ruiz & Pav.) Pers.",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:183704-1"
+        ],
+        [
+          "POWO B. salicifolia Nutt.",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:183703-1"
+        ]
+      ],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Berlandiera betonicifolia",
+      "flora_original_name": "Berlandiera betonicifolia (Hook.) Small",
+      "flora_printed_page": 325,
+      "morphology": {
+        "habit": "Weakly suffrutescent perennial, stems to 1 m, can make second flush of flowering shoots after spring",
+        "leaves": "4–15 × 2–6 cm, toothed; stiff-hirsute to scabrous or loosely hairy, not velvety; central stem leaves sessile or short-petiolate; key: ovate to triangular, densely leafy",
+        "heads": "1–several in corymbose clusters; genus: green receptacular bracts and reddish-maroon disk",
+        "rays": "Yellow-orange with green veins on lower surface per genus key; ligules 10.5–17 mm",
+        "fruits": "Achenes 4.5–6 × 3–5 mm; pappus absent or inconspicuous per genus",
+        "habitat": "Sandy soils, post oak woods and relatively open places",
+        "phenology": "Jun–Sep"
+      },
+      "source_disagreements": [
+        "Historic synonym Berlandiera texana DC. noted in flora; FNA instead recognizes Berlandiera ×betonicifolia as hybrid between B. pumila and B. texana. POWO accepts B. betonicifolia. Preserve competing concepts."
+      ],
+      "secondary_sources_checked": [
+        [
+          "Flora of North America hybrid treatment",
+          "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250068087"
+        ],
+        [
+          "POWO accepted name",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:31598-2"
+        ]
+      ],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Berlandiera lyrata",
+      "flora_original_name": "Berlandiera lyrata Benth.",
+      "flora_printed_page": 325,
+      "morphology": {
+        "habit": "Perennial herb, stems to 1.2 m, persistent basal rosette",
+        "leaves": "Crowded near base; velvety; at least some lyrate-pinnatifid per key",
+        "heads": "Genus: corymbose clusters, green receptacular bracts visible in maroon disk",
+        "rays": "Yellow-orange with red/maroon veins on reverse, sometimes entire undersurface maroon; ligules 10–14 mm",
+        "fruits": "Achenes 4.5–6 × 2.7–3.7 mm; pappus absent or inconspicuous per genus",
+        "habitat": "Dry rocky limestone places and roadsides",
+        "phenology": "Nearly throughout growing season"
+      },
+      "source_disagreements": [
+        "Contrast B. betonicifolia: lyrate basal foliage and red-maroon ray undersides rather than densely stem-leafy green-veined rays."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Bidens frondosa",
+      "flora_original_name": "Bidens frondosa L.",
+      "flora_printed_page": 326,
+      "morphology": {
+        "habit": "Annual, 0.2–1.2 m",
+        "leaves": "Opposite per genus; once pinnate/ternate, 3–5 lanceolate serrate segments; petioles 10–60 mm",
+        "heads": "Outer phyllaries 5–10, linear-spatulate and conspicuously ciliate, sometimes 30–50 mm; inner phyllaries 5–7 mm",
+        "rays": "Absent or tiny golden-yellow ligules 2–3.5 mm per key",
+        "discs": "Orange-yellow",
+        "fruits": "Flattened wedge-shaped achenes, each face 1-nerved, 5–8(–10) × 2.5–4 mm; pappus awns 3–4.5 mm, genus typically barbed",
+        "habitat": "Moist places",
+        "phenology": "Sep–Oct"
+      },
+      "source_disagreements": [
+        "FNA fruit characters in existing species record differ by inner versus outer cypsela and possible barb orientation; retain both and do not overwrite detailed existing verification."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Bidens laevis",
+      "flora_original_name": "Bidens laevis (L.) Britton, Sterns & Poggenb.",
+      "flora_printed_page": 326,
+      "morphology": {
+        "habit": "Annual or perennial in regional flora, 0.3–1 m; life-cycle differences against modern FNA need to be tracked",
+        "leaves": "Opposite; sessile, simple, linear-lanceolate or rarely narrow ovate, serrate or nearly entire",
+        "heads": "Outer phyllaries 6–8, linear-lanceolate, usually not longer than head",
+        "rays": "Usually 7–8, sometimes absent; golden yellow occasionally tinged red; 15–30 mm",
+        "discs": "Yellow to orange-yellow per genus",
+        "fruits": "Wedge-shaped achenes 6–9 × ca. 2 mm; pappus 2–4 retrorsely barbed awns 3–5 mm",
+        "habitat": "Wet areas, ponds, streams",
+        "phenology": "Jun–Oct"
+      },
+      "source_disagreements": [
+        "Previously corrected learner gives FNA life cycle as annual sometimes persisting; source accounts differ in framing, retain separately."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    },
+    {
+      "current_name": "Boltonia diffusa",
+      "flora_original_name": "Boltonia diffusa Elliott",
+      "flora_printed_page": 328,
+      "morphology": {
+        "habit": "Nearly glabrous perennial herb 0.2–1(–1.5) m",
+        "leaves": "Alternate, sessile, linear, entire",
+        "stems": "Diffusely branched inflorescence, solitary heads at ends of branches",
+        "involucres": "2–4 mm high, phyllaries in 3 series",
+        "receptacle": "Naked, 3–6 mm wide",
+        "rays": "15–20 pistillate fertile rays, white sometimes pink when dried or lilac, corollas 5–8 mm",
+        "discs": "Perfect fertile yellow florets with corollas 1.5–2 mm",
+        "fruits": "Achenes ca. 1.5 mm, laterally flattened with 2 wings (ray fruits 3 wings); awns <1 mm or absent",
+        "habitat": "Disturbed sites, pond margins and moist sand",
+        "phenology": "Jul–Oct"
+      },
+      "source_disagreements": [
+        "Contrast B. asteroides: ray corollas generally 8–15 mm, receptacles 6–10 mm and pappus awns about 1 mm."
+      ],
+      "secondary_sources_checked": [],
+      "verification_status": "regional_flora_extracted; secondary taxon-concept reconciliation pending"
+    }
+  ]
+}
