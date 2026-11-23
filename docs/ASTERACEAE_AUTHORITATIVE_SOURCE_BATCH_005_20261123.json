@@ -5,7 +5,7 @@
   "date": "2026-11-23",
   "inventory_total": 180,
   "prior_completed": 36,
-  "cumulative_researched": 44,
+  "cumulative_researched": 43,
   "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
   "source_document": "Flora of North Central Texas-Acanth-Euph.pdf",
   "method": "Additive verbatim-provenance-linked paraphrase. No species JSON or photos changed. Only source-extracted species counted.",
@@ -158,9 +158,6 @@
       "diagnostic_or_conflict_notes": [
         "1999 flora explicitly mentions transfer to Conoclinium; no concept conflict in this account."
       ],
-      "review_status": "regional_flora_extracted_secondary_verification_pending"
-    },
-    {
       "review_status": "regional_flora_extracted_secondary_verification_pending"
     }
   ],
