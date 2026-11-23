@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "016",
+  "date": "2026-11-23",
+  "repo": "Crking92/Hays-Botany-Asteraceae",
+  "branch": "staging/asteraceae-metadata",
+  "source": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_page_type": "printed",
+  "inventory_total": 180,
+  "prior_entry_coverage": 150,
+  "added_entries": 6,
+  "cumulative_entry_coverage": 156,
+  "scope": "Additive 1999 flora morphology and documented historical synonyms; preserve old records/photos/attributions; defer BONAP county review.",
+  "records": [
+    {
+      "current_name": "Vernonia baldwinii",
+      "original_flora_name": "Vernonia baldwinii Torr.",
+      "printed_page": 428,
+      "morphology": {
+        "habit": "Clump-forming or rhizomatous perennial, 40–150 cm tall",
+        "leaves": "Alternate, middle blades lanceolate/narrowly ovate 3.7–17 × 2–6 cm; underside sparse pubescence to tomentose with curled hairs",
+        "stems": "Usually curly spreading hairs, sometimes requiring lens",
+        "phyllaries": "Outer smaller; middle have shiny resin glands and acute/acuminate outward-curving or spreading tips",
+        "heads": "Discoid, no rays, generally 9–34 purple tubular florets in 2–6 mm-wide involucres per key",
+        "fruits": "Fine ribbed cypselae; genus has abundant long barbellate pappus bristles plus small outer scales",
+        "habitat": "Open woods and low ground",
+        "phenology": "Jul–Sep"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Resiniferous phyllary glands and curling abaxial leaf hairs differentiate V. baldwinii from V. gigantea sensu 1999 flora."
+      ],
+      "status": "original_1999_flora_extracted_secondary_taxonomy_QA_pending"
+    },
+    {
+      "current_name": "Vernonia lindheimeri",
+      "original_flora_name": "Vernonia lindheimeri A.Gray & Engelm.",
+      "printed_page": 428,
+      "morphology": {
+        "habit": "Clump-forming perennial 25–75 cm",
+        "stems": "Densely gray-woolly stems",
+        "leaves": "Narrowly linear, densely white-woolly abaxial leaf blade, alternate cauline foliage",
+        "phyllaries": "Backs of phyllaries appressed white/gray pubescent",
+        "heads": "Purple discoid flowerheads without ray florets, in clusters per genus",
+        "fruits": "Genus long scabrous pappus plus small scales",
+        "habitat": "Limestone outcrops",
+        "phenology": "Summer"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "The strongly white-woolly leaf undersides and stems are critical photo targets; use against V. baldwinii and hybrid."
+      ],
+      "status": "original_1999_flora_extracted_secondary_taxonomy_QA_pending"
+    },
+    {
+      "current_name": "Vernonia × guadalupensis",
+      "original_flora_name": "Vernonia ×guadalupensis A.Heller",
+      "printed_page": 428,
+      "morphology": {
+        "habit": "Perennial hybrid described from crossing V. baldwinii and V. lindheimeri in historical flora",
+        "leaves": "Undersides gray-green, thinly pubescent to nearly glabrous, versus dense white wool of V. lindheimeri",
+        "phyllaries": "Backs with appressed pubescence similar to V. lindheimeri",
+        "flowers": "Purple disk-only florets and bristly pappus per genus",
+        "habitat": "Historical herbarium specimens noted from Dallas and Bell County"
+      },
+      "historical_synonyms": [
+        "Vernonia ×guadalupensis A.Heller"
+      ],
+      "notes": [
+        "No independent height, flowering period or fruit metrics in historical hybrid account; do not inherit measurements from either parent.",
+        "Hybrid identity requires specimen-context support, not just one intermediate leaf."
+      ],
+      "status": "original_1999_flora_extracted_secondary_taxonomy_QA_pending"
+    },
+    {
+      "current_name": "Viguiera dentata",
+      "original_flora_name": "Viguiera dentata (Cav.) Spreng.",
+      "printed_page": 430,
+      "morphology": {
+        "habit": "Herbaceous perennial",
+        "leaves": "Opposite below, alternate above; ovate or rhombic-ovate with cuneate/truncate bases and serrate edges",
+        "phyllaries": "Three overlapping ranks, hard ovate bases and narrow leafy linear tips",
+        "heads": "10–12 yellow pistillate infertile rays, ligules ~7–15 × 3–7.5 mm",
+        "disks": "Yellow perfect fertile disk florets",
+        "fruits": "Black/mottled appressed-hairy cypselae ~3.5–4 mm; 2 pappus awns 2.2–2.8 mm and four fringed small scales",
+        "habitat": "Calcareous soil",
+        "phenology": "Oct–Nov"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Modern POWO continues to accept Viguiera dentata (Cav.) Spreng.; avoid automatically changing to Aldama dentata, which may represent a different author/concept."
+      ],
+      "status": "original_1999_flora_extracted_secondary_taxonomy_QA_pending"
+    },
+    {
+      "current_name": "Wedelia acapulcensis var. hispida",
+      "original_flora_name": "Wedelia texana (A.Gray) B.L.Turner",
+      "printed_page": 430,
+      "morphology": {
+        "habit": "Small coarse-hairy shrub about 0.5–1 m high (historical Texas taxon concept)",
+        "leaves": "Opposite sessile, narrowly ovate, usually ≥5 cm, tapered base, coarsely toothed or slightly lobed",
+        "heads": "Long-peduncled solitary or groups of three, phyllaries in two series",
+        "rays": "Conspicuous yellow-orange pistillate fertile ligules",
+        "disks": "Yellow-orange tubular fertile florets",
+        "fruits": "Two- or three-angled typically winged cypselae; 2–3 short pappus awns with short hyaline scales",
+        "habitat": "Calcareous rocky soils",
+        "phenology": "Apr–Nov"
+      },
+      "historical_synonyms": [
+        "Wedelia texana (A.Gray) B.L.Turner",
+        "Zexmenia texana A.Gray"
+      ],
+      "notes": [
+        "Historical 1999 flora explicitly states older usage W. acapulcensis var. hispida 'of authors, not (Kunth) Strother'. This conflicts with modern Kew/ITIS placing W. texana as synonym of W. acapulcensis var. hispida. Taxonomic concept reconciliation needed.",
+        "Crosswalk supported by https://powo.science.kew.org/taxon/967065-1 and https://itis.gov/servlet/SingleRpt/SingleRpt?print_version=PRT&search_topic=TSN&search_value=780980&source=to_print; use local UT description for modern variety-specific details."
+      ],
+      "status": "regional_flora_source_extracted_taxon_concept_conflict_with_modern_Kew"
+    },
+    {
+      "current_name": "Xanthium strumarium",
+      "original_flora_name": "Xanthium strumarium L. var. canadense (Mill.) Torr. & A.Gray",
+      "printed_page": 432,
+      "morphology": {
+        "habit": "Coarse monoecious taprooted annual usually 0.4–2 m",
+        "leaves": "Alternate, rough-textured, ovate/deltoid/kidney-shaped to 15 cm long, toothed/shallow lobed, truncate or heart-shaped bases, petioles up to 15 cm; no nodal spines",
+        "male_heads": "Small staminate heads, separate phyllaries, 5 free anthers",
+        "female_heads": "Axillary fertile heads with phyllaries fused to form prickly burr enclosing two flowers without corollas",
+        "fruit": "Each burr contains two cypselae; mature burr ~ (1–)2–3+ cm long × ~1.5 cm across, two terminal beaks and numerous ~5 mm hooked prickles",
+        "habitat": "Moist disturbed ground and sandy soils",
+        "phenology": "Fruits Jul–Nov"
+      },
+      "historical_synonyms": [
+        "Xanthium italicum Moretti [historic var. canadense synonym]"
+      ],
+      "notes": [
+        "The 1999 flora explicitly warns X. strumarium is extremely variable and its infraspecific divisions uncertain.",
+        "Do not project var. canadense measurements across all current broad species without source review.",
+        "Seeds and seedlings can be toxic to livestock; avoid safety claims from photos alone."
+      ],
+      "status": "original_1999_flora_extracted_secondary_taxonomy_QA_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Wedelia acapulcensis",
+      "reason": "Modern broad species record needs separate FNA/POWO/field account; do not assume historic W. texana describes all varieties."
+    },
+    {
+      "name": "Wedelia acapulcensis var. hispida",
+      "reason": "1999 author says W. texana not identical to usages of var. hispida, but current Kew/ITIS synonymize; reconcile author-concept before changing learner."
+    }
+  ]
+}
