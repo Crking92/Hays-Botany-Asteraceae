@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "009",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Asteraceae",
+  "reference": "Diggs, Lipscomb & O'Kennon 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "pdf": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_pages": "printed",
+  "inventory_entries": 180,
+  "prior_researched_entries": 73,
+  "added_entries": 12,
+  "cumulative_researched_entries": 85,
+  "cumulative_unique_species_estimate": 84,
+  "footnote": "One infraspecific inventory entry (Hymenopappus scabiosaeus var. corymbosus) is counted as an inventory entry, not as a separate biological species.",
+  "records": [
+    {
+      "current_name": "Gutierrezia texana",
+      "flora_name": 365,
+      "printed_flora_page": "Guterrezia texana (DC.) Torr. & A. Gray",
+      "morphology": {
+        "habit": "Annual as part of the nonwoody broad Gutierrezia group; 0.1–0.8 m tall, much-branched above",
+        "leaves": "Alternate, essentially sessile and linear, 0.6–2(–5) mm wide",
+        "heads": "Campanulate radiate heads with 10–15 ray florets (species account), yellow rays and disks",
+        "involucres": "About 2.5–4 mm long",
+        "reproductive": "Disk florets fertile and producing cypselae; disk pappus of several short acute scales, ray pappus inconspicuous/absent (genus key); 7–13 disk florets in key",
+        "fruits": "Cypselae puberulent with short purple hairs, fruit body visible (genus key)",
+        "habitat": "Disturbed areas",
+        "phenology": "Jul–Nov"
+      },
+      "historical_names": [
+        "Xanthocephalum texanum (DC.) Shinners"
+      ],
+      "issues": [
+        "Original flora spells genus Guterrezia in one species paragraph but Gutierrezia in section heading: record spelling variation, not alternate taxon.",
+        "FNA recorded ray counts can differ among infraspecific concepts; avoid imposing one universal count."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Helenium amarum",
+      "flora_name": 366,
+      "printed_flora_page": "Helenium amarum (Raf.) H.Rock",
+      "morphology": {
+        "habit": "Taprooted annual 10–85 cm; stems not winged by decurrent leaves",
+        "leaves": "Alternate, linear or threadlike mostly <2 mm wide; lowermost sometimes pinnatifid",
+        "heads": "Usually globose yellow disks, about 10 yellow rays, ligules 5–10 mm",
+        "pappus": "5–7 awn-tipped scales (genus treatment)",
+        "variety_key": "var. amarum disk lobes yellow to yellow-brown, basal leaves often withered; var. badium disk lobes reddish brown/purplish, basal leaves often remaining and pinnatifid",
+        "habitat": "Open woods, pastures, fields, disturbed areas",
+        "phenology": "var. amarum May–Nov, var. badium Apr–Jul with occasional later flowering"
+      },
+      "historical_names": [
+        "Helenium tenuifolium Nutt. (var. amarum)",
+        "Helenium badium (A.Gray) Greene (var. badium)"
+      ],
+      "issues": [
+        "Do not infer leaf-base decurrence from mere ridged stems; original key explicitly says unwinged."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Helenium autumnale",
+      "flora_name": 366,
+      "printed_flora_page": "Helenium autumnale L.",
+      "morphology": {
+        "habit": "Fibrous-rooted perennial from weakly rhizomatous base, stems 1(–2) m",
+        "leaves": "Alternate, linear-elliptic; blades >2 mm wide and decurrent onto winged stems",
+        "heads": "Yellow rays ~20, up to 15 mm long; yellow disks (genus key)",
+        "pappus": "Genus 5–7 scales with awn-like tips",
+        "habitat": "Low, moist, calcareous ground",
+        "phenology": "Aug–Oct"
+      },
+      "historical_names": [],
+      "issues": [
+        "Species-specific numeric involucre diameter not in 1999 treatment; do not import FNA dimensions without another source check.",
+        "Contrast annual winged H. elegans and unwinged H. amarum."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Helenium elegans",
+      "flora_name": 368,
+      "printed_flora_page": "Helenium elegans DC.",
+      "morphology": {
+        "habit": "Taprooted annual 20–120 cm",
+        "leaves": "Alternate linear to narrow elliptic/lanceolate; decurrent stem wings; upper leaves much reduced, linear and entire",
+        "heads": "Pedunculate above foliage; yellow rays sometimes red-brown blotched at base",
+        "rays": "Ligules 3–11.5 mm (genus key)",
+        "discs": "Disk-corolla lobes reddish or yellowish-brown according to genus key",
+        "pappus": "Genus 5–7 awn-tipped scales",
+        "habitat": "Gravelly stream bottoms or limestone seep slopes",
+        "phenology": "May–Jul"
+      },
+      "historical_names": [],
+      "issues": [
+        "Compare H. autumnale, perennial with both ray and disk corollas yellow; H. elegans is an annual.",
+        "Compare H. microcephalum with shorter rays 2–3(–5) mm and less-reduced upper leaves."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Helianthus annuus",
+      "flora_name": 369,
+      "printed_flora_page": "Helianthus annuus L.",
+      "morphology": {
+        "habit": "Taprooted annual, height from about 10 cm to 4 m (variable wild and cultivated forms)",
+        "leaves": "Lower leaves opposite, most alternate; triangular-ovate to ovate-lanceolate blades, truncate/cordate bases; large leaves 10–30 cm wide per key",
+        "stems": "Peduncles with spreading hairs (key)",
+        "phyllaries": "Conspicuously ciliate, 4–7(–10) mm wide, tip abruptly contracted (key)",
+        "rays": "Deep yellow, pistillate but infertile per genus treatment",
+        "discs": "Brown-red, occasionally dark yellow; perfect and fertile",
+        "fruit": "Disk-derived glabrous or pubescent cypselae; genus has readily shed pair of pappus awns",
+        "habitat": "Stream bottoms, roadsides, disturbed areas",
+        "phenology": "May–Oct"
+      },
+      "historical_names": [
+        "Helianthus annuus subsp. lenticularis (Douglas ex Lindl.) Cockerell",
+        "Helianthus annuus subsp. texanus Heiser"
+      ],
+      "issues": [
+        "Contrast H. maximiliani perennial colonies with long folded narrow sessile leaves; avoid using head size alone."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Helianthus maximiliani",
+      "flora_name": 370,
+      "printed_flora_page": "Helianthus maximiliani Schrad.",
+      "morphology": {
+        "habit": "Colonial perennial 0.3–3 m",
+        "leaves": "Alternate, without distinct petiole; relatively broad 20–60(–90) mm in key, narrowly elliptic, often conspicuously lengthwise-folded and sickle-shaped",
+        "heads": "Few to numerous in racemose/spike-like upper-stem array",
+        "rays": "Yellow ligules about (15–)25–35(–40) mm, pistillate infertile (genus)",
+        "discs": "Yellow, perfect and fertile",
+        "fruit": "Disk-derived cypsela 3–4 mm; genus has readily detached two-awned pappus",
+        "habitat": "Low moist areas, prairies, roadsides",
+        "phenology": "Mostly Sep–Oct"
+      },
+      "historical_names": [],
+      "issues": [
+        "Flora describes leaf blade widths broader than some field summaries; preserve original printed-key figures without overriding other references.",
+        "Contrast sessile conduplicate blades against broad distinctly petiolate H. annuus."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Heterotheca canescens",
+      "flora_name": 372,
+      "printed_flora_page": "Heterotheca canescens (DC.) Shinners",
+      "morphology": {
+        "habit": "Woody-based perennial 15–60 cm, many stems in older plants",
+        "leaves": "Alternate, crowded and entire; soft dense gray pubescence, non-glandular or nearly so; flowering-branch blades oblanceolate, roughly 3–5× as long as wide",
+        "heads": "Yellow-rayed golden-aster heads; ligules 6–8 mm, yellow disk flowers",
+        "phyllaries": "Unequal-length ranks per genus",
+        "pappus": "Genus ray pappus present, disk pappus long scabrous bristles plus short outer scales",
+        "habitat": "Sandy/gravelly prairies and rock outcrops",
+        "phenology": "Jun–Oct"
+      },
+      "historical_names": [
+        "Chrysopsis canescens (DC.) Torr. & A.Gray"
+      ],
+      "issues": [
+        "Contrast H. stenophylla resin-dotted green linear leaves with swollen-based stiff hairs."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Heterotheca stenophylla",
+      "flora_name": 372,
+      "printed_flora_page": "Heterotheca stenophylla (A.Gray) Shinners",
+      "morphology": {
+        "habit": "Woody-based perennial 10–40 cm",
+        "leaves": "Green, conspicuously resin-glandular, stiffly hairy with swollen hair bases; linear to narrow oblanceolate, about 8–15× as long as wide",
+        "heads": "Yellow ray ligules ca. 10 mm with yellow disks (species/genus)",
+        "pappus": "Genus ray pappus present; long scabrous bristles in disks",
+        "habitat": "Sandy soils in western part of regional flora",
+        "phenology": "Jun–Oct"
+      },
+      "historical_names": [
+        "Chrysopsis villosa var. stenophylla (A.Gray) A.Gray"
+      ],
+      "issues": [
+        "Leaf hair-base swellings require hand lens; plant color alone insufficient."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Heterotheca subaxillaris",
+      "flora_name": 372,
+      "printed_flora_page": "Heterotheca subaxillaris (Lam.) Britton & Rusby",
+      "morphology": {
+        "habit": "Strongly camphor-scented glandular-pilose taprooted annual or biennial 20–200 cm",
+        "leaves": "Alternate; mid/upper blades ovate, clasping or partly clasping; spring plants with coarse-toothed petiolate basal leaves, fall plants often much taller with upper auriculate-clasping foliage",
+        "heads": "Numerous yellow-rayed heads; yellow disks",
+        "rays": "Ligules about 5 mm",
+        "phyllaries": "Multiple imbricate ranks, slender (genus)",
+        "fruit": "Ray pappus absent per species branch of 1999 key",
+        "habitat": "Sand/rocky open woods, fields, roadsides",
+        "phenology": "Apr–Oct"
+      },
+      "historical_names": [
+        "Heterotheca latifolia Buckley",
+        "Heterotheca subaxillaris var. latifolia (Buckley) Gandhi & R.D.Thomas"
+      ],
+      "issues": [
+        "Flora explicitly differentiates spring and summer/fall morphological forms; do not assume all leaf sizes correspond to distinct taxa."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Hymenopappus artemisiifolius",
+      "flora_name": 374,
+      "printed_flora_page": "Hymenopappus artemisiifolius DC.",
+      "morphology": {
+        "habit": "Biennial (genus), 0.4–1.3 m",
+        "leaves": "Alternate, basal rosette plus stem leaves; basal blades coarsely once-pinnate to simple, segments 6–30 mm, often woolly below",
+        "heads": "Corymbiform discoid heads, no rays",
+        "phyllaries": "Petaloid tips, 6–12 × 3–7 mm, white or red-tinged",
+        "discs": "Corollas reddish-tinged, rarely entirely white, 3.5–5 mm",
+        "fruit": "Obconical 4-angled pubescent cypsela; pappus 14–18 hyaline scales ≤1.5(–2) mm (genus)",
+        "habitat": "Mainly sandy open woods and disturbed places",
+        "phenology": "Apr–Jun"
+      },
+      "historical_names": [
+        "Hymenopappus scabiosaeus var. artemisiifolius (DC.) Gandhi & R.D.Thomas"
+      ],
+      "issues": [
+        "Compare narrow ≤2–8 mm segments of H. scabiosaeus; habitat supplementary, not absolute."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Hymenopappus tenuifolius",
+      "flora_name": 375,
+      "printed_flora_page": "Hymenopappus tenuifolius Pursh",
+      "morphology": {
+        "habit": "Biennial herb per genus, 0.4–1.5 m",
+        "leaves": "Basal finely divided into slender linear/threadlike ultimate segments ≤1.5 mm wide; white woolly below possible",
+        "heads": "Corymbose discoid clusters, no ray florets",
+        "phyllaries": "Petaloid tips, 5–8 × 2–4 mm, last 1–2 mm yellowish",
+        "discs": "White corollas 2–3 mm to lobe tip; corolla tube 1.5–2(–2.2) mm per key",
+        "fruit": "4-angled pubescent cypselae, 14–18 hyaline pappus scales (genus)",
+        "habitat": "Gravelly prairie, limestone outcrops, some sand",
+        "phenology": "May–Jul"
+      },
+      "historical_names": [],
+      "issues": [
+        "A useful separation from H. artemisiifolius and H. scabiosaeus is segment width and short corolla length."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    },
+    {
+      "current_name": "Hymenopappus scabiosaeus var. corymbosus",
+      "flora_name": 374,
+      "printed_flora_page": "Hymenopappus scabiosaeus L'Hér. var. corymbosus (Torr. & A.Gray) B.L.Turner",
+      "morphology": {
+        "habit": "Biennial herb 0.4–1 m (variety description and genus)",
+        "leaves": "Basal once-pinnate to bipinnate, ultimate segments 2–8 mm wide, finely divided; alternate cauline leaves",
+        "heads": "Discoid heads in corymbose group, rays absent",
+        "phyllaries": "5–9 × 2–4 mm with white/yellowish petaloid 2–4 mm apical portions",
+        "discs": "Cream/white corollas 3–4 mm",
+        "fruit": "Obconical four-angled pubescent cypselae with 14–18 hyaline pappus scales (genus)",
+        "habitat": "Prairie, open woods, roadsides",
+        "phenology": "Apr–May"
+      },
+      "historical_names": [],
+      "issues": [
+        "Explicit infraspecific treatment: don't copy to all H. scabiosaeus until accepted-rank concept reviewed.",
+        "Repository also lists H. scabiosaeus at species level; avoid duplicate-counting this variety as wholly separate biological species."
+      ],
+      "review_status": "1999_regional_species_and_key_extracted_secondary_taxonomy_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Helenium quadridentatum",
+      "reason": "No 1999 species treatment here; needs FNA."
+    },
+    {
+      "name": "Gymnosperma glutinosum",
+      "reason": "No 1999 species treatment here; needs FNA or Texas southwestern flora."
+    },
+    {
+      "name": "Gaillardia amblyodon",
+      "reason": "Historical name and morphology unverified in 1999 volume, remains hold."
+    }
+  ]
+}
