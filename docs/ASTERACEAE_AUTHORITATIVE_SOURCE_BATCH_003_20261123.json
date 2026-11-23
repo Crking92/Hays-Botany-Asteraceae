@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "collection_id": "asteraceae",
+  "batch": "003",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_completed": 17,
+  "cumulative_completed": 26,
+  "source_policy": "Original species.json and photo records untouched. Historical flora species treatment recorded only if actually present; FNA separately attributed. County nativity excluded.",
+  "references": [
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "pdf_page_conversion": "leaf number = printed page -209",
+      "note": "Printed pages as cited in per-taxon records"
+    },
+    {
+      "source": "Flora of North America Editorial Committee",
+      "url": "https://www.efloras.org/flora_page.aspx?flora_id=1"
+    },
+    {
+      "source": "Kew POWO",
+      "url": "https://powo.science.kew.org/"
+    }
+  ],
+  "records": [
+    {
+      "current_name": "Acourtia runcinata",
+      "historical_names": [
+        "Clarionia runcinata Lag. ex D.Don",
+        "Perezia runcinata"
+      ],
+      "regional_flora": null,
+      "flora_of_north_america": {
+        "page": "72–74",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066007",
+        "morphology": {
+          "habit": "Perennial 5–35 cm, scapiform peduncles, rosette leaves",
+          "roots": "Fasciculate tuberous-fusiform roots",
+          "leaves": "Basal, petioles 0.5–9 cm, blades oblong-oblanceolate 2.5–23 cm, pinnately lobed and spinulose-dentate, hirtellous/stipitate-glandular",
+          "heads": "Single or 2–3 on scapes",
+          "involucres": "Turbinate, 14–17 mm; phyllaries 2–4 series, lanceolate to subulate, 3–15 mm",
+          "receptacle": "Reticulate, hispidulous",
+          "florets": "25–53 bisexual quasi-radiate two-lipped corollas, pink to lavender-pink, 12–22 mm",
+          "fruits": "Cypselae 4–8 mm, glandular and/or hispidulous, pappus 1–17 mm tan or white",
+          "habitat": "Juniper woodland, oak woodland, calcareous, sandy clay or gypsiferous soils",
+          "phenology": "Year-round, mostly Mar–Aug"
+        }
+      },
+      "open_issues": [
+        "No matching species account identified in the 1999 regional flora; do not invent a flora page.",
+        "FNA describes quasi-radiate/bilabiate florets, not conventional distinct ray and disc florets."
+      ],
+      "verification_status": "fna_extracted_regional_species_account_absent"
+    },
+    {
+      "current_name": "Acourtia wrightii",
+      "historical_names": [
+        "Perezia wrightii A.Gray"
+      ],
+      "regional_flora": null,
+      "flora_of_north_america": {
+        "page": "72–74",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066009",
+        "morphology": {
+          "habit": "Perennial 30–120 cm; leafy stems",
+          "leaves": "Cauline, sessile, oblong-lanceolate to elliptic-oblong blades 2.5–13 cm, sagittate/clasping bases, dentate to denticulate margins, minutely glandular or hairy",
+          "heads": "Corymbiform arrays",
+          "involucres": "Turbinate 5–8 mm; 2–3 phyllary series, apices obtuse to acute",
+          "receptacle": "Reticulate, glandular socket margins",
+          "florets": "8–12 pink or purple, corollas 9–20 mm, bilabiate within genus Acourtia",
+          "fruits": "Linear-fusiform cypselae 2–6 mm, glandular-puberulent; white pappus 9–12 mm",
+          "habitat": "Gravel, caliche or sandy-loamy open desert",
+          "phenology": "Jun–Nov"
+        }
+      },
+      "open_issues": [
+        "No matching species account identified in 1999 regional flora.",
+        "Species is not a normal ray-and-disc daisy; document quasi-radiate bilabiate heads."
+      ],
+      "verification_status": "fna_extracted_regional_species_account_absent"
+    },
+    {
+      "current_name": "Ageratina altissima",
+      "historical_names": [
+        "Eupatorium rugosum Houtt. [flora taxon]",
+        "Ageratum altissimum L. [FNA basionym]"
+      ],
+      "regional_flora": {
+        "page": 354,
+        "original": "Eupatorium rugosum Houtt.",
+        "morphology": {
+          "habit": "Perennial from fibrous crown",
+          "leaves": "Opposite, deltate-ovate to lance-ovate, petioles ca. 1/3 leaf blade length",
+          "heads": "Corymbose per broad Eupatorium generic treatment; ray florets absent",
+          "involucres": "4–5 mm, phyllaries mostly similar-sized, scarcely hairy",
+          "corollas": "White, corolla lobes dorsally pubescent",
+          "fruit": "Blackish, 5-ribbed achenes and persistent pappus bristles per generic treatment",
+          "habitat": "Low woods",
+          "phenology": "Sep–Nov"
+        }
+      },
+      "flora_of_north_america": {
+        "page": "548–551",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066013",
+        "morphology": {
+          "habit": "Perennial (30–)50–80(–120) cm, fibrous crown, occasionally rhizomatous",
+          "stems": "Ascending to erect, crisped minute puberulence",
+          "leaves": "Opposite, petioles (5–)10–30(–50) mm; blades 4–11(–13) × 2.5–8(–9) cm, doubly incised-serrate",
+          "heads": "Clustered, peduncles 1–5 mm",
+          "involucres": "4–5 mm",
+          "corollas": "White, lobes sparsely short-villous",
+          "fruits": "Cypselae glabrous"
+        }
+      },
+      "open_issues": [
+        "Eupatorium rugosum is NOT Eupatorium altissimum: the latter is an unrelated distinct entry on p.353.",
+        "FNA gives mostly fibrous crowns, sometimes rhizomes; existing record's rhizomatous habit should not be categorical.",
+        "Glabrous mature cypselae separate this from hispid A. havanensis."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Ageratina havanensis",
+      "historical_names": [
+        "Eupatorium havanense Kunth",
+        "Eupatorium texense (Torr. & A.Gray) Rydb."
+      ],
+      "regional_flora": {
+        "page": "353–354",
+        "original": "Eupatorium havanense Kunth",
+        "morphology": {
+          "habit": "Rounded much-branched shrub (0.3–)0.6–1.5(–2) m",
+          "leaves": "Opposite, deltoid, (2–)3–5(–7) cm long; petioles 3–10(–15) mm",
+          "heads": "Corymbose per broad Eupatorium genus treatment",
+          "phyllaries": "Linear; involucres 4–6 mm",
+          "corollas": "Pinkish-white to white, no rays",
+          "fruits": "Generic Eupatorium: 5-ribbed achenes and pappus bristles",
+          "habitat": "Rocky limestone areas",
+          "phenology": "(Sep–)Oct–Nov"
+        }
+      },
+      "flora_of_north_america": {
+        "page": "548,552",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066014",
+        "morphology": {
+          "habit": "Evergreen/persistent-leaved shrub, (30–)69–150(–200) cm",
+          "stems": "Erect brittle, glabrous or puberulent",
+          "leaves": "Opposite persistent, petioles 3–10(–15) mm; blades (2–)3–5(–8) × 2–5 cm, deltate to broadly ovate or hastate, dentate, nearly hairless, not gland-dotted",
+          "heads": "Clustered; peduncles 2–14 mm",
+          "involucres": "4–6 mm; phyllary tips acute",
+          "corollas": "White to slightly pink, glabrous",
+          "fruits": "Hispid cypselae",
+          "habitat": "Limestone bluffs, slopes and stream ledges in oak-juniper woodland",
+          "phenology": "Mostly (Sep–)Oct–Nov(–Dec); sometimes Apr–Jul"
+        }
+      },
+      "open_issues": [
+        "FNA's hispid cypselae contrast A. altissima's glabrous ones.",
+        "Evergreen leaf persistence FNA documented, not present in older flora account."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Amphiachyris amoena",
+      "historical_names": [
+        "Gutierrezia amoena (Shinners) Diggs, Lipscomb & O'Kennon",
+        "Xanthocephalum amoenum Shinners"
+      ],
+      "regional_flora": {
+        "page": 364,
+        "original": "Gutierrezia amoena (Shinners) Diggs, Lipscomb & O'Kennon",
+        "morphology": {
+          "habit": "Taprooted broomy annual, 30–40(–60) cm per key; primary stem usually ≤5 mm diam.",
+          "leaves": "Alternate sessile; linear (rarely narrowly lanceolate) 0.5–2.5(–3.5) cm × 0.2–1(–2) mm",
+          "heads": "Small radiate heads scattered in open panicles",
+          "phyllaries": "To 3–4 × 1–2 mm",
+          "receptacle": "Hooked swollen-based hairs",
+          "rays": "7–15 yellow per genus key; pistillate",
+          "discs": "Functionally staminate, non-fruiting; pappus of long basally united spatulate scales",
+          "fruits": "Dark purple-black cypselae 2–3 mm, 4–6 greenish stripes/ribs, long-setulose",
+          "habitat": "Calcareous soil near limestone outcrops",
+          "phenology": "Late Sep–Oct"
+        }
+      },
+      "flora_of_north_america": {
+        "page": "87–89",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=101427",
+        "morphology": {
+          "habit": "20–40(–60) cm annual",
+          "leaves": "Blades 0.2–1(–2) mm wide",
+          "heads": "Open paniculiform heads, ray florets 7–12, disc florets 10–21 per genus",
+          "receptacle": "Hooked swollen-based hairs",
+          "fruits": "Cypselae 4–6-ribbed, long-setulose"
+        }
+      },
+      "open_issues": [
+        "Diggs explicitly named Gutierrezia amoena as a new combination; FNA re-separates Amphiachyris.",
+        "Important source-level ray count disagreement: Diggs generic key 7–15, FNA 7–12. Preserve both."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Amphiachyris dracunculoides",
+      "historical_names": [
+        "Gutierrezia dracunculoides (DC.) S.F.Blake",
+        "Brachyris dracunculoides DC.",
+        "Xanthocephalum dracunculoides (DC.) Shinners"
+      ],
+      "regional_flora": {
+        "page": 364,
+        "original": "Gutierrezia dracunculoides (DC.) S.F.Blake",
+        "morphology": {
+          "habit": "Taprooted broomy annual 30–100+ cm; main stem 0.3–1(–2) cm diam.",
+          "leaves": "Alternate sessile, narrowly to broadly lanceolate 0.5–6 cm × 0.5–6 mm",
+          "heads": "Radiate heads densely corymbose",
+          "phyllaries": "2–3 × 1–2 mm",
+          "rays": "7–15 yellow, pistillate per genus key",
+          "discs": "Functionally staminate, not setting fruits, with long joined spatulate pappus scales",
+          "receptacle": "Glabrous",
+          "fruits": "Purple-black 1.2–2.2 mm cypselae, 7–9 greenish ribs, short-setulose",
+          "habitat": "Calcareous/clay/sandy disturbed areas, often overgrazed",
+          "phenology": "Jul–Nov"
+        }
+      },
+      "flora_of_north_america": {
+        "page": "86–88",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220000600",
+        "morphology": {
+          "habit": "Annual 30–100(–200) cm",
+          "leaves": "5–60 × 0.5–6 mm",
+          "heads": "Crowded corymbiform arrays",
+          "phyllaries": "2–3 × 1–2 mm",
+          "receptacle": "Deeply pitted, glabrous",
+          "fruits": "Cypselae 1.2–2.2 mm, 7–9 ribs, short-setulose",
+          "phenology": "Jul–Nov"
+        }
+      },
+      "open_issues": [
+        "Regional name Gutierrezia, FNA Amphiachyris: same taxon, different genus concept.",
+        "FNA lists source distribution without Texas in one rendering; regional flora explicitly says widespread Texas. Flag distribution display mismatch, keep out of BONAP nativity dataset."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Artemisia tridentata",
+      "historical_names": [
+        "Seriphidium tridentatum (Nutt.) W.A.Weber"
+      ],
+      "regional_flora": null,
+      "flora_of_north_america": {
+        "page": "510–516",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066171",
+        "morphology": {
+          "habit": "Aromatic woody shrub 40–200(–300) cm; does not root-sprout; trunk relatively thick",
+          "stems": "Gray-brown, bark exfoliating in strips",
+          "leaves": "Persistent, gray-green; blades (0.4–)0.5–3.5 × 0.1–0.7 cm, cuneate and commonly three rounded lobes, densely hairy",
+          "heads": "Small discoid heads in upright paniculiform arrays 5–30 × 1–6 cm",
+          "involucres": "Lanceolate (1–)1.5–4 × 1–3 mm",
+          "phyllaries": "Oblanceolate to widely obovate, densely tomentose",
+          "florets": "3–8, pale corollas 1.5–2.5 mm, glabrous",
+          "fruits": "Cypselae 1–2 mm hairy or glabrous, glandular; pappus absent per subgenus",
+          "roots": "Woody caudex, rhizomes absent per subgenus"
+        }
+      },
+      "open_issues": [
+        "1999 flora mentions this species in Artemisia genus overview but does not give a regional species treatment. Do not cite a Diggs species page.",
+        "POWO lists native distribution in western North America, omitting Texas; therefore target-county nativity cannot be assumed.",
+        "Subspecies boundaries remain disputed in FNA."
+      ],
+      "verification_status": "fna_extracted_regional_species_account_absent"
+    },
+    {
+      "current_name": "Brickellia cylindracea",
+      "historical_names": [
+        "Brickellia cylindracea A.Gray & Engelm."
+      ],
+      "regional_flora": {
+        "page": "328–329",
+        "original": "Brickellia cylindracea A.Gray & Engelm.",
+        "morphology": {
+          "habit": "Woody-based perennial herb/small shrub to 1.2 m",
+          "leaves": "Sessile or petioles 1–3(–5) mm; blades lanceolate to ovate, usually coriaceous, crenate/serrate",
+          "heads": "Elongate racemose/paniculate, with leafy bracts; rays absent",
+          "involucres": "Reddish tinged; outer phyllaries much shorter than inner",
+          "discs": "Yellowish cream",
+          "fruits": "Generic: 10-ribbed cylindrical cypselae; ~30–35 white/nearly white pappus bristles, nonplumose",
+          "habitat": "Rocky limestone and other sites",
+          "phenology": "Aug–Nov"
+        }
+      },
+      "open_issues": [
+        "Existing learner says leaves often opposite and densely tomentose beneath, whereas regional flora generic heading says alternate or opposite but species treatment does not resolve arrangement. Preserve, crosscheck FNA."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    },
+    {
+      "current_name": "Brickellia eupatorioides",
+      "historical_names": [
+        "Kuhnia eupatorioides L."
+      ],
+      "regional_flora": {
+        "page": 329,
+        "original": "Brickellia eupatorioides (L.) Shinners",
+        "morphology": {
+          "habit": "Perennial herb 0.4–1.3 m from woody taproot",
+          "leaves": "Lanceolate to rhombic-lanceolate, entire to serrate, petioles to 1 cm",
+          "heads": "Approximately corymbose with distinctive plumose pappus; ray florets absent",
+          "discs": "Cream to yellowish cream",
+          "fruits": "10–20 brownish to white plumose pappus bristles; generic 10-ribbed cypselae",
+          "habitat": "Var. corymbulosa/eupatorioides sandy woods; var. texana calcareous prairie",
+          "phenology": "Aug–Nov",
+          "variety_key": "var. corymbulosa: 8.7–15 mm involucres, 14–35 florets; var. eupatorioides: 7–11 mm involucres, 6–15 florets; var. texana: outer/mid phyllaries ≥3/4 as long as inner with twisted/sickle-like tips"
+        }
+      },
+      "open_issues": [
+        "Historic subspecies/variety delimitations apply only to keyed infraspecific taxa; do not ascribe to unidentified species-level photographs."
+      ],
+      "verification_status": "regional_and_fna_extract_confirmed_taxonomic_review_pending"
+    }
+  ]
+}
