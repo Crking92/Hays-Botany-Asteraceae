@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "017",
+  "date": "2026-11-23",
+  "inventory_total": 180,
+  "prior_extracted": 156,
+  "new_extracted": 6,
+  "cumulative_extracted": 162,
+  "source_method": "Modern FNA genus/species treatments and regional secondary floras; all evidence scope and incomplete traits recorded explicitly; 1999 flora has no direct treatment for these taxa.",
+  "records": [
+    {
+      "current_name": "Carphochaete bigelovii",
+      "sources": [
+        {
+          "reference": "Flora of North America, Carphochaete genus treatment (D. J. Keil), vol. 21 pp. 460, 486",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=105700",
+          "evidence_scope": "genus circumscription; only USA species in treatment"
+        },
+        {
+          "reference": "Texas Wild Buds, Carphochaete bigelovii species description",
+          "url": "https://texaswildbuds.com/carphochaete-bigelovii.html",
+          "evidence_scope": "secondary species account; details provisional"
+        }
+      ],
+      "morphology": {
+        "habit": "Woody-based subshrub, typically erect and branched; genus (8–)20–45(–120+) cm with greater extremes across wider genus",
+        "leaves": "Opposite (occasional alternate in genus), sessile narrow elliptic/oblanceolate to linear, 1–3-nerved and conspicuously gland-pitted",
+        "heads": "Discoid, often single or paired, with approximately 3–6 white/pinkish-purple florets in cylindrical involucres",
+        "phyllaries": "About 8–12+ overlapping bracts in 3–4+ series (genus)",
+        "fruit": "Cypselae 8–10-ribbed with long aristate pappus scales; genus also can have shorter scales"
+      },
+      "issues": [
+        "Species-specific phyllary and pappus measurements not verified from full FNA species account; exclude genus-wide ranges from species diagnosis.",
+        "Potential location/identity concern: do not use as evidence of Hays County occurrence."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    },
+    {
+      "current_name": "Ericameria nauseosa",
+      "sources": [
+        {
+          "reference": "Flora of North America, Ericameria nauseosa species and key",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066527",
+          "evidence_scope": "species and variety key"
+        },
+        {
+          "reference": "USFS Fire Effects Information System, Ericameria nauseosa",
+          "url": "https://research.fs.usda.gov/feis/species-reviews/erinau",
+          "evidence_scope": "species ecological/morphological variability"
+        },
+        {
+          "reference": "National Park Service, Trees and Shrubs field account",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo136141/pdf/GOVPUB-I29-PURL-gpo136141.pdf",
+          "evidence_scope": "complementary diagnostic morphology"
+        }
+      ],
+      "morphology": {
+        "habit": "Woody rubber rabbitbrush shrub/subshrub; FNA recognizes numerous variable forms",
+        "leaves": "Alternate very narrow mostly single-veined blades, commonly tomentose and/or resin-gland dotted; size, hairiness and color vary strikingly among varieties",
+        "heads": "Many small yellow discoid heads clustered at stem ends; approximately five disk florets per head in FNA key",
+        "involucres": "About 6–14 mm high in NPS field account; often cylindric and phyllaries aligned in vertical rows",
+        "fruit": "Asteraceae ribbed cypsela and capillary bristle pappus; precise species measurements unverified"
+      },
+      "issues": [
+        "Do not assign one infraspecific leaf width or pubescence condition to all E. nauseosa.",
+        "Texas nativity and Hays-target status remain unverified."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    },
+    {
+      "current_name": "Eriophyllum lanatum",
+      "sources": [
+        {
+          "reference": "Flora of North America, Eriophyllum lanatum species treatment",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066710",
+          "evidence_scope": "broad species treatment and varieties"
+        },
+        {
+          "reference": "Burke Herbarium, Eriophyllum lanatum",
+          "url": "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Eriophyllum+lanatum",
+          "evidence_scope": "species morphology and floristic notes"
+        }
+      ],
+      "morphology": {
+        "habit": "Perennial herb or subshrub commonly 10–100 cm; sometimes flowers in first year",
+        "leaves": "Alternate at least proximally; variable entire or lobed, conspicuously woolly underside in many forms; substantial varietal variation",
+        "heads": "Yellow radiate heads single or in small clusters of 2–5 or more; FNA key reports ray flowers 0 or 5–13(–15)",
+        "involucres": "6–15 mm diameter across broad species key, not a variety diagnosis",
+        "fruit": "Cypselae with reduced pappus scales/crown, detailed measurements need specific variety"
+      },
+      "issues": [
+        "Western species complex with ten FNA varieties; do not derive local Texas eligibility from this broad treatment.",
+        "Species-level source broad, subspecific features unverified."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    },
+    {
+      "current_name": "Gaillardia amblyodon",
+      "sources": [
+        {
+          "reference": "Flora of North America, Gaillardia amblyodon species treatment",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066783",
+          "evidence_scope": "species and taxonomic caveat"
+        },
+        {
+          "reference": "Flora of North America, Gaillardia genus key",
+          "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=113131",
+          "evidence_scope": "contrast with related Gaillardia"
+        }
+      ],
+      "morphology": {
+        "habit": "Annual herb (requires full species account for species-specific stem dimensions)",
+        "rays": "Usually uniform dark red to purple, rarely yellow (FNA key)",
+        "disks": "Disk corolla lobes mostly ovate-deltate to lanceolate, 0.5–1 mm (FNA key)",
+        "fruits": "Dimorphic cypselae: outer longer than inner with shorter pappus scales, according to key",
+        "heads": "Gaillardia heads solitary and radiate/discoid depending on species; this taxon normally with conspicuous rays"
+      },
+      "issues": [
+        "FNA explicitly says G. amblyodon may not prove distinct from G. pulchella at species rank.",
+        "Preserve as distinct repository record but hold any final photo/identification approval pending evidence."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    },
+    {
+      "current_name": "Gymnosperma glutinosum",
+      "sources": [
+        {
+          "reference": "Flora of North America, Gymnosperma genus treatment",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114307",
+          "evidence_scope": "monotypic genus in FNA"
+        },
+        {
+          "reference": "Felger and Rutman, Ajo Peak to Tinajas Altas flora, Part 21 Asteraceae",
+          "url": "https://herbarium.arizona.edu/sites/herbarium.arizona.edu/files/2024-08/Part%2021.%20Asteraceae%20%E2%80%93%20Aster%20Family.pdf",
+          "evidence_scope": "regional species habitat and morphology"
+        }
+      ],
+      "morphology": {
+        "habit": "Taprooted strongly resinous shrub, FNA 50–150(–200) cm; southwest field flora often 0.6–1 m",
+        "stems": "New growth often visibly sticky from glandular/resinous exudate",
+        "leaves": "Small sessile aromatic resinous leaves, more detailed dimensions require full species treatment",
+        "heads": "Dense terminal corymbiform clusters of minute heads with very inconspicuous rays",
+        "fruit": "Cypselae with no pappus, a distinctive genus character"
+      },
+      "issues": [
+        "Monotypic genus makes FNA genus diagnosis relevant; still retain source scope explicitly.",
+        "Not evidence of target county nativity."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    },
+    {
+      "current_name": "Parthenium confertum",
+      "sources": [
+        {
+          "reference": "World Flora Online, Parthenium confertum species page (FNA morphology)",
+          "url": "https://www.worldfloraonline.org/taxon/wfo-0000002479",
+          "evidence_scope": "species description"
+        },
+        {
+          "reference": "Flora of North America, Parthenium confertum",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250067287",
+          "evidence_scope": "species description and genus key"
+        }
+      ],
+      "morphology": {
+        "habit": "Biennial, sometimes flowering first year or persisting; stems 10–30(–60+) cm",
+        "leaves": "Lobed to pinnately divided, undersides finely strigillose and often with longer erect hairs ~1–2 mm",
+        "heads": "Small disciform or only obscurely radiate heads in loose panicle-like branching arrays",
+        "flowers": "Minute pistillate rays and tubular disks; genus character, exact flower counts pending full species treatment"
+      },
+      "issues": [
+        "Do not borrow the deeply twice-pinnatifid leaf morphology from P. hysterophorus.",
+        "Fruit and phyllary measurements not established from visible source excerpts."
+      ],
+      "status": "modern_source_partial_or_genus_verified; detailed_species_measurements_and_local_nativeness_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Gaillardia amblyodon",
+      "reason": "Species status versus G. pulchella disputed in FNA."
+    },
+    {
+      "name": "Eriophyllum lanatum",
+      "reason": "Western complex with ten recognized varieties; county-level target eligibility unverified."
+    },
+    {
+      "name": "Ericameria nauseosa",
+      "reason": "Substantial variety-level morphology; do not transfer a single local variant to entire species."
+    }
+  ],
+  "publishing": "No species metadata, published galleries, or photographs changed. BONAP county review deferred."
+}
