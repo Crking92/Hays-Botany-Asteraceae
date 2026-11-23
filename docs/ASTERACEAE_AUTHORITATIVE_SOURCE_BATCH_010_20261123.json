@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "family": "Asteraceae",
+  "batch": "010",
+  "date": "2026-11-23",
+  "inventory_entries": 180,
+  "prior_extracted": 85,
+  "new_extracted": 11,
+  "cumulative_extracted": 96,
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "source_page_type": "printed flora pages",
+  "records": [
+    {
+      "current_name": "Iva annua",
+      "flora_name": 378,
+      "printed_page": "Iva annua L.",
+      "morphology": {
+        "habit": "Annual, 0.4–2 m tall",
+        "leaves": "Opposite or upper alternate (genus); ovate to lanceolate, 3–15 cm long by ~20–70 mm wide; serrate, 3-nerved, aromatic, reduced above",
+        "heads": "Small wind-pollinated heads, sessile in axils of linear to ovate bracts; 3–4 distinct phyllaries (key), involucre 4–5 mm broad",
+        "flowers": "Peripheral pistillate and central staminate, 1.5–2.5 mm corollas; no pappus",
+        "fruit": "Brown cypselae 2–4.5 mm",
+        "habitat": "Moist low ground, calcareous or sand; can form large stands",
+        "flowering": "Sep–Nov"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Contrast historical Iva angustifolia by free versus united phyllaries and broader versus narrower leaves."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Krigia cespitosa",
+      "flora_name": 380,
+      "printed_page": "Krigia cespitosa (Raf.) K.L.Chambers",
+      "morphology": {
+        "habit": "Annual with branched, leafy stems; milky latex (genus)",
+        "leaves": "Alternate, lower crowded, blades oblong or oblanceolate, entire/toothed/lobed",
+        "heads": "Small yellow all-ligulate heads, phyllaries 4–10, prominently keeled in age (key)",
+        "pappus": "Absent (species key), unlike reduced bristles/scales of K. wrightii",
+        "forms": "forma cespitosa: heads 3–6 mm, flowering involucres 3–4.3 mm, corollas 2–4 mm; forma gracilis: heads 6–9 mm, involucres 5.3–8.3 mm, corollas 5–10 mm",
+        "habitat": "Moist or disturbed sites, sandy or calcareous depending on historical form",
+        "flowering": "Mar–May"
+      },
+      "historical_synonyms": [
+        "Krigia oppositifolia Raf. (forma cespitosa)",
+        "Krigia gracilis (DC.) Shinners (forma gracilis)"
+      ],
+      "notes": [
+        "Forms intergrade and molecular data in 1999 flora did not separate them; avoid assigning from photographs without enough evidence."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Krigia occidentalis",
+      "flora_name": 380,
+      "printed_page": "Krigia occidentalis Nutt.",
+      "morphology": {
+        "habit": "Scapose annual 4–16 cm tall, flower stems usually leafless and unbranched",
+        "leaves": "Basal leaves, milky latex (genus)",
+        "heads": "Yellow ligulate flower heads; 4–7 phyllaries; corollas 3.5–3.8 mm",
+        "pappus": "Typically 5 short bristles 0.8–2 mm and 5 small scales",
+        "habitat": "Sandy open woods, fields, roadsides",
+        "flowering": "Mar–May"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Species distinct from leafy branched K. cespitosa; use both stem architecture and magnified pappus."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Lactuca ludoviciana",
+      "flora_name": 381,
+      "printed_page": "Lactuca ludoviciana (Nutt.) Riddell",
+      "morphology": {
+        "habit": "Biennial 1–2 m, thick root crown, milky to brownish latex (1999 key favors brownish)",
+        "leaves": "Alternate, pinnately lobed, upper increasingly triangular/clasping with prickly teeth; abaxial midrib sometimes prickly",
+        "heads": "All ligulate, typically yellow corollas (rare blue reported but not locally confirmed)",
+        "involucres": "13–22 mm in fruit (key)",
+        "fruit": "Flattened somewhat winged cypselae 4.5–5 mm body, 7–10 mm including fine beak; 1–3 nerves per face, pappus bristles 7–10 mm",
+        "habitat": "Often calcareous",
+        "flowering": "May–Jul"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Flora warns of possible intergradation with L. canadensis; fruit measurements more informative than leaves alone."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Lactuca serriola",
+      "flora_name": 381,
+      "printed_page": "Lactuca serriola L.",
+      "morphology": {
+        "habit": "Old-World introduced annual 0.5–2 m, taproot, white latex",
+        "leaves": "Alternate, often pinnatifid, clasping above, spiny-toothed margins and prickles on underside midrib",
+        "heads": "Narrow all-ligulate yellow heads; corollas dry bluish",
+        "fruit": "Cypselae 2.5–3 mm body, ca. 1 mm wide with 5–7 nerves per face; beak filiform 3–4 mm; pappus fine white hairs",
+        "habitat": "Disturbed areas",
+        "flowering": "Apr–Aug"
+      },
+      "historical_synonyms": [
+        "Lactuca scariola L. (orthographic usage)"
+      ],
+      "notes": [
+        "Do not apply local-native status: regional flora explicitly identifies Old World origin."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Liatris punctata",
+      "flora_name": 384,
+      "printed_page": "Liatris mucronata DC. (historical flora species concept; CURRENT NAME CROSSWALK NEEDS REVIEW)",
+      "morphology": {
+        "habit": "Perennial from swollen corm-like underground organ (genus); stems 0.3–0.8 m in flora's L. mucronata treatment",
+        "leaves": "Alternate, narrow nearly sessile, often resin-dotted (genus)",
+        "heads": "Crowded spike-like raceme 8–60 cm, 3–6 florets per head per key",
+        "involucres": "Inner phyllaries generally <12 mm, closely packed along axis",
+        "florets": "Purple discoid only; corollas 9–10 mm",
+        "pappus": "Conspicuously plumose, 6–7 mm, side hairs ~15× bristle thickness or more in genus key",
+        "habitat": "Calcareous upland soils",
+        "flowering": "(Jun–)Aug–Nov"
+      },
+      "historical_synonyms": [
+        "Liatris mucronata DC."
+      ],
+      "notes": [
+        "IMPORTANT: crosswalk supplied by existing species.json, not independently nomenclaturally approved; source treatment should not overwrite L. punctata until taxonomic concept checked."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Lindheimera texana",
+      "flora_name": 386,
+      "printed_page": "Lindheimera texana Engelm. & A.Gray",
+      "morphology": {
+        "habit": "Hispid taprooted annual 10–30(–65) cm",
+        "leaves": "Alternate/subopposite or uppermost opposite, oblanceolate to rhombic-ovate-lanceolate, entire/coarsely toothed, sessile/short-petiolate",
+        "heads": "Usually solitary or few in corymbs, peduncles 1–4 cm, involucres 10–15 mm high with two phyllary rows",
+        "phyllaries": "Outer narrower, longer and more pointed than inner",
+        "rays": "Usually five yellow/orange-yellow, pistillate fertile, 2-toothed ~10 mm ligules",
+        "discs": "Few disk florets, functionally infertile",
+        "fruit": "Relatively large flattened ray cypselae almost as large as inner phyllaries, pappus two awns",
+        "habitat": "Clayey prairie and roadsides, sometimes sandy",
+        "flowering": "Mar–May"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Fruit sets on RAY florets unlike Helianthus where disk florets fruit; useful composite-head comparison."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Lygodesmia texana",
+      "flora_name": 386,
+      "printed_page": "Lygodesmia texana (Torr. & A.Gray) Greene",
+      "morphology": {
+        "habit": "Low glabrous glaucous perennial from deep thick woody root; rhizomes increase with age, forming clumps; 20–65 cm",
+        "leaves": "Mostly basal, linear/lanceolate, usually deeply pinnately lobed, upper stems largely reduced to bracts",
+        "stems": "Openly and stiffly branched distally, milky latex",
+        "heads": "Large, subcylindric involucre 10–25 mm",
+        "florets": "All ligulate purple to lavender, rarely white, sweet-scented, open in morning",
+        "fruit": "Cypselae 13–17 mm, capillary pappus 10–15 mm",
+        "habitat": "Rocky calcareous limestone outcrops",
+        "flowering": "May–Sep"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Distinguish from radiate purple composites: every fertile floret is ligulate, not a distinct central disk."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Marshallia caespitosa",
+      "flora_name": 387,
+      "printed_page": "Marshallia caespitosa Nutt. ex DC.",
+      "morphology": {
+        "habit": "Small perennial, stems glabrous to finely pubescent above",
+        "leaves": "Sessile or basal petiolate, oblanceolate to linear 5–15 cm × up to 1(–1.5) cm, entire",
+        "heads": "Terminal 1–few heads 2.5–3.5 cm wide on long peduncles; no rays",
+        "phyllaries": "Narrow green leafy bracts gradually transitioning into receptacle scales",
+        "flowers": "Sweet-scented white or occasionally pinkish disk florets",
+        "pappus": "Five scales 2–3(–4) mm, about as long as mature cypsela",
+        "varieties": "var. caespitosa basal clustered leaves, heads typically solitary; var. signata stem leafy with heads solitary to several",
+        "habitat": "Clay prairie/limestone outcrops",
+        "flowering": "Apr–May"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Do not infer variety from species-level video/photos."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Melampodium leucanthum",
+      "flora_name": 388,
+      "printed_page": "Melampodium leucanthum Torr. & A.Gray",
+      "morphology": {
+        "habit": "Herbaceous to weakly subshrubby perennial 15–50 cm",
+        "leaves": "Opposite, linear to narrowly oblong 2–4.5 cm × up to 1 cm, sessile, entire to pinnately lobed",
+        "heads": "Solitary on 3–7 cm peduncles",
+        "phyllaries": "Outer series connate for more than half length, inner each surrounds a fertile ray cypsela and expands into a hood",
+        "rays": "8–13 white, fertile pistillate, ligules 7–13 mm",
+        "discs": "Yellow staminate florets with abortive ovaries",
+        "fruit": "Cypselae 1.5–2.5 mm, no pappus",
+        "habitat": "Calcareous soils",
+        "flowering": "Mar–Nov"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Disk florets are functionally staminate; don't portray the yellow disk as primary seed source."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    },
+    {
+      "current_name": "Mikania scandens",
+      "flora_name": 388,
+      "printed_page": "Mikania scandens (L.) Willd.",
+      "morphology": {
+        "habit": "Perennial twining vine",
+        "leaves": "Opposite petiolate, ovate or deltate, often acuminate and nearly entire/wavy",
+        "heads": "Corymbiform clusters of discoid heads with four equal pointed phyllaries, 4–5 mm",
+        "florets": "Exactly four whitish sometimes pink-tinged disk florets per head; rays absent",
+        "fruit": "5-ribbed cypselae, persistent bristle pappus",
+        "habitat": "Woodlands and moist low areas",
+        "flowering": "Aug–Nov"
+      },
+      "historical_synonyms": [],
+      "notes": [
+        "Flora notes this as only twining Asteraceae vine in its regional scope, not necessarily worldwide."
+      ],
+      "review_status": "regional_flora_extracted_secondary_taxonomic_QA_pending"
+    }
+  ],
+  "holds": [
+    {
+      "name": "Iva asperifolia var. angustifolia",
+      "note": "Existing repository synonym Iva angustifolia; historical flora p.378 treats I. angustifolia at species rank; verify accepted variety status and synonym concept before transfer."
+    },
+    {
+      "name": "Hymenopappus scabiosaeus",
+      "note": "Prior extraction covers only var. corymbosus. Do not treat species-wide infraspecific traits as a new distinct taxon without source check."
+    }
+  ]
+}
