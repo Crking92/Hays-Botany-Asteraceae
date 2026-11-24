@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_authoritative_species_character_review",
+  "review_date": "2026-11-24",
+  "inventory_name": "Acourtia runcinata (D.Don) B.L.Turner",
+  "inventory_path": "content/taxa/Asteraceae/Acourtia/acourtia-runcinata/species.json",
+  "source": {
+    "citation": "Beryl B. Simpson, Acourtia runcinata, Flora of North America vol. 19/20/21",
+    "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066007",
+    "text_mirror": "https://biorepo.neonscience.org/portal/taxa/index.php?clid=8716&taxauthid=1&tid=710"
+  },
+  "taxonomic_crosswalk": {
+    "accepted_name": "Acourtia runcinata",
+    "historical_name": "Perezia runcinata",
+    "reference": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:3499-2",
+    "status": "CORROBORATED"
+  },
+  "documented_morphology": {
+    "height_cm": "5–35",
+    "leaf_arrangement": "Basal",
+    "petiole_length_cm": "0.5–9",
+    "leaf_blade_length_cm": "2.5–23",
+    "leaf_margin": "Pinnately lobed and spinulose-dentate",
+    "flowerheads": "Solitary or 2–3 on scape-like stalks",
+    "involucre_height_mm": "14–17",
+    "phyllaries": "2–4 series, lanceolate to subulate, glandular-hairy edges, acuminate tips",
+    "florets_per_head": "25–53",
+    "corolla_length_mm": "12–22",
+    "cypsela_length_mm": "4–8",
+    "roots": "Unique fasciculate tuberous-fusiform roots within Acourtia in FNA"
+  },
+  "comparison_with_wrightii": {
+    "leaf_position": "A. runcinata basal leaves versus A. wrightii cauline sessile leaves",
+    "florets_per_head": "25–53 vs 8–12",
+    "head_involucre_height_mm": "14–17 vs 5–8",
+    "stem_habit": "Short rosette with scapiform peduncles versus taller branched leafy flowering stem"
+  },
+  "existing_record_qa": "Key distinctions already present in existing species.json; this record supplies explicit FNA citation and measurements, not a wholesale correction.",
+  "status": "SOURCE_BACKED_DIAGNOSTIC_COMPARISON_READY_FOR_TARGETED_INTEGRATION",
+  "pending": [
+    "Photographs have not been re-reviewed or relabeled",
+    "Source's distribution and phenology are not county-level nativity evidence"
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive research only; public site and existing images unchanged"
+}
