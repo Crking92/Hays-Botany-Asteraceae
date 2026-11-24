@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_authoritative_species_character_review",
+  "review_date": "2026-11-24",
+  "inventory_name": "Acourtia wrightii (A.Gray) Reveal & R.M.King",
+  "inventory_path": "content/taxa/Asteraceae/Acourtia/acourtia-wrightii/species.json",
+  "source": {
+    "citation": "Beryl B. Simpson, Acourtia wrightii, Flora of North America vol. 19/20/21",
+    "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066009",
+    "text_mirror": "https://biorepo.neonscience.org/portal/taxa/index.php?clid=8716&taxauthid=1&tid=712"
+  },
+  "historical_synonym": "Perezia wrightii A.Gray",
+  "documented_morphology": {
+    "height_cm": "30–120",
+    "leaf_position": "Cauline, sessile",
+    "leaf_shape": "Oblong-lanceolate to elliptic-oblong, 2.5–13 cm",
+    "leaf_base": "Sagittate or clasping",
+    "leaf_margin": "Dentate to denticulate",
+    "head_arrangement": "Corymbiform arrays",
+    "involucre_height_mm": "5–8",
+    "phyllaries": "2–3 series, linear to lanceolate, apex obtuse to acute",
+    "florets_per_head": "8–12",
+    "corolla_length_mm": "9–20",
+    "cypsela_length_mm": "2–6",
+    "pappus_mm": "9–12, bright white"
+  },
+  "comparison_with_runcinata": "A. wrightii has cauline leaves and smaller many-clustered heads, typically 8–12 florets; A. runcinata has basal pinnately lobed leaves and 25–53 florets in solitary or few heads.",
+  "existing_record_qa": "Existing species.json already describes distinct leaf arrangement and head count; no duplicate re-extraction needed beyond this cited FNA comparison.",
+  "status": "SOURCE_BACKED_DIAGNOSTIC_COMPARISON_READY_FOR_TARGETED_INTEGRATION",
+  "pending": [
+    "Do not infer species identity or license for existing images from textual source evidence",
+    "County range review deferred"
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive only; no species.json or gallery edits"
+}
